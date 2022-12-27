@@ -1,9 +1,9 @@
 translate schinese strings:
 
-    #备忘页
+    #备忘录页
 
     old "Quests"
-    new "备忘"
+    new "备忘录"
 
     old "Active Quests:"
     new "正在进行："
@@ -38,7 +38,18 @@ translate schinese strings:
     new "报酬：[selected_task.reward!t]"
 
     old "Completed: [selected_task.completedtimes]"
-    new "完成时间：[selected_task.completedtimes]"
+    new "完成次数：[selected_task.completedtimes]"
+
+    #标本页
+
+    old "Trinkets"
+    new "标本"
+
+    old "Discovered Trinkets:"
+    new "已发现植物："
+
+    old "Description: [selected_trinket.description!t]"
+    new "说明：[selected_trinket.description!t]"
 
     #技能页
 

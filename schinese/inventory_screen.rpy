@@ -1,7 +1,7 @@
 translate schinese strings:
 
     old "Damage: [pc.damage]"
-    new "伤害 [pc.damage]"
+    new "攻击 [pc.damage]"
 
     old "Defense: [pc.defense]"
     new "防御 [pc.defense]"
@@ -66,17 +66,17 @@ translate schinese strings:
     old "Lust: [pc.lust]/[pc.max_lust]"
     new "性欲 [pc.lust]/[pc.max_lust]"
 
-    #old "Trinket"
-    #new "Trinket"
+    old "Trinket"
+    new "标本"
 
     old "Strength (STR) determines [e]'s physical power, including Attack Damage, and small amount of HP and Defense."
-    new "力量值（STR）决定了[e]身体运动的劲度，主要影响物理伤害，少许影响血量和防御。"
+    new "力量值（STR）决定了[e]身体运动的劲度，主要影响物理攻击伤害，少许影响血量和防御。"
 
     old "Agility (AGI) determines [e]'s speed, including Hit Rate, Critical Damage, Critical Chance and Dodge Chance."
     new "敏捷值（AGI）决定了[e]行动的速度，主要影响命中率、暴击系数、暴击率和闪避率。"
 
     old "Intelligence (INT) determines [e]'s wisdom and spell abilities, including spell effectiveness, MP and Lust Resistance."
-    new "智慧值（INT）决定了[e]的智商和法术施展能力，主要影响法术伤害、魔力和诱惑抗性。"
+    new "智慧值（INT）决定了[e]的智商和法术施展能力，主要影响法术攻击伤害、魔力和诱惑抗性。"
 
     old "Tenacity (TEN) determines [e]'s endurance, including Defense and Lust Resistance."
     new "坚韧值（TEN）决定了[e]身体和精神的抗击打能力，主要影响防御和诱惑抗性。"

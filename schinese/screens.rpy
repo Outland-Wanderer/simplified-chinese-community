@@ -230,3 +230,6 @@
 
     old "Language"
     new "语言"
+
+    old "Gallery"
+    new "画廊"

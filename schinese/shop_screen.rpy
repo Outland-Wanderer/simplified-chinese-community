@@ -1,7 +1,7 @@
 ﻿translate schinese strings:
 
-    #old "Sebas' Shop"
-    #new "Sebas' Shop"
+    old "Sebas' Shop"
+    new "塞巴斯小卖店"
 
     old "Sell Value: [selected_shopItem.value]"
     new "出售价格：[selected_shopItem.value]"
