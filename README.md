@@ -20,7 +20,7 @@
 
 
 
-## 协作及翻译研究资料
+## 协作共识及研究资料
 
 详见 [CONTRIBUTING.md](CONTRIBUTING.md)
 
@@ -28,6 +28,6 @@
 
 ## 字体使用
 
-[方正楷体](https://www.foundertype.com/index.php/FontInfo/index/id/137)
+[文鼎ＰＬ简中楷](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
 
 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)

@@ -34,8 +34,8 @@
 
     葡萄牙语翻译： Fábio.T  {a=https://twitter.com/SannomTigris}Twitter{/a}
 
-    汉语（中国）翻译： 逆戟鲸COPtimer  {a=https://twitter.com/COPtimer_1974}Twitter{/a}
+    简体中文翻译： 逆戟鲸COPtimer  {a=https://twitter.com/COPtimer_1974}Twitter{/a}
 
-    使用字体: Adobe Garamond Pro、Adobe Chaparral Pro、方正楷体、霞鹜文楷
+    使用字体： Adobe Garamond Pro、Adobe Chaparral Pro、文鼎ＰＬ简中楷、霞鹜文楷
 
     """)
