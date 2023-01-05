@@ -284,10 +284,10 @@ translate schinese strings:
     #物品-关键
 
     old "Storage Room Key"
-    new "储藏室钥匙"
+    new "储物室钥匙"
 
     old "The key to the storage room in King's Pawn. Sebas gave it to me as my bedroom key."
-    new "君临典当储藏室的钥匙，塞巴斯专门把那里腾出来给我当卧室。"
+    new "君临典当储物室的钥匙，塞巴斯专门把那里腾出来给我当卧室。"
 
     old "Mossy Artifact"
     new "长满苔藓的造物"
@@ -797,7 +797,7 @@ translate schinese strings:
     #备忘录
 
     old "Ole's Postal Training"
-    new "奥利的跑腿特训"
+    new "奥利的邮递员特训"
 
     old "Ole urges me to complete the training from Sebas, Lothar and Rahim in order to prepare for my adventure."
     new "奥利敦促我分别去找塞巴斯、洛萨尔和雷希姆完成邮递员新人培训，为我的冒险之旅做足准备。"
@@ -887,7 +887,7 @@ translate schinese strings:
     new "奥利生病了，我得赶紧问问哈斯克尔要怎么办，并收集一些药草帮忙照顾他……"
 
     old "Courier Training...?"
-    new "新跑腿特训……？"
+    new "新邮递员特训……？"
 
     old "Ole and Sebas asked me to... pick up some stone? I should return once I get enough of them. Whatever the number is..."
     new "奥利和塞巴斯又让我去捡些……石头？管他要多少个，我尽管拿回来就是了……"

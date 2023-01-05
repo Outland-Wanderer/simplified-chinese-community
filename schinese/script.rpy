@@ -487,7 +487,7 @@ translate schinese start_e1554201:
 translate schinese start_5969db2d:
 
     # s "So..., what's your name, buddy."
-    s "话说回来……老弟，你叫什么名字？"
+    s "话说回来……哥们，你叫什么名字？"
 
 #起名-冲突
 
@@ -733,7 +733,7 @@ translate schinese name_done_b852b783:
 translate schinese name_done_92a095cf:
 
     # e "o-ok."
-    e "好，好。"
+    e "嗯，嗯。"
 
 translate schinese name_done_bb44ef80:
 
@@ -1080,7 +1080,7 @@ translate schinese name_done_ed2854cc:
 translate schinese name_done_517cd383:
 
     # s "Looking good, buddy."
-    s "太棒啦老弟。"
+    s "太棒啦哥们。"
 
 translate schinese name_done_130561d4:
 
@@ -1096,11 +1096,11 @@ translate schinese name_done_c89772ef:
 
     # e "Thank you to you too! Sebas."
     e "也谢谢你！塞巴斯。"
-
+# TODO
 translate schinese name_done_16a11ef8:
 
     # "You can almost hear Sebas rumbling under his breath, it doesn't sound like something you'd appreciate."
-    "（待审）你听到塞巴斯轻轻哼着什么，不过并不怎么好听。"
+    "你听到塞巴斯轻轻哼着什么，不过并不怎么好听。"
 
 translate schinese name_done_397b9049:
 
@@ -1511,7 +1511,7 @@ translate schinese name_done_e4c0ee62:
 translate schinese name_done_fc40231b:
 
     # r "Courier? Didn't that fox courier from the town disappeared last week?"
-    r "新邮差？你们原来的快递员，那只镇上来的狐狸不是上星期才失踪了吗？"
+    r "新邮差？你们原来的邮递员，那只镇上来的狐狸不是上星期才失踪了吗？"
 
 translate schinese name_done_e7472d3f:
 
@@ -1786,7 +1786,7 @@ translate schinese bedroom_beginning_ca03823d:
 translate schinese after_load_0be072f2:
 
     # "Hey there! If you're playing with old save on v0.0.10 or later, remember to take off your equipment(!) before using your next level point, that way it'll now accurately calculate your character stat."
-    "注意！如果你加载的是 0.0.10 以及之前版本游戏的存档，记得加属性点之前先脱光你的装备，这样游戏才能正确计算加点后的属性值。"
+    "注意！如果你载入的是 0.0.10 以及之前版本游戏的存档，记得加属性点之前先脱光你的装备，这样游戏才能正确计算加点后的属性值。"
 
 #选择
 
@@ -1861,12 +1861,6 @@ translate schinese strings:
 
     old "Lothar"
     new "洛萨尔"
-
-    old "Cone"
-    new "科恩"
-
-    old "Cane"
-    new "凯恩"
 
     old "Tenki"
     new "坦奇"

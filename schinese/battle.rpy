@@ -74,9 +74,9 @@ translate schinese strings:
 
     old "Have fun with the huntsman"
     new "及时行乐"
-
-    old "Leave him alone"
-    new "放他一马"
+#TODO
+    # old "Leave him alone"
+    # new "放他一马"
 
     old "Do you wish to replay the lose Scene?"
     new "你想重放战败情景吗？"
@@ -95,10 +95,3 @@ translate schinese strings:
 
     old "Back to Main Menu"
     new "返回标题界面"
-
-
-
-
-
-
-
