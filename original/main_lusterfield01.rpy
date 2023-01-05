@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-28 20:49
+﻿# TODO: Translation updated at 2023-01-01 22:36
 
 # game/main_lusterfield01.rpy:30
 translate schinese main_bedroom_23ae28c4:
@@ -12654,20 +12654,8 @@ translate schinese strings:
     old "Pleasure yourself"
     new ""
 
-    # game/main_lusterfield01.rpy:12
-    old "Leave"
-    new ""
-
-    # game/main_lusterfield01.rpy:618
-    old "Ask how he is doing"
-    new ""
-
     # game/main_lusterfield01.rpy:618
     old "Ask about his betting"
-    new ""
-
-    # game/main_lusterfield01.rpy:618
-    old "That's all for now"
     new ""
 
     # game/main_lusterfield01.rpy:638
@@ -12687,15 +12675,7 @@ translate schinese strings:
     new ""
 
     # game/main_lusterfield01.rpy:638
-    old "Ask about after Ole's sickness"
-    new ""
-
-    # game/main_lusterfield01.rpy:638
     old "Ask about the time under the counter"
-    new ""
-
-    # game/main_lusterfield01.rpy:638
-    old "Ask about your outfit"
     new ""
 
     # game/main_lusterfield01.rpy:638
@@ -12707,19 +12687,11 @@ translate schinese strings:
     new ""
 
     # game/main_lusterfield01.rpy:638
-    old "Ask about Lusterfield"
-    new ""
-
-    # game/main_lusterfield01.rpy:638
     old "Ask about the shop"
     new ""
 
     # game/main_lusterfield01.rpy:754
     old "'Bet' with drunk Sebas"
-    new ""
-
-    # game/main_lusterfield01.rpy:754
-    old "Leave him alone"
     new ""
 
     # game/main_lusterfield01.rpy:839
@@ -12796,10 +12768,6 @@ translate schinese strings:
 
     # game/main_lusterfield01.rpy:2441
     old "Accept the task"
-    new ""
-
-    # game/main_lusterfield01.rpy:2441
-    old "Maybe Later"
     new ""
 
     # game/main_lusterfield01.rpy:2597

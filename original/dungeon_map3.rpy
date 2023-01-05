@@ -1,216 +1,216 @@
-﻿# TODO: Translation updated at 2022-12-20 00:33
+﻿# TODO: Translation updated at 2023-01-01 22:36
 
 # game/dungeon_map3.rpy:218
-translate chinese Dark_Forest1_Loop_ccfae3fd:
+translate schinese Dark_Forest1_Loop_ccfae3fd:
 
     # "The fire is still burning bright. Meat and random beer scattered around the area."
     ""
 
 # game/dungeon_map3.rpy:220
-translate chinese Dark_Forest1_Loop_8bb08a26:
+translate schinese Dark_Forest1_Loop_8bb08a26:
 
     # "Seems like you're stepping into the werewolves' turf."
     ""
 
 # game/dungeon_map3.rpy:228
-translate chinese Dark_Forest1_Loop_3863d3b3:
+translate schinese Dark_Forest1_Loop_3863d3b3:
 
     # "You notice a chest near the campsite, it seems to belong to the werewolves."
     ""
 
 # game/dungeon_map3.rpy:232
-translate chinese Dark_Forest1_Loop_cf3dddf2:
+translate schinese Dark_Forest1_Loop_cf3dddf2:
 
     # "But you hear a werewolf... snoring near the chest..."
     ""
 
 # game/dungeon_map3.rpy:234
-translate chinese Dark_Forest1_Loop_2dbfa9ea:
+translate schinese Dark_Forest1_Loop_2dbfa9ea:
 
     # ww "Haaa... ARFFF... I- Bones...!"
     ww ""
 
 # game/dungeon_map3.rpy:236
-translate chinese Dark_Forest1_Loop_3f11f411:
+translate schinese Dark_Forest1_Loop_3f11f411:
 
     # "It seems dangerous to get the chest content without waking the werewolf up."
     ""
 
 # game/dungeon_map3.rpy:238
-translate chinese Dark_Forest1_Loop_f1a38a10:
+translate schinese Dark_Forest1_Loop_f1a38a10:
 
     # "Unless you're stealthy enough... or you have a decent amount of {color=#d1e431}Agility{/color}."
     ""
 
 # game/dungeon_map3.rpy:240
-translate chinese Dark_Forest1_Loop_9c9f352e:
+translate schinese Dark_Forest1_Loop_9c9f352e:
 
     # "Plus, you're so close to the werewolf... you might be in danger if you get caught..."
     ""
 
 # game/dungeon_map3.rpy:252
-translate chinese Dark_Forest1_Loop_bc9b7189:
+translate schinese Dark_Forest1_Loop_bc9b7189:
 
     # "You successfully opened the chest without the werewolf's notice."
     ""
 
 # game/dungeon_map3.rpy:260
-translate chinese Dark_Forest1_Loop_7ef359b1:
+translate schinese Dark_Forest1_Loop_7ef359b1:
 
     # "You found a Green Ointment, a Hunter Hat and 50 gold."
     ""
 
 # game/dungeon_map3.rpy:266
-translate chinese Dark_Forest1_Loop_adc27b27:
+translate schinese Dark_Forest1_Loop_adc27b27:
 
     # "As you are trying to open the chest, the werewolf on your side becomes startled by your movement."
     ""
 
 # game/dungeon_map3.rpy:283
-translate chinese Dark_Forest1_Loop_59cb7a31:
+translate schinese Dark_Forest1_Loop_59cb7a31:
 
     # "You poke the sleeping werewolf on his snout, he instantly jumps like getting electrocuted."
     ""
 
 # game/dungeon_map3.rpy:289
-translate chinese Dark_Forest1_Loop_8f64f985:
+translate schinese Dark_Forest1_Loop_8f64f985:
 
     # ww "Uhm... bones... meat... prey... ahhh... so good. mhmmm..."
     ww ""
 
 # game/dungeon_map3.rpy:291
-translate chinese Dark_Forest1_Loop_9f026f68:
+translate schinese Dark_Forest1_Loop_9f026f68:
 
     # ww "I want them all... aAWWOOOO...."
     ww ""
 
 # game/dungeon_map3.rpy:293
-translate chinese Dark_Forest1_Loop_bb74cfdf:
+translate schinese Dark_Forest1_Loop_bb74cfdf:
 
     # "For a sleeptalker, this werewolf surely sleeps a lot... and talks a lot."
     ""
 
 # game/dungeon_map3.rpy:308
-translate chinese Dark_Forest1_Loop_c6ba894c:
+translate schinese Dark_Forest1_Loop_c6ba894c:
 
     # "You follow the path back to the entrance."
     ""
 
 # game/dungeon_map3.rpy:344
-translate chinese Dark_Forest1_Loop_01d68d04:
+translate schinese Dark_Forest1_Loop_01d68d04:
 
     # "You leave the forest through the dirt path."
     ""
 
 # game/dungeon_map3.rpy:346
-translate chinese Dark_Forest1_Loop_df2a1d92:
+translate schinese Dark_Forest1_Loop_df2a1d92:
 
     # "After a few minutes of walking, you discover a cave shaped as wolf in front of you."
     ""
 
 # game/dungeon_map3.rpy:348
-translate chinese Dark_Forest1_Loop_40df3c2b:
+translate schinese Dark_Forest1_Loop_40df3c2b:
 
     # "It must be the werewolf den..."
     ""
 
 # game/dungeon_map3.rpy:396
-translate chinese Dark_Forest1_Loop_83b31964:
+translate schinese Dark_Forest1_Loop_83b31964:
 
     # "You reach to the wooden door. It seems to be sealed from the other side."
     ""
 
 # game/dungeon_map3.rpy:398
-translate chinese Dark_Forest1_Loop_ecfae962:
+translate schinese Dark_Forest1_Loop_ecfae962:
 
     # "There's a symbol of wolf carved on the door, with the sign saying... 'no- enter. wolf inside'"
     ""
 
 # game/dungeon_map3.rpy:400
-translate chinese Dark_Forest1_Loop_8b416141:
+translate schinese Dark_Forest1_Loop_8b416141:
 
     # "There must be some way for you to unlock the door."
     ""
 
 # game/dungeon_map3.rpy:406
-translate chinese Dark_Forest1_Loop_5ca83b3f:
+translate schinese Dark_Forest1_Loop_5ca83b3f:
 
     # "CLICK. You hear a crisp noise before the door is suddenly unlocked."
     ""
 
 # game/dungeon_map3.rpy:471
-translate chinese Dark_Forest1_Sleeping_Wolf_7233edaf:
+translate schinese Dark_Forest1_Sleeping_Wolf_7233edaf:
 
     # ww "Uhm... W-what?"
     ww ""
 
 # game/dungeon_map3.rpy:473
-translate chinese Dark_Forest1_Sleeping_Wolf_277473e6:
+translate schinese Dark_Forest1_Sleeping_Wolf_277473e6:
 
     # "The werewolf looks at you in confusion, still trying to figure out if this is his dream or not."
     ""
 
 # game/dungeon_map3.rpy:481
-translate chinese Dark_Forest1_Sleeping_Wolf_fe7a3313:
+translate schinese Dark_Forest1_Sleeping_Wolf_fe7a3313:
 
     # ww "W-what? I'm obviously awake... Do you think I'm that dumb..."
     ww ""
 
 # game/dungeon_map3.rpy:485
-translate chinese Dark_Forest1_Sleeping_Wolf_c0c9f0b1:
+translate schinese Dark_Forest1_Sleeping_Wolf_c0c9f0b1:
 
     # ww "uhmm... a breakfast just in time...."
     ww ""
 
 # game/dungeon_map3.rpy:487
-translate chinese Dark_Forest1_Sleeping_Wolf_c193bc27:
+translate schinese Dark_Forest1_Sleeping_Wolf_c193bc27:
 
     # ww "Come here... little prey."
     ww ""
 
 # game/dungeon_map3.rpy:503
-translate chinese Dark_Forest1_Werewolf_7b7a5e55:
+translate schinese Dark_Forest1_Werewolf_7b7a5e55:
 
     # "As you walk through the forest, you encountered a werewolf."
     ""
 
 # game/dungeon_map3.rpy:505
-translate chinese Dark_Forest1_Werewolf_aa740c79:
+translate schinese Dark_Forest1_Werewolf_aa740c79:
 
     # "Immediately, you begin to run towards the opposite direction, but soon a dark figure comes into your view."
     ""
 
 # game/dungeon_map3.rpy:507
-translate chinese Dark_Forest1_Werewolf_f7dd4053:
+translate schinese Dark_Forest1_Werewolf_f7dd4053:
 
     # e "Fuck..."
     e ""
 
 # game/dungeon_map3.rpy:519
-translate chinese Dark_Forest1_Mimic_1c02c8e5:
+translate schinese Dark_Forest1_Mimic_1c02c8e5:
 
     # "You run into a chest in the forest, you walk towards it, trying to open the chest."
     ""
 
 # game/dungeon_map3.rpy:521
-translate chinese Dark_Forest1_Mimic_e4a118d9:
+translate schinese Dark_Forest1_Mimic_e4a118d9:
 
     # "Suddenly the chest jumps right into your face, it's not a chest, it is a mimic."
     ""
 
 # game/dungeon_map3.rpy:523
-translate chinese Dark_Forest1_Mimic_384c5823:
+translate schinese Dark_Forest1_Mimic_384c5823:
 
     # "Mimic" "RAWAWWWR-"
     "Mimic" ""
 
 # game/dungeon_map3.rpy:525
-translate chinese Dark_Forest1_Mimic_68fd897f:
+translate schinese Dark_Forest1_Mimic_68fd897f:
 
     # "You scream, its tongue is slithering out, trying to latch on you..."
     ""
 
-translate chinese strings:
+translate schinese strings:
 
     # game/dungeon_map3.rpy:242
     old "Do you open the chest?"

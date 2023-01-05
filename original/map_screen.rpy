@@ -1,6 +1,6 @@
-﻿# TODO: Translation updated at 2022-12-20 00:33
+﻿# TODO: Translation updated at 2023-01-01 22:36
 
-translate chinese strings:
+translate schinese strings:
 
     # game/map_screen.rpy:152
     old "Collectable materials:"

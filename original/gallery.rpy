@@ -1,6 +1,6 @@
-﻿# TODO: Translation updated at 2022-12-20 13:56
+﻿# TODO: Translation updated at 2023-01-01 22:36
 
-translate chinese strings:
+translate schinese strings:
 
     # game/gallery.rpy:21
     old "{color=#000}Losing in Slime Battle{/color}"
