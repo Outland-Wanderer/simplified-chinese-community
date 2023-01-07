@@ -35,7 +35,7 @@ translate schinese strings:
     new "小补血剂"
 
     old "An HP Potion that recovers 40 HP."
-    new "喝下可以恢复 40 点血量。"
+    new "喝下可以恢复 40 点体力。"
 
     old "Small MP Potion"
     new "小补魔剂"
@@ -47,7 +47,7 @@ translate schinese strings:
     new "红莓"
 
     old "A red berry I collected from the forest area, it can recover 10 HP."
-    new "我从森林里摘的红色浆果，吃下可以恢复 10 点血量。"
+    new "我从森林里摘的红色浆果，吃下可以恢复 10 点体力。"
 
     old "Blue Berry"
     new "蓝莓"
@@ -71,19 +71,19 @@ translate schinese strings:
     new "绿色药膏"
 
     old "An Ointment with recipe created by Ole, it can recover 80 HP and MP each, reduces 30 Lust, and cleanse all negative effect during battle."
-    new "由奥利制作的药膏，敷上可以恢复 80 点血量和 80 点魔力，还可以消减 30 点性欲并消除所有负面状态。"
+    new "由奥利制作的药膏，敷上可以恢复 80 点体力和 80 点魔力，还可以消减 30 点性欲并消除所有负面状态。"
 
     old "Beer"
     new "淡啤酒"
 
     old "The Famous Beer from Nocturnal Trunk, it recovers 15 HP, but increases Lust by 20 as well."
-    new "夜夜椿的有名特产，喝下可以恢复 15 点血量，但会增加 20 点性欲。"
+    new "夜夜椿的有名特产，喝下可以恢复 15 点体力，但会增加 20 点性欲。"
 
     old "Ale"
     new "黑啤酒"
 
     old "The new addition of beer in Nocturnal Trunk, it recoveres 40 HP and 40 MP, but increases Lust by 20 as well."
-    new "夜夜椿的当红新品，喝下可以恢复 40 点血量和 40 点魔力，但会增加 20 点性欲。"
+    new "夜夜椿的当红新品，喝下可以恢复 40 点体力和 40 点魔力，但会增加 20 点性欲。"
 
     #物品-武器
 
@@ -115,7 +115,7 @@ translate schinese strings:
     new "铁镰"
 
     old "A scythe best used for harvesting barley and wheat in the field.{p} Attack: +8 {p} Max HP: +15"
-    new "下田时最适合用来收割大麦和小麦的农具。{p}攻击 +8{p}最大血量 +15"
+    new "下田时最适合用来收割大麦和小麦的农具。{p}攻击 +8{p}最大体力 +15"
 
     old "Knight Longsword"
     new "骑士长剑"
@@ -267,13 +267,13 @@ translate schinese strings:
     new "骑士大腿甲"
 
     old "A knight's Cuisses customized by the town's oldest blacksmith, it happens to fit you perfectly. {p} Defense: +10 {p} Max HP: +20 {p} Flirt -6"
-    new "由城镇资历最老的铁匠为某位骑士量身定制的下身护甲，但其设计却恰好也适合你的身形。{p}防御 +10{p}最大血量 +20{p}诱惑 -6"
+    new "由城镇资历最老的铁匠为某位骑士量身定制的下身护甲，但其设计却恰好也适合你的身形。{p}防御 +10{p}最大体力 +20{p}诱惑 -6"
 
     old "Sweater"
     new "毛衣"
 
     old "The best type of clothing you can wear in winter, keeping wearer warm and fuzzy.{p} Defense: +8 {p} Max HP: +15 {p} Flirt: -4"
-    new "冬天来临时穿着它最舒服了，毛茸茸的很温暖。{p}防御 +8{p}最大血量 +15{p}诱惑 -4"
+    new "冬天来临时穿着它最舒服了，毛茸茸的很温暖。{p}防御 +8{p}最大体力 +15{p}诱惑 -4"
 
     old "Flat Bonnet"
     new "无边帽"
@@ -409,7 +409,7 @@ translate schinese strings:
     new "巴格怪镇静剂"
 
     old "A sedative for buggbears only. Used when the target has lower than 50% health, or higher than 50% lust. Target will quickly fall asleep and produce extra saliva."
-    new "对巴格怪有极强的麻醉作用，并能刺激其产生更多唾液。仅能施用于血量低于 50% 或者性欲高于 50% 的巴格怪。"
+    new "对巴格怪有极强的麻醉作用，并能刺激其产生更多唾液。仅能施用于体力低于 50% 或者性欲高于 50% 的巴格怪。"
 
     old "Herb of Grace"
     new "芸香"
@@ -820,169 +820,169 @@ translate schinese strings:
     old "Lothar took me to the alleyway to practice battles with his dummy, I need to defeat the dummy."
     new "洛萨尔领我去和他巷子里的人偶对战当作训练，我得打败这个人偶。"
 
-    old "A Rolling Stone"
-    new "翻滚的石头"
+    # old "A Rolling Stone"
+    # new "翻滚的石头"
 
-    old "Lothar found a stone in his recent adventure, he asked me to help him take it to Sebas to fetch a good price."
-    new "洛萨尔在探险途中发现了一块石头，让我帮忙卖给塞巴斯，最好能卖个好价钱。"
+    # old "Lothar found a stone in his recent adventure, he asked me to help him take it to Sebas to fetch a good price."
+    # new "洛萨尔在探险途中发现了一块石头，让我帮忙卖给塞巴斯，最好能卖个好价钱。"
 
-    old "Truce"
-    new "休战"
+    # old "Truce"
+    # new "休战"
 
-    old "Furkan asked me to deliver a letter to Rahim as a signal of peace. I need to tell him about Rahim's Response."
-    new "弗坎让我把一封议和信送给雷希姆。我得告诉他雷希姆的回应。"
+    # old "Furkan asked me to deliver a letter to Rahim as a signal of peace. I need to tell him about Rahim's Response."
+    # new "弗坎让我把一封议和信送给雷希姆。我得告诉他雷希姆的回应。"
 
-    old "The Second Finest Lad"
-    new "世界第二棒小伙"
+    # old "The Second Finest Lad"
+    # new "世界第二棒小伙"
 
-    old "Cane's cherished apron was punctured, he asked me to take the apron to Rahim and see if he can fix the apron."
-    new "凯恩珍爱的围裙破了个洞，他让我拿去给雷希姆看看能不能补好。"
+    # old "Cane's cherished apron was punctured, he asked me to take the apron to Rahim and see if he can fix the apron."
+    # new "凯恩珍爱的围裙破了个洞，他让我拿去给雷希姆看看能不能补好。"
 
-    old "Mutual Apothecary Arrangement"
-    new "药剂师的双边协定"
+    # old "Mutual Apothecary Arrangement"
+    # new "药剂师的双边协定"
 
-    old "As my courier job, Ole told me about helping him get potion from an old friend."
-    new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为邮递员的本职工作。"
+    # old "As my courier job, Ole told me about helping him get potion from an old friend."
+    # new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为邮递员的本职工作。"
 
-    old "New Outfit"
-    new "新装备"
+    # old "New Outfit"
+    # new "新装备"
 
-    old "Rahim is testing his new clothing design, he needs someone to become his model."
-    new "雷希姆设计了几套新衣服，需要有人当模特试穿。"
+    # old "Rahim is testing his new clothing design, he needs someone to become his model."
+    # new "雷希姆设计了几套新衣服，需要有人当模特试穿。"
 
-    old "Suspicious Activity"
-    new "可疑的动向"
+    # old "Suspicious Activity"
+    # new "可疑的动向"
 
-    old "Lothar wanted me to get inside the Goat Tribe for information, I need to decide whether I should follow his plan."
-    new "洛萨尔想让我进到山羊部落刺探情况，我得决定要不要加入他的计划。"
+    # old "Lothar wanted me to get inside the Goat Tribe for information, I need to decide whether I should follow his plan."
+    # new "洛萨尔想让我进到山羊部落刺探情况，我得决定要不要加入他的计划。"
 
-    old "Guardian"
-    new "守护者"
+    # old "Guardian"
+    # new "守护者"
 
-    old "Kari asked me to help save Furkan. He told me the chief went to the Damp Cave for the lost guardian."
-    new "卡里恳求我救出弗坎。他说弗坎为了找回失踪的守护者独自前往了潮湿山洞。"
+    # old "Kari asked me to help save Furkan. He told me the chief went to the Damp Cave for the lost guardian."
+    # new "卡里恳求我救出弗坎。他说弗坎为了找回失踪的守护者独自前往了潮湿山洞。"
 
-    old "Advanced Battle Practice"
-    new "高级作战教学"
+    # old "Advanced Battle Practice"
+    # new "高级作战教学"
 
-    old "In order to train with Lothar, I need to fight against the strong dummy."
-    new "要想洛萨尔亲自教导我，就得先打败强化过的人偶。"
+    # old "In order to train with Lothar, I need to fight against the strong dummy."
+    # new "要想洛萨尔亲自教导我，就得先打败强化过的人偶。"
 
-    old "Logger and Scout"
-    new "木匠与侦察员"
+    # old "Logger and Scout"
+    # new "伐木工与侦察员"
 
-    old "Lothar has given me another set of training to prove myself. I have to learn from the work of Amble and Jog."
-    new "洛萨尔又让我去找别人训练来证明我自己。我得向安布和乔格请教他们的工作。"
+    # old "Lothar has given me another set of training to prove myself. I have to learn from the work of Amble and Jog."
+    # new "洛萨尔又让我去找别人训练来证明我自己。我得向安布和乔格请教他们的工作。"
 
-    old "The Minotaur Riddle"
-    new "弥诺陶洛斯之谜"
+    # old "The Minotaur Riddle"
+    # new "弥诺陶洛斯之谜"
 
-    old "As a client's request, Haskell wanted me to explore the underground dungeon to extract a minotaur's essence."
-    new "哈斯克尔应客户请托，想让我探索地下宫殿并取得一份弥诺陶洛斯的精华。"
+    # old "As a client's request, Haskell wanted me to explore the underground dungeon to extract a minotaur's essence."
+    # new "哈斯克尔应客户请托，想让我探索地下宫殿并取得一份弥诺陶洛斯的精华。"
 
-    old "Sick Leave"
-    new "病假"
+    # old "Sick Leave"
+    # new "病假"
 
-    old "Ole has gotten sick, I need to ask Haskell and gather some materials to tend to his illness..."
-    new "奥利生病了，我得赶紧问问哈斯克尔要怎么办，并收集一些药草帮忙照顾他……"
+    # old "Ole has gotten sick, I need to ask Haskell and gather some materials to tend to his illness..."
+    # new "奥利生病了，我得赶紧问问哈斯克尔要怎么办，并收集一些药草帮忙照顾他……"
 
-    old "Courier Training...?"
-    new "新邮递员特训……？"
+    # old "Courier Training...?"
+    # new "新邮递员特训……？"
 
-    old "Ole and Sebas asked me to... pick up some stone? I should return once I get enough of them. Whatever the number is..."
-    new "奥利和塞巴斯又让我去捡些……石头？管他要多少个，我尽管拿回来就是了……"
+    # old "Ole and Sebas asked me to... pick up some stone? I should return once I get enough of them. Whatever the number is..."
+    # new "奥利和塞巴斯又让我去捡些……石头？管他要多少个，我尽管拿回来就是了……"
 
-    old "Strength and Disguise"
-    new "劲与蔽"
+    # old "Strength and Disguise"
+    # new "劲与蔽"
 
-    old "Ole told me to train with Amble and Jog, I might need to ask Lothar first about this..."
-    new "奥利想让我和安布、乔格一起训练，我可能要先取得洛萨尔的同意……"
+    # old "Ole told me to train with Amble and Jog, I might need to ask Lothar first about this..."
+    # new "奥利想让我和安布、乔格一起训练，我可能要先取得洛萨尔的同意……"
 
-    old "Fluff and Tuff"
-    new "人前人后俩个样"
+    # old "Fluff and Tuff"
+    # new "人前人后俩个样"
 
-    old "Cane asked me if I want to further my relationship with my patrons. He asked me to prepare... 2 pillows for the private room."
-    new "凯恩问我想不想和顾客的互动再深入一些。如果想的话，就准备 2 个枕头来……布置包间。"
+    # old "Cane asked me if I want to further my relationship with my patrons. He asked me to prepare... 2 pillows for the private room."
+    # new "凯恩问我想不想和顾客的互动再深入一些。如果想的话，就准备 2 个枕头来……布置包间。"
 
-    old "Seasons of Blossom"
-    new "又到一年花开时"
+    # old "Seasons of Blossom"
+    # new "又到一年花开时"
 
-    old "Rahim asked me to bring 4 bunches of chrysanthemums for him. I should look around the outpost."
-    new "雷希姆想让我采 4 束菊花给他。我得去林地前哨站附近找找。"
+    # old "Rahim asked me to bring 4 bunches of chrysanthemums for him. I should look around the outpost."
+    # new "雷希姆想让我采 4 束菊花给他。我得去林地前哨站附近找找。"
 
-    old "The Wolf at the Door"
-    new "门外有狼"
+    # old "The Wolf at the Door"
+    # new "门外有狼"
 
-    old "Lothar found a magical stone from the caravan, perhaps there's something to it."
-    new "洛萨尔从商队哪发现了一块带魔法的石头，或许有什么奥秘在其中。"
+    # old "Lothar found a magical stone from the caravan, perhaps there's something to it."
+    # new "洛萨尔从商队哪发现了一块带魔法的石头，或许有什么奥秘在其中。"
 
-    old "The Dark Forest"
-    new "幽暗森林"
+    # old "The Dark Forest"
+    # new "幽暗森林"
 
-    old "Furkan asked me to venture into the dark forest to learn more about the werewolves and their connections."
-    new "弗坎想让我冒险进入幽暗森林，探求更多关于狼人的信息和他们与其他势力的联系。"
+    # old "Furkan asked me to venture into the dark forest to learn more about the werewolves and their connections."
+    # new "弗坎想让我冒险进入幽暗森林，探求更多关于狼人的信息和他们与其他势力的联系。"
 
-    old "Rabid Wolf"
-    new "嗜血恶狼"
+    # old "Rabid Wolf"
+    # new "嗜血恶狼"
 
-    old "Uffe wants me to... kill a feral werewolf from the cave and take his rings. I should explore around the dark forest to find the cave."
-    new "乌菲要我……杀死某个山洞里一头发狂的狼人，并取得他的乳环。我得继续探索幽暗森林，找到那个山洞。"
+    # old "Uffe wants me to... kill a feral werewolf from the cave and take his rings. I should explore around the dark forest to find the cave."
+    # new "乌菲要我……杀死某个山洞里一头发狂的狼人，并取得他的乳环。我得继续探索幽暗森林，找到那个山洞。"
 
-    old "Warrior in Progress"
-    new "待训的战士"
+    # old "Warrior in Progress"
+    # new "待训的战士"
 
-    old "Kari asks me to battle with his fellow soldiers to test their strength."
-    new "卡里想让我与他的士兵对战，来测试测试他们现在的战斗力。"
+    # old "Kari asks me to battle with his fellow soldiers to test their strength."
+    # new "卡里想让我与他的士兵对战，来测试测试他们现在的战斗力。"
 
-    old "Gift of the Wanderer"
-    new "天赋识灵草"
+    # old "Gift of the Wanderer"
+    # new "天赋识灵草"
 
-    old "Haskell asks me to bring him... 3 chrysanthemums to prepare for his check on my condition after coming to this world."
-    new "我得带 3 束菊花给哈斯克尔，让他帮忙检查一下我穿越到莫肯大陆后的身体情况。"
+    # old "Haskell asks me to bring him... 3 chrysanthemums to prepare for his check on my condition after coming to this world."
+    # new "我得带 3 束菊花给哈斯克尔，让他帮忙检查一下我穿越到莫肯大陆后的身体情况。"
 
-    old "Stirring Roots"
-    new "起兴树根"
+    # old "Stirring Roots"
+    # new "起兴树根"
 
-    old "Lothar has been informed that the Lusterfolks have been feeling weird after encountering certain plant in the forest..."
-    new "洛萨尔得知村民自从在森林遭遇了某种奇怪的植物后，就一直感觉很奇怪……"
+    # old "Lothar has been informed that the Lusterfolks have been feeling weird after encountering certain plant in the forest..."
+    # new "洛萨尔得知村民自从在森林遭遇了某种奇怪的植物后，就一直感觉很奇怪……"
 
-    old "The Cure for Madness"
-    new "癫狂的解药"
+    # old "The Cure for Madness"
+    # new "癫狂的解药"
 
-    old "Wuldon has been trying to look for ingredients that can cure Vurro's sickness... maybe I should help him."
-    new "伍尔顿正在努力寻找救治伏罗病症的草药……或许我该帮帮他。"
+    # old "Wuldon has been trying to look for ingredients that can cure Vurro's sickness... maybe I should help him."
+    # new "伍尔顿正在努力寻找救治伏罗病症的草药……或许我该帮帮他。"
 
-    old "Slime Country"
-    new "史莱姆之乡"
+    # old "Slime Country"
+    # new "史莱姆之乡"
 
-    old "After learning the ingredients of the cure, Wuldon wanted to go to the Slime's territory with me."
-    new "了解到解药的配方后，伍尔顿想让我陪他一起探索史莱姆的领地。"
+    # old "After learning the ingredients of the cure, Wuldon wanted to go to the Slime's territory with me."
+    # new "了解到解药的配方后，伍尔顿想让我陪他一起探索史莱姆的领地。"
 
-    #任务
+    # #任务
 
-    old "Potion Order"
-    new "药剂进货"
+    # old "Potion Order"
+    # new "药剂进货"
 
-    old "Ole wants me to take up the potion order and get some potions from Haskell."
-    new "奥利希望我从哈斯克尔那再取些药剂回来。"
+    # old "Ole wants me to take up the potion order and get some potions from Haskell."
+    # new "奥利希望我从哈斯克尔那再取些药剂回来。"
 
-    old "Ale for Sale"
-    new "黑啤酒有售"
+    # old "Ale for Sale"
+    # new "黑啤酒有售"
 
-    old "Cane wants me to gather 3 rosemarys and use the scythe to harvest 3 barleys for his Ale."
-    new "凯恩希望我采 3 束迷迭香并用镰刀割 3 把大麦给他酿麦芽酒。"
+    # old "Cane wants me to gather 3 rosemarys and use the scythe to harvest 3 barleys for his Ale."
+    # new "凯恩希望我采 3 束迷迭香并用镰刀割 3 把大麦给他酿麦芽酒。"
 
-    old "Dangerous Ground"
-    new "危险地带"
+    # old "Dangerous Ground"
+    # new "危险地带"
 
-    old "Amble wants me to defeat 3 landsharks to protect the farm."
-    new "安布希望我帮忙除掉 3 头农田里的陆鲨。"
+    # old "Amble wants me to defeat 3 landsharks to protect the farm."
+    # new "安布希望我帮忙除掉 3 头农田里的陆鲨。"
 
-    old "The Tailor's Yarn"
-    new "编故事的裁缝"
+    # old "The Tailor's Yarn"
+    # new "编故事的裁缝"
 
-    old "Rahim wants me to make clothes for him, maybe I'll get to know him more after this."
-    new "雷希姆希望我帮他做些衣服，也许完成任务之后我能了解到更多关于他的事情。"
+    # old "Rahim wants me to make clothes for him, maybe I'll get to know him more after this."
+    # new "雷希姆希望我帮他做些衣服，也许完成任务之后我能了解到更多关于他的事情。"
 
     #状态
 
@@ -1008,7 +1008,7 @@ translate schinese strings:
     new "负伤"
 
     old "Wounded: {p} Target's health is additionally decreased for each round, effect decreases until it runs out. Stackable."
-    new "负伤：{p}目标血量每回合持续减少，出血量每回合递减直至出血停止。可叠加状态。"
+    new "负伤：{p}目标体力每回合持续减少，出体力每回合递减直至出血停止。可叠加状态。"
 
     old "Empowered"
     new "鼓舞"

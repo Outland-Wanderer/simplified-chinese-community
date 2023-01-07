@@ -104,6 +104,12 @@ inch | 寸 | 取明朝一尺长度[^2]转换
 
 [前官方汉化](https://tieba.baidu.com/p/7998972608)
 
+## 翻译时调动情绪用音乐
+
+[Music of Towns (Kingdom Come: Deliverance Original Soundtrack)](https://open.spotify.com/album/4OBGHYM5e9BjeN1pCW0tXt?si=Cjztq0BtTOixGOQ4UpcWeQ)
+[Music of the Land (Kingdom Come: Deliverance Original Soundtrack)](https://open.spotify.com/album/74lJQsk09eEXsrAqpdnOXo)
+[Medieval and Action Music (Kingdom Come: Deliverance Original Soundtrack)](https://open.spotify.com/album/56mleWq37nn2zyoQFlaS65?si=SZoIMxcdRL-ZsXjXqzQhSA)
+
 
 
 [^1]: [英语姓名译名手册（第五版）](https://www.cp.com.cn/book/d04f0003-3.html)

@@ -40,7 +40,7 @@ translate schinese bedroom_sleep_b20d9dca:
 
     # "You wake up in the morning, feeling energized and ready for the day."
     "你准时早起迎接新的一天，感觉浑身充满干劲。"
-    $ renpy.notify("已恢复全部血量和魔力")
+    $ renpy.notify("已恢复全部体力和魔力")
 
 #卧室-小憩
 
@@ -53,7 +53,7 @@ translate schinese bedroom_rest_cff4dfd7:
 
     # "You recovered a portion of your HP and MP."
     pass
-    $ renpy.notify("已恢复部分血量和魔力")
+    $ renpy.notify("已恢复部分体力和魔力")
 
 # #君临典当门口-癫狂的解药事件引子
 
@@ -1570,441 +1570,442 @@ translate schinese strings:
 #     # s "Aww... maybe. I'll be here if you need anything, like, anything."
 #     s ""
 
-# #塞巴斯的窝边探险事件-报告
+#完成任务2
 
-# translate schinese Sebas_Postal_Report_759b7889:
+translate schinese Sebas_Postal_Report_759b7889:
 
-#     # e "Hey! Seb. I'm back from the green forest."
-#     e ""
+    # e "Hey! Seb. I'm back from the green forest."
+    e "嘿！阿塞，我回来了。"
 
-# translate schinese Sebas_Postal_Report_b4aeef8c:
+translate schinese Sebas_Postal_Report_b4aeef8c:
 
-#     # s "Good to see you! Buddy! I was worried you're getting in trouble from the slime."
-#     s ""
+    # s "Good to see you! Buddy! I was worried you're getting in trouble from the slime."
+    s "欢迎回家老铁！我都开始担心你被史莱姆缠上了呢。"
 
-# translate schinese Sebas_Postal_Report_53490944:
+translate schinese Sebas_Postal_Report_53490944:
 
-#     # e "I thought we were going to... train together?"
-#     e ""
+    # e "I thought we were going to... train together?"
+    e "那是谁……让我孤零零地面对史莱姆？"
 
-# translate schinese Sebas_Postal_Report_ccd4957f:
+translate schinese Sebas_Postal_Report_ccd4957f:
 
-#     # s "Don't blame me on this alright, it was Ole's idea. He told me you have to get some experience in the wild."
-#     s ""
+    # s "Don't blame me on this alright, it was Ole's idea. He told me you have to get some experience in the wild."
+    s "别怪我嘛，是奥利出的主意。他说你得学会在外边独当一面。"
 
-# translate schinese Sebas_Postal_Report_8f32017f:
+translate schinese Sebas_Postal_Report_8f32017f:
 
-#     # e "Yes, but... ok."
-#     e ""
+    # e "Yes, but... ok."
+    e "可是……好吧。"
 
-# translate schinese Sebas_Postal_Report_4e14a7d3:
+translate schinese Sebas_Postal_Report_4e14a7d3:
 
-#     # s "Haha, don't be sad. Come on, let's take a look at what you got! You remember the 3 stones right?"
-#     s ""
+    # s "Haha, don't be sad. Come on, let's take a look at what you got! You remember the 3 stones right?"
+    s "哈哈哈，别伤心啦。让我们看看你都带什么回来了！3 块石头你没忘吧？"
 
-# translate schinese Sebas_Postal_Report_bca520b2:
+translate schinese Sebas_Postal_Report_bca520b2:
 
-#     # s "Hey, here it is, the three stones, you're really good at adventuring aren't you?"
-#     s ""
+    # s "Hey, here it is, the three stones, you're really good at adventuring aren't you?"
+    s "嘿，刚刚好 3 块石头，你果然有当冒险家的天赋。"
 
-# translate schinese Sebas_Postal_Report_ce27381e:
+translate schinese Sebas_Postal_Report_ce27381e:
 
-#     # s "Hey, you got even more stones in your bag here, we should let you bring us all the materials in the shop, shouldn't we?"
-#     s ""
+    # s "Hey, you got even more stones in your bag here, we should let you bring us all the materials in the shop, shouldn't we?"
+    s "哇，超额完成任务，不如以后店里所有原材料都拜托你收集咯？"
 
-# translate schinese Sebas_Postal_Report_b7ed3837:
+translate schinese Sebas_Postal_Report_b7ed3837:
 
-#     # e "Well at least I brought you the stones you asked."
-#     e ""
+    # e "Well at least I brought you the stones you asked."
+    e "反正你布置给我的作业我照做了。"
 
-# translate schinese Sebas_Postal_Report_95115851:
+translate schinese Sebas_Postal_Report_95115851:
 
-#     # s "Yeah, yeah. Not like I'm gonna sell them anyways. It just feels pretty good asking you to bring me some useless stones."
-#     s ""
+    # s "Yeah, yeah. Not like I'm gonna sell them anyways. It just feels pretty good asking you to bring me some useless stones."
+    s "嗯哼，不过这些石头我不会拿来卖啦。我只是觉得吩咐你去找些没用的石头很好玩。"
 
-# translate schinese Sebas_Postal_Report_3729b96c:
+translate schinese Sebas_Postal_Report_3729b96c:
 
-#     # e "Hmmph..."
-#     e ""
+    # e "Hmmph..."
+    e "呃……"
 
-# translate schinese Sebas_Postal_Report_e7ecd185:
+translate schinese Sebas_Postal_Report_e7ecd185:
 
-#     # e "So... Seb. Is my training finished?"
-#     e ""
+    # e "So... Seb. Is my training finished?"
+    e "所以……我的训练结束了？"
 
-# translate schinese Sebas_Postal_Report_0450594e:
+translate schinese Sebas_Postal_Report_0450594e:
 
-#     # s "Yes! Of course! I'm gonna keep the stones here, to commemorate this special occasion."
-#     s ""
+    # s "Yes! Of course! I'm gonna keep the stones here, to commemorate this special occasion."
+    s "是的！圆满结束！我要把这些石头留下来当纪念品，纪念你冒险之路的第一个高光时刻。"
 
-# translate schinese Sebas_Postal_Report_9622e0b7:
+translate schinese Sebas_Postal_Report_9622e0b7:
 
-#     # e "Thanks, Seb."
-#     e ""
+    # e "Thanks, Seb."
+    e "谢谢，阿塞。"
 
-# translate schinese Sebas_Postal_Report_316a7cee:
+translate schinese Sebas_Postal_Report_316a7cee:
 
-#     # s "You're welcome! And now I have to let Ole know about these stones, so pretty."
-#     s ""
+    # s "You're welcome! And now I have to let Ole know about these stones, so pretty."
+    s "不客气！这些石头多得意唷，现在我得去告诉奥利你完成训练了。"
 
-# translate schinese Sebas_Postal_Report_5a9e5564:
+translate schinese Sebas_Postal_Report_5a9e5564:
 
-#     # s "[e]... I see... only [item_number] stones here. Are you sure there's enough?"
-#     s ""
+    # s "[e]... I see... only [item_number] stones here. Are you sure there's enough?"
+    s "[e]……你只有 [item_number] 块石头。你确定你带够了？"
 
-# translate schinese Sebas_Postal_Report_746de2bc:
+translate schinese Sebas_Postal_Report_746de2bc:
 
-#     # e "Wait... really. I thought I had enough stones for you."
-#     e ""
+    # e "Wait... really. I thought I had enough stones for you."
+    e "等等……不对啊，我记得我捡够石头才回来的。"
 
-# translate schinese Sebas_Postal_Report_6add1741:
+translate schinese Sebas_Postal_Report_6add1741:
 
-#     # s "Hey. No worries, you must have picked them up and lost some of them on your way here. Just go back and pick it up and it's gonna be fine."
-#     s ""
+    # s "Hey. No worries, you must have picked them up and lost some of them on your way here. Just go back and pick it up and it's gonna be fine."
+    s "嘿，别担心。肯定是路上不小心掉了，再去重新捡些石头就好。"
 
-# translate schinese Sebas_Postal_Report_26753166:
+translate schinese Sebas_Postal_Report_26753166:
 
-#     # e "Of course! I'll report you back when I've got enough stones for you."
-#     e ""
+    # e "Of course! I'll report you back when I've got enough stones for you."
+    e "好的！等我捡够 3 块石头就回来告诉你。"
 
-# translate schinese Sebas_Postal_Report_8317109c:
+translate schinese Sebas_Postal_Report_8317109c:
 
-#     # s "Haha. You gotta stay safe on your way back there!"
-#     s ""
+    # s "Haha. You gotta stay safe on your way back there!"
+    s "哈哈哈，回来的时候多加注意噢！"
 
-# translate schinese Sebas_Postal_Report_0955da63:
+translate schinese Sebas_Postal_Report_0955da63:
 
-#     # s "Wait... You don't seem to have any stones here... [e]?"
-#     s ""
+    # s "Wait... You don't seem to have any stones here... [e]?"
+    s "呃，[e]……你好像一块石头也没有……？"
 
-# translate schinese Sebas_Postal_Report_72a33094:
+translate schinese Sebas_Postal_Report_72a33094:
 
-#     # e "..."
-#     e "……"
+    # e "..."
+    e "……"
 
-# translate schinese Sebas_Postal_Report_48a82537:
+translate schinese Sebas_Postal_Report_48a82537:
 
-#     # s "Buddy?"
-#     s ""
+    # s "Buddy?"
+    s "[e]？"
 
-# translate schinese Sebas_Postal_Report_51691840:
+translate schinese Sebas_Postal_Report_51691840:
 
-#     # e "I forgot..."
-#     e ""
+    # e "I forgot..."
+    e "我忘记了……"
 
-# translate schinese Sebas_Postal_Report_98c4659a:
+translate schinese Sebas_Postal_Report_98c4659a:
 
-#     # s "Awww... It's okay. Really. Just go back and bring me 3 stones, alright? You can track it on your journal if you really forgot."
-#     s ""
+    # s "Awww... It's okay. Really. Just go back and bring me 3 stones, alright? You can track it on your journal if you really forgot."
+    s "啊噢……没关系的，真的。再去森林一趟捡 3 块石头回来就好。你随时都可以翻出笔记本看有没有遗漏什么事情。"
 
-# translate schinese Sebas_Postal_Report_65d68988:
+translate schinese Sebas_Postal_Report_65d68988:
 
-#     # e "I'm sorry, Seb. I'll bring you those 3 stones."
-#     e ""
+    # e "I'm sorry, Seb. I'll bring you those 3 stones."
+    e "抱歉阿塞，我现在就去。"
 
-# translate schinese Sebas_Postal_Report_9f3c5ab2:
+translate schinese Sebas_Postal_Report_9f3c5ab2:
 
-#     # s "Good! Don't be sad alright. Everybody makes mistake here. Come here, let me give you a hug."
-#     s ""
+    # s "Good! Don't be sad alright. Everybody makes mistake here. Come here, let me give you a hug."
+    s "好哒！别伤心[e]，每个人都会犯错。来，抱抱就没事了哈。"
 
-# translate schinese Sebas_Postal_Report_8ac0d443:
+translate schinese Sebas_Postal_Report_8ac0d443:
 
-#     # "Sebas walks around the counter and step towards you. He opens his fluffy arm and put them around your back, he hugs you tightly, bumping his head into you."
-#     ""
+    # "Sebas walks around the counter and step towards you. He opens his fluffy arm and put them around your back, he hugs you tightly, bumping his head into you."
+    "塞巴斯绕过收银台向你走来，用毛毛的手臂将你轻轻怀抱，蓬蓬的狮头则顺势搭上你的肩膀。"
 
-# translate schinese Sebas_Postal_Report_7e0feccb:
+translate schinese Sebas_Postal_Report_7e0feccb:
 
-#     # s "Good roomie."
-#     s ""
+    # s "Good roomie."
+    s "我的好室友。"
 
-# translate schinese Sebas_Postal_Report_785aea29:
+translate schinese Sebas_Postal_Report_785aea29:
 
-#     # "You can almost feel his hot breath on your face as he whispers to you, you want to bury your face into his soft manes, but he suddenly releases his grip on your back."
-#     ""
+    # "You can almost feel his hot breath on your face as he whispers to you, you want to bury your face into his soft manes, but he suddenly releases his grip on your back."
+    "伴随这句话呼出的热气撩过脸颊，惹得你想枕进塞巴斯柔软的鬣毛中，但对方却准时收回了拥抱。"
 
-# translate schinese Sebas_Postal_Report_fe44d19b:
+translate schinese Sebas_Postal_Report_fe44d19b:
 
-#     # s "Alright. See you later with the stones, buddy."
-#     s ""
+    # s "Alright. See you later with the stones, buddy."
+    s "好啦，期待你顺利把 3 块石头带回来，老铁。"
 
-# translate schinese Sebas_Postal_Report_805a490a:
+translate schinese Sebas_Postal_Report_805a490a:
 
-#     # e "...Yes, Seb."
-#     e ""
+    # e "...Yes, Seb."
+    e "……没问题，阿塞。"
 
-# #塞巴斯的窝边探险事件-引子
+#任务2-引子
 
-# translate schinese Sebas_Postal_Training_451986d7:
+translate schinese Sebas_Postal_Training_451986d7:
 
-#     # e "Hello, Sebas. Can I get a training from you."
-#     e ""
+    # e "Hello, Sebas. Can I get a training from you."
+    e "嗨，阿塞。你能带我去训练吗？"
 
-# translate schinese Sebas_Postal_Training_f23a367c:
+translate schinese Sebas_Postal_Training_f23a367c:
 
-#     # s "Of course you can, any time buddy! I have been waiting for you when Ol told me about the postal thing."
-#     s ""
+    # s "Of course you can, any time buddy! I have been waiting for you when Ol told me about the postal thing."
+    s "当然可以，时刻准备着我的老铁！自从奥利告诉我有这回事，我就已经期待好久了。"
 
-# translate schinese Sebas_Postal_Training_43bb46a9:
+translate schinese Sebas_Postal_Training_43bb46a9:
 
-#     # e "Thanks, Seb. I really appreciate you spending time with me."
-#     e ""
+    # e "Thanks, Seb. I really appreciate you spending time with me."
+    e "谢谢你愿意抽空教我，阿塞。"
 
-# translate schinese Sebas_Postal_Training_a75d477d:
+translate schinese Sebas_Postal_Training_a75d477d:
 
-#     # s "Like I said, any time with my little buddy."
-#     s ""
+    # s "Like I said, any time with my little buddy."
+    s "都说啦，时刻准备着，小老弟。"
 
-# translate schinese Sebas_Postal_Training_213c17c3:
+translate schinese Sebas_Postal_Training_213c17c3:
 
-#     # s "So Ole asked me to teach you expedition right, I'll keep it very short."
-#     s ""
+    # s "So Ole asked me to teach you expedition right, I'll keep it very short."
+    s "我记得奥利要我带你去附近转悠转悠，对吧？那我废话少说。"
 
-# translate schinese Sebas_Postal_Training_ff381eab:
+translate schinese Sebas_Postal_Training_ff381eab:
 
-#     # s "You'll see you have three things I gave you yesterday, Journal, Inventory and Map."
-#     s ""
+    # s "You'll see you have three things I gave you yesterday, Journal, Inventory and Map."
+    s "昨天我已经给了你三样东西——笔记本、背包和地图。"
 
-# translate schinese Sebas_Postal_Training_0d510780:
+translate schinese Sebas_Postal_Training_0d510780:
 
-#     # "You look at Sebas from his own counter, pointing his fuzzy paws onto the your bag."
-#     ""
+    # "You look at Sebas from his own counter, pointing his fuzzy paws onto the your bag."
+    "塞巴斯站在柜台后，伸出毛茸茸的手爪子指着你的挎包。"
 
-# translate schinese Sebas_Postal_Training_8d2925f0:
+translate schinese Sebas_Postal_Training_8d2925f0:
 
-#     # s "Look at the map in your bag, just imagine it is something you can click in the bottom right corner."
-#     s ""
+    # s "Look at the map in your bag, just imagine it is something you can click in the bottom right corner."
+    s "现在，你想象一下，点击脑海中的右下角，弹出地图。"
 
-# translate schinese Sebas_Postal_Training_5883009f:
+translate schinese Sebas_Postal_Training_5883009f:
 
-#     # s "What am I saying. Click? What a dumb comparison, haha. Just open your map, alright."
-#     s ""
+    # s "What am I saying. Click? What a dumb comparison, haha. Just open your map, alright."
+    s "哎我说的啥呀，点击？真是个烂比喻，哈哈哈。直接拿出你的地图就好。"
 
-# translate schinese Sebas_Postal_Training_5fd10514:
+translate schinese Sebas_Postal_Training_5fd10514:
 
-#     # e "Ok..."
-#     e ""
+    # e "Ok..."
+    e "好的……"
 
-# translate schinese Sebas_Postal_Training_82f041a2:
+translate schinese Sebas_Postal_Training_82f041a2:
 
-#     # s "Aha, you are really smart! Ok, ok. You see the shapes right, it's a magical map, one I bought from an auction in the town."
-#     s ""
+    # s "Aha, you are really smart! Ok, ok. You see the shapes right, it's a magical map, one I bought from an auction in the town."
+    s "啊哈，你可太聪明啦！你看你看，有画面了吧。这可是张魔法地图，我从镇上的拍卖会买来的。"
 
-# translate schinese Sebas_Postal_Training_581d6ffb:
+translate schinese Sebas_Postal_Training_581d6ffb:
 
-#     # s "It will show locations you have explored for now, if you have not sneaked away from the village, right now it will only show Lusterfield and the green forest."
-#     s ""
+    # s "It will show locations you have explored for now, if you have not sneaked away from the village, right now it will only show Lusterfield and the green forest."
+    s "地图只会显示你已经探索过的地方，现在上边应该只有乐斯民菲尔德和叠翠森林。"
+    s "假如你之前没有偷偷溜出村吼吼吼。"
 
-# translate schinese Sebas_Postal_Training_fe80cd9f:
+translate schinese Sebas_Postal_Training_fe80cd9f:
 
-#     # e "I see the green forest in the south. Is that correct?"
-#     e ""
+    # e "I see the green forest in the south. Is that correct?"
+    e "我看到叠翠森林的标记在南边，对吗？"
 
-# translate schinese Sebas_Postal_Training_1bc30bc3:
+translate schinese Sebas_Postal_Training_1bc30bc3:
 
-#     # s "Yes, Ok. There's not a lot to teach if we're not there. Let's go there, us two."
-#     s ""
+    # s "Yes, Ok. There's not a lot to teach if we're not there. Let's go there, us two."
+    s "对滴。好啦，不实际去到那我可教不了你啥，我们马上出发吧。"
 
-# translate schinese Sebas_Postal_Training_bbcacbff:
+translate schinese Sebas_Postal_Training_bbcacbff:
 
-#     # e "Really, now?"
-#     e ""
+    # e "Really, now?"
+    e "现在？这么快。"
 
-# translate schinese Sebas_Postal_Training_b4dd2172:
+translate schinese Sebas_Postal_Training_b4dd2172:
 
-#     # s "Yesss, come on. You and me. Mister [e] and Sebas."
-#     s ""
+    # s "Yesss, come on. You and me. Mister [e] and Sebas."
+    s "没戳，现在，就我俩，新人[e]和新人塞巴斯。"
 
-# translate schinese Sebas_Postal_Training_d2c10949:
+translate schinese Sebas_Postal_Training_d2c10949:
 
-#     # e "O-ok!"
-#     e ""
+    # e "O-ok!"
+    e "噢、好的！"
 
-# translate schinese Sebas_Postal_Training_e5ad05cd:
+translate schinese Sebas_Postal_Training_e5ad05cd:
 
-#     # "Sebas grabs your hand tightly, and jogs right from the cashier towards the door, tugging you behind him. You can barely follow him with the speed he is going."
-#     ""
+    # "Sebas grabs your hand tightly, and jogs right from the cashier towards the door, tugging you behind him. You can barely follow him with the speed he is going."
+    "塞巴斯紧紧牵住你的手，从收银台三下两下蹦到门口。你跟不上他的速度，跌跌撞撞地被拉出了当铺。"
 
-# #塞巴斯的窝边探险事件-行动
+#任务2-行动
 
-# translate schinese Sebas_Expedition_1db330e7:
+translate schinese Sebas_Expedition_1db330e7:
 
-#     # "After a few minutes, you and Sebas has arrived to the green forest, he soon releases his grip on you, but you can still somehow feel the warmth from his fluffy paws."
-#     ""
+    # "After a few minutes, you and Sebas has arrived to the green forest, he soon releases his grip on you, but you can still somehow feel the warmth from his fluffy paws."
+    "几分钟后，你们步入了叠翠森林。塞巴斯的手已经松开，但你还能感受到他大毛爪的微微余温。"
 
-# translate schinese Sebas_Expedition_07aa488a:
+translate schinese Sebas_Expedition_07aa488a:
 
-#     # s "Here we are. Oh... I'm your teacher now, so exciting!"
-#     s ""
+    # s "Here we are. Oh... I'm your teacher now, so exciting!"
+    s "我们到咯。噢……我现在是你的老师啦，激动激动！"
 
-# translate schinese Sebas_Expedition_4bebfcd2:
+translate schinese Sebas_Expedition_4bebfcd2:
 
-#     # s "Haha, Ok. Ok. [e]. The thing here is different than our village area. You'll see that you can explore the area."
-#     s ""
+    # s "Haha, Ok. Ok. [e]. The thing here is different than our village area. You'll see that you can explore the area."
+    s "哈哈哈，好啦[e]，我们开始上课吧。首先外边的世界和村里不一样，你可以想象你脑海右下角多了个探索的按钮。"
 
-# translate schinese Sebas_Expedition_7f26a7b6:
+translate schinese Sebas_Expedition_7f26a7b6:
 
-#     # e "Sebas, you seem really excited being here."
-#     e ""
+    # e "Sebas, you seem really excited being here."
+    e "阿塞，你看起来真的特别兴奋。"
 
-# translate schinese Sebas_Expedition_46b0350f:
+translate schinese Sebas_Expedition_46b0350f:
 
-#     # s "Aren't you? We first met here, on the grass bed. And the forest too! It's so green here."
-#     s ""
+    # s "Aren't you? We first met here, on the grass bed. And the forest too! It's so green here."
+    s "你不兴奋吗？我们第一次相见就是在片森林的草地。而且你看，周围绿油油的多美呀！"
 
-# translate schinese Sebas_Expedition_8be3324c:
+translate schinese Sebas_Expedition_8be3324c:
 
-#     # s "Anyways, I can't stay here long enough for us to really take in the nature-y nature here. Holy hell, [e], look at this."
-#     s ""
+    # s "Anyways, I can't stay here long enough for us to really take in the nature-y nature here. Holy hell, [e], look at this."
+    s "呜呜，可惜我不能在这里待太久，没法带你欣赏更多美景。我勒个去，[e]，快看！"
 
-# translate schinese Sebas_Expedition_22c17628:
+translate schinese Sebas_Expedition_22c17628:
 
-#     # s "It's tulip on a tree! I've never seen a flower growing out of there, not mentioning it's a fucking tree! Woah!"
-#     s ""
+    # s "It's tulip on a tree! I've never seen a flower growing out of there, not mentioning it's a fucking tree! Woah!"
+    s "郁金香怎么长树上了！我从来没见过这里有花，更不用说这朵还他妈的开在树上！哇噢！"
 
-# translate schinese Sebas_Expedition_c7a2ecdd:
+translate schinese Sebas_Expedition_c7a2ecdd:
 
-#     # e "Seb-"
-#     e ""
+    # e "Seb-"
+    e "阿塞——"
 
-# translate schinese Sebas_Expedition_5dcc2751:
+translate schinese Sebas_Expedition_5dcc2751:
 
-#     # s "Ahhh- There it is, my favourite rock. It's mineral actually. Look at its shiny surface. I want to keep it for my pawn shop. That can surely fetch a good price."
-#     s ""
+    # s "Ahhh- There it is, my favourite rock. It's mineral actually. Look at its shiny surface. I want to keep it for my pawn shop. That can surely fetch a good price."
+    s "啊啊啊啊啊，找到你啦，我的宝贝石头——其实它是矿石——看它这亮闪闪的脸庞，真想把它抱回当铺卖个好价钱。"
 
-# translate schinese Sebas_Expedition_bfd74b9f:
+translate schinese Sebas_Expedition_bfd74b9f:
 
-#     # e "S-"
-#     e ""
+    # e "S-"
+    e "阿——"
 
-# translate schinese Sebas_Expedition_cb46fc35:
+translate schinese Sebas_Expedition_cb46fc35:
 
-#     # s "Wait- Is that a colony for ants? I can see the holes and those little guy running around like it can't see. What a silly creature."
-#     s ""
+    # s "Wait- Is that a colony for ants? I can see the holes and those little guy running around like it can't see. What a silly creature."
+    s "不是吧——蚂蚁窝？我可以看到一只只小蚂蚁从窝里爬出来，到处乱晃好像没长眼睛一样。多么愚昧的小生物。"
 
-# translate schinese Sebas_Expedition_472ce726:
+translate schinese Sebas_Expedition_472ce726:
 
-#     # e "Seb!"
-#     e ""
+    # e "Seb!"
+    e "阿塞！"
 
-# translate schinese Sebas_Expedition_623ac400:
+translate schinese Sebas_Expedition_623ac400:
 
-#     # "The lion's joyful adventure in the green forest was brought to a halt, he freezes for a second before turning back to you."
-#     ""
+    # "The lion's joyful adventure in the green forest was brought to a halt, he freezes for a second before turning back to you."
+    "你一吼，掐下了愉悦郊游的暂停键，把黄毛狮子瞬间定住。几秒钟后，他才解冻转身面向你。"
 
-# translate schinese Sebas_Expedition_cac0f1e7:
+translate schinese Sebas_Expedition_cac0f1e7:
 
-#     # s "Heyy! [e]! I almost forgot about you. The most beautiful product of nature. Let's see. What was I talking about."
-#     s ""
+    # s "Heyy! [e]! I almost forgot about you. The most beautiful product of nature. Let's see. What was I talking about."
+    s "诶嘿！[e]！差点忘记大自然最美丽的造物就在我身边呀。让我想想，我刚才讲到哪来着。"
 
-# translate schinese Sebas_Expedition_a34188ba:
+translate schinese Sebas_Expedition_a34188ba:
 
-#     # e "Did you just forget we're in a middle of some sort of training?"
-#     e ""
+    # e "Did you just forget we're in a middle of some sort of training?"
+    e "我们正在训练，这你都能忘？"
 
-# translate schinese Sebas_Expedition_a6ff2a40:
+translate schinese Sebas_Expedition_a6ff2a40:
 
-#     # s "Sorry buddy, I had a train of some crazy thoughts going on right now. Ok. A- sorry I was just really excited!"
-#     s ""
+    # s "Sorry buddy, I had a train of some crazy thoughts going on right now. Ok. A- sorry I was just really excited!"
+    s "不好意思老铁，我现在脑子里一堆疯狂想法在跑火车。啊对不起，我真的太激动了！"
 
-# translate schinese Sebas_Expedition_7fda2f6b:
+translate schinese Sebas_Expedition_7fda2f6b:
 
-#     # s "It's super easy, alright. You can explore the surroundings. Sometimes there will be scary enemies to attack you, or cool things you can marvel at."
-#     s ""
+    # s "It's super easy, alright. You can explore the surroundings. Sometimes there will be scary enemies to attack you, or cool things you can marvel at."
+    s "回到正题，我要教你的事情超级简单。探索周围可以找到不少好东西，但有时也会被恐怖的怪物突然袭击。"
 
-# translate schinese Sebas_Expedition_e1c15a68:
+translate schinese Sebas_Expedition_e1c15a68:
 
-#     # s "Look, there's a stone right there, if you explore enough. Surely you can collect some rocks, minerals, stones all sort of things."
-#     s ""
+    # s "Look, there's a stone right there, if you explore enough. Surely you can collect some rocks, minerals, stones all sort of things."
+    s "你看，那边就有一块石头，如果你积极探索，你可以采集到不少普通石块或珍惜矿物之类的东西。"
 
-# translate schinese Sebas_Expedition_da8eb826:
+translate schinese Sebas_Expedition_da8eb826:
 
-#     # s "So that's it, that's the training."
-#     s ""
+    # s "So that's it, that's the training."
+    s "以上就是本课程的全部内容，同学们，下课。"
 
-# translate schinese Sebas_Expedition_3176989f:
+translate schinese Sebas_Expedition_3176989f:
 
-#     # e "That's it? Seb, we've just been here for 3 minutes."
-#     e ""
+    # e "That's it? Seb, we've just been here for 3 minutes."
+    e "下课？阿塞，我们才在这里待了三分钟。"
 
-# translate schinese Sebas_Expedition_8035989f:
+translate schinese Sebas_Expedition_8035989f:
 
-#     # s "Alright what do you want, some real expedition in action? I'm still running a business in Lusterfield, I have to get back before Ole gets angry at me."
-#     s ""
+    # s "Alright what do you want, some real expedition in action? I'm still running a business in Lusterfield, I have to get back before Ole gets angry at me."
+    s "哎呦[e]，你还想露营咩？当铺还开着呢，我得赶在奥利发火之前回去继续营业。"
 
-# translate schinese Sebas_Expedition_4d568f64:
+translate schinese Sebas_Expedition_4d568f64:
 
-#     # e "Ok... I thought we're gonna-"
-#     e ""
+    # e "Ok... I thought we're gonna-"
+    e "好吧……我以为我们——"
 
-# translate schinese Sebas_Expedition_2bec8dba:
+translate schinese Sebas_Expedition_2bec8dba:
 
-#     # s "You know what you can do? You can collect some stones, and then report back to me. Is that a training you can get behind with?"
-#     s ""
+    # s "You know what you can do? You can collect some stones, and then report back to me. Is that a training you can get behind with?"
+    s "要不给你布置个作业吧？你可以捡些石头回来交给我，怎么样？"
 
-# translate schinese Sebas_Expedition_f904611f:
+translate schinese Sebas_Expedition_f904611f:
 
-#     # e "You're not coming along?"
-#     e ""
+    # e "You're not coming along?"
+    e "你现在就要走了吗？"
 
-# translate schinese Sebas_Expedition_d3e8b771:
+translate schinese Sebas_Expedition_d3e8b771:
 
-#     # s "I gotta get back! Plus, you can learn to read maps, and arrows for directions."
-#     s ""
+    # s "I gotta get back! Plus, you can learn to read maps, and arrows for directions."
+    s "对！而且你也得学会自己看地图看箭头识别方向。"
 
-# translate schinese Sebas_Expedition_6fab5502:
+translate schinese Sebas_Expedition_6fab5502:
 
-#     # e "Alright Seb. You are really gonna leave me here."
-#     e ""
+    # e "Alright Seb. You are really gonna leave me here."
+    e "好吧阿塞，看来真留不住你了。"
 
-# translate schinese Sebas_Expedition_49416a65:
+translate schinese Sebas_Expedition_49416a65:
 
-#     # s "Don't worry it's a part of the fun. I promise the next time we go out like this, we're gonna do something entirely different."
-#     s ""
+    # s "Don't worry it's a part of the fun. I promise the next time we go out like this, we're gonna do something entirely different."
+    s "别伤心嘛，自己欣赏森林也别有一番风味。我保证下次我们再出来玩的时候，我们会做些和今天完全不一样的事情。"
 
-# translate schinese Sebas_Expedition_e8941347:
+translate schinese Sebas_Expedition_e8941347:
 
-#     # e "Oh...? Wha-"
-#     e ""
+    # e "Oh...? Wha-"
+    e "噢……？什——"
 
-# translate schinese Sebas_Expedition_6b76ed7c:
+translate schinese Sebas_Expedition_6b76ed7c:
 
-#     # s "You and me."
-#     s ""
+    # s "You and me."
+    s "只有我和你的事情。"
 
-# translate schinese Sebas_Expedition_972a5561:
+translate schinese Sebas_Expedition_972a5561:
 
-#     # "Sebas looks deeply into your eyes, he winks at you and put both his hands into your palm."
-#     ""
+    # "Sebas looks deeply into your eyes, he winks at you and put both his hands into your palm."
+    "塞巴斯深深注视着你，牵起你的双手，眨了眨半边眼睛。"
 
-# translate schinese Sebas_Expedition_ba6a1755:
+translate schinese Sebas_Expedition_ba6a1755:
 
-#     # s "Something you're going to like, ok?"
-#     s ""
+    # s "Something you're going to like, ok?"
+    s "你一定会喜欢的，好么？"
 
-# translate schinese Sebas_Expedition_fdac3ef9:
+translate schinese Sebas_Expedition_fdac3ef9:
 
-#     # e "O-ok."
-#     e ""
+    # e "O-ok."
+    e "好、好的。"
 
-# translate schinese Sebas_Expedition_dbd16924:
+translate schinese Sebas_Expedition_dbd16924:
 
-#     # "As soon as he releases his hand, he begins to walk back towards the village, leaving you alone here in the green forest."
-#     ""
+    # "As soon as he releases his hand, he begins to walk back towards the village, leaving you alone here in the green forest."
+    "塞巴斯一松手便头也不回地往村子走去，留你只身在这幅绿林油画中出了神。"
 
-# translate schinese Sebas_Expedition_a37b5e49:
+translate schinese Sebas_Expedition_a37b5e49:
 
-#     # e "ok..."
-#     e ""
+    # e "ok..."
+    e "嗯……"
 
-# translate schinese Sebas_Expedition_1a28b338:
+translate schinese Sebas_Expedition_1a28b338:
 
-#     # "You nudges your palms for a bit, seeing a few strips of orange fur are left on your hand, it makes you feel strangely tickled."
-#     ""
+    # "You nudges your palms for a bit, seeing a few strips of orange fur are left on your hand, it makes you feel strangely tickled."
+    "你轻轻握掌，发现有几根橙黄色的毛穿插指间，搞得你怪痒痒的。"
 
-# translate schinese Sebas_Expedition_e69bb7e0:
+translate schinese Sebas_Expedition_e69bb7e0:
 
-#     # "You quickly snap back to reality, what a strange conversation he left behind. You still need to bring 3 stones to him."
-#     ""
+    # "You quickly snap back to reality, what a strange conversation he left behind. You still need to bring 3 stones to him."
+    "脑海甩掉刚才莫名其妙的对话，你回到现实，想起自己得收集 3 块石头交给塞巴斯。"
 
 # #问塞巴斯村子的人
 
@@ -3574,7 +3575,7 @@ translate schinese Ole_dialogue_794f2559:
 translate schinese Ole_Normal_Talk_fe5fcc14:
 
     # o "You doing well today, kid?" nointeract
-    o "今天过得如何，小兄弟？" nointeract
+    o "今天过得如何？" nointeract
 
 translate schinese strings:
 
@@ -6836,95 +6837,99 @@ translate schinese strings:
 #     # e "Alright."
 #     e ""
 
-# translate schinese Ole_Postal_Finish_daeb3047:
+#完成任务1
 
-#     # e "Ole! I'm back from all three training you gave me!"
-#     e ""
+translate schinese Ole_Postal_Finish_daeb3047:
 
-# translate schinese Ole_Postal_Finish_208e5430:
+    # e "Ole! I'm back from all three training you gave me!"
+    e "奥利！三项训练我都完成了！"
 
-#     # o "Hmm... I've heard so! Congratulation, [e]. You are now the courier of the lusterfield!"
-#     o ""
+translate schinese Ole_Postal_Finish_208e5430:
 
-# translate schinese Ole_Postal_Finish_c81b1808:
+    # o "Hmm... I've heard so! Congratulation, [e]. You are now the courier of the lusterfield!"
+    o "嗯……我已经听说了。[e]，恭喜你成为乐斯民菲尔德村的邮递员！"
 
-#     # e "Thank you Ole. Your training is really useful. I think I can handle a few adventures right now!"
-#     e ""
+translate schinese Ole_Postal_Finish_c81b1808:
 
-# translate schinese Ole_Postal_Finish_3c2f0ade:
+    # e "Thank you Ole. Your training is really useful. I think I can handle a few adventures right now!"
+    e "谢谢你，奥利。你安排的训练都特别有用，现在我觉得自己能独立探索不少地方。"
 
-#     # o "Ha. Tell that to Seb, Lothar and Rahim. They're pretty helpful teachers, aren't they?"
-#     o ""
+translate schinese Ole_Postal_Finish_3c2f0ade:
 
-# translate schinese Ole_Postal_Finish_b7dae17b:
+    # o "Ha. Tell that to Seb, Lothar and Rahim. They're pretty helpful teachers, aren't they?"
+    o "哈哈，感谢的话就谢回塞巴斯、洛萨尔和雷希姆吧。他们才是教给你真才实学的导师，不是吗？"
 
-#     # e "Yes, they are!"
-#     e ""
+translate schinese Ole_Postal_Finish_b7dae17b:
 
-# translate schinese Ole_Postal_Finish_2f031d0c:
+    # e "Yes, they are!"
+    e "我也非常感谢他们！"
 
-#     # o "Now our goods are in your hand, you better be really careful out there, for your own safety."
-#     o ""
+translate schinese Ole_Postal_Finish_2f031d0c:
 
-# translate schinese Ole_Postal_Finish_0701ac3f:
+    # o "Now our goods are in your hand, you better be really careful out there, for your own safety."
+    o "今后我们的货物可全靠你运送，你在外要加倍注意安全。"
 
-#     # e "Haha, I will certainly do!"
-#     e ""
+translate schinese Ole_Postal_Finish_0701ac3f:
 
-# translate schinese Ole_Postal_Finish_a1889f96:
+    # e "Haha, I will certainly do!"
+    e "哼哼，那是自然！"
 
-#     # o "Great! Now I'll give you a badge of honor. Courier of Lusterfield."
-#     o ""
+translate schinese Ole_Postal_Finish_a1889f96:
 
-# translate schinese Ole_Postal_Finish_d68218ee:
+    # o "Great! Now I'll give you a badge of honor. Courier of Lusterfield."
+    o "非常好！现在，乐斯民菲尔德的邮递员，由我授予你准入行业的荣誉徽章。"
 
-#     # "Ole searches around his pocket, and hands you a grey badge, it has the shape of your head, and you can see the word 'Courier' written in the middle of it."
-#     ""
+translate schinese Ole_Postal_Finish_d68218ee:
 
-# translate schinese Ole_Postal_Finish_0cfb9682:
+    # "Ole searches around his pocket, and hands you a grey badge, it has the shape of your head, and you can see the word 'Courier' written in the middle of it."
+    "奥利掏掏口袋，将一枚灰色的徽章递给了你。你仔细观察着徽章，它的外形酷似你的正脸，中间题笔“邮递员”三字。"
 
-#     # e "Woah is that my face on the badge?"
-#     e ""
+translate schinese Ole_Postal_Finish_0cfb9682:
 
-# translate schinese Ole_Postal_Finish_671750a5:
+    # e "Woah is that my face on the badge?"
+    e "哇，徽章画的是我吗？"
 
-#     # o "Yeah, I thought I should make it represent you in someway. It should be enough to let people know you are the courier of Lusterfield."
-#     o ""
+translate schinese Ole_Postal_Finish_671750a5:
 
-# translate schinese Ole_Postal_Finish_5869fd5c:
+    # o "Yeah, I thought I should make it represent you in someway. It should be enough to let people know you are the courier of Lusterfield."
+    o "是的，我觉得这样能让徽章更加代表你本人。只要看过徽章，任凭谁都会记得你就是乐村的邮递员。"
 
-#     # e "Thanks, Ole. I won't disappoint you."
-#     e ""
+translate schinese Ole_Postal_Finish_5869fd5c:
 
-# translate schinese Ole_Postal_Finish_f7809a6a:
+    # e "Thanks, Ole. I won't disappoint you."
+    e "谢谢你，奥利。我不会让你失望的。"
 
-#     # o "I know you won't, come back later to begin your new job!"
-#     o ""
+translate schinese Ole_Postal_Finish_f7809a6a:
 
-# translate schinese Ole_Postal_Finish_e206f31b:
+    # o "I know you won't, come back later to begin your new job!"
+    o "我相信你不会，准备好过些时候正式上岗啊！"
 
-#     # e "Of course!"
-#     e ""
+translate schinese Ole_Postal_Finish_e206f31b:
 
-# translate schinese Ole_Postal_Finish_48284250:
+    # e "Of course!"
+    e "没问题！"
 
-#     # o "Hmm, are you sure? Cause I don't think you finished all three of them."
-#     o ""
+translate schinese Ole_Postal_Finish_48284250:
 
-# translate schinese Ole_Postal_Finish_7c1a48c4:
+    # o "Hmm, are you sure? Cause I don't think you finished all three of them."
+    o "呃，你确定？我知道你没有完成所有训练。"
 
-#     # e "Ahh... You are right."
-#     e ""
+translate schinese Ole_Postal_Finish_7c1a48c4:
 
-# translate schinese Ole_Postal_Finish_23fcb143:
+    # e "Ahh... You are right."
+    e "啊……你说的没错。"
 
-#     # o "Then what are you waiting for, I've got to get ready for your badge in the mean time."
-#     o ""
+translate schinese Ole_Postal_Finish_23fcb143:
 
-# translate schinese Ole_Postal_Finish_e2808404:
+    # o "Then what are you waiting for, I've got to get ready for your badge in the mean time."
+    o "那你还等什么呢，你的邮递员徽章都快做好了。"
 
-#     # e "Yes! Ole. I'll be back soon."
-#     e ""
+translate schinese Ole_Postal_Finish_e2808404:
+
+    # e "Yes! Ole. I'll be back soon."
+    e "是！我尽快完成训练。"
+
+#询问当铺
 
 # translate schinese Ole_Ask_Kingspawn_0cb532a7:
 
@@ -6981,85 +6986,87 @@ translate schinese strings:
 #     # e "Alright, thanks Ole."
 #     e ""
 
-# translate schinese Ole_Postal_Training_7f4577d7:
+#任务1
 
-#     # e "Ole. Did you mention about the postal training yesterday?"
-#     e ""
+translate schinese Ole_Postal_Training_7f4577d7:
 
-# translate schinese Ole_Postal_Training_771f7415:
+    # e "Ole. Did you mention about the postal training yesterday?"
+    e "奥利，我记得你昨天好像说有个邮递员培训我得去？"
 
-#     # o "Yes. so this training I designed it just for you. There's three things you need to learn before your little adventure."
-#     o ""
+translate schinese Ole_Postal_Training_771f7415:
 
-# translate schinese Ole_Postal_Training_5c96ca2c:
+    # o "Yes. so this training I designed it just for you. There's three things you need to learn before your little adventure."
+    o "是的。这次培训专为你量身定制，涵盖了你外出探险前所需掌握的三种基本能力。"
 
-#     # o "First thing first, I talked to Lothar about you. I think he can give you some basic idea about tackling on a battle."
-#     o ""
+translate schinese Ole_Postal_Training_5c96ca2c:
 
-# translate schinese Ole_Postal_Training_06092a45:
+    # o "First thing first, I talked to Lothar about you. I think he can give you some basic idea about tackling on a battle."
+    o "首先，我已经和洛萨尔打过招呼了。他会指导你一些基础的战斗招式。"
 
-#     # o "Second, Sebas can bring you around the corners of the village, he used to travel a lot so just ask him anything about delivering your items."
-#     o ""
+translate schinese Ole_Postal_Training_06092a45:
 
-# translate schinese Ole_Postal_Training_7ac2cc18:
+    # o "Second, Sebas can bring you around the corners of the village, he used to travel a lot so just ask him anything about delivering your items."
+    o "其次，塞巴斯会带你到乐村附近转一转熟悉环境，他曾经游历过不少地方，有关物资获取、运送的疑问你都可以问他。"
 
-#     # o "Third one is just Rahim talking about your equipment, item and making your own clothes."
-#     o ""
+translate schinese Ole_Postal_Training_7ac2cc18:
 
-# translate schinese Ole_Postal_Training_e58826b7:
+    # o "Third one is just Rahim talking about your equipment, item and making your own clothes."
+    o "最后，雷希姆会向你详细介绍装备和其他物品的制作方法，这样你兴许可以给自己做一套衣服。"
 
-#     # e "Are you going to teach me anything particular?"
-#     e ""
+translate schinese Ole_Postal_Training_e58826b7:
 
-# translate schinese Ole_Postal_Training_e1fa8197:
+    # e "Are you going to teach me anything particular?"
+    e "你呢？你会教我什么？"
 
-#     # o "Nope, I'm gonna stay and watch over the shop. When you finish all three trainings just come back to me and I'll give you a badge of certificate."
-#     o ""
+translate schinese Ole_Postal_Training_e1fa8197:
 
-# translate schinese Ole_Postal_Training_ab8f28e6:
+    # o "Nope, I'm gonna stay and watch over the shop. When you finish all three trainings just come back to me and I'll give you a badge of certificate."
+    o "我得留下来看店。如果你完成了这三项训练，记得来告诉我，我会给你颁发邮递员资质徽章。"
 
-#     # e "This is so elaborate, I thought couriers just take and deliver stuff."
-#     e ""
+translate schinese Ole_Postal_Training_ab8f28e6:
 
-# translate schinese Ole_Postal_Training_e6f1fc98:
+    # e "This is so elaborate, I thought couriers just take and deliver stuff."
+    e "邮递员的工作不就是帮人跑腿，多简单，没必要这么讲究吧。"
 
-#     # o "You see, there was another courier from the town, we were pretty friendly. Just like you, he told me that he just takes and delivers stuff. "
-#     o ""
+translate schinese Ole_Postal_Training_e6f1fc98:
 
-# translate schinese Ole_Postal_Training_6926132c:
+    # o "You see, there was another courier from the town, we were pretty friendly. Just like you, he told me that he just takes and delivers stuff. "
+    o "听我说，我们这以前有个从镇上来的邮递员。他就像你一样，说自己只是帮人跑腿，简简单单。"
 
-#     # o "Two weeks later, he died to the monsters on the way to Lusterfield."
-#     o ""
+translate schinese Ole_Postal_Training_6926132c:
 
-# translate schinese Ole_Postal_Training_2ffbd802:
+    # o "Two weeks later, he died to the monsters on the way to Lusterfield."
+    o "我们本来相处得很融洽，可没想到两个星期后，他被怪兽袭击，死在了回来的路上。"
 
-#     # e "Really? How did you know..."
-#     e ""
+translate schinese Ole_Postal_Training_2ffbd802:
 
-# translate schinese Ole_Postal_Training_781e6083:
+    # e "Really? How did you know..."
+    e "真的假的？你怎么知道……"
 
-#     # o "Well no one has seen him again. We assumed he was unfortunately eaten by the monster. The moral of the story is, always be prepared for any kind of threat."
-#     o ""
+translate schinese Ole_Postal_Training_781e6083:
 
-# translate schinese Ole_Postal_Training_458a6978:
+    # o "Well no one has seen him again. We assumed he was unfortunately eaten by the monster. The moral of the story is, always be prepared for any kind of threat."
+    o "因为没有人再看见过他，所以我们只能推测他被怪兽吃掉了。总之，要从他的经历吸取教训，多防一步少出事故。"
 
-#     # o "Things doesn't always happen like how you imagined. So just take the training seriously, I don't want to lose you to the wild just like the last courier."
-#     o ""
+translate schinese Ole_Postal_Training_458a6978:
 
-# translate schinese Ole_Postal_Training_4c86e27f:
+    # o "Things doesn't always happen like how you imagined. So just take the training seriously, I don't want to lose you to the wild just like the last courier."
+    o "事情不总会朝你预想的方向发展。我希望你能认真对待这次培训，不要重蹈上一任邮递员的覆辙。"
 
-#     # o "Alright, enough serious talk. I wrote all the details of the training in your journal, remember to check it out if you forget about anything."
-#     o ""
+translate schinese Ole_Postal_Training_4c86e27f:
 
-# translate schinese Ole_Postal_Training_286af918:
+    # o "Alright, enough serious talk. I wrote all the details of the training in your journal, remember to check it out if you forget about anything."
+    o "嗯，严肃的话点到即止。我已经把相关详细内容写到你笔记本上了，这样你就不怕忘记要找谁训练。"
 
-#     # e "I will, Ole."
-#     e ""
+translate schinese Ole_Postal_Training_286af918:
 
-# translate schinese Ole_Postal_Training_b729b5c2:
+    # e "I will, Ole."
+    e "我会好好训练的，奥利。"
 
-#     # msg "Your Journal has been updated."
-#     msg ""
+translate schinese Ole_Postal_Training_b729b5c2:
+
+    # msg "Your Journal has been updated."
+    msg "备忘录已更新"
 
 # translate schinese Ole_Ask_Lusterfield_People_69aa160d:
 
@@ -9713,185 +9720,189 @@ translate schinese strings:
 #     # r "You are good."
 #     r ""
 
-# translate schinese Rahim_Postal_Training_05d05f0a:
+#任务3
 
-#     # e "Rahim, did Ole talk to you about my training?"
-#     e ""
+translate schinese Rahim_Postal_Training_05d05f0a:
 
-# translate schinese Rahim_Postal_Training_f172ad38:
+    # e "Rahim, did Ole talk to you about my training?"
+    e "雷叔，奥利有向您提过的我的培训吗？"
 
-#     # r "Yes...?"
-#     r ""
+translate schinese Rahim_Postal_Training_f172ad38:
 
-# translate schinese Rahim_Postal_Training_72a33094:
+    # r "Yes...?"
+    r "有……怎么了？"
 
-#     # e "..."
-#     e "……"
+translate schinese Rahim_Postal_Training_72a33094:
 
-# translate schinese Rahim_Postal_Training_83e7e8da:
+    # e "..."
+    e "……"
 
-#     # e "Can I get a training from you?"
-#     e ""
+translate schinese Rahim_Postal_Training_83e7e8da:
 
-# translate schinese Rahim_Postal_Training_a3984083:
+    # e "Can I get a training from you?"
+    e "我现在来培训……可以吗？"
 
-#     # r "Okay. I'll keep it simple and quick."
-#     r ""
+translate schinese Rahim_Postal_Training_a3984083:
 
-# translate schinese Rahim_Postal_Training_3b59ed57:
+    # r "Okay. I'll keep it simple and quick."
+    r "可以，我长话短说。"
 
-#     # e "Thanks, Rahim."
-#     e ""
+translate schinese Rahim_Postal_Training_3b59ed57:
 
-# translate schinese Rahim_Postal_Training_94d8330f:
+    # e "Thanks, Rahim."
+    e "谢谢雷叔。"
 
-#     # r "You've gone through your bag I presume. You can put on different types of equipment."
-#     r ""
+translate schinese Rahim_Postal_Training_94d8330f:
 
-# translate schinese Rahim_Postal_Training_8e2ec3ab:
+    # r "You've gone through your bag I presume. You can put on different types of equipment."
+    r "我相信你已经检查过你的背包了，你可以穿戴上不同种类的装备。"
 
-#     # r "Your weapon, your outfit. and accessories."
-#     r ""
+translate schinese Rahim_Postal_Training_8e2ec3ab:
 
-# translate schinese Rahim_Postal_Training_60f105a8:
+    # r "Your weapon, your outfit. and accessories."
+    r "武器、盔甲、饰品。"
 
-#     # r "To make the item you need, just come here and check out the workstations."
-#     r ""
+translate schinese Rahim_Postal_Training_60f105a8:
 
-# translate schinese Rahim_Postal_Training_2a562a02:
+    # r "To make the item you need, just come here and check out the workstations."
+    r "如果你要制作物品，就用那边的工作台。"
 
-#     # e "Hmm... where is it?"
-#     e ""
+translate schinese Rahim_Postal_Training_2a562a02:
 
-# translate schinese Rahim_Postal_Training_c921e12c:
+    # e "Hmm... where is it?"
+    e "呃……哪边？"
 
-#     # r "The sewing machine."
-#     r ""
+translate schinese Rahim_Postal_Training_c921e12c:
 
-# translate schinese Rahim_Postal_Training_c9c02c01:
+    # r "The sewing machine."
+    r "那台缝纫机看到没。"
 
-#     # e "Ah... I see."
-#     e ""
+translate schinese Rahim_Postal_Training_c9c02c01:
 
-# translate schinese Rahim_Postal_Training_a796ba30:
+    # e "Ah... I see."
+    e "啊……看到了。"
 
-#     # r "You probably already know what crafting is. You need to learn a recipe to make your item."
-#     r ""
+translate schinese Rahim_Postal_Training_a796ba30:
 
-# translate schinese Rahim_Postal_Training_cca54020:
+    # r "You probably already know what crafting is. You need to learn a recipe to make your item."
+    r "制作物品的概念不必赘述，但制作的前提是你知道它的制作方法，也就是“工艺”。"
 
-#     # r "Hmm... I've got one."
-#     r ""
+translate schinese Rahim_Postal_Training_cca54020:
 
-# translate schinese Rahim_Postal_Training_98d576be:
+    # r "Hmm... I've got one."
+    r "嗯……我这有一份。"
 
-#     # r "You probably want something to cover your upper part. I can teach you to make tunic."
-#     r ""
+translate schinese Rahim_Postal_Training_98d576be:
 
-# translate schinese Rahim_Postal_Training_c104587d:
+    # r "You probably want something to cover your upper part. I can teach you to make tunic."
+    r "我猜你想要有件能遮住上半身的衣服。我可以教你怎么做长袍。"
 
-#     # e "Hmm... should I cover my upper part?"
-#     e ""
+translate schinese Rahim_Postal_Training_c104587d:
 
-# translate schinese Rahim_Postal_Training_bec3b4af:
+    # e "Hmm... should I cover my upper part?"
+    e "呃……我要遮住上半身吗？"
 
-#     # r "Yes."
-#     r ""
+translate schinese Rahim_Postal_Training_bec3b4af:
 
-# translate schinese Rahim_Postal_Training_892df308:
+    # r "Yes."
+    r "要。"
 
-#     # e "O-ok. What ingredients do I need?"
-#     e ""
+translate schinese Rahim_Postal_Training_892df308:
 
-# translate schinese Rahim_Postal_Training_2b52781e:
+    # e "O-ok. What ingredients do I need?"
+    e "好、好的。我需要用到哪些材料？"
 
-#     # r "Two pieces of cloth. Look I'll give you these. Your task is very simple, just make the tunic and bring it to me."
-#     r ""
+translate schinese Rahim_Postal_Training_2b52781e:
 
-# translate schinese Rahim_Postal_Training_e40338aa:
+    # r "Two pieces of cloth. Look I'll give you these. Your task is very simple, just make the tunic and bring it to me."
+    r "两匹布，我会拿给你。至于你的考核任务，非常简单，做一件长袍带来给我检查。"
 
-#     # e "Thanks Rahim. I'll bring it to you very quickly."
-#     e ""
+translate schinese Rahim_Postal_Training_e40338aa:
 
-# translate schinese Rahim_Postal_Finish_3e6a72d7:
+    # e "Thanks Rahim. I'll bring it to you very quickly."
+    e "谢谢雷叔，我马上去做。"
 
-#     # e "Hello, Rahim! I've finished the tunic!"
-#     e ""
+#完成任务3
 
-# translate schinese Rahim_Postal_Finish_c72901fe:
+translate schinese Rahim_Postal_Finish_3e6a72d7:
 
-#     # r "Let me see."
-#     r ""
+    # e "Hello, Rahim! I've finished the tunic!"
+    e "嗨，雷叔！我做出长袍了！"
 
-# translate schinese Rahim_Postal_Finish_d2737031:
+translate schinese Rahim_Postal_Finish_c72901fe:
 
-#     # r "Hmm... looking good. The sewing is slightly amateur but I can see the effort you put in there."
-#     r ""
+    # r "Let me see."
+    r "我看看。"
 
-# translate schinese Rahim_Postal_Finish_f8321530:
+translate schinese Rahim_Postal_Finish_d2737031:
 
-#     # e "Thank you...?"
-#     e ""
+    # r "Hmm... looking good. The sewing is slightly amateur but I can see the effort you put in there."
+    r "成色不错……虽然缝口吃势不够略显手生，但能看出你努力的痕迹。"
 
-# translate schinese Rahim_Postal_Finish_f69c83cc:
+translate schinese Rahim_Postal_Finish_f8321530:
 
-#     # r "Yeah... Good. Nice. I'll talk to Ole about your performance."
-#     r ""
+    # e "Thank you...?"
+    e "谢谢……？"
 
-# translate schinese Rahim_Postal_Finish_bb92cf10:
+translate schinese Rahim_Postal_Finish_f69c83cc:
 
-#     # e "That's really nice. Thanks, Rahim."
-#     e ""
+    # r "Yeah... Good. Nice. I'll talk to Ole about your performance."
+    r "嗯……很不错，我会告诉奥利你出色地完成了训练。"
 
-# translate schinese Rahim_Postal_Finish_ab6911cd:
+translate schinese Rahim_Postal_Finish_bb92cf10:
 
-#     # r "No problem, you've been pleasant to talk to. Come here often."
-#     r ""
+    # e "That's really nice. Thanks, Rahim."
+    e "太好了。谢谢雷叔。"
 
-# translate schinese Rahim_Postal_Finish_b30368a7:
+translate schinese Rahim_Postal_Finish_ab6911cd:
 
-#     # e "Of course! Thanks again!"
-#     e ""
+    # r "No problem, you've been pleasant to talk to. Come here often."
+    r "小事。和你讲话挺愉快的，有空常来坐坐。"
 
-# translate schinese Rahim_Postal_Finish_715dd096:
+translate schinese Rahim_Postal_Finish_b30368a7:
 
-#     # r "You... don't have the tunic."
-#     r ""
+    # e "Of course! Thanks again!"
+    e "我会的！再次感谢您的教导！"
 
-# translate schinese Rahim_Postal_Finish_d7da90a8:
+translate schinese Rahim_Postal_Finish_715dd096:
 
-#     # e "Wait..."
-#     e ""
+    # r "You... don't have the tunic."
+    r "你……想糊弄谁。"
 
-# translate schinese Rahim_Postal_Finish_9bdb345f:
+translate schinese Rahim_Postal_Finish_d7da90a8:
 
-#     # r "Come back and talk to me when it's done. I'm going to do something else."
-#     r ""
+    # e "Wait..."
+    e "诶怎么……"
 
-# translate schinese Rahim_Postal_Finish_530f3065:
+translate schinese Rahim_Postal_Finish_9bdb345f:
 
-#     # e "Ok, I'll be back soon."
-#     e ""
+    # r "Come back and talk to me when it's done. I'm going to do something else."
+    r "做好长袍再来找我，我还有其他事情要忙。"
 
-# translate schinese Rahim_Postal_Finish_715dd096_1:
+translate schinese Rahim_Postal_Finish_530f3065:
 
-#     # r "You... don't have the tunic."
-#     r ""
+    # e "Ok, I'll be back soon."
+    e "嗯，待会见。"
 
-# translate schinese Rahim_Postal_Finish_d7da90a8_1:
+translate schinese Rahim_Postal_Finish_715dd096_1:
 
-#     # e "Wait..."
-#     e ""
+    # r "You... don't have the tunic."
+    r "你……想糊弄谁。"
 
-# translate schinese Rahim_Postal_Finish_9bdb345f_1:
+translate schinese Rahim_Postal_Finish_d7da90a8_1:
 
-#     # r "Come back and talk to me when it's done. I'm going to do something else."
-#     r ""
+    # e "Wait..."
+    e "诶怎么……"
 
-# translate schinese Rahim_Postal_Finish_530f3065_1:
+translate schinese Rahim_Postal_Finish_9bdb345f_1:
 
-#     # e "Ok, I'll be back soon."
-#     e ""
+    # r "Come back and talk to me when it's done. I'm going to do something else."
+    r "做好长袍再来找我，我还有其他事情要忙。"
+
+translate schinese Rahim_Postal_Finish_530f3065_1:
+
+    # e "Ok, I'll be back soon."
+    e "嗯，待会见。"
 
 # translate schinese Rahim_Ask_Lusterfield_People_789effe3:
 

@@ -58,7 +58,7 @@ translate schinese strings:
     new "经验 [pc.exp]/[pc.expCap]"
 
     old "HP: [pc.hp]/[pc.max_hp]"
-    new "血量 [pc.hp]/[pc.max_hp]"
+    new "体力 [pc.hp]/[pc.max_hp]"
 
     old "MP: [pc.mp]/[pc.max_mp]"
     new "魔力 [pc.mp]/[pc.max_mp]"
@@ -70,7 +70,7 @@ translate schinese strings:
     new "标本"
 
     old "Strength (STR) determines [e]'s physical power, including Attack Damage, and small amount of HP and Defense."
-    new "力量值（STR）决定了[e]身体运动的劲度，主要影响物理攻击伤害，少许影响血量和防御。"
+    new "力量值（STR）决定了[e]身体运动的劲度，主要影响物理攻击伤害，少许影响体力和防御。"
 
     old "Agility (AGI) determines [e]'s speed, including Hit Rate, Critical Damage, Critical Chance and Dodge Chance."
     new "敏捷值（AGI）决定了[e]行动的速度，主要影响命中率、暴击系数、暴击率和闪避率。"

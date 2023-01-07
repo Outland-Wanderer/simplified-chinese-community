@@ -3948,85 +3948,87 @@ translate schinese strings:
 #     # e "...Ok, Cane."
 #     e ""
 
-# translate schinese Cane_Order_740b1efb:
+#点单
 
-#     # e "I want to order something from you..."
-#     e ""
+translate schinese Cane_Order_740b1efb:
 
-# translate schinese Cane_Order_109d0e69:
+    # e "I want to order something from you..."
+    e "老板，点单。"
 
-#     # c "Of course ya dink donk, we've got beer for 15, and our new Ale for 20 gold. Want one?"
-#     c ""
+translate schinese Cane_Order_109d0e69:
 
-# translate schinese Cane_Order_ab6d13e9:
+    # c "Of course ya dink donk, we've got beer for 15, and our new Ale for 20 gold. Want one?"
+    c "小酒糟，淡啤酒一杯 15，黑啤酒一杯 20。上哪种？"
 
-#     # c "Of course ya dink donk, we have some beer right now, takes ya 15 gold. Want one?"
-#     c ""
+translate schinese Cane_Order_ab6d13e9:
 
-# translate schinese Cane_Order_ba9a6668:
+    # c "Of course ya dink donk, we have some beer right now, takes ya 15 gold. Want one?"
+    c "小酒糟，淡啤酒 15 来一杯？"
 
-#     # e "hmmm...." nointeract
-#     e "" nointeract
+translate schinese Cane_Order_ba9a6668:
 
-# translate schinese Cane_Order_45375577:
+    # e "hmmm...." nointeract
+    e "呃……" nointeract
 
-#     # e "I'll take one beer."
-#     e ""
+translate schinese Cane_Order_45375577:
 
-# translate schinese Cane_Order_bc6178b0:
+    # e "I'll take one beer."
+    e "一杯淡啤酒。"
 
-#     # c "Good, here's yers, enjoy."
-#     c ""
+translate schinese Cane_Order_bc6178b0:
 
-# translate schinese Cane_Order_40dce0df:
+    # c "Good, here's yers, enjoy."
+    c "好嘞，一杯淡啤酒，慢用。"
 
-#     # e "I'll take one."
-#     e ""
+translate schinese Cane_Order_40dce0df:
 
-# translate schinese Cane_Order_da44e24e:
+    # e "I'll take one."
+    e "来一杯。"
 
-#     # c "Uhh... Ya dummy, look at yer pouch, [pc.gold] gold is not enough for a beer, mister."
-#     c ""
+translate schinese Cane_Order_da44e24e:
 
-# translate schinese Cane_Order_6b1d6423:
+    # c "Uhh... Ya dummy, look at yer pouch, [pc.gold] gold is not enough for a beer, mister."
+    c "呃……乖乖，瞧瞧你口袋，[pc.gold] 块钱可不够喝酒。"
 
-#     # e "Oh... sorry about that."
-#     e ""
+translate schinese Cane_Order_6b1d6423:
 
-# translate schinese Cane_Order_11ec3786:
+    # e "Oh... sorry about that."
+    e "噢……抱歉。"
 
-#     # e "I'll take an ale."
-#     e ""
+translate schinese Cane_Order_11ec3786:
 
-# translate schinese Cane_Order_8ef0a3d3:
+    # e "I'll take an ale."
+    e "一杯黑啤酒。"
 
-#     # c "Good, here's yer ale, enjoy."
-#     c ""
+translate schinese Cane_Order_8ef0a3d3:
 
-# translate schinese Cane_Order_40dce0df_1:
+    # c "Good, here's yer ale, enjoy."
+    c "好嘞，一杯黑啤酒，慢用。"
 
-#     # e "I'll take one."
-#     e ""
+translate schinese Cane_Order_40dce0df_1:
 
-# translate schinese Cane_Order_f6000285:
+    # e "I'll take one."
+    e "一杯黑啤酒。"
 
-#     # c "Uhh... Ya dummy, look at yer pouch, [pc.gold] gold is not enough for an ale, lad."
-#     c ""
+translate schinese Cane_Order_f6000285:
 
-# translate schinese Cane_Order_6b1d6423_1:
+    # c "Uhh... Ya dummy, look at yer pouch, [pc.gold] gold is not enough for an ale, lad."
+    c "呃……乖乖，瞧瞧你口袋，[pc.gold] 块钱可不够喝黑啤酒。"
 
-#     # e "Oh... sorry about that."
-#     e ""
+translate schinese Cane_Order_6b1d6423_1:
 
-# translate schinese Cane_Order_1c150e2e:
+    # e "Oh... sorry about that."
+    e "噢……抱歉。"
 
-#     # e "I'll think about it later."
-#     e ""
+translate schinese Cane_Order_1c150e2e:
 
-# translate schinese Cane_Order_2acac5fa:
+    # e "I'll think about it later."
+    e "我还是待会再来吧。"
 
-#     # c "Ya better."
-#     c ""
+translate schinese Cane_Order_2acac5fa:
+
+    # c "Ya better."
+    c "说话算话啊。"
 
 # translate schinese Cane_Event_Patron_Show_5518bece:
 
@@ -4780,7 +4782,7 @@ translate schinese Cane_First_d2df1bbe:
 translate schinese Cane_First_f56b47ff:
 
     # m "Welcome to the Nocturnal Trunk, Outsider."
-    m "欢迎光临夜夜椿，外乡仔。"
+    m "欢迎光临夜夜椿，外乡仔[e]。"
 
 translate schinese Cane_First_54d14e14:
 
@@ -4792,7 +4794,7 @@ translate schinese Cane_First_54d14e14:
 translate schinese Cane_First_fbd04217:
 
     # m "That hunky dunky Lothar told me a goat outsider disrespected him. Ya got the guts to mix up his name like that, [e]."
-    m "洛萨尔那头糙狼夜儿来过我这嚷嚷有个海外山羊对他大不敬。你胆子可真够大的啊，敢把他名字弄混，[e]。"
+    m "洛萨尔那头糙狼夜儿来过我这嚷嚷有个海外山羊对他大不敬。你胆子可真够肥的啊，敢把他名字弄混，[e]。"
 
 translate schinese Cane_First_60610ff3:
 
@@ -8962,7 +8964,7 @@ translate schinese strings:
 
     old "Go to hunt the monster nearby"
     new "提议一同猎取怪物"
-# TODO
+#TODO
     old "Ask about the stone from the caravan"
     new "Ask about the stone from the caravan"
 
@@ -8991,7 +8993,7 @@ translate schinese strings:
     new "询问前往招藓河的打算"
 
     old "Ask about him being a hero"
-    new "询问成为英雄的感受"
+    new "好奇成为英雄的感受"
 
     old "How are you doing?"
     new "询问近来的情况"
@@ -15046,380 +15048,395 @@ translate schinese strings:
 #     # s "Hehe. Maybe after my work, you impatient little guy."
 #     s ""
 
-# translate schinese Lothar_Postal_Training_bc86c150:
+#任务4
 
-#     # e "Lothar! I'm ready for the training!"
-#     e ""
+translate schinese Lothar_Postal_Training_bc86c150:
 
-# translate schinese Lothar_Postal_Training_8f3f1f53:
+    # e "Lothar! I'm ready for the training!"
+    e "洛萨尔！我们开始训练吧！"
 
-#     # l "It seems like you are. Are you ready for some epic battles with the hero?"
-#     l ""
+translate schinese Lothar_Postal_Training_8f3f1f53:
 
-# translate schinese Lothar_Postal_Training_fda39583:
+    # l "It seems like you are. Are you ready for some epic battles with the hero?"
+    l "嗯哼，准备好和大英雄巅峰对决了吗？"
 
-#     # e "Yes, Lothar. I'll show you what I got."
-#     e ""
+translate schinese Lothar_Postal_Training_fda39583:
 
-# translate schinese Lothar_Postal_Training_b6559858:
+    # e "Yes, Lothar. I'll show you what I got."
+    e "当然准备好了，你等着对我刮目相看吧。"
 
-#     # l "Ha, bring it on... on the practice dummy I had over there."
-#     l ""
+translate schinese Lothar_Postal_Training_b6559858:
 
-# translate schinese Lothar_Postal_Training_02a26847:
+    # l "Ha, bring it on... on the practice dummy I had over there."
+    l "哈，那就让——那边的人偶桩对你刮目相看吧。"
 
-#     # e "Wait... I thought our training was us brawling and practicing together?"
-#     e ""
+translate schinese Lothar_Postal_Training_02a26847:
 
-# translate schinese Lothar_Postal_Training_6589b419:
+    # e "Wait... I thought our training was us brawling and practicing together?"
+    e "等等……不是你和我互相切磋练习吗？"
 
-#     # l "Who do you think I am, some kind of low-life who have nothing to do? I have a village to protect."
-#     l ""
+translate schinese Lothar_Postal_Training_6589b419:
 
-# translate schinese Lothar_Postal_Training_faa7d97b:
+    # l "Who do you think I am, some kind of low-life who have nothing to do? I have a village to protect."
+    l "你也不想想站在你面前的是谁，无所事事整天闲逛的小混混？我可有一整个村庄要守护。"
 
-#     # e "Hmm..."
-#     e ""
+translate schinese Lothar_Postal_Training_faa7d97b:
 
-# translate schinese Lothar_Postal_Training_1b7cfda3:
+    # e "Hmm..."
+    e "呃……"
 
-#     # l "Does this look like a tutorial to you? Do I really need to hold your hand to fight?"
-#     l ""
+translate schinese Lothar_Postal_Training_1b7cfda3:
 
-# translate schinese Lothar_Postal_Training_29f048ed:
+    # l "Does this look like a tutorial to you? Do I really need to hold your hand to fight?"
+    l "难道你觉得这是个新手教程，还需要我手把手教你打架？"
 
-#     # e "No... but you can teach me something useful?"
-#     e ""
+translate schinese Lothar_Postal_Training_29f048ed:
 
-# translate schinese Lothar_Postal_Training_1d3b9ab5:
+    # e "No... but you can teach me something useful?"
+    e "没有……但你可不可以先教我一些有用的技巧？"
 
-#     # l "Alright, you needy fur lizard."
-#     l ""
+translate schinese Lothar_Postal_Training_1d3b9ab5:
 
-# translate schinese Lothar_Postal_Training_02b8df2e:
+    # l "Alright, you needy fur lizard."
+    l "好吧，你个饥渴的长毛蜥蜴。"
 
-#     # l "We have different types of weapons, sword, axe and bow, all different for different usages."
-#     l ""
+translate schinese Lothar_Postal_Training_02b8df2e:
 
-# translate schinese Lothar_Postal_Training_c7bc0778:
+    # l "We have different types of weapons, sword, axe and bow, all different for different usages."
+    l "剑、斧头、弓箭等等不同类型的武器各自适合不同的战斗场景。"
 
-#     # l "For example, you'd be better off shooting bow at things that fly, because you won't get close to them to use your weapon until they kill you and dump you in the middle of the road."
-#     l ""
+translate schinese Lothar_Postal_Training_c7bc0778:
 
-# translate schinese Lothar_Postal_Training_8820adf7:
+    # l "For example, you'd be better off shooting bow at things that fly, because you won't get close to them to use your weapon until they kill you and dump you in the middle of the road."
+    l "比如对付飞在天上的怪物，你最好用弓箭等远程武器击杀他们，因为他们直到你死了，把你抛到路中间，才会主动进入你近战武器的攻击范围。"
 
-#     # e "Got it. So I need a sword, axe and bow with me for special occasions."
-#     e ""
+translate schinese Lothar_Postal_Training_8820adf7:
 
-# translate schinese Lothar_Postal_Training_28d2616b:
+    # e "Got it. So I need a sword, axe and bow with me for special occasions."
+    e "懂了，所以应对不同的战斗场景我需要及时换用合适的武器。"
 
-#     # l "Sure. I prefer sword, easy, simple, no mess hanging around."
-#     l ""
+translate schinese Lothar_Postal_Training_28d2616b:
 
-# translate schinese Lothar_Postal_Training_39a282bf:
+    # l "Sure. I prefer sword, easy, simple, no mess hanging around."
+    l "没错。不过我最钟爱剑，趁手、简洁，不用在身上背乱七八糟的东西。"
 
-#     # l "Back to the main point, battles. The aim of a battle is of course, defeating your opponents. I'm sure you know that."
-#     l ""
+translate schinese Lothar_Postal_Training_39a282bf:
 
-# translate schinese Lothar_Postal_Training_4c6eb46d:
+    # l "Back to the main point, battles. The aim of a battle is of course, defeating your opponents. I'm sure you know that."
+    l "继续讲战斗。对战的目的——自然是击败对手，相信不用说你也知道。"
 
-#     # e "Hmm, this I know."
-#     e ""
+translate schinese Lothar_Postal_Training_4c6eb46d:
 
-# translate schinese Lothar_Postal_Training_47f1a5f8:
+    # e "Hmm, this I know."
+    e "是的，我知道。"
 
-#     # l "Stop cutting off, disciple. You normally have two ways to defeat them, make their physical health go down, or make their arousal go up."
-#     l ""
+translate schinese Lothar_Postal_Training_47f1a5f8:
 
-# translate schinese Lothar_Postal_Training_aac4925a:
+    # l "Stop cutting off, disciple. You normally have two ways to defeat them, make their physical health go down, or make their arousal go up."
+    l "别插嘴，小徒弟。通常你有两种方式击败敌人，物理攻击或者生理诱惑。"
 
-#     # e "Hmm... what do you mean arousal?"
-#     e ""
+translate schinese Lothar_Postal_Training_aac4925a:
 
-# translate schinese Lothar_Postal_Training_98959672:
+    # e "Hmm... what do you mean arousal?"
+    e "呃……什么是生理诱惑？"
 
-#     # l "You know what I mean, something like teasing your opponents, making them flush or something."
-#     l ""
+translate schinese Lothar_Postal_Training_98959672:
 
-# translate schinese Lothar_Postal_Training_fac725ca:
+    # l "You know what I mean, something like teasing your opponents, making them flush or something."
+    l "你懂的，调戏你的对手，让他们脸红之类。"
 
-#     # e "But how will this defeat my enemies?"
-#     e ""
+translate schinese Lothar_Postal_Training_fac725ca:
 
-# translate schinese Lothar_Postal_Training_1f279920:
+    # e "But how will this defeat my enemies?"
+    e "这怎么可能打败得了敌人？"
 
-#     # l "People in this world are easily aroused, outsider. If you're really charming then the enemies will gravitate towards submitting to you."
-#     l ""
+translate schinese Lothar_Postal_Training_1f279920:
 
-# translate schinese Lothar_Postal_Training_cca62d87:
+    # l "People in this world are easily aroused, outsider. If you're really charming then the enemies will gravitate towards submitting to you."
+    l "我们世界的生物非常容易发情，外乡仔。只要你够色气、够勾魂，敌人自然会屈服于你的魅力。"
 
-#     # e "Hmmph... what a weird world. Is this how you defeated the goat leader?"
-#     e ""
+translate schinese Lothar_Postal_Training_cca62d87:
 
-# translate schinese Lothar_Postal_Training_99a9f456:
+    # e "Hmmph... what a weird world. Is this how you defeated the goat leader?"
+    e "呃……奇怪的异世界。难道你就是通过色诱打败山羊部落领袖的？"
 
-#     # l "W-what? I'm the hero of lusterfield, a-alright. I don't do dirty tricks."
-#     l ""
+translate schinese Lothar_Postal_Training_99a9f456:
 
-# translate schinese Lothar_Postal_Training_8feaeffd:
+    # l "W-what? I'm the hero of lusterfield, a-alright. I don't do dirty tricks."
+    l "什、什么？我可是乐斯民菲尔德的大英雄，你要知道。我从不以阴招取胜。"
 
-#     # "Lothar crosses his arm much harder, you can clearly see him awkwardly trying to shift topic. You can imagine that if it was true, that would be a messed up situation."
-#     ""
+translate schinese Lothar_Postal_Training_8feaeffd:
 
-# translate schinese Lothar_Postal_Training_2aa99488:
+    # "Lothar crosses his arm much harder, you can clearly see him awkwardly trying to shift topic. You can imagine that if it was true, that would be a messed up situation."
+    "洛萨尔的尴尬溢于言表，他努力尝试转移话题，交叉的双臂缠得更紧了。你想象着如果自己没猜错，那场面得多淫乱啊。"
 
-#     # l "Ahem. Anyways, you can try to escape, or if you are tired you can just surrender yourself to the enemy."
-#     l ""
+translate schinese Lothar_Postal_Training_2aa99488:
 
-# translate schinese Lothar_Postal_Training_e15fefdc:
+    # l "Ahem. Anyways, you can try to escape, or if you are tired you can just surrender yourself to the enemy."
+    l "咳嗯。回到正题，你也可以逃跑，或者投降，如果你实在太累的话。"
 
-#     # l "It probably leads to bad things though, so I won't advice you to do that."
-#     l ""
+translate schinese Lothar_Postal_Training_e15fefdc:
 
-# translate schinese Lothar_Postal_Training_55f4b428:
+    # l "It probably leads to bad things though, so I won't advice you to do that."
+    l "但这样结果可能会很糟糕，所以我不建议你投降。"
 
-#     # e "Yes... They'd steal all my gold."
-#     e ""
+translate schinese Lothar_Postal_Training_55f4b428:
 
-# translate schinese Lothar_Postal_Training_66fd0c86:
+    # e "Yes... They'd steal all my gold."
+    e "是啊……他们会抢走我的钱。"
 
-#     # l "Ha, not all of them, but if you make them angry you better be very sorry."
-#     l ""
+translate schinese Lothar_Postal_Training_66fd0c86:
 
-# translate schinese Lothar_Postal_Training_eb219ae7:
+    # l "Ha, not all of them, but if you make them angry you better be very sorry."
+    l "哈，钱可不是他们唯一要抢走的东西。如果你惹毛他们了，投降时最好表现得更有诚意些。"
 
-#     # l "Also, Abilities, or spells. Those that requires some amount of magic."
-#     l ""
+translate schinese Lothar_Postal_Training_eb219ae7:
 
-# translate schinese Lothar_Postal_Training_71cab8de:
+    # l "Also, Abilities, or spells. Those that requires some amount of magic."
+    l "另外，你还可以施展技能，或者说，咒语。这需要耗费魔力。"
 
-#     # e "Yes, I know... hmm... Self Heal and Fortify? Is that it?"
-#     e ""
+translate schinese Lothar_Postal_Training_71cab8de:
 
-# translate schinese Lothar_Postal_Training_aaa3fbac:
+    # e "Yes, I know... hmm... Self Heal and Fortify? Is that it?"
+    e "嗯，我知道……比如“自愈”和“设防”，对吗？"
 
-#     # l "You'd probably learn more along your journey anyway, I'm not a magic user so don't think I'll teach you any spells."
-#     l ""
+translate schinese Lothar_Postal_Training_aaa3fbac:
 
-# translate schinese Lothar_Postal_Training_27051342:
+    # l "You'd probably learn more along your journey anyway, I'm not a magic user so don't think I'll teach you any spells."
+    l "今后你还会学习到各种各样的技能。我不用魔法，所以我也教不了你咒语。"
 
-#     # l "However, my practice dummy has a little magic to it, it can simulate fighting a battle with you."
-#     l ""
+translate schinese Lothar_Postal_Training_27051342:
 
-# translate schinese Lothar_Postal_Training_666bc26c:
+    # l "However, my practice dummy has a little magic to it, it can simulate fighting a battle with you."
+    l "但我的训练人偶桩倒是带了点魔法，可以与你模拟对战。"
 
-#     # l "So... I want you to defeat the dummy in the alleyway. If you win, he'll give you a patch."
-#     l ""
+translate schinese Lothar_Postal_Training_666bc26c:
 
-# translate schinese Lothar_Postal_Training_89f1fec1:
+    # l "So... I want you to defeat the dummy in the alleyway. If you win, he'll give you a patch."
+    l "所以……你的训练任务就是击败巷子里的人偶。如果你赢了，他会给你一块布当证明。"
 
-#     # e "Hmm... can I not? I already know how to fight."
-#     e ""
+translate schinese Lothar_Postal_Training_89f1fec1:
 
-# translate schinese Lothar_Postal_Training_619228dc:
+    # e "Hmm... can I not? I already know how to fight."
+    e "呃……可以跳过这部分吗？我已经知道怎么战斗了。"
 
-#     # l "Yeah... Sure. How about that, you probably don't know how to fight the other way, if you defeat your dummy, I'll show you what I know about flirting."
-#     l ""
+translate schinese Lothar_Postal_Training_619228dc:
 
-# translate schinese Lothar_Postal_Training_93d1c41d:
+    # l "Yeah... Sure. How about that, you probably don't know how to fight the other way, if you defeat your dummy, I'll show you what I know about flirting."
+    l "啊对对对……要不这样，另一种战斗方式你大概还不了解，如果你能打败人偶，我就教你更多关于诱惑的技巧。"
 
-#     # e "What about flirting?"
-#     e ""
+translate schinese Lothar_Postal_Training_93d1c41d:
 
-# translate schinese Lothar_Postal_Training_611ca771:
+    # e "What about flirting?"
+    e "什么关于诱惑的技巧？"
 
-#     # l "Something like this..."
-#     l ""
+translate schinese Lothar_Postal_Training_611ca771:
 
-# translate schinese Lothar_Postal_Training_0151ee6f:
+    # l "Something like this..."
+    l "比如……"
 
-#     # "Lothar directs his finger on your chest until it barely touches, your heart suddenly jumps as he slides his finger lower. You shudder at his touch."
-#     ""
+translate schinese Lothar_Postal_Training_0151ee6f:
 
-# translate schinese Lothar_Postal_Training_ba477b17:
+    # "Lothar directs his finger on your chest until it barely touches, your heart suddenly jumps as he slides his finger lower. You shudder at his touch."
+    "洛萨尔五指慢慢覆盖你的胸口，直到轻轻压上你的毛尖，你屏住呼吸，心跳加速。"
+    "怎料他的手爪突然向下滑去，刺激得你心脏差点漏跳一拍。"
 
-#     # "He seems to be oddly amused by your reaction, looking you up and down."
-#     ""
+translate schinese Lothar_Postal_Training_ba477b17:
 
-# translate schinese Lothar_Postal_Training_eb615820:
+    # "He seems to be oddly amused by your reaction, looking you up and down."
+    "灰狼露出怪异的微笑，上下打量着你全身，似乎对你的反应非常满意。"
 
-#     # l "Look, defeat the dummy, and we'll talk."
-#     l ""
+translate schinese Lothar_Postal_Training_eb615820:
 
-# translate schinese Lothar_Postal_Training_0dfa31be:
+    # l "Look, defeat the dummy, and we'll talk."
+    l "记清楚了，你的任务是打败人偶，然后向我报告。"
 
-#     # e "O-Okay, Lothar."
-#     e ""
+translate schinese Lothar_Postal_Training_0dfa31be:
 
-# translate schinese Lothar_Postal_Finish_3e4287a4:
+    # e "O-Okay, Lothar."
+    e "好、好的，洛萨尔。"
 
-#     # e "Lothar, I'm back from the practice."
-#     e ""
+#完成任务4
 
-# translate schinese Lothar_Postal_Finish_19ad34a8:
+translate schinese Lothar_Postal_Finish_3e4287a4:
 
-#     # l "Are you? Let me ask that dummy if you won or lost."
-#     l ""
+    # e "Lothar, I'm back from the practice."
+    e "洛萨尔，我完成训练了。"
 
-# translate schinese Lothar_Postal_Finish_9c09e4cc:
+translate schinese Lothar_Postal_Finish_19ad34a8:
 
-#     # "Lothar walks into the alleyway, a few seconds later he came back, giggling at your confused look."
-#     ""
+    # l "Are you? Let me ask that dummy if you won or lost."
+    l "是吗？我去问问人偶你表现如何。"
 
-# translate schinese Lothar_Postal_Finish_3d09b669:
+translate schinese Lothar_Postal_Finish_9c09e4cc:
 
-#     # l "He told me you got beaten up pretty badly, didn't you?"
-#     l ""
+    # "Lothar walks into the alleyway, a few seconds later he came back, giggling at your confused look."
+    "洛萨尔走进小巷子，不过十秒，他咯咯笑走了出来。你不解地看着他。"
 
-# translate schinese Lothar_Postal_Finish_3d2a8cab:
+translate schinese Lothar_Postal_Finish_3d09b669:
 
-#     # e "Well I just get closer for the dummy to hit me, I didn't know it'd hurt that much..."
-#     e ""
+    # l "He told me you got beaten up pretty badly, didn't you?"
+    l "他说你被揍得鼻青脸肿惨兮兮的，是不是啊？"
 
-# translate schinese Lothar_Postal_Finish_017cb340:
+translate schinese Lothar_Postal_Finish_3d2a8cab:
 
-#     # l "Sure you did. If I was practicing, I won't be letting that dummy touch me anywhere."
-#     l ""
+    # e "Well I just get closer for the dummy to hit me, I didn't know it'd hurt that much..."
+    e "呃我只是离得太近了，哪知道他那一巴掌这么痛……"
 
-# translate schinese Lothar_Postal_Finish_f75721ca:
+translate schinese Lothar_Postal_Finish_017cb340:
 
-#     # e "That would make it a one-sided fight."
-#     e ""
+    # l "Sure you did. If I was practicing, I won't be letting that dummy touch me anywhere."
+    l "果然初学者就是初学者。假如换做我，人偶根本碰不到我一丝一毫。"
 
-# translate schinese Lothar_Postal_Finish_73254cfe:
+translate schinese Lothar_Postal_Finish_f75721ca:
 
-#     # l "What do you know about fights anyway, [e]. I'm not some beginners at battles, I had been fighting for the majority of my life."
-#     l ""
+    # e "That would make it a one-sided fight."
+    e "单方面碾压又没有意义。"
 
-# translate schinese Lothar_Postal_Finish_f90de23a:
+translate schinese Lothar_Postal_Finish_73254cfe:
 
-#     # l "This dummy, it's getting old. It's been here for like what? 19 years? Almost older than you."
-#     l ""
+    # l "What do you know about fights anyway, [e]. I'm not some beginners at battles, I had been fighting for the majority of my life."
+    l "你懂什么，[e]。我可不是刚学会咬人的狼崽，我这辈子几乎都在刀光剑影中度过。"
 
-# translate schinese Lothar_Postal_Finish_521314e9:
+translate schinese Lothar_Postal_Finish_f90de23a:
 
-#     # e "Woah... it must take a lot of time to maintain the dummy, almost incredible you hadn't beat it to a pulp of cotton yet."
-#     e ""
+    # l "This dummy, it's getting old. It's been here for like what? 19 years? Almost older than you."
+    l "而这个人偶已经老了。他在这已经多少年来着？19 年？差点就大过你。"
 
-# translate schinese Lothar_Postal_Finish_23a6a199:
+translate schinese Lothar_Postal_Finish_521314e9:
 
-#     # l "I would never do it to him."
-#     l ""
+    # e "Woah... it must take a lot of time to maintain the dummy, almost incredible you hadn't beat it to a pulp of cotton yet."
+    e "哇……那维护他可得花不少时间吧，你竟然现在还没把他砍成一团棉花。"
 
-# translate schinese Lothar_Postal_Finish_3b659d67:
+translate schinese Lothar_Postal_Finish_23a6a199:
 
-#     # e "Yeah, but it's just a dummy."
-#     e ""
+    # l "I would never do it to him."
+    l "我永远都不会那么做。"
 
-# translate schinese Lothar_Postal_Finish_b9361b15:
+translate schinese Lothar_Postal_Finish_3b659d67:
 
-#     # l "You don't understand... whatever. You better pay some respect to my dummy if you want to keep training with him."
-#     l ""
+    # e "Yeah, but it's just a dummy."
+    e "嗯，他只是个道具而已。"
 
-# translate schinese Lothar_Postal_Finish_c7b5f685:
+translate schinese Lothar_Postal_Finish_b9361b15:
 
-#     # e "Yes, I will... is there any history between you and the dummy?"
-#     e ""
+    # l "You don't understand... whatever. You better pay some respect to my dummy if you want to keep training with him."
+    l "你不懂的……算了，反正你以后找人偶练习的时候最好对他尊敬点。"
 
-# translate schinese Lothar_Postal_Finish_a9a5017e:
+translate schinese Lothar_Postal_Finish_c7b5f685:
 
-#     # "Strangely Lothar didn't cut you off before you finish asking, instead, he looks back into the alleyway, staring at the dummy."
-#     ""
+    # e "Yes, I will... is there any history between you and the dummy?"
+    e "我会的……洛萨尔，你和他之间肯定有什么故事吧？"
 
-# translate schinese Lothar_Postal_Finish_1e73f1f7:
+translate schinese Lothar_Postal_Finish_a9a5017e:
 
-#     # l "I don't have time for story."
-#     l ""
+    # "Strangely Lothar didn't cut you off before you finish asking, instead, he looks back into the alleyway, staring at the dummy."
+    "不耐烦的大英雄一反常态，没有打断你发问。他望向巷子深处，望向那个训练用人偶。"
 
-# translate schinese Lothar_Postal_Finish_5fd10514:
+translate schinese Lothar_Postal_Finish_1e73f1f7:
 
-#     # e "Ok..."
-#     e ""
+    # l "I don't have time for story."
+    l "我没时间讲故事。"
 
-# translate schinese Lothar_Postal_Finish_263b6688:
+translate schinese Lothar_Postal_Finish_5fd10514:
 
-#     # l "I'll talk to the lizard with your training. It's done now."
-#     l ""
+    # e "Ok..."
+    e "好吧……"
 
-# translate schinese Lothar_Postal_Finish_3a6fa982:
+translate schinese Lothar_Postal_Finish_263b6688:
 
-#     # e "What about teaching me flirting?"
-#     e ""
+    # l "I'll talk to the lizard with your training. It's done now."
+    l "我会和那只蜥蜴说你训练完了。今天就到这里。"
 
-# translate schinese Lothar_Postal_Finish_51970578:
+translate schinese Lothar_Postal_Finish_3a6fa982:
 
-#     # l "Later I will. You will know when the lesson comes."
-#     l ""
+    # e "What about teaching me flirting?"
+    e "你不是答应教我更多关于诱惑的事情吗？"
 
-# translate schinese Lothar_Postal_Finish_b097527c:
+translate schinese Lothar_Postal_Finish_51970578:
 
-#     # e "Okay, thanks. See you Lothar."
-#     e ""
+    # l "Later I will. You will know when the lesson comes."
+    l "以后再说，等时机到了你自然会知道。"
 
-# translate schinese Lothar_Postal_Finish_2dd9edd6:
+translate schinese Lothar_Postal_Finish_b097527c:
 
-#     # "Lothar walks into the alleyway, a few seconds later he came back with a strange look on his face."
-#     ""
+    # e "Okay, thanks. See you Lothar."
+    e "嗯……谢谢你带我训练。回头见。"
 
-# translate schinese Lothar_Postal_Finish_50fcf88a:
+##未完成
 
-#     # l "Did you just lie to me, [e]." nointeract
-#     l "" nointeract
+translate schinese Lothar_Postal_Finish_2dd9edd6:
 
-# translate schinese Lothar_Postal_Finish_7188cbc6:
+    # "Lothar walks into the alleyway, a few seconds later he came back with a strange look on his face."
+    "洛萨尔走进小巷子，不过十秒，他满脸严肃地走了出来。"
 
-#     # e "I'm sorry Lothar... I thought the dummy wouldn't notice..."
-#     e ""
+translate schinese Lothar_Postal_Finish_50fcf88a:
 
-# translate schinese Lothar_Postal_Finish_ed2a2a1f:
+    # l "Did you just lie to me, [e]." nointeract
+    l "你刚刚有没有骗我，[e]。" nointeract
+#TODO
+# translate schinese strings:
 
-#     # l "I, the hero of Lusterfield, treated you give hospitality, giving you practice and such, and this is how you return the favour?"
-#     l ""
+#     old "Yes"
+#     new "承认"
 
-# translate schinese Lothar_Postal_Finish_5e4f4aa6:
+#     old "No"
+#     new "否认"
 
-#     # e "I didn't mean to..."
-#     e ""
+translate schinese Lothar_Postal_Finish_7188cbc6:
 
-# translate schinese Lothar_Postal_Finish_8928837b:
+    # e "I'm sorry Lothar... I thought the dummy wouldn't notice..."
+    e "对不起洛萨尔……我以为那个人偶不知道……"
 
-#     # l "If you were a lion I would kick you down there so hard you wouldn't need to learn flirting anymore, luckily you aren't."
-#     l ""
+translate schinese Lothar_Postal_Finish_ed2a2a1f:
 
-# translate schinese Lothar_Postal_Finish_30769e95:
+    # l "I, the hero of Lusterfield, treated you give hospitality, giving you practice and such, and this is how you return the favour?"
+    l "我洛萨尔，堂堂乐斯民菲尔德的大英雄，热心教你，费心带你，创造练习机会给你。而欺骗，就是你回报恩人的方式？"
 
-#     # e "Hmm... I'll go and fight the dummy now..."
-#     e ""
+translate schinese Lothar_Postal_Finish_5e4f4aa6:
 
-# translate schinese Lothar_Postal_Finish_4c5f9f8a:
+    # e "I didn't mean to..."
+    e "我不是存心的……"
 
-#     # e "I was sure I was fighting the dummy, did he really tell you the truth?"
-#     e ""
+translate schinese Lothar_Postal_Finish_8928837b:
 
-# translate schinese Lothar_Postal_Finish_743494f4:
+    # l "If you were a lion I would kick you down there so hard you wouldn't need to learn flirting anymore, luckily you aren't."
+    l "如果你是头狮子，我现在就把你踹成人不人鬼不鬼的衰样，用不着再学习诱惑技能。好在，你不是狮子。"
 
-#     # l "No, are you really trying to get away lying to the hero of the lusterfield?"
-#     l ""
+translate schinese Lothar_Postal_Finish_30769e95:
 
-# translate schinese Lothar_Postal_Finish_72a33094:
+    # e "Hmm... I'll go and fight the dummy now..."
+    e "啊……我现在就去打败那个人偶……"
 
-#     # e "..."
-#     e ""
+translate schinese Lothar_Postal_Finish_4c5f9f8a:
 
-# translate schinese Lothar_Postal_Finish_d1c260a8:
+    # e "I was sure I was fighting the dummy, did he really tell you the truth?"
+    e "我没骗你，我真的赢了那个人偶，他该不会才是骗你的吧？"
 
-#     # l "You must really want to get punished by the hero then... Luckily I'm not in a mood to beat up a disciple today, maybe later."
-#     l ""
+translate schinese Lothar_Postal_Finish_743494f4:
 
-# translate schinese Lothar_Postal_Finish_9a238e31:
+    # l "No, are you really trying to get away lying to the hero of the lusterfield?"
+    l "当着乐斯民菲尔德大英雄的面撒谎，你以为自己能全身而退吗？"
 
-#     # l "Now, go back to the alleyway before I change my mind."
-#     l ""
+translate schinese Lothar_Postal_Finish_72a33094:
 
-# translate schinese Lothar_Postal_Finish_74db1a7f:
+    # e "..."
+    e "……"
 
-#     # e "Yes..."
-#     e ""
+translate schinese Lothar_Postal_Finish_d1c260a8:
+
+    # l "You must really want to get punished by the hero then... Luckily I'm not in a mood to beat up a disciple today, maybe later."
+    l "你真是不见棺材不落泪，非得要一个英雄惩罚你……好在我现在没有心情教训不守规矩的徒弟，但待会就不好说了。"
+
+translate schinese Lothar_Postal_Finish_9a238e31:
+
+    # l "Now, go back to the alleyway before I change my mind."
+    l "趁我没改变主意之前，还不快去训练。"
+
+translate schinese Lothar_Postal_Finish_74db1a7f:
+
+    # e "Yes..."
+    e "是……"
 
 # translate schinese Lothar_Ask_Lusterfield_06b17b2b:
 
