@@ -1037,189 +1037,189 @@ translate schinese alchemists_cabin_loop_e91ba75d:
 translate schinese scene_slime_sex_7652cf4c:
 
     # "Your consciousness lingers. How could this mere slime defeat you in such a humiliating fashion. You clutch at the grass, praying that the slime would leave you alone."
-    ""
+    "你思前想后，想不通自己怎么会被这坨低等史莱姆打败，还是以如此羞耻的方式。你抓着草坪，祈祷史莱姆会放过你。"
 
 translate schinese scene_slime_sex_a1d58699:
 
     # "But it didn't."
-    ""
+    "但它不会。"
 
 translate schinese scene_slime_sex_1b9337db:
 
     # "Instead, the slime slithers towards you. You can sense its presence gets closer and closer every second, until it makes contact with your fur."
-    ""
+    "史莱姆滑过青草朝你缓缓蠕动，离你越来越近，直至挨上你的毛发。"
 
 translate schinese scene_slime_sex_162528bb:
 
     # "You feel something cold slide on your arm, its path leaves a coat of slimy residue."
-    ""
+    "它从一边手臂滑向另一边手臂，一路留下的粘液触感冰凉。"
 
 translate schinese scene_slime_sex_da2b53d2:
 
     # "You can do nothing but to watch it wrap around your arms, your body convulse slightly at the touch of the slime."
-    ""
+    "很快，史莱姆缠住了你两只手腕。你忍受着粘液与上肢贴合的感觉，身体微微颤抖。"
 
 translate schinese scene_slime_sex_0d1ebb74:
 
     # "The slime continues assaulting your helpless body, its appendage binds your arm tighter and tighter while the rest travels across your body, allowing your arms little extent of movement."
-    ""
+    "史莱姆攻势继续，它进而分出两支。新的一支向躯干滑去，继续探索你无助的身体；原来的一支缠绕得更禁了，使你双臂动弹不得。"
 
 translate schinese scene_slime_sex_a21041ec:
 
     # "There's you can fight the slime forcing you down, nor can you resist the urge to squirm and struggle under its control, you whimper quietly, praying that it would retreat the next second."
-    ""
+    "无论你如何扭动，也破除不了粘液团的束缚，它只会变本加厉地压制你。你轻声呜咽，祈祷它就此止住。"
 
 translate schinese scene_slime_sex_63a77ee7:
 
     # e "S-stop..."
-    e ""
+    e "停、停下……"
 
 translate schinese scene_slime_sex_96ff7f13:
 
     # "You try to push the viscous substance away from you but it only gets firmer, The more you struggle, the easier it becomes to accomodate its advance, it quickly slides from your bare chest to your lower abdomen."
-    ""
+    "你徒劳的挣扎反而助使史莱姆更快从你裸露的胸膛滑向了下腹部。"
 
 translate schinese scene_slime_sex_398cf691:
 
     # "Effortlessly, the slime had reached your loincloth, you can already feel the cold sensation of the dribbling mass through the thin fabric, your cock twitches in response."
-    ""
+    "史莱姆轻而易举进军至你的裆口。粘液滴答，冰凉感透过薄薄的遮裆布，惹得你下体一阵激灵。"
 
 translate schinese scene_slime_sex_f791e414:
 
     # e "W-what... are you doing..."
-    e ""
+    e "你要干什么……"
 
 translate schinese scene_slime_sex_f6a57a38:
 
     # "[e] feel increasingly sensitive as your private part is assaulted by the mere slime. You thrash your arm in hope of fighting against it, but they had already been held in place tightly."
-    ""
+    "你激烈地晃动手臂，不愿接受私处被一坨史莱姆侵犯。可惜你手腕上的绿色手铐纹丝不动。"
 
 translate schinese scene_slime_sex_1d6f585d:
 
     # "You try to scoot backward, but your body refuses to obey your command. Instead, you are forced to endure the invasion as the slime climbs along the cover of your cock."
-    ""
+    "见上肢无法挣脱，你想往旁边挪动甩掉这摊绿液，然而你的身体已经不听指挥了。史莱姆渐渐爬到你大腿内侧。"
 
 translate schinese scene_slime_sex_23c9fec3:
 
     # e "A-ahhhhh...."
-    e ""
+    e "啊啊啊……"
 
 translate schinese scene_slime_sex_5d56afbd:
 
     # "For a second, you imagine it would continue towards your legs, but as soon as the slime slide itself under your loincloth, you realise what it is doing."
-    ""
+    "倏忽间，你以为史莱姆会向腿脚继续前进，而它却一举掀开遮裆布，此刻你才明白它真正的目的地。"
 
 translate schinese scene_slime_sex_2165b1c9:
 
     # "You had never thought about what it is like, to have someone, or something directly touch your genitals like that, the slime is clearly alive, you can feel it pulses on your cock, ready for the next attack."
-    ""
+    "你从未想象过，自己的生殖器与如此形态的生物亲密接触会是什么感觉。显然史莱姆是活物，你下身能清晰地感受到它脉搏鼓动，蓄势待发。"
 
 translate schinese scene_slime_sex_17e24080:
 
     # "Suddenly, the slime had engulfed your whole cock, leaving no space around it. As the pressure around your cock increases, you groan loudly, fearing for what it has in store for you."
-    ""
+    "突然，史莱姆一口吞没了你整根肉棒，没有留下任何空隙。你不知道这粘液团到底要干什么，只知道命根被包裹得越来越紧。你害怕得放声大叫。"
 
 translate schinese scene_slime_sex_df607395:
 
     # e "H-ahhhhh.... no... g-get off me!"
-    e ""
+    e "哈啊……滚……滚开！"
 
 translate schinese scene_slime_sex_e2af583b:
 
     # "The only thing you can do is to look, you are but a bystander of whatever is happening to your body. No matter how hard you strain, you can't prevent the thing from going wherever it wants."
-    ""
+    "纵然你使出浑身解数，都没能阻止史莱姆游走它想侵犯的任何地方，只能眼睁睁看着胜者对败者的身体为所欲为。"
 
 translate schinese scene_slime_sex_52201cb7:
 
     # "You shake your head. How would other people think if they see you like this, lying on the grass, being taken controll by a mere slime."
-    ""
+    "要是这时有谁路过，看见你赤身裸体被“囚禁”在草地上，他会怎么想？仅仅一团低等粘液就能肆意拿捏你？你狠狠地摇头。"
 
 translate schinese scene_slime_sex_c87ffdc0:
 
     # "The sensation is haunting, sending your brain all the wrong signals that you might be enjoying this."
-    ""
+    "被紧紧包裹的性器快感持续，向大脑传递违背意志的错误信号，你一头挣扎一头索要，矛盾极了。"
 
 translate schinese scene_slime_sex_25e86aee:
 
     # e "Noo... S-stop."
-    e ""
+    e "呃啊……"
 
 translate schinese scene_slime_sex_2454043a:
 
     # "You try to resist the feeling of getting sexually aroused, but the instinct inside your head is telling you to relax, and embrace the sensation."
-    ""
+    "你努力尝试摆脱这种羞耻的快感，不情愿被一坨史莱姆挑逗得兴起。但你的本能却不断驱使你放下抵抗，享受快乐。"
 
 translate schinese scene_slime_sex_b7a2ed5a:
 
     # "The slime begins to move up and down in a regular pace. Your body tenses up, your cock is getting harder and harder as each pulse shoots through your mind."
-    ""
+    "史莱姆开始有节奏地上下蠕动，柔滑的粘液如胶似漆。一波一波的刺激冲击着你的脑海，回馈到一跳一跳逐渐勃起的鸡巴上。"
 
 translate schinese scene_slime_sex_c6d1fb78:
 
     # "The squishy noises that the slime makes made you shudder, your cock is throbbing under the touch of a soft rubbery texture. You can feel the slime is experimenting with your body, twisting and turning against your member."
-    ""
+    "粘液团裹着肉棒反复吸吮，发出啧啧水声挤压声，你绷紧了全身随之颤抖。它不停变换身形和运动方式，又旋又扭对你的大宝贝做起小试验。"
 
 translate schinese scene_slime_sex_f4c22d45:
 
     # "It continues different movement for a while, until the sexual thoughts had overwhelmed your mind. You can think about nothing but the feeling of the gooey creature on your cock. It feels... oddly amazing."
-    ""
+    "史莱姆的玩法千变万化，一刻也不放松。高涨的性欲令你神魂颠倒。终于，你所有的注意力都被绿色粘液附体的性器所霸占。是啊，你感觉……莫名的爽快。"
 
 translate schinese scene_slime_sex_2d7161cb:
 
     # e "Ahhhh- A-hhhh..."
-    e ""
+    e "啊——哈啊……"
 
 translate schinese scene_slime_sex_85e20509:
 
     # "You squeeze shut your eyes tightly, hoping to avoid witnessing the final indignity that awaits you. But the pressure continues unabated until the slime on your cock begins to convulse."
-    ""
+    "你紧紧闭上双眼，不愿目睹那尊严抹灭的最后一刻。但史莱姆榨汁的力道有增无减，甚至抽搐了起来，带给龙根强烈的震动感。"
 
 translate schinese scene_slime_sex_aa2c925a:
 
     # "With each throb you are getting closer to climax. Your body trembles in agony as you lay there helpless. You feel like crying out loud, that you shouldn't enjoy this so much, but you did."
-    ""
+    "每一阵抽动都领你离高潮越来越近。要被史莱姆撸射实在是太耻辱了，可你只能躺在原地颤抖着，心急如焚却无能为力。本不该享受的屈辱性福，你反而沉迷得正欢。"
 
 translate schinese scene_slime_sex_1223f9cc:
 
     # e "I- I think... I'm... no I c-can't.... S-stop this."
-    e ""
+    e "我——要不行了……快、快住手。"
 
 translate schinese scene_slime_sex_0644dfe7:
 
     # "You know you are not thinking rationally, but you can't help but to submit under the grasp of the creature, watching it bouncing on your cock. The only thing you can sense is the pressure building up, waiting to explode."
-    ""
+    "你知道自己已经失去了理性，彻底屈服于史莱姆的把握。看着柱状的粘液不断鼓胀、收缩，你的感官全聚焦到了龟头上，压力堆积即将爆发。"
 
 translate schinese scene_slime_sex_d911cff9:
 
     # e "Ha-aaaaaagh!!!"
-    e ""
+    e "喝啊啊啊啊啊！！！"
 
 translate schinese scene_slime_sex_15896e16:
 
     # "You cannot hold yourself anymore, your mind shut down under the assault of pleasure and pain. Your cock twitch for one last time before you ejaculates ropes and ropes of cum all over your body."
-    ""
+    "你再也坚持不住了，龙根临门一抽，爆出了一股又一股浓精。意识在愉悦和痛苦的双重冲击下化为空白。"
 
 translate schinese scene_slime_sex_c6734a03:
 
     # "You can feel your own cum flowing everwhere, load after load of pent up lust released all at once, you can even feel some landed on your tongue, your brain can no longer function normally."
-    ""
+    "你不停射精，失去了思考能力。被压抑许久的淫欲随着白浆一发一发净空，精液洒落得到处都是，甚至有些落到了你舌头上。"
 
 translate schinese scene_slime_sex_b768f5e4:
 
     # "Your cock remains stiff. The slime seems to be satisfied with your performance, but it doesn't move, instead the mass continues to encapsulate your member, even after the fact that you have already came."
-    ""
+    "极乐过后，史莱姆依然包裹着它坚挺的战利品，没有进一步行动，似乎对你的表现非常满意。"
 
 translate schinese scene_slime_sex_96c19334:
 
     # "You breath heavily, you cannot imagine seeing yourself being brought to your knees and forced to cum like this. Your chest, arms and thighs are all covered with your own cum. some even drizzle on the slime."
-    ""
+    "你喘着粗气，不敢相信自己竟然被胁迫得高潮成这样。胸口、手臂、大腿沾满了自己的精液，甚至有些正中史莱姆表面。"
 
 translate schinese scene_slime_sex_8016cc63:
 
     # "A short while after, you can feel the slime had assimilated enough samples of your cum. It retreated slowly, releasing its grip on your arm."
-    ""
+    "史莱姆片刻将你的精华吃干抹净，两支慢慢归为一体，松开了对你的束缚。"
 
 translate schinese scene_slime_sex_d4f4d1f3:
 
     # "Before you see it leaves, you had already exhausted all your energy after the devious act, you collapse again on the grass floor, this time your consciousness fades as well."
-    ""
+    "此时你已经精疲力竭，无暇再顾及悄然滑走的史莱姆。你彻底瘫软在绿地上，连意识也一并累倒，陷入了沉睡。"
