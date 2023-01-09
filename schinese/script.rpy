@@ -871,8 +871,8 @@ translate schinese name_done_670ff85f:
 translate schinese name_done_3e6fedde:
 
     # o "Heh, good that you can talk pretty well now. I presume you aren't from our province right?"
-    o "不错不错，你的语气不虚了。"
-    o "我猜你不是附近的本地人？"
+    o "哈，你的语气不虚了。"
+    o "我猜你不是莫肯大陆这边的人？"
 
 translate schinese name_done_497eced6:
 
