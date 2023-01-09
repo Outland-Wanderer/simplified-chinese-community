@@ -10,7 +10,14 @@
 
 # 翻译研究
 
-## 人名翻译[^1]
+## 翻译策略参考
+
+1. 余静.论方言翻译的“落差”策略[J].中国翻译,2015,36(02):107-110.
+
+
+## 人名翻译
+
+### 主要角色[^1]
 
 原名 | 译名 | 备注
 --- | --- | ---
@@ -104,10 +111,17 @@ inch | 寸 | 取明朝一尺长度[^2]转换
 
 [前官方汉化](https://tieba.baidu.com/p/7998972608)
 
+
 ## 翻译时调动情绪用音乐
 
+[Tavern of Spear - Volume One](https://kindwyrm.bandcamp.com/album/tavern-of-spear-volume-one)
+
+[Divinity: Original Sin 2 (Original Soundtrack)](https://open.spotify.com/album/54geghZhUleSbVnZEWE8Kx?si=n1GgWXT3S42_kZjWYrpTVg)
+
 [Music of Towns (Kingdom Come: Deliverance Original Soundtrack)](https://open.spotify.com/album/4OBGHYM5e9BjeN1pCW0tXt?si=Cjztq0BtTOixGOQ4UpcWeQ)
+
 [Music of the Land (Kingdom Come: Deliverance Original Soundtrack)](https://open.spotify.com/album/74lJQsk09eEXsrAqpdnOXo)
+
 [Medieval and Action Music (Kingdom Come: Deliverance Original Soundtrack)](https://open.spotify.com/album/56mleWq37nn2zyoQFlaS65?si=SZoIMxcdRL-ZsXjXqzQhSA)
 
 
