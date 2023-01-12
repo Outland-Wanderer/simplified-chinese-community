@@ -161,26 +161,26 @@ translate schinese Cane_Normal_Talk_58e0fbb5:
 
 translate schinese strings:
 
-    old "Ask to work in the Tavern"
-    new "担任酒馆的钟点工"
+    # old "Ask to work in the Tavern"
+    # new "担任酒馆的钟点工"
 
-    old "Give Cane the Fixed Apron"
-    new "交付补好的围裙"
+    # old "Give Cane the Fixed Apron"
+    # new "交付补好的围裙"
 
-    old "Ask about the Beer Task"
-    new "承接采集啤酒原料的任务"
+    # old "Ask about the Beer Task"
+    # new "承接采集啤酒原料的任务"
 
-    old "Report to the Beer Task"
-    new "报告任务的完成情况"
+    # old "Report to the Beer Task"
+    # new "报告任务的完成情况"
 
-    old "Ask about the favour"
-    new "询问还有什么能帮忙的"
+    # old "Ask about the favour"
+    # new "询问还有什么能帮忙的"
 
-    old "Accept the Private Show Offer"
-    new "答应为酒馆提供私人服务"
+    # old "Accept the Private Show Offer"
+    # new "答应为酒馆提供私人服务"
 
-    old "Report for the Private Show Preparation"
-    new "报告包间的准备完成情况"
+    # old "Report for the Private Show Preparation"
+    # new "报告包间的准备完成情况"
 
     old "Order something"
     new "购买酒水"
@@ -4030,6 +4030,17 @@ translate schinese Cane_Order_2acac5fa:
     # c "Ya better."
     c "说话算话啊。"
 
+translate schinese strings:
+
+    old "Get a beer for 15 gold"
+    new "花费 15 金币购买淡啤酒"
+
+    old "Get an Ale for 20 gold"
+    new "花费 20 金币购买黑啤酒"
+
+    old "I'll think about it."
+    new "改天再喝"
+
 # translate schinese Cane_Event_Patron_Show_5518bece:
 
 #     # "After a hard day of working at the tavern, you walk over to the counter to get your pay."
@@ -4525,240 +4536,244 @@ translate schinese Cane_Order_2acac5fa:
 #     # c "Lookin' forward to yer next visit to the backroom."
 #     c ""
 
-# translate schinese Cane_Ask_Lusterfield_325e8898:
+translate schinese Cane_Ask_Lusterfield_325e8898:
 
-#     # e "Hey, Cane. What do you know about the village?"
-#     e ""
+    # e "Hey, Cane. What do you know about the village?"
+    e "嗨，凯恩，关于乐村你都知道多少？"
 
-# translate schinese Cane_Ask_Lusterfield_e98648d4:
+translate schinese Cane_Ask_Lusterfield_e98648d4:
 
-#     # c "I know a lotta bout the village, [e]. Everyone talks to me about their little stories."
-#     c ""
+    # c "I know a lotta bout the village, [e]. Everyone talks to me about their little stories."
+    c "我知道得可多嘞，[e]。人人都会向酒馆老板喳喳他们的小故事。"
 
-# translate schinese Cane_Ask_Lusterfield_3fa6e25b:
+translate schinese Cane_Ask_Lusterfield_3fa6e25b:
 
-#     # e "How about the people here, do you know them?"
-#     e ""
+    # e "How about the people here, do you know them?"
+    e "所以说乐村你谁都认识？"
 
-# translate schinese Cane_Ask_Lusterfield_46bc6fbd:
+translate schinese Cane_Ask_Lusterfield_46bc6fbd:
 
-#     # c "Ya smartarse, of course I know them. Our hero, Lothar is our regular here, ya can probably see him here at night."
-#     c ""
+    # c "Ya smartarse, of course I know them. Our hero, Lothar is our regular here, ya can probably see him here at night."
+    c "小机灵鬼，我当然谁都认识。比如俺们的大英雄洛萨尔，他是我这的常客，你天天晚上都能在这遇见他。"
 
-# translate schinese Cane_Ask_Lusterfield_f34c2489:
+translate schinese Cane_Ask_Lusterfield_f34c2489:
 
-#     # c "And he has those bozos flying around him like flies buzzing around a piece of bread."
-#     c ""
+    # c "And he has those bozos flying around him like flies buzzing around a piece of bread."
+    c "他还有两小跟班陪他吹酒，就像苍蝇飞在面包周围似的。"
 
-# translate schinese Cane_Ask_Lusterfield_0d745029:
+translate schinese Cane_Ask_Lusterfield_0d745029:
 
-#     # e "Got it, what about Rahim?"
-#     e ""
+    # e "Got it, what about Rahim?"
+    e "嗯哼，那雷希姆呢？"
 
-# translate schinese Cane_Ask_Lusterfield_ea0dfdc0:
+translate schinese Cane_Ask_Lusterfield_ea0dfdc0:
 
-#     # c "That old bull? Why are ya talking about him, did he send ya here?"
-#     c ""
+    # c "That old bull? Why are ya talking about him, did he send ya here?"
+    c "那头老公牛？你为什么突然提到他，他派你来的么？"
 
-# translate schinese Cane_Ask_Lusterfield_10a023b2:
+translate schinese Cane_Ask_Lusterfield_10a023b2:
 
-#     # e "Uhhh... noo?"
-#     e ""
+    # e "Uhhh... noo?"
+    e "呃……不是？"
 
-# translate schinese Cane_Ask_Lusterfield_d3a5c7d1:
+translate schinese Cane_Ask_Lusterfield_d3a5c7d1:
 
-#     # c "Ya wanna cause troubles, go to his old arse shop, eh? No wacky business here."
-#     c ""
+    # c "Ya wanna cause troubles, go to his old arse shop, eh? No wacky business here."
+    c "如果你想找茬儿，去他那破店找，懂不？别来我这惹是生非。"
 
-# translate schinese Cane_Ask_Lusterfield_d35aaf4c:
+translate schinese Cane_Ask_Lusterfield_d35aaf4c:
 
-#     # e "Ok."
-#     e ""
+    # e "Ok."
+    e "懂了。"
 
-# translate schinese Cane_Ask_Lusterfield_3694ee9e:
+translate schinese Cane_Ask_Lusterfield_3694ee9e:
 
-#     # e "How about the people in the shop?"
-#     e ""
+    # e "How about the people in the shop?"
+    e "那塞巴斯和奥利你怎么看？"
 
-# translate schinese Cane_Ask_Lusterfield_ba30f6f4:
+translate schinese Cane_Ask_Lusterfield_ba30f6f4:
 
-#     # c "Ya mean the lion? and the shopkeeper?"
-#     c ""
+    # c "Ya mean the lion? and the shopkeeper?"
+    c "你是说那头狮子？和另一个店主？"
 
-# translate schinese Cane_Ask_Lusterfield_cab56a3b:
+translate schinese Cane_Ask_Lusterfield_cab56a3b:
 
-#     # e "Isn't Sebas the shopkeeper?"
-#     e ""
+    # e "Isn't Sebas the shopkeeper?"
+    e "塞巴斯才是店主吧？"
 
-# translate schinese Cane_Ask_Lusterfield_5d565e7c:
+translate schinese Cane_Ask_Lusterfield_5d565e7c:
 
-#     # c "I don't know, do I seem like the kinda man to visit a pawn shop?"
-#     c ""
+    # c "I don't know, do I seem like the kinda man to visit a pawn shop?"
+    c "我不清楚，你看我像需要去典当的人么？"
 
-# translate schinese Cane_Ask_Lusterfield_2d765ff7:
+translate schinese Cane_Ask_Lusterfield_2d765ff7:
 
-#     # e "Maybe?"
-#     e ""
+    # e "Maybe?"
+    e "有点？"
 
-# translate schinese Cane_Ask_Lusterfield_1c0bcb93:
+translate schinese Cane_Ask_Lusterfield_1c0bcb93:
 
-#     # c "Whatever, the lion comes here sometimes. I don't know when. Probably weekends."
-#     c ""
+    # c "Whatever, the lion comes here sometimes. I don't know when. Probably weekends."
+    c "随你了。塞巴斯有时会来喝酒，约摸儿是在周末，我没留意过。"
 
-# translate schinese Cane_Ask_Lusterfield_86f77d8d:
+translate schinese Cane_Ask_Lusterfield_86f77d8d:
 
-#     # c "I usually can squeeze some rumours outta the lion when he's drunk. Like really drunk."
-#     c ""
+    # c "I usually can squeeze some rumours outta the lion when he's drunk. Like really drunk."
+    c "候到他喝得酩酊大醉，我总能从他嘴里套点小道消息。"
 
-# translate schinese Cane_Ask_Lusterfield_20f16f70:
+translate schinese Cane_Ask_Lusterfield_20f16f70:
 
-#     # e "Can you not do it when he's sober?"
-#     e ""
+    # e "Can you not do it when he's sober?"
+    e "他没醉的时候就不行吗？"
 
-# translate schinese Cane_Ask_Lusterfield_19702dcb:
+translate schinese Cane_Ask_Lusterfield_19702dcb:
 
-#     # c "Ha, look at him. Ya think I'd bother with that. It's much easier talking to a drunk lion, like shooting fish in a barrel."
-#     c ""
+    # c "Ha, look at him. Ya think I'd bother with that. It's much easier talking to a drunk lion, like shooting fish in a barrel."
+    c "哈，你到时自己看他样子。我会顾忌么？喝醉的狮子啥都敢讲，问他话比瓮中捉鳖还容易。"
 
-# translate schinese Cane_Ask_Lusterfield_5dc8ec35:
+translate schinese Cane_Ask_Lusterfield_5dc8ec35:
 
-#     # e "What does that mean?"
-#     e ""
+    # e "What does that mean?"
+    e "什么意思？"
 
-# translate schinese Cane_Ask_Lusterfield_75078363:
+translate schinese Cane_Ask_Lusterfield_75078363:
 
-#     # c "Whatever. The other one in the shop, Ole, we had a few talks, not much. He's siding with the bull."
-#     c ""
+    # c "Whatever. The other one in the shop, Ole, we had a few talks, not much. He's siding with the bull."
+    c "不用在意。至于奥利，他站老牛那队。我们只聊过几次，不多。"
 
-# translate schinese Cane_Ask_Lusterfield_20342b90:
+translate schinese Cane_Ask_Lusterfield_20342b90:
 
-#     # e "For what?"
-#     e ""
+    # e "For what?"
+    e "为什么呢？"
 
-# translate schinese Cane_Ask_Lusterfield_a20e4a04:
+translate schinese Cane_Ask_Lusterfield_a20e4a04:
 
-#     # c "The trouble from the Goat Tribe, that bull thinks I'm some kinda snitch."
-#     c ""
+    # c "The trouble from the Goat Tribe, that bull thinks I'm some kinda snitch."
+    c "因为山羊部落入侵那件事，老牛咬定我通敌，各气坏了。"
 
-# translate schinese Cane_Ask_Lusterfield_ff25ae64:
+translate schinese Cane_Ask_Lusterfield_ff25ae64:
 
-#     # e "But.... are you?"
-#     e ""
+    # e "But.... are you?"
+    e "那你……有吗？"
 
-# translate schinese Cane_Ask_Lusterfield_18e401e6:
+translate schinese Cane_Ask_Lusterfield_18e401e6:
 
-#     # c "No, why would I. I have my whole business here. Ya think letting them wreck my home is a viable business strategy?"
-#     c ""
+    # c "No, why would I. I have my whole business here. Ya think letting them wreck my home is a viable business strategy?"
+    c "当然没有，我全部身家生意都在这里。你以为我招呼一支军队砸烂我家是为了打广告？"
 
-# translate schinese Cane_Ask_Lusterfield_354a4300:
+translate schinese Cane_Ask_Lusterfield_354a4300:
 
-#     # e "Did you explain to him?"
-#     e ""
+    # e "Did you explain to him?"
+    e "你有和雷希姆解释过吗？"
 
-# translate schinese Cane_Ask_Lusterfield_f58e24ef:
+translate schinese Cane_Ask_Lusterfield_f58e24ef:
 
-#     # c "No matter. It's been a few years."
-#     c ""
+    # c "No matter. It's been a few years."
+    c "几年过去无所谓嘞。"
 
-# translate schinese Cane_Ask_Lusterfield_4a7bedd3:
+translate schinese Cane_Ask_Lusterfield_4a7bedd3:
 
-#     # e "I'll try to see if you two can work out..."
-#     e ""
+    # e "I'll try to see if you two can work out..."
+    e "我可以试试帮你们重新……"
 
-# translate schinese Cane_Ask_Lusterfield_76014c88:
+translate schinese Cane_Ask_Lusterfield_76014c88:
 
-#     # c "Don't bother, [e]. Yar wasting yer time."
-#     c ""
+    # c "Don't bother, [e]. Yar wasting yer time."
+    c "不必，[e]。胡董高低不成事。"
 
-# translate schinese Cane_Ask_Lusterfield_1d0e5d7c:
+translate schinese Cane_Ask_Lusterfield_1d0e5d7c:
 
-#     # e "Hmm...?"
-#     e ""
+    # e "Hmm...?"
+    e "啊……？"
 
-# translate schinese Cane_Ask_Lusterfield_907a1932:
+translate schinese Cane_Ask_Lusterfield_907a1932:
 
-#     # c "Ahem... {p} You are wasting your time."
-#     c ""
+    # c "Ahem... {p} You are wasting your time."
+    c "哎……我是说，这是在浪费你的时间。"
 
-# translate schinese Cane_Ask_Tavern_83fd7086:
+#关于酒馆
 
-#     # e "Hey, Cane. Can you tell me the history of the Tavern?"
-#     e ""
+translate schinese Cane_Ask_Tavern_83fd7086:
 
-# translate schinese Cane_Ask_Tavern_228791d4:
+    # e "Hey, Cane. Can you tell me the history of the Tavern?"
+    e "嗨，凯恩。我挺好奇夜夜椿的历史，能和我讲讲吗？"
 
-#     # c "Yea, yea, yea. People ask about this every time they come, like they found some gold treasure."
-#     c ""
+translate schinese Cane_Ask_Tavern_228791d4:
 
-# translate schinese Cane_Ask_Tavern_15d3f868:
+    # c "Yea, yea, yea. People ask about this every time they come, like they found some gold treasure."
+    c "哈，哈，哈。这个问题我已经被无数人问过无数次，好像我的过去是啥发财秘诀似的。"
 
-#     # c "This tavern has been here since the beginning of the village, like 80 years ago?"
-#     c ""
+translate schinese Cane_Ask_Tavern_15d3f868:
 
-# translate schinese Cane_Ask_Tavern_51e9a4e3:
+    # c "This tavern has been here since the beginning of the village, like 80 years ago?"
+    c "八十年前，乐斯民菲尔德村刚刚建立，夜夜椿迎来了第一批顾客。"
 
-#     # e "Woah that's a long time."
-#     e ""
+translate schinese Cane_Ask_Tavern_51e9a4e3:
 
-# translate schinese Cane_Ask_Tavern_49a3efe8:
+    # e "Woah that's a long time."
+    e "哇，那么久远。"
 
-#     # c "My dad gave it to me when I was 20, somewhere ya age. I've been taking care of it for a whopping 37 years."
-#     c ""
+translate schinese Cane_Ask_Tavern_49a3efe8:
 
-# translate schinese Cane_Ask_Tavern_3f440387:
+    # c "My dad gave it to me when I was 20, somewhere ya age. I've been taking care of it for a whopping 37 years."
+    c "我二十岁时，我爹把这儿托付给我。想当年我和你一样是个毛头小子。直到现在，我已经经营夜夜椿三十七年了。"
 
-#     # c "This tavern is my everything, and I intend to keep it this way."
-#     c ""
+translate schinese Cane_Ask_Tavern_3f440387:
 
-# translate schinese Cane_Ask_Tavern_a45af4fe:
+    # c "This tavern is my everything, and I intend to keep it this way."
+    c "这家酒馆就是我的一切，后半辈子我都仰仗它哩。"
 
-#     # e "Do you need anyone else to help out with the tavern?"
-#     e ""
+translate schinese Cane_Ask_Tavern_a45af4fe:
 
-# translate schinese Cane_Ask_Tavern_5b1bcb1b:
+    # e "Do you need anyone else to help out with the tavern?"
+    e "你有想过让其他人帮你打理酒馆吗？"
 
-#     # c "Someone. Ya think finding a person to serve drinks is so easy? That's why I want ya to work for me just for a few hours."
-#     c ""
+translate schinese Cane_Ask_Tavern_5b1bcb1b:
 
-# translate schinese Cane_Ask_Tavern_01f43739:
+    # c "Someone. Ya think finding a person to serve drinks is so easy? That's why I want ya to work for me just for a few hours."
+    c "当然想过。但你以为找到合适的服务员很容易么？所以我才希望你能来打几小时零工。"
 
-#     # e "Mayber later..."
-#     e ""
+translate schinese Cane_Ask_Tavern_01f43739:
 
-# translate schinese Cane_Ask_Tavern_7b457a2f:
+    # e "Mayber later..."
+    e "或许以后吧……"
 
-#     # c "Ha. Later it is."
-#     c ""
+translate schinese Cane_Ask_Tavern_7b457a2f:
 
-# translate schinese Cane_Ask_Himself_fd1c6e9a:
+    # c "Ha. Later it is."
+    c "哈，说话算话啊。"
 
-#     # e "Cane, how are you doing?"
-#     e ""
+#关于凯恩自己
 
-# translate schinese Cane_Ask_Himself_06444a59:
+translate schinese Cane_Ask_Himself_fd1c6e9a:
 
-#     # c "What chu think I'm doing?"
-#     c ""
+    # e "Cane, how are you doing?"
+    e "凯恩，你在忙什么？"
 
-# translate schinese Cane_Ask_Himself_abb3b16f:
+translate schinese Cane_Ask_Himself_06444a59:
 
-#     # e "Hmm... you were talking with your customer?"
-#     e ""
+    # c "What chu think I'm doing?"
+    c "你说呢？"
 
-# translate schinese Cane_Ask_Himself_9be11dfb:
+translate schinese Cane_Ask_Himself_abb3b16f:
 
-#     # c "Wrong. I'm talking to a alleged dragon who comes here and get all the talks for free."
-#     c ""
+    # e "Hmm... you were talking with your customer?"
+    e "呃……和顾客聊天？"
 
-# translate schinese Cane_Ask_Himself_2a9e8f16:
+translate schinese Cane_Ask_Himself_9be11dfb:
 
-#     # e "Hey... look, look. I'll buy a drink later, ok?"
-#     e ""
+    # c "Wrong. I'm talking to a alleged dragon who comes here and get all the talks for free."
+    c "错，我正在被一个自称是龙的家伙白嫖情报。"
 
-# translate schinese Cane_Ask_Himself_8250175a:
+translate schinese Cane_Ask_Himself_2a9e8f16:
 
-#     # c "Good. Don't waste my time with yer chit-chatting, [e]."
-#     c ""
+    # e "Hey... look, look. I'll buy a drink later, ok?"
+    e "嘿、嘿……待会我会买杯酒的，好吧？"
+
+translate schinese Cane_Ask_Himself_8250175a:
+
+    # c "Good. Don't waste my time with yer chit-chatting, [e]."
+    c "很好，我可不浪费时间和你嘴喳喳，[e]。"
 
 #凯恩结束对话
 
@@ -4929,7 +4944,7 @@ translate schinese Cane_First_adba2ae5:
 translate schinese Cane_First_cebf7e47:
 
     # c "Yeah, huh. What cha gonna do about it. Cry to your lizard daddy like he cried to that old bull bastard?"
-    c "是吗，呵。你个外乡仔还想咋地？你蜥蜴爹地以前找那老犟牛嗷嗷，你今个也去找蜥蜴爹地嗷嗷不成？"
+    c "是么，呵。你个外乡仔还想咋地？你蜥蜴爹地以前找那老犟牛嗷嗷，你今个也去找蜥蜴爹地嗷嗷不成？"
 
 translate schinese Cane_First_d19f855d:
 
@@ -5949,315 +5964,337 @@ translate schinese strings:
 #     # msg "Quest Finished! You gained a level up point! Check your inventory to distribute your points!"
 #     msg ""
 
-# translate schinese Cane_SoWrong_21a8a3ed:
+#完全猜错名字
 
-#     # c "What kinda name was that? Don't make me laugh, [e]."
-#     c ""
+translate schinese Cane_SoWrong_21a8a3ed:
 
-# translate schinese Cane_SoWrong_f6ec6469:
+    # c "What kinda name was that? Don't make me laugh, [e]."
+    c "那算什么名字？别逗了，[e]。"
 
-#     # c "That wolf was right about ya all along, I thought that was a joke he made. My name is Cane. Not some kinda stupid name ya pulled out of yer arse."
-#     c ""
+translate schinese Cane_SoWrong_f6ec6469:
 
-# translate schinese Cane_SoWrong_1dc2025e:
+    # c "That wolf was right about ya all along, I thought that was a joke he made. My name is Cane. Not some kinda stupid name ya pulled out of yer arse."
+    c "果然洛萨尔一直都没看错你，本来还以为他说你健忘是开玩笑哩。"
+    c "我的名字是凯恩，不是你蹲坑时茅塞顿开拉出来的其他玩意。"
 
-#     # e "Wait... Cane? How could I have forgotten about it..."
-#     e ""
+translate schinese Cane_SoWrong_1dc2025e:
 
-# translate schinese Cane_SoWrong_8e975ac2:
+    # e "Wait... Cane? How could I have forgotten about it..."
+    e "等等……凯恩？我怎么会忘记……"
 
-#     # c "Yea ya stupid lizard got half a brain about fucking and sucking. I reckon those goons in the shop already told you my name already. And ya still forgot it."
-#     c ""
+translate schinese Cane_SoWrong_8e975ac2:
 
-# translate schinese Cane_SoWrong_e2bf0094:
+    # c "Yea ya stupid lizard got half a brain about fucking and sucking. I reckon those goons in the shop already told you my name already. And ya still forgot it."
+    c "瞧瞧你这笨蜥蜴脑袋，一半装着屁股一半装着鸡巴。你两个房东大概早就告诉过你我的真名，但你还是忘了。"
 
-#     # c "Now, ya got the 50 gold for me?"
-#     c ""
+translate schinese Cane_SoWrong_e2bf0094:
 
-# translate schinese Cane_Wrong_5dfc18ba:
+    # c "Now, ya got the 50 gold for me?"
+    c "还记得我们 50 块钱的赌约么？"
 
-#     # c "Cone? Really? Ya think I've got that stupid name like that?"
-#     c ""
+#猜成科恩
 
-# translate schinese Cane_Wrong_22a66741:
+translate schinese Cane_Wrong_5dfc18ba:
 
-#     # e "Wait a minute, I thought you told me your name was Cone..."
-#     e ""
+    # c "Cone? Really? Ya think I've got that stupid name like that?"
+    c "科恩？不是吧。你觉得我会叫这种傻逼名字？"
 
-# translate schinese Cane_Wrong_3c8e0a5f:
+translate schinese Cane_Wrong_22a66741:
 
-#     # c "What? Ya ask around other patrons, they remember my name better than ya do ya stupid lizard."
-#     c ""
+    # e "Wait a minute, I thought you told me your name was Cone..."
+    e "等一下，不是你说自己叫科恩的吗……"
 
-# translate schinese Cane_Wrong_19475493:
+translate schinese Cane_Wrong_3c8e0a5f:
 
-#     # "Cane walks around the tavern tables by tables, then he gently taps a patron's shoulder while they were talking."
-#     ""
+    # c "What? Ya ask around other patrons, they remember my name better than ya do ya stupid lizard."
+    c "什么？你自己问问其他顾客，他们的记忆力可比你这笨蜥蜴好多了。"
 
-# translate schinese Cane_Wrong_db5ef229:
+translate schinese Cane_Wrong_19475493:
 
-#     # c "Aye, Mister, enjoying ya stay?"
-#     c ""
+    # "Cane walks around the tavern tables by tables, then he gently taps a patron's shoulder while they were talking."
+    "凯恩离开柜台，走过一桌又一桌，最终在某个聊得正欢的顾客背后停了下来，轻轻拍了拍这位顾客的肩膀。"
 
-# translate schinese Cane_Wrong_b61efa15:
+translate schinese Cane_Wrong_db5ef229:
 
-#     # patron "Yeah, this beer is buzzing awesome as always!"
-#     patron ""
+    # c "Aye, Mister, enjoying ya stay?"
+    c "晚上好先生，今晚喝得痛快不？"
 
-# translate schinese Cane_Wrong_9605da18:
+translate schinese Cane_Wrong_b61efa15:
 
-#     # c "I just wanna ask a simple question for my clueless lizard here, what's my name?"
-#     c ""
+    # patron "Yeah, this beer is buzzing awesome as always!"
+    patron "痛快，你家酿的酒还是一如既往的纯正！"
 
-# translate schinese Cane_Wrong_0f7dc502:
+translate schinese Cane_Wrong_9605da18:
 
-#     # patron "Uhhh- Duhh. You are Cane right? How could anybody around here have not known about your name?"
-#     patron ""
+    # c "I just wanna ask a simple question for my clueless lizard here, what's my name?"
+    c "我想帮我身边这位健忘的小蜥蜴问问，我叫什么名字？"
 
-# translate schinese Cane_Wrong_cd0283b1:
+translate schinese Cane_Wrong_0f7dc502:
 
-#     # e "Wait... what?"
-#     e ""
+    # patron "Uhhh- Duhh. You are Cane right? How could anybody around here have not known about your name?"
+    patron "呃嗯——嗯。你叫凯恩，对吧？这里谁会不知道你的名字？"
 
-# translate schinese Cane_Wrong_82ec6c1b:
+translate schinese Cane_Wrong_cd0283b1:
 
-#     # c "Well apparently this lizard doesn't."
-#     c ""
+    # e "Wait... what?"
+    e "啊……怎么会？"
 
-# translate schinese Cane_Wrong_750fb4d7:
+translate schinese Cane_Wrong_82ec6c1b:
 
-#     # patron "Ha... What the hell? Little lizard you gotta step up your game, and pay some respect to the tavernkeeper."
-#     patron ""
+    # c "Well apparently this lizard doesn't."
+    c "很显然他不知道。"
 
-# translate schinese Cane_Wrong_03689381:
+translate schinese Cane_Wrong_750fb4d7:
 
-#     # e "I thought..."
-#     e ""
+    # patron "Ha... What the hell? Little lizard you gotta step up your game, and pay some respect to the tavernkeeper."
+    patron "哈……不是吧？就两个字的名字，小蜥蜴你可得再加把劲记下咯，尊重尊重咱酒馆的大老板。"
 
-# translate schinese Cane_Wrong_18999e03:
+translate schinese Cane_Wrong_03689381:
 
-#     # c "I'm sure he does now, alright mister, enjoy ya beer!"
-#     c ""
+    # e "I thought..."
+    e "我以为……"
 
-# translate schinese Cane_Wrong_90353783:
+translate schinese Cane_Wrong_18999e03:
 
-#     # "Cane turns back to you with an evil smirk on his face. He seems to be oddly satisfied with you not getting his name right."
-#     ""
+    # c "I'm sure he does now, alright mister, enjoy ya beer!"
+    c "我相信他现在学会尊重了，谢谢你先生，请慢用！"
 
-# translate schinese Cane_Wrong_eed51e05:
+translate schinese Cane_Wrong_90353783:
 
-#     # e "Did I mix it up with other people in the village? How could that. I'm sorry... Cane."
-#     e ""
+    # "Cane turns back to you with an evil smirk on his face. He seems to be oddly satisfied with you not getting his name right."
+    "凯恩转身面向你，露出了邪恶的笑容。似乎你说错他的名字正中他的下怀。"
 
-# translate schinese Cane_Wrong_7ea6f1bd:
+translate schinese Cane_Wrong_eed51e05:
 
-#     # c "Well don't say sorry to me, say sorry to ya wallet."
-#     c ""
+    # e "Did I mix it up with other people in the village? How could that. I'm sorry... Cane."
+    e "难道我把你和其他人的名字记混了？怎么会……抱歉，凯恩。"
 
-# translate schinese Cane_Wrong_072d3a3d:
+translate schinese Cane_Wrong_7ea6f1bd:
 
-#     # c "Speaking of which, ya got the money eh?"
-#     c ""
+    # c "Well don't say sorry to me, say sorry to ya wallet."
+    c "别对我道歉，对你的钱包道歉。"
 
-# translate schinese Cane_Correct_ef785441:
+translate schinese Cane_Wrong_072d3a3d:
 
-#     # c "Ha... damn, that's fair. It's Cane with a C."
-#     c ""
+    # c "Speaking of which, ya got the money eh?"
+    c "说到钱包，你现在带够钱了么？"
 
-# translate schinese Cane_Correct_fb58faa6:
+#猜对名字
 
-#     # e "I almost mixed you up with Cone... where did that name come from?"
-#     e ""
+translate schinese Cane_Correct_ef785441:
 
-# translate schinese Cane_Correct_533a6b69:
+    # c "Ha... damn, that's fair. It's Cane with a C."
+    c "哈……操，你赢了，我的名字是凯恩。"
 
-#     # c "Ya sure? I'm not Cone for the record, just letting ya know."
-#     c ""
+translate schinese Cane_Correct_fb58faa6:
 
-# translate schinese Cane_Correct_bcb31e09:
+    # e "I almost mixed you up with Cone... where did that name come from?"
+    e "差点就和科恩弄混……科恩这名字哪来的？"
 
-#     # e "Yeah... whatever. Glad at least I got this right."
-#     e ""
+translate schinese Cane_Correct_533a6b69:
 
-# translate schinese Cane_Correct_4d612fba:
+    # c "Ya sure? I'm not Cone for the record, just letting ya know."
+    c "啊，你说什么？我可没叫过科恩，你可别记岔逼了。"
 
-#     # c "I reckon those goons at the shop had told you my name already anyway. That's a free 50 gold to you."
-#     c ""
+translate schinese Cane_Correct_bcb31e09:
 
-# translate schinese Cane_Correct_12912c50:
+    # e "Yeah... whatever. Glad at least I got this right."
+    e "嗯……算了。反正我答对了。"
 
-#     # e "Thanks, Cane. (You received 50 gold.) "
-#     e ""
+translate schinese Cane_Correct_4d612fba:
 
-# translate schinese Cane_Correct_03c21858:
+    # c "I reckon those goons at the shop had told you my name already anyway. That's a free 50 gold to you."
+    c "我估计你两个房东已经告诉过你我的名字。没办法，白送 50 块钱给你。"
 
-#     # c "Ha! Well then, remember to spend some on here while ya at it... We've got a number of food and drinks."
-#     c ""
+translate schinese Cane_Correct_12912c50:
 
-# translate schinese Cane_Correct_c1a3b9de:
+    # e "Thanks, Cane. (You received 50 gold.) "
+    e "谢谢老板。"
+    "你获得了 50 金币。"
 
-#     # e "I'll think about it."
-#     e ""
+translate schinese Cane_Correct_03c21858:
 
-# translate schinese Cane_Correct_1c52ee51:
+    # c "Ha! Well then, remember to spend some on here while ya at it... We've got a number of food and drinks."
+    c "哈！愿赌服输。我这有大把美酒美食……记得待会多多消费帮我回血啊。"
 
-#     # c "Alright, enjoy ya stay in the Nocturnal Trunk!"
-#     c ""
+translate schinese Cane_Correct_c1a3b9de:
 
-# translate schinese Cane_GotTheMoney_a6a81379:
+    # e "I'll think about it."
+    e "我会考虑的。"
 
-#     # e "Yeah... I've got... let me see... [pc.gold] gold on my hand."
-#     e ""
+translate schinese Cane_Correct_1c52ee51:
 
-# translate schinese Cane_GotTheMoney_fdc86db8:
+    # c "Alright, enjoy ya stay in the Nocturnal Trunk!"
+    c "行，喝好玩好去吧！"
 
-#     # c "Gimme that."
-#     c ""
+#还钱
 
-# translate schinese Cane_GotTheMoney_39078807:
+translate schinese Cane_GotTheMoney_a6a81379:
 
-#     # "Cane yanks your pouch away from your palms, he swiftly pour all the coins on the counter and split them into two piles."
-#     ""
+    # e "Yeah... I've got... let me see... [pc.gold] gold on my hand."
+    e "嗯……我这有……我数数……[pc.gold] 金币。"
 
-# translate schinese Cane_GotTheMoney_010e8968:
+translate schinese Cane_GotTheMoney_fdc86db8:
 
-#     # e "Hey! What are you doing!"
-#     e ""
+    # c "Gimme that."
+    c "拿来。"
 
-# translate schinese Cane_GotTheMoney_b5092846:
+translate schinese Cane_GotTheMoney_39078807:
 
-#     # c "Here's ya [pc.gold]. And the other's my 50 gold as we promised."
-#     c ""
+    # "Cane yanks your pouch away from your palms, he swiftly pour all the coins on the counter and split them into two piles."
+    if pc.gold > 50:
+        "凯恩一把拽走你的钱包，将所有的金币倒在柜台上，分成了两堆。"
+    else:
+        "凯恩一把拽走你的钱包，将所有的金币倒在柜台上。"
 
-# translate schinese Cane_GotTheMoney_94c5bebe:
+translate schinese Cane_GotTheMoney_010e8968:
 
-#     # "The bat gently swipe the first pile all up back into your pouch, and throws it back at you, you can barely catch it in the air."
-#     ""
+    # e "Hey! What are you doing!"
+    e "嘿！你要干什么！"
 
-# translate schinese Cane_GotTheMoney_f0969e8a:
+translate schinese Cane_GotTheMoney_b5092846:
 
-#     # e "Is that all..."
-#     e ""
+    # c "Here's ya [pc.gold]. And the other's my 50 gold as we promised."
+    if pc.gold > 0:
+        c "这是你的 [pc.gold] 金币。而这是我的 50 金币，我们之前约好哩。"
+    else:
+        c "这些金币都归我了，我们之前约好哩。"
 
-# translate schinese Cane_GotTheMoney_e0da3878:
+translate schinese Cane_GotTheMoney_94c5bebe:
 
-#     # c "No... come here a second, gotta give ya something."
-#     c ""
+    # "The bat gently swipe the first pile all up back into your pouch, and throws it back at you, you can barely catch it in the air."
+    if pc.gold > 0:
+        "老蝙蝠用小臂轻轻将属于你的那部分金币扫到了你的钱包里，扔回给你，你差点没接住。"
+    else:
+        "老蝙蝠把空钱包扔回给你，你差点没接住。"
 
-# translate schinese Cane_GotTheMoney_81d163b8:
+translate schinese Cane_GotTheMoney_f0969e8a:
 
-#     # "You hesitantly walk in front of the tavern owner."
-#     ""
+    # e "Is that all..."
+    e "我可以走了吗……"
 
-# translate schinese Cane_GotTheMoney_f766d5e3:
+translate schinese Cane_GotTheMoney_e0da3878:
 
-#     # c "Closer."
-#     c ""
+    # c "No... come here a second, gotta give ya something."
+    c "不成……过来柜台后边，我还有东西给你。"
 
-# translate schinese Cane_GotTheMoney_2bf760b7:
+translate schinese Cane_GotTheMoney_81d163b8:
 
-#     # "You take another step into the side of the counter, while Cane seems to be licking his lips, waiting for you to get closer."
-#     ""
+    # "You hesitantly walk in front of the tavern owner."
+    "你将信将疑绕到了柜台入口。"
 
-# translate schinese Cane_GotTheMoney_4a0509df:
+translate schinese Cane_GotTheMoney_f766d5e3:
 
-#     # "He walks closer to you, his meaty belly almost touching your own, you shudder as you see his arm reaching behind your back."
-#     ""
+    # c "Closer."
+    c "近点。"
 
-# translate schinese Cane_GotTheMoney_1b88f674:
+translate schinese Cane_GotTheMoney_2bf760b7:
 
-#     # "SMACK!"
-#     ""
+    # "You take another step into the side of the counter, while Cane seems to be licking his lips, waiting for you to get closer."
+    "凯恩舔了舔嘴唇，等待你走近。"
+    "你扶着柜台，向前迈出了小小一步。"
 
-# translate schinese Cane_GotTheMoney_482a9ec1:
+translate schinese Cane_GotTheMoney_4a0509df:
 
-#     # "Cane slapped your ass as hard as he can, you let out a loud gasp but the other patrons don't seem to notice."
-#     ""
+    # "He walks closer to you, his meaty belly almost touching your own, you shudder as you see his arm reaching behind your back."
+    "可凯恩突然主动靠了上来，近得你几乎快要贴上他圆滚的肚腩。他张开双臂伸向你背后，吓得你打了个寒颤。"
 
-# translate schinese Cane_GotTheMoney_bc35d635:
+translate schinese Cane_GotTheMoney_1b88f674:
 
-#     # "You glance at your behind and then back to Cane. Your ass has already turned red by his forceful slap."
-#     ""
+    # "SMACK!"
+    "啪！"
 
-# translate schinese Cane_GotTheMoney_1e7a4e9c:
+translate schinese Cane_GotTheMoney_482a9ec1:
 
-#     # c "This is an extra punishment for forgetting my name, [e]."
-#     c ""
+    # "Cane slapped your ass as hard as he can, you let out a loud gasp but the other patrons don't seem to notice."
+    "凯恩给你屁股来了重重的一巴掌，你倒抽一口凉气近乎惊叫，但其他顾客似乎并没有注意到。"
 
-# translate schinese Cane_GotTheMoney_f332a196:
+translate schinese Cane_GotTheMoney_bc35d635:
 
-#     # e "Agh-- Do you really need to do that..."
-#     e ""
+    # "You glance at your behind and then back to Cane. Your ass has already turned red by his forceful slap."
+    "你急忙扭头看向自己后边，可惜两瓣都已经留下了通红的大手印。"
 
-# translate schinese Cane_GotTheMoney_2996cd64:
+translate schinese Cane_GotTheMoney_1e7a4e9c:
 
-#     # c "First time loser always gets a taste of my slap, mister. Yar surely welcomed when I come up with another bet."
-#     c ""
+    # c "This is an extra punishment for forgetting my name, [e]."
+    c "叫你忘记我的名字，这是对你的额外惩罚，[e]。"
 
-# translate schinese Cane_GotTheMoney_c9fff88b:
+translate schinese Cane_GotTheMoney_f332a196:
 
-#     # e "I don't know if I want to bet with you again."
-#     e ""
+    # e "Agh-- Do you really need to do that..."
+    e "啊——有必要吗……"
 
-# translate schinese Cane_GotTheMoney_41cbba6d:
+translate schinese Cane_GotTheMoney_2996cd64:
 
-#     # c "Well then, that concludes our lil business. Enjoy ya stay in the Nocturnal Trunk."
-#     c ""
+    # c "First time loser always gets a taste of my slap, mister. Yar surely welcomed when I come up with another bet."
+    c "第一次输给我的人向来都要被我打一巴掌。等我想出下次要赌什么，欢迎再来找我玩啊。"
 
-# translate schinese Cane_GotTheMoney_2e23fe8d:
+translate schinese Cane_GotTheMoney_c9fff88b:
 
-#     # "Your ass still feels sore after Cane's slap. You nudge on the cheeks as you walk around the tavern."
-#     ""
+    # e "I don't know if I want to bet with you again."
+    e "我可不想再和你赌了。"
 
-# translate schinese Cane_NoMoney_f0972ae5:
+translate schinese Cane_GotTheMoney_41cbba6d:
 
-#     # e "Let me see... I've got... uhh- [pc.gold] gold..."
-#     e ""
+    # c "Well then, that concludes our lil business. Enjoy ya stay in the Nocturnal Trunk."
+    c "哼哼，现在我们的小赌约你已经履行完毕，喝好玩好去吧。"
 
-# translate schinese Cane_NoMoney_b87bec4d:
+translate schinese Cane_GotTheMoney_2e23fe8d:
 
-#     # c "How poor are ya lil goat. Shouldn't have bet if ya ain't got no money."
-#     c ""
+    # "Your ass still feels sore after Cane's slap. You nudge on the cheeks as you walk around the tavern."
+    "被壮实的老蝙蝠那么大力一拍，你的屁股酸痛得很。你只好边走边揉离开了柜台。"
 
-# translate schinese Cane_NoMoney_8435aaf1:
+#没钱
 
-#     # e "I'm sorry, Cane. I thought I'd remember..."
-#     e ""
+translate schinese Cane_NoMoney_f0972ae5:
 
-# translate schinese Cane_NoMoney_106596c3:
+    # e "Let me see... I've got... uhh- [pc.gold] gold..."
+    e "我数数……我有……呃——[pc.gold] 块钱……"
 
-#     # c "Well well well, gimme that."
-#     c ""
+translate schinese Cane_NoMoney_b87bec4d:
 
-# translate schinese Cane_NoMoney_a04dae47:
+    # c "How poor are ya lil goat. Shouldn't have bet if ya ain't got no money."
+    c "穷酸的小羊羔，早知不和你赌了。"
 
-#     # "Cane yanks your pouch away from your palms, he swiftly pour all the coins on the counter and took them away. He then hands you back the empty pouch."
-#     ""
+translate schinese Cane_NoMoney_8435aaf1:
 
-# translate schinese Cane_NoMoney_669735f6:
+    # e "I'm sorry, Cane. I thought I'd remember..."
+    e "对不起，凯恩。我以为我记得……"
 
-#     # c "... ya still owe me [owed_gold], pal."
-#     c ""
+translate schinese Cane_NoMoney_106596c3:
 
-# translate schinese Cane_NoMoney_7ad38c53:
+    # c "Well well well, gimme that."
+    c "别废话，拿来嘞你。"
 
-#     # e "I'll come back soon and get you the money."
-#     e ""
+translate schinese Cane_NoMoney_a04dae47:
 
-# translate schinese Cane_NoMoney_db04bb7e:
+    # "Cane yanks your pouch away from your palms, he swiftly pour all the coins on the counter and took them away. He then hands you back the empty pouch."
+    "凯恩一把夺过你的钱包，将金币全倒出来尽数收走。你只拿回了一个干瘪的布袋。"
 
-#     # c "No I don't think so. C'mon, ya not gonna leave this place until ya paid ya debt. Look, ya be serving my patrons for a few hours and I'll consider our debt forgotten."
-#     c ""
+translate schinese Cane_NoMoney_669735f6:
 
-# translate schinese Cane_NoMoney_e5c832b2:
+    # c "... ya still owe me [owed_gold], pal."
+    c "……记住，你还欠我 [owed_gold] 金币，小子。"
 
-#     # e "Hey, it's just [owed_gold] gold, I'll earn this back elsewhere."
-#     e ""
+translate schinese Cane_NoMoney_7ad38c53:
 
-# translate schinese Cane_NoMoney_7814d9f9:
+    # e "I'll come back soon and get you the money."
+    e "我还会再来的，很快就能还上。"
 
-#     # c "It's only a few hours, if not, ya gonna pay double the price ya owed me. Just be our server for a while, what can it hurt ya?" nointeract
-#     c "" nointeract
+translate schinese Cane_NoMoney_db04bb7e:
+
+    # c "No I don't think so. C'mon, ya not gonna leave this place until ya paid ya debt. Look, ya be serving my patrons for a few hours and I'll consider our debt forgotten."
+    c "不成不成，在赌债还清之前你不许走。听我说，情为我这的顾客端酒送餐，你欠的赌债一笔勾销。"
+
+translate schinese Cane_NoMoney_e5c832b2:
+
+    # e "Hey, it's just [owed_gold] gold, I'll earn this back elsewhere."
+    e "嘿，才 [owed_gold] 块钱。我在哪都能赚到。"
+
+translate schinese Cane_NoMoney_7814d9f9:
+
+    # c "It's only a few hours, if not, ya gonna pay double the price ya owed me. Just be our server for a while, what can it hurt ya?" nointeract
+    c "膺会服务员而已，顾客又不会吃了你。就几个钟头，赶趁的，不然你就要欠我双倍的钱。" nointeract
 
 # translate schinese Cane_Outfit_02_c237210e:
 
@@ -7304,30 +7341,30 @@ translate schinese strings:
 #     # "You walk to Cane, asking to complete your shift."
 #     ""
 
-# translate schinese Cane_NoMoney_No_8776ea0c:
+translate schinese Cane_NoMoney_No_8776ea0c:
 
-#     # e "No... I'll pay you back later."
-#     e ""
+    # e "No... I'll pay you back later."
+    e "不了……我改天再来还钱。"
 
-# translate schinese Cane_NoMoney_No_ecf9ee0b:
+translate schinese Cane_NoMoney_No_ecf9ee0b:
 
-#     # c "Really? Ya don't wanna get free money here instead? Well... I guess that's ya loss."
-#     c ""
+    # c "Really? Ya don't wanna get free money here instead? Well... I guess that's ya loss."
+    c "真的？连送上门的钱都不要？行吧……反正吃亏的是你。"
 
-# translate schinese Cane_NoMoney_No_0b4c628d:
+translate schinese Cane_NoMoney_No_0b4c628d:
 
-#     # c "Just pay me back the amount ya owed me then, it's [owed_gold], whenever ya want."
-#     c ""
+    # c "Just pay me back the amount ya owed me then, it's [owed_gold], whenever ya want."
+    c "只用还你原本欠的钱就好，[owed_gold]，你什么时候还都中。"
 
-# translate schinese Cane_NoMoney_No_943649a0:
+translate schinese Cane_NoMoney_No_943649a0:
 
-#     # e "Alright... Thanks Cane."
-#     e ""
+    # e "Alright... Thanks Cane."
+    e "好的……谢谢。"
 
-# translate schinese Cane_NoMoney_No_7ad9c6e8:
+translate schinese Cane_NoMoney_No_7ad9c6e8:
 
-#     # c "Aye, remember to call ya lizard friend to come here often."
-#     c ""
+    # c "Aye, remember to call ya lizard friend to come here often."
+    c "诶，记得让你的蜥蜴朋友多来光顾啊。"
 
 #洛萨尔
 ##初次见面
@@ -8953,47 +8990,47 @@ translate schinese strings:
     old "Report about your fight with dummy"
     new "报告与人偶对战的结果"
 
-    old "Spar with Lothar"
-    new "接受洛萨尔的挑战"
+    # old "Spar with Lothar"
+    # new "接受洛萨尔的挑战"
 
-    old "Ask about the sparring bet"
-    new "询问同洛萨尔对战的事情"
+    # old "Ask about the sparring bet"
+    # new "询问同洛萨尔对战的事情"
 
-    old "Ask about the monster nearby"
-    new "询问怪物出没的事情"
+    # old "Ask about the monster nearby"
+    # new "询问怪物出没的事情"
 
-    old "Go to hunt the monster nearby"
-    new "提议一同猎取怪物"
-#TODO
-    old "Ask about the stone from the caravan"
-    new "Ask about the stone from the caravan"
+    # old "Go to hunt the monster nearby"
+    # new "提议一同猎取怪物"
 
-    old "Ask about Amble and Jog"
-    new "询问安布和乔格的事情"
+    # old "Ask about the stone from the caravan"
+    # new "Ask about the stone from the caravan"
 
-    old "Report for Amble and Jog's Training"
-    new "报告同安布和乔格训练的成果"
+    # old "Ask about Amble and Jog"
+    # new "询问安布和乔格的事情"
 
-    old "Ask about his Loot"
-    new "询问洛萨尔跟班的事情"
+    # old "Report for Amble and Jog's Training"
+    # new "报告同安布和乔格训练的成果"
 
-    old "Ask about his opinion on the Goat Tribe"
-    new "询问对山羊部落的看法"
+    # old "Ask about his Loot"
+    # new "询问洛萨尔跟班的事情"
 
-    old "Report about the visit to Goat Tribe"
-    new "报告打探山羊部落的结果"
+    # old "Ask about his opinion on the Goat Tribe"
+    # new "询问对山羊部落的看法"
 
-    old "Ask Lothar about Trainings from Ole"
-    new "征得向安布和乔格请教的许可"
+    # old "Report about the visit to Goat Tribe"
+    # new "报告打探山羊部落的结果"
 
-    old "About sneaking into the Goat Tribe"
-    new "询问潜入山羊部落的计划"
+    # old "Ask Lothar about Trainings from Ole"
+    # new "征得向安布和乔格请教的许可"
 
-    old "Ask about the trip to the river"
-    new "询问前往招藓河的打算"
+    # old "About sneaking into the Goat Tribe"
+    # new "询问潜入山羊部落的计划"
+
+    # old "Ask about the trip to the river"
+    # new "询问前往招藓河的打算"
 
     old "Ask about him being a hero"
-    new "好奇成为英雄的感受"
+    new "好奇成为英雄的历程"
 
     old "How are you doing?"
     new "询问近来的情况"
@@ -13408,25 +13445,29 @@ translate schinese strings:
 #     # l "Don't let me down, Disciple."
 #     l ""
 
-# translate schinese Lothar_Night_Greet_06ccd779:
+#酒馆遇见洛萨尔
 
-#     # l "Hmm... Ahoy! Little disciple, Don't see you often in the tavern. Down to drink a few beer?"
-#     l ""
+translate schinese Lothar_Night_Greet_06ccd779:
 
-# translate schinese Lothar_Night_Greet_524f102e:
+    # l "Hmm... Ahoy! Little disciple, Don't see you often in the tavern. Down to drink a few beer?"
+    l "嗝……嘿！我的徒儿，没怎么在酒馆见着你啊。坐下来喝几杯？"
 
-#     # e "Hey... Lothar. I heard you'd go to tavern at night."
-#     e ""
+translate schinese Lothar_Night_Greet_524f102e:
 
-# translate schinese Lothar_Night_Greet_09d2a1aa:
+    # e "Hey... Lothar. I heard you'd go to tavern at night."
+    e "嗨……洛萨尔。我听说你晚上会来喝酒。"
 
-#     # l "You are right. Try some beer, it's the best in the whole continent."
-#     l ""
+translate schinese Lothar_Night_Greet_09d2a1aa:
 
-# translate schinese Lothar_Night_Greet_119f8b57:
+    # l "You are right. Try some beer, it's the best in the whole continent."
+    l "没错，坐坐坐，全大陆没有哪儿的啤酒比这儿的更好喝了。"
 
-#     # l "Hey, Cane. Get some beer, for this little guy here."
-#     l ""
+translate schinese Lothar_Night_Greet_119f8b57:
+
+    # l "Hey, Cane. Get some beer, for this little guy here."
+    l "嘿，凯恩，给我徒弟满上。"
+
+##当过服务员
 
 # translate schinese Lothar_Night_Greet_05643719:
 
@@ -13508,585 +13549,587 @@ translate schinese strings:
 #     # e "Hmm..."
 #     e ""
 
-# translate schinese Lothar_Night_Greet_a725761e:
+##没当过服务员
 
-#     # c "Aye, Lot. Here's yer beer. And here's one for our new proper lad, [e]."
-#     c ""
+translate schinese Lothar_Night_Greet_a725761e:
 
-# translate schinese Lothar_Night_Greet_d54c3f1c:
+    # c "Aye, Lot. Here's yer beer. And here's one for our new proper lad, [e]."
+    c "来了，洛大侠，你和咱新来帅小伙的啤酒。"
 
-#     # e "Thank you Cane. This tavern is actually really cozy."
-#     e ""
+translate schinese Lothar_Night_Greet_d54c3f1c:
 
-# translate schinese Lothar_Night_Greet_b958372d:
+    # e "Thank you Cane. This tavern is actually really cozy."
+    e "谢谢，凯恩。你把酒馆的环境打理得特别好。"
 
-#     # c "Look, I need someone to help me take care of the tavern, [e]. Serving food and drink to our misters and misses."
-#     c ""
+translate schinese Lothar_Night_Greet_b958372d:
 
-# translate schinese Lothar_Night_Greet_dfe8d92a:
+    # c "Look, I need someone to help me take care of the tavern, [e]. Serving food and drink to our misters and misses."
+    c "[e]，我自个儿打理可太辛苦了，要是你肯帮忙为各位大爷小姐端酒送餐就好咯。"
 
-#     # e "Hmm... me?"
-#     e ""
+translate schinese Lothar_Night_Greet_dfe8d92a:
 
-# translate schinese Lothar_Night_Greet_ca0a3001:
+    # e "Hmm... me?"
+    e "啊……我？"
 
-#     # c "Ya look like a proper candidate, real perfect size. Let me know when yer interested."
-#     c ""
+translate schinese Lothar_Night_Greet_ca0a3001:
 
-# translate schinese Lothar_Night_Greet_ffb1ef5c:
+    # c "Ya look like a proper candidate, real perfect size. Let me know when yer interested."
+    c "没人比你更合适这份工嘞，简直是为你量身定制。如果你感兴趣记得告诉我。"
 
-#     # e "A-alright, maybe next time?"
-#     e ""
+translate schinese Lothar_Night_Greet_ffb1ef5c:
 
-# translate schinese Lothar_Night_Greet_7a8ad778:
+    # e "A-alright, maybe next time?"
+    e "好、好的，那到时再说？"
 
-#     # l "Thanks for the beer anyway, Cane."
-#     l ""
+translate schinese Lothar_Night_Greet_7a8ad778:
 
-# translate schinese Lothar_Night_Greet_8395d446:
+    # l "Thanks for the beer anyway, Cane."
+    l "好酒，谢了凯恩。"
 
-#     # c "You are Welcome, let's see. I'm gonna serve the others while you two chit chat. Alright?"
-#     c ""
+translate schinese Lothar_Night_Greet_8395d446:
 
-# translate schinese Lothar_Night_Greet_44fbec2c:
+    # c "You are Welcome, let's see. I'm gonna serve the others while you two chit chat. Alright?"
+    c "不客气。我还有别的客人要招待，你们慢慢聊啊。"
 
-#     # l "Ya."
-#     l ""
+translate schinese Lothar_Night_Greet_44fbec2c:
 
-# translate schinese Lothar_Night_Greet_9936233d:
+    # l "Ya."
+    l "得。"
 
-#     # e "See you, Cane."
-#     e ""
+translate schinese Lothar_Night_Greet_9936233d:
 
-# translate schinese Lothar_Night_Greet_48c57f87:
+    # e "See you, Cane."
+    e "待会见。"
 
-#     # l "Hmm... Like the beer?"
-#     l ""
+translate schinese Lothar_Night_Greet_48c57f87:
 
-# translate schinese Lothar_Night_Greet_bbd7872e:
+    # l "Hmm... Like the beer?"
+    l "嗯……怎么样，好喝吧？"
 
-#     # e "A little bitter for my taste, not that I've drank it before."
-#     e ""
+translate schinese Lothar_Night_Greet_bbd7872e:
 
-# translate schinese Lothar_Night_Greet_1f837df0:
+    # e "A little bitter for my taste, not that I've drank it before."
+    e "有点苦，其实我还没喝过啤酒。"
 
-#     # l "You'll get used to it, you all do."
-#     l ""
+translate schinese Lothar_Night_Greet_1f837df0:
 
-# translate schinese Lothar_Night_Greet_e6e5a130:
+    # l "You'll get used to it, you all do."
+    l "你会习惯这种口味的，相信我。"
 
-#     # l "Speaking of which, let me introduce my comrade to you. They're coming back right now I believe."
-#     l ""
+translate schinese Lothar_Night_Greet_e6e5a130:
 
-# translate schinese Lothar_Night_Greet_1abf65ea:
+    # l "Speaking of which, let me introduce my comrade to you. They're coming back right now I believe."
+    l "对了，我还没给你介绍过我的战友。他们应该就快到了。"
 
-#     # "As you look behind, you see two beefy dudes at the tavern door, walking toward you and Lothar. Lothar waves at them in excitement."
-#     ""
+translate schinese Lothar_Night_Greet_1abf65ea:
 
-# translate schinese Lothar_Night_Greet_50773e72:
+    # "As you look behind, you see two beefy dudes at the tavern door, walking toward you and Lothar. Lothar waves at them in excitement."
+    "你回头朝酒馆门口望去，恰好此时有两人踏进酒馆，一高一矮。洛萨尔向他们兴奋地挥手。"
 
-#     # "One of them is a Coyote, and the other a Raccoon. They both hold a few meat in their hands, throwing them on the table."
-#     ""
+translate schinese Lothar_Night_Greet_50773e72:
 
-# translate schinese Lothar_Night_Greet_bdc6a726:
+    # "One of them is a Coyote, and the other a Raccoon. They both hold a few meat in their hands, throwing them on the table."
+    "熊和鬣狗手中各提着一捆肉，径直向你和洛萨尔走来，将肉扔到了吧台上。"
 
-#     # comrade "Lot, who is this new guy over here."
-#     comrade ""
+translate schinese Lothar_Night_Greet_bdc6a726:
 
-# translate schinese Lothar_Night_Greet_09172bb3:
+    # comrade "Lot, who is this new guy over here."
+    comrade "洛哥，这位新来的小家伙是……"
 
-#     # "Both of them stand behind Lothar, staring at you with suspicion."
-#     ""
+translate schinese Lothar_Night_Greet_09172bb3:
 
-# translate schinese Lothar_Night_Greet_f5398a5c:
+    # "Both of them stand behind Lothar, staring at you with suspicion."
+    "两个陌生人站在洛萨尔身后，充满疑虑地盯着你。"
 
-#     # l "He's [e]. This is Jog, and that's Amble."
-#     l ""
+translate schinese Lothar_Night_Greet_f5398a5c:
 
-# translate schinese Lothar_Night_Greet_67e9e342:
+    # l "He's [e]. This is Jog, and that's Amble."
+    l "他叫[e]。[e]，乔格和安布。"
 
-#     # jog "Oh, Lot you brought a new member or what.. Nice to meet you though, [e]."
-#     jog ""
+translate schinese Lothar_Night_Greet_67e9e342:
 
-# translate schinese Lothar_Night_Greet_626bc394:
+    # jog "Oh, Lot you brought a new member or what.. Nice to meet you though, [e]."
+    jog "唷，洛哥你是多拉了个新人还是咋的……你好啊，[e]。"
 
-#     # e "Nice to meet you, Jog. And nice to meet you too, Amble."
-#     e ""
+translate schinese Lothar_Night_Greet_626bc394:
 
-# translate schinese Lothar_Night_Greet_ebe2b749:
+    # e "Nice to meet you, Jog. And nice to meet you too, Amble."
+    e "你好，乔格。你也是，安布。"
 
-#     # amble "Hmm... has he proven himself to be capable enough to join us."
-#     amble ""
+translate schinese Lothar_Night_Greet_ebe2b749:
 
-# translate schinese Lothar_Night_Greet_9bc5a1c2:
+    # amble "Hmm... has he proven himself to be capable enough to join us."
+    amble "唔……他有证明自己有资格加入我们了吗？"
 
-#     # l "No, he's not joining us. He's still got a long way to go to prove himself."
-#     l ""
+translate schinese Lothar_Night_Greet_9bc5a1c2:
 
-# translate schinese Lothar_Night_Greet_eceb32db:
+    # l "No, he's not joining us. He's still got a long way to go to prove himself."
+    l "没，他今天不是来加入我们的。他的历练之旅还长得很呢。"
 
-#     # l "Talking about proof... You got your courier badge yet?" nointeract
-#     l "" nointeract
+translate schinese Lothar_Night_Greet_eceb32db:
 
-# translate schinese Lothar_Night_Greet_5433d9ff:
+    # l "Talking about proof... You got your courier badge yet?" nointeract
+    l "说到证明……你拿到邮递员徽章没？" nointeract
 
-#     # e "Hmm... Yes."
-#     e ""
+translate schinese Lothar_Night_Greet_5433d9ff:
 
-# translate schinese Lothar_Night_Greet_534287c1:
+    # e "Hmm... Yes."
+    e "嗯……拿到了。"
 
-#     # l "Ahhh.... I see that on your chest now. It's got your face in it, isn't it. Ole really did something."
-#     l ""
+translate schinese Lothar_Night_Greet_534287c1:
 
-# translate schinese Lothar_Night_Greet_bd70add0:
+    # l "Ahhh.... I see that on your chest now. It's got your face in it, isn't it. Ole really did something."
+    l "啊……你挂到胸口上了。奥利手还挺巧，把你的脸还原得惟妙惟俏的。"
 
-#     # amble "I'd get his cute little face in my chest, like right now."
-#     amble ""
+translate schinese Lothar_Night_Greet_bd70add0:
 
-# translate schinese Lothar_Night_Greet_39e746d6:
+    # amble "I'd get his cute little face in my chest, like right now."
+    amble "真想现在就把他可爱的小脸蛋抱进怀里。"
 
-#     # l "Hey, he's mine. Go get your diciple somewhere else."
-#     l ""
+translate schinese Lothar_Night_Greet_39e746d6:
 
-# translate schinese Lothar_Night_Greet_9b507588:
+    # l "Hey, he's mine. Go get your diciple somewhere else."
+    l "嘿，[e]是我的。找别人做你徒弟去。"
 
-#     # jog "Not gonna lie though, where did you find this little fella."
-#     jog ""
+translate schinese Lothar_Night_Greet_9b507588:
 
-# translate schinese Lothar_Night_Greet_4669f86f:
+    # jog "Not gonna lie though, where did you find this little fella."
+    jog "讲真，这位小帅哥从哪来的。"
 
-#     # l "He's from that lizard, told me he's another outsider or something."
-#     l ""
+translate schinese Lothar_Night_Greet_4669f86f:
 
-# translate schinese Lothar_Night_Greet_582fb40c:
+    # l "He's from that lizard, told me he's another outsider or something."
+    l "那只蜥蜴有天把他从森林带了回来，说他也是海外人，来自异世界啥的。"
 
-#     # l "Wait... Where's your badge... [e]?"
-#     l ""
+translate schinese Lothar_Night_Greet_582fb40c:
 
-# translate schinese Lothar_Night_Greet_b0d87b44:
+    # l "Wait... Where's your badge... [e]?"
+    l "那……在哪呢……[e]？"
 
-#     # e "Uhh... I forgot about it."
-#     e ""
+translate schinese Lothar_Night_Greet_b0d87b44:
 
-# translate schinese Lothar_Night_Greet_27276135:
+    # e "Uhh... I forgot about it."
+    e "呃……我忘带了。"
 
-#     # l "Are you really lying to me again? You moron..."
-#     l ""
+translate schinese Lothar_Night_Greet_27276135:
 
-# translate schinese Lothar_Night_Greet_27c51ad9:
+    # l "Are you really lying to me again? You moron..."
+    l "你还敢再骗我？"
 
-#     # e "Hmm... I'm sorry about that Lothar, I think I haven't finished Ole's quest yet."
-#     e ""
+translate schinese Lothar_Night_Greet_27c51ad9:
 
-# translate schinese Lothar_Night_Greet_5c3f7a84:
+    # e "Hmm... I'm sorry about that Lothar, I think I haven't finished Ole's quest yet."
+    e "啊……对不起，我只是还没完成奥利交给我的任务。"
 
-#     # jog "Hey, he's just a kid, Lot. I'm sure he didn't mean it."
-#     jog ""
+translate schinese Lothar_Night_Greet_5c3f7a84:
 
-# translate schinese Lothar_Night_Greet_bfa51bcd:
+    # jog "Hey, he's just a kid, Lot. I'm sure he didn't mean it."
+    jog "洛哥消消气，他还小，肯定不是故意骗你的。"
 
-#     # l "Whatever, I'm gonna need more beer after talking with this... kid."
-#     l ""
+translate schinese Lothar_Night_Greet_bfa51bcd:
 
-# translate schinese Lothar_Night_Greet_92f1e906:
+    # l "Whatever, I'm gonna need more beer after talking with this... kid."
+    l "无所谓，有时间和这……小鬼头计较，不如多整几杯啤酒。"
 
-#     # e "Hmmph... I've got to do other things now... I gotta take off, Lothar, and you guys."
-#     e ""
+translate schinese Lothar_Night_Greet_92f1e906:
 
-# translate schinese Lothar_Night_Greet_a9ebacb2:
+    # e "Hmmph... I've got to do other things now... I gotta take off, Lothar, and you guys."
+    e "嗯……我想起来有件事要去办……先走了，洛萨尔，各位。"
 
-#     # l "Good, if you stayed for one more minute I'll make sure you get the taste of a real kick in the nuts."
-#     l ""
+translate schinese Lothar_Night_Greet_a9ebacb2:
 
-# translate schinese Lothar_Night_Greet_f2aaaa0b:
+    # l "Good, if you stayed for one more minute I'll make sure you get the taste of a real kick in the nuts."
+    l "去吧，要是你继续在我面前晃悠，再过一分钟我就让你尝尝蛋碎的滋味。"
 
-#     # amble "He meant see you later. Good night, [e]."
-#     amble ""
+translate schinese Lothar_Night_Greet_f2aaaa0b:
 
-# translate schinese Lothar_Night_Greet_774462ee:
+    # amble "He meant see you later. Good night, [e]."
+    amble "他的意思是明天见。晚安，[e]。"
 
-#     # e "Good Night."
-#     e ""
+translate schinese Lothar_Night_Greet_774462ee:
 
-# translate schinese Lothar_Night_Greet_3b6410c2:
+    # e "Good Night."
+    e "晚安。"
 
-#     # "Looking at Lothar's annoyed face, you decided it's better for your safety to leave the three drinking their beer in peace."
-#     ""
+translate schinese Lothar_Night_Greet_3b6410c2:
 
-# translate schinese Lothar_Night_Greet_259b479f:
+    # "Looking at Lothar's annoyed face, you decided it's better for your safety to leave the three drinking their beer in peace."
+    "洛萨尔勃然色变。你为了自己的人身安全，识相地离开了吧台。"
 
-#     # l "Ahhh.... it's in your bag now. It's got your face in it, isn't it. Ole really did something."
-#     l ""
+translate schinese Lothar_Night_Greet_259b479f:
 
-# translate schinese Lothar_Night_Greet_6345a08f:
+    # l "Ahhh.... it's in your bag now. It's got your face in it, isn't it. Ole really did something."
+    l "啊……你放包里了。奥利手还挺巧，把你的脸还原得惟妙惟俏的。"
 
-#     # jog "I'd get his cute little face in my bag, like right now."
-#     jog ""
+translate schinese Lothar_Night_Greet_6345a08f:
 
-# translate schinese Lothar_Night_Greet_39e746d6_1:
+    # jog "I'd get his cute little face in my bag, like right now."
+    amble "真想现在就把他可爱的小脸蛋抱进怀里。"
 
-#     # l "Hey, he's mine. Go get your diciple somewhere else."
-#     l ""
+translate schinese Lothar_Night_Greet_39e746d6_1:
 
-# translate schinese Lothar_Night_Greet_4dc42b5f:
+    # l "Hey, he's mine. Go get your diciple somewhere else."
+    l "嘿，[e]是我的。找别人做你徒弟去。"
 
-#     # amble "Not gonna lie though, where did you find this little fella."
-#     amble ""
+translate schinese Lothar_Night_Greet_4dc42b5f:
 
-# translate schinese Lothar_Night_Greet_4669f86f_1:
+    # amble "Not gonna lie though, where did you find this little fella."
+    jog "讲真，这位小帅哥从哪来的。"
 
-#     # l "He's from that lizard, told me he's another outsider or something."
-#     l ""
+translate schinese Lothar_Night_Greet_4669f86f_1:
 
-# translate schinese Lothar_Night_Greet_582fb40c_1:
+    # l "He's from that lizard, told me he's another outsider or something."
+    l "那只蜥蜴有天把他从森林带了回来，说他也是海外人，来自异世界啥的。"
 
-#     # l "Wait... Where's your badge... [e]?"
-#     l ""
+translate schinese Lothar_Night_Greet_582fb40c_1:
 
-# translate schinese Lothar_Night_Greet_b0d87b44_1:
+    # l "Wait... Where's your badge... [e]?"
+    l "那……在哪呢……[e]？"
 
-#     # e "Uhh... I forgot about it."
-#     e ""
+translate schinese Lothar_Night_Greet_b0d87b44_1:
 
-# translate schinese Lothar_Night_Greet_27276135_1:
+    # e "Uhh... I forgot about it."
+    e "呃……我忘带了。"
 
-#     # l "Are you really lying to me again? You moron..."
-#     l ""
+translate schinese Lothar_Night_Greet_27276135_1:
 
-# translate schinese Lothar_Night_Greet_27c51ad9_1:
+    # l "Are you really lying to me again? You moron..."
+    l "你还敢再骗我？"
 
-#     # e "Hmm... I'm sorry about that Lothar, I think I haven't finished Ole's quest yet."
-#     e ""
+translate schinese Lothar_Night_Greet_27c51ad9_1:
 
-# translate schinese Lothar_Night_Greet_5c3f7a84_1:
+    # e "Hmm... I'm sorry about that Lothar, I think I haven't finished Ole's quest yet."
+    e "啊……对不起，我只是还没完成奥利交给我的任务。"
 
-#     # jog "Hey, he's just a kid, Lot. I'm sure he didn't mean it."
-#     jog ""
+translate schinese Lothar_Night_Greet_5c3f7a84_1:
 
-# translate schinese Lothar_Night_Greet_bfa51bcd_1:
+    # jog "Hey, he's just a kid, Lot. I'm sure he didn't mean it."
+    jog "洛哥消消气，他还小，肯定不是故意骗你的。"
 
-#     # l "Whatever, I'm gonna need more beer after talking with this... kid."
-#     l ""
+translate schinese Lothar_Night_Greet_bfa51bcd_1:
 
-# translate schinese Lothar_Night_Greet_3b6410c2_1:
+    # l "Whatever, I'm gonna need more beer after talking with this... kid."
+    l "无所谓，有时间和这……小鬼头计较，不如多整几杯啤酒。"
 
-#     # "Looking at Lothar's annoyed face, you decided it's better for your safety to leave the three drinking their beer in peace."
-#     ""
+translate schinese Lothar_Night_Greet_3b6410c2_1:
 
-# translate schinese Lothar_Night_Greet_5bf2638b:
+    # "Looking at Lothar's annoyed face, you decided it's better for your safety to leave the three drinking their beer in peace."
+    "洛萨尔勃然色变。你为了自己的人身安全，决定识相地离开群聊。"
 
-#     # e "You know what, I've got to do other things now... I gotta take off."
-#     e ""
+translate schinese Lothar_Night_Greet_5bf2638b:
 
-# translate schinese Lothar_Night_Greet_a9ebacb2_1:
+    # e "You know what, I've got to do other things now... I gotta take off."
+    e "突然想起来，我还有别的事要做……我先走了。"
 
-#     # l "Good, if you stayed for one more minute I'll make sure you get the taste of a real kick in the nuts."
-#     l ""
+translate schinese Lothar_Night_Greet_a9ebacb2_1:
 
-# translate schinese Lothar_Night_Greet_f2aaaa0b_1:
+    # l "Good, if you stayed for one more minute I'll make sure you get the taste of a real kick in the nuts."
+    l "去吧，要是你继续在我面前晃悠，再过一分钟我就让你尝尝蛋碎的滋味。"
 
-#     # amble "He meant see you later. Good night, [e]."
-#     amble ""
+translate schinese Lothar_Night_Greet_f2aaaa0b_1:
 
-# translate schinese Lothar_Night_Greet_774462ee_1:
+    # amble "He meant see you later. Good night, [e]."
+    amble "他的意思是明天见。晚安，[e]。"
 
-#     # e "Good Night."
-#     e ""
+translate schinese Lothar_Night_Greet_774462ee_1:
 
-# translate schinese Lothar_Night_Greet_e3d14324:
+    # e "Good Night."
+    e "晚安。"
 
-#     # amble "Outsider? I thought he was from the Goat, look at his horn."
-#     amble ""
+translate schinese Lothar_Night_Greet_e3d14324:
 
-# translate schinese Lothar_Night_Greet_183f52d8:
+    # amble "Outsider? I thought he was from the Goat, look at his horn."
+    amble "外乡仔？我还以为他是从山羊部落来的，你看他的犄角。"
 
-#     # l "Surely it's something. The lizard asked me to take care of this guy, teach him some stuff."
-#     l ""
+translate schinese Lothar_Night_Greet_183f52d8:
 
-# translate schinese Lothar_Night_Greet_04071065:
+    # l "Surely it's something. The lizard asked me to take care of this guy, teach him some stuff."
+    l "确实很像。反正那蜥蜴祈求我好好照顾[e]，再多带他长长见识。"
 
-#     # e "Hmm... may I say something-"
-#     e ""
+translate schinese Lothar_Night_Greet_04071065:
 
-# translate schinese Lothar_Night_Greet_e6d99e85:
+    # e "Hmm... may I say something-"
+    e "呃……我能插句话——"
 
-#     # l "No. Let me finish with you, And I'll let you go, eh?"
-#     l ""
+translate schinese Lothar_Night_Greet_e6d99e85:
 
-# translate schinese Lothar_Night_Greet_835b5c68:
+    # l "No. Let me finish with you, And I'll let you go, eh?"
+    l "不能，让我把话说完，待会就放你走，嗯？"
 
-#     # e "Alright, Lothar."
-#     e ""
+translate schinese Lothar_Night_Greet_835b5c68:
 
-# translate schinese Lothar_Night_Greet_4bd2de9c:
+    # e "Alright, Lothar."
+    e "好吧。"
 
-#     # l "I'm telling you, come here more often. We'll talk about some informal training with you. Get you stronger to fend off your enemy or something."
-#     l ""
+translate schinese Lothar_Night_Greet_4bd2de9c:
 
-# translate schinese Lothar_Night_Greet_5a0c001f:
+    # l "I'm telling you, come here more often. We'll talk about some informal training with you. Get you stronger to fend off your enemy or something."
+    l "我是为了你好，多来这和我们聚聚，我们可以一起讨论接下来要怎么训练你。难道你不想变得更强，佛挡杀佛，魔挡斩魔吗？"
 
-#     # l "It's not easy watching you managing to lose to a little slime."
-#     l ""
+translate schinese Lothar_Night_Greet_5a0c001f:
 
-# translate schinese Lothar_Night_Greet_24636614:
+    # l "It's not easy watching you managing to lose to a little slime."
+    l "毕竟我实在没眼看，你会输给一丢小小的史莱姆。"
 
-#     # e "How did you.... know."
-#     e ""
+translate schinese Lothar_Night_Greet_24636614:
 
-# translate schinese Lothar_Night_Greet_32f7f518:
+    # e "How did you.... know."
+    e "你怎么知道……"
 
-#     # l "I mean, look at those stains of slime on you down there. Gotta wash it off completely tonight, [e]."
-#     l ""
+translate schinese Lothar_Night_Greet_32f7f518:
 
-# translate schinese Lothar_Night_Greet_254b2010:
+    # l "I mean, look at those stains of slime on you down there. Gotta wash it off completely tonight, [e]."
+    l "啧啧啧，[e]，看看你腿上那些残留的粘液，今晚回去可得好好洗干净啊。"
 
-#     # e "Lothar, can we not talk about this in front of everyone..."
-#     e ""
+translate schinese Lothar_Night_Greet_254b2010:
 
-# translate schinese Lothar_Night_Greet_c9514aae:
+    # e "Lothar, can we not talk about this in front of everyone..."
+    e "洛萨尔，能不能别在大家面前说我丑话……"
 
-#     # e "I'm not sure I want to fight the dummy again, Lothar."
-#     e ""
+translate schinese Lothar_Night_Greet_c9514aae:
 
-# translate schinese Lothar_Night_Greet_cd59b4af:
+    # e "I'm not sure I want to fight the dummy again, Lothar."
+    e "我不想再和人偶打架了，洛萨尔。"
 
-#     # l "Ahem, I'll make him stronger for your level, alright. Plus, if you're strong enough, you can attempt dueling me."
-#     l ""
+translate schinese Lothar_Night_Greet_cd59b4af:
 
-# translate schinese Lothar_Night_Greet_987e3d37:
+    # l "Ahem, I'll make him stronger for your level, alright. Plus, if you're strong enough, you can attempt dueling me."
+    l "呃，我会调大他模拟对战的难度好吧。不过，假如你真有一天足够强大，或许我会愿意接受你的挑战。"
 
-#     # e "Really?"
-#     e ""
+translate schinese Lothar_Night_Greet_987e3d37:
 
-# translate schinese Lothar_Night_Greet_e1a40d4e:
+    # e "Really?"
+    e "真不真的？"
 
-#     # jog "Look, [e]. Lot is putting in some precious time for you. You better pay him back when you actually get stronger."
-#     jog ""
+translate schinese Lothar_Night_Greet_e1a40d4e:
 
-# translate schinese Lothar_Night_Greet_0da43084:
+    # jog "Look, [e]. Lot is putting in some precious time for you. You better pay him back when you actually get stronger."
+    jog "嘿[e]，洛哥可是百忙之中抽空训练你。假如你真的变强了，记得心怀感恩好好回报咱洛哥。"
 
-#     # amble "Yeah, you don't even look like a courier right now. Better step up your game before you get eaten by some monster elsewhere."
-#     amble ""
+translate schinese Lothar_Night_Greet_0da43084:
 
-# translate schinese Lothar_Night_Greet_bad30a84:
+    # amble "Yeah, you don't even look like a courier right now. Better step up your game before you get eaten by some monster elsewhere."
+    amble "是咯，你现在甚至没点邮递员的样子。最好乖乖听洛哥话加强训练，别被哪的怪兽吃掉了。"
 
-#     # e "I guess... Thanks Lothar."
-#     e ""
+translate schinese Lothar_Night_Greet_bad30a84:
 
-# translate schinese Lothar_Night_Greet_98a4eced:
+    # e "I guess... Thanks Lothar."
+    e "大概吧……谢谢你，洛萨尔。"
 
-#     # l "Good. Now, why not leave me and my guys in peace. We'll catch up later, [e]."
-#     l ""
+translate schinese Lothar_Night_Greet_98a4eced:
 
-# translate schinese Lothar_Night_Greet_3cdf02a7:
+    # l "Good. Now, why not leave me and my guys in peace. We'll catch up later, [e]."
+    l "很好，我们待会再聊，[e]。现在就让我和战友们自个喝几杯吧。"
 
-#     # e "Alright, see you."
-#     e ""
+translate schinese Lothar_Night_Greet_3cdf02a7:
 
-# translate schinese Lothar_Night_Greet_52c36b9b:
+    # e "Alright, see you."
+    e "好，待会见。"
 
-#     # e "No... I haven't finished it yet."
-#     e ""
+translate schinese Lothar_Night_Greet_52c36b9b:
 
-# translate schinese Lothar_Night_Greet_14fa7471:
+    # e "No... I haven't finished it yet."
+    e "我……还没有拿到徽章。"
 
-#     # l "[e], that was really a low lie. You have your badge on your chest right now. Who are you even lying to?"
-#     l ""
+translate schinese Lothar_Night_Greet_14fa7471:
 
-# translate schinese Lothar_Night_Greet_ef32a34c:
+    # l "[e], that was really a low lie. You have your badge on your chest right now. Who are you even lying to?"
+    l "[e]，你撒谎的水平还能再低点吗。邮递员徽章就挂在你胸上，骗谁呢？"
 
-#     # e "Uh... Sorry I forgot about it."
-#     e ""
+translate schinese Lothar_Night_Greet_ef32a34c:
 
-# translate schinese Lothar_Night_Greet_c197a0f7:
+    # e "Uh... Sorry I forgot about it."
+    e "呃……我忘记我拿到了。"
 
-#     # l "It doesn't even make sense, [e]. You're just messing with me now aren't you. Aren't you funny. You feel better about yourself messing with the hero?"
-#     l ""
+translate schinese Lothar_Night_Greet_c197a0f7:
 
-# translate schinese Lothar_Night_Greet_d81dcd14:
+    # l "It doesn't even make sense, [e]. You're just messing with me now aren't you. Aren't you funny. You feel better about yourself messing with the hero?"
+    l "这还能忘记？[e]，你是不是想说自己只是开个小玩笑。哼？机灵鬼。觉得和大英雄开玩笑很有意思是吗。"
 
-#     # l "Whatever you wish. You're lucky you have that lizard watching your back... Look, he even made the badge out of your face."
-#     l ""
+translate schinese Lothar_Night_Greet_d81dcd14:
 
-# translate schinese Lothar_Night_Greet_3a197778:
+    # l "Whatever you wish. You're lucky you have that lizard watching your back... Look, he even made the badge out of your face."
+    l "算了。有那只蜥蜴偏袒，你就偷着乐吧……嗯，他把这徽章做得惟妙惟肖的。"
 
-#     # jog "I'd get his cute little face in my chest, like right now."
-#     jog ""
+translate schinese Lothar_Night_Greet_3a197778:
 
-# translate schinese Lothar_Night_Greet_b27fe828:
+    # jog "I'd get his cute little face in my chest, like right now."
+    amble "真想现在就把[e]可爱的小脸蛋抱进怀里。"
 
-#     # l "Hey, he's mine, you flake. Go get your diciple somewhere else."
-#     l ""
+translate schinese Lothar_Night_Greet_b27fe828:
 
-# translate schinese Lothar_Night_Greet_4dc42b5f_1:
+    # l "Hey, he's mine, you flake. Go get your diciple somewhere else."
+    l "嘿，[e]是我的，呆瓜。找别人做你徒弟去。"
 
-#     # amble "Not gonna lie though, where did you find this little fella."
-#     amble ""
+translate schinese Lothar_Night_Greet_4dc42b5f_1:
 
-# translate schinese Lothar_Night_Greet_12db68b7:
+    # amble "Not gonna lie though, where did you find this little fella."
+    jog "讲真，这位小帅哥从哪来的。"
 
-#     # l "He's from the lizard, told me he's another outsider or something."
-#     l ""
+translate schinese Lothar_Night_Greet_12db68b7:
 
-# translate schinese Lothar_Night_Greet_476f07d4:
+    # l "He's from the lizard, told me he's another outsider or something."
+    l "那只蜥蜴有天把他从森林带了回来，说他也是海外人，来自异世界啥的。"
 
-#     # l "[e], I can see the courier badge in your messager bag right now. Who are you even lying to?"
-#     l ""
+translate schinese Lothar_Night_Greet_476f07d4:
 
-# translate schinese Lothar_Night_Greet_ef32a34c_1:
+    # l "[e], I can see the courier badge in your messager bag right now. Who are you even lying to?"
+    l "[e]，我能看见邮递员徽章现在就装在你包里。想骗谁呢？"
 
-#     # e "Uh... Sorry I forgot about it."
-#     e ""
+translate schinese Lothar_Night_Greet_ef32a34c_1:
 
-# translate schinese Lothar_Night_Greet_43590ed7:
+    # e "Uh... Sorry I forgot about it."
+    e "呃……我忘记我拿到了。"
 
-#     # l "It doesn't even make sense, [e]. You're just messing with me now aren't you. Aren't you funny? You feel better about yourself messing with the hero?"
-#     l ""
+translate schinese Lothar_Night_Greet_43590ed7:
 
-# translate schinese Lothar_Night_Greet_d81dcd14_1:
+    # l "It doesn't even make sense, [e]. You're just messing with me now aren't you. Aren't you funny? You feel better about yourself messing with the hero?"
+    l "这还能忘记？[e]，你是不是想说自己只是开个小玩笑。哼？机灵鬼。觉得和大英雄开玩笑很有意思是吗。"
 
-#     # l "Whatever you wish. You're lucky you have that lizard watching your back... Look, he even made the badge out of your face."
-#     l ""
+translate schinese Lothar_Night_Greet_d81dcd14_1:
 
-# translate schinese Lothar_Night_Greet_6345a08f_1:
+    # l "Whatever you wish. You're lucky you have that lizard watching your back... Look, he even made the badge out of your face."
+    l "算了。有那只蜥蜴偏袒，你就偷着乐吧……嗯，他把这徽章做得惟妙惟肖的。"
 
-#     # jog "I'd get his cute little face in my bag, like right now."
-#     jog ""
+translate schinese Lothar_Night_Greet_6345a08f_1:
 
-# translate schinese Lothar_Night_Greet_b27fe828_1:
+    # jog "I'd get his cute little face in my bag, like right now."
+    amble "真想现在就把[e]可爱的小脸蛋抱进怀里。"
 
-#     # l "Hey, he's mine, you flake. Go get your diciple somewhere else."
-#     l ""
+translate schinese Lothar_Night_Greet_b27fe828_1:
 
-# translate schinese Lothar_Night_Greet_4dc42b5f_2:
+    # l "Hey, he's mine, you flake. Go get your diciple somewhere else."
+    l "嘿，[e]是我的，呆瓜。找别人做你徒弟去。"
 
-#     # amble "Not gonna lie though, where did you find this little fella."
-#     amble ""
+translate schinese Lothar_Night_Greet_4dc42b5f_2:
 
-# translate schinese Lothar_Night_Greet_12db68b7_1:
+    # amble "Not gonna lie though, where did you find this little fella."
+    jog "讲真，这位小帅哥从哪来的。"
 
-#     # l "He's from the lizard, told me he's another outsider or something."
-#     l ""
+translate schinese Lothar_Night_Greet_12db68b7_1:
 
-# translate schinese Lothar_Night_Greet_3c6a12e9:
+    # l "He's from the lizard, told me he's another outsider or something."
+    l "那只蜥蜴有天把他从森林带了回来，说他也是海外人，来自异世界啥的。"
 
-#     # l "Well, you haven't finished my training for you, of course you don't have the badge."
-#     l ""
+translate schinese Lothar_Night_Greet_3c6a12e9:
 
-# translate schinese Lothar_Night_Greet_1aa7ddf8:
+    # l "Well, you haven't finished my training for you, of course you don't have the badge."
+    l "当然了，你还差我这关训练没过。"
 
-#     # l "Hmm... You haven't finished with the others yet?"
-#     l ""
+translate schinese Lothar_Night_Greet_1aa7ddf8:
 
-# translate schinese Lothar_Night_Greet_0d1c16af:
+    # l "Hmm... You haven't finished with the others yet?"
+    l "啧……你还没完成其他训练吗？"
 
-#     # e "I was out adventuring after your training. Lothar."
-#     e ""
+translate schinese Lothar_Night_Greet_0d1c16af:
 
-# translate schinese Lothar_Night_Greet_e6d2a4a5:
+    # e "I was out adventuring after your training. Lothar."
+    e "完成你这边的训练之后我一直在外边冒险，还没来得及找其他教官训练。"
 
-#     # l "Hmm... well then keep up with your training! Don't even think about slacking off."
-#     l ""
+translate schinese Lothar_Night_Greet_e6d2a4a5:
 
-# translate schinese Lothar_Night_Greet_dc76c27d:
+    # l "Hmm... well then keep up with your training! Don't even think about slacking off."
+    l "嗯……那就快去找！别想着偷懒。"
 
-#     # jog "So... Lot, where did you find this little fella?"
-#     jog ""
+translate schinese Lothar_Night_Greet_dc76c27d:
 
-# translate schinese Lothar_Night_Greet_12db68b7_2:
+    # jog "So... Lot, where did you find this little fella?"
+    jog "所以……洛哥，这位小帅哥从哪来的。"
 
-#     # l "He's from the lizard, told me he's another outsider or something."
-#     l ""
+translate schinese Lothar_Night_Greet_12db68b7_2:
 
-# translate schinese Lothar_Night_Greet_e3d14324_1:
+    # l "He's from the lizard, told me he's another outsider or something."
+    l "那只蜥蜴有天把他从森林带了回来，说他也是海外人，来自异世界啥的。"
 
-#     # amble "Outsider? I thought he was from the Goat, look at his horn."
-#     amble ""
+translate schinese Lothar_Night_Greet_e3d14324_1:
 
-# translate schinese Lothar_Night_Greet_183f52d8_1:
+    # amble "Outsider? I thought he was from the Goat, look at his horn."
+    amble "外乡仔？我还以为他是从山羊部落来的，你看他的犄角。"
 
-#     # l "Surely it's something. The lizard asked me to take care of this guy, teach him some stuff."
-#     l ""
+translate schinese Lothar_Night_Greet_183f52d8_1:
 
-# translate schinese Lothar_Night_Greet_04071065_1:
+    # l "Surely it's something. The lizard asked me to take care of this guy, teach him some stuff."
+    l "确实很像。反正那蜥蜴祈求我好好照顾[e]，再多带他长长见识。"
 
-#     # e "Hmm... may I say something-"
-#     e ""
+translate schinese Lothar_Night_Greet_04071065_1:
 
-# translate schinese Lothar_Night_Greet_e6d99e85_1:
+    # e "Hmm... may I say something-"
+    e "呃……我能插句话——"
 
-#     # l "No. Let me finish with you, And I'll let you go, eh?"
-#     l ""
+translate schinese Lothar_Night_Greet_e6d99e85_1:
 
-# translate schinese Lothar_Night_Greet_835b5c68_1:
+    # l "No. Let me finish with you, And I'll let you go, eh?"
+    l "不能，让我把话说完，待会就放你走，嗯？"
 
-#     # e "Alright, Lothar."
-#     e ""
+translate schinese Lothar_Night_Greet_835b5c68_1:
 
-# translate schinese Lothar_Night_Greet_4bd2de9c_1:
+    # e "Alright, Lothar."
+    e "好吧。"
 
-#     # l "I'm telling you, come here more often. We'll talk about some informal training with you. Get you stronger to fend off your enemy or something."
-#     l ""
+translate schinese Lothar_Night_Greet_4bd2de9c_1:
 
-# translate schinese Lothar_Night_Greet_5a0c001f_1:
+    # l "I'm telling you, come here more often. We'll talk about some informal training with you. Get you stronger to fend off your enemy or something."
+    l "我是为了你好，多来这和我们聚聚，我们可以一起讨论接下来要怎么训练你。难道你不想变得更强，佛挡杀佛，魔挡斩魔吗？"
 
-#     # l "It's not easy watching you managing to lose to a little slime."
-#     l ""
+translate schinese Lothar_Night_Greet_5a0c001f_1:
 
-# translate schinese Lothar_Night_Greet_24636614_1:
+    # l "It's not easy watching you managing to lose to a little slime."
+    l "毕竟我实在没眼看，你会输给一丢小小的史莱姆。"
 
-#     # e "How did you.... know."
-#     e ""
+translate schinese Lothar_Night_Greet_24636614_1:
 
-# translate schinese Lothar_Night_Greet_32f7f518_1:
+    # e "How did you.... know."
+    e "你怎么知道……"
 
-#     # l "I mean, look at those stains of slime on you down there. Gotta wash it off completely tonight, [e]."
-#     l ""
+translate schinese Lothar_Night_Greet_32f7f518_1:
 
-# translate schinese Lothar_Night_Greet_254b2010_1:
+    # l "I mean, look at those stains of slime on you down there. Gotta wash it off completely tonight, [e]."
+    l "啧啧啧，[e]，看看你腿上那些残留的粘液，今晚回去可得好好洗干净啊。"
 
-#     # e "Lothar, can we not talk about this in front of everyone..."
-#     e ""
+translate schinese Lothar_Night_Greet_254b2010_1:
 
-# translate schinese Lothar_Night_Greet_c9514aae_1:
+    # e "Lothar, can we not talk about this in front of everyone..."
+    e "洛萨尔，能不能别在大家面前说我丑话……"
 
-#     # e "I'm not sure I want to fight the dummy again, Lothar."
-#     e ""
+translate schinese Lothar_Night_Greet_c9514aae_1:
 
-# translate schinese Lothar_Night_Greet_cd59b4af_1:
+    # e "I'm not sure I want to fight the dummy again, Lothar."
+    e "我不想再和人偶打架了，洛萨尔。"
 
-#     # l "Ahem, I'll make him stronger for your level, alright. Plus, if you're strong enough, you can attempt dueling me."
-#     l ""
+translate schinese Lothar_Night_Greet_cd59b4af_1:
 
-# translate schinese Lothar_Night_Greet_987e3d37_1:
+    # l "Ahem, I'll make him stronger for your level, alright. Plus, if you're strong enough, you can attempt dueling me."
+    l "呃，我会调大他模拟对战的难度好吧。不过，假如你真有一天足够强大，或许我会愿意接受你的挑战。"
 
-#     # e "Really?"
-#     e ""
+translate schinese Lothar_Night_Greet_987e3d37_1:
 
-# translate schinese Lothar_Night_Greet_8fafdc8b:
+    # e "Really?"
+    e "真不真的？"
 
-#     # jog "Look, [e]. Lot is putting in some precious time for you. You should really pay him back when you get stronger."
-#     jog ""
+translate schinese Lothar_Night_Greet_8fafdc8b:
 
-# translate schinese Lothar_Night_Greet_0da43084_1:
+    # jog "Look, [e]. Lot is putting in some precious time for you. You should really pay him back when you get stronger."
+    jog "嘿[e]，洛哥可是百忙之中抽空训练你。假如你真的变强了，记得心怀感恩好好回报咱洛哥。"
 
-#     # amble "Yeah, you don't even look like a courier right now. Better step up your game before you get eaten by some monster elsewhere."
-#     amble ""
+translate schinese Lothar_Night_Greet_0da43084_1:
 
-# translate schinese Lothar_Night_Greet_bad30a84_1:
+    # amble "Yeah, you don't even look like a courier right now. Better step up your game before you get eaten by some monster elsewhere."
+    amble "是咯，你现在甚至没点邮递员的样子。最好乖乖听洛哥话加强训练，别被哪的怪兽吃掉了。"
 
-#     # e "I guess... Thanks Lothar."
-#     e ""
+translate schinese Lothar_Night_Greet_bad30a84_1:
 
-# translate schinese Lothar_Night_Greet_98a4eced_1:
+    # e "I guess... Thanks Lothar."
+    e "大概吧……谢谢你，洛萨尔。"
 
-#     # l "Good. Now, why not leave me and my guys in peace. We'll catch up later, [e]."
-#     l ""
+translate schinese Lothar_Night_Greet_98a4eced_1:
 
-# translate schinese Lothar_Night_Greet_3cdf02a7_1:
+    # l "Good. Now, why not leave me and my guys in peace. We'll catch up later, [e]."
+    l "很好，我们待会再聊，[e]。现在就让我和战友们自个喝几杯吧。"
 
-#     # e "Alright, see you."
-#     e ""
+translate schinese Lothar_Night_Greet_3cdf02a7_1:
+
+    # e "Alright, see you."
+    e "好，待会见。"
 
 # translate schinese Lothar_Ask_Goat_Tribe_1df400dd:
 
@@ -15223,7 +15266,7 @@ translate schinese Lothar_Postal_Training_89f1fec1:
 translate schinese Lothar_Postal_Training_619228dc:
 
     # l "Yeah... Sure. How about that, you probably don't know how to fight the other way, if you defeat your dummy, I'll show you what I know about flirting."
-    l "啊对对对……要不这样，另一种战斗方式你大概还不了解，如果你能打败人偶，我就教你更多关于诱惑的技巧。"
+    l "啧……要不这样，另一种战斗方式你大概还不了解，如果你能打败人偶，我就教你更多关于诱惑的技巧。"
 
 translate schinese Lothar_Postal_Training_93d1c41d:
 
@@ -15438,325 +15481,333 @@ translate schinese Lothar_Postal_Finish_74db1a7f:
     # e "Yes..."
     e "是……"
 
-# translate schinese Lothar_Ask_Lusterfield_06b17b2b:
+#问关于村子的事
 
-#     # e "Lothar, what do you think about the village?"
-#     e ""
+translate schinese Lothar_Ask_Lusterfield_06b17b2b:
 
-# translate schinese Lothar_Ask_Lusterfield_01da349a:
+    # e "Lothar, what do you think about the village?"
+    e "洛萨尔，你对其他村民有什么看法？"
 
-#     # l "Hmm? Is this a stupid question?"
-#     l ""
+translate schinese Lothar_Ask_Lusterfield_01da349a:
 
-# translate schinese Lothar_Ask_Lusterfield_45a5bea4:
+    # l "Hmm? Is this a stupid question?"
+    l "嗯？什么低级问题？"
 
-#     # e "I mean... how are other people in the village doing?"
-#     e ""
+translate schinese Lothar_Ask_Lusterfield_45a5bea4:
 
-# translate schinese Lothar_Ask_Lusterfield_689b78a8:
+    # e "I mean... how are other people in the village doing?"
+    e "我的意思是……大伙最近过得怎么样？"
 
-#     # l "You should be asking them yourself, goat."
-#     l ""
+translate schinese Lothar_Ask_Lusterfield_689b78a8:
 
-# translate schinese Lothar_Ask_Lusterfield_1db5ce3e:
+    # l "You should be asking them yourself, goat."
+    l "你应该亲自去问他们本人，山羊。"
 
-#     # e "I'm a dragon... but ok."
-#     e ""
+translate schinese Lothar_Ask_Lusterfield_1db5ce3e:
 
-# translate schinese Lothar_Ask_Lusterfield_81e8da35:
+    # e "I'm a dragon... but ok."
+    e "我是龙……但，行吧。"
 
-#     # l "I guess I can tell you a few insider scoops..."
-#     l ""
+translate schinese Lothar_Ask_Lusterfield_81e8da35:
 
-# translate schinese Lothar_Ask_Lusterfield_00419aaf:
+    # l "I guess I can tell you a few insider scoops..."
+    l "我想我可以透露一点内幕消息……"
 
-#     # l "The lizard, Ole. He's just staying in the shop all the time. Except for hunting with the lion sometimes."
-#     l ""
+translate schinese Lothar_Ask_Lusterfield_00419aaf:
 
-# translate schinese Lothar_Ask_Lusterfield_a1102730:
+    # l "The lizard, Ole. He's just staying in the shop all the time. Except for hunting with the lion sometimes."
+    l "奥利，那只蜥蜴，除非有时会和笨猫一起外出打猎，基本不会出店门半步。"
 
-#     # l "You see the lion? Lion is too full of himself, I will not tolerate him making fun of anything related to me. If he gets himself hurt because of his blabbering mouth, that's on him."
-#     l ""
+translate schinese Lothar_Ask_Lusterfield_a1102730:
 
-# translate schinese Lothar_Ask_Lusterfield_f1c44980:
+    # l "You see the lion? Lion is too full of himself, I will not tolerate him making fun of anything related to me. If he gets himself hurt because of his blabbering mouth, that's on him."
+    l "而那只笨猫，特别自以为是，我绝对忍不了他敢拿我开玩笑。要是他因为嘴贱挨了打，算他自讨苦吃，别怪我。"
 
-#     # e "Uhh.... I heard Seb talking about something like this?"
-#     e ""
+translate schinese Lothar_Ask_Lusterfield_f1c44980:
 
-# translate schinese Lothar_Ask_Lusterfield_9bcb14d9:
+    # e "Uhh.... I heard Seb talking about something like this?"
+    e "呃……这句话听起来怪熟悉的，好像塞巴斯也说过。"
 
-#     # l "Yeah. Tell him next time I'll use my fist... on his face."
-#     l ""
+translate schinese Lothar_Ask_Lusterfield_9bcb14d9:
 
-# translate schinese Lothar_Ask_Lusterfield_5fd10514:
+    # l "Yeah. Tell him next time I'll use my fist... on his face."
+    l "哼哼。告诉塞巴斯，下次再遇见他，我会毫不犹豫往他……脸上来一拳。"
 
-#     # e "Ok..."
-#     e ""
+translate schinese Lothar_Ask_Lusterfield_5fd10514:
 
-# translate schinese Lothar_Ask_Lusterfield_f0633cfc:
+    # e "Ok..."
+    e "好的……"
 
-#     # l "Next one, the bat is laidback, I'd bring you to his tavern sometimes if that lizard wouldn't spy on me and you all the time."
-#     l ""
+translate schinese Lothar_Ask_Lusterfield_f0633cfc:
 
-# translate schinese Lothar_Ask_Lusterfield_d03ceb80:
+    # l "Next one, the bat is laidback, I'd bring you to his tavern sometimes if that lizard wouldn't spy on me and you all the time."
+    l "下一位，酒馆老板凯恩，他挺随和的。要不是绿蜥蜴一天到晚监视着我和你，我肯定带你爽一爽。"
 
-#     # e "What lizard? Wait... Ole is watching?"
-#     e ""
+translate schinese Lothar_Ask_Lusterfield_d03ceb80:
 
-# translate schinese Lothar_Ask_Lusterfield_94e26d37:
+    # e "What lizard? Wait... Ole is watching?"
+    e "绿蜥蜴是谁？噢……奥利在监视我们？"
 
-#     # l "He somehow always knows what I am doing. The lizard must be watching me somewhere."
-#     l ""
+translate schinese Lothar_Ask_Lusterfield_94e26d37:
 
-# translate schinese Lothar_Ask_Lusterfield_3615d06d:
+    # l "He somehow always knows what I am doing. The lizard must be watching me somewhere."
+    l "他总能知道我的一举一动，说明他肯定在哪偷偷监视我。"
 
-#     # l "And the bull. That bull makes some nice clothes. I used to teach his kids parrying and sword fighting."
-#     l ""
+translate schinese Lothar_Ask_Lusterfield_3615d06d:
 
-# translate schinese Lothar_Ask_Lusterfield_7c50b2f4:
+    # l "And the bull. That bull makes some nice clothes. I used to teach his kids parrying and sword fighting."
+    l "至于雷希姆，这头老牛做得一手好衣服。我曾经还教过他小孩格斗和剑术。"
 
-#     # l "But you know, times changed. Now I come over to his house for dinner once in a while."
-#     l ""
+translate schinese Lothar_Ask_Lusterfield_7c50b2f4:
 
-# translate schinese Lothar_Ask_Lusterfield_1f059268:
+    # l "But you know, times changed. Now I come over to his house for dinner once in a while."
+    l "可惜时过境迁，你懂的。现在我偶尔会去他家吃顿饭。"
 
-#     # e "Ok... Is there anyone else I need to know?"
-#     e ""
+translate schinese Lothar_Ask_Lusterfield_1f059268:
 
-# translate schinese Lothar_Ask_Lusterfield_0d715947:
+    # e "Ok... Is there anyone else I need to know?"
+    e "好的……除了这些之外，还有什么内幕消息吗？"
 
-#     # l "Not really. No."
-#     l ""
+translate schinese Lothar_Ask_Lusterfield_0d715947:
 
-# translate schinese Lothar_Ask_Hero_ebbb2876:
+    # l "Not really. No."
+    l "应该没有了。嗯。"
 
-#     # e "Hey, Lothar, how did you become the hero of Lusterfield."
-#     e ""
+#问职业
 
-# translate schinese Lothar_Ask_Hero_0301a476:
+translate schinese Lothar_Ask_Hero_ebbb2876:
 
-#     # l "Ha, little goat. Are you planning to build me a statue?"
-#     l ""
+    # e "Hey, Lothar, how did you become the hero of Lusterfield."
+    e "你是怎么成为乐村的大英雄的？"
 
-# translate schinese Lothar_Ask_Hero_3b34272e:
+translate schinese Lothar_Ask_Hero_0301a476:
 
-#     # e "Uhh... yes."
-#     e ""
+    # l "Ha, little goat. Are you planning to build me a statue?"
+    l "哈，小羊羔。你是不是准备给我立个纪念碑？"
 
-# translate schinese Lothar_Ask_Hero_e35c52e1:
+translate schinese Lothar_Ask_Hero_3b34272e:
 
-#     # l "Good, good. Ok. Let's begin. Ok. So, uh... Let me take a look."
-#     l ""
+    # e "Uhh... yes."
+    e "啊……对对对。"
 
-# translate schinese Lothar_Ask_Hero_bdc33bea:
+translate schinese Lothar_Ask_Hero_e35c52e1:
 
-#     # "Lothar takes out a notebook from his left pocket, a few pages fly out of the little crumbling book and he hurried to pick them up one by one, reading them out excitedly."
-#     ""
+    # l "Good, good. Ok. Let's begin. Ok. So, uh... Let me take a look."
+    l "很好，很好。既然你诚心诚意地发问了，那我就大发慈悲地告诉你——呃、呃……等我一下。"
 
-# translate schinese Lothar_Ask_Hero_0062c425:
+translate schinese Lothar_Ask_Hero_bdc33bea:
 
-#     # l "So... I was always meant to be a hero, since I was a little pup."
-#     l ""
+    # "Lothar takes out a notebook from his left pocket, a few pages fly out of the little crumbling book and he hurried to pick them up one by one, reading them out excitedly."
+    "洛萨尔从左边口袋掏出一个破旧的笔记本。不巧几张残页飞了出来，他赶忙一页页捡起夹回了书里，激情洋溢地开始朗读。"
 
-# translate schinese Lothar_Ask_Hero_ceff0fd7:
+translate schinese Lothar_Ask_Hero_0062c425:
 
-#     # l "My parents were very supportive of me being an adventurer, they taught me hunting and fishing."
-#     l ""
+    # l "So... I was always meant to be a hero, since I was a little pup."
+    l "咳咳……自洛萨尔出生起，上天就将成为英雄伸张正义的重任降给了他。"
 
-# translate schinese Lothar_Ask_Hero_41f245d2:
+translate schinese Lothar_Ask_Hero_ceff0fd7:
 
-#     # l "I used sword at like 3 years old. Obviously I was very talented at the art of sword fighting. So I defeated my father in an epic sword battle at only 3."
-#     l ""
+    # l "My parents were very supportive of me being an adventurer, they taught me hunting and fishing."
+    l "他的父母非常支持他的梦想，教授他如何捕猎和钓鱼，帮助他先成为一位冒险家。"
 
-# translate schinese Lothar_Ask_Hero_be7dc128:
+translate schinese Lothar_Ask_Hero_41f245d2:
 
-#     # l "One day, when I was still 3. My mother gave me a paper cone and a long sword. I threw the paper cone away, because I was determined."
-#     l ""
+    # l "I used sword at like 3 years old. Obviously I was very talented at the art of sword fighting. So I defeated my father in an epic sword battle at only 3."
+    l "洛萨尔剑斗天赋异禀，三岁便能舞剑制敌，在一场史诗决斗中战胜了自己的父亲。"
 
-# translate schinese Lothar_Ask_Hero_3cccf798:
+translate schinese Lothar_Ask_Hero_be7dc128:
 
-#     # l "At the age of 4-"
-#     l ""
+    # l "One day, when I was still 3. My mother gave me a paper cone and a long sword. I threw the paper cone away, because I was determined."
+    l "有一天，还是他三岁的时候，他的母亲送给他一个入学筒和一把长剑。而他却将入学筒抛到脑后，因为执剑成为英雄是他的使命。"
 
-# translate schinese Lothar_Ask_Hero_d95381b8:
+translate schinese Lothar_Ask_Hero_3cccf798:
 
-#     # e "Hey, Lothar. Can you summarize a little?"
-#     e ""
+    # l "At the age of 4-"
+    l "洛萨尔四岁时——"
 
-# translate schinese Lothar_Ask_Hero_346e9f72:
+translate schinese Lothar_Ask_Hero_d95381b8:
 
-#     # l "What do you mean, That story was extremely important for my character development and growth, it will all make sense about my own motivation-"
-#     l ""
+    # e "Hey, Lothar. Can you summarize a little?"
+    e "呃，能精简一点吗？"
 
-# translate schinese Lothar_Ask_Hero_da0738c2:
+translate schinese Lothar_Ask_Hero_346e9f72:
 
-#     # l "Ok... whatever. Ole taught you about skipping my dialogues as well didn't he."
-#     l ""
+    # l "What do you mean, That story was extremely important for my character development and growth, it will all make sense about my own motivation-"
+    l "你懂个啥，这些背景故事对塑造我的形象和凸显我的成长非常重要，同时还赋予了我一切所作所为的意义——"
 
-# translate schinese Lothar_Ask_Hero_d20ee73c:
+translate schinese Lothar_Ask_Hero_da0738c2:
 
-#     # e "What? I didn't ski-"
-#     e ""
+    # l "Ok... whatever. Ole taught you about skipping my dialogues as well didn't he."
+    l "哎……算了，反正奥利已经教过你怎么跳过对话了，是吧。"
 
-# translate schinese Lothar_Ask_Hero_f70b348b:
+translate schinese Lothar_Ask_Hero_d20ee73c:
 
-#     # l "Anyways, you know how I got the title? I set out on an adventure when I was 23, I brought with myself some water and my old long sword."
-#     l ""
+    # e "What? I didn't ski-"
+    e "那是什么？我没有跳——"
 
-# translate schinese Lothar_Ask_Hero_8a7f753f:
+translate schinese Lothar_Ask_Hero_f70b348b:
 
-#     # l "I went to the forest for the mysterious potion maker, but I found nothing... So I came back to the village."
-#     l ""
+    # l "Anyways, you know how I got the title? I set out on an adventure when I was 23, I brought with myself some water and my old long sword."
+    l "哎，彼时洛萨尔二十三岁，他仅仅携带了饮用水和幼时的长剑，只身展开了冒险。"
 
-# translate schinese Lothar_Ask_Hero_027ef1f2:
+translate schinese Lothar_Ask_Hero_8a7f753f:
 
-#     # e "Wait... you found nothing? How are you the hero in thi-"
-#     e ""
+    # l "I went to the forest for the mysterious potion maker, but I found nothing... So I came back to the village."
+    l "他来到一座森林，寻找某位神秘的药剂师，然而，他却什么也没找到……于是他返回了家乡。"
 
-# translate schinese Lothar_Ask_Hero_d1ba155c:
+translate schinese Lothar_Ask_Hero_027ef1f2:
 
-#     # l "Stop cutting off my story, [e]. I haven't even been halfway through yet."
-#     l ""
+    # e "Wait... you found nothing? How are you the hero in thi-"
+    e "等等……你什么都没找到？这算什么英——"
 
-# translate schinese Lothar_Ask_Hero_3bc8b7a6:
+translate schinese Lothar_Ask_Hero_d1ba155c:
 
-#     # "The wolf flips through pages of notes, picking up words from different pages."
-#     ""
+    # l "Stop cutting off my story, [e]. I haven't even been halfway through yet."
+    l "别打断我的传奇故事，[e]。我还没讲到一半呢。"
 
-# translate schinese Lothar_Ask_Hero_7ee0ef84:
+translate schinese Lothar_Ask_Hero_3bc8b7a6:
 
-#     # l "So I came back to the village, and I found Lusterfield to be infiltrated by the cult. That goat leader of the cult was ordering his little troops to destroy Lusterfield. And I was hiding in the bush."
-#     l ""
+    # "The wolf flips through pages of notes, picking up words from different pages."
+    "灰狼来回翻看记在不同页面上的笔记，酝酿着接下来的故事。"
 
-# translate schinese Lothar_Ask_Hero_51e525a3:
+translate schinese Lothar_Ask_Hero_7ee0ef84:
 
-#     # l "I was so furious they dare to show their face here, everyone was fighting for their lives, so I sneaked into the cult outpost. They didn't even notice me from behind."
-#     l ""
+    # l "So I came back to the village, and I found Lusterfield to be infiltrated by the cult. That goat leader of the cult was ordering his little troops to destroy Lusterfield. And I was hiding in the bush."
+    l "回家的路上，洛萨尔发现一个山羊领袖正指挥他的军队包围乐斯民菲尔德，准备发动全面袭击。他见状隐蔽到了树丛中。"
 
-# translate schinese Lothar_Ask_Hero_03ad2281:
+translate schinese Lothar_Ask_Hero_51e525a3:
 
-#     # e "Were they fighting as well?"
-#     e ""
+    # l "I was so furious they dare to show their face here, everyone was fighting for their lives, so I sneaked into the cult outpost. They didn't even notice me from behind."
+    l "大胆邪寇竟然敢出现在这片乐土，洛萨尔愤怒极了。趁山羊族士兵倾巢出动的时机，他暗中潜入了邪寇的哨所，没被任何人发现。"
 
-# translate schinese Lothar_Ask_Hero_7b7c9c72:
+translate schinese Lothar_Ask_Hero_03ad2281:
 
-#     # l "No, the higher-ups were just looking, so I infiltrated their camp and found their goat leader. I don't even remember his name. Tel... or something."
-#     l ""
+    # e "Were they fighting as well?"
+    e "哨所连看守的人都不留吗？"
 
-# translate schinese Lothar_Ask_Hero_379b4dfa:
+translate schinese Lothar_Ask_Hero_7b7c9c72:
 
-#     # l "I had the best battle with the goat while everyone was outside. Long story short, I overwhelmed him and knocked him off, he just falls on the ground and rang his bell for help."
-#     l ""
+    # l "No, the higher-ups were just looking, so I infiltrated their camp and found their goat leader. I don't even remember his name. Tel... or something."
+    l "不，只是那些高处的哨兵注意力全放战场上了。所以我顺利潜入营地帐篷，找到了那个山羊领袖。我甚至都不记得他的名字，泰……啥来着，不管了。"
 
-# translate schinese Lothar_Ask_Hero_dec18c6b:
+translate schinese Lothar_Ask_Hero_379b4dfa:
 
-#     # l "The goat keeps ringing and shaking his bell like it could possibly save him from the inevitable death, but I simply yanked it off from his neck and struck him with my long sword."
-#     l ""
+    # l "I had the best battle with the goat while everyone was outside. Long story short, I overwhelmed him and knocked him off, he just falls on the ground and rang his bell for help."
+    l "帐篷外战火纷飞，帐篷内剑拔弩张，洛萨尔即将与山羊领袖决一死战。很快，洛萨尔以压倒性的优势征服了贼寇头目。邪寇跪倒在地，举起挂在胸前的铃铛呼救。"
 
-# translate schinese Lothar_Ask_Hero_324da70f:
+translate schinese Lothar_Ask_Hero_dec18c6b:
 
-#     # e "That's a little crue-"
-#     e ""
+    # l "The goat keeps ringing and shaking his bell like it could possibly save him from the inevitable death, but I simply yanked it off from his neck and struck him with my long sword."
+    l "他不停摇晃着铃铛，拼命摇晃着铃铛……好像只要摇得够响亮，他就能够逃脱正义制裁了一样。洛萨尔不辱使命，果断扯下了邪寇的铃铛，一剑取走了老山羊的性命。"
 
-# translate schinese Lothar_Ask_Hero_f9da9c3f:
+translate schinese Lothar_Ask_Hero_324da70f:
 
-#     # l "He got what he deserved, [e]."
-#     l ""
+    # e "That's a little crue-"
+    e "听起来有点残忍——"
 
-# translate schinese Lothar_Ask_Hero_9118935c:
+translate schinese Lothar_Ask_Hero_f9da9c3f:
 
-#     # l "So when all their goat gangs arrived, I've already escaped from the outpost. Soon after the cult retreated from Lusterfield. They were acting like a bunch of headless chicken without their arrogant leader."
-#     l ""
+    # l "He got what he deserved, [e]."
+    l "这是他应得的，[e]。"
 
-# translate schinese Lothar_Ask_Hero_89574f93:
+translate schinese Lothar_Ask_Hero_9118935c:
 
-#     # e "That's why you are the hero of Lusterfield."
-#     e ""
+    # l "So when all their goat gangs arrived, I've already escaped from the outpost. Soon after the cult retreated from Lusterfield. They were acting like a bunch of headless chicken without their arrogant leader."
+    l "当邪寇头目的手下赶回帐篷时，洛萨尔早已大步流星溜远了。山羊军团群龙无首，没过多久撤出了乐斯民菲尔德。"
 
-# translate schinese Lothar_Ask_Hero_2cbd53d6:
+translate schinese Lothar_Ask_Hero_89574f93:
 
-#     # l "Of course. The fight was legendary and it takes an immeasurable amount of courage to face the whole faction alone. Everyone in the village loves me after that."
-#     l ""
+    # e "That's why you are the hero of Lusterfield."
+    e "所以这就是你成为了乐村英雄的原因。"
 
-# translate schinese Lothar_Ask_Hero_c75585fd:
+translate schinese Lothar_Ask_Hero_2cbd53d6:
 
-#     # e "Wow, that was one hell of a story."
-#     e ""
+    # l "Of course. The fight was legendary and it takes an immeasurable amount of courage to face the whole faction alone. Everyone in the village loves me after that."
+    l "没错，洛萨尔以无畏的勇气单兵作战，以绝顶的身手出奇制胜，从此成为了乐村人人敬重、人人爱戴的大英雄。"
 
-# translate schinese Lothar_Ask_Hero_07e45c94:
+translate schinese Lothar_Ask_Hero_c75585fd:
 
-#     # l "You bet it is. Now you have a role model to learn from, and pray that you can get half as good as me."
-#     l ""
+    # e "Wow, that was one hell of a story."
+    e "呼，你的故事可真够长的。"
 
-# translate schinese Lothar_Ask_Hero_f8813d0a:
+translate schinese Lothar_Ask_Hero_07e45c94:
 
-#     # e "...Ok, Lothar."
-#     e ""
+    # l "You bet it is. Now you have a role model to learn from, and pray that you can get half as good as me."
+    l "三言两语哪能概括得了这段佳话。相信从现在开始，我已经成为了你心目中最光辉的榜样。虚心向我学习，祈祷自己将来能有我一半优秀吧。"
 
-# translate schinese Lothar_Ask_Himself_a2faa6df:
+translate schinese Lothar_Ask_Hero_f8813d0a:
 
-#     # e "How are you doing, Lothar?"
-#     e ""
+    # e "...Ok, Lothar."
+    e "好……的。"
 
-# translate schinese Lothar_Ask_Himself_d417045e:
+#问洛萨尔自己
 
-#     # l "I had a few beer, these little bottles of shit are fantastic!"
-#     l ""
+translate schinese Lothar_Ask_Himself_a2faa6df:
 
-# translate schinese Lothar_Ask_Himself_277bafae:
+    # e "How are you doing, Lothar?"
+    e "今晚喝得过瘾吧，洛萨尔。"
 
-#     # e "Hmm... are you here very often?"
-#     e ""
+translate schinese Lothar_Ask_Himself_d417045e:
 
-# translate schinese Lothar_Ask_Himself_d330d49d:
+    # l "I had a few beer, these little bottles of shit are fantastic!"
+    l "过瘾。三杯通大道，一醉解千愁！"
 
-#     # l "Yes... Every night and then I come around the inn and mess with the bat. That was some good stuff."
-#     l ""
+translate schinese Lothar_Ask_Himself_277bafae:
 
-# translate schinese Lothar_Ask_Himself_51ca39d9:
+    # e "Hmm... are you here very often?"
+    e "噢……看你是这里的常客？"
 
-#     # e "Are you drunk... Lothar? Your face seems pretty red..."
-#     e ""
+translate schinese Lothar_Ask_Himself_d330d49d:
 
-# translate schinese Lothar_Ask_Himself_2e877e9f:
+    # l "Yes... Every night and then I come around the inn and mess with the bat. That was some good stuff."
+    l "是啊……每晚我都来和那老蝙蝠唠嗑。还有品尝美酒。"
 
-#     # l "A-ahem. No. I've been drinking for decades now, you think I'm going to suddenly get beaten up by these tiny glasses?"
-#     l ""
+translate schinese Lothar_Ask_Himself_51ca39d9:
 
-# translate schinese Lothar_Ask_Himself_7d0d1f7f:
+    # e "Are you drunk... Lothar? Your face seems pretty red..."
+    e "你喝醉了吗……洛萨尔？你脸通红通红的……"
 
-#     # e "That's good, Lothar. See you next day then."
-#     e ""
+translate schinese Lothar_Ask_Himself_2e877e9f:
 
-# translate schinese Lothar_Ask_Himself_9ec597c5:
+    # l "A-ahem. No. I've been drinking for decades now, you think I'm going to suddenly get beaten up by these tiny glasses?"
+    l "嘿、嘿。英雄不醉，我已经喝了几十年酒了，你以为这些个小杯子就能把我放倒？"
 
-#     # l "Good. Whatever."
-#     l ""
+translate schinese Lothar_Ask_Himself_7d0d1f7f:
 
-# translate schinese Lothar_Ask_Himself_d8a8fa62:
+    # e "That's good, Lothar. See you next day then."
+    e "那就好，明天见咯。"
 
-#     # e "How are you doing, Lothar."
-#     e ""
+translate schinese Lothar_Ask_Himself_9ec597c5:
 
-# translate schinese Lothar_Ask_Himself_8fef9f93:
+    # l "Good. Whatever."
+    l "嗯嗯。"
 
-#     # l "Good. I'm watching over the village, not a lot of activities here today."
-#     l ""
+##不在酒馆
 
-# translate schinese Lothar_Ask_Himself_a89445d1:
+translate schinese Lothar_Ask_Himself_d8a8fa62:
 
-#     # e "Is there anything I can help?"
-#     e ""
+    # e "How are you doing, Lothar."
+    e "洛萨尔，今天感觉如何？"
 
-# translate schinese Lothar_Ask_Himself_96fd5a8d:
+translate schinese Lothar_Ask_Himself_8fef9f93:
 
-#     # l "No. You better keep up with your training."
-#     l ""
+    # l "Good. I'm watching over the village, not a lot of activities here today."
+    l "挺好的。我在巡逻，今天村里还算太平。"
 
-# translate schinese Lothar_Ask_Himself_bd9e9f2e:
+translate schinese Lothar_Ask_Himself_a89445d1:
 
-#     # e "Ok, Lothar."
-#     e ""
+    # e "Is there anything I can help?"
+    e "有什么我能帮忙的吗？"
+
+translate schinese Lothar_Ask_Himself_96fd5a8d:
+
+    # l "No. You better keep up with your training."
+    l "没有。记得别落下你自己的训练。"
+
+translate schinese Lothar_Ask_Himself_bd9e9f2e:
+
+    # e "Ok, Lothar."
+    e "好的。"
 
 #结束对话
 
@@ -15778,7 +15829,7 @@ translate schinese Lothar_Dialogue_End_f9012104:
 translate schinese Lothar_Dialogue_End_8b8ddf1b:
 
     # l "Good, stay safe out there, disciple."
-    l "好，注意安全，小徒弟。"
+    l "好，注意安全小徒弟。"
 
 #酒馆顾客1
 
