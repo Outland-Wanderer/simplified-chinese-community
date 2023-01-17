@@ -311,12 +311,12 @@ translate schinese strings:
 translate schinese ancient_tree_loop_5ec750a1:
 
     # "As you are searching through the area, you hear a weak bell ringing from behind the trees behind you. You turn back and look around, but there's no one."
-    "你漫步古树周围，一阵微弱的铃声从身后传出。你回头张望树丛，却谁也没看见。"
+    "你漫步古树周围，恍惚间身后传出一阵微弱的铃声。你回头张望树丛，却谁也没看见。"
 
 translate schinese ancient_tree_loop_15e9f5b1:
 
     # "Another series of bell sound render you defenseless. Suddenly, a horned figure jump into the center of your sight, holding a wooden spear."
-    "阵阵铃声接连响起，骤然一个长角的身影向你冲了过来。他手持木制长矛，而你来不及防备。"
+    "铃声再次接连响起，越来越清晰。骤然一个长角的身影向你冲了过来。他手持木制长矛，而你来不及防备。"
 
 translate schinese ancient_tree_loop_dc8dbdfd:
 
@@ -331,7 +331,7 @@ translate schinese ancient_tree_loop_e91ba75d:
 translate schinese ancient_tree_loop_6f01ab1b:
 
     # "When you roam around in the forest area, you suddenly feel a sharp pain in your left leg. It feels as if a thousand needles are puncturing into your leg."
-    "你漫步古树周围，突然左腿传来一阵剧痛，好似有无数根针刺入。"
+    "你漫步古树周围，突然左腿剧痛异常，好似有无数根针刺入。"
 
 translate schinese ancient_tree_loop_eecd97a4:
 
