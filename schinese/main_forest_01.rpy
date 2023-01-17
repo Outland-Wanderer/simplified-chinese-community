@@ -308,40 +308,40 @@ translate schinese strings:
 
 #古树
 
-# translate schinese ancient_tree_loop_5ec750a1:
+translate schinese ancient_tree_loop_5ec750a1:
 
-#     # "As you are searching through the area, you hear a weak bell ringing from behind the trees behind you. You turn back and look around, but there's no one."
-#     ""
+    # "As you are searching through the area, you hear a weak bell ringing from behind the trees behind you. You turn back and look around, but there's no one."
+    "你漫步古树周围，一阵微弱的铃声从身后传出。你回头张望树丛，却谁也没看见。"
 
-# translate schinese ancient_tree_loop_15e9f5b1:
+translate schinese ancient_tree_loop_15e9f5b1:
 
-#     # "Another series of bell sound render you defenseless. Suddenly, a horned figure jump into the center of your sight, holding a wooden spear."
-#     ""
+    # "Another series of bell sound render you defenseless. Suddenly, a horned figure jump into the center of your sight, holding a wooden spear."
+    "阵阵铃声接连响起，骤然一个长角的身影向你冲了过来。他手持木制长矛，而你来不及防备。"
 
-# translate schinese ancient_tree_loop_dc8dbdfd:
+translate schinese ancient_tree_loop_dc8dbdfd:
 
-#     # gt "Insolence, in the name of our lord! I will absolve you of your impure fate!"
-#     gt ""
+    # gt "Insolence, in the name of our lord! I will absolve you of your impure fate!"
+    gt "奉我族首领之义，灭纳污含垢之命！去死吧，无礼獠人！"
 
 translate schinese ancient_tree_loop_e91ba75d:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     "你找了又找，但周围似乎没有什么值得关注的东西了。"
 
-# translate schinese ancient_tree_loop_6f01ab1b:
+translate schinese ancient_tree_loop_6f01ab1b:
 
-#     # "When you roam around in the forest area, you suddenly feel a sharp pain in your left leg. It feels as if a thousand needles are puncturing into your leg."
-#     ""
+    # "When you roam around in the forest area, you suddenly feel a sharp pain in your left leg. It feels as if a thousand needles are puncturing into your leg."
+    "你漫步古树周围，突然左腿传来一阵剧痛，好似有无数根针刺入。"
 
-# translate schinese ancient_tree_loop_eecd97a4:
+translate schinese ancient_tree_loop_eecd97a4:
 
-#     # "The weight of the trap instantly leads you to trip and fall on the ground. You look into it and realise you stepped into a bear trap."
-#     ""
+    # "The weight of the trap instantly leads you to trip and fall on the ground. You look into it and realise you stepped into a bear trap."
+    "陷阱启动的力道足以瞬间将你摔倒，你扑通倒地，扭头一看才发现自己踩中了捕熊夹。"
 
-# translate schinese ancient_tree_loop_fb7fa5e9:
+translate schinese ancient_tree_loop_fb7fa5e9:
 
-#     # "It took you a few minutes to get rid of the trap, but the wound leaves behind a few drops of blood on the grass. Your HP drops by 20."
-#     ""
+    # "It took you a few minutes to get rid of the trap, but the wound leaves behind a few drops of blood on the grass. Your HP drops by 20."
+    "你花几分钟挣开了陷阱，留下几滴鲜血洒落草地。你的体力值降低了 20 点。"
 
 translate schinese ancient_tree_loop_90ff1c7f:
 
@@ -358,35 +358,35 @@ translate schinese ancient_tree_loop_0d9c03fa:
     # "You put the golden berry in your bag, you now have [item_number] golden berries."
     "你将金莓放进背包，现在你持有 [item_number] 把蓝莓。"
 
-# translate schinese ancient_tree_loop_4b974228:
+translate schinese ancient_tree_loop_4b974228:
 
-#     # "You have wandered around the lagoon for a while, but there doesn't seem to be anything noticeable in particular, until you see a damp river in the middle of the forest."
-#     ""
+    # "You have wandered around the lagoon for a while, but there doesn't seem to be anything noticeable in particular, until you see a damp river in the middle of the forest."
+    "你向西边行进，一路除了树木便是树木，直到湿气冥冥之中领你来到了一条横穿森林的河流。"
 
-# translate schinese ancient_tree_loop_5cc6c659:
+translate schinese ancient_tree_loop_5cc6c659:
 
-#     # "The sight is a breathtaking experience as you can even smell the freshness of the flowing water. The grassy scent of the moss gives you an insurmountable amount of energy."
-#     ""
+    # "The sight is a breathtaking experience as you can even smell the freshness of the flowing water. The grassy scent of the moss gives you an insurmountable amount of energy."
+    "这里潺潺流水滋养着满布河岸的苔藓，水汽与草香扑面而来沁人心脾，充满了自然能量。"
 
-# translate schinese ancient_tree_loop_af895a77:
+translate schinese ancient_tree_loop_af895a77:
 
-#     # "You take out your map and mark the spot. This is the Mossy Freshwater."
-#     ""
+    # "You take out your map and mark the spot. This is the Mossy Freshwater."
+    "你叹为观止，拿出地图标记下——“招藓河”。"
 
 translate schinese ancient_tree_loop_e91ba75d_1:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     "你找了又找，但周围似乎没有什么值得关注的东西了。"
 
-# translate schinese ancient_tree_loop_3aef2234:
+translate schinese ancient_tree_loop_3aef2234:
 
-#     # "You have wandered around the ancient tree for a while, and just before you decide to return, you notice a blue aura in the forest far away."
-#     ""
+    # "You have wandered around the ancient tree for a while, and just before you decide to return, you notice a blue aura in the forest far away."
+    "你漫步古树周围，并没有发现什么值得留心的事情。正当你准备返回时，你注意到森林远处有一处蓝光笼罩。"
 
-# translate schinese ancient_tree_loop_2feecdfe:
+translate schinese ancient_tree_loop_2feecdfe:
 
-#     # "From where you stand, it looks like something with magical essence. You slowly walk towards the area, and discovered a bright blue lagoon in front of you."
-#     ""
+    # "From where you stand, it looks like something with magical essence. You slowly walk towards the area, and discovered a bright blue lagoon in front of you."
+    "你慢慢走近那神秘的蓝光，猜测这可能是某种魔力的作用。果不其然，一处青蓝色的泻湖映入眼帘，湖面的荧光照亮了周围。"
 
 translate schinese ancient_tree_loop_e91ba75d_2:
 
