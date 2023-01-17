@@ -351,17 +351,17 @@ translate schinese ancient_tree_loop_90ff1c7f:
 translate schinese ancient_tree_loop_0c0256fc:
 
     # "You put the golden berry in your bag, you now have [item_number] golden berry."
-    "你将金莓放进背包，现在你持有 [item_number] 把蓝莓。"
+    "你将金莓放进背包，现在你持有 [item_number] 把金莓。"
 
 translate schinese ancient_tree_loop_0d9c03fa:
 
     # "You put the golden berry in your bag, you now have [item_number] golden berries."
-    "你将金莓放进背包，现在你持有 [item_number] 把蓝莓。"
+    "你将金莓放进背包，现在你持有 [item_number] 把金莓。"
 
 translate schinese ancient_tree_loop_4b974228:
 
     # "You have wandered around the lagoon for a while, but there doesn't seem to be anything noticeable in particular, until you see a damp river in the middle of the forest."
-    "你向西边行进，一路除了树木便是树木，直到湿气冥冥之中领你来到了一条横穿森林的河流。"
+    "你向西边行进，一路除了树木便是树木，直至湿气冥冥之中领你来到了一条横穿森林的河流。"
 
 translate schinese ancient_tree_loop_5cc6c659:
 
