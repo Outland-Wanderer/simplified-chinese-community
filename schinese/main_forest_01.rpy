@@ -467,85 +467,85 @@ translate schinese sparkling_lagoon_loop_e91ba75d_1:
 
 #招藓河
 
-# translate schinese mossy_freshwater_loop_c78bb1b6:
+translate schinese mossy_freshwater_loop_c78bb1b6:
 
-#     # "Around the river, you wander and pick up a certain plant, it was a Reed."
-#     ""
+    # "Around the river, you wander and pick up a certain plant, it was a Reed."
+    "你漫步河岸，随机折下岸边的一株芦苇。"
 
-# translate schinese mossy_freshwater_loop_cf967e5f:
+translate schinese mossy_freshwater_loop_cf967e5f:
 
-#     # "You put the reed in your bag, you now have [item_number] Reed."
-#     ""
+    # "You put the reed in your bag, you now have [item_number] Reed."
+    "你将芦苇放进背包，现在你持有 [item_number] 束芦苇。"
 
-# translate schinese mossy_freshwater_loop_a5ea90ba:
+translate schinese mossy_freshwater_loop_a5ea90ba:
 
-#     # "You put the reed in your bag, you now have [item_number] Reeds."
-#     ""
+    # "You put the reed in your bag, you now have [item_number] Reeds."
+    "你将芦苇放进背包，现在你持有 [item_number] 束芦苇。"
 
-# translate schinese mossy_freshwater_loop_55cb61f1:
+translate schinese mossy_freshwater_loop_55cb61f1:
 
-#     # "Along the river bank, you notice that there's a patch of small flowers nearby, you go and pick it up, it was a sage."
-#     ""
+    # "Along the river bank, you notice that there's a patch of small flowers nearby, you go and pick it up, it was a sage."
+    "你漫步河岸，注意到不远处有丛小野花，走近一看，是鼠尾草。你弯腰采下了几朵。"
 
-# translate schinese mossy_freshwater_loop_04a4170f:
+translate schinese mossy_freshwater_loop_04a4170f:
 
-#     # "You put the sage flower in your bag, you now have [item_number] sage flower."
-#     ""
+    # "You put the sage flower in your bag, you now have [item_number] sage flower."
+    "你将鼠尾草放进背包，现在你持有 [item_number] 把鼠尾草。"
 
-# translate schinese mossy_freshwater_loop_f3e88ff2:
+translate schinese mossy_freshwater_loop_f3e88ff2:
 
-#     # "You put the sage flower in your bag, you now have [item_number] sage flowers."
-#     ""
+    # "You put the sage flower in your bag, you now have [item_number] sage flowers."
+    "你将鼠尾草放进背包，现在你持有 [item_number] 把鼠尾草。"
 
-# translate schinese mossy_freshwater_loop_0471f10b:
+translate schinese mossy_freshwater_loop_0471f10b:
 
-#     # "You walk on the side of the river, and notice something shiny... it was a recipe."
-#     ""
+    # "You walk on the side of the river, and notice something shiny... it was a recipe."
+    "你漫步河岸，发现脚边有个发白的东西……是一页工艺笔记。"
 
-# translate schinese mossy_freshwater_loop_15e9e757:
+translate schinese mossy_freshwater_loop_15e9e757:
 
-#     # "You quickly approach and pick it up. It says..."
-#     ""
+    # "You quickly approach and pick it up. It says..."
+    "你快速将其拾起，上面写着……"
 
-# translate schinese mossy_freshwater_loop_ff5935ea:
+translate schinese mossy_freshwater_loop_ff5935ea:
 
-#     # "{i}...To make a trowel... craft with two slimeballs and two pieces of wood.{/i}"
-#     ""
+    # "{i}...To make a trowel... craft with two slimeballs and two pieces of wood.{/i}"
+    "{i}……若要制作铲子……组合一个粘液球加上两块原木。{/i}"
 
-# translate schinese mossy_freshwater_loop_f037af02:
+translate schinese mossy_freshwater_loop_f037af02:
 
-#     # "...You put the notes away, it seems you've learnt how to make a trowel."
-#     ""
+    # "...You put the notes away, it seems you've learnt how to make a trowel."
+    "……你将工艺笔记收好，把握了制作铲子的方法。"
 
 translate schinese mossy_freshwater_loop_e91ba75d:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     "你找了又找，但周围似乎没有什么值得关注的东西了。"
 
-# translate schinese mossy_freshwater_loop_e9de0dcf:
+translate schinese mossy_freshwater_loop_e9de0dcf:
 
-#     # "You look into the river and found something grainy under the water."
-#     ""
+    # "You look into the river and found something grainy under the water."
+    "你向河岸看去，发现浅水处有些泥土纹理和周围的不同。"
 
-# translate schinese mossy_freshwater_loop_ae8ac4b1:
+translate schinese mossy_freshwater_loop_ae8ac4b1:
 
-#     # "You use your trowel and soon dig up a piece of clay. You carefully store it in your bag."
-#     ""
+    # "You use your trowel and soon dig up a piece of clay. You carefully store it in your bag."
+    "是粘土。你拿出小铲子，三两下挖起一块，小心翼翼地将它包好，放进了背包。"
 
-# translate schinese mossy_freshwater_loop_06648869:
+translate schinese mossy_freshwater_loop_06648869:
 
-#     # "You now have [item_num] pieces of clay."
-#     ""
+    # "You now have [item_num] pieces of clay."
+    "现在你持有 [item_number] 块粘土。"
 
-# translate schinese mossy_freshwater_loop_7a4dea47:
+translate schinese mossy_freshwater_loop_7a4dea47:
 
-#     # "You try to dig through the mud with your bare hand... but to no avail, it seems to not work."
-#     ""
+    # "You try to dig through the mud with your bare hand... but to no avail, it seems to not work."
+    "是粘土。你尝试徒手挖起一块……但却怎么都带不出水面。"
 
-# translate schinese mossy_freshwater_loop_0ba9ac66:
+translate schinese mossy_freshwater_loop_0ba9ac66:
 
-#     # "You decide to move on, maybe you need something small that can dig..."
-#     ""
+    # "You decide to move on, maybe you need something small that can dig..."
+    "你黯然离去，或许你需要一个能够挖土的小工具……"
 
 # translate schinese mossy_freshwater_loop_fd01265d:
 
@@ -587,65 +587,67 @@ translate schinese mossy_freshwater_loop_e91ba75d:
 #     # "You decide to move on, maybe you need something small that can dig..."
 #     ""
 
-# translate schinese mossy_freshwater_loop_296a0bf4:
+translate schinese mossy_freshwater_loop_296a0bf4:
 
-#     # "After walking along the river for a while, you decide to climb upstream and explore the forest above."
-#     ""
+    # "After walking along the river for a while, you decide to climb upstream and explore the forest above."
+    "你漫步河边，决定这次去对岸上游的森林看看。"
 
-# translate schinese mossy_freshwater_loop_f41a40bc:
+translate schinese mossy_freshwater_loop_f41a40bc:
 
-#     # "As soon as you peek up, you see a giant red flag in front of you, it was an old abandoned settlement that seemed to be build by the goats."
-#     ""
+    # "As soon as you peek up, you see a giant red flag in front of you, it was an old abandoned settlement that seemed to be build by the goats."
+    "你一登上岩块，就看见一面巨大的红旗挂在树上，旁边的哨塔似乎已经被山羊们荒废很久了。"
 
-# translate schinese mossy_freshwater_loop_97331535:
+translate schinese mossy_freshwater_loop_97331535:
 
-#     # "You take out your map and mark the location, this place must be the woodland outpost."
-#     ""
+    # "You take out your map and mark the location, this place must be the woodland outpost."
+    "你拿出地图标记地点，这里肯定是那个林地前哨站。"
 
-# translate schinese mossy_freshwater_loop_dd81e7d4:
+translate schinese mossy_freshwater_loop_dd81e7d4:
 
-#     # "After walking along the river for a while, you take a rest on the slippery rock..."
-#     ""
+    # "After walking along the river for a while, you take a rest on the slippery rock..."
+    "长流一眼望不到头，你逛累了，随处找了块光滑的石头坐下……"
 
-# translate schinese mossy_freshwater_loop_adcef476:
+translate schinese mossy_freshwater_loop_adcef476:
 
-#     # "Ouch!"
-#     ""
+    # "Ouch!"
+    "啊！"
 
-# translate schinese mossy_freshwater_loop_4c85091a:
+translate schinese mossy_freshwater_loop_4c85091a:
 
-#     # "There's something under your butt, but luckily it's just a small note..."
-#     ""
+    # "There's something under your butt, but luckily it's just a small note..."
+    "你不知坐到了什么东西上，起身才发现原来只是一页纸……"
 
-# translate schinese mossy_freshwater_loop_c9ab56ee:
+translate schinese mossy_freshwater_loop_c9ab56ee:
 
-#     # "{i}HOW TO MAKE SOFT FABRIC...{/i}"
-#     ""
+    # "{i}HOW TO MAKE SOFT FABRIC...{/i}"
+    "{i}制作柔软布料的方法……{/i}"
 
-# translate schinese mossy_freshwater_loop_0fd98fba:
+translate schinese mossy_freshwater_loop_0fd98fba:
 
-#     # "It's a recipe for soft fabric, you put it aside, maybe it'll be useful when you go back to Rahim's workshop."
-#     ""
+    # "It's a recipe for soft fabric, you put it aside, maybe it'll be useful when you go back to Rahim's workshop."
+    "这是一页关于制作柔软布料的工艺笔记，待会回村之后应该能在雷希姆家派上用场。"
 
-# translate schinese mossy_freshwater_loop_f3fcd3e8:
+translate schinese mossy_freshwater_loop_f3fcd3e8:
 
-#     # "After walking along the river for a while, you decide to travel upstream."
-#     ""
+    # "After walking along the river for a while, you decide to travel upstream."
+    "你漫步河边，决定这次去上游看看。"
 
-# translate schinese mossy_freshwater_loop_14bb8b3d:
+translate schinese mossy_freshwater_loop_14bb8b3d:
 
-#     # "You follow the river bank and walk opposite to where the water goes, you ascend and climb until you see a huge waterfall."
-#     ""
+    # "You follow the river bank and walk opposite to where the water goes, you ascend and climb until you see a huge waterfall."
+    "你越过河中央的石块，向高处攀去，来到了一处飞流直下的大瀑布。"
 
-# translate schinese mossy_freshwater_loop_52d25bed:
+translate schinese mossy_freshwater_loop_52d25bed:
 
-#     # "It seems you've arrived to the Sundersilk Cascades, you talk out your map and mark the location."
-#     ""
+    # "It seems you've arrived to the Sundersilk Cascades, you talk out your map and mark the location."
+    "看来这里就是剪绸瀑布，你拿出地图做了标记。"
 
 translate schinese mossy_freshwater_loop_e91ba75d_1:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     "你找了又找，但周围似乎没有什么值得关注的东西了。"
+
+#林地前哨站
 
 # translate schinese woodland_outpost_loop_b9952a9e:
 
