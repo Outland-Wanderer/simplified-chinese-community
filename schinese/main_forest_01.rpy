@@ -440,20 +440,20 @@ translate schinese sparkling_lagoon_loop_c44940ab:
     # "You put the blue berry in your bag, you now have [item_number] blue berries."
     "你将蓝莓放进背包，现在你持有 [item_number] 把蓝莓。"
 
-# translate schinese sparkling_lagoon_loop_c4468641:
+translate schinese sparkling_lagoon_loop_c4468641:
 
-#     # "Along the lagoon, you found a leftover paper detailing the process to make a bucket."
-#     ""
+    # "Along the lagoon, you found a leftover paper detailing the process to make a bucket."
+    "你漫步苍耀湖，发现了一页工艺笔记，上面写着制作木桶的方法。"
 
-# translate schinese sparkling_lagoon_loop_6248f077:
+translate schinese sparkling_lagoon_loop_6248f077:
 
-#     # "It says making a wooden bucket requires 6 Wooden Logs and 4 Slime Balls. You mark down the recipe on your journal."
-#     ""
+    # "It says making a wooden bucket requires 6 Wooden Logs and 4 Slime Balls. You mark down the recipe on your journal."
+    "六块原木加四个粘液球。你将这页笔记誊抄在了你的笔记本上。"
 
-# translate schinese sparkling_lagoon_loop_28cfe685:
+translate schinese sparkling_lagoon_loop_28cfe685:
 
-#     # msg "New Recipe learned, check out Rahim's Workstation for more detail."
-#     msg ""
+    # msg "New Recipe learned, check out Rahim's Workstation for more detail."
+    msg "已学习新工艺，详情请至工作台查看。"
 
 translate schinese sparkling_lagoon_loop_e91ba75d:
 
