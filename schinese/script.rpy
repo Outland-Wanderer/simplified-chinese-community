@@ -1096,11 +1096,11 @@ translate schinese name_done_c89772ef:
 
     # e "Thank you to you too! Sebas."
     e "也谢谢你！塞巴斯。"
-# TODO
+
 translate schinese name_done_16a11ef8:
 
     # "You can almost hear Sebas rumbling under his breath, it doesn't sound like something you'd appreciate."
-    "你听到塞巴斯轻轻哼着什么，不过并不怎么好听。"
+    "黄毛狮子撅撅嘴，你听不清他在嘟哝什么。"
 
 translate schinese name_done_397b9049:
 
