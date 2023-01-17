@@ -649,20 +649,20 @@ translate schinese mossy_freshwater_loop_e91ba75d_1:
 
 #林地前哨站
 
-# translate schinese woodland_outpost_loop_b9952a9e:
+translate schinese woodland_outpost_loop_b9952a9e:
 
-#     # "While you are exploring the outpost, a shade of a giant brown creature lunges itself towards your side. You instantly get pushed on the ground."
-#     ""
+    # "While you are exploring the outpost, a shade of a giant brown creature lunges itself towards your side. You instantly get pushed on the ground."
+    "你正在哨站四处探索，不料一个巨大的身影冲了出来，将你扑倒在地。"
 
-# translate schinese woodland_outpost_loop_e4ba1378:
+translate schinese woodland_outpost_loop_e4ba1378:
 
-#     # "You can feel the brown figure's armor clashing against your body, you struggle for a while before getting off the creature."
-#     ""
+    # "You can feel the brown figure's armor clashing against your body, you struggle for a while before getting off the creature."
+    "他棕色的身躯连同身上防具压迫着你，你好不容易挣开了束缚。"
 
-# translate schinese woodland_outpost_loop_716e94fa:
+translate schinese woodland_outpost_loop_716e94fa:
 
-#     # "When you try to stand up and get a clear vision of the figure, you found out that he is a buggbear, he is holding his mace, growling angrily towards you."
-#     ""
+    # "When you try to stand up and get a clear vision of the figure, you found out that he is a buggbear, he is holding his mace, growling angrily towards you."
+    "是熊地精！你立马起身，看清了这头怪物的全貌。熊地精手握狼牙锤，朝你愤怒地咆哮。"
 
 translate schinese woodland_outpost_loop_e91ba75d:
 
@@ -909,15 +909,15 @@ translate schinese woodland_outpost_loop_e91ba75d_2:
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     "你找了又找，但周围似乎没有什么值得关注的东西了。"
 
-# translate schinese woodland_outpost_loop_b629b50c:
+translate schinese woodland_outpost_loop_b629b50c:
 
-#     # "After walking along the forest for a while, you decide to go deeper into the forest."
-#     ""
+    # "After walking along the forest for a while, you decide to go deeper into the forest."
+    "随便逛了一会后，你决定这次往深处走走。"
 
-# translate schinese woodland_outpost_loop_b40e55d3:
+translate schinese woodland_outpost_loop_b40e55d3:
 
-#     # "You discovered that the tree seems to be denser than before, almost covering the sky above."
-#     ""
+    # "You discovered that the tree seems to be denser than before, almost covering the sky above."
+    "越往深处走，周围的树木愈发密集，枝叶愈发茂盛，几乎遮住了整片天空。"
 
 translate schinese woodland_outpost_loop_e91ba75d_3:
 
