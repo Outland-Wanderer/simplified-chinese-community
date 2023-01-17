@@ -19,10 +19,10 @@ translate schinese strings:
     new "{color=#000}战胜山羊战士{/color}"
 
     old "{color=#000}Losing in Buggbear Battle{/color}"
-    new "{color=#000}战败巴格怪{/color}"
+    new "{color=#000}战败熊地精{/color}"
 
     old "{color=#000}Winning in Buggbear Battle{/color}"
-    new "{color=#000}战胜巴格怪{/color}"
+    new "{color=#000}战胜熊地精{/color}"
 
     old "{color=#000}Serving in Private Show 1{/color}"
     new "{color=#000}私人服务A{/color}"

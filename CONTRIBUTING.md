@@ -45,7 +45,7 @@ Wuldon | 伍尔顿 |
 
 原名 | 译名 | 备注
 --- | --- | ---
-Buggbear | 巴格怪 | 
+Buggbear | 熊地精 | 
 Caproot | 萝卜怪 | 
 Dummy | 人偶 | 
 Feral Werewolf | 狂野狼人 | 

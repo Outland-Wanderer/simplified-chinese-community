@@ -1428,7 +1428,7 @@ translate schinese strings:
     new "[item_num]小补魔剂"
 
     old "[item_num] x Buggbear Sedative"
-    new "[item_num]巴格怪镇静剂"
+    new "[item_num]熊地精镇静剂"
 
     old "[item_num] x Strength Potion"
     new "[item_num]力量药剂"

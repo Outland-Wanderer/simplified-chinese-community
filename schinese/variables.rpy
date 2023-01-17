@@ -397,7 +397,7 @@ translate schinese strings:
     new "皮带"
 
     old "A leather strap from a Buggbear, presumably stolen from the goat. It's used to hold something together."
-    new "巴格怪落下的皮革带子，估计是他从山羊那偷来的。可以用来固定东西。"
+    new "熊地精落下的皮革带子，估计是他从山羊那偷来的。可以用来固定东西。"
 
     old "Small Cloth"
     new "小块布"
@@ -406,10 +406,10 @@ translate schinese strings:
     new "从雷希姆那得来的布料，不知道用哪里的羊毛做的。"
 
     old "Buggbear Sedative"
-    new "巴格怪镇静剂"
+    new "熊地精镇静剂"
 
     old "A sedative for buggbears only. Used when the target has lower than 50% health, or higher than 50% lust. Target will quickly fall asleep and produce extra saliva."
-    new "对巴格怪有极强的麻醉作用，并能刺激其产生更多唾液。仅能施用于体力低于 50% 或者性欲高于 50% 的巴格怪。"
+    new "对熊地精有极强的麻醉作用，并能刺激其产生更多唾液。仅能施用于体力低于 50% 或者性欲高于 50% 的熊地精。"
 
     old "Herb of Grace"
     new "芸香"
@@ -424,10 +424,10 @@ translate schinese strings:
     new "一种采自炼金术师小屋的草药，用途广泛，比如做成纺织品、绳索或是各种凉茶。"
 
     old "Buggbear Saliva"
-    new "巴格怪唾液"
+    new "熊地精唾液"
 
     old "Saliva sample collected from the buggbear's mouth cavity. It stinks with extremely pungent breath that can be made to camouflage one's smell."
-    new "从巴格怪口腔取得的唾液样本。气味刺鼻，能遮盖平常人的气味来达到伪装效果。"
+    new "从熊地精口腔取得的唾液样本。气味刺鼻，能遮盖平常人的气味来达到伪装效果。"
 
     old "Iron Ingot"
     new "铁锭"
@@ -567,7 +567,7 @@ translate schinese strings:
     new "山羊部落将军"
 
     old "Wild Buggbear"
-    new "野生巴格怪"
+    new "野生熊地精"
 
     old "Moss Golem"
     new "苔藓石魔像"

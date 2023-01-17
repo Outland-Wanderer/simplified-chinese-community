@@ -1824,7 +1824,7 @@ translate schinese strings:
     new "守卫"
 
     old "Buggbear"
-    new "巴格怪"
+    new "熊地精"
 
     old "Tutorial"
     new "教程"
