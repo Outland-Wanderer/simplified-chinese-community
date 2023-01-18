@@ -321,7 +321,7 @@ translate schinese ancient_tree_loop_15e9f5b1:
 translate schinese ancient_tree_loop_dc8dbdfd:
 
     # gt "Insolence, in the name of our lord! I will absolve you of your impure fate!"
-    gt "奉我族首领之义，灭纳污含垢之命！去死吧，无礼獠人！"
+    gt "奉我族首领之义，灭纳污含垢之命！去死吧，无礼獠奴！"
 
 translate schinese ancient_tree_loop_e91ba75d:
 
