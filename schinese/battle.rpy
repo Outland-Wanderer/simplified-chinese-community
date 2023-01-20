@@ -64,7 +64,7 @@ translate schinese slime_battle_loop_be25a18b:
 translate schinese slime_battle_loop_70e22807:
 
     # "You've hit the slime critically, dealing [oa[4]] HP!"
-    "致命一击！它失去了 [oa[4]] 点体力！"
+    "暴击！它失去了 [oa[4]] 点体力！"
 
 translate schinese slime_battle_loop_1c87f80a:
 
@@ -220,7 +220,7 @@ translate schinese dummy_battle_loop_be25a18b:
 translate schinese dummy_battle_loop_ccf43441:
 
     # "You've hit the dummy critically, dealing [oa[4]] HP!"
-    "致命一击！它失去了 [oa[4]] 点体力！"
+    "暴击！它失去了 [oa[4]] 点体力！"
 
 translate schinese dummy_battle_loop_2f33da57:
 
@@ -386,7 +386,7 @@ translate schinese goat_battle_loop_17fe72ee:
 translate schinese goat_battle_loop_18302ba4:
 
     # "It seems you've hit the goat critically, dealing [oa[4]] HP!"
-    "致命一击！山羊猎人失去了 [oa[4]] 点体力！"
+    "暴击！他失去了 [oa[4]] 点体力！"
 
 translate schinese goat_battle_loop_4e97572b:
 
@@ -1060,220 +1060,222 @@ translate schinese buggbear_win2_91f1d522:
 #     # "You lost [lost_gold] Gold."
 #     ""
 
-# translate schinese mossgolem_battle_a69f0c95:
+#苔藓石魔像
 
-#     # "It is a Moss Golem. He is standing before you, he looks enraged by your intrusion."
-#     ""
+translate schinese mossgolem_battle_a69f0c95:
 
-# translate schinese mossgolem_battle_374877a9:
+    # "It is a Moss Golem. He is standing before you, he looks enraged by your intrusion."
+    "一尊苔藓石魔像伫立在你面前，你的闯入激怒了他。"
 
-#     # "You can feel his blue aura radiating throughout the river. His left hand is missing, instead covered with layers of moss and vines."
-#     ""
+translate schinese mossgolem_battle_374877a9:
 
-# translate schinese mossgolem_battle_2b8baa4d:
+    # "You can feel his blue aura radiating throughout the river. His left hand is missing, instead covered with layers of moss and vines."
+    "石魔像散发出蓝色光晕，你能感觉到这股魔力辐射了整片区域。他没有左手，取而代之的是层层苔藓和藤曼。"
 
-#     # "You raise your [pc.weapon.name!t], defending yourself from the golem's attack."
-#     ""
+translate schinese mossgolem_battle_2b8baa4d:
 
-# translate schinese mossgolem_battle_53613e40:
+    # "You raise your [pc.weapon.name!t], defending yourself from the golem's attack."
+    "你手持[pc.weapon.name!t]，准备抵御接下来的攻击。"
 
-#     # "You raise your fists in a block, defending yourself from the golem's attack."
-#     ""
+translate schinese mossgolem_battle_53613e40:
 
-# translate schinese mossgolem_battle_loop_ede74514:
+    # "You raise your fists in a block, defending yourself from the golem's attack."
+    "你交臂架好了格斗姿态，准备抵御接下来的攻击。"
 
-#     # "You slash your [pc.weapon.name!t] at the arm of the golem, but his magical aura repels the attack."
-#     ""
+translate schinese mossgolem_battle_loop_ede74514:
 
-# translate schinese mossgolem_battle_loop_e321d8ca:
+    # "You slash your [pc.weapon.name!t] at the arm of the golem, but his magical aura repels the attack."
+    "你挥动[pc.weapon.name!t]划向石魔像的手臂，但他的魔法屏障挡下了这一击。"
 
-#     # "You slam your [pc.weapon.name!t] at the golem's head, but his magical aura repels the attack."
-#     ""
+translate schinese mossgolem_battle_loop_e321d8ca:
 
-# translate schinese mossgolem_battle_loop_5a0b73a8:
+    # "You slam your [pc.weapon.name!t] at the golem's head, but his magical aura repels the attack."
+    "你抡动[pc.weapon.name!t]劈向石魔像的头部，但他的魔法屏障挡下了这一击。"
 
-#     # "You aim and shoot your [pc.weapon.name!t] at the golem, but it seems to have missed."
-#     ""
+translate schinese mossgolem_battle_loop_5a0b73a8:
 
-# translate schinese mossgolem_battle_loop_e815f408:
+    # "You aim and shoot your [pc.weapon.name!t] at the golem, but it seems to have missed."
+    "你架设[pc.weapon.name!t]飞箭射向石魔像，可惜没有命中。"
 
-#     # "You throw a punch at the golem, but your punch meets air rather than the block of stone you expected."
-#     ""
+translate schinese mossgolem_battle_loop_e815f408:
 
-# translate schinese mossgolem_battle_loop_643a09c8:
+    # "You throw a punch at the golem, but your punch meets air rather than the block of stone you expected."
+    "你一拳砸向石魔像。但你的指节只传来划过空气的质感，而不是击打石块的实在感。"
 
-#     # "You slash your [pc.weapon.name!t] at the arm of the moss golem. Your blade scrapes against the stone, chipping pieces off of his body."
-#     ""
+translate schinese mossgolem_battle_loop_643a09c8:
 
-# translate schinese mossgolem_battle_loop_bc5738de:
+    # "You slash your [pc.weapon.name!t] at the arm of the moss golem. Your blade scrapes against the stone, chipping pieces off of his body."
+    "你挥动[pc.weapon.name!t]划向石魔像的手臂，电光石火之间削下了他身上一小块石头。"
 
-#     # "You slash your [pc.weapon.name!t] across the golem's body, knocking him back a few steps. The golem quakes silently in anger."
-#     ""
+translate schinese mossgolem_battle_loop_bc5738de:
 
-# translate schinese mossgolem_battle_loop_5d3cbdb2:
+    # "You slash your [pc.weapon.name!t] across the golem's body, knocking him back a few steps. The golem quakes silently in anger."
+    "你攒动[pc.weapon.name!t]劈向石魔像的身体，将他挡在几步开外。石魔像颤抖着，表达无声的愤怒。"
 
-#     # "You slam your [pc.weapon.name!t] at the arm of the moss golem, your blade crashes against the stone with a harsh, grating sound. Chunks of his arm crumble under the force of the blow."
-#     ""
+translate schinese mossgolem_battle_loop_5d3cbdb2:
 
-# translate schinese mossgolem_battle_loop_d4dec8d4:
+    # "You slam your [pc.weapon.name!t] at the arm of the moss golem, your blade crashes against the stone with a harsh, grating sound. Chunks of his arm crumble under the force of the blow."
+    "你抡动[pc.weapon.name!t]劈向石魔像的手臂，"
 
-#     # "You slam your [pc.weapon.name!t] across the golem's body, knocking him back a few steps. The golem quakes silently in anger."
-#     ""
+translate schinese mossgolem_battle_loop_d4dec8d4:
 
-# translate schinese mossgolem_battle_loop_5017cd51:
+    # "You slam your [pc.weapon.name!t] across the golem's body, knocking him back a few steps. The golem quakes silently in anger."
+    "你舞动[pc.weapon.name!t]砍向石魔像的身体，将他挡在几步开外。石魔像颤抖着，表达无声的愤怒。"
 
-#     # "You aim and shoot your [pc.weapon.name!t] at the moss golem, the arrow hits him right in the arm, reducing a chunk of the limb to rubble."
-#     ""
+translate schinese mossgolem_battle_loop_5017cd51:
 
-# translate schinese mossgolem_battle_loop_f70613a1:
+    # "You aim and shoot your [pc.weapon.name!t] at the moss golem, the arrow hits him right in the arm, reducing a chunk of the limb to rubble."
+    "你找准时机拉动[pc.weapon.name!t]，飞箭正中石魔像的右臂。他由土石组成的手臂碎成了一片瓦砾。"
 
-#     # "You run while shooting your [pc.weapon.name!t] across the golem's body, knocking him back a few steps. The golem quakes silently in anger."
-#     ""
+translate schinese mossgolem_battle_loop_f70613a1:
 
-# translate schinese mossgolem_battle_loop_dda80880:
+    # "You run while shooting your [pc.weapon.name!t] across the golem's body, knocking him back a few steps. The golem quakes silently in anger."
+    "你一边变换方位一边拉动[pc.weapon.name!t]飞箭射向石魔像的身体，将他挡在几步开外。石魔像颤抖着，表达无声的愤怒。"
 
-#     # "You throw a punch at the golem, catching him straight on the glowing blue core, it wavers, and he seems to lose some of whatever force is holding him together, as it grows dimmer."
-#     ""
+translate schinese mossgolem_battle_loop_dda80880:
 
-# translate schinese mossgolem_battle_loop_ef6f4b5b:
+    # "You throw a punch at the golem, catching him straight on the glowing blue core, it wavers, and he seems to lose some of whatever force is holding him together, as it grows dimmer."
+    "你重拳直击石魔像的蓝色核心。一拳下去，核心变得忽明忽暗，逐渐暗淡了些许。石魔像似乎失去了不少支撑他的能量。"
 
-#     # "You punch into the golem's stomach, knocking him back a few steps. The golem quakes silently in anger."
-#     ""
+translate schinese mossgolem_battle_loop_ef6f4b5b:
 
-# translate schinese mossgolem_battle_loop_24bcc736:
+    # "You punch into the golem's stomach, knocking him back a few steps. The golem quakes silently in anger."
+    "你一拳直击石魔像腹部，将他挡在几步开外。石魔像颤抖着，表达无声的愤怒。"
 
-#     # "His health decreases by [oa[4]] HP."
-#     "他失去了 [oa[4]] 点体力。"
+translate schinese mossgolem_battle_loop_24bcc736:
 
-# translate schinese mossgolem_battle_loop_292fc3a5:
+    # "His health decreases by [oa[4]] HP."
+    "他失去了 [oa[4]] 点体力值。"
 
-#     # "It seems you've hit the golem critically, dealing [oa[4]] HP!"
-#     ""
+translate schinese mossgolem_battle_loop_292fc3a5:
 
-# translate schinese mossgolem_battle_loop_7c6f4f33:
+    # "It seems you've hit the golem critically, dealing [oa[4]] HP!"
+    "暴击！他失去了 [oa[4]] 点体力值！"
 
-#     # "You struggle against the spell, trying to break free. You dealt [oa[4]] damage to the golem in the process. His grip has loosened as well."
-#     ""
+translate schinese mossgolem_battle_loop_7c6f4f33:
 
-# translate schinese mossgolem_battle_loop_8e418f5c:
+    # "You struggle against the spell, trying to break free. You dealt [oa[4]] damage to the golem in the process. His grip has loosened as well."
+    "你极力挣扎摆脱咒语的束缚，同时对石魔像造成了 [oa[4]] 点伤害。他松开了手掌。"
 
-#     # "You struggle against the golem as you try to reach under the golem's crotch in an attempt to get a reaction from it."
-#     ""
+translate schinese mossgolem_battle_loop_8e418f5c:
 
-# translate schinese mossgolem_battle_loop_92dbba51:
+    # "You struggle against the golem as you try to reach under the golem's crotch in an attempt to get a reaction from it."
+    "你一边挣扎一边伸手掏弄石魔像的胯下，意图激起他的性趣。"
 
-#     # "The golem instanly reacts to your advance, the moss on his surface vibrating profusely. His grip seems to have weakened as well."
-#     ""
+translate schinese mossgolem_battle_loop_92dbba51:
 
-# translate schinese mossgolem_battle_loop_f491da4a:
+    # "The golem instanly reacts to your advance, the moss on his surface vibrating profusely. His grip seems to have weakened as well."
+    "如此大胆的举动令石魔像立马起了反应，他身体表面的苔藓剧烈颤抖，握力似乎减弱了几分。"
 
-#     # "You turn around and rub your hand all over your burly cheeks, feeling and brushing against your ass while you shake your hips."
-#     ""
+translate schinese mossgolem_battle_loop_f491da4a:
 
-# translate schinese mossgolem_battle_loop_060474ad:
+    # "You turn around and rub your hand all over your burly cheeks, feeling and brushing against your ass while you shake your hips."
+    "你慢腾腾背向石魔像，双手盖上饱满的臀部，把玩着、抚摸着，不时左右摇摆。"
 
-#     # "You gently brush by your member, running a claw from your inner thigh to the back of your balls. You tug at them lightly while staring at the moss golem seductively."
-#     ""
+translate schinese mossgolem_battle_loop_060474ad:
 
-# translate schinese mossgolem_battle_loop_631c22d5:
+    # "You gently brush by your member, running a claw from your inner thigh to the back of your balls. You tug at them lightly while staring at the moss golem seductively."
+    "你深情地盯着石魔像，伸爪轻轻爱抚自己的下体，慢慢从大腿根滑向阴囊，紧紧箍着诱人的鼓包。"
 
-#     # "You cup your fluffy chest, drawing circles around the area of your nipples. You smile at the moss golem while you bounce your chest up and down slightly."
-#     ""
+translate schinese mossgolem_battle_loop_631c22d5:
 
-# translate schinese mossgolem_battle_loop_60659c1c:
+    # "You cup your fluffy chest, drawing circles around the area of your nipples. You smile at the moss golem while you bounce your chest up and down slightly."
+    "你双手捧持鼓起的胸肌，手指在乳头周围画着圆圈。一边对着石魔像微笑，一边轻轻掂量自己的厚物。"
 
-#     # "You approach the golem before gently letting your hands wander inside the huge bush in his crotch area."
-#     ""
+translate schinese mossgolem_battle_loop_60659c1c:
 
-# translate schinese mossgolem_battle_loop_b4cf221d:
+    # "You approach the golem before gently letting your hands wander inside the huge bush in his crotch area."
+    "接着你走近石魔像，伸手插入他胯下的那从苔藓轻轻揉搓。"
 
-#     # "You continue your act for about a minute, but the moss golem doesn't even flinch."
-#     ""
+translate schinese mossgolem_battle_loop_b4cf221d:
 
-# translate schinese mossgolem_battle_loop_df9f0471:
+    # "You continue your act for about a minute, but the moss golem doesn't even flinch."
+    "这场戏你自导自演了快一分钟，但对方完全不为所动。"
 
-#     # "Disappointed, you back away before the golem can grab a hold of you."
-#     ""
+translate schinese mossgolem_battle_loop_df9f0471:
 
-# translate schinese mossgolem_battle_loop_775db50d:
+    # "Disappointed, you back away before the golem can grab a hold of you."
+    "在石魔像抓住你之前，你失望地退回了原位。"
 
-#     # "You cannot detect his lust on his face, but by the vibration of the moss you can deduce that he's enjoying this a lot. His lust is increased by [player_flirt]."
-#     ""
+translate schinese mossgolem_battle_loop_775db50d:
 
-# translate schinese mossgolem_battle_loop_3fb2542e:
+    # "You cannot detect his lust on his face, but by the vibration of the moss you can deduce that he's enjoying this a lot. His lust is increased by [player_flirt]."
+    "石魔像面无表情，但他身上的苔藓却在不断颤抖，你断定他现在非常享受。对方的性欲增加了 [player_flirt] 点。"
 
-#     # "The golem doesn't speak, but he is extremely distracted by your performance. His lust is increased by [player_flirt]."
-#     ""
+translate schinese mossgolem_battle_loop_3fb2542e:
 
-# translate schinese mossgolem_battle_loop_d130a7f8:
+    # "The golem doesn't speak, but he is extremely distracted by your performance. His lust is increased by [player_flirt]."
+    "石魔像无法说话，但你可以看出自己刚刚的表现极大扰乱了他的定力。对方的性欲增加了 [player_flirt] 点。"
 
-#     # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the golem."
-#     ""
+translate schinese mossgolem_battle_loop_d130a7f8:
 
-# translate schinese mossgolem_battle_loop_85284344:
+    # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the golem."
+    "你耗尽了所有气力，双膝一软跪倒在地。你躺在地上大口喘息，将自己的弱点完全暴露给了石魔像。"
 
-#     # "Try as you might, you cannot escape from the golem's magical aura."
-#     ""
+translate schinese mossgolem_battle_loop_85284344:
 
-# translate schinese mossgolem_battle_loop_4f8cdb69:
+    # "Try as you might, you cannot escape from the golem's magical aura."
+    "无论你往哪边跑，都逃不出石魔像的魔法光晕。"
 
-#     # "The golem falls with a huge thud on the ground."
-#     ""
+translate schinese mossgolem_battle_loop_4f8cdb69:
 
-# translate schinese mossgolem_battle_loop_37b66134:
+    # "The golem falls with a huge thud on the ground."
+    "巨大的石魔像轰然倒地。"
 
-#     # "You don't know if your flirting worked, but it certainly put down the golem."
-#     ""
+translate schinese mossgolem_battle_loop_37b66134:
 
-# translate schinese mossgolem_battle_loop_f00e2b24:
+    # "You don't know if your flirting worked, but it certainly put down the golem."
+    "你也不清楚你的诱惑到底作用如何，但至少扳倒了这个大块头。"
 
-#     # "As soon as the golem tries to attack, it is stabbed by a mysterious figure."
-#     ""
+translate schinese mossgolem_battle_loop_f00e2b24:
 
-# translate schinese mossgolem_battle_loop_b44c1b06:
+    # "As soon as the golem tries to attack, it is stabbed by a mysterious figure."
+    "石魔像正准备发动攻击，却被突然刺穿了要害。"
 
-#     # l "Another save. You are lucky I went with you, disciple."
-#     l ""
+translate schinese mossgolem_battle_loop_b44c1b06:
 
-# translate schinese mossgolem_battle_loop_d8f33499:
+    # l "Another save. You are lucky I went with you, disciple."
+    l "行侠仗义总相时。幸好这次你不是一个人来，我的徒儿。"
 
-#     # "You quickly recognise the gruff voice. It's Lothar, he appears behind the golem as it falls with a thud on the ground."
-#     ""
+translate schinese mossgolem_battle_loop_d8f33499:
 
-# translate schinese mossgolem_battle_loop_88eafef6:
+    # "You quickly recognise the gruff voice. It's Lothar, he appears behind the golem as it falls with a thud on the ground."
+    "是洛萨尔，你立马认出了这低沉的声音。他从轰然倒地的石魔像背后走了出来。"
 
-#     # "The Moss Golem holds you in place with his right arm. You try to struggle free, but it doesn't work."
-#     ""
+translate schinese mossgolem_battle_loop_88eafef6:
 
-# translate schinese mossgolem_battle_loop_4651dcfa:
+    # "The Moss Golem holds you in place with his right arm. You try to struggle free, but it doesn't work."
+    "石魔像右手一把抓起你，你拼命挣扎却无济于事。"
 
-#     # "The golem swings his fist in your direction, hitting you in the chest. Your health decreases by [enemy_damage] HP."
-#     ""
+translate schinese mossgolem_battle_loop_4651dcfa:
 
-# translate schinese mossgolem_battle_loop_ba087092:
+    # "The golem swings his fist in your direction, hitting you in the chest. Your health decreases by [enemy_damage] HP."
+    "石魔像挥拳击中了你的胸膛，令你损失了 [enemy_damage] 点体力值。"
 
-#     # "The golem strikes you down with his vines. You pass out for a few seconds before getting up. Your health decreases by [enemy_damage] HP."
-#     ""
+translate schinese mossgolem_battle_loop_ba087092:
 
-# translate schinese mossgolem_battle_loop_badf1f48:
+    # "The golem strikes you down with his vines. You pass out for a few seconds before getting up. Your health decreases by [enemy_damage] HP."
+    "石魔像抽动藤曼打中了你，你在失去意识的几秒钟内损失了 [enemy_damage] 点体力值。"
 
-#     # "The golem swings his fist in your direction, but you manage to dodge the blow."
-#     ""
+translate schinese mossgolem_battle_loop_badf1f48:
 
-# translate schinese mossgolem_battle_loop_2c85f159:
+    # "The golem swings his fist in your direction, but you manage to dodge the blow."
+    "石魔像挥拳向你袭来，但你成功躲过了这一击。"
 
-#     # "The golem tries to strike you down with his vines, but he missed the attack just by inches."
-#     ""
+translate schinese mossgolem_battle_loop_2c85f159:
 
-# translate schinese mossgolem_battle_loop_96174b9e:
+    # "The golem tries to strike you down with his vines, but he missed the attack just by inches."
+    "石魔像抽动藤曼向你袭来，所幸只打中了离你几寸之外的虚空。"
 
-#     # "The Moss Golem channels the water into a blue orb of regeneration. His body becomes revitalised by the power of water."
-#     ""
+translate schinese mossgolem_battle_loop_96174b9e:
 
-# translate schinese mossgolem_battle_loop_8fd8c645:
+    # "The Moss Golem channels the water into a blue orb of regeneration. His body becomes revitalised by the power of water."
+    "石魔像将水汽聚集成一团蓝色的光球，释放出治愈自身的水系能量。"
 
-#     # "He has recovered [healing] HP."
-#     ""
+translate schinese mossgolem_battle_loop_8fd8c645:
+
+    # "He has recovered [healing] HP."
+    "他的体力值回复了 [healing] 点。"
 
 #战败苔藓石魔像
 
@@ -1351,12 +1353,12 @@ translate schinese mossgolem_lose_a0b71257:
 translate schinese mossgolem_lose_5fc0aca4:
 
     # "The last image you see, is a wolf sobbing next to your battered body."
-    "你最后一次睁开眼睛，看见灰狼跪在你支离破碎的躯干旁哭泣。"
+    "你最后一次睁眼，看见灰狼跪在你支离破碎的躯干旁哭泣。"
 
 translate schinese mossgolem_lose_6ac9b865:
 
     # "You close your eyes for the last time, and the world fades to darkness forever."
-    "你最后一次闭上眼睛，跟随世界遁入永不可知的无尽黑暗。"
+    "你最后一次闭眼，跟随世界遁入永不可知的无尽黑暗。"
 
 translate schinese mossgolem_lose_e5543b2f:
 
