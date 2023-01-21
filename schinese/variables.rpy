@@ -820,11 +820,11 @@ translate schinese strings:
     old "Lothar took me to the alleyway to practice battles with his dummy, I need to defeat the dummy."
     new "洛萨尔领我去和他巷子里的人偶对战当作训练，我得打败这个人偶。"
 
-    # old "A Rolling Stone"
-    # new "翻滚的石头"
+    old "A Rolling Stone"
+    new "暴走的石头"
 
-    # old "Lothar found a stone in his recent adventure, he asked me to help him take it to Sebas to fetch a good price."
-    # new "洛萨尔在探险途中发现了一块石头，让我帮忙卖给塞巴斯，最好能卖个好价钱。"
+    old "Lothar found a stone in his recent adventure, he asked me to help him take it to Sebas to fetch a good price."
+    new "洛萨尔在探险途中发现了一块石头，让我帮忙卖给塞巴斯，最好能卖个好价钱。"
 
     # old "Truce"
     # new "休战"

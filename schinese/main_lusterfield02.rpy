@@ -9011,8 +9011,8 @@ translate schinese strings:
     # old "Report for Amble and Jog's Training"
     # new "报告同安布和乔格训练的成果"
 
-    # old "Ask about his Loot"
-    # new "询问洛萨尔跟班的事情"
+    old "Ask about his Loot"
+    new "询问洛萨尔手中的东西"
 
     # old "Ask about his opinion on the Goat Tribe"
     # new "询问对山羊部落的看法"
@@ -9026,8 +9026,8 @@ translate schinese strings:
     # old "About sneaking into the Goat Tribe"
     # new "询问潜入山羊部落的计划"
 
-    # old "Ask about the trip to the river"
-    # new "询问前往招藓河的打算"
+    old "Ask about the trip to the river"
+    new "聊起之前在招藓河的经历"
 
     old "Ask about him being a hero"
     new "好奇成为英雄的历程"
@@ -14196,900 +14196,916 @@ translate schinese Lothar_Night_Greet_3cdf02a7_1:
 #     # e "Uh... nothing."
 #     e ""
 
-# translate schinese Lothar_After_River_Trip_1d7fb0d4:
+translate schinese Lothar_After_River_Trip_1d7fb0d4:
 
-#     # e "Lothar? How did you feel after the trip?"
-#     e ""
+    # e "Lothar? How did you feel after the trip?"
+    e "河边这一趟下来，洛萨尔你感觉如何？"
 
-# translate schinese Lothar_After_River_Trip_2cab530a:
+translate schinese Lothar_After_River_Trip_2cab530a:
 
-#     # l "My balls still hurt."
-#     l ""
+    # l "My balls still hurt."
+    l "我只感觉特别蛋疼。"
 
-# translate schinese Lothar_After_River_Trip_260b94a7:
+translate schinese Lothar_After_River_Trip_260b94a7:
 
-#     # e "Really? I didn't know Seb hit you that hard."
-#     e ""
+    # e "Really? I didn't know Seb hit you that hard."
+    e "啊……我才知道阿塞那时踢得那么用力。"
 
-# translate schinese Lothar_After_River_Trip_fd9cfa84:
+translate schinese Lothar_After_River_Trip_fd9cfa84:
 
-#     # l "Yeah, and I didn't believe you would side with the lion."
-#     l ""
+    # l "Yeah, and I didn't believe you would side with the lion."
+    l "那你当初怎么没想过呢。难以置信你竟然站黄毛狮子那边。"
 
-# translate schinese Lothar_After_River_Trip_895c452e:
+translate schinese Lothar_After_River_Trip_895c452e:
 
-#     # e "Hey, I just thought you kicked him first."
-#     e ""
+    # e "Hey, I just thought you kicked him first."
+    e "嘿，我只是觉得那样更公平，毕竟你先踢的塞巴斯。"
 
-# translate schinese Lothar_After_River_Trip_eb8f847b:
+translate schinese Lothar_After_River_Trip_eb8f847b:
 
-#     # l "Well that was justified because he kept talking about my-"
-#     l ""
+    # l "Well that was justified because he kept talking about my-"
+    l "我又不是无缘无故踢他，谁叫他那时一直说我的——"
 
-# translate schinese Lothar_After_River_Trip_53288926:
+translate schinese Lothar_After_River_Trip_53288926:
 
-#     # l "Whatever."
-#     l ""
+    # l "Whatever."
+    l "算了。"
 
-# translate schinese Lothar_After_River_Trip_b3be1be0:
+translate schinese Lothar_After_River_Trip_b3be1be0:
 
-#     # e "...What were you talking about?"
-#     e ""
+    # e "...What were you talking about?"
+    e "……塞巴斯说你的什么？"
 
-# translate schinese Lothar_After_River_Trip_f434fd21:
+translate schinese Lothar_After_River_Trip_f434fd21:
 
-#     # l "Nothing."
-#     l ""
+    # l "Nothing."
+    l "没什么。"
 
-# translate schinese Lothar_After_River_Trip_8de2fc12:
+translate schinese Lothar_After_River_Trip_8de2fc12:
 
-#     # l "If you betray me again next time, I'm gonna kick your nuts instead."
-#     l ""
+    # l "If you betray me again next time, I'm gonna kick your nuts instead."
+    l "要是你下次再敢背叛我，我就踢你卵蛋。"
 
-# translate schinese Lothar_After_River_Trip_225ce0f4:
+translate schinese Lothar_After_River_Trip_225ce0f4:
 
-#     # l "Did you see that lion's fucking face."
-#     l ""
+    # l "Did you see that lion's fucking face."
+    l "来回路上那只笨猫的臭脸你也看见了。"
 
-# translate schinese Lothar_After_River_Trip_855dcc47:
+translate schinese Lothar_After_River_Trip_855dcc47:
 
-#     # l "I was gonna punch him in the nuts."
-#     l ""
+    # l "I was gonna punch him in the nuts."
+    l "我当时真想给他卵蛋再来一拳。"
 
-# translate schinese Lothar_After_River_Trip_21364cf7:
+translate schinese Lothar_After_River_Trip_21364cf7:
 
-#     # e "Hey Lothar, you two should just make up for whatever happened."
-#     e ""
+    # e "Hey Lothar, you two should just make up for whatever happened."
+    e "嘿，不管发生了什么，你们就不能和好吗？"
 
-# translate schinese Lothar_After_River_Trip_f37a4283:
+translate schinese Lothar_After_River_Trip_f37a4283:
 
-#     # e "I just don't want to come and see you two arguing who has the bigger dick."
-#     e ""
+    # e "I just don't want to come and see you two arguing who has the bigger dick."
+    e "我只是不想每次都要看你们两个吵来吵去争谁鸡巴大{alpha=*0.5}（谁更厉害）{/alpha}。"
 
-# translate schinese Lothar_After_River_Trip_0d68c122:
+translate schinese Lothar_After_River_Trip_0d68c122:
 
-#     # l "You know what, mine's obviously bigger than his."
-#     l ""
+    # l "You know what, mine's obviously bigger than his."
+    l "这还用争？自然是我的老二最大。"
 
-# translate schinese Lothar_After_River_Trip_584c5f8a:
+translate schinese Lothar_After_River_Trip_584c5f8a:
 
-#     # e "Hey, that was not meant to be taken literally."
-#     e ""
+    # e "Hey, that was not meant to be taken literally."
+    e "嘿，不要从字面意思理解我的话。"
 
-# translate schinese Lothar_After_River_Trip_b951db7f:
+translate schinese Lothar_After_River_Trip_b951db7f:
 
-#     # l "I'm gonna show him my cock when I see him next time."
-#     l ""
+    # l "I'm gonna show him my cock when I see him next time."
+    l "下回再见到他，我会亮出我的巨根比得他心服口服。"
 
-# translate schinese Lothar_After_River_Trip_b75fa622:
+translate schinese Lothar_After_River_Trip_b75fa622:
 
-#     # e "Are you serious..."
-#     e ""
+    # e "Are you serious..."
+    e "你不是认真的吧……"
 
-# translate schinese Lothar_After_River_Trip_44f94669:
+translate schinese Lothar_After_River_Trip_44f94669:
 
-#     # l "Well you can be the judge, or the lizard. I think he's a fairer judge."
-#     l ""
+    # l "Well you can be the judge, or the lizard. I think he's a fairer judge."
+    l "你，或者那只蜥蜴都可以当裁判。我想他可能会更公平些。"
 
-# translate schinese Lothar_After_River_Trip_6b70fcfd:
+translate schinese Lothar_After_River_Trip_6b70fcfd:
 
-#     # e "Uhmm..."
-#     e ""
+    # e "Uhmm..."
+    e "呃……"
 
-# translate schinese Lothar_After_River_Trip_63bb27be:
+translate schinese Lothar_After_River_Trip_63bb27be:
 
-#     # e "Anyways... What did you make of the golem?"
-#     e ""
+    # e "Anyways... What did you make of the golem?"
+    e "那个……石魔像你怎么看？"
 
-# translate schinese Lothar_After_River_Trip_b3090677:
+translate schinese Lothar_After_River_Trip_b3090677:
 
-#     # l "Golem?"
-#     l ""
+    # l "Golem?"
+    l "石魔像？"
 
-# translate schinese Lothar_After_River_Trip_3b736bda:
+translate schinese Lothar_After_River_Trip_3b736bda:
 
-#     # l "Oh... the one with the moss."
-#     l ""
+    # l "Oh... the one with the moss."
+    l "噢……浑身长苔藓的那个。"
 
-# translate schinese Lothar_After_River_Trip_43cc53a9:
+translate schinese Lothar_After_River_Trip_43cc53a9:
 
-#     # l "Ha, I saved your ass from that golem. I was right about you all along."
-#     l ""
+    # l "Ha, I saved your ass from that golem. I was right about you all along."
+    l "哈，多亏有我出手你才免死于非命，我对你的预判没有一次不准的。"
 
-# translate schinese Lothar_After_River_Trip_e8fa4cac:
+translate schinese Lothar_After_River_Trip_e8fa4cac:
 
-#     # e "You just happened to be the one killing him..."
-#     e ""
+    # e "You just happened to be the one killing him..."
+    e "你只是碰巧给了他最后一击……"
 
-# translate schinese Lothar_After_River_Trip_2deab1dd:
+translate schinese Lothar_After_River_Trip_2deab1dd:
 
-#     # l "No...You need me, [e]. You need me to protect you."
-#     l ""
+    # l "No...You need me, [e]. You need me to protect you."
+    l "不……你需要我，[e]。你需要大英雄保护你。"
 
-# translate schinese Lothar_After_River_Trip_266b12c7:
+translate schinese Lothar_After_River_Trip_266b12c7:
 
-#     # e "Ummm I guess... Thank you for saving me?"
-#     e ""
+    # e "Ummm I guess... Thank you for saving me?"
+    e "呃……那谢谢你救了我？"
 
-# translate schinese Lothar_After_River_Trip_97765c58:
+translate schinese Lothar_After_River_Trip_97765c58:
 
-#     # l "That's the spirit. You know what... Come here more often so I can protect you."
-#     l ""
+    # l "That's the spirit. You know what... Come here more often so I can protect you."
+    l "这才对嘛。还有……多来酒馆跟我和兄弟们聚聚。"
 
-# translate schinese Lothar_After_River_Trip_fa74ea2c:
+translate schinese Lothar_After_River_Trip_fa74ea2c:
 
-#     # l "Drink a few beers with me and the squad you know."
-#     l ""
+    # l "Drink a few beers with me and the squad you know."
+    l "再来上几杯啤酒，好让我出面帮你。"
 
-# translate schinese Lothar_After_River_Trip_55187e6f:
+translate schinese Lothar_After_River_Trip_55187e6f:
 
-#     # e "I will, I just don't want to get too drunk..."
-#     e ""
+    # e "I will, I just don't want to get too drunk..."
+    e "我会的，只要不喝得烂醉……"
 
-# translate schinese Lothar_After_River_Trip_a4be11c3:
+translate schinese Lothar_After_River_Trip_a4be11c3:
 
-#     # l "Ha. Like I said, I'll protect you, you oaf."
-#     l ""
+    # l "Ha. Like I said, I'll protect you, you oaf."
+    l "哈，怕什么，我都说了我会保护你，乖徒儿。"
 
-# translate schinese Lothar_After_River_Trip_fdac3ef9:
+translate schinese Lothar_After_River_Trip_fdac3ef9:
 
-#     # e "O-ok."
-#     e ""
+    # e "O-ok."
+    e "好、好的。"
 
-# translate schinese Lothar_After_River_Trip_a6c14109:
+translate schinese Lothar_After_River_Trip_a6c14109:
 
-#     # l "If you don't get drunk, how can I take care of you?"
-#     l ""
+    # l "If you don't get drunk, how can I take care of you?"
+    l "如果你不喝得烂醉我要怎么照顾你？"
 
-# translate schinese Lothar_After_River_Trip_11ac8414:
+translate schinese Lothar_After_River_Trip_11ac8414:
 
-#     # "Lothar raises his soft hand and pats your head several times, he smiles when you squirm under his paws."
-#     ""
+    # "Lothar raises his soft hand and pats your head several times, he smiles when you squirm under his paws."
+    "洛萨尔微笑着，举起软弹的爪子轻轻拍了拍你头，惹得你有些难为情。"
 
-# translate schinese Lothar_After_River_Trip_5fc7e084:
+translate schinese Lothar_After_River_Trip_5fc7e084:
 
-#     # l "You are a really cute oaf."
-#     l ""
+    # l "You are a really cute oaf."
+    l "你可是我最可爱的徒儿。"
 
-# translate schinese Lothar_After_River_Trip_07e5e00e:
+translate schinese Lothar_After_River_Trip_07e5e00e:
 
-#     # e "...thank you?"
-#     e ""
+    # e "...thank you?"
+    e "……谢谢夸奖？"
 
-# translate schinese Lothar_After_River_Trip_5d4958ce:
+translate schinese Lothar_After_River_Trip_5d4958ce:
 
-#     # l "That stone got me some real gold. Like I'm not kidding."
-#     l ""
+    # l "That stone got me some real gold. Like I'm not kidding."
+    l "讲真那块石头让我赚大发了。"
 
-# translate schinese Lothar_After_River_Trip_ccd60e42:
+translate schinese Lothar_After_River_Trip_ccd60e42:
 
-#     # l "I got some expensive ale for Amble, he loves beer too much if I have to say."
-#     l ""
+    # l "I got some expensive ale for Amble, he loves beer too much if I have to say."
+    l "我还请了安布几杯上等好酒，哼哼，这个爱酒如命的家伙。"
 
-# translate schinese Lothar_After_River_Trip_924f184c:
+translate schinese Lothar_After_River_Trip_924f184c:
 
-#     # e "Uhh... did you spend a lot on the beer?"
-#     e ""
+    # e "Uhh... did you spend a lot on the beer?"
+    e "呃……你会花很多钱喝酒吗？"
 
-# translate schinese Lothar_After_River_Trip_8db4fc7a:
+translate schinese Lothar_After_River_Trip_8db4fc7a:
 
-#     # l "Yeah, where do you think the money goes. Straight to the tavern."
-#     l ""
+    # l "Yeah, where do you think the money goes. Straight to the tavern."
+    l "不然呢，金钱不会消失只会转移。我的钱则转移到了酒馆。"
 
-# translate schinese Lothar_After_River_Trip_141e61a1:
+translate schinese Lothar_After_River_Trip_141e61a1:
 
-#     # e "That's why Cane loves you so much."
-#     e ""
+    # e "That's why Cane loves you so much."
+    e "难怪凯恩对你这么热情。"
 
-# translate schinese Lothar_After_River_Trip_4bd9d55d:
+translate schinese Lothar_After_River_Trip_4bd9d55d:
 
-#     # l "What? Can't a wolf have fun drinking after saving the village once again?"
-#     l ""
+    # l "What? Can't a wolf have fun drinking after saving the village once again?"
+    l "嗯？难道再一次拯救全乐村的我，连一杯啤酒都不能开怀畅饮吗？"
 
-# translate schinese Lothar_After_River_Trip_e6a93676:
+translate schinese Lothar_After_River_Trip_e6a93676:
 
-#     # e "No... I just was thinking maybe you should save some money for yourself."
-#     e ""
+    # e "No... I just was thinking maybe you should save some money for yourself."
+    e "不……我的意思是也许你该为自己省{alpha=*0.5}(save){/alpha}些钱备用。"
 
-# translate schinese Lothar_After_River_Trip_801ec991:
+translate schinese Lothar_After_River_Trip_801ec991:
 
-#     # l "Money isn't alive, people are. I'm not gonna waste time saving something that's not even breathing."
-#     l ""
+    # l "Money isn't alive, people are. I'm not gonna waste time saving something that's not even breathing."
+    l "钱是死的，人是活的。我才不会浪费时间拯救{alpha=*0.5}(save){/alpha}那些咽了气的东西。"
 
-# translate schinese Lothar_After_River_Trip_72a33094:
+translate schinese Lothar_After_River_Trip_72a33094:
 
-#     # e "..."
-#     e ""
+    # e "..."
+    e "……"
 
-# translate schinese Lothar_After_River_Trip_42544a7d:
+translate schinese Lothar_After_River_Trip_42544a7d:
 
-#     # e "You got a point."
-#     e ""
+    # e "You got a point."
+    e "你说的在理。"
 
-# translate schinese Lothar_After_River_Trip_337c7b51:
+translate schinese Lothar_After_River_Trip_337c7b51:
 
-#     # l "I've gotta save you somehow, but you seem to be able to handle yourself... too much."
-#     l ""
+    # l "I've gotta save you somehow, but you seem to be able to handle yourself... too much."
+    l "而不管怎样我都必须拯救你，但你现在独当一面的能力似乎有些……过头。"
 
-# translate schinese Lothar_After_River_Trip_5c7f17e6:
+translate schinese Lothar_After_River_Trip_5c7f17e6:
 
-#     # e "Why am I... too much?"
-#     e ""
+    # e "Why am I... too much?"
+    e "……过头？"
 
-# translate schinese Lothar_After_River_Trip_5f6a6024:
+translate schinese Lothar_After_River_Trip_5f6a6024:
 
-#     # l "You're not supposed to be strong. How can I protect you otherwise..."
-#     l ""
+    # l "You're not supposed to be strong. How can I protect you otherwise..."
+    l "如果你已经足够强大，还怎么需要我来保护你……"
 
-# translate schinese Lothar_After_River_Trip_186fd7c6:
+translate schinese Lothar_After_River_Trip_186fd7c6:
 
-#     # l "Whatever, time will come when you need me."
-#     l ""
+    # l "Whatever, time will come when you need me."
+    l "罢了，你总有一天得依靠我。"
 
-# translate schinese Lothar_After_River_Trip_d015f1d1:
+translate schinese Lothar_After_River_Trip_d015f1d1:
 
-#     # e "Ok... Lothar."
-#     e ""
+    # e "Ok... Lothar."
+    e "好的……洛萨尔。"
 
-# translate schinese Lothar_Mossy_Artifact_05ce4aa0:
+#任务5
 
-#     # e "Lothar, what are you holding... on your hand?"
-#     e ""
+translate schinese Lothar_Mossy_Artifact_05ce4aa0:
 
-# translate schinese Lothar_Mossy_Artifact_2d7418a6:
+    # e "Lothar, what are you holding... on your hand?"
+    e "洛萨尔，你手里的……是什么东西？"
 
-#     # l "It's an artifact, from my grand mythical adventure through the mysterious jungle of forest last night."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_2d7418a6:
 
-# translate schinese Lothar_Mossy_Artifact_56014ff0:
+    # l "It's an artifact, from my grand mythical adventure through the mysterious jungle of forest last night."
+    l "这可是我昨晚在一座神秘的丛林，历经千辛万苦千难万险才拿到的宝物。"
 
-#     # e "Uhhh... you found it in the green forest?"
-#     e ""
+translate schinese Lothar_Mossy_Artifact_56014ff0:
 
-# translate schinese Lothar_Mossy_Artifact_dff31861:
+    # e "Uhhh... you found it in the green forest?"
+    e "呃……你是说叠翠森林吗？"
 
-#     # l "You're close, it's near the river."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_dff31861:
 
-# translate schinese Lothar_Mossy_Artifact_bc3ff68d:
+    # l "You're close, it's near the river."
+    l "差不多，但更靠近招藓河。"
 
-#     # e "What are you going to do with it?"
-#     e ""
+translate schinese Lothar_Mossy_Artifact_bc3ff68d:
 
-# translate schinese Lothar_Mossy_Artifact_1f853ec9:
+    # e "What are you going to do with it?"
+    e "你要这一块石头做什么？"
 
-#     # l "I'll take it to the pawn shop and get a good price for a few extra beers tonight, of course. Except that I'm not gonna go inside, and it's your chance to help a hero out."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_1f853ec9:
 
-# translate schinese Lothar_Mossy_Artifact_9b07c2ab:
+    # l "I'll take it to the pawn shop and get a good price for a few extra beers tonight, of course. Except that I'm not gonna go inside, and it's your chance to help a hero out."
+    l "当然是把它当个好价钱，晚上多干几杯啤酒。只不过，我可没闲到亲自去办这种小事。难得今天你有一次协助大英雄的机会。"
 
-#     # e "W-What... You want me to sell the stone... for you?"
-#     e ""
+translate schinese Lothar_Mossy_Artifact_9b07c2ab:
 
-# translate schinese Lothar_Mossy_Artifact_fee3cbef:
+    # e "W-What... You want me to sell the stone... for you?"
+    e "什、什么……你要我帮你卖掉这块石头？"
 
-#     # l "Why yes. Just go in and ask that stupid lion to buy it off or something..."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_fee3cbef:
 
-# translate schinese Lothar_Mossy_Artifact_5437776c:
+    # l "Why yes. Just go in and ask that stupid lion to buy it off or something..."
+    l "难道不行吗。你只要走进去，和那只笨猫说要卖东西就行……"
 
-#     # e "...Lothar, I think you should come with me."
-#     e ""
+translate schinese Lothar_Mossy_Artifact_5437776c:
 
-# translate schinese Lothar_Mossy_Artifact_7fdad9eb:
+    # e "...Lothar, I think you should come with me."
+    e "……洛萨尔，你得和我一起去。"
 
-#     # l "What??? Why would I, a hero, listen to an inferior disciple."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_7fdad9eb:
 
-# translate schinese Lothar_Mossy_Artifact_ee5dba89:
+    # l "What??? Why would I, a hero, listen to an inferior disciple."
+    l "为什么？？？我堂堂大英雄，凭什么要听你一个初级学徒的话。"
 
-#     # e "I'm not doing this for you, Lothar. You either go alone or go with me."
-#     e ""
+translate schinese Lothar_Mossy_Artifact_ee5dba89:
 
-# translate schinese Lothar_Mossy_Artifact_32cc3733:
+    # e "I'm not doing this for you, Lothar. You either go alone or go with me."
+    e "我才不要惯着你。你要么自己一个人去，要么和我一起去。"
 
-#     # l "I don't even... need to sell this to the pawn shop. [e], you really disappointed me this time."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_32cc3733:
 
-# translate schinese Lothar_Mossy_Artifact_72a33094:
+    # l "I don't even... need to sell this to the pawn shop. [e], you really disappointed me this time."
+    l "我……不卖也罢。[e]，你这次的表现让我非常失望。"
 
-#     # e "..."
-#     e ""
+translate schinese Lothar_Mossy_Artifact_72a33094:
 
-# translate schinese Lothar_Mossy_Artifact_82822a0c:
+    # e "..."
+    e "……"
 
-#     # l "..."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_82822a0c:
 
-# translate schinese Lothar_Mossy_Artifact_3170c7aa:
+    # l "..."
+    l "……"
 
-#     # "Lothar looks away for a few moments, but you can already see through his witless tantrum. He glances at you for a few time before turning back at you."
-#     ""
+translate schinese Lothar_Mossy_Artifact_3170c7aa:
 
-# translate schinese Lothar_Mossy_Artifact_2e551c38:
+    # "Lothar looks away for a few moments, but you can already see through his witless tantrum. He glances at you for a few time before turning back at you."
+    "洛萨尔气哄哄地撇过脸不想理你，但你早已看穿了他幼稚的把戏。"
+    "对方时不时瞅你一眼，观察你的反应，最终还是摆回头重新看向你。"
 
-#     # l "You... take the lead."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_2e551c38:
 
-# translate schinese Lothar_Mossy_Artifact_89ca8f3c:
+    # l "You... take the lead."
+    l "你……带头。"
 
-#     # e "Good- Lothar."
-#     e ""
+translate schinese Lothar_Mossy_Artifact_89ca8f3c:
 
-# translate schinese Lothar_Mossy_Artifact_4233141d:
+    # e "Good- Lothar."
+    e "乖孩——好的师傅。"
 
-#     # l "...Go before I change my mind and beat you up..."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_4233141d:
 
-# translate schinese Lothar_Mossy_Artifact_3d6c50f8:
+    # l "...Go before I change my mind and beat you up..."
+    l "……快走，趁我还没改变主意扁你一顿……"
 
-#     # "You lead Lothar to the pawn shop, there's no customers for now. You can see the wolf awkwardly peeking through to door before entering, he hides behind you while wagging his tail."
-#     ""
+translate schinese Lothar_Mossy_Artifact_3d6c50f8:
 
-# translate schinese Lothar_Mossy_Artifact_82822a0c_1:
+    # "You lead Lothar to the pawn shop, there's no customers for now. You can see the wolf awkwardly peeking through to door before entering, he hides behind you while wagging his tail."
+    "你率先推门走进当铺，恰巧现在没有其他顾客。洛萨尔则先透过门缝偷偷观察情况，才尴尬地闪了进来，躲在你身后摇着尾巴。"
 
-#     # l "..."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_82822a0c_1:
 
-# translate schinese Lothar_Mossy_Artifact_a2bbbbc1:
+    # l "..."
+    l "……"
 
-#     # s "Go-od... Fuc-"
-#     s ""
+translate schinese Lothar_Mossy_Artifact_a2bbbbc1:
 
-# translate schinese Lothar_Mossy_Artifact_53727b6f:
+    # s "Go-od... Fuc-"
+    s "日……尼玛——"
 
-#     # "Sebas becomes aware of the wolf behind your shorter frame. He is visibly annoyed, almost angry at both of you."
-#     ""
+translate schinese Lothar_Mossy_Artifact_53727b6f:
 
-# translate schinese Lothar_Mossy_Artifact_4f284e49:
+    # "Sebas becomes aware of the wolf behind your shorter frame. He is visibly annoyed, almost angry at both of you."
+    "塞巴斯注意到你身后更大只的灰狼，表情不爽极了，就差当场冲你俩发火。"
 
-#     # s "Lothar."
-#     s ""
+translate schinese Lothar_Mossy_Artifact_4f284e49:
 
-# translate schinese Lothar_Mossy_Artifact_d90b99f6:
+    # s "Lothar."
+    s "洛萨尔。"
 
-#     # l "Lion."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_d90b99f6:
 
-# translate schinese Lothar_Mossy_Artifact_e9a900a1:
+    # l "Lion."
+    l "黄毛。"
 
-#     # s "Why are you here? Did you miss the sign 'No dogs allowed' outside the shop?"
-#     s ""
+translate schinese Lothar_Mossy_Artifact_e9a900a1:
 
-# translate schinese Lothar_Mossy_Artifact_8e6121c9:
+    # s "Why are you here? Did you miss the sign 'No dogs allowed' outside the shop?"
+    s "你干吗闯进来？没看到门口写着“洛萨尔和狗禁止入内”么？"
 
-#     # l "This little friend of yours kept pulling me in, I have little to no interest in visiting your feeble shop."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_8e6121c9:
 
-# translate schinese Lothar_Mossy_Artifact_c06c02be:
+    # l "This little friend of yours kept pulling me in, I have little to no interest in visiting your feeble shop."
+    l "是你这个小朋友硬拉我进来，我才没兴趣光临你寒酸的小店。"
 
-#     # s "Fuck you. Lothar."
-#     s ""
+translate schinese Lothar_Mossy_Artifact_c06c02be:
 
-# translate schinese Lothar_Mossy_Artifact_c95b6c6c:
+    # s "Fuck you. Lothar."
+    s "操翻你，傻狗。"
 
-#     # l "Back at you."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_c95b6c6c:
 
-# translate schinese Lothar_Mossy_Artifact_34dd3e28:
+    # l "Back at you."
+    l "原话奉还。"
 
-#     # e "...I can lend you the bed if you two need-"
-#     e ""
+translate schinese Lothar_Mossy_Artifact_34dd3e28:
 
-# translate schinese Lothar_Mossy_Artifact_c0c91aab:
+    # e "...I can lend you the bed if you two need-"
+    e "……需不要把我的床借给你们——"
 
-#     # l "Look, Lion. I have a better deal here. I've got a stone for that silly little stone collection of yours. We're only here for a little transaction."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_c0c91aab:
 
-# translate schinese Lothar_Mossy_Artifact_297a6adb:
+    # l "Look, Lion. I have a better deal here. I've got a stone for that silly little stone collection of yours. We're only here for a little transaction."
+    l "听着，笨猫。我有个更好的提议。你不是在搞什么垃圾石头收藏吗，我正好有一块卖给你。[e]和我只是来做个小交易。"
 
-#     # s "A transaction huh? Well... A transaction needs a little exchange from both side. And I reckon there's a debt you owed me..."
-#     s ""
+translate schinese Lothar_Mossy_Artifact_297a6adb:
 
-# translate schinese Lothar_Mossy_Artifact_65e123da:
+    # s "A transaction huh? Well... A transaction needs a little exchange from both side. And I reckon there's a debt you owed me..."
+    s "小交易？呵……小交易需要两边交换小代价。而你，还欠我一件事吧……"
 
-#     # l "...Debt?"
-#     l ""
+translate schinese Lothar_Mossy_Artifact_65e123da:
 
-# translate schinese Lothar_Mossy_Artifact_3b467327:
+    # l "...Debt?"
+    l "……我欠你什么？"
 
-#     # s "The kick. You kicked me in the nuts last time, fuck! Let me give you the fucking foot and I'll consider a transaction between us."
-#     s ""
+translate schinese Lothar_Mossy_Artifact_3b467327:
 
-# translate schinese Lothar_Mossy_Artifact_df0db928:
+    # s "The kick. You kicked me in the nuts last time, fuck! Let me give you the fucking foot and I'll consider a transaction between us."
+    s "那一脚。你上次搞得我现在下面还疼，操！让我以蛋还蛋踢回你，没准我会考虑考虑你的小交易。"
 
-#     # l "No way... I'm not- There's no way you're going to touch me anywhere, let alone kick."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_df0db928:
 
-# translate schinese Lothar_Mossy_Artifact_a9009154:
+    # l "No way... I'm not- There's no way you're going to touch me anywhere, let alone kick."
+    l "不可能……我才不会——你休想动我一根寒毛，更别说踢我那里了。"
 
-#     # e "Wait... Are you sure... we're doing it here?"
-#     e ""
+translate schinese Lothar_Mossy_Artifact_a9009154:
 
-# translate schinese Lothar_Mossy_Artifact_291da2d6:
+    # e "Wait... Are you sure... we're doing it here?"
+    e "等等……塞巴斯你确定……要在这里解决吗？"
 
-#     # s "Yes, Lothar. Be a man and accept the consequence of your action."
-#     s ""
+translate schinese Lothar_Mossy_Artifact_291da2d6:
 
-# translate schinese Lothar_Mossy_Artifact_5292f9d9:
+    # s "Yes, Lothar. Be a man and accept the consequence of your action."
+    s "没错，[e]。喂，洛萨尔，你能不能像个男人对自己的行为负责。"
 
-#     # l "I've told you... No! Go fuck yourself, lion."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_5292f9d9:
 
-# translate schinese Lothar_Mossy_Artifact_0f70ec66:
+    # l "I've told you... No! Go fuck yourself, lion."
+    l "我已经告诉过你……不可能！自个玩蛋去吧，笨猫。"
 
-#     # s "Alright, if you don't want to do it the right way. Let's go ask [e], he knows what's right and what's wrong."
-#     s ""
+translate schinese Lothar_Mossy_Artifact_0f70ec66:
 
-# translate schinese Lothar_Mossy_Artifact_45e550c7:
+    # s "Alright, if you don't want to do it the right way. Let's go ask [e], he knows what's right and what's wrong."
+    s "没问题，既然你不讲公道。就让[e]为我们主持公道。"
 
-#     # e "What... me?"
-#     e ""
+translate schinese Lothar_Mossy_Artifact_45e550c7:
 
-# translate schinese Lothar_Mossy_Artifact_287058b3:
+    # e "What... me?"
+    e "啊……我？"
 
-#     # s "Yeah, buddy. Make the call. Give me the go ahead and I'll make him taste the lion legs."
-#     s ""
+translate schinese Lothar_Mossy_Artifact_287058b3:
 
-# translate schinese Lothar_Mossy_Artifact_94aa9ef1:
+    # s "Yeah, buddy. Make the call. Give me the go ahead and I'll make him taste the lion legs."
+    s "没错，老铁。你来决定。就让他尝尝我的雄狮霹雳旋风踢吧！"
 
-#     # l "Disciple, I highly advise you not to trust the lion's words. There will be consequences, for both of you. For real. Don't."
-#     l ""
+translate schinese Lothar_Mossy_Artifact_94aa9ef1:
 
-# translate schinese Lothar_Mossy_Artifact_fc04e7eb:
+    # l "Disciple, I highly advise you not to trust the lion's words. There will be consequences, for both of you. For real. Don't."
+    l "徒弟，我劝你别信这只笨猫的鬼话。不然你们两个都没有好果子吃。我是认真的。塞巴斯，你想都别想。"
 
-#     # s "What do you think, you want to punish this arrogant wolf for so long, right? It's time to teach him a lesson." nointeract
-#     s "" nointeract
+translate schinese Lothar_Mossy_Artifact_fc04e7eb:
 
-# translate schinese Lothar_Sebas_Kick_No_ae0bd0e2:
+    # s "What do you think, you want to punish this arrogant wolf for so long, right? It's time to teach him a lesson." nointeract
+    s "[e]，你也忍这只臭脾气的傻狗很久了不是吗？现在正是教训他的好时候。" nointeract
 
-#     # e "No... I think Lothar's had enough."
-#     e ""
+translate schinese strings:
 
-# translate schinese Lothar_Sebas_Kick_No_28267ae2:
+    old "Let Sebas kick Lothar in the balls"
+    new "表示同意"
 
-#     # s "[e], I thought you had my back on this one..."
-#     s ""
+    old "Do not let him kick Lothar"
+    new "出手制止"
 
-# translate schinese Lothar_Sebas_Kick_No_30b65501:
+#不踢
 
-#     # l "Ha, I know my disciple won't betray me for some scruffy lion."
-#     l ""
+translate schinese Lothar_Sebas_Kick_No_ae0bd0e2:
 
-# translate schinese Lothar_Sebas_Kick_No_fe9e6566:
+    # e "No... I think Lothar's had enough."
+    e "还是别吧……洛萨尔已经尝过苦头了。"
 
-#     # s "Look, don't you look so smug now, if I see you alone next time, you'll be sure your nuts are gonna get fucking cracked."
-#     s ""
+translate schinese Lothar_Sebas_Kick_No_28267ae2:
 
-# translate schinese Lothar_Sebas_Kick_No_15215ee7:
+    # s "[e], I thought you had my back on this one..."
+    s "[e]，我以为这次你会站我这边……"
 
-#     # l "You seem to really want another kick in the nuts, don't you."
-#     l ""
+translate schinese Lothar_Sebas_Kick_No_30b65501:
 
-# translate schinese Lothar_Sebas_Kick_No_b32c6046:
+    # l "Ha, I know my disciple won't betray me for some scruffy lion."
+    l "哈，我就知道我的乖徒不会为了一只疯猫子背叛我。"
 
-#     # s "Don't you fucking dare."
-#     s ""
+translate schinese Lothar_Sebas_Kick_No_fe9e6566:
 
-# translate schinese Lothar_Sebas_Kick_No_c5c6c9e5:
+    # s "Look, don't you look so smug now, if I see you alone next time, you'll be sure your nuts are gonna get fucking cracked."
+    s "喂，别得意太早。要是下回我碰见你独处，我绝对会让你断子绝孙。"
 
-#     # e "Hey, you two. Stop with the kick in the nuts thing..."
-#     e ""
+translate schinese Lothar_Sebas_Kick_No_15215ee7:
 
-# translate schinese Lothar_Sebas_Kick_No_aa850409:
+    # l "You seem to really want another kick in the nuts, don't you."
+    l "你怕不是想被我再踢一脚，左右对称吧？"
 
-#     # l "Ask him to stop squirming like a little girl when I kicked him last time."
-#     l ""
+translate schinese Lothar_Sebas_Kick_No_b32c6046:
 
-# translate schinese Lothar_Sebas_Kick_No_e1554201:
+    # s "Don't you fucking dare."
+    s "你敢动我试试。"
 
-#     # s "..."
-#     s ""
+translate schinese Lothar_Sebas_Kick_No_c5c6c9e5:
 
-# translate schinese Lothar_Sebas_Kick_No_dfc4bbcd:
+    # e "Hey, you two. Stop with the kick in the nuts thing..."
+    e "嘿，别吵了，这个话题就让它过去吧……"
 
-#     # l "Here's the stone, lion."
-#     l ""
+translate schinese Lothar_Sebas_Kick_No_aa850409:
 
-# translate schinese Lothar_Sebas_Kick_No_1dd30a8e:
+    # l "Ask him to stop squirming like a little girl when I kicked him last time."
+    l "你先让他别在我轻轻踢了他一脚后，就扭来扭去像个小女孩一样。"
 
-#     # "Seb takes the artifact away from Lothar's hand. Examining it with his tools."
-#     ""
+translate schinese Lothar_Sebas_Kick_No_e1554201:
 
-# translate schinese Lothar_Sebas_Kick_No_e5ac6eed:
+    # s "..."
+    s "……"
 
-#     # s "Look at this, this stone... it's organic."
-#     s ""
+translate schinese Lothar_Sebas_Kick_No_dfc4bbcd:
 
-# translate schinese Lothar_Sebas_Kick_No_6b0db38f:
+    # l "Here's the stone, lion."
+    l "帮我看看这块石头吧，黄毛狮子。"
 
-#     # e "What does it mean? Isn't organic the opposite of stones?"
-#     e ""
+translate schinese Lothar_Sebas_Kick_No_1dd30a8e:
 
-# translate schinese Lothar_Sebas_Kick_No_b3b9c0e8:
+    # "Seb takes the artifact away from Lothar's hand. Examining it with his tools."
+    "塞巴斯从灰狼手中接过石头，拿出工具开始检查。"
 
-#     # s "Hmm..."
-#     s ""
+translate schinese Lothar_Sebas_Kick_No_e5ac6eed:
 
-# translate schinese Lothar_Sebas_Kick_No_c9e60a92:
+    # s "Look at this, this stone... it's organic."
+    s "不可思议，这块石头……是有生命的。"
 
-#     # l "What? Is there some problem?"
-#     l ""
+translate schinese Lothar_Sebas_Kick_No_6b0db38f:
 
-# translate schinese Lothar_Sebas_Kick_No_aaeb98a4:
+    # e "What does it mean? Isn't organic the opposite of stones?"
+    e "什么意思？石头不都是死物吗？"
 
-#     # s "Where did you find it, Lothar?"
-#     s ""
+translate schinese Lothar_Sebas_Kick_No_b3b9c0e8:
 
-# translate schinese Lothar_Sebas_Kick_No_953e925d:
+    # s "Hmm..."
+    s "唔……"
 
-#     # l "The river with moss. You know where it is. The place Ole used to make moss soup."
-#     l ""
+translate schinese Lothar_Sebas_Kick_No_c9e60a92:
 
-# translate schinese Lothar_Sebas_Kick_No_3252926f:
+    # l "What? Is there some problem?"
+    l "怎么了？有什么问题吗？"
 
-#     # e "Moss Soup? Does it ta-"
-#     e ""
+translate schinese Lothar_Sebas_Kick_No_aaeb98a4:
 
-# translate schinese Lothar_Sebas_Kick_No_b79910e6:
+    # s "Where did you find it, Lothar?"
+    s "你在哪发现这个的？"
 
-#     # s "Yeah alright. We'll need to go there to find out its origin. Seems a little weird to me."
-#     s ""
+translate schinese Lothar_Sebas_Kick_No_953e925d:
 
-# translate schinese Lothar_Sebas_Kick_No_e2f2bee0:
+    # l "The river with moss. You know where it is. The place Ole used to make moss soup."
+    l "招藓河，就是平常奥利煮苔藓汤的地方，你知道在哪。"
 
-#     # "You feel a little embarrassed to get cut off by Sebas. He seems a little more irritated than usual, which is more or less justified, but it still doesn't sit well with you..."
-#     ""
+translate schinese Lothar_Sebas_Kick_No_3252926f:
 
-# translate schinese Lothar_Sebas_Kick_No_bbb31b08:
+    # e "Moss Soup? Does it ta-"
+    e "苔藓汤？这能喝——"
 
-#     # l "Alright then. I'll go with you to see. I know exactly where I found it."
-#     l ""
+translate schinese Lothar_Sebas_Kick_No_b79910e6:
 
-# translate schinese Lothar_Sebas_Kick_No_1a81f4a2:
+    # s "Yeah alright. We'll need to go there to find out its origin. Seems a little weird to me."
+    s "我知道，但我们得找出这块石头到底是从哪来的。森林里会有这种东西不太对劲。"
 
-#     # s "Yeah..."
-#     s ""
+translate schinese Lothar_Sebas_Kick_No_e2f2bee0:
 
-# translate schinese Lothar_Sebas_Kick_No_82831443:
+    # "You feel a little embarrassed to get cut off by Sebas. He seems a little more irritated than usual, which is more or less justified, but it still doesn't sit well with you..."
+    "塞巴斯打断了你的发言，直接得令你有点尴尬。虽然你知道为什么，但心里还是感觉闷闷的……"
 
-#     # s "[e], you wanna tag along?"
-#     s ""
+translate schinese Lothar_Sebas_Kick_No_bbb31b08:
 
-# translate schinese Lothar_Sebas_Kick_No_6558155b:
+    # l "Alright then. I'll go with you to see. I know exactly where I found it."
+    l "成，我和你一起去。我记得具体的地点。"
 
-#     # e "Hmm... Ok."
-#     e ""
+translate schinese Lothar_Sebas_Kick_No_1a81f4a2:
 
-# translate schinese Lothar_Sebas_Kick_No_4437d14e:
+    # s "Yeah..."
+    s "嗯……"
 
-#     # s "Alrighty, then we'll get ready for tomorrow! I'll see you two here."
-#     s ""
+translate schinese Lothar_Sebas_Kick_No_82831443:
 
-# translate schinese Lothar_Sebas_Kick_Yes_655355ea:
+    # s "[e], you wanna tag along?"
+    s "[e]，你要来吗？"
 
-#     # e "I think you should take the revenge, Seb. Let's do it."
-#     e ""
+translate schinese Lothar_Sebas_Kick_No_6558155b:
 
-# translate schinese Lothar_Sebas_Kick_Yes_427f03db:
+    # e "Hmm... Ok."
+    e "……好啊。"
 
-#     # l "Y-You two morons. I'll... I'll beat you two to the pulp you hear me!"
-#     l ""
+translate schinese Lothar_Sebas_Kick_No_4437d14e:
 
-# translate schinese Lothar_Sebas_Kick_Yes_a0ec2b92:
+    # s "Alrighty, then we'll get ready for tomorrow! I'll see you two here."
+    s "行，我们明天出发！先在这里集合。"
 
-#     # "Lothar slowly backs away. Only to see Sebas walks behind him without speaking a single word. He locks the door and flips the sign to Closed, then walks back to look at Lothar again."
-#     ""
+#踢
 
-# translate schinese Lothar_Sebas_Kick_Yes_90caff68:
+translate schinese Lothar_Sebas_Kick_Yes_655355ea:
 
-#     # l "D-don't you two... touch me... I'll scream. I'll let everyone know about this."
-#     l ""
+    # e "I think you should take the revenge, Seb. Let's do it."
+    e "此冤不报，更待何时。上吧，阿塞。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_b8750c0b:
+translate schinese Lothar_Sebas_Kick_Yes_427f03db:
 
-#     # s "Scream. No one will hear you now, silly wolf. Accept your fate now."
-#     s ""
+    # l "Y-You two morons. I'll... I'll beat you two to the pulp you hear me!"
+    l "你、你们两个大傻逼。我会把你们都揍得……揍得连你妈都不认识，听见了吗！"
 
-# translate schinese Lothar_Sebas_Kick_Yes_827fc35a:
+translate schinese Lothar_Sebas_Kick_Yes_a0ec2b92:
 
-#     # l "Let me go!"
-#     l ""
+    # "Lothar slowly backs away. Only to see Sebas walks behind him without speaking a single word. He locks the door and flips the sign to Closed, then walks back to look at Lothar again."
+    "洛萨尔慢慢后退妄图逃跑。而塞巴斯二话不说，快步前去反锁店门，翻转出打烊的牌子。"
+    "雄狮直勾勾盯着落水狗，一步一步将他逼回原位。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_c2e95d2f:
+translate schinese Lothar_Sebas_Kick_Yes_90caff68:
 
-#     # e "It will be over soon."
-#     e ""
+    # l "D-don't you two... touch me... I'll scream. I'll let everyone know about this."
+    l "你们……别想碰我……但凡我大喊一声，整个村子都会知道你们的暴行。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_0d014ad0:
+translate schinese Lothar_Sebas_Kick_Yes_b8750c0b:
 
-#     # s "Yeah. Don't worry, I'll take care of you and your nuts very nicely."
-#     s ""
+    # s "Scream. No one will hear you now, silly wolf. Accept your fate now."
+    s "你尽管狗叫，现在没人能听得见。接受你的命运吧。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_747e1bd8:
+translate schinese Lothar_Sebas_Kick_Yes_827fc35a:
 
-#     # l "You... betrayed me, disciple."
-#     l ""
+    # l "Let me go!"
+    l "让我走！"
 
-# translate schinese Lothar_Sebas_Kick_Yes_11c54cf2:
+translate schinese Lothar_Sebas_Kick_Yes_c2e95d2f:
 
-#     # s "[e] did the right thing. Now, why don't you come closer."
-#     s ""
+    # e "It will be over soon."
+    e "很快就结束了。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_ab4b4712:
+translate schinese Lothar_Sebas_Kick_Yes_0d014ad0:
 
-#     # "Sebas yanks Lothar towards him, the wolf is squirming undeaneath his legs as the lion barely touches him."
-#     ""
+    # s "Yeah. Don't worry, I'll take care of you and your nuts very nicely."
+    s "没错，别担心，我会全心全意照顾好你的蛋蛋。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_3e74ca8f:
+translate schinese Lothar_Sebas_Kick_Yes_747e1bd8:
 
-#     # l "Let me go now, and I might be able to forget this, lion."
-#     l ""
+    # l "You... betrayed me, disciple."
+    l "下等学徒，你……背叛了我。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_b8795bc9:
+translate schinese Lothar_Sebas_Kick_Yes_11c54cf2:
 
-#     # "The lion didn't respond, only practising his kick for a few times while warming up himself..."
-#     ""
+    # s "[e] did the right thing. Now, why don't you come closer."
+    s "[e]做出了正确的选择。至于你洛萨尔，这么怕我干吗，来，过来。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_38e56c36:
+translate schinese Lothar_Sebas_Kick_Yes_ab4b4712:
 
-#     # s "You might want to prepare your balls, it's gonna hurt a lot."
-#     s ""
+    # "Sebas yanks Lothar towards him, the wolf is squirming undeaneath his legs as the lion barely touches him."
+    "塞巴斯一把将洛萨尔身子摆正。还没怎么动他，洛萨尔的腿就已经在抖了。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_0080c1cf:
+translate schinese Lothar_Sebas_Kick_Yes_3e74ca8f:
 
-#     # l "W-what...? I... Y-You. Don't you dare..."
-#     l ""
+    # l "Let me go now, and I might be able to forget this, lion."
+    l "现在放我走，我可以不计较这件事。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_db982fad:
+translate schinese Lothar_Sebas_Kick_Yes_b8795bc9:
 
-#     # "You take a seat at the corner of the shop, spectating the legendary kick between the lion and the wolf. Sebas is ready now."
-#     ""
+    # "The lion didn't respond, only practising his kick for a few times while warming up himself..."
+    "胜者没有义务搭理败者的请求。塞巴斯对着半空练习弹腿，做着热身运动……"
 
-# translate schinese Lothar_Sebas_Kick_Yes_6c201510:
+translate schinese Lothar_Sebas_Kick_Yes_38e56c36:
 
-#     # s "Three."
-#     s ""
+    # s "You might want to prepare your balls, it's gonna hurt a lot."
+    s "我建议你先做好心理准备，可别待会疼得掉眼泪了。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_a49632d4:
+translate schinese Lothar_Sebas_Kick_Yes_0080c1cf:
 
-#     # l "No..."
-#     l ""
+    # l "W-what...? I... Y-You. Don't you dare..."
+    l "什、什么……？我……你会后悔的……"
 
-# translate schinese Lothar_Sebas_Kick_Yes_220e6d49:
+translate schinese Lothar_Sebas_Kick_Yes_db982fad:
 
-#     # s "Two..."
-#     s ""
+    # "You take a seat at the corner of the shop, spectating the legendary kick between the lion and the wolf. Sebas is ready now."
+    "你找了张椅子坐在角落。塞巴斯热身完毕，蛋破天惊的绝顶好戏即将上演。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_47f0f6e6:
+translate schinese Lothar_Sebas_Kick_Yes_6c201510:
 
-#     # l "I'll kill you..."
-#     l ""
+    # s "Three."
+    s "三。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_cc0b2013:
+translate schinese Lothar_Sebas_Kick_Yes_a49632d4:
 
-#     # s "O-"
-#     s ""
+    # l "No..."
+    l "住脚……"
 
-# translate schinese Lothar_Sebas_Kick_Yes_5b3442bd:
+translate schinese Lothar_Sebas_Kick_Yes_220e6d49:
 
-#     # l "aaaa-"
-#     l ""
+    # s "Two..."
+    s "二。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_a906839e:
+translate schinese Lothar_Sebas_Kick_Yes_47f0f6e6:
 
-#     # "For the first time you hear Lothar's slightly high-pitched scream, it sounds almost like a kid's voice."
-#     ""
+    # l "I'll kill you..."
+    l "我要杀了你……"
 
-# translate schinese Lothar_Sebas_Kick_Yes_b95f7847:
+translate schinese Lothar_Sebas_Kick_Yes_cc0b2013:
 
-#     # s "What, I didn't even kick you yet."
-#     s ""
+    # s "O-"
+    s "一。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_b89c99bc:
+translate schinese Lothar_Sebas_Kick_Yes_5b3442bd:
 
-#     # l "You scared me, lion..."
-#     l ""
+    # l "aaaa-"
+    l "啊啊啊啊——"
 
-# translate schinese Lothar_Sebas_Kick_Yes_cc1a3f3c:
+translate schinese Lothar_Sebas_Kick_Yes_a906839e:
 
-#     # s "Whatever, three."
-#     s ""
+    # "For the first time you hear Lothar's slightly high-pitched scream, it sounds almost like a kid's voice."
+    "你第一次听见洛萨尔发出如此尖锐的叫声，犹如小孩子的哭喊。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_79a11617:
+translate schinese Lothar_Sebas_Kick_Yes_b95f7847:
 
-#     # s "Two."
-#     s ""
+    # s "What, I didn't even kick you yet."
+    s "喂，我还没出招呢。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_7647f29f:
+translate schinese Lothar_Sebas_Kick_Yes_b89c99bc:
 
-#     # s "One."
-#     s ""
+    # l "You scared me, lion..."
+    l "吓死我了，笨猫……"
 
-# translate schinese Lothar_Sebas_Kick_Yes_470ca797:
+translate schinese Lothar_Sebas_Kick_Yes_cc1a3f3c:
 
-#     # "Sebas shove his foot right between Lothar's legs."
-#     ""
+    # s "Whatever, three."
+    s "嘿嘿，三。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_7d6dbf5f:
+translate schinese Lothar_Sebas_Kick_Yes_79a11617:
 
-#     # "You hear a loud thump spread through the shop, followed with Lothar gripping at his own crotch."
-#     ""
+    # s "Two."
+    s "二。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_3f3ba147:
+translate schinese Lothar_Sebas_Kick_Yes_7647f29f:
 
-#     # "His anguished face and furrowed brows make it seem much more painful than it is."
-#     ""
+    # s "One."
+    s "一。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_5c6fb6c9:
+translate schinese Lothar_Sebas_Kick_Yes_470ca797:
 
-#     # "Lothar's body writhes with agony, he slowly kneel on the ground before slumping over, still holding onto his crotch."
-#     ""
+    # "Sebas shove his foot right between Lothar's legs."
+    "塞巴斯抬腿如风，正中洛萨尔两腿间的要害。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_e82b8872:
+translate schinese Lothar_Sebas_Kick_Yes_7d6dbf5f:
 
-#     # e "Is this what you two do in your free time? Kicking each other in the balls..."
-#     e ""
+    # "You hear a loud thump spread through the shop, followed with Lothar gripping at his own crotch."
+    "砰，剧烈的撞击声响彻当铺，洛萨尔随即紧紧捂住了裤裆。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_25d1bf05:
+translate schinese Lothar_Sebas_Kick_Yes_3f3ba147:
 
-#     # s "Hey, you wanted to see it too. Also, it's him who kicked me first."
-#     s ""
+    # "His anguished face and furrowed brows make it seem much more painful than it is."
+    "他面容扭曲，即使可能没那么痛，看起来也够痛了。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_6d59540b:
+translate schinese Lothar_Sebas_Kick_Yes_5c6fb6c9:
 
-#     # l "M-mommy... h-help..."
-#     l ""
+    # "Lothar's body writhes with agony, he slowly kneel on the ground before slumping over, still holding onto his crotch."
+    "洛萨尔夹紧双腿，如同抽搐般抖动着。他慢慢双膝跪地，扑通一声倒了下去，双手死死捂着下体没有放开。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_72a33094:
+translate schinese Lothar_Sebas_Kick_Yes_e82b8872:
 
-#     # e "..."
-#     e ""
+    # e "Is this what you two do in your free time? Kicking each other in the balls..."
+    e "难道这就是你们平常的交流方式吗？互相爆蛋……"
 
-# translate schinese Lothar_Sebas_Kick_Yes_d16184ce:
+translate schinese Lothar_Sebas_Kick_Yes_25d1bf05:
 
-#     # s "He's fine. His kick is way worse than mine. I just slightly raised my feet."
-#     s ""
+    # s "Hey, you wanted to see it too. Also, it's him who kicked me first."
+    s "嘿，你不也看得正欢。再说了，是他先踢我的。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_4c3cbebd:
+translate schinese Lothar_Sebas_Kick_Yes_6d59540b:
 
-#     # "You and Sebas stays for a few minutes while Lothar is groaning on the ground, almost out of air."
-#     ""
+    # l "M-mommy... h-help..."
+    l "妈妈……救我……"
 
-# translate schinese Lothar_Sebas_Kick_Yes_08496ef7:
+translate schinese Lothar_Sebas_Kick_Yes_72a33094:
 
-#     # l "My balls... it's... g---one. aaaaa-a..."
-#     l ""
+    # e "..."
+    e "……"
 
-# translate schinese Lothar_Sebas_Kick_Yes_61b9f1e9:
+translate schinese Lothar_Sebas_Kick_Yes_d16184ce:
 
-#     # "Sebas kicks the wolf one more time, he doesn't seem to respond, so the lion takes the artifact to his counter. Examining it with his tools."
-#     ""
+    # s "He's fine. His kick is way worse than mine. I just slightly raised my feet."
+    s "他没事，我只是轻轻抬了一下腿。他踢我的那脚可狠毒多了。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_21c9c6b2:
+translate schinese Lothar_Sebas_Kick_Yes_4c3cbebd:
 
-#     # s "[e]. Look at this, this stone... it's organic."
-#     s ""
+    # "You and Sebas stays for a few minutes while Lothar is groaning on the ground, almost out of air."
+    "你和塞巴斯观赏着洛萨尔挣扎的模样，他变换着声调不停呻吟，像要断了气似的。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_6b0db38f:
+translate schinese Lothar_Sebas_Kick_Yes_08496ef7:
 
-#     # e "What does it mean? Isn't organic the opposite of stones?"
-#     e ""
+    # l "My balls... it's... g---one. aaaaa-a..."
+    l "我传宗接代的宝贝……没……没了。啊啊啊啊啊……"
 
-# translate schinese Lothar_Sebas_Kick_Yes_161b885f:
+translate schinese Lothar_Sebas_Kick_Yes_61b9f1e9:
 
-#     # s "Well... Where did you found it, wolf?"
-#     s ""
+    # "Sebas kicks the wolf one more time, he doesn't seem to respond, so the lion takes the artifact to his counter. Examining it with his tools."
+    "塞巴斯用脚点了点洛萨尔，但后者没有任何回应。于是塞巴斯主动拿起石头放到了柜台上开始检查。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_ccd04188:
+translate schinese Lothar_Sebas_Kick_Yes_21c9c6b2:
 
-#     # l "S-save.... m-me..."
-#     l ""
+    # s "[e]. Look at this, this stone... it's organic."
+    s "[e]，你看，这块石头……是有生命的。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_15b21cb3:
+translate schinese Lothar_Sebas_Kick_Yes_6b0db38f:
 
-#     # e "He said it's from the river, nearby the forest I think?"
-#     e ""
+    # e "What does it mean? Isn't organic the opposite of stones?"
+    e "什么意思？石头不都是死物吗？"
 
-# translate schinese Lothar_Sebas_Kick_Yes_1ef5aac0:
+translate schinese Lothar_Sebas_Kick_Yes_161b885f:
 
-#     # s "Hey, I know where it is, its condition is really exclusively damp."
-#     s ""
+    # s "Well... Where did you found it, wolf?"
+    s "喂……傻狗，你在哪捡到这块石头的？"
 
-# translate schinese Lothar_Sebas_Kick_Yes_9abeb30b:
+translate schinese Lothar_Sebas_Kick_Yes_ccd04188:
 
-#     # s "We might need to go back there, this is really unusual."
-#     s ""
+    # l "S-save.... m-me..."
+    l "救……救命……"
 
-# translate schinese Lothar_Sebas_Kick_Yes_f9fc7264:
+translate schinese Lothar_Sebas_Kick_Yes_15b21cb3:
 
-#     # l "J-just give me back the stone, the transaction is cancelled."
-#     l ""
+    # e "He said it's from the river, nearby the forest I think?"
+    e "他好像说是在靠近河边的森林里捡到的。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_0c7e266a:
+translate schinese Lothar_Sebas_Kick_Yes_1ef5aac0:
 
-#     # s "No I don't think so. It's on my hand now anyways. So, buddy, wanna go on an expedition with me?"
-#     s ""
+    # s "Hey, I know where it is, its condition is really exclusively damp."
+    s "噢，我知道那里，那里湿气特别重。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_f3f663f6:
+translate schinese Lothar_Sebas_Kick_Yes_9abeb30b:
 
-#     # e "Uhhh... Alright."
-#     e ""
+    # s "We might need to go back there, this is really unusual."
+    s "我想我们得亲自去那里一趟，森林里会有这种石头太奇怪了。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_4ba0b084:
+translate schinese Lothar_Sebas_Kick_Yes_f9fc7264:
 
-#     # l "Wait, I'm g-going with you then."
-#     l ""
+    # l "J-just give me back the stone, the transaction is cancelled."
+    l "把、把石头还给我，交易取消。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_900cab52:
+translate schinese Lothar_Sebas_Kick_Yes_0c7e266a:
 
-#     # s "Then we'll go tomorrow. Let Lothar lie here a little bit."
-#     s ""
+    # s "No I don't think so. It's on my hand now anyways. So, buddy, wanna go on an expedition with me?"
+    s "不行，这块石头在我手里就是我的。所以，[e]，想和我来场小冒险吗？"
 
-# translate schinese Lothar_Sebas_Kick_Yes_5f0d666f:
+translate schinese Lothar_Sebas_Kick_Yes_f3f663f6:
 
-#     # e "Seb, are you going to leave him there?"
-#     e ""
+    # e "Uhhh... Alright."
+    e "呃……好啊。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_74fe3b06:
+translate schinese Lothar_Sebas_Kick_Yes_4ba0b084:
 
-#     # s "I'll ask Ole to take care of his... balls."
-#     s ""
+    # l "Wait, I'm g-going with you then."
+    l "等等，我也要去。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_82822a0c:
+translate schinese Lothar_Sebas_Kick_Yes_900cab52:
 
-#     # l "..."
-#     l ""
+    # s "Then we'll go tomorrow. Let Lothar lie here a little bit."
+    s "那我们明天出发。先好好自我反省一下吧你。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_72a33094_1:
+translate schinese Lothar_Sebas_Kick_Yes_5f0d666f:
 
-#     # e "..."
-#     e ""
+    # e "Seb, are you going to leave him there?"
+    e "阿塞，你就让他躺在这不管了？"
 
-# translate schinese Lothar_Sebas_Kick_Yes_4d71af07:
+translate schinese Lothar_Sebas_Kick_Yes_74fe3b06:
 
-#     # s "Ointment, [e]. If you think of dirty things I'll take you to my room."
-#     s ""
+    # s "I'll ask Ole to take care of his... balls."
+    s "我会让奥利照顾他的……蛋蛋的。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_27a1a890:
+translate schinese Lothar_Sebas_Kick_Yes_82822a0c:
 
-#     # e "Uh... What were you thinking..."
-#     e ""
+    # l "..."
+    l "……"
 
-# translate schinese Lothar_Sebas_Kick_Yes_14dfc29c:
+translate schinese Lothar_Sebas_Kick_Yes_72a33094_1:
 
-#     # s "What do you think I'm thinking?"
-#     s ""
+    # e "..."
+    e "……"
 
-# translate schinese Lothar_Sebas_Kick_Yes_d9454af6:
+translate schinese Lothar_Sebas_Kick_Yes_4d71af07:
 
-#     # e "I don't mind though."
-#     e ""
+    # s "Ointment, [e]. If you think of dirty things I'll take you to my room."
+    s "是让奥利配制药膏啦，[e]。如果你在想不纯洁的事情，我就要把你关到我的房间制裁唷。"
 
-# translate schinese Lothar_Sebas_Kick_Yes_bcc41471:
+translate schinese Lothar_Sebas_Kick_Yes_27a1a890:
 
-#     # s "Hehe. Maybe after my work, you impatient little guy."
-#     s ""
+    # e "Uh... What were you thinking..."
+    e "呃……你怎么想到那块去了……"
+
+translate schinese Lothar_Sebas_Kick_Yes_14dfc29c:
+
+    # s "What do you think I'm thinking?"
+    s "你说说看，我想到哪块去了？"
+
+translate schinese Lothar_Sebas_Kick_Yes_d9454af6:
+
+    # e "I don't mind though."
+    e "无所谓，哪块我都不会介意。"
+
+translate schinese Lothar_Sebas_Kick_Yes_bcc41471:
+
+    # s "Hehe. Maybe after my work, you impatient little guy."
+    s "嘿嘿，等我下班再说吧，心急的小老弟。"
 
 #任务4
 

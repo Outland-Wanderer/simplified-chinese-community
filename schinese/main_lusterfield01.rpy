@@ -295,8 +295,8 @@ translate schinese strings:
     old "Report to Postal Training"
     new "报告邮递员培训的完成情况"
 
-    # old "Go to the river with Sebas and Lothar"
-    # new "与塞巴斯、洛萨尔一同前往招藓河"
+    old "Go to the river with Sebas and Lothar"
+    new "与塞巴斯和洛萨尔一同前往招藓河"
 
     # old "Ask to relieve his stress at work"
     # new "提议帮忙舒散工作压力"
@@ -1892,7 +1892,7 @@ translate schinese Sebas_Expedition_472ce726:
 translate schinese Sebas_Expedition_623ac400:
 
     # "The lion's joyful adventure in the green forest was brought to a halt, he freezes for a second before turning back to you."
-    "你一吼，掐下了愉悦郊游的暂停键，把黄毛狮子瞬间定住。几秒钟后，他才解冻转身面向你。"
+    "你一吼，掐下愉悦郊游的暂停键，将黄毛狮子瞬间定住。几秒钟后，他才解了冻转身面向你。"
 
 translate schinese Sebas_Expedition_cac0f1e7:
 
@@ -2121,885 +2121,923 @@ translate schinese Sebas_Ask_Lusterfield_People_62030927:
     # s "No problem, my [e]."
     s "不客气，我的好室友。"
 
-# translate schinese Sebas_Lothar_Adventure_d6a6b535:
+#任务5
 
-#     # e "Sebas, are we going to the river today?"
-#     e ""
+translate schinese Sebas_Lothar_Adventure_d6a6b535:
 
-# translate schinese Sebas_Lothar_Adventure_2ffcb859:
+    # e "Sebas, are we going to the river today?"
+    e "阿塞，我们今天要去河边吗？"
 
-#     # s "Well it all depends on you buddy, are you ready?" nointeract
-#     s "" nointeract
+translate schinese Sebas_Lothar_Adventure_2ffcb859:
 
-# translate schinese Sebas_Lothar_Adventure_6a1fc445:
+    # s "Well it all depends on you buddy, are you ready?" nointeract
+    s "主要看你现在方不方便，嗯？" nointeract
 
-#     # e "Yeah! I'm ready!"
-#     e ""
+# translate schinese strings:
 
-# translate schinese Sebas_Lothar_Adventure_45c15df6:
+#     old "Yes"
+#     new "表示你准备好了"
 
-#     # s "Sure... Then, Let's go."
-#     s ""
+#     old "No"
+#     new "表示你还没准备好"
 
-# translate schinese Sebas_Lothar_Adventure_4324853b:
+translate schinese Sebas_Lothar_Adventure_6a1fc445:
 
-#     # e "No... I think I forgot about something else..."
-#     e ""
+    # e "Yeah! I'm ready!"
+    e "方便！我已经准备好了！"
 
-# translate schinese Sebas_Lothar_Adventure_47f5f487:
+translate schinese Sebas_Lothar_Adventure_45c15df6:
 
-#     # s "Take your precious time, mister [e]."
-#     s ""
+    # s "Sure... Then, Let's go."
+    s "好的……那我们出发吧。"
 
-# translate schinese Sebas_Lothar_Adventure_4d050774:
+translate schinese Sebas_Lothar_Adventure_4324853b:
 
-#     # e "Oh.. Seb, where's Ole."
-#     e ""
+    # e "No... I think I forgot about something else..."
+    e "我突然想起还有件要紧的事要做……"
 
-# translate schinese Sebas_Lothar_Adventure_4ed2b650:
+translate schinese Sebas_Lothar_Adventure_47f5f487:
 
-#     # s "I told him to take care of the shop. You know, I'm not going to let customers leave the shop disappointed."
-#     s ""
+    # s "Take your precious time, mister [e]."
+    s "悉听尊便，[e]先生。"
 
-# translate schinese Sebas_Lothar_Adventure_aec509d8:
+translate schinese Sebas_Lothar_Adventure_4d050774:
 
-#     # o "Or so you've heard. Kiddo, take care of Seb right here okay. I don't want him to lose an eyeball out there in the forest."
-#     o ""
+    # e "Oh.. Seb, where's Ole."
+    e "诶……奥利呢？"
 
-# translate schinese Sebas_Lothar_Adventure_342e15d0:
+translate schinese Sebas_Lothar_Adventure_4ed2b650:
 
-#     # o "And Seb, I packed you some lunch, right in your bag over there. Don't leave it too cold though."
-#     o ""
+    # s "I told him to take care of the shop. You know, I'm not going to let customers leave the shop disappointed."
+    s "我请他帮我看着当铺。顾客就是上帝，我可不能让他们吃闭门羹。"
 
-# translate schinese Sebas_Lothar_Adventure_d2057b12:
+translate schinese Sebas_Lothar_Adventure_aec509d8:
 
-#     # s "Can we not talk about this in front of [e]."
-#     s ""
+    # o "Or so you've heard. Kiddo, take care of Seb right here okay. I don't want him to lose an eyeball out there in the forest."
+    o "没错，小兄弟，帮我照顾好阿塞。别让他在森林里乱跑把自己弄受伤。"
 
-# translate schinese Sebas_Lothar_Adventure_665c727e:
+translate schinese Sebas_Lothar_Adventure_342e15d0:
 
-#     # e "Hey, Ole. I was asking if you'd come as well."
-#     e ""
+    # o "And Seb, I packed you some lunch, right in your bag over there. Don't leave it too cold though."
+    o "阿塞，我打包了几份午饭放你背囊里了。别等到冷透了才记得吃。"
 
-# translate schinese Sebas_Lothar_Adventure_e2a30109:
+translate schinese Sebas_Lothar_Adventure_d2057b12:
 
-#     # o "I trust you have more than enough abilities to protect this little fuzzy lion. You three will be fine."
-#     o ""
+    # s "Can we not talk about this in front of [e]."
+    s "能不能别在[e]面前把我当小孩。"
 
-# translate schinese Sebas_Lothar_Adventure_40910768:
+translate schinese Sebas_Lothar_Adventure_665c727e:
 
-#     # s "Haha I'm oweing good old Ole a huge favour. So, here I am. Going out with my favourite roommate."
-#     s ""
+    # e "Hey, Ole. I was asking if you'd come as well."
+    e "奥利，不如你也和我们一起去吧。"
 
-# translate schinese Sebas_Lothar_Adventure_ed8ed017:
+translate schinese Sebas_Lothar_Adventure_e2a30109:
 
-#     # o "Well, stay safe out there. And Seb, don't forget to get me the herbs."
-#     o ""
+    # o "I trust you have more than enough abilities to protect this little fuzzy lion. You three will be fine."
+    o "我相信你有能力保护好这只毛躁的小狮子。你们仨去就够了。"
 
-# translate schinese Sebas_Lothar_Adventure_698ca104:
+translate schinese Sebas_Lothar_Adventure_40910768:
 
-#     # s "It's time to go, take care of the shop for me alright!"
-#     s ""
+    # s "Haha I'm oweing good old Ole a huge favour. So, here I am. Going out with my favourite roommate."
+    s "哈哈哈，为了和我最铁的好室友出远门，我要可欠咱老奥利一个大人情咯。"
 
-# translate schinese Sebas_Lothar_Adventure_9c2694db:
+translate schinese Sebas_Lothar_Adventure_ed8ed017:
 
-#     # e "Goodbye, Ole!"
-#     e ""
+    # o "Well, stay safe out there. And Seb, don't forget to get me the herbs."
+    o "嗯，注意安全。还有一件事，别忘了采些草药回来。"
 
-# translate schinese Sebas_Lothar_Adventure_fa3626e6:
+translate schinese Sebas_Lothar_Adventure_698ca104:
 
-#     # s "I think Lothar is- Yeah, he's right there."
-#     s ""
+    # s "It's time to go, take care of the shop for me alright!"
+    s "我们走啦，谢谢你帮我看店！"
 
-# translate schinese Sebas_Lothar_Adventure_a0d76f46:
+translate schinese Sebas_Lothar_Adventure_9c2694db:
 
-#     # l "...Lion you moron. The lizard prescribed me with the ointment down there and it still hurts like hell to just walk."
-#     l ""
+    # e "Goodbye, Ole!"
+    e "拜拜，奥利！"
 
-# translate schinese Sebas_Lothar_Adventure_c281f71b:
+translate schinese Sebas_Lothar_Adventure_fa3626e6:
 
-#     # l "Not to mention you kicked me in the dick, not balls."
-#     l ""
+    # s "I think Lothar is- Yeah, he's right there."
+    s "我觉得洛萨尔——哈，他到了。"
 
-# translate schinese Sebas_Lothar_Adventure_7c53f79d:
+translate schinese Sebas_Lothar_Adventure_a0d76f46:
 
-#     # e "Lothar, are you feeling alright?"
-#     e ""
+    # l "...Lion you moron. The lizard prescribed me with the ointment down there and it still hurts like hell to just walk."
+    l "……缺德的笨猫，我现在一走路就疼得要命，就算奥利已经给我摸了药膏。"
 
-# translate schinese Sebas_Lothar_Adventure_2143477d:
+translate schinese Sebas_Lothar_Adventure_c281f71b:
 
-#     # s "He's good, I might as well give him another kick to revert the damage."
-#     s ""
+    # l "Not to mention you kicked me in the dick, not balls."
+    l "还有，你踢到了我的鸡巴，而不是卵蛋！"
 
-# translate schinese Sebas_Lothar_Adventure_9b27900c:
+translate schinese Sebas_Lothar_Adventure_7c53f79d:
 
-#     # l "...Disciple, don't think I'll forget about what you did yesterday."
-#     l ""
+    # e "Lothar, are you feeling alright?"
+    e "洛萨尔，你还好吗？"
 
-# translate schinese Sebas_Lothar_Adventure_4331981b:
+translate schinese Sebas_Lothar_Adventure_2143477d:
 
-#     # e "...Ok."
-#     e ""
+    # s "He's good, I might as well give him another kick to revert the damage."
+    s "他很好，不然我可以多给他来一脚，以毒攻毒医好他。"
 
-# translate schinese Sebas_Lothar_Adventure_acb95ff4:
+translate schinese Sebas_Lothar_Adventure_9b27900c:
 
-#     # s "Just a taste of his own medicine. Plus, I didn't think he'll come with us today."
-#     s ""
+    # l "...Disciple, don't think I'll forget about what you did yesterday."
+    l "……假惺惺的卑徒，别以为我会忘记你干的好事。"
 
-# translate schinese Sebas_Lothar_Adventure_ae659de6:
+translate schinese Sebas_Lothar_Adventure_4331981b:
 
-#     # l "I have to lead you to where I found the stone, don't I? You two will just get lost and die without the hero's interference."
-#     l ""
+    # e "...Ok."
+    e "……呃。"
 
-# translate schinese Sebas_Lothar_Adventure_d64ded9d:
+translate schinese Sebas_Lothar_Adventure_acb95ff4:
 
-#     # e "Hey... Stop arguing you two, let's just go there and find out what's wrong with the rock."
-#     e ""
+    # s "Just a taste of his own medicine. Plus, I didn't think he'll come with us today."
+    s "谁叫他要自讨苦吃呢。现在看来他今天是没法和我们一起去了。"
 
-# translate schinese Sebas_Lothar_Adventure_fa3626e6_1:
+translate schinese Sebas_Lothar_Adventure_ae659de6:
 
-#     # s "I think Lothar is- Yeah, he's right there."
-#     s ""
+    # l "I have to lead you to where I found the stone, don't I? You two will just get lost and die without the hero's interference."
+    l "我得带着你们去我发现石头的地方。要是没有大英雄的保护，你们肯定会在森林里迷路然后悲惨地死去。"
 
-# translate schinese Sebas_Lothar_Adventure_4cfbfdfa:
+translate schinese Sebas_Lothar_Adventure_d64ded9d:
 
-#     # l "Here I am, the hero of Lusterfield. The Myth, The Lege-"
-#     l ""
+    # e "Hey... Stop arguing you two, let's just go there and find out what's wrong with the rock."
+    e "嘿，你们两个别吵了。搞清楚那块石头是怎么来的才是正事。"
 
-# translate schinese Sebas_Lothar_Adventure_7fdbb1b2:
+translate schinese Sebas_Lothar_Adventure_fa3626e6_1:
 
-#     # s "Yeah, it's him, we should get going now."
-#     s ""
+    # s "I think Lothar is- Yeah, he's right there."
+    s "我觉得洛萨尔——哈，他到了。"
 
-# translate schinese Sebas_Lothar_Adventure_f34f5654:
+translate schinese Sebas_Lothar_Adventure_4cfbfdfa:
 
-#     # e "Uhh- how are you doing Lothar?"
-#     e ""
+    # l "Here I am, the hero of Lusterfield. The Myth, The Lege-"
+    l "没错，正是我，乐斯民菲尔德的大英雄到了，传奇而又神秘的——"
 
-# translate schinese Sebas_Lothar_Adventure_732d2508:
+translate schinese Sebas_Lothar_Adventure_7fdbb1b2:
 
-#     # l "Disciple, I suppose you remember what happened yesterday with the lion."
-#     l ""
+    # s "Yeah, it's him, we should get going now."
+    s "这个洛萨尔如假包换。我们走吧。"
 
-# translate schinese Sebas_Lothar_Adventure_86ca7079:
+translate schinese Sebas_Lothar_Adventure_f34f5654:
 
-#     # l "I came in there with a transaction opportunity, and he threatened me with a, kick in the nuts."
-#     l ""
+    # e "Uhh- how are you doing Lothar?"
+    e "呃——洛萨尔，你还好吗？"
 
-# translate schinese Sebas_Lothar_Adventure_bc738f13:
+translate schinese Sebas_Lothar_Adventure_732d2508:
 
-#     # s "Uh Huh. Tread carefully, Lothar. You won't know when the payback will come, maybe not yesterday, but most certainly today if you keep talking."
-#     s ""
+    # l "Disciple, I suppose you remember what happened yesterday with the lion."
+    l "我的心不好受啊，徒弟，他的暴行你也不是不记得。"
 
-# translate schinese Sebas_Lothar_Adventure_d64ded9d_1:
+translate schinese Sebas_Lothar_Adventure_86ca7079:
 
-#     # e "Hey... Stop arguing you two, let's just go there and find out what's wrong with the rock."
-#     e ""
+    # l "I came in there with a transaction opportunity, and he threatened me with a, kick in the nuts."
+    l "我大发慈悲提供给这只笨猫一个丰厚的商机，他却反而威胁我，说要踢爆我的卵蛋。"
 
-# translate schinese Sebas_Lothar_Adventure_cf261612:
+translate schinese Sebas_Lothar_Adventure_bc738f13:
 
-#     # "The three of you continue on the adventure. Sebas and Lothar don't seem to get along too well, only occassionally asking about your experience in the village."
-#     ""
+    # s "Uh Huh. Tread carefully, Lothar. You won't know when the payback will come, maybe not yesterday, but most certainly today if you keep talking."
+    s "哼哼，说话小心点，洛萨尔。你总有一天要遭报应的，就算昨天没遭，今天你再逼逼下去也绝对会遭。"
 
-# translate schinese Sebas_Lothar_Adventure_ee40bd66:
+translate schinese Sebas_Lothar_Adventure_d64ded9d_1:
 
-#     # "You feel a little awkward walking between the two dudes, their arguing slowly turns into quietness."
-#     ""
+    # e "Hey... Stop arguing you two, let's just go there and find out what's wrong with the rock."
+    e "嘿，你们两个别吵了。搞清楚那块石头是怎么来的才是正事。"
 
-# translate schinese Sebas_Lothar_Adventure_6bfa80dd:
+translate schinese Sebas_Lothar_Adventure_cf261612:
 
-#     # "But after a few minutes of silence, you decide to break the stalemate..."
-#     ""
+    # "The three of you continue on the adventure. Sebas and Lothar don't seem to get along too well, only occassionally asking about your experience in the village."
+    "你们走出了乐村。一路上塞巴斯和洛萨尔争吵不断，只有偶尔会问起你在村里的经历。"
 
-# translate schinese Sebas_Lothar_Adventure_687a2434:
+translate schinese Sebas_Lothar_Adventure_ee40bd66:
 
-#     # e "Hey, Lothar. Where exactly did you find the stone?"
-#     e ""
+    # "You feel a little awkward walking between the two dudes, their arguing slowly turns into quietness."
+    "你夹在两个火药桶中间有点小尴尬。慢慢的，争吵声退去，森林重归宁静。"
 
-# translate schinese Sebas_Lothar_Adventure_f07dfb58:
+translate schinese Sebas_Lothar_Adventure_6bfa80dd:
 
-#     # l "Hmm, on the riverside, usually there are spears around there, I just walked past it."
-#     l ""
+    # "But after a few minutes of silence, you decide to break the stalemate..."
+    "无言的几分钟过去了，你决定打破僵局……"
 
-# translate schinese Sebas_Lothar_Adventure_1c8909c9:
+translate schinese strings:
 
-#     # e "Did you see any other people around there?"
-#     e ""
+    old "Who should you talk to...?"
+    new "你该和谁搭话……？"
 
-# translate schinese Sebas_Lothar_Adventure_22f1245b:
+    old "Talk with Lothar"
+    new "洛萨尔"
 
-#     # l "Of course no. I was just strolling around, slaying slimes and bunch of stuff."
-#     l ""
+    old "Talk with Sebas"
+    new "塞巴斯"
 
-# translate schinese Sebas_Lothar_Adventure_da834acc:
+translate schinese Sebas_Lothar_Adventure_687a2434:
 
-#     # l "But now that you said it, after you arrived, there has been so much more sighting of buggbears."
-#     l ""
+    # e "Hey, Lothar. Where exactly did you find the stone?"
+    e "嘿，洛萨尔。你具体是在哪发现这块石头的？"
 
-# translate schinese Sebas_Lothar_Adventure_d808cf9f:
+translate schinese Sebas_Lothar_Adventure_f07dfb58:
 
-#     # e "Buggbears?"
-#     e ""
+    # l "Hmm, on the riverside, usually there are spears around there, I just walked past it."
+    l "唔，在有很多长矛插着的河边，我轻轻松松就绕了过去。"
 
-# translate schinese Sebas_Lothar_Adventure_ccff677a:
+translate schinese Sebas_Lothar_Adventure_1c8909c9:
 
-#     # s "Oh yeah, those big ones that took over the goat's outpost a while ago."
-#     s ""
+    # e "Did you see any other people around there?"
+    e "在那里你有看见过其他人吗？"
 
-# translate schinese Sebas_Lothar_Adventure_de073bb4:
+translate schinese Sebas_Lothar_Adventure_22f1245b:
 
-#     # l "They're extremely vicious when they go about their business. I'd suggest you not to approach them without me nearby."
-#     l ""
+    # l "Of course no. I was just strolling around, slaying slimes and bunch of stuff."
+    l "当然没有，我只是随便逛逛打打怪。"
 
-# translate schinese Sebas_Lothar_Adventure_ba0230e5:
+translate schinese Sebas_Lothar_Adventure_da834acc:
 
-#     # e "Hmm, I'll be sure to take a look around more, with you."
-#     e ""
+    # l "But now that you said it, after you arrived, there has been so much more sighting of buggbears."
+    l "既然说到怪物，等等你到了河边可能会遇见不少熊地精。"
 
-# translate schinese Sebas_Lothar_Adventure_be1b1da8:
+translate schinese Sebas_Lothar_Adventure_d808cf9f:
 
-#     # s "Buddy, did you just forget I'm still by your side?"
-#     s ""
+    # e "Buggbears?"
+    e "熊地精？"
 
-# translate schinese Sebas_Lothar_Adventure_039a4f7a:
+translate schinese Sebas_Lothar_Adventure_ccff677a:
 
-#     # e "Hey, Seb. What's with your fascination of stones?"
-#     e ""
+    # s "Oh yeah, those big ones that took over the goat's outpost a while ago."
+    s "没错，那些大怪物前不久占领了山羊的前哨站。"
 
-# translate schinese Sebas_Lothar_Adventure_fd1c938b:
+translate schinese Sebas_Lothar_Adventure_de073bb4:
 
-#     # s "My stones? No, they just sells good prices to the merchants around the continents. I'm just making sure I do my part in the classification."
-#     s ""
+    # l "They're extremely vicious when they go about their business. I'd suggest you not to approach them without me nearby."
+    l "被打扰的熊地精敌意特别强。如果没有我陪着你，你最好不要接近他们。"
 
-# translate schinese Sebas_Lothar_Adventure_15224dd2:
+translate schinese Sebas_Lothar_Adventure_ba0230e5:
 
-#     # s "And possibly earn some good money from those stones. Some of them got me over a thousand gold, that's insane."
-#     s ""
+    # e "Hmm, I'll be sure to take a look around more, with you."
+    e "嗯，有你陪着我，我肯定能大胆探索更多地方。"
 
-# translate schinese Sebas_Lothar_Adventure_3a8c19d0:
+translate schinese Sebas_Lothar_Adventure_be1b1da8:
 
-#     # l "Yeah, I thought mine looks pretty much like your expensive ones."
-#     l ""
+    # s "Buddy, did you just forget I'm still by your side?"
+    s "老铁，别忘了我还在你身边呢。"
 
-# translate schinese Sebas_Lothar_Adventure_4321f573:
+translate schinese Sebas_Lothar_Adventure_039a4f7a:
 
-#     # s "It certainly does, but they're made of the same material, this one, its stripes are glowing all the time."
-#     s ""
+    # e "Hey, Seb. What's with your fascination of stones?"
+    e "嘿，阿塞，你为什么对石头这么着迷呢？"
 
-# translate schinese Sebas_Lothar_Adventure_0c570764:
+translate schinese Sebas_Lothar_Adventure_fd1c938b:
 
-#     # e "Doesn't it looks like, the pattern from the members of goat tribe?"
-#     e ""
+    # s "My stones? No, they just sells good prices to the merchants around the continents. I'm just making sure I do my part in the classification."
+    s "着迷？没有，我的贸易伙伴来自五湖四海，我收集石头只是为了让它们能在这些行商面前卖个好价钱。"
+    s "我要先了解清楚每一种石头，才能正确评估某一种石头的价值。"
 
-# translate schinese Sebas_Lothar_Adventure_24e49831:
+translate schinese Sebas_Lothar_Adventure_15224dd2:
 
-#     # s "We need much more information than that to confirm if it's from them."
-#     s ""
+    # s "And possibly earn some good money from those stones. Some of them got me over a thousand gold, that's insane."
+    s "要说着迷，我可能着迷它们换来的金币吧。有些石头小小一块就值上千块钱，你敢信吗？"
 
-# translate schinese Sebas_Lothar_Adventure_69a04679:
+translate schinese Sebas_Lothar_Adventure_3a8c19d0:
 
-#     # e "Seb, you seem... weirdly serious when you get into making out this weird stone."
-#     e ""
+    # l "Yeah, I thought mine looks pretty much like your expensive ones."
+    l "我相信，比如我的这块就价值连城。"
 
-# translate schinese Sebas_Lothar_Adventure_533871c2:
+translate schinese Sebas_Lothar_Adventure_4321f573:
 
-#     # s "Do I?"
-#     s ""
+    # s "It certainly does, but they're made of the same material, this one, its stripes are glowing all the time."
+    s "当然。但话说回来，其他石头一整块只有一种材质。而你的这块却掺杂了别的物质，一直在发光。"
 
-# translate schinese Sebas_Lothar_Adventure_f3a2c66f:
+translate schinese Sebas_Lothar_Adventure_0c570764:
 
-#     # s "Well, I can get into making out with you instead."
-#     s ""
+    # e "Doesn't it looks like, the pattern from the members of goat tribe?"
+    e "这种图纹，感觉特别像山羊部落那边的风格。"
 
-# translate schinese Sebas_Lothar_Adventure_ca49f6c2:
+translate schinese Sebas_Lothar_Adventure_24e49831:
 
-#     # l "Lion, stop flirting with my disciple, you buffoon."
-#     l ""
+    # s "We need much more information than that to confirm if it's from them."
+    s "我们得要继续调查才能确定。"
 
-# translate schinese Sebas_Lothar_Adventure_c9891949:
+translate schinese Sebas_Lothar_Adventure_69a04679:
 
-#     # "Sebas and Lothar continues arguing for a while."
-#     ""
+    # e "Seb, you seem... weirdly serious when you get into making out this weird stone."
+    e "阿塞……一捣鼓起这块怪石头，你就变得怪认真的。"
 
-# translate schinese Sebas_Lothar_Adventure_04c95e82:
+translate schinese Sebas_Lothar_Adventure_533871c2:
 
-#     # e "Ahhhh- I think we're getting close to the river."
-#     e ""
+    # s "Do I?"
+    s "是吗？"
 
-# translate schinese Sebas_Lothar_Adventure_fa1173b2:
+translate schinese Sebas_Lothar_Adventure_f3a2c66f:
 
-#     # "You three arrive very quickly. There's a lot of small cavern around the hills nearby."
-#     ""
+    # s "Well, I can get into making out with you instead."
+    s "嘿嘿，那我可以转为捣鼓你。"
 
-# translate schinese Sebas_Lothar_Adventure_7ddafa91:
+translate schinese Sebas_Lothar_Adventure_ca49f6c2:
 
-#     # s "How about splitting right here? I'll collect the water sample and Lothar you should find if there's any other similar rocks."
-#     s ""
+    # l "Lion, stop flirting with my disciple, you buffoon."
+    l "下流的笨猫，不许调戏我徒弟。"
 
-# translate schinese Sebas_Lothar_Adventure_ee6de3bd:
+translate schinese Sebas_Lothar_Adventure_c9891949:
 
-#     # l "I accept your arrangement, lion."
-#     l ""
+    # "Sebas and Lothar continues arguing for a while."
+    "于是这两个冤家又开始争论个不停。"
 
-# translate schinese Sebas_Lothar_Adventure_ff398f5a:
+translate schinese Sebas_Lothar_Adventure_04c95e82:
 
-#     # s "Then [e], how about you guarding for us and make sure no dangerous animal comes by?"
-#     s ""
+    # e "Ahhhh- I think we're getting close to the river."
+    e "啊——我们就快到河边了。"
 
-# translate schinese Sebas_Lothar_Adventure_d8f5bbfa:
+translate schinese Sebas_Lothar_Adventure_fa1173b2:
 
-#     # e "Yes, boss."
-#     e ""
+    # "You three arrive very quickly. There's a lot of small cavern around the hills nearby."
+    "你们很快到达了目的地。放眼望去，附近的山丘上分布着许多小洞穴。"
 
-# translate schinese Sebas_Lothar_Adventure_ac222919:
+translate schinese Sebas_Lothar_Adventure_7ddafa91:
 
-#     # s "Haha, do I look like a boss to you now all of a sudden. Now get going, we'll be back soon."
-#     s ""
+    # s "How about splitting right here? I'll collect the water sample and Lothar you should find if there's any other similar rocks."
+    s "我们就在这里分头调查吧？我来提取河水样本，洛萨尔去附近看看有没有类似的石头。"
 
-# translate schinese Sebas_Lothar_Adventure_4c43ac1b:
+translate schinese Sebas_Lothar_Adventure_ee6de3bd:
 
-#     # "The three of you split in the mossy river. You stay in place and look around the scenery, everything is covered in green. The air is surprisingly fresh."
-#     ""
+    # l "I accept your arrangement, lion."
+    l "正有此意。"
 
-# translate schinese Sebas_Lothar_Adventure_b35ddf5a:
+translate schinese Sebas_Lothar_Adventure_ff398f5a:
 
-#     # "Sebas and Lothar walks in opposite direction, you glance at their back before they disappear from your field of vision."
-#     ""
+    # s "Then [e], how about you guarding for us and make sure no dangerous animal comes by?"
+    s "[e]，你就待在这里替我们守着，以防有危险的野兽靠近，好吗？"
 
-# translate schinese Sebas_Lothar_Adventure_72cd4c94:
+translate schinese Sebas_Lothar_Adventure_d8f5bbfa:
 
-#     # "You sit there, wait for Sebas and Lothar to return."
-#     ""
+    # e "Yes, boss."
+    e "遵命，老大。"
 
-# translate schinese Sebas_Lothar_Adventure_26c05388:
+translate schinese Sebas_Lothar_Adventure_ac222919:
 
-#     # "To pass the time, you begin to daydream about being in the room with Sebas, or Lothar."
-#     ""
+    # s "Haha, do I look like a boss to you now all of a sudden. Now get going, we'll be back soon."
+    s "哈哈哈，怎么我突然成你老大了。那我们出发咯，很快回来。"
 
-# translate schinese Sebas_Lothar_Adventure_aa67a1da:
+translate schinese Sebas_Lothar_Adventure_4c43ac1b:
 
-#     # "They seem to have an unexplainable interest in you, somehow. Maybe you're just reading too much into it."
-#     ""
+    # "The three of you split in the mossy river. You stay in place and look around the scenery, everything is covered in green. The air is surprisingly fresh."
+    "分工完毕。你留在原地环顾四周，这里土石草木绿意盎然，空气清新令人心旷神怡。"
 
-# translate schinese Sebas_Lothar_Adventure_a20cefa7:
+translate schinese Sebas_Lothar_Adventure_b35ddf5a:
 
-#     # "..."
-#     "……"
+    # "Sebas and Lothar walks in opposite direction, you glance at their back before they disappear from your field of vision."
+    "你看着其余二人各自朝着相反的方向远去，直到他们的背影离开你的视野。"
 
-# translate schinese Sebas_Lothar_Adventure_506d9f1d:
+translate schinese Sebas_Lothar_Adventure_72cd4c94:
 
-#     # "Suddenly, you see a shadow in the reflection of the freshwater. You turn around, but there's nothing at all."
-#     ""
+    # "You sit there, wait for Sebas and Lothar to return."
+    "你找了块地方坐下，等待你的朋友们回来。"
 
-# translate schinese Sebas_Lothar_Adventure_5696f3ed:
+translate schinese Sebas_Lothar_Adventure_26c05388:
 
-#     # "You are afraid it's something dangerous, but it would be risky if you don't chase and find out what's happening."
-#     ""
+    # "To pass the time, you begin to daydream about being in the room with Sebas, or Lothar."
+    "为了消磨时间，你开始做起关于他俩的白日梦，想象着和他们共处一室。"
 
-# translate schinese Sebas_Lothar_Adventure_2e70013c:
+translate schinese Sebas_Lothar_Adventure_aa67a1da:
 
-#     # e "Should I... investigate further, or stay until Sebas and Lothar are back?" nointeract
-#     e "" nointeract
+    # "They seem to have an unexplainable interest in you, somehow. Maybe you're just reading too much into it."
+    "不晓得什么缘故，他们似乎对你有种不可名状的兴趣。又或许只是你自作多情罢了。"
 
-# translate schinese Sebas_Lothar_Adventure_a99a1ed7:
+translate schinese Sebas_Lothar_Adventure_a20cefa7:
 
-#     # "You climb up the hill and try to locate the shadow that you spotted."
-#     ""
+    # "..."
+    "……"
 
-# translate schinese Sebas_Lothar_Adventure_d2494669:
+translate schinese Sebas_Lothar_Adventure_506d9f1d:
 
-#     # "But as soon as you get up, the shadow is already gone, leaving only a few footprints that leads to the somewhere else."
-#     ""
+    # "Suddenly, you see a shadow in the reflection of the freshwater. You turn around, but there's nothing at all."
+    "河水奔流不息，你望着望着渐渐出了神。忽然，远处的水面映照出一块巨大的阴影。你当即回头，却什么也没有发现。"
 
-# translate schinese Sebas_Lothar_Adventure_2aa0f4a2:
+translate schinese Sebas_Lothar_Adventure_5696f3ed:
 
-#     # e "Should I... follow the footprint?" nointeract
-#     e "" nointeract
+    # "You are afraid it's something dangerous, but it would be risky if you don't chase and find out what's happening."
+    "独自面对这个身影风险很大，但如果不追上去调查清楚，又有可能威胁到塞巴斯他们。"
 
-# translate schinese Sebas_Lothar_Adventure_5b56cae2:
+translate schinese Sebas_Lothar_Adventure_2e70013c:
 
-#     # "You decide to follow it, you examine the trail carefully and walk along the hills."
-#     ""
+    # e "Should I... investigate further, or stay until Sebas and Lothar are back?" nointeract
+    e "我是要去调查出个所以然……还是留下等其他人回来？" nointeract
 
-# translate schinese Sebas_Lothar_Adventure_404c6ccb:
+translate schinese strings:
 
-#     # "After some time, you have already reached the end of the trail, but there's no one to be seen."
-#     ""
+    old "Search around"
+    new "一探究竟"
 
-# translate schinese Sebas_Lothar_Adventure_6401572a:
+    old "Remain in place"
+    new "按兵不动"
 
-#     # "You scratch your head, dissappointed to have wasted your time tracking some weird footstep."
-#     ""
+translate schinese Sebas_Lothar_Adventure_a99a1ed7:
 
-# translate schinese Sebas_Lothar_Adventure_c66fb423:
+    # "You climb up the hill and try to locate the shadow that you spotted."
+    "你决定登上山丘，前往之前投下那块阴影的地方。"
 
-#     # e "I should really go back... Sebas and Lothar might have already come back."
-#     e ""
+translate schinese Sebas_Lothar_Adventure_d2494669:
 
-# translate schinese Sebas_Lothar_Adventure_1691befa:
+    # "But as soon as you get up, the shadow is already gone, leaving only a few footprints that leads to the somewhere else."
+    "但你来晚了，这里空无一物，只有地上几个脚印指向他处。"
 
-#     # "As you turn back, you see the same shadow looming over you."
-#     ""
+translate schinese Sebas_Lothar_Adventure_2aa0f4a2:
 
-# translate schinese Sebas_Lothar_Adventure_6a38af3b:
+    # e "Should I... follow the footprint?" nointeract
+    e "我该……继续跟着脚印走吗？" nointeract
 
-#     # "The figure is mostly green, its moss tries to wrap around you but you escape in time."
-#     ""
+translate schinese strings:
 
-# translate schinese Sebas_Lothar_Adventure_6b932964:
+    old "Follow the footprint"
+    new "跟随脚印"
 
-#     # "There is no point following something that has already left the river. You climb back down the hill and wait for Sebas and Lothar to come back."
-#     ""
+    old "Climb back down"
+    new "返回原地"
 
-# translate schinese Sebas_Lothar_Adventure_2bb27b5f:
+translate schinese Sebas_Lothar_Adventure_5b56cae2:
 
-#     # "You convince yourself that it must just be the wind, so you wait for Sebas and Lothar to come back."
-#     ""
+    # "You decide to follow it, you examine the trail carefully and walk along the hills."
+    "你仔细跟着脚印，决定继续前进。"
 
-# translate schinese Sebas_Lothar_Adventure_a20cefa7_1:
+translate schinese Sebas_Lothar_Adventure_404c6ccb:
 
-#     # "..."
-#     "……"
+    # "After some time, you have already reached the end of the trail, but there's no one to be seen."
+    "一段时间后，你来到足迹的尽头，但这里同样什么也没有。"
 
-# translate schinese Sebas_Lothar_Adventure_dca07d20:
+translate schinese Sebas_Lothar_Adventure_6401572a:
 
-#     # "You relax yourself at the riverside, but another shadow emerges in the water again."
-#     ""
+    # "You scratch your head, dissappointed to have wasted your time tracking some weird footstep."
+    "竹篮打水一场空，你挠挠头，感觉有些失望。"
 
-# translate schinese Sebas_Lothar_Adventure_9cdf1661:
+translate schinese Sebas_Lothar_Adventure_c66fb423:
 
-#     # "You immediately look back, but it's already too late. A huge green monster punches you in the head."
-#     ""
+    # e "I should really go back... Sebas and Lothar might have already come back."
+    e "我还是赶快回去吧……塞巴斯他们可能已经回来了。"
 
-# translate schinese Sebas_Lothar_Adventure_874d50d9:
+translate schinese Sebas_Lothar_Adventure_1691befa:
 
-#     # "SMACK!!"
-#     ""
+    # "As you turn back, you see the same shadow looming over you."
+    "你刚转身，便被那块阴影完全笼罩。"
 
-# translate schinese Sebas_Lothar_Adventure_2689c632:
+translate schinese Sebas_Lothar_Adventure_6a38af3b:
 
-#     # "Your HP drops by 20."
-#     ""
+    # "The figure is mostly green, its moss tries to wrap around you but you escape in time."
+    "这尊石像长满了苔藓，伸出右手想要抓住你，但你及时逃出了他的掌心。"
 
-# translate schinese Sebas_Lothar_Adventure_End_8285af27:
+translate schinese Sebas_Lothar_Adventure_6b932964:
 
-#     # e "Thanks for the help, Lothar. But I think I can handle myself."
-#     e ""
+    # "There is no point following something that has already left the river. You climb back down the hill and wait for Sebas and Lothar to come back."
+    "看来不管这是什么东西，他都已经离开河边了。你爬下山丘，回到原地等待朋友们回来。"
 
-# translate schinese Sebas_Lothar_Adventure_End_bf3d80d2:
+translate schinese Sebas_Lothar_Adventure_2bb27b5f:
 
-#     # l "You think? Well, think again. If not for me you'd be beaten to a pulp in a few seconds."
-#     l ""
+    # "You convince yourself that it must just be the wind, so you wait for Sebas and Lothar to come back."
+    "你说服自己那只是大风吹斜树枝的结果，继续坐在原地等待朋友们回来。"
 
-# translate schinese Sebas_Lothar_Adventure_End_03691e81:
+translate schinese Sebas_Lothar_Adventure_a20cefa7_1:
 
-#     # e "Alright. You're right, Lothar. Thank you for saving my life."
-#     e ""
+    # "..."
+    "……"
 
-# translate schinese Sebas_Lothar_Adventure_End_8db3fb9f:
+translate schinese Sebas_Lothar_Adventure_dca07d20:
 
-#     # l "Good Disciple."
-#     l ""
+    # "You relax yourself at the riverside, but another shadow emerges in the water again."
+    "自然水景使你渐渐放松下来，不巧水面却再次浮现出浓重的阴影。"
 
-# translate schinese Sebas_Lothar_Adventure_End_e2efe2c8:
+translate schinese Sebas_Lothar_Adventure_9cdf1661:
 
-#     # e "So... what's the creature?"
-#     e ""
+    # "You immediately look back, but it's already too late. A huge green monster punches you in the head."
+    "你飞快转过头，可惜已经迟了。巨大的绿衣怪物落拳正中你的脑袋。"
 
-# translate schinese Sebas_Lothar_Adventure_End_735a3e09:
+translate schinese Sebas_Lothar_Adventure_874d50d9:
 
-#     # e "Oh... my... What was this creature...?"
-#     e ""
+    # "SMACK!!"
+    "哐！！"
 
-# translate schinese Sebas_Lothar_Adventure_End_576265f8:
+translate schinese Sebas_Lothar_Adventure_2689c632:
 
-#     # l "What happened."
-#     l ""
+    # "Your HP drops by 20."
+    "你损失了 20 点体力。"
 
-# translate schinese Sebas_Lothar_Adventure_End_bb959436:
+translate schinese Sebas_Lothar_Adventure_End_8285af27:
 
-#     # e "Holy- You scared me Lothar."
-#     e ""
+    # e "Thanks for the help, Lothar. But I think I can handle myself."
+    e "谢了，洛萨尔。不过我觉得单靠我自己就能打败他。"
 
-# translate schinese Sebas_Lothar_Adventure_End_7ed598ae:
+translate schinese Sebas_Lothar_Adventure_End_bf3d80d2:
 
-#     # "Lothar appears behind where the golem stands, looking at the fallen golem."
-#     ""
+    # l "You think? Well, think again. If not for me you'd be beaten to a pulp in a few seconds."
+    l "你觉得？你觉得个头。要不是我及时赶到，你现在已经是块肉饼了。"
 
-# translate schinese Sebas_Lothar_Adventure_End_3a0ca304:
+translate schinese Sebas_Lothar_Adventure_End_03691e81:
 
-#     # l "Seems like I was too late to the party."
-#     l ""
+    # e "Alright. You're right, Lothar. Thank you for saving my life."
+    e "好吧，你是对的，刚才确实很惊险。谢谢你救我一命。"
 
-# translate schinese Sebas_Lothar_Adventure_End_93ac05f1:
+translate schinese Sebas_Lothar_Adventure_End_8db3fb9f:
 
-#     # e "The Golem, it attacked me. What's this creature?"
-#     e ""
+    # l "Good Disciple."
+    l "这才是我的乖徒儿。"
 
-# translate schinese Sebas_Lothar_Adventure_End_df8a72bb:
+translate schinese Sebas_Lothar_Adventure_End_e2efe2c8:
 
-#     # l "I don't know... I haven't seen a golem before. Especially this one with moss on it."
-#     l ""
+    # e "So... what's the creature?"
+    e "所以……这到底是什么东西？"
 
-# translate schinese Sebas_Lothar_Adventure_End_523b7c75:
+translate schinese Sebas_Lothar_Adventure_End_735a3e09:
 
-#     # l "Now that I think of it... the stone I found. It might have been his hand."
-#     l ""
+    # e "Oh... my... What was this creature...?"
+    e "噢……天啊……这到底是什么东西……？"
 
-# translate schinese Sebas_Lothar_Adventure_End_667c90ed:
+translate schinese Sebas_Lothar_Adventure_End_576265f8:
 
-#     # e "What? Why did you take his hand?"
-#     e ""
+    # l "What happened."
+    l "怎么回事。"
 
-# translate schinese Sebas_Lothar_Adventure_End_8ecdfc69:
+translate schinese Sebas_Lothar_Adventure_End_bb959436:
 
-#     # l "It was glowing in the dark. I just picked it up near the river. Something might have been going on without our knowledge."
-#     l ""
+    # e "Holy- You scared me Lothar."
+    e "我操——洛萨尔，吓死我了。"
 
-# translate schinese Sebas_Lothar_Adventure_End_d5e7b16d:
+translate schinese Sebas_Lothar_Adventure_End_7ed598ae:
 
-#     # l "We best wait for the lion to come back, he must be watching the grass grow or something."
-#     l ""
+    # "Lothar appears behind where the golem stands, looking at the fallen golem."
+    "洛萨尔冷不丁地从石魔像身后出现，观察着伏倒的巨物。"
 
-# translate schinese Sebas_Lothar_Adventure_End_4546f89d:
+translate schinese Sebas_Lothar_Adventure_End_3a0ca304:
 
-#     # "You and Lothar wait for a few minutes before Sebas comes back."
-#     ""
+    # l "Seems like I was too late to the party."
+    l "看样子我来迟了。"
 
-# translate schinese Sebas_Lothar_Adventure_End_4b0c7302:
+translate schinese Sebas_Lothar_Adventure_End_93ac05f1:
 
-#     # s "What the fuck is going on!"
-#     s ""
+    # e "The Golem, it attacked me. What's this creature?"
+    e "这个石魔像突然冲出来袭击我，为什么？"
 
-# translate schinese Sebas_Lothar_Adventure_End_362f8a21:
+translate schinese Sebas_Lothar_Adventure_End_df8a72bb:
 
-#     # l "It's a Golem, calm your ass down, lion."
-#     l ""
+    # l "I don't know... I haven't seen a golem before. Especially this one with moss on it."
+    l "我也不知道……我还是第一次亲眼见到石魔像，尤其这种长满苔藓的。"
 
-# translate schinese Sebas_Lothar_Adventure_End_0c8c311f:
+translate schinese Sebas_Lothar_Adventure_End_523b7c75:
 
-#     # s "I was collecting samples out there for just a few minutes and now you're telling me [e] killed a golem?"
-#     s ""
+    # l "Now that I think of it... the stone I found. It might have been his hand."
+    l "现在想想看……我找到的那块石头，很可能就是他的左手。"
 
-# translate schinese Sebas_Lothar_Adventure_End_7d8d5ca6:
+translate schinese Sebas_Lothar_Adventure_End_667c90ed:
 
-#     # e "Hey, Lothar helped as well."
-#     e ""
+    # e "What? Why did you take his hand?"
+    e "嗯？那你怎么会有他的左手？"
 
-# translate schinese Sebas_Lothar_Adventure_End_b51d8e01:
+translate schinese Sebas_Lothar_Adventure_End_8ecdfc69:
 
-#     # e "Hey, I didn't know there're monsters here."
-#     e ""
+    # l "It was glowing in the dark. I just picked it up near the river. Something might have been going on without our knowledge."
+    l "那天晚上我看见它在河边发光，就好奇捡了回来。至于之前石魔像身上发生了什么事情，你我都无从得知。"
 
-# translate schinese Sebas_Lothar_Adventure_End_43d72598:
+translate schinese Sebas_Lothar_Adventure_End_d5e7b16d:
 
-#     # s "I'm sorry, buddy. I shouldn't have left you alone here."
-#     s ""
+    # l "We best wait for the lion to come back, he must be watching the grass grow or something."
+    l "我们还是等那只笨猫回来再说吧，他肯定又跑到哪里玩草去了。"
 
-# translate schinese Sebas_Lothar_Adventure_End_99f888f5:
+translate schinese Sebas_Lothar_Adventure_End_4546f89d:
 
-#     # l "My disciple can take care of himself. After all, he learnt all his fighting tricks from me."
-#     l ""
+    # "You and Lothar wait for a few minutes before Sebas comes back."
+    "几分钟后，塞巴斯从远处看到你们和石魔像，急忙冲了过来。"
 
-# translate schinese Sebas_Lothar_Adventure_End_e7b3ef51:
+translate schinese Sebas_Lothar_Adventure_End_4b0c7302:
 
-#     # s "Hey, look. Your stone is his left hand."
-#     s ""
+    # s "What the fuck is going on!"
+    s "这他妈什么情况！"
 
-# translate schinese Sebas_Lothar_Adventure_End_348bb016:
+translate schinese Sebas_Lothar_Adventure_End_362f8a21:
 
-#     # l "Yeah we discovered this like ten minutes ago."
-#     l ""
+    # l "It's a Golem, calm your ass down, lion."
+    l "石魔像而已，大惊小怪。"
 
-# translate schinese Sebas_Lothar_Adventure_End_51c5edec:
+translate schinese Sebas_Lothar_Adventure_End_0c8c311f:
 
-#     # e "So, what's wrong with the golem?"
-#     e ""
+    # s "I was collecting samples out there for just a few minutes and now you're telling me [e] killed a golem?"
+    s "我就出去采集了几分钟样本，现在你却告诉我[e]活生生干掉了一尊石魔像？"
 
-# translate schinese Sebas_Lothar_Adventure_End_d96dc918:
+translate schinese Sebas_Lothar_Adventure_End_7d8d5ca6:
 
-#     # s "It is conjured by someone, very intelligent I suppose. But why the mossy stone?"
-#     s ""
+    # e "Hey, Lothar helped as well."
+    e "呃，洛萨尔也有帮忙。"
 
-# translate schinese Sebas_Lothar_Adventure_End_32d5d209:
+translate schinese Sebas_Lothar_Adventure_End_b51d8e01:
 
-#     # l "A rolling stone gathers no moss."
-#     l ""
+    # e "Hey, I didn't know there're monsters here."
+    e "我也没料到我会遇上这种怪物。"
 
-# translate schinese Sebas_Lothar_Adventure_End_592268fe:
+translate schinese Sebas_Lothar_Adventure_End_43d72598:
 
-#     # s "Ok, you are being too obvious with this line. Holy Fuck."
-#     s ""
+    # s "I'm sorry, buddy. I shouldn't have left you alone here."
+    s "对不起啊，老铁。我不该留下你单独一个人。"
 
-# translate schinese Sebas_Lothar_Adventure_End_8be7194f:
+translate schinese Sebas_Lothar_Adventure_End_99f888f5:
 
-#     # e "Hmm... so what's your findings?"
-#     e ""
+    # l "My disciple can take care of himself. After all, he learnt all his fighting tricks from me."
+    l "我的徒弟能自己照顾好自己。毕竟他的战斗技巧可是从我这学来的。"
 
-# translate schinese Sebas_Lothar_Adventure_End_972be202:
+translate schinese Sebas_Lothar_Adventure_End_e7b3ef51:
 
-#     # s "Let me get the rock sample..."
-#     s ""
+    # s "Hey, look. Your stone is his left hand."
+    s "嘿，你们看，这块石头就是石魔像的左手。"
 
-# translate schinese Sebas_Lothar_Adventure_End_dcb41728:
+translate schinese Sebas_Lothar_Adventure_End_348bb016:
 
-#     # "As Sebas touches the golem, it immediately crumbles into dust and particles, even the moss is gone now..."
-#     ""
+    # l "Yeah we discovered this like ten minutes ago."
+    l "我们十分钟前就知道了。"
 
-# translate schinese Sebas_Lothar_Adventure_End_010dee8f:
+translate schinese Sebas_Lothar_Adventure_End_51c5edec:
 
-#     # l "Good job, lion."
-#     l ""
+    # e "So, what's wrong with the golem?"
+    e "那这个石魔像到底怎么回事？"
 
-# translate schinese Sebas_Lothar_Adventure_End_e1554201:
+translate schinese Sebas_Lothar_Adventure_End_d96dc918:
 
-#     # s "..."
-#     s "……"
+    # s "It is conjured by someone, very intelligent I suppose. But why the mossy stone?"
+    s "我想他一定是由某位技艺高超的人特地造出来的。但为什么要用长满苔藓的石头呢？"
 
-# translate schinese Sebas_Lothar_Adventure_End_5abc6d37:
+translate schinese Sebas_Lothar_Adventure_End_32d5d209:
 
-#     # s "I can gather some more details by myself later here. But we should go back now, we don't know if there's any other golems here."
-#     s ""
+    # l "A rolling stone gathers no moss."
+    l "滚来滚去的石头不生苔藓，心浮气躁的小伙不成大事。只有长满苔藓的石头，才有足够的定力组装在一起而不散架。"
 
-# translate schinese Sebas_Lothar_Adventure_End_9f876c20:
+translate schinese Sebas_Lothar_Adventure_End_592268fe:
 
-#     # l "Look, I will protect you two."
-#     l ""
+    # s "Ok, you are being too obvious with this line. Holy Fuck."
+    s "这个时候就不要抖机灵了，无语。"
 
-# translate schinese Sebas_Lothar_Adventure_End_b8a57d04:
+translate schinese Sebas_Lothar_Adventure_End_8be7194f:
 
-#     # s "Uhh- no thanks. Let's go buddy."
-#     s ""
+    # e "Hmm... so what's your findings?"
+    e "呃……那塞巴斯，你有什么新发现？"
 
-# translate schinese Sebas_Lothar_Adventure_End_3ea0d516:
+translate schinese Sebas_Lothar_Adventure_End_972be202:
 
-#     # "The three of you travel back to Lusterfield. Sebas and Lothar are arguing, as usual."
-#     ""
+    # s "Let me get the rock sample..."
+    s "让我先提取些他的样本……"
 
-# translate schinese Sebas_Lothar_Adventure_End_532527bf:
+translate schinese Sebas_Lothar_Adventure_End_dcb41728:
 
-#     # "You are walking in between them, occasionally getting bumped by one of them's beefy shoulder."
-#     ""
+    # "As Sebas touches the golem, it immediately crumbles into dust and particles, even the moss is gone now..."
+    "塞巴斯一碰上去，石魔像立刻粉碎成了一堆尘土，甚至连身上的苔藓都消失得干干净净……"
 
-# translate schinese Sebas_Lothar_Adventure_End_edac0ace:
+translate schinese Sebas_Lothar_Adventure_End_010dee8f:
 
-#     # "Glancing at both of them, they seem to be oddly enjoying each other's company, despite all the taunting and dickering."
-#     ""
+    # l "Good job, lion."
+    l "干得漂亮，笨猫。"
 
-# translate schinese Sebas_Lothar_Adventure_End_49095450:
+translate schinese Sebas_Lothar_Adventure_End_e1554201:
 
-#     # "Soon, you three are back to the shop."
-#     ""
+    # s "..."
+    s "……"
 
-# translate schinese Sebas_Lothar_Adventure_End_a462b1fa:
+translate schinese Sebas_Lothar_Adventure_End_5abc6d37:
 
-#     # l "Lion, what do I get from the stone?"
-#     l ""
+    # s "I can gather some more details by myself later here. But we should go back now, we don't know if there's any other golems here."
+    s "以后我可以自己再来调查清楚。现在该回去了，谁也不知道下一秒会不会再窜出来一个石魔像。"
 
-# translate schinese Sebas_Lothar_Adventure_End_cd5e1f04:
+translate schinese Sebas_Lothar_Adventure_End_9f876c20:
 
-#     # s "How about 800 gold. I'm already being too generous with the pricing."
-#     s ""
+    # l "Look, I will protect you two."
+    l "嘿，有大英雄保护你们怕什么。"
 
-# translate schinese Sebas_Lothar_Adventure_End_b12dfa22:
+translate schinese Sebas_Lothar_Adventure_End_b8a57d04:
 
-#     # l "...900."
-#     l ""
+    # s "Uhh- no thanks. Let's go buddy."
+    s "呃——不用了谢谢。[e]，我们走吧。"
 
-# translate schinese Sebas_Lothar_Adventure_End_f49cfa97:
+translate schinese Sebas_Lothar_Adventure_End_3ea0d516:
 
-#     # s "850."
-#     s ""
+    # "The three of you travel back to Lusterfield. Sebas and Lothar are arguing, as usual."
+    "就这样，你们踏上了回村的归途。一路上塞巴斯和洛萨尔不出所料又互怼个没完。"
 
-# translate schinese Sebas_Lothar_Adventure_End_42567b5c:
+translate schinese Sebas_Lothar_Adventure_End_532527bf:
 
-#     # l "You're pushing it lion."
-#     l ""
+    # "You are walking in between them, occasionally getting bumped by one of them's beefy shoulder."
+    "你被两个壮汉挤在中间，不时撞到其中一人粗壮的臂膀。"
 
-# translate schinese Sebas_Lothar_Adventure_End_e1554201_1:
+translate schinese Sebas_Lothar_Adventure_End_edac0ace:
 
-#     # s "..."
-#     s "……"
+    # "Glancing at both of them, they seem to be oddly enjoying each other's company, despite all the taunting and dickering."
+    "你瞄瞄室友又瞧瞧师傅，他们虽然看起来针锋相对，但却又似乎在微妙地享受彼此的陪伴。"
 
-# translate schinese Sebas_Lothar_Adventure_End_d3f09a02:
+translate schinese Sebas_Lothar_Adventure_End_49095450:
 
-#     # s "700."
-#     s ""
+    # "Soon, you three are back to the shop."
+    "很快，你们回到了当铺。"
 
-# translate schinese Sebas_Lothar_Adventure_End_a0a9af2e:
+translate schinese Sebas_Lothar_Adventure_End_a462b1fa:
 
-#     # l "Ok. Ok. 850 gold."
-#     l ""
+    # l "Lion, what do I get from the stone?"
+    l "塞巴斯，你拿多少钱买我的石头？"
 
-# translate schinese Sebas_Lothar_Adventure_End_c804e434:
+translate schinese Sebas_Lothar_Adventure_End_cd5e1f04:
 
-#     # "Sebas hands Lothar the gold while he takes the stone away, putting it in a precious box."
-#     ""
+    # s "How about 800 gold. I'm already being too generous with the pricing."
+    s "八百金币如何。这个报价已经很慷慨了。"
 
-# translate schinese Sebas_Lothar_Adventure_End_23a2ad3b:
+translate schinese Sebas_Lothar_Adventure_End_b12dfa22:
 
-#     # e "Wait... this rock is worth 850 gold?"
-#     e ""
+    # l "...900."
+    l "……九百。"
 
-# translate schinese Sebas_Lothar_Adventure_End_ccb68d62:
+translate schinese Sebas_Lothar_Adventure_End_f49cfa97:
 
-#     # s "Yeah, buddy. It's no ordinary glowing stone. It contains a fragment of the golem's soul."
-#     s ""
+    # s "850."
+    s "八百五。"
 
-# translate schinese Sebas_Lothar_Adventure_End_8721fd8e:
+translate schinese Sebas_Lothar_Adventure_End_42567b5c:
 
-#     # s "I can fetch a great price selling it to those merchants, at least 1200 gold."
-#     s ""
+    # l "You're pushing it lion."
+    l "别贪得无厌，黄毛。"
 
-# translate schinese Sebas_Lothar_Adventure_End_98afcb57:
+translate schinese Sebas_Lothar_Adventure_End_e1554201_1:
 
-#     # e "Oh... that sounds really good. Can I buy it?"
-#     e ""
+    # s "..."
+    s "……"
 
-# translate schinese Sebas_Lothar_Adventure_End_02ba1cc7:
+translate schinese Sebas_Lothar_Adventure_End_d3f09a02:
 
-#     # s "Yeah. Sure you can, but no discount this time."
-#     s ""
+    # s "700."
+    s "七百。"
 
-# translate schinese Sebas_Lothar_Adventure_End_58e8097e:
+translate schinese Sebas_Lothar_Adventure_End_a0a9af2e:
 
-#     # e "Hmm... I'll think about it."
-#     e ""
+    # l "Ok. Ok. 850 gold."
+    l "好吧，好吧，八百五就八百五。"
 
-# translate schinese Sebas_Lothar_Adventure_End_d7ad2fbf:
+translate schinese Sebas_Lothar_Adventure_End_c804e434:
 
-#     # l "So, lion. We're done here?"
-#     l ""
+    # "Sebas hands Lothar the gold while he takes the stone away, putting it in a precious box."
+    "塞巴斯拿出一大堆金币，洛萨尔则将金币悉数装进了他那宝贵的盒子里。"
 
-# translate schinese Sebas_Lothar_Adventure_End_a5beefa5:
+translate schinese Sebas_Lothar_Adventure_End_23a2ad3b:
 
-#     # s "Yeah, I will have to see you later. Lothar."
-#     s ""
+    # e "Wait... this rock is worth 850 gold?"
+    e "啊……这块石头值八百五十个金币？"
 
-# translate schinese Sebas_Lothar_Adventure_End_dd9aa13f:
+translate schinese Sebas_Lothar_Adventure_End_ccb68d62:
 
-#     # l "Alright. Guess I should pick up another stone next time."
-#     l ""
+    # s "Yeah, buddy. It's no ordinary glowing stone. It contains a fragment of the golem's soul."
+    s "没错，老铁。这可不是一块普通的石头。它里面有一部分石魔像的灵魂。"
 
-# translate schinese Sebas_Lothar_Adventure_End_39385698:
+translate schinese Sebas_Lothar_Adventure_End_8721fd8e:
 
-#     # "Lothar nods to you two and leaves the shop."
-#     ""
+    # s "I can fetch a great price selling it to those merchants, at least 1200 gold."
+    s "要是卖给那些行商，估计可以卖个一千二。"
 
-# translate schinese Sebas_Lothar_Adventure_End_5e133033:
+translate schinese Sebas_Lothar_Adventure_End_98afcb57:
 
-#     # s "Hey, buddy. I'm gonna polish my rock here. You're free to go now."
-#     s ""
+    # e "Oh... that sounds really good. Can I buy it?"
+    e "哇……真不错。我可以买下它吗？"
 
-# translate schinese Sebas_Lothar_Adventure_End_65b11dcd:
+translate schinese Sebas_Lothar_Adventure_End_02ba1cc7:
 
-#     # e "Ummm... can I ask a question, Seb?"
-#     e ""
+    # s "Yeah. Sure you can, but no discount this time."
+    s "可以呀，但这回没有折扣唷。"
 
-# translate schinese Sebas_Lothar_Adventure_End_60314747:
+translate schinese Sebas_Lothar_Adventure_End_58e8097e:
 
-#     # s "What's up, [e]."
-#     s ""
+    # e "Hmm... I'll think about it."
+    e "嗯……我再想想看吧。"
 
-# translate schinese Sebas_Lothar_Adventure_End_788836b5:
+translate schinese Sebas_Lothar_Adventure_End_d7ad2fbf:
 
-#     # e "Can we hang out sometimes later, like this, I really enjoyed the time we had."
-#     e ""
+    # l "So, lion. We're done here?"
+    l "黄毛，接下来没我们事了吧。"
 
-# translate schinese Sebas_Lothar_Adventure_End_cd5e4e16:
+translate schinese Sebas_Lothar_Adventure_End_a5beefa5:
 
-#     # e "Minus the arguing with Lothar part of course."
-#     e ""
+    # s "Yeah, I will have to see you later. Lothar."
+    s "没了。后会有期，洛萨尔。"
 
-# translate schinese Sebas_Lothar_Adventure_End_b3b9c0e8:
+translate schinese Sebas_Lothar_Adventure_End_dd9aa13f:
 
-#     # s "Hmm..."
-#     s ""
+    # l "Alright. Guess I should pick up another stone next time."
+    l "行，下回我再捡个值钱的石头。"
 
-# translate schinese Sebas_Lothar_Adventure_End_03bdd77b:
+translate schinese Sebas_Lothar_Adventure_End_39385698:
 
-#     # s "Maybe if you found another interesting place to go."
-#     s ""
+    # "Lothar nods to you two and leaves the shop."
+    "洛萨尔向你们点头致意，离开了当铺。"
 
-# translate schinese Sebas_Lothar_Adventure_End_96e6bfdd:
+translate schinese Sebas_Lothar_Adventure_End_5e133033:
 
-#     # e "R-really?"
-#     e ""
+    # s "Hey, buddy. I'm gonna polish my rock here. You're free to go now."
+    s "嘿，老铁。我准备给这块石头抛下光，今天就到这里吧。"
 
-# translate schinese Sebas_Lothar_Adventure_End_f66377fb:
+translate schinese Sebas_Lothar_Adventure_End_65b11dcd:
 
-#     # s "I mean. I'm really busy for most of the day. And I have already used my only day-off of the year to go out with you and Lothar."
-#     s ""
+    # e "Ummm... can I ask a question, Seb?"
+    e "唔……我能问你一件事吗？"
 
-# translate schinese Sebas_Lothar_Adventure_End_d80b560d:
+translate schinese Sebas_Lothar_Adventure_End_60314747:
 
-#     # s "We can fool around. I had a great idea about what we're gonna do though."
-#     s ""
+    # s "What's up, [e]."
+    s "怎么啦，[e]。"
 
-# translate schinese Sebas_Lothar_Adventure_End_2c20eff0:
+translate schinese Sebas_Lothar_Adventure_End_788836b5:
 
-#     # s "We'll talk later, alright? Stay safe, buddy. And don't get hit by another rock."
-#     s ""
+    # e "Can we hang out sometimes later, like this, I really enjoyed the time we had."
+    e "以后我们还能像今天这样，偶尔一起出门玩玩吗？今天我真的很开心。"
 
-# translate schinese Sebas_Lothar_Adventure_End_34609ea0:
+translate schinese Sebas_Lothar_Adventure_End_cd5e4e16:
 
-#     # e "Oh. O-ok, see you then, Seb."
-#     e ""
+    # e "Minus the arguing with Lothar part of course."
+    e "当然，除去和洛萨尔吵架的部分。"
 
-# translate schinese Sebas_Lothar_Adventure_End_77059830:
+translate schinese Sebas_Lothar_Adventure_End_b3b9c0e8:
 
-#     # s "Hmm... Sorry buddy. I'm just too busy in the shop. And I used my only day-off of the year to go out with you and Lothar."
-#     s ""
+    # s "Hmm..."
+    s "唔……"
 
-# translate schinese Sebas_Lothar_Adventure_End_2805b6d9:
+translate schinese Sebas_Lothar_Adventure_End_03bdd77b:
 
-#     # e "O-oh... Ok."
-#     e ""
+    # s "Maybe if you found another interesting place to go."
+    s "假如你有别的好去处的话。"
 
-# translate schinese Sebas_Lothar_Adventure_End_7b9a2aa2:
+translate schinese Sebas_Lothar_Adventure_End_96e6bfdd:
 
-#     # s "I really don't have much spare time, I guess."
-#     s ""
+    # e "R-really?"
+    e "真、真的吗？"
 
-# translate schinese Sebas_Lothar_Adventure_End_abd13d79:
+translate schinese Sebas_Lothar_Adventure_End_f66377fb:
 
-#     # e "It's alright, Seb."
-#     e ""
+    # s "I mean. I'm really busy for most of the day. And I have already used my only day-off of the year to go out with you and Lothar."
+    s "可惜我基本没多少空闲时间，今天这趟已经花掉我唯一一天年假了。"
 
-# translate schinese Sebas_Lothar_Adventure_End_7e1c4b82:
+translate schinese Sebas_Lothar_Adventure_End_d80b560d:
 
-#     # s "Yeah? Promise me you won't get angry because of me?"
-#     s ""
+    # s "We can fool around. I had a great idea about what we're gonna do though."
+    s "有空的话我当然愿意，我甚至还有个超赞的点子。"
 
-# translate schinese Sebas_Lothar_Adventure_End_77b7b9ad:
+translate schinese Sebas_Lothar_Adventure_End_2c20eff0:
 
-#     # e "Yes... I don't mind."
-#     e ""
+    # s "We'll talk later, alright? Stay safe, buddy. And don't get hit by another rock."
+    s "不过我们之后再聊吧。注意安全老铁，别被另一块石头揍了。"
 
-# translate schinese Sebas_Lothar_Adventure_End_ef5e8879:
+translate schinese Sebas_Lothar_Adventure_End_34609ea0:
 
-#     # s "Haha then we'll talk later, alright? Stay safe, buddy. Don't get hit by another rock."
-#     s ""
+    # e "Oh. O-ok, see you then, Seb."
+    e "噢，好、好的。待会见，阿塞。"
 
-# translate schinese Sebas_Lothar_Adventure_End_dd403f9f:
+translate schinese Sebas_Lothar_Adventure_End_77059830:
 
-#     # e "O-ok, see you then, Seb."
-#     e ""
+    # s "Hmm... Sorry buddy. I'm just too busy in the shop. And I used my only day-off of the year to go out with you and Lothar."
+    s "唔……抱歉啊老铁。当铺有太多事情需要我去处理，今天这趟已经花掉我唯一一天年假了。"
 
-# translate schinese Sebas_Lothar_Adventure_End_8c6daad4:
+translate schinese Sebas_Lothar_Adventure_End_2805b6d9:
 
-#     # "Sebas gives you a nod while continue looking at his newly-acquired rock."
-#     ""
+    # e "O-oh... Ok."
+    e "嗯……没事。"
 
-# translate schinese Sebas_Lothar_Adventure_End_caba8e48:
+translate schinese Sebas_Lothar_Adventure_End_7b9a2aa2:
 
-#     # "He doesn't seem to concerned of you... compared to your first meeting. You feel a little uneasy, as if you did something wrong."
-#     ""
+    # s "I really don't have much spare time, I guess."
+    s "可惜我平常没有多少空闲时间，嗯。"
 
-# translate schinese Sebas_Lothar_Adventure_End_e62911c6:
+translate schinese Sebas_Lothar_Adventure_End_abd13d79:
 
-#     # "But at the end, you decide it's better for you to continue with your adventure."
-#     ""
+    # e "It's alright, Seb."
+    e "没问题的，阿塞。"
+
+translate schinese Sebas_Lothar_Adventure_End_7e1c4b82:
+
+    # s "Yeah? Promise me you won't get angry because of me?"
+    s "真的吗？你保证没有生我气噢？"
+
+translate schinese Sebas_Lothar_Adventure_End_77b7b9ad:
+
+    # e "Yes... I don't mind."
+    e "我没有……真的。"
+
+translate schinese Sebas_Lothar_Adventure_End_ef5e8879:
+
+    # s "Haha then we'll talk later, alright? Stay safe, buddy. Don't get hit by another rock."
+    s "嘿嘿，那我们之后再聊吧。注意安全老铁，别被另一块石头揍了。"
+
+translate schinese Sebas_Lothar_Adventure_End_dd403f9f:
+
+    # e "O-ok, see you then, Seb."
+    e "好、好的。待会见，阿塞。"
+
+translate schinese Sebas_Lothar_Adventure_End_8c6daad4:
+
+    # "Sebas gives you a nod while continue looking at his newly-acquired rock."
+    "塞巴斯点点头，又专心致志地研究起他的新玩具。"
+
+translate schinese Sebas_Lothar_Adventure_End_caba8e48:
+
+    # "He doesn't seem to concerned of you... compared to your first meeting. You feel a little uneasy, as if you did something wrong."
+    "与你俩初次见面时相比……他好像没那么在乎你了。你心里头有些不安，仿佛自己做错了什么事。"
+
+translate schinese Sebas_Lothar_Adventure_End_e62911c6:
+
+    # "But at the end, you decide it's better for you to continue with your adventure."
+    "但最后你决定继续自己的旅程，让时间给出答案。"
 
 #问关于洛萨尔的事情
 
@@ -6965,7 +7003,7 @@ translate schinese Ole_Ask_Kingspawn_7e92edeb:
 
     # e "Wait... didn't Seb say he owns this place?"
     e "诶……阿塞不是说当铺是他的吗？"
-#TODO
+
 translate schinese Ole_Ask_Kingspawn_2b11de51:
 
     # o "Technically yes, his uncle gave it to him, some kind of consolidation gift."
