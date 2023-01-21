@@ -351,37 +351,37 @@ translate schinese goat_battle_loop_9953be8f:
 translate schinese goat_battle_loop_362f9af1:
 
     # "You aim and shoot your [pc.weapon.name!t] at the goat. The arrow hits him right in the shoulder. His health decreases by [oa[4]] HP."
-    "你架设[pc.weapon.name!t]飞箭射向山羊猎人。这一箭正中他的肩膀，令他损失了 [oa[4]] 点体力值。"
+    "你架设[pc.weapon.name!t]飞箭射向山羊猎人。这一箭正中他的肩膀，令他损失了 [oa[4]] 点体力。"
 
 translate schinese goat_battle_loop_9b0045ba:
 
     # "You run while shooting your [pc.weapon.name!t] at the goat, knocking him to the ground. He growls at you before getting up, albeit disheveled. His health decreases by [oa[4]] HP."
-    "你一边变换方位，一边架设[pc.weapon.name!t]飞箭射向敌人。这一箭将他击倒在地，令他损失了 [oa[4]] 点体力值。山羊猎人即使蓬头垢面也不示弱，朝你发出咆哮，从地上爬了起来。"
+    "你一边变换方位，一边架设[pc.weapon.name!t]飞箭射向敌人。这一箭将他击倒在地，令他损失了 [oa[4]] 点体力。山羊猎人即使蓬头垢面也不示弱，朝你发出咆哮，从地上爬了起来。"
 
 translate schinese goat_battle_loop_dd5f79e8:
 
     # "You throw your fist at the goat, hitting him right across the face. The sheer impact knocks him to the ground. His health decreases by [oa[4]] HP."
-    "你一拳挥向山羊猎人，正中脸部。巨大的冲击力使得他应声倒地，并损失了 [oa[4]] 点体力值"
+    "你一拳挥向山羊猎人，正中脸部。巨大的冲击力使得他应声倒地，并损失了 [oa[4]] 点体力。"
 
 translate schinese goat_battle_loop_43ad78a5:
 
     # "You slam your fist into the goat's stomach. As he doubles over in pain, you kick out his legs under him, knocking him flat on the ground. His health decreases by [oa[4]] HP."
-    "你勾拳猛击山羊的腹部。他痛苦地捂着肚子，而你乘胜追击，再朝他的腿多添了一脚，将他踹倒在地，令他损失了 [oa[4]] 点体力值。"
+    "你勾拳猛击山羊的腹部。他痛苦地捂着肚子，而你乘胜追击，再朝他的腿多添了一脚，将他踹倒在地，令他损失了 [oa[4]] 点体力。"
 
 translate schinese goat_battle_loop_72b19042:
 
     # "A bright red gash appearing in his arm. His health decreases by [oa[4]] HP."
-    "他的手臂开出了一道鲜红的伤口，令他损失了 [oa[4]] 点体力值。"
+    "他的手臂开出了一道鲜红的伤口，令他损失了 [oa[4]] 点体力。"
 
 translate schinese goat_battle_loop_2476aeaa:
 
     # "He growls at you before getting up, albeit disheveled. His health decreases by [oa[4]] HP."
-    "他即使蓬头垢面也不示弱，朝你发出咆哮，从地上爬了起来。山羊猎人损失了 [oa[4]] 点体力值。"
+    "他即使蓬头垢面也不示弱，朝你发出咆哮，从地上爬了起来。山羊猎人损失了 [oa[4]] 点体力。"
 
 translate schinese goat_battle_loop_17fe72ee:
 
     # "Drops of blood spill down the front of his body. His health decreases by [oa[4]] HP."
-    "血滴从他的胸腹溅出，令他损失了 [oa[4]] 点体力值。"
+    "血滴从他的胸腹溅出，令他损失了 [oa[4]] 点体力。"
 
 translate schinese goat_battle_loop_18302ba4:
 
@@ -546,12 +546,12 @@ translate schinese goat_battle_loop_5fa880da:
 translate schinese goat_battle_loop_61edf8e6:
 
     # "The goat huntsman swings his spear towards you, you are not quick enough to dodge his blow. Your health decreases by [enemy_damage] HP."
-    "山羊猎人挥矛刺向你，你来不及躲闪挨了他一枪。你损失了 [enemy_damage] 点体力值。"
+    "山羊猎人挥矛刺向你，你来不及躲闪挨了他一枪。你损失了 [enemy_damage] 点体力。"
 
 translate schinese goat_battle_loop_43de825b:
 
     # "The goat charges at you, hitting you with a kick to the chest. Your health decreases by [enemy_damage] HP."
-    "山羊猎人冲向你，给你胸膛一记飞踢。你损失了 [enemy_damage] 点体力值。"
+    "山羊猎人冲向你，给你胸膛一记飞踢。你损失了 [enemy_damage] 点体力。"
 
 translate schinese goat_battle_loop_3aa72489:
 
@@ -1145,12 +1145,12 @@ translate schinese mossgolem_battle_loop_ef6f4b5b:
 translate schinese mossgolem_battle_loop_24bcc736:
 
     # "His health decreases by [oa[4]] HP."
-    "他失去了 [oa[4]] 点体力值。"
+    "他失去了 [oa[4]] 点体力。"
 
 translate schinese mossgolem_battle_loop_292fc3a5:
 
     # "It seems you've hit the golem critically, dealing [oa[4]] HP!"
-    "暴击！他失去了 [oa[4]] 点体力值！"
+    "暴击！他失去了 [oa[4]] 点体力！"
 
 translate schinese mossgolem_battle_loop_7c6f4f33:
 
@@ -1250,12 +1250,12 @@ translate schinese mossgolem_battle_loop_88eafef6:
 translate schinese mossgolem_battle_loop_4651dcfa:
 
     # "The golem swings his fist in your direction, hitting you in the chest. Your health decreases by [enemy_damage] HP."
-    "石魔像挥拳击中了你的胸膛，令你损失了 [enemy_damage] 点体力值。"
+    "石魔像挥拳击中了你的胸膛，令你损失了 [enemy_damage] 点体力。"
 
 translate schinese mossgolem_battle_loop_ba087092:
 
     # "The golem strikes you down with his vines. You pass out for a few seconds before getting up. Your health decreases by [enemy_damage] HP."
-    "石魔像抽动藤曼打中了你，你在失去意识的几秒钟内损失了 [enemy_damage] 点体力值。"
+    "石魔像抽动藤曼打中了你，你在失去意识的几秒钟内损失了 [enemy_damage] 点体力。"
 
 translate schinese mossgolem_battle_loop_badf1f48:
 
@@ -1270,12 +1270,12 @@ translate schinese mossgolem_battle_loop_2c85f159:
 translate schinese mossgolem_battle_loop_96174b9e:
 
     # "The Moss Golem channels the water into a blue orb of regeneration. His body becomes revitalised by the power of water."
-    "石魔像将水汽聚集成一团蓝色的光球，释放出治愈自身的水系能量。"
+    "石魔像抽离河水聚集成一团蓝色的光球，释放出治愈自身的水系能量。"
 
 translate schinese mossgolem_battle_loop_8fd8c645:
 
     # "He has recovered [healing] HP."
-    "他的体力值回复了 [healing] 点。"
+    "他的体力回复了 [healing] 点。"
 
 #战败苔藓石魔像
 
