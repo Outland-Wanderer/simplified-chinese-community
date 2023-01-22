@@ -826,11 +826,11 @@ translate schinese strings:
     old "Lothar found a stone in his recent adventure, he asked me to help him take it to Sebas to fetch a good price."
     new "洛萨尔在探险途中发现了一块石头，让我帮忙卖给塞巴斯，最好能卖个好价钱。"
 
-    # old "Truce"
-    # new "休战"
+    old "Truce"
+    new "休战"
 
-    # old "Furkan asked me to deliver a letter to Rahim as a signal of peace. I need to tell him about Rahim's Response."
-    # new "弗坎让我把一封议和信送给雷希姆。我得告诉他雷希姆的回应。"
+    old "Furkan asked me to deliver a letter to Rahim as a signal of peace. I need to tell him about Rahim's Response."
+    new "弗坎让我把一封议和信送给雷希姆。我得告诉他雷希姆的回应。"
 
     # old "The Second Finest Lad"
     # new "世界第二棒小伙"

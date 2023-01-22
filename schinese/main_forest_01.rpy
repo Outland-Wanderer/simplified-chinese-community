@@ -341,7 +341,7 @@ translate schinese ancient_tree_loop_eecd97a4:
 translate schinese ancient_tree_loop_fb7fa5e9:
 
     # "It took you a few minutes to get rid of the trap, but the wound leaves behind a few drops of blood on the grass. Your HP drops by 20."
-    "你花几分钟挣开了陷阱，留下几滴鲜血洒落草地。你的体力值降低了 20 点。"
+    "你花几分钟挣开了陷阱，留下几滴鲜血洒落草地。你的体力降低了 20 点。"
 
 translate schinese ancient_tree_loop_90ff1c7f:
 

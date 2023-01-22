@@ -7618,8 +7618,8 @@ translate schinese strings:
     # old "Report to Rahim"
     # new "报告新装备的反响"
 
-    # old "Deliver the Letter from Furkan"
-    # new "递出弗坎的信件"
+    old "Deliver the Letter from Furkan"
+    new "递出弗坎的信件"
 
     old "Ask about his Tailor job"
     new "好奇裁缝的工作"
@@ -9670,110 +9670,110 @@ translate schinese strings:
 #     # "There's no reason for you to stick around here, so… you leave."
 #     ""
 
-# translate schinese Rahim_Letter_Furkan_a6c14195:
+translate schinese Rahim_Letter_Furkan_a6c14195:
 
-#     # e "Hello, Rahim. I've gotten a letter from Furkan."
-#     e ""
+    # e "Hello, Rahim. I've gotten a letter from Furkan."
+    e "雷叔，弗坎有一封信寄给你。"
 
-# translate schinese Rahim_Letter_Furkan_19fcb7b1:
+translate schinese Rahim_Letter_Furkan_19fcb7b1:
 
-#     # r "What?"
-#     r ""
+    # r "What?"
+    r "嗯？"
 
-# translate schinese Rahim_Letter_Furkan_4c902b16:
+translate schinese Rahim_Letter_Furkan_4c902b16:
 
-#     # e "Uhh... A letter from Furkan from the Goat Tribe."
-#     e ""
+    # e "Uhh... A letter from Furkan from the Goat Tribe."
+    e "呃……山羊部落的弗坎给你写了一封信。"
 
-# translate schinese Rahim_Letter_Furkan_970b96ef:
+translate schinese Rahim_Letter_Furkan_970b96ef:
 
-#     # r "Why?"
-#     r ""
+    # r "Why?"
+    r "为什么？"
 
-# translate schinese Rahim_Letter_Furkan_ec3fa201:
+translate schinese Rahim_Letter_Furkan_ec3fa201:
 
-#     # e "He wanted to propose a Truce. For Lusterfield and the Goat Tribe."
-#     e ""
+    # e "He wanted to propose a Truce. For Lusterfield and the Goat Tribe."
+    e "他想要我们和他们停战。"
 
-# translate schinese Rahim_Letter_Furkan_8d51c077:
+translate schinese Rahim_Letter_Furkan_8d51c077:
 
-#     # r "Let me see the letter."
-#     r ""
+    # r "Let me see the letter."
+    r "把信给我。"
 
-# translate schinese Rahim_Letter_Furkan_8615e6a6:
+translate schinese Rahim_Letter_Furkan_8615e6a6:
 
-#     # "You hand the letter to Rahim, he yanks it away immediately, you have never seen him being this urged. He put on his reading glasses and begin skimming through the letter."
-#     ""
+    # "You hand the letter to Rahim, he yanks it away immediately, you have never seen him being this urged. He put on his reading glasses and begin skimming through the letter."
+    "你小心翼翼递出议和信，雷希姆一把夺过，你从没见老牛这般着急。他戴上老花镜，粗略地读起了信件。"
 
-# translate schinese Rahim_Letter_Furkan_1931fce9:
+translate schinese Rahim_Letter_Furkan_1931fce9:
 
-#     # r "'Deer-... Dear Rahim, I am writing this letter to express my sorrow and regret over the past few years. I...'"
-#     r ""
+    # r "'Deer-... Dear Rahim, I am writing this letter to express my sorrow and regret over the past few years. I...'"
+    r "尊敬——尊敬的雷希姆，我谨以此信表达对过去十年的缅怀和愧意。我……"
 
-# translate schinese Rahim_Letter_Furkan_0b6964bf:
+translate schinese Rahim_Letter_Furkan_0b6964bf:
 
-#     # r "'...You could never feel how sorry I am for the battle and I wish if time could go back...'"
-#     r ""
+    # r "'...You could never feel how sorry I am for the battle and I wish if time could go back...'"
+    r "……笔墨难以书写我有多么悔恨那场战争，多么希望能回到从前……"
 
-# translate schinese Rahim_Letter_Furkan_dfe07764:
+translate schinese Rahim_Letter_Furkan_dfe07764:
 
-#     # r "'...A sign of peace, let us negotiate in person, we will negotiate in the old place where my father...'"
-#     r ""
+    # r "'...A sign of peace, let us negotiate in person, we will negotiate in the old place where my father...'"
+    r "……和平愿景，恳请您与我当面会谈相关事宜，地点即在先父……"
 
-# translate schinese Rahim_Letter_Furkan_b618baf3:
+translate schinese Rahim_Letter_Furkan_b618baf3:
 
-#     # r "'...Yours...Furkan...'"
-#     r ""
+    # r "'...Yours...Furkan...'"
+    r "……此致，恭候……弗坎……"
 
-# translate schinese Rahim_Letter_Furkan_dd6e0d2e:
+translate schinese Rahim_Letter_Furkan_dd6e0d2e:
 
-#     # "You cannot tell if Rahim is holding back his tear, or anger, or frustration. He simply put the paper back in the envelope as soon as he finishes reading."
-#     ""
+    # "You cannot tell if Rahim is holding back his tear, or anger, or frustration. He simply put the paper back in the envelope as soon as he finishes reading."
+    "你判断不出面前的男人是愤怒，沮丧，还是在忍住眼泪。他一读完便将信纸叠好放回信封内，没有多余的动作或言语。"
 
-# translate schinese Rahim_Letter_Furkan_a4d18fc8:
+translate schinese Rahim_Letter_Furkan_a4d18fc8:
 
-#     # r "Duly Noted."
-#     r ""
+    # r "Duly Noted."
+    r "收悉。"
 
-# translate schinese Rahim_Letter_Furkan_418d1d36:
+translate schinese Rahim_Letter_Furkan_418d1d36:
 
-#     # e "Hmm... Are you sure... Rahim? I thought he was writing the letter as a sign of peace. I think we shou-"
-#     e ""
+    # e "Hmm... Are you sure... Rahim? I thought he was writing the letter as a sign of peace. I think we shou-"
+    e "呃……雷叔……你确定？他是来议和的。我觉得我们应该——"
 
-# translate schinese Rahim_Letter_Furkan_3b7a9069:
+translate schinese Rahim_Letter_Furkan_3b7a9069:
 
-#     # r "I'm sorry but I don't recall needing your opinion. He wrote the letter to me, I'm saying no."
-#     r ""
+    # r "I'm sorry but I don't recall needing your opinion. He wrote the letter to me, I'm saying no."
+    r "我不需要你的意见。这封信是写给我的，而我表示拒绝。"
 
-# translate schinese Rahim_Letter_Furkan_668ee95f:
+translate schinese Rahim_Letter_Furkan_668ee95f:
 
-#     # e "...Ok. Rahim. Can you at least tell me what's going on."
-#     e ""
+    # e "...Ok. Rahim. Can you at least tell me what's going on."
+    e "……好的，但您至少可以告诉我原因吗？"
 
-# translate schinese Rahim_Letter_Furkan_50b0d466:
+translate schinese Rahim_Letter_Furkan_50b0d466:
 
-#     # r "I'll tell you when the time comes."
-#     r ""
+    # r "I'll tell you when the time comes."
+    r "时候到了我自然会告诉你。"
 
-# translate schinese Rahim_Letter_Furkan_f7ec1b0d:
+translate schinese Rahim_Letter_Furkan_f7ec1b0d:
 
-#     # e "... Alright. I'll let him know."
-#     e ""
+    # e "... Alright. I'll let him know."
+    e "……没问题，您的回复我会转告他的。"
 
-# translate schinese Rahim_Letter_Furkan_bb5a6b61:
+translate schinese Rahim_Letter_Furkan_bb5a6b61:
 
-#     # r "Ahem... I'm sorry about my attitude. There's just a lot of stuff you don't understand yet. I don't want to involve my village in another conflicts."
-#     r ""
+    # r "Ahem... I'm sorry about my attitude. There's just a lot of stuff you don't understand yet. I don't want to involve my village in another conflicts."
+    r "嗯……[e]，我为刚才的态度向你道歉。只是有很多事你现在还不懂。我不希望乐村卷进另一场冲突。"
 
-# translate schinese Rahim_Letter_Furkan_93dc9dfe:
+translate schinese Rahim_Letter_Furkan_93dc9dfe:
 
-#     # e "I understand. Take care, Rahim."
-#     e ""
+    # e "I understand. Take care, Rahim."
+    e "这点我懂。那我出发了，您多保重。"
 
-# translate schinese Rahim_Letter_Furkan_6a131a86:
+translate schinese Rahim_Letter_Furkan_6a131a86:
 
-#     # r "You are good."
-#     r ""
+    # r "You are good."
+    r "好孩子。"
 
 #任务3
 
