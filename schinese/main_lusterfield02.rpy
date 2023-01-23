@@ -3778,70 +3778,70 @@ translate schinese strings:
 #     # c "Well, we'll see how long we can keep that up for."
 #     c ""
 
-# translate schinese Cane_Ask_Goat_Tribe_8027243b:
+translate schinese Cane_Ask_Goat_Tribe_8027243b:
 
-#     # e "...Cane? Have you heard of... the letter?"
-#     e ""
+    # e "...Cane? Have you heard of... the letter?"
+    e "……凯恩，你有听说过……那封信吗？"
+#TODO
+translate schinese Cane_Ask_Goat_Tribe_dad25553:
 
-# translate schinese Cane_Ask_Goat_Tribe_dad25553:
+    # c "Ye, ye. The lion spread around the news yesterday like strawberry jam on my bread."
+    c "听过听过。黄毛狮子昨天已经把这件事传遍嘞，生怕有谁不知道似的。"
 
-#     # c "Ye, ye. The lion spread around the news yesterday like strawberry jam on my bread."
-#     c ""
+translate schinese Cane_Ask_Goat_Tribe_c4401ebf:
 
-# translate schinese Cane_Ask_Goat_Tribe_c4401ebf:
+    # e "Hmm... What do you think?"
+    e "嗯……你有什么想法？"
 
-#     # e "Hmm... What do you think?"
-#     e ""
+translate schinese Cane_Ask_Goat_Tribe_b75af782:
 
-# translate schinese Cane_Ask_Goat_Tribe_b75af782:
+    # c "The Ram is a good lad... What's his name again? F-far? Fuck? Furk- Furkan."
+    c "那小羊羔人挺好的……他叫啥来着？法——？法克？弗——弗坎。"
 
-#     # c "The Ram is a good lad... What's his name again? F-far? Fuck? Furk- Furkan."
-#     c ""
+translate schinese Cane_Ask_Goat_Tribe_2bbcf644:
 
-# translate schinese Cane_Ask_Goat_Tribe_2bbcf644:
+    # e "Yeah, have you met him?"
+    e "没错。你见过他吗？"
 
-#     # e "Yeah, have you met him?"
-#     e ""
+translate schinese Cane_Ask_Goat_Tribe_2a03e59b:
 
-# translate schinese Cane_Ask_Goat_Tribe_2a03e59b:
+    # c "Ye ye. Yer ass was not here when we're kinda buddy buddy with the goat Tribe."
+    c "见过，那时你还没来，我们和山羊部落关系还扛扛得。"
 
-#     # c "Ye ye. Yer ass was not here when we're kinda buddy buddy with the goat Tribe."
-#     c ""
+translate schinese Cane_Ask_Goat_Tribe_b0e8373c:
 
-# translate schinese Cane_Ask_Goat_Tribe_b0e8373c:
+    # c "He's the son of the leader, our hero Lothar killed that bastard when they invaded us though."
+    c "弗坎是山羊部落族长的儿子，不过在他们入侵咱乐村的时候，洛大侠已经把他干掉哩。"
 
-#     # c "He's the son of the leader, our hero Lothar killed that bastard when they invaded us though."
-#     c ""
+translate schinese Cane_Ask_Goat_Tribe_5f6e8719:
 
-# translate schinese Cane_Ask_Goat_Tribe_5f6e8719:
+    # e "I-I see... Do you trust them?"
+    e "原来如此，那……你相信他们吗？"
 
-#     # e "I-I see... Do you trust them?"
-#     e ""
+translate schinese Cane_Ask_Goat_Tribe_1abfdea3:
 
-# translate schinese Cane_Ask_Goat_Tribe_1abfdea3:
+    # c "Look, I still got myself some secret ingredients from them."
+    c "悄悄告诉你，我有些秘制配料现在还从他们那头进货。"
 
-#     # c "Look, I still got myself some secret ingredients from them."
-#     c ""
+translate schinese Cane_Ask_Goat_Tribe_07f23a3c:
 
-# translate schinese Cane_Ask_Goat_Tribe_07f23a3c:
+    # c "So... perhaps a yes."
+    c "所以……大概吧。但他们好像正在森林里作怪。"
 
-#     # c "So... perhaps a yes."
-#     c ""
+translate schinese Cane_Ask_Goat_Tribe_77bc5f11:
 
-# translate schinese Cane_Ask_Goat_Tribe_77bc5f11:
+    # c "But they're doing some shady things around our forest, I guess, so ya be the judge."
+    c "当然这只是我的猜测，你自个定夺。"
 
-#     # c "But they're doing some shady things around our forest, I guess, so ya be the judge."
-#     c ""
+translate schinese Cane_Ask_Goat_Tribe_d6e80973:
 
-# translate schinese Cane_Ask_Goat_Tribe_d6e80973:
+    # e "Oh... Alright, thank you so much for the information, Cane."
+    e "噢……我明白了，谢谢你透露给我这些。"
 
-#     # e "Oh... Alright, thank you so much for the information, Cane."
-#     e ""
+translate schinese Cane_Ask_Goat_Tribe_bba3d5dd:
 
-# translate schinese Cane_Ask_Goat_Tribe_bba3d5dd:
-
-#     # c "No problem, good lad."
-#     c ""
+    # c "No problem, good lad."
+    c "甭客气，好孩子。"
 
 # translate schinese Cane_Work_b9eb2c1d:
 
@@ -9014,8 +9014,8 @@ translate schinese strings:
     old "Ask about his Loot"
     new "询问洛萨尔手中的东西"
 
-    # old "Ask about his opinion on the Goat Tribe"
-    # new "询问对山羊部落的看法"
+    old "Ask about his opinion on the Goat Tribe"
+    new "询问对山羊部落的看法"
 
     # old "Report about the visit to Goat Tribe"
     # new "报告打探山羊部落的结果"
@@ -14131,70 +14131,70 @@ translate schinese Lothar_Night_Greet_3cdf02a7_1:
     # e "Alright, see you."
     e "好，待会见。"
 
-# translate schinese Lothar_Ask_Goat_Tribe_1df400dd:
+translate schinese Lothar_Ask_Goat_Tribe_1df400dd:
 
-#     # e "Lothar, What do you think about the Goat Tribe?"
-#     e ""
+    # e "Lothar, What do you think about the Goat Tribe?"
+    e "洛萨尔，你对山羊部落怎么看？"
 
-# translate schinese Lothar_Ask_Goat_Tribe_5a7043e2:
+translate schinese Lothar_Ask_Goat_Tribe_5a7043e2:
 
-#     # l "Goat Tribe? Are they planning for a round two and I can beat their ass again?"
-#     l ""
+    # l "Goat Tribe? Are they planning for a round two and I can beat their ass again?"
+    l "山羊部落？要是他们再打过来，我又可以把他们屁滚尿流地打回去？"
 
-# translate schinese Lothar_Ask_Goat_Tribe_a41a6e16:
+translate schinese Lothar_Ask_Goat_Tribe_a41a6e16:
 
-#     # l "Yeah, maybe I'll be the hero of the hero of Lusterfield."
-#     l ""
+    # l "Yeah, maybe I'll be the hero of the hero of Lusterfield."
+    l "这样我或许能成为乐村大英雄中的大英雄。"
 
-# translate schinese Lothar_Ask_Goat_Tribe_bd23aa8c:
+translate schinese Lothar_Ask_Goat_Tribe_bd23aa8c:
 
-#     # e "Uhh... What's a hero of the hero."
-#     e ""
+    # e "Uhh... What's a hero of the hero."
+    e "呃……什么叫大英雄中的大英雄。"
 
-# translate schinese Lothar_Ask_Goat_Tribe_cd830105:
+translate schinese Lothar_Ask_Goat_Tribe_cd830105:
 
-#     # l "It's the... thing, with word."
-#     l ""
+    # l "It's the... thing, with word."
+    l "就是……那个，你懂的。"
 
-# translate schinese Lothar_Ask_Goat_Tribe_f5e1f6cb:
+translate schinese Lothar_Ask_Goat_Tribe_f5e1f6cb:
 
-#     # e "O-ok. I thought you knew about what happened..."
-#     e ""
+    # e "O-ok. I thought you knew about what happened..."
+    e "好、好吧。我还以为你知道发生了什么……"
 
-# translate schinese Lothar_Ask_Goat_Tribe_1c3c4f33:
+translate schinese Lothar_Ask_Goat_Tribe_1c3c4f33:
 
-#     # l "I- what? What happened?"
-#     l ""
+    # l "I- what? What happened?"
+    l "我——嗯？发生了什么？"
 
-# translate schinese Lothar_Ask_Goat_Tribe_8418f081:
+translate schinese Lothar_Ask_Goat_Tribe_8418f081:
 
-#     # e "Furkan asked me to send a letter to Rahim... for peace with Lusterfield."
-#     e ""
+    # e "Furkan asked me to send a letter to Rahim... for peace with Lusterfield."
+    e "弗坎委托我把一封议和信送给雷希姆……他想和我们休战。"
 
-# translate schinese Lothar_Ask_Goat_Tribe_1c61d788:
+translate schinese Lothar_Ask_Goat_Tribe_1c61d788:
 
-#     # l "...Why did no one told me... about this."
-#     l ""
+    # l "...Why did no one told me... about this."
+    l "……怎么没人告诉我这件事……"
 
-# translate schinese Lothar_Ask_Goat_Tribe_ae71a7ca:
+translate schinese Lothar_Ask_Goat_Tribe_ae71a7ca:
 
-#     # l "I'd instantly go kill that son of a goat and get his head as a trophy, for we Lusterfield people deserve it."
-#     l ""
+    # l "I'd instantly go kill that son of a goat and get his head as a trophy, for we Lusterfield people deserve it."
+    l "不然我立马去杀了那贼寇的儿子，将他的头颅献给我们乐斯民菲尔德村所有人民。"
 
-# translate schinese Lothar_Ask_Goat_Tribe_eee0b01b:
+translate schinese Lothar_Ask_Goat_Tribe_eee0b01b:
 
-#     # e "...Now I know why they didn't tell you."
-#     e ""
+    # e "...Now I know why they didn't tell you."
+    e "……我现在知道为什么没人告诉你了。"
 
-# translate schinese Lothar_Ask_Goat_Tribe_d5aaf7ba:
+translate schinese Lothar_Ask_Goat_Tribe_d5aaf7ba:
 
-#     # l "What are you implying, disciple."
-#     l ""
+    # l "What are you implying, disciple."
+    l "你想暗示什么，徒弟？"
 
-# translate schinese Lothar_Ask_Goat_Tribe_6eb58054:
+translate schinese Lothar_Ask_Goat_Tribe_6eb58054:
 
-#     # e "Uh... nothing."
-#     e ""
+    # e "Uh... nothing."
+    e "呃……什么都没有。"
 
 translate schinese Lothar_After_River_Trip_1d7fb0d4:
 

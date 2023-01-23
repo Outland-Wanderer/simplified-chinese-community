@@ -313,8 +313,8 @@ translate schinese strings:
     old "Check out the shop"
     new "交易商品"
 
-    # old "Ask for his opinion on Goat Tribe"
-    # new "询问对山羊部落的看法"
+    old "Ask for his opinion on Goat Tribe"
+    new "询问对山羊部落的看法"
 
     old "Ask about Lusterfield"
     new "询问乐斯民菲尔德的事情"
@@ -1303,67 +1303,65 @@ translate schinese strings:
 #     # s "Normally that person would be Ole but it's nice to know that we now have you too."
 #     s ""
 
-# #问塞巴斯有关山羊部落的事情
+translate schinese Sebas_Ask_Goat_Tribe_c95a4a5a:
 
-# translate schinese Sebas_Ask_Goat_Tribe_c95a4a5a:
+    # e "Seb! What do you think... about the goat tribe?"
+    e "阿塞！你对山羊部落……怎么看？"
 
-#     # e "Seb! What do you think... about the goat tribe?"
-#     e ""
+translate schinese Sebas_Ask_Goat_Tribe_1801f85c:
 
-# translate schinese Sebas_Ask_Goat_Tribe_1801f85c:
+    # s "Oh yeah, I've heard about that letter, I think Rahim came and asked us afterward."
+    s "噢，我听说那边有人送议和信过来了，雷希姆还来问过我们这件事。"
 
-#     # s "Oh yeah, I've heard about that letter, I think Rahim came and asked us afterward."
-#     s ""
+translate schinese Sebas_Ask_Goat_Tribe_7e9688db:
 
-# translate schinese Sebas_Ask_Goat_Tribe_7e9688db:
+    # e "Hmmph... Well. Which side are you leaning?"
+    e "唔……那你会站哪边队呢？"
+#TODO
+translate schinese Sebas_Ask_Goat_Tribe_fb728923:
 
-#     # e "Hmmph... Well. Which side are you leaning?"
-#     e ""
+    # s "Look, [e]. I have no side. The only side is my side, which is pretty fucking huge."
+    s "[e]，我哪边都不站。我只站我这队，"
 
-# translate schinese Sebas_Ask_Goat_Tribe_fb728923:
+translate schinese Sebas_Ask_Goat_Tribe_315ccb76:
 
-#     # s "Look, [e]. I have no side. The only side is my side, which is pretty fucking huge."
-#     s ""
+    # s "But I have to say, we lost a lot of business opportunity since we lost contact. It would be pretty great if we can... you know. Get them back."
+    s "但实话实说，自从我们和山羊部落断了联系，当铺的生意冷清了不少。如果我们能再……你懂的，还是有很多好处的。"
 
-# translate schinese Sebas_Ask_Goat_Tribe_315ccb76:
+translate schinese Sebas_Ask_Goat_Tribe_3388a208:
 
-#     # s "But I have to say, we lost a lot of business opportunity since we lost contact. It would be pretty great if we can... you know. Get them back."
-#     s ""
+    # e "Oh..."
+    e "噢……"
 
-# translate schinese Sebas_Ask_Goat_Tribe_3388a208:
+translate schinese Sebas_Ask_Goat_Tribe_e6ab4b66:
 
-#     # e "Oh..."
-#     e ""
+    # s "I'll choose whatever you choose, buddy. Don't worry about me."
+    s "老铁，不管你的决定如何，我都会一直支持你。所以不用顾虑我的想法。"
 
-# translate schinese Sebas_Ask_Goat_Tribe_e6ab4b66:
+translate schinese Sebas_Ask_Goat_Tribe_12e36cbd:
 
-#     # s "I'll choose whatever you choose, buddy. Don't worry about me."
-#     s ""
+    # e "Seb, why are you... so nice to me."
+    e "阿塞……为什么你要对我这么好。"
 
-# translate schinese Sebas_Ask_Goat_Tribe_12e36cbd:
+translate schinese Sebas_Ask_Goat_Tribe_6a29984d:
 
-#     # e "Seb, why are you... so nice to me."
-#     e ""
+    # s "I like seeing you smile, you're a good roommate."
+    s "因为我喜欢看见你的笑脸呗，你可是我的好室友。"
 
-# translate schinese Sebas_Ask_Goat_Tribe_6a29984d:
+translate schinese Sebas_Ask_Goat_Tribe_3978c518:
 
-#     # s "I like seeing you smile, you're a good roommate."
-#     s ""
+    # e "What about Ole?"
+    e "那奥利呢？"
 
-# translate schinese Sebas_Ask_Goat_Tribe_3978c518:
+translate schinese Sebas_Ask_Goat_Tribe_6205e6cb:
 
-#     # e "What about Ole?"
-#     e ""
+    # s "He's fine. I'm just happy you're here."
+    s "他也是。但我真的很高兴你能留下来。"
 
-# translate schinese Sebas_Ask_Goat_Tribe_6205e6cb:
+translate schinese Sebas_Ask_Goat_Tribe_34f02d8a:
 
-#     # s "He's fine. I'm just happy you're here."
-#     s ""
-
-# translate schinese Sebas_Ask_Goat_Tribe_34f02d8a:
-
-#     # e "Me too... Seb."
-#     e ""
+    # e "Me too... Seb."
+    e "我也是……阿塞。"
 
 # #为塞巴斯口交-引子
 
@@ -5129,70 +5127,70 @@ translate schinese strings:
 #     # e "Ok."
 #     e ""
 
-# translate schinese Ole_Ask_Goat_Tribe_62774199:
+translate schinese Ole_Ask_Goat_Tribe_62774199:
 
-#     # e "Hey... Ole. What's your opinion... on the Goat Tribe?"
-#     e ""
+    # e "Hey... Ole. What's your opinion... on the Goat Tribe?"
+    e "嗨……奥利。我想知道……你对山羊部落怎么看？"
 
-# translate schinese Ole_Ask_Goat_Tribe_628e0372:
+translate schinese Ole_Ask_Goat_Tribe_628e0372:
 
-#     # o "Rahim told me about your letter from Furkan. He's not very happy with it."
-#     o ""
+    # o "Rahim told me about your letter from Furkan. He's not very happy with it."
+    o "雷叔已经和我聊过弗坎的那封信了。他很不高兴。"
 
-# translate schinese Ole_Ask_Goat_Tribe_f82bd775:
+translate schinese Ole_Ask_Goat_Tribe_f82bd775:
 
-#     # e "So... what do you think?"
-#     e ""
+    # e "So... what do you think?"
+    e "那……你呢？"
 
-# translate schinese Ole_Ask_Goat_Tribe_cc5836ed:
+translate schinese Ole_Ask_Goat_Tribe_cc5836ed:
 
-#     # o "Me? I liked Furkan, but I don't think we should change what has been working out for us."
-#     o ""
+    # o "Me? I liked Furkan, but I don't think we should change what has been working out for us."
+    o "我？我和弗坎曾经有过交情，但我也希望一切照旧，既然双方已经相安无事这么多年。"
 
-# translate schinese Ole_Ask_Goat_Tribe_526eaa49:
+translate schinese Ole_Ask_Goat_Tribe_526eaa49:
 
-#     # o "I think Furkan's hiding something, they wouldn't make peace with us just to... make peace."
-#     o ""
+    # o "I think Furkan's hiding something, they wouldn't make peace with us just to... make peace."
+    o "另外我觉得弗坎隐瞒了一些事情。他们不会因为一时兴起……单纯为了议和而议和。"
 
-# translate schinese Ole_Ask_Goat_Tribe_c78821a5:
+translate schinese Ole_Ask_Goat_Tribe_c78821a5:
 
-#     # e "Oh, you think they have another motive?"
-#     e ""
+    # e "Oh, you think they have another motive?"
+    e "噢，所以你觉得山羊部落那边另有目的？"
 
-# translate schinese Ole_Ask_Goat_Tribe_557e88d0:
+translate schinese Ole_Ask_Goat_Tribe_557e88d0:
 
-#     # o "Yeah, all those unusual things, with outsiders getting teleported from nowhere."
-#     o ""
+    # o "Yeah, all those unusual things, with outsiders getting teleported from nowhere."
+    o "没错。你看，最近不断有异世界的人被传送过来，森林突然冒出一群又一群的怪物……"
 
-# translate schinese Ole_Ask_Goat_Tribe_5bff7366:
+translate schinese Ole_Ask_Goat_Tribe_5bff7366:
 
-#     # o "And so much more monsters we see in the forest. I would assume it's from the goats."
-#     o ""
+    # o "And so much more monsters we see in the forest. I would assume it's from the goats."
+    o "我猜这些反常的事情都和山羊部落有关。"
 
-# translate schinese Ole_Ask_Goat_Tribe_f79f35f2:
+translate schinese Ole_Ask_Goat_Tribe_f79f35f2:
 
-#     # o "After all... they're famous for conjuring monsters."
-#     o ""
+    # o "After all... they're famous for conjuring monsters."
+    o "毕竟……他们以合成怪物而闻名。"
 
-# translate schinese Ole_Ask_Goat_Tribe_4d2dbad4:
+translate schinese Ole_Ask_Goat_Tribe_4d2dbad4:
 
-#     # e "You think that they made all the monsters appear?"
-#     e ""
+    # e "You think that they made all the monsters appear?"
+    e "你觉得是他们合成出了那些怪物？"
 
-# translate schinese Ole_Ask_Goat_Tribe_4ec69cf7:
+translate schinese Ole_Ask_Goat_Tribe_4ec69cf7:
 
-#     # o "I guess, but it's just an assumption. You would be better off asking Furkan yourself."
-#     o ""
+    # o "I guess, but it's just an assumption. You would be better off asking Furkan yourself."
+    o "嗯，但这只是我片面的假设。你最好亲自去向弗坎问个明白。"
 
-# translate schinese Ole_Ask_Goat_Tribe_85b3f143:
+translate schinese Ole_Ask_Goat_Tribe_85b3f143:
 
-#     # e "Alright, thank you so much for talking with me, Ole."
-#     e ""
+    # e "Alright, thank you so much for talking with me, Ole."
+    e "好的，奥利，谢谢你告诉我这些。"
 
-# translate schinese Ole_Ask_Goat_Tribe_e3b1e728:
+translate schinese Ole_Ask_Goat_Tribe_e3b1e728:
 
-#     # o "Yeah, anything for my little outsider."
-#     o ""
+    # o "Yeah, anything for my little outsider."
+    o "小事，为了我的小客人，乐意之至。"
 
 # translate schinese Ole_Apron_Quest_a7701920:
 
@@ -7639,8 +7637,8 @@ translate schinese strings:
     old "Ask about the people here"
     new "打听村民"
 
-    # old "Ask about the Goat Tribe invasion"
-    # new "打听山羊部落入侵"
+    old "Ask about the Goat Tribe invasion"
+    new "打听山羊部落曾经的入侵"
 
     old "That's all I need to know"
     new "结束询问"
@@ -8705,70 +8703,70 @@ translate schinese strings:
 #     # r "If you run into any goats, just tell them you're foraging. Now, get going."
 #     r ""
 
-# translate schinese Rahim_Ask_Opinion_Goat_Tribe_d86303de:
+translate schinese Rahim_Ask_Opinion_Goat_Tribe_d86303de:
 
-#     # e "Hey, Rahim... Would you want to talk more about... the letter?"
-#     e ""
+    # e "Hey, Rahim... Would you want to talk more about... the letter?"
+    e "嗨，雷叔……我可以再和你谈谈……那封信的事情吗？"
 
-# translate schinese Rahim_Ask_Opinion_Goat_Tribe_3529882b:
+translate schinese Rahim_Ask_Opinion_Goat_Tribe_3529882b:
 
-#     # r "I'm busy."
-#     r ""
+    # r "I'm busy."
+    r "我在忙。"
 
-# translate schinese Rahim_Ask_Opinion_Goat_Tribe_54370264:
+translate schinese Rahim_Ask_Opinion_Goat_Tribe_54370264:
 
-#     # e "Uh... How about... Goat Tribe in general?"
-#     e ""
+    # e "Uh... How about... Goat Tribe in general?"
+    e "呃……那我可以问问山羊部落……是块什么地方呢？"
 
-# translate schinese Rahim_Ask_Opinion_Goat_Tribe_b9b755e5:
+translate schinese Rahim_Ask_Opinion_Goat_Tribe_b9b755e5:
 
-#     # r "..."
-#     r "……"
+    # r "..."
+    r "……"
 
-# translate schinese Rahim_Ask_Opinion_Goat_Tribe_608cae93:
+translate schinese Rahim_Ask_Opinion_Goat_Tribe_608cae93:
 
-#     # r "Look, boy. You need to stop snooping in other people's business-"
-#     r ""
+    # r "Look, boy. You need to stop snooping in other people's business-"
+    r "[e]，别再插手别人的私事——"
 
-# translate schinese Rahim_Ask_Opinion_Goat_Tribe_a4cd3272:
+translate schinese Rahim_Ask_Opinion_Goat_Tribe_a4cd3272:
 
-#     # r "I said no. Then it's a no. Got me?"
-#     r ""
+    # r "I said no. Then it's a no. Got me?"
+    r "我说不，就是不。懂了吗？"
 
-# translate schinese Rahim_Ask_Opinion_Goat_Tribe_fa16d833:
+translate schinese Rahim_Ask_Opinion_Goat_Tribe_fa16d833:
 
-#     # e "Ok, Rahim. You don't need to be... this grumpy."
-#     e ""
+    # e "Ok, Rahim. You don't need to be... this grumpy."
+    e "我懂了雷叔，您不必如此……大动肝火。"
 
-# translate schinese Rahim_Ask_Opinion_Goat_Tribe_5608cfc4:
+translate schinese Rahim_Ask_Opinion_Goat_Tribe_5608cfc4:
 
-#     # r "You want to get into my nerves or what?"
-#     r ""
+    # r "You want to get into my nerves or what?"
+    r "你是故意来气我还是怎的？"
 
-# translate schinese Rahim_Ask_Opinion_Goat_Tribe_989e289d:
+translate schinese Rahim_Ask_Opinion_Goat_Tribe_989e289d:
 
-#     # r "...Just leave the village be, life is simpler this way."
-#     r ""
+    # r "...Just leave the village be, life is simpler this way."
+    r "……就让一切保持原样，让日子保持简单不好吗。"
 
-# translate schinese Rahim_Ask_Opinion_Goat_Tribe_fd375905:
+translate schinese Rahim_Ask_Opinion_Goat_Tribe_fd375905:
 
-#     # e "...A-alright, I guess... I'm sorry to bother you, Rahim."
-#     e ""
+    # e "...A-alright, I guess... I'm sorry to bother you, Rahim."
+    e "……我、我知道了……抱歉烦扰到您。"
 
-# translate schinese Rahim_Ask_Opinion_Goat_Tribe_30b685c9:
+translate schinese Rahim_Ask_Opinion_Goat_Tribe_30b685c9:
 
-#     # r "You just don't understand... You all..."
-#     r ""
+    # r "You just don't understand... You all..."
+    r "你只是什么都不懂……你们都是……"
 
-# translate schinese Rahim_Ask_Opinion_Goat_Tribe_580dca45:
+translate schinese Rahim_Ask_Opinion_Goat_Tribe_580dca45:
 
-#     # r "Cherish the peace you have now."
-#     r ""
+    # r "Cherish the peace you have now."
+    r "现在的和平来之不易，好好珍惜。"
 
-# translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
+translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 
-#     # e "I understand."
-#     e ""
+    # e "I understand."
+    e "我会的。"
 
 # translate schinese Rahim_Yarn_Quest_01_9979d63a:
 
@@ -9728,7 +9726,7 @@ translate schinese Rahim_Letter_Furkan_b618baf3:
 translate schinese Rahim_Letter_Furkan_dd6e0d2e:
 
     # "You cannot tell if Rahim is holding back his tear, or anger, or frustration. He simply put the paper back in the envelope as soon as he finishes reading."
-    "你判断不出面前的男人是愤怒，沮丧，还是在忍住眼泪。他一读完便将信纸叠好放回信封内，没有多余的动作或言语。"
+    "你判断不出面前的男人是愤怒，是懊恼，还是在忍住眼泪。他一读完便将信纸叠好放回信封内，没有多余的动作或言语。"
 
 translate schinese Rahim_Letter_Furkan_a4d18fc8:
 
@@ -9964,7 +9962,7 @@ translate schinese Rahim_Postal_Finish_530f3065_1:
 translate schinese Rahim_Ask_Lusterfield_People_789effe3:
 
     # e "Rahim, what do you think about the people here?"
-    e "雷叔，对乐村的各位您有什么看法？"
+    e "雷叔，对乐村的各位你有什么看法？"
 
 translate schinese Rahim_Ask_Lusterfield_People_4d793199:
 
@@ -10021,162 +10019,163 @@ translate schinese Rahim_Ask_Lusterfield_People_24f03cec:
     # r "...That's it."
     r "……就是这样。"
 
-# translate schinese Rahim_Ask_GoatTribe_861d769e:
+translate schinese Rahim_Ask_GoatTribe_861d769e:
 
-#     # e "Hey, Rahim. Lothar told me about the Goat Tribe. What happened there?"
-#     e ""
+    # e "Hey, Rahim. Lothar told me about the Goat Tribe. What happened there?"
+    e "嗨，雷叔。洛萨尔和我聊起了山羊部落，他们为什么要入侵乐村呢？"
 
-# translate schinese Rahim_Ask_GoatTribe_7321557d:
+translate schinese Rahim_Ask_GoatTribe_7321557d:
 
-#     # r "Why do you ask?"
-#     r ""
+    # r "Why do you ask?"
+    r "你为什么要问这个？"
 
-# translate schinese Rahim_Ask_GoatTribe_bc2978fb:
+translate schinese Rahim_Ask_GoatTribe_bc2978fb:
 
-#     # e "I just wanted to know more about them."
-#     e ""
+    # e "I just wanted to know more about them."
+    e "我只是想了解一下别的村子。"
 
-# translate schinese Rahim_Ask_GoatTribe_1dc72c2d:
+translate schinese Rahim_Ask_GoatTribe_1dc72c2d:
 
-#     # r "That arrogant son of a wolf told you about my stuff, didn't he?"
-#     r ""
+    # r "That arrogant son of a wolf told you about my stuff, didn't he?"
+    r "那只自大的狼崽给你乱讲我的事情了，对吧？"
 
-# translate schinese Rahim_Ask_GoatTribe_75ecd587:
+translate schinese Rahim_Ask_GoatTribe_75ecd587:
 
-#     # e "What? No... He was just talking about how he defeated the Goat Leader."
-#     e ""
+    # e "What? No... He was just talking about how he defeated the Goat Leader."
+    e "啊？没有没有……他只是告诉我他打败山羊部落首领的经过。"
 
-# translate schinese Rahim_Ask_GoatTribe_1706c4b3:
+translate schinese Rahim_Ask_GoatTribe_1706c4b3:
 
-#     # r "...If he spills the beans I'm going to sew his mouth shut once and for all. You hear me?"
-#     r ""
+    # r "...If he spills the beans I'm going to sew his mouth shut once and for all. You hear me?"
+    r "……要是他敢泄露任何关于我的事情，我立马把他的嘴缝上，一劳永逸。听明白了吗？"
 
-# translate schinese Rahim_Ask_GoatTribe_d3cb1454:
+translate schinese Rahim_Ask_GoatTribe_d3cb1454:
 
-#     # e "Yes... I promise he didn't talk about you."
-#     e ""
+    # e "Yes... I promise he didn't talk about you."
+    e "听明白了……我保证他会知道这点的。"
 
-# translate schinese Rahim_Ask_GoatTribe_23c68c75:
+translate schinese Rahim_Ask_GoatTribe_23c68c75:
 
-#     # r "Ok. So what else do you want to know."
-#     r ""
+    # r "Ok. So what else do you want to know."
+    r "很好，你想知道什么来着？"
 
-# translate schinese Rahim_Ask_GoatTribe_5cbfbff2:
+translate schinese Rahim_Ask_GoatTribe_5cbfbff2:
 
-#     # e "Lothar didn't explain very well, but why did the goats came to Lusterfield?"
-#     e ""
+    # e "Lothar didn't explain very well, but why did the goats came to Lusterfield?"
+    e "为什么山羊部落要入侵乐村？洛萨尔没有给我解释清楚。"
 
-# translate schinese Rahim_Ask_GoatTribe_e178d861:
+translate schinese Rahim_Ask_GoatTribe_e178d861:
 
-#     # r "We used to be... friendly. with them. We have wagons of wares and goods transported between us."
-#     r ""
+    # r "We used to be... friendly. with them. We have wagons of wares and goods transported between us."
+    r "我们……曾经和山羊部落是友邻，那时我们的贸易往来也很密切。"
 
-# translate schinese Rahim_Ask_GoatTribe_b924522b:
+translate schinese Rahim_Ask_GoatTribe_b924522b:
 
-#     # r "They had a wagon full of wares and people, gone. In the middle of the forest."
-#     r ""
+    # r "They had a wagon full of wares and people, gone. In the middle of the forest."
+    r "直到有一天，他们有辆马车在森林里连人带货失踪了。"
 
-# translate schinese Rahim_Ask_GoatTribe_a09009d5:
+translate schinese Rahim_Ask_GoatTribe_a09009d5:
 
-#     # r "They found the remains of their couriers East to our village, near the pond."
-#     r ""
+    # r "They found the remains of their couriers East to our village, near the pond."
+    r "接着他们在乐村东边的池塘发现了邮递员的尸体。"
 
-# translate schinese Rahim_Ask_GoatTribe_5b0ca1f4:
+translate schinese Rahim_Ask_GoatTribe_5b0ca1f4:
 
-#     # r "They thought it was our doing... It was a long story but the war was planned for a while before it finally broke out."
-#     r ""
+    # r "They thought it was our doing... It was a long story but the war was planned for a while before it finally broke out."
+    r "于是他们认为这是我们干的……之后很长一段时间，山羊部落秘密筹备着战争，等待爆发的时机。"
 
-# translate schinese Rahim_Ask_GoatTribe_bf995035:
+translate schinese Rahim_Ask_GoatTribe_bf995035:
 
-#     # r "Those Goat bastards came and destroyed everything we had, we built. At the end, we won. Kind of. But at what cost."
-#     r ""
+    # r "Those Goat bastards came and destroyed everything we had, we built. At the end, we won. Kind of. But at what cost."
+    r "一夜之间，那群该死的山羊摧毁了我们所拥有、所建设的一切。尽管最后我们赢了，算是赢了吧，但又付出了多少代价才换来如此惨胜？"
 
-# translate schinese Rahim_Ask_GoatTribe_175502b3:
+translate schinese Rahim_Ask_GoatTribe_175502b3:
 
-#     # "Rahim looks around depressively, his hand reaches forward to the walls. You try to console him but it seems he is busy reminiscing the past."
-#     ""
+    # "Rahim looks around depressively, his hand reaches forward to the walls. You try to console him but it seems he is busy reminiscing the past."
+    "雷希姆悲痛地环顾四周，伸手抚摸墙上的画作。你想要安慰他，但他正沉浸于缅怀过去。"
 
-# translate schinese Rahim_Ask_GoatTribe_ba2e1954:
+translate schinese Rahim_Ask_GoatTribe_ba2e1954:
 
-#     # e "That was horrible. Do you know who actually raided their wagon?"
-#     e ""
+    # e "That was horrible. Do you know who actually raided their wagon?"
+    e "太黑暗了。当初究竟是谁干的？"
 
-# translate schinese Rahim_Ask_GoatTribe_b7c5de00:
+translate schinese Rahim_Ask_GoatTribe_b7c5de00:
 
-#     # r "No... We didn't."
-#     r ""
+    # r "No... We didn't."
+    r "不知道……我们谁也不知道。"
 
-# translate schinese Rahim_Ask_GoatTribe_2d5b9008:
+translate schinese Rahim_Ask_GoatTribe_2d5b9008:
 
-#     # e "What if they come back again for revenge?"
-#     e ""
+    # e "What if they come back again for revenge?"
+    e "假如他们要复仇，我们该怎么办？"
 
-# translate schinese Rahim_Ask_GoatTribe_dc394e82:
+translate schinese Rahim_Ask_GoatTribe_dc394e82:
 
-#     # r "Then I'll be the first one to kill them all under my blades. I don't care, I just wanted to protect this village."
-#     r ""
+    # r "Then I'll be the first one to kill them all under my blades. I don't care, I just wanted to protect this village."
+    r "如果有那么一天，我会最先拿起屠刀砍得他们全部血肉横飞。只要乐村平安我什么都不在乎。"
 
-# translate schinese Rahim_Ask_GoatTribe_92599ed3:
+translate schinese Rahim_Ask_GoatTribe_92599ed3:
 
-#     # e "You still have to look out for your safety, Rahim."
-#     e ""
+    # e "You still have to look out for your safety, Rahim."
+    e "雷叔，你的安全也同样重要，你不用一个人扛下所有。"
 
-# translate schinese Rahim_Ask_GoatTribe_41e8201e:
+translate schinese Rahim_Ask_GoatTribe_41e8201e:
 
-#     # r "You don't understand. That wolf thinks it's all a game, a fight for glory and a tool to boast about his reputation."
-#     r ""
+    # r "You don't understand. That wolf thinks it's all a game, a fight for glory and a tool to boast about his reputation."
+    r "你不明白，那头狼只会把战争当成儿戏，当成获取荣耀的机会，当成吹嘘自己的资本。"
 
-# translate schinese Rahim_Ask_GoatTribe_899aaca0:
+translate schinese Rahim_Ask_GoatTribe_899aaca0:
 
-#     # r "But in the end it's just slaughter. It's them or us. And there will be casualties, always."
-#     r ""
+    # r "But in the end it's just slaughter. It's them or us. And there will be casualties, always."
+    r "但剥开那些糖衣，战争终究到底只有屠杀。你死我活，你活我死，伤亡无可避免。"
 
-# translate schinese Rahim_Ask_GoatTribe_163d4104:
+translate schinese Rahim_Ask_GoatTribe_163d4104:
 
-#     # r "If you really wish to go there, be careful. And if not, don't bring them to our village."
-#     r ""
+    # r "If you really wish to go there, be careful. And if not, don't bring them to our village."
+    r "如果你执意要去山羊部落，我劝你谨言慎行。即使不去，也不许带他们进村，一只都不行。"
 
-# translate schinese Rahim_Ask_GoatTribe_4e1598a3:
+translate schinese Rahim_Ask_GoatTribe_4e1598a3:
 
-#     # e "Rahim..."
-#     e ""
+    # e "Rahim..."
+    e "雷叔……"
 
-# translate schinese Rahim_Ask_GoatTribe_50b2ca3e:
+translate schinese Rahim_Ask_GoatTribe_50b2ca3e:
 
-#     # r "Think about the people living here. I respect that you are going to risk your life, but you are NOT bringing them down with you."
-#     r ""
+    # r "Think about the people living here. I respect that you are going to risk your life, but you are NOT bringing them down with you."
+    r "想想乐村活生生的人们。我尊重你决定去冒险，但你绝对、绝对不能把其他人也拉下水！"
 
-# translate schinese Rahim_Ask_GoatTribe_82f52a1a:
+translate schinese Rahim_Ask_GoatTribe_82f52a1a:
 
-#     # "Rahim stares at you fiercely, you have never felt this much of hostility before, you feel like he could grab his scissors and stab you at any moment, but he is just sitting there, staring."
-#     ""
+    # "Rahim stares at you fiercely, you have never felt this much of hostility before, you feel like he could grab his scissors and stab you at any moment, but he is just sitting there, staring."
+    "雷希姆恶狠狠瞪着你，你从未感受过他如此大的敌意，好像他随时就要拿起台上的剪刀一把捅进你体内。"
+    "但他没有，老公牛只是坐在那，恶狠狠地瞪着你。"
 
-# translate schinese Rahim_Ask_GoatTribe_4fa17061:
+translate schinese Rahim_Ask_GoatTribe_4fa17061:
 
-#     # r "Ahem- I'm sorry, I was thinking out loud. Just... stay safe."
-#     r ""
+    # r "Ahem- I'm sorry, I was thinking out loud. Just... stay safe."
+    r "咳——对不起，我只是想到什么就说什么了。总之……你多注意安全。"
 
-# translate schinese Rahim_Ask_GoatTribe_9945dc18:
+translate schinese Rahim_Ask_GoatTribe_9945dc18:
 
-#     # "The bull calms down after a while, he looks away in contempt."
-#     ""
+    # "The bull calms down after a while, he looks away in contempt."
+    "过了一会雷希姆恢复平静，轻蔑地看向别处。"
 
-# translate schinese Rahim_Ask_GoatTribe_c3799514:
+translate schinese Rahim_Ask_GoatTribe_c3799514:
 
-#     # "Was that just a fleeting lapse of judgement in his mind? You wanted to know what he was thinking, but he keeps backing up on his words."
-#     ""
+    # "Was that just a fleeting lapse of judgement in his mind? You wanted to know what he was thinking, but he keeps backing up on his words."
+    "他刚才那些话真心只是脱口而出的吗？你想弄清楚他真正的想法，但这头倔牛却始终不肯多说。"
 
-# translate schinese Rahim_Ask_GoatTribe_c7420349:
+translate schinese Rahim_Ask_GoatTribe_c7420349:
 
-#     # e "I will... Thank you Rahim."
-#     e ""
+    # e "I will... Thank you Rahim."
+    e "我会的……谢谢雷叔。"
 
 #问职业
 
 translate schinese Rahim_Ask_Tailor_1229a64a:
 
     # e "How long have you been a tailor for the village?"
-    e "雷叔，您为大伙做衣服已经多久了？"
+    e "雷叔，你为大伙做衣服已经多久了？"
 
 translate schinese Rahim_Ask_Tailor_3f362ad1:
 
