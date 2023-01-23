@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-01 22:36
+﻿# TODO: Translation updated at 2023-01-23 21:01
 
 # game/battle05.rpy:34
 translate schinese caproot_battle_857ceca1:
@@ -1362,859 +1362,871 @@ translate schinese goatranger_battle_loop_969a6d77:
     # "His attack at your lust seems to have failed as you stand there and wait for him to finish his taunt. Both of you would never speak about it again."
     ""
 
-# game/battle05.rpy:1078
-translate schinese heftyslime_battle_3cd7df83:
+# game/battle05.rpy:1086
+translate schinese heftyslime_battle_04c594ed:
 
-    # "You are facing a malignant slime, the viscous goo is dripping slightly, and bounces towards you. You raise your fist in response."
+    # "You are facing a hefty slime, the viscous goo is dripping slightly, and bounces towards you. You raise your fist in response."
     ""
 
-# game/battle05.rpy:1082
-translate schinese heftyslime_battle_83650b03:
+# game/battle05.rpy:1090
+translate schinese heftyslime_battle_31dfe629:
 
-    # "You are facing a malignant slime, the viscous goo is dripping slightly, and bounces towards you. You raise your [pc.weapon.name!t] in response."
+    # "You are facing a hefty slime, the viscous goo is dripping slightly, and bounces towards you. You raise your [pc.weapon.name!t] in response."
     ""
 
-# game/battle05.rpy:1103
+# game/battle05.rpy:1111
 translate schinese heftyslime_battle_loop_310669df:
 
     # "You aim and slash your [pc.weapon.name!t] at the slime, but you simply miss it by inches."
     ""
 
-# game/battle05.rpy:1105
+# game/battle05.rpy:1113
 translate schinese heftyslime_battle_loop_028919d3:
 
     # "You aim and shoot your [pc.weapon.name!t] at the slime, but you simply miss it by inches."
     ""
 
-# game/battle05.rpy:1107
+# game/battle05.rpy:1115
 translate schinese heftyslime_battle_loop_528f2532:
 
     # "You throw your fist at the slime, but you simply miss it by inches."
     ""
 
-# game/battle05.rpy:1111
+# game/battle05.rpy:1119
 translate schinese heftyslime_battle_loop_3180262a:
 
     # "You slash your [pc.weapon.name!t] at the top of the slime, your blade grazes through it easily."
     ""
 
-# game/battle05.rpy:1113
+# game/battle05.rpy:1121
 translate schinese heftyslime_battle_loop_b77f2e9e:
 
     # "You slam your [pc.weapon.name!t] at the slime, splitting it apart halfway."
     ""
 
-# game/battle05.rpy:1115
+# game/battle05.rpy:1123
 translate schinese heftyslime_battle_loop_8a367d9d:
 
     # "You run while shooting your [pc.weapon.name!t] at the slime, penetrating and creating a hole where the arrow passes."
     ""
 
-# game/battle05.rpy:1117
+# game/battle05.rpy:1125
 translate schinese heftyslime_battle_loop_0419b54a:
 
     # "You punch into the slime, it bends around your fist while some of its body were knocked away."
     ""
 
-# game/battle05.rpy:1118
+# game/battle05.rpy:1126
 translate schinese heftyslime_battle_loop_064f2c93:
 
     # "Part of the slime drops on the ground, while part rejoins its main body."
     ""
 
-# game/battle05.rpy:1120
+# game/battle05.rpy:1128
 translate schinese heftyslime_battle_loop_be25a18b:
 
     # "Its health decreases by [oa[4]] HP."
     ""
 
-# game/battle05.rpy:1122
+# game/battle05.rpy:1130
 translate schinese heftyslime_battle_loop_f718fd7c:
 
     # "You've critically hit the slime, dealing [oa[4]] HP!"
     ""
 
-# game/battle05.rpy:1126
+# game/battle05.rpy:1134
 translate schinese heftyslime_battle_loop_021d1316:
 
     # "As much as you try to... flirt with the slime, it doesn't flinch, or get aroused."
     ""
 
-# game/battle05.rpy:1127
+# game/battle05.rpy:1135
 translate schinese heftyslime_battle_loop_6bcff645:
 
     # "You back off before it tries to grab a hold of your body."
     ""
 
-# game/battle05.rpy:1130
+# game/battle05.rpy:1139
+translate schinese heftyslime_battle_loop_89f13d8f:
+
+    # "You can't escape from the arena."
+    ""
+
+# game/battle05.rpy:1141
 translate schinese heftyslime_battle_loop_8dcd2812:
 
     # "You slowly back away from the slime's attack, you turn around and run as fast as you can."
     ""
 
-# game/battle05.rpy:1133
+# game/battle05.rpy:1144
 translate schinese heftyslime_battle_loop_9ba5c618:
 
     # "Just as you are about to escape, you trip on the slime and fall. Your escape seems to have failed!"
     ""
 
-# game/battle05.rpy:1136
+# game/battle05.rpy:1147
 translate schinese heftyslime_battle_loop_b3c77f40:
 
     # "The slime tries to catch you but it barely slips from your body, You successfully escaped from the slime!"
     ""
 
-# game/battle05.rpy:1145
+# game/battle05.rpy:1158
 translate schinese heftyslime_battle_loop_5acbb91f:
 
     # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the slime."
     ""
 
-# game/battle05.rpy:1146
+# game/battle05.rpy:1159
 translate schinese heftyslime_battle_loop_065dedb3:
 
     # "The slime slithers toward you while it seems to be prepares for something bigger..."
     ""
 
-# game/battle05.rpy:1184
+# game/battle05.rpy:1197
 translate schinese heftyslime_battle_loop_84fce0d9:
 
     # "The slime flings itself towards you, but you are not quick enough to dodge it. It drains your health by [enemy_damage] HP."
     ""
 
-# game/battle05.rpy:1186
+# game/battle05.rpy:1199
 translate schinese heftyslime_battle_loop_5da63ef3:
 
     # "The slime slaps your leg, knocking you on the ground. It drains your health by [enemy_damage] HP."
     ""
 
-# game/battle05.rpy:1188
+# game/battle05.rpy:1201
 translate schinese heftyslime_battle_loop_95658ef9:
 
     # "The slime heals itself by [healing]."
     ""
 
-# game/battle05.rpy:1193
+# game/battle05.rpy:1206
 translate schinese heftyslime_battle_loop_6366e22a:
 
     # "The slime flings itself towards you, but you manage to dodge its attack."
     ""
 
-# game/battle05.rpy:1196
+# game/battle05.rpy:1209
 translate schinese heftyslime_battle_loop_56bfc7a1:
 
     # "The slime tries to slaps your leg, but it misses by inches."
     ""
 
-# game/battle05.rpy:1200
+# game/battle05.rpy:1213
 translate schinese heftyslime_battle_loop_86580c8c:
 
     # "The slime wraps itself around your hands, coating it with slippery goo before letting go of you."
     ""
 
-# game/battle05.rpy:1202
+# game/battle05.rpy:1215
 translate schinese heftyslime_battle_loop_8edffc8a:
 
     # "You are now silenced."
     ""
 
-# game/battle05.rpy:1216
+# game/battle05.rpy:1229
 translate schinese heftyslime_battle_loop_e49b346e:
 
     # "The slime splashes itself onto your body, and infuses some form of... aphrodisiac through your fur."
     ""
 
-# game/battle05.rpy:1218
+# game/battle05.rpy:1231
 translate schinese heftyslime_battle_loop_f47325dc:
 
     # "Instantly your mind is filled with sexual scenes, you can't shake that thought... that image of you being naked with everyone else. Your lust increased by [enemy_flirt]."
     ""
 
-# game/battle05.rpy:1226
+# game/battle05.rpy:1242
 translate schinese heftyslime_win_c81dbf8a:
 
     # "As you defeat the slime, the entity seems to disintegrate completely before your eyes."
     ""
 
-# game/battle05.rpy:1228
+# game/battle05.rpy:1244
 translate schinese heftyslime_win_974f007b:
 
     # "Only leaving behind drips and drops of green goo on the grass."
     ""
 
-# game/battle05.rpy:1240
+# game/battle05.rpy:1256
 translate schinese heftyslime_win_f7ad230e:
 
     # "You found a... Flagitious Ooze, what Haskell called."
     ""
 
-# game/battle05.rpy:1246
+# game/battle05.rpy:1262
 translate schinese heftyslime_win_a5a0418d:
 
     # "You found a... Teratoid Mucus, it was pretty slick."
     ""
 
-# game/battle05.rpy:1253
+# game/battle05.rpy:1269
 translate schinese heftyslime_win_b34e8987:
 
     # "You found [gold_drop] gold and [exp_drop] EXP."
     ""
 
-# game/battle05.rpy:1263
+# game/battle05.rpy:1279
 translate schinese heftyslime_win_91f1d522:
 
     # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
     msg ""
 
-# game/battle05.rpy:1283
+# game/battle05.rpy:1320
 translate schinese heftyslime_lose_880eb665:
 
     # "You fell on the ground, but the slime continues to slither towards you."
     ""
 
-# game/battle05.rpy:1285
+# game/battle05.rpy:1322
 translate schinese heftyslime_lose_8ff8cfd8:
 
     # "There's no strength left inside you to struggle against its grasp..."
     ""
 
-# game/battle05.rpy:1287
-translate schinese heftyslime_lose_ef8c31fa:
+# game/battle05.rpy:1324
+translate schinese heftyslime_lose_4f85aab6:
 
-    # msg "malignant Slime Lose Scene WIP!"
+    # msg "Hefty Slime Lose Scene WIP!"
     msg ""
 
-# game/battle05.rpy:1289
+# game/battle05.rpy:1326
 translate schinese heftyslime_lose_c8c57cfa:
 
     # "You lost consciousness before anything happens..."
     ""
 
-# game/battle05.rpy:1300
+# game/battle05.rpy:1337
 translate schinese heftyslime_lose_4ba96869:
 
     # "You lost [gold_lost] gold."
     ""
 
-# game/battle05.rpy:1349
+# game/battle05.rpy:1392
 translate schinese malignantslime_battle_0a7bd661:
 
     # "You are facing a malignant slime, the viscous goo is dripping slightly, its eyes drooling towards you. You raise your fist in response."
     ""
 
-# game/battle05.rpy:1353
+# game/battle05.rpy:1396
 translate schinese malignantslime_battle_0d4fe669:
 
     # "You are facing a malignant slime, the viscous goo is dripping slightly, its eyes drooling towards you. You raise your [pc.weapon.name!t] in response."
     ""
 
-# game/battle05.rpy:1384
+# game/battle05.rpy:1427
 translate schinese malignantslime_battle_loop_310669df:
 
     # "You aim and slash your [pc.weapon.name!t] at the slime, but you simply miss it by inches."
     ""
 
-# game/battle05.rpy:1386
+# game/battle05.rpy:1429
 translate schinese malignantslime_battle_loop_028919d3:
 
     # "You aim and shoot your [pc.weapon.name!t] at the slime, but you simply miss it by inches."
     ""
 
-# game/battle05.rpy:1388
+# game/battle05.rpy:1431
 translate schinese malignantslime_battle_loop_528f2532:
 
     # "You throw your fist at the slime, but you simply miss it by inches."
     ""
 
-# game/battle05.rpy:1392
+# game/battle05.rpy:1435
 translate schinese malignantslime_battle_loop_3180262a:
 
     # "You slash your [pc.weapon.name!t] at the top of the slime, your blade grazes through it easily."
     ""
 
-# game/battle05.rpy:1394
+# game/battle05.rpy:1437
 translate schinese malignantslime_battle_loop_b77f2e9e:
 
     # "You slam your [pc.weapon.name!t] at the slime, splitting it apart halfway."
     ""
 
-# game/battle05.rpy:1396
+# game/battle05.rpy:1439
 translate schinese malignantslime_battle_loop_8a367d9d:
 
     # "You run while shooting your [pc.weapon.name!t] at the slime, penetrating and creating a hole where the arrow passes."
     ""
 
-# game/battle05.rpy:1398
+# game/battle05.rpy:1441
 translate schinese malignantslime_battle_loop_0419b54a:
 
     # "You punch into the slime, it bends around your fist while some of its body were knocked away."
     ""
 
-# game/battle05.rpy:1399
+# game/battle05.rpy:1442
 translate schinese malignantslime_battle_loop_064f2c93:
 
     # "Part of the slime drops on the ground, while part rejoins its main body."
     ""
 
-# game/battle05.rpy:1401
+# game/battle05.rpy:1444
 translate schinese malignantslime_battle_loop_be25a18b:
 
     # "Its health decreases by [oa[4]] HP."
     ""
 
-# game/battle05.rpy:1403
+# game/battle05.rpy:1446
 translate schinese malignantslime_battle_loop_f718fd7c:
 
     # "You've critically hit the slime, dealing [oa[4]] HP!"
     ""
 
-# game/battle05.rpy:1407
+# game/battle05.rpy:1450
 translate schinese malignantslime_battle_loop_021d1316:
 
     # "As much as you try to... flirt with the slime, it doesn't flinch, or get aroused."
     ""
 
-# game/battle05.rpy:1408
+# game/battle05.rpy:1451
 translate schinese malignantslime_battle_loop_6bcff645:
 
     # "You back off before it tries to grab a hold of your body."
     ""
 
-# game/battle05.rpy:1411
+# game/battle05.rpy:1455
+translate schinese malignantslime_battle_loop_89f13d8f:
+
+    # "You can't escape from the arena."
+    ""
+
+# game/battle05.rpy:1457
 translate schinese malignantslime_battle_loop_8dcd2812:
 
     # "You slowly back away from the slime's attack, you turn around and run as fast as you can."
     ""
 
-# game/battle05.rpy:1414
+# game/battle05.rpy:1462
 translate schinese malignantslime_battle_loop_9ba5c618:
 
     # "Just as you are about to escape, you trip on the slime and fall. Your escape seems to have failed!"
     ""
 
-# game/battle05.rpy:1417
+# game/battle05.rpy:1465
 translate schinese malignantslime_battle_loop_b3c77f40:
 
     # "The slime tries to catch you but it barely slips from your body, You successfully escaped from the slime!"
     ""
 
-# game/battle05.rpy:1426
+# game/battle05.rpy:1474
 translate schinese malignantslime_battle_loop_5acbb91f:
 
     # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the slime."
     ""
 
-# game/battle05.rpy:1427
+# game/battle05.rpy:1475
 translate schinese malignantslime_battle_loop_065dedb3:
 
     # "The slime slithers toward you while it seems to be prepares for something bigger..."
     ""
 
-# game/battle05.rpy:1468
+# game/battle05.rpy:1516
 translate schinese malignantslime_battle_loop_ef85913b:
 
     # "The malignant slime throws its gooey arms towards you, but you are not quick enough to dodge it. It drains your health by [enemy_damage] HP."
     ""
 
-# game/battle05.rpy:1470
+# game/battle05.rpy:1518
 translate schinese malignantslime_battle_loop_a2251f49:
 
     # "The malignant slime slaps you in your sides, knocking you on the ground. It drains your health by [enemy_damage] HP."
     ""
 
-# game/battle05.rpy:1472
+# game/battle05.rpy:1520
 translate schinese malignantslime_battle_loop_510f8729:
 
     # "The malignant slime heals itself by [healing]."
     ""
 
-# game/battle05.rpy:1477
+# game/battle05.rpy:1525
 translate schinese malignantslime_battle_loop_33fe67ce:
 
     # "The malignant slime throws its gooey arms towards you, but you manage to dodge its attack."
     ""
 
-# game/battle05.rpy:1480
+# game/battle05.rpy:1528
 translate schinese malignantslime_battle_loop_e191c13f:
 
     # "The malignant slime tries to slap you in your sides, but it misses by inches."
     ""
 
-# game/battle05.rpy:1486
+# game/battle05.rpy:1534
 translate schinese malignantslime_battle_loop_fa3e35f2:
 
     # "The malignant slime glows faintly, connecting itself with the smaller slime."
     ""
 
-# game/battle05.rpy:1490
+# game/battle05.rpy:1538
 translate schinese malignantslime_battle_loop_add6ad39:
 
     # "It drains [healing] HP from the hefty slime."
     ""
 
-# game/battle05.rpy:1501
+# game/battle05.rpy:1549
 translate schinese malignantslime_battle_loop_7ebe40d6:
 
     # "You healed [healing] HP."
     ""
 
-# game/battle05.rpy:1525
+# game/battle05.rpy:1573
 translate schinese malignantslime_battle_loop_dde7a710:
 
     # "A part of the malignant slime split apart! It is forming... another slime."
     ""
 
-# game/battle05.rpy:1527
+# game/battle05.rpy:1575
 translate schinese malignantslime_battle_loop_b56a75e4:
 
     # "You are now also facing Hefty Slime."
     ""
 
-# game/battle05.rpy:1534
+# game/battle05.rpy:1582
 translate schinese malignantslime_battle_loop_8e8b3794:
 
     # "The malignant slime wraps itself around you, refusing to let go of you."
     ""
 
-# game/battle05.rpy:1536
+# game/battle05.rpy:1584
 translate schinese malignantslime_battle_loop_81453e4d:
 
     # "You are now bound."
     ""
 
-# game/battle05.rpy:1550
+# game/battle05.rpy:1598
 translate schinese malignantslime_battle_loop_f93c263b:
 
     # "The malignant slime splashes itself onto your body, and infuses some form of... aphrodisiac through your fur."
     ""
 
-# game/battle05.rpy:1552
+# game/battle05.rpy:1600
 translate schinese malignantslime_battle_loop_f47325dc:
 
     # "Instantly your mind is filled with sexual scenes, you can't shake that thought... that image of you being naked with everyone else. Your lust increased by [enemy_flirt]."
     ""
 
-# game/battle05.rpy:1572
+# game/battle05.rpy:1620
 translate schinese malignantslime_battle_loop_2959f96c:
 
     # "The hefty slime flings itself towards you, but you are not quick enough to dodge it. It drains your health by [enemy_damage] HP."
     ""
 
-# game/battle05.rpy:1574
+# game/battle05.rpy:1622
 translate schinese malignantslime_battle_loop_48f5577a:
 
     # "The hefty slime slaps your leg, knocking you on the ground. It drains your health by [enemy_damage] HP."
     ""
 
-# game/battle05.rpy:1576
+# game/battle05.rpy:1624
 translate schinese malignantslime_battle_loop_64c5da02:
 
     # "The hefty slime heals itself by [healing]."
     ""
 
-# game/battle05.rpy:1581
+# game/battle05.rpy:1629
 translate schinese malignantslime_battle_loop_7d6fd61f:
 
     # "The hefty slime flings itself towards you, but you manage to dodge its attack."
     ""
 
-# game/battle05.rpy:1584
+# game/battle05.rpy:1632
 translate schinese malignantslime_battle_loop_dac9fbc7:
 
     # "The hefty slime tries to slaps your leg, but it misses by inches."
     ""
 
-# game/battle05.rpy:1588
+# game/battle05.rpy:1636
 translate schinese malignantslime_battle_loop_915639b4:
 
     # "The hefty slime wraps itself around your hands, coating it with slippery goo before letting go of you."
     ""
 
-# game/battle05.rpy:1590
+# game/battle05.rpy:1638
 translate schinese malignantslime_battle_loop_8edffc8a:
 
     # "You are now silenced."
     ""
 
-# game/battle05.rpy:1604
+# game/battle05.rpy:1652
 translate schinese malignantslime_battle_loop_abda05a6:
 
     # "The hefty slime splashes itself onto your body, and infuses some form of... aphrodisiac through your fur."
     ""
 
-# game/battle05.rpy:1606
+# game/battle05.rpy:1654
 translate schinese malignantslime_battle_loop_f47325dc_1:
 
     # "Instantly your mind is filled with sexual scenes, you can't shake that thought... that image of you being naked with everyone else. Your lust increased by [enemy_flirt]."
     ""
 
-# game/battle05.rpy:1614
+# game/battle05.rpy:1662
 translate schinese malignantslime_win_c81dbf8a:
 
     # "As you defeat the slime, the entity seems to disintegrate completely before your eyes."
     ""
 
-# game/battle05.rpy:1616
+# game/battle05.rpy:1664
 translate schinese malignantslime_win_974f007b:
 
     # "Only leaving behind drips and drops of green goo on the grass."
     ""
 
-# game/battle05.rpy:1624
+# game/battle05.rpy:1675
 translate schinese malignantslime_win_b9d37beb:
 
     # "You found a Slime ball."
     ""
 
-# game/battle05.rpy:1628
+# game/battle05.rpy:1679
 translate schinese malignantslime_win_d00d3ee7:
 
     # "You found a Slime Grancrystal... embedded on the slime, it was quite a big one, might be bigger than what Haskell described."
     ""
 
-# game/battle05.rpy:1630
+# game/battle05.rpy:1681
 translate schinese malignantslime_win_20de44eb:
 
     # "You put the material into your bag."
     ""
 
-# game/battle05.rpy:1637
+# game/battle05.rpy:1688
 translate schinese malignantslime_win_b34e8987:
 
     # "You found [gold_drop] gold and [exp_drop] EXP."
     ""
 
-# game/battle05.rpy:1647
+# game/battle05.rpy:1698
 translate schinese malignantslime_win_91f1d522:
 
     # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
     msg ""
 
-# game/battle05.rpy:1656
+# game/battle05.rpy:1710
 translate schinese malignantslime_lose_880eb665:
 
     # "You fell on the ground, but the slime continues to slither towards you."
     ""
 
-# game/battle05.rpy:1658
+# game/battle05.rpy:1712
 translate schinese malignantslime_lose_8ff8cfd8:
 
     # "There's no strength left inside you to struggle against its grasp..."
     ""
 
-# game/battle05.rpy:1660
+# game/battle05.rpy:1714
 translate schinese malignantslime_lose_ef8c31fa:
 
     # msg "malignant Slime Lose Scene WIP!"
     msg ""
 
-# game/battle05.rpy:1662
+# game/battle05.rpy:1716
 translate schinese malignantslime_lose_c8c57cfa:
 
     # "You lost consciousness before anything happens..."
     ""
 
-# game/battle05.rpy:1675
+# game/battle05.rpy:1729
 translate schinese malignantslime_lose_4ba96869:
 
     # "You lost [gold_lost] gold."
     ""
 
-# game/battle05.rpy:1729
+# game/battle05.rpy:1783
 translate schinese nosferat_battle_415c3c73:
 
     # "You are facing a nosferat, it is holding a form of dripstone while drooling at your body. You raise your fist in response."
     ""
 
-# game/battle05.rpy:1733
+# game/battle05.rpy:1787
 translate schinese nosferat_battle_8e2a78f9:
 
     # "You are facing a nosferat, it is holding a form of dripstone while drooling at your body. You raise your [pc.weapon.name!t] in response."
     ""
 
-# game/battle05.rpy:1756
+# game/battle05.rpy:1810
 translate schinese nosferat_battle_loop_176d157d:
 
     # "You slash your [pc.weapon.name!t] at the nosferat's arm. It slides right off his fluffy arm. You can only look on in disbelief."
     ""
 
-# game/battle05.rpy:1758
+# game/battle05.rpy:1812
 translate schinese nosferat_battle_loop_ce202c5a:
 
     # "You slam your [pc.weapon.name!t] into the nosferat's arm. It bounces right off. You can only look back in disbelief."
     ""
 
-# game/battle05.rpy:1760
+# game/battle05.rpy:1814
 translate schinese nosferat_battle_loop_e7d1878b:
 
     # "You aim and shoot your [pc.weapon.name!t] at the nosferat's arms. It pierces right through his soft fur but fails to make a dent in his skin, leaving you frozen in disbelief."
     ""
 
-# game/battle05.rpy:1762
+# game/battle05.rpy:1816
 translate schinese nosferat_battle_loop_7ab4631b:
 
     # "You raise your fist and throw it at the nosferat, but miss and hit nothing, leaving you standing there like a fool instead."
     ""
 
-# game/battle05.rpy:1764
+# game/battle05.rpy:1818
 translate schinese nosferat_battle_loop_0b553bd6:
 
     # "The nosferat growls loudly, flinging his arms in your direction."
     ""
 
-# game/battle05.rpy:1769
+# game/battle05.rpy:1823
 translate schinese nosferat_battle_loop_81395e8d:
 
     # "You slash your [pc.weapon.name!t] at the nosferat, grazing its stomach and drawing blood."
     ""
 
-# game/battle05.rpy:1771
+# game/battle05.rpy:1825
 translate schinese nosferat_battle_loop_3316ed51:
 
     # "You slash your [pc.weapon.name!t] at the nosferat, knocking him to the ground. He growls at you before getting up, somehow angrier than albeit disheveled. "
     ""
 
-# game/battle05.rpy:1774
+# game/battle05.rpy:1828
 translate schinese nosferat_battle_loop_878e0a26:
 
     # "You slam your [pc.weapon.name!t] into the nosferat, cutting a bright red gash into his purple hide. The fur around the weeping wound grows matted with blood."
     ""
 
-# game/battle05.rpy:1776
+# game/battle05.rpy:1830
 translate schinese nosferat_battle_loop_a32780c5:
 
     # "You slam your [pc.weapon.name!t] into the nosferat's face, tipping him off balance with a loud thump and roar."
     ""
 
-# game/battle05.rpy:1779
+# game/battle05.rpy:1833
 translate schinese nosferat_battle_loop_91965581:
 
     # "You aim and shoot your [pc.weapon.name!t] at the nosferat. The arrow hits him right in the shoulder. He screams in agony."
     ""
 
-# game/battle05.rpy:1781
+# game/battle05.rpy:1835
 translate schinese nosferat_battle_loop_76f4617c:
 
     # "You run while shooting your [pc.weapon.name!t] at the nosferat, knocking him to the ground. He growls at you before getting up, albeit disheveled."
     ""
 
-# game/battle05.rpy:1784
+# game/battle05.rpy:1838
 translate schinese nosferat_battle_loop_084cba4e:
 
     # "You throw your fist at the nosferat, hitting him across his face, the sheer impact of which knocks him to the ground."
     ""
 
-# game/battle05.rpy:1786
+# game/battle05.rpy:1840
 translate schinese nosferat_battle_loop_c5ea30ae:
 
     # "You punch into the nosferat's stomach making him double over in pain. You use this opportunity to knee him in the face. It feels like hitting a stone wall, but the nosferat slams into the ground hard."
     ""
 
-# game/battle05.rpy:1788
+# game/battle05.rpy:1842
 translate schinese nosferat_battle_loop_24bcc736:
 
     # "His health decreases by [oa[4]] HP."
     ""
 
-# game/battle05.rpy:1790
+# game/battle05.rpy:1844
 translate schinese nosferat_battle_loop_f7d01aa3:
 
     # "It seems you've hit the nosferat critically, dealing [oa[4]] HP!"
     ""
 
-# game/battle05.rpy:1796
+# game/battle05.rpy:1850
 translate schinese nosferat_battle_loop_c535ed1e:
 
     # "The nosferat grunts in anger, he definitely doesn't appreciate getting battered by a feeble watcher."
     ""
 
-# game/battle05.rpy:1799
+# game/battle05.rpy:1853
 translate schinese nosferat_battle_loop_a5012852:
 
     # "You can barely hear the groaning sound of the nosferat. He is in absolute distress, and ready to slaughter his attacker without mercy."
     ""
 
-# game/battle05.rpy:1803
+# game/battle05.rpy:1857
 translate schinese nosferat_battle_loop_cd0c87b2:
 
     # "You struggle against the mimic, trying to break free. You dealt [oa[4]] damage to the mimic in the process, his grip has loosen as well."
     ""
 
-# game/battle05.rpy:1809
+# game/battle05.rpy:1863
 translate schinese nosferat_battle_loop_dcd7ef85:
 
     # "You turn around and rub your hand all over your burly cheeks, feeling up and brushing against your ass while you shake your hips."
     ""
 
-# game/battle05.rpy:1811
+# game/battle05.rpy:1865
 translate schinese nosferat_battle_loop_a1b73156:
 
     # "You gently brush by your member, running a claw from your inner thigh to the back of your balls. You tug at them lightly while staring at the nosferat seductively."
     ""
 
-# game/battle05.rpy:1813
+# game/battle05.rpy:1867
 translate schinese nosferat_battle_loop_8fa7fb22:
 
     # "You cup your fluffy chest, drawing circles around the area of your nipples. You smile at the nosferat while bouncing your chest up and down slightly."
     ""
 
-# game/battle05.rpy:1816
+# game/battle05.rpy:1870
 translate schinese nosferat_battle_loop_1ba028d0:
 
     # "You continue your act for about a minute, but the nosferat just stares at you in confusion."
     ""
 
-# game/battle05.rpy:1820
+# game/battle05.rpy:1874
 translate schinese nosferat_battle_loop_7854eb90:
 
     # "Within a few seconds you can already see some movements direction in the nosferat's cock. The sturdy beast man licks his lips, grumbling at your beautiful sight. His lust is increased by [player_flirt]."
     ""
 
-# game/battle05.rpy:1822
+# game/battle05.rpy:1876
 translate schinese nosferat_battle_loop_2ab85a68:
 
     # "You notice the nosferat is staring at your crotch. You give him a subtle wink. He already looks like he can't breath from his arousal. His lust is increased by [player_flirt]."
     ""
 
-# game/battle05.rpy:1825
+# game/battle05.rpy:1879
 translate schinese nosferat_battle_loop_e492040d:
 
     # "The nosferat is squirming in reaction to your advance. You can already hear his rapid breathing and grunting, holding his dripstone tightly. His lust is increased by [player_flirt]."
     ""
 
-# game/battle05.rpy:1827
+# game/battle05.rpy:1881
 translate schinese nosferat_battle_loop_d0761fee:
 
     # "You can tell the nosferat is already playing with himself when his hand wanders on his crotch, staring at your ass intently. His lust is increased by [player_flirt]."
     ""
 
-# game/battle05.rpy:1831
+# game/battle05.rpy:1885
 translate schinese nosferat_battle_loop_10db9fd6:
 
     # "You slowly back down from the nosferat's attack, you turn around and run as fast as you can."
     ""
 
-# game/battle05.rpy:1832
+# game/battle05.rpy:1886
 translate schinese nosferat_battle_loop_b5748ee7:
 
     # "But the beast easily catches up to you and throws your entire body on the ground. Your escape seems to have failed!"
     ""
 
-# game/battle05.rpy:1834
+# game/battle05.rpy:1888
 translate schinese nosferat_battle_loop_47e1c7fc:
 
     # "You slowly back down from the nosferat's attack, you turn around and run as fast as you can. The beast tries to outrun you but he trips and falls on the ground, You successfully escaped from the huntsman!"
     ""
 
-# game/battle05.rpy:1840
+# game/battle05.rpy:1894
 translate schinese nosferat_battle_loop_a9048373:
 
     # "You fall to your knees, exhausted of all your energy. You grasp for breath as you lie on the ground, thinking surrendering yourself to the nosferat might be the best choice."
     ""
 
-# game/battle05.rpy:1841
+# game/battle05.rpy:1895
 translate schinese nosferat_battle_loop_4b584ee6:
 
     # "The beast man jeers at your submission, he walks around you, poking you to see if you'd still react. You slowly close your eyes and wait for him to decide your fate."
     ""
 
-# game/battle05.rpy:1874
+# game/battle05.rpy:1928
 translate schinese nosferat_battle_loop_fa277270:
 
     # "The nosferat swings his giant dripstone towards you. You are not quick enough to dodge his blow. Your health decreases by [enemy_damage] HP."
     ""
 
-# game/battle05.rpy:1876
+# game/battle05.rpy:1930
 translate schinese nosferat_battle_loop_65fac295:
 
     # "The nosferat charges at you, knocking away your guard with his off-hand before hitting you with a kick to the chest. Your health decreases by [enemy_damage] HP."
     ""
 
-# game/battle05.rpy:1880
+# game/battle05.rpy:1934
 translate schinese nosferat_battle_loop_b464c861:
 
     # "The nosferat swings his giant dripstone towards you. You barely manage to deflect his heavy mace and dodge the attack."
     ""
 
-# game/battle05.rpy:1882
+# game/battle05.rpy:1936
 translate schinese nosferat_battle_loop_c58bcb83:
 
     # "The nosferat charges at you, trying to kick your chest, but you block the blow and push him back."
     ""
 
-# game/battle05.rpy:1888
+# game/battle05.rpy:1942
 translate schinese nosferat_battle_loop_e6578bea:
 
     # "The nosferat wraps his arms around you, you try to struggle free but his fluffy arms are too strong!"
     ""
 
-# game/battle05.rpy:1890
+# game/battle05.rpy:1944
 translate schinese nosferat_battle_loop_ff019558:
 
     # "He is holding you in place."
     ""
 
-# game/battle05.rpy:1904
+# game/battle05.rpy:1958
 translate schinese nosferat_battle_loop_69b7baa7:
 
     # "As you're already in his embrace. The nosferat slams you against the ground. Causing you to scream in pain."
     ""
 
-# game/battle05.rpy:1906
+# game/battle05.rpy:1960
 translate schinese nosferat_battle_loop_363f8562:
 
     # "You are no longer bound, but your Health decreases by [enemy_damage] HP."
     ""
 
-# game/battle05.rpy:1917
+# game/battle05.rpy:1971
 translate schinese nosferat_battle_loop_662a5447:
 
     # "The nosferat licks his lips, positioning his hip forward so your sight are locked into his gorgeous cock..."
     ""
 
-# game/battle05.rpy:1919
+# game/battle05.rpy:1973
 translate schinese nosferat_battle_loop_9c71a89b:
 
     # "You instantly become extremely aroused. Thinking about how it would fit inside you... Your lust increased by [enemy_flirt]."
     ""
 
-# game/battle05.rpy:1925
+# game/battle05.rpy:1979
 translate schinese nosferat_battle_loop_4f566afe:
 
     # "It seems... there's a pattern in nosferat's Attack, maybe you can utilise it to your advantage..."
     ""
 
-# game/battle05.rpy:1931
+# game/battle05.rpy:1985
 translate schinese nosferat_win_c6135d21:
 
     # "You defeat nosferat, quitely easily.. He escapes the situation swiftly and went back to his shelter.."
     ""
 
-# game/battle05.rpy:1937
+# game/battle05.rpy:1991
 translate schinese nosferat_win_b34e8987:
 
     # "You found [gold_drop] gold and [exp_drop] EXP."
     ""
 
-# game/battle05.rpy:1947
+# game/battle05.rpy:2001
 translate schinese nosferat_win_91f1d522:
 
     # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
     msg ""
 
-# game/battle05.rpy:1973
+# game/battle05.rpy:2027
 translate schinese nosferat_lose_7054c859:
 
     # "You fell on the ground, the nosferat slowly jogs towards you.."
     ""
 
-# game/battle05.rpy:1975
+# game/battle05.rpy:2029
 translate schinese nosferat_lose_1d00e88b:
 
     # "There's no strength left inside you to struggle against his grasp, you lose consciousness soon after."
     ""
 
-# game/battle05.rpy:1985
+# game/battle05.rpy:2039
 translate schinese nosferat_lose_4ba96869:
 
     # "You lost [gold_lost] gold."

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-01 22:36
+﻿# TODO: Translation updated at 2023-01-23 21:01
 
 # game/main_event01.rpy:7
 translate schinese Event_Party01_4311627e:

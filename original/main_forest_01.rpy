@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-01 22:36
+﻿# TODO: Translation updated at 2023-01-23 21:01
 
 # game/main_forest_01.rpy:463
 translate schinese main_woodland_outpost_78c284fa:
@@ -1279,9 +1279,9 @@ translate schinese scene_slime_sex_23c9fec3:
     e ""
 
 # game/main_forest_01.rpy:1557
-translate schinese scene_slime_sex_5d56afbd:
+translate schinese scene_slime_sex_3bdca4bc:
 
-    # "For a second, you imagine it would continue towards your legs, but as soon as the slime slide itself under your loincloth, you realise what it is doing."
+    # "For a second, you imagine it would continue towards your legs, but as soon as the slime slides itself under your loincloth, you realise what it is doing."
     ""
 
 # game/main_forest_01.rpy:1562
@@ -1308,115 +1308,115 @@ translate schinese scene_slime_sex_e2af583b:
     # "The only thing you can do is to look, you are but a bystander of whatever is happening to your body. No matter how hard you strain, you can't prevent the thing from going wherever it wants."
     ""
 
-# game/main_forest_01.rpy:1573
+# game/main_forest_01.rpy:1570
 translate schinese scene_slime_sex_52201cb7:
 
     # "You shake your head. How would other people think if they see you like this, lying on the grass, being taken controll by a mere slime."
     ""
 
-# game/main_forest_01.rpy:1575
+# game/main_forest_01.rpy:1572
 translate schinese scene_slime_sex_c87ffdc0:
 
     # "The sensation is haunting, sending your brain all the wrong signals that you might be enjoying this."
     ""
 
-# game/main_forest_01.rpy:1577
+# game/main_forest_01.rpy:1574
 translate schinese scene_slime_sex_25e86aee:
 
     # e "Noo... S-stop."
     e ""
 
-# game/main_forest_01.rpy:1579
+# game/main_forest_01.rpy:1576
 translate schinese scene_slime_sex_2454043a:
 
     # "You try to resist the feeling of getting sexually aroused, but the instinct inside your head is telling you to relax, and embrace the sensation."
     ""
 
-# game/main_forest_01.rpy:1584
+# game/main_forest_01.rpy:1581
 translate schinese scene_slime_sex_b7a2ed5a:
 
     # "The slime begins to move up and down in a regular pace. Your body tenses up, your cock is getting harder and harder as each pulse shoots through your mind."
     ""
 
-# game/main_forest_01.rpy:1586
+# game/main_forest_01.rpy:1583
 translate schinese scene_slime_sex_c6d1fb78:
 
     # "The squishy noises that the slime makes made you shudder, your cock is throbbing under the touch of a soft rubbery texture. You can feel the slime is experimenting with your body, twisting and turning against your member."
     ""
 
-# game/main_forest_01.rpy:1588
+# game/main_forest_01.rpy:1585
 translate schinese scene_slime_sex_f4c22d45:
 
     # "It continues different movement for a while, until the sexual thoughts had overwhelmed your mind. You can think about nothing but the feeling of the gooey creature on your cock. It feels... oddly amazing."
     ""
 
-# game/main_forest_01.rpy:1590
+# game/main_forest_01.rpy:1587
 translate schinese scene_slime_sex_2d7161cb:
 
     # e "Ahhhh- A-hhhh..."
     e ""
 
-# game/main_forest_01.rpy:1592
+# game/main_forest_01.rpy:1589
 translate schinese scene_slime_sex_85e20509:
 
     # "You squeeze shut your eyes tightly, hoping to avoid witnessing the final indignity that awaits you. But the pressure continues unabated until the slime on your cock begins to convulse."
     ""
 
-# game/main_forest_01.rpy:1594
+# game/main_forest_01.rpy:1591
 translate schinese scene_slime_sex_aa2c925a:
 
     # "With each throb you are getting closer to climax. Your body trembles in agony as you lay there helpless. You feel like crying out loud, that you shouldn't enjoy this so much, but you did."
     ""
 
-# game/main_forest_01.rpy:1596
+# game/main_forest_01.rpy:1593
 translate schinese scene_slime_sex_1223f9cc:
 
     # e "I- I think... I'm... no I c-can't.... S-stop this."
     e ""
 
-# game/main_forest_01.rpy:1600
+# game/main_forest_01.rpy:1597
 translate schinese scene_slime_sex_0644dfe7:
 
     # "You know you are not thinking rationally, but you can't help but to submit under the grasp of the creature, watching it bouncing on your cock. The only thing you can sense is the pressure building up, waiting to explode."
     ""
 
-# game/main_forest_01.rpy:1606
+# game/main_forest_01.rpy:1605
 translate schinese scene_slime_sex_d911cff9:
 
     # e "Ha-aaaaaagh!!!"
     e ""
 
-# game/main_forest_01.rpy:1613
+# game/main_forest_01.rpy:1614
 translate schinese scene_slime_sex_15896e16:
 
     # "You cannot hold yourself anymore, your mind shut down under the assault of pleasure and pain. Your cock twitch for one last time before you ejaculates ropes and ropes of cum all over your body."
     ""
 
-# game/main_forest_01.rpy:1615
+# game/main_forest_01.rpy:1616
 translate schinese scene_slime_sex_c6734a03:
 
     # "You can feel your own cum flowing everwhere, load after load of pent up lust released all at once, you can even feel some landed on your tongue, your brain can no longer function normally."
     ""
 
-# game/main_forest_01.rpy:1617
+# game/main_forest_01.rpy:1618
 translate schinese scene_slime_sex_b768f5e4:
 
     # "Your cock remains stiff. The slime seems to be satisfied with your performance, but it doesn't move, instead the mass continues to encapsulate your member, even after the fact that you have already came."
     ""
 
-# game/main_forest_01.rpy:1621
+# game/main_forest_01.rpy:1620
 translate schinese scene_slime_sex_96c19334:
 
     # "You breath heavily, you cannot imagine seeing yourself being brought to your knees and forced to cum like this. Your chest, arms and thighs are all covered with your own cum. some even drizzle on the slime."
     ""
 
-# game/main_forest_01.rpy:1623
+# game/main_forest_01.rpy:1622
 translate schinese scene_slime_sex_8016cc63:
 
     # "A short while after, you can feel the slime had assimilated enough samples of your cum. It retreated slowly, releasing its grip on your arm."
     ""
 
-# game/main_forest_01.rpy:1625
+# game/main_forest_01.rpy:1624
 translate schinese scene_slime_sex_d4f4d1f3:
 
     # "Before you see it leaves, you had already exhausted all your energy after the devious act, you collapse again on the grass floor, this time your consciousness fades as well."

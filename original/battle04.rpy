@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-01 22:36
+﻿# TODO: Translation updated at 2023-01-23 21:01
 
 # game/battle04.rpy:33
 translate schinese werewolf_battle_3e666b86:

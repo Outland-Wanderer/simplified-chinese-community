@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-01 22:36
+﻿# TODO: Translation updated at 2023-01-23 21:01
 
 translate schinese strings:
 
@@ -92,5 +92,13 @@ translate schinese strings:
 
     # game/gallery.rpy:43
     old "{color=#000}Asking Cane about his Favour{/color}"
+    new ""
+
+    # game/gallery.rpy:44
+    old "{color=#000}Becoming submissive towards Arthur{/color}"
+    new ""
+
+    # game/gallery.rpy:45
+    old "{color=#000}Acting devious towards Arthur{/color}"
     new ""
 

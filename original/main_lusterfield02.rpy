@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-01 22:36
+﻿# TODO: Translation updated at 2023-01-23 21:01
 
 # game/main_lusterfield02.rpy:31
 translate schinese Cane_Bet_Dialogue_7eafd3a3:

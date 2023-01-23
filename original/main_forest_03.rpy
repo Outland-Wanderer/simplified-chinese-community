@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-01 22:36
+﻿# TODO: Translation updated at 2023-01-23 21:01
 
 # game/main_forest_03.rpy:55
 translate schinese sundersilk_cascades_loop_e91ba75d:
@@ -41,10 +41,4 @@ translate schinese sundersilk_cascades_loop_e91ba75d_3:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     ""
-
-# game/main_forest_03.rpy:136
-translate schinese main_backyard_barn_e6d22e0b:
-
-    # msg "Work in Progress!"
-    msg ""
 

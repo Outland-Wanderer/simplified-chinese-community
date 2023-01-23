@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-01 22:36
+﻿# TODO: Translation updated at 2023-01-23 21:01
 
 translate schinese strings:
 
@@ -6,19 +6,19 @@ translate schinese strings:
     old "Sebas' Shop"
     new ""
 
-    # game/shop_screen.rpy:127
+    # game/shop_screen.rpy:150
     old "Sell Value: [selected_shopItem.value]"
     new ""
 
-    # game/shop_screen.rpy:132
+    # game/shop_screen.rpy:155
     old "Sell"
     new ""
 
-    # game/shop_screen.rpy:135
+    # game/shop_screen.rpy:158
     old "Buy Value: [selected_shopItem.value]"
     new ""
 
-    # game/shop_screen.rpy:142
+    # game/shop_screen.rpy:165
     old "Buy"
     new ""
 

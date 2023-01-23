@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-01-01 22:36
+﻿# TODO: Translation updated at 2023-01-23 21:01
 
 # game/main_scene03.rpy:6
 translate schinese scene_feral_lose_20427d99:
@@ -1735,10 +1735,10 @@ translate schinese scene_ambleskill_a0f109bb:
     ""
 
 # game/main_scene03.rpy:661
-translate schinese scene_ambleskill_a2174774:
+translate schinese scene_ambleskill_001d2658:
 
-    # a "And when you have your opponent on the ground, it's easy to follow up."
-    a ""
+    # ar "And when you have your opponent on the ground, it's easy to follow up."
+    ar ""
 
 # game/main_scene03.rpy:663
 translate schinese scene_ambleskill_4e7442f1:
@@ -1747,10 +1747,10 @@ translate schinese scene_ambleskill_4e7442f1:
     ""
 
 # game/main_scene03.rpy:665
-translate schinese scene_ambleskill_5c3b6c40:
+translate schinese scene_ambleskill_a7c56a12:
 
-    # a "At this point, maybe your opponent is already ready to surrender. If not..."
-    a ""
+    # ar "At this point, maybe your opponent is already ready to surrender. If not..."
+    ar ""
 
 # game/main_scene03.rpy:667
 translate schinese scene_ambleskill_fcf83219:
@@ -1825,10 +1825,10 @@ translate schinese scene_ambleskill_d68516ed:
     ""
 
 # game/main_scene03.rpy:699
-translate schinese scene_ambleskill_a4a6dde7:
+translate schinese scene_ambleskill_567ec3f5:
 
-    # a "Puny friend, why did you do that for?"
-    a ""
+    # ar "Puny friend, why did you do that for?"
+    ar ""
 
 # game/main_scene03.rpy:701
 translate schinese scene_ambleskill_86a28f0b:
@@ -1849,10 +1849,10 @@ translate schinese scene_ambleskill_772f8547:
     e ""
 
 # game/main_scene03.rpy:707
-translate schinese scene_ambleskill_16bcc10f:
+translate schinese scene_ambleskill_2314da3e:
 
-    # a "Thank me?"
-    a ""
+    # ar "Thank me?"
+    ar ""
 
 # game/main_scene03.rpy:709
 translate schinese scene_ambleskill_663b3bd0:
@@ -1891,10 +1891,10 @@ translate schinese scene_ambleskill_49a530a6:
     ""
 
 # game/main_scene03.rpy:721
-translate schinese scene_ambleskill_aeff9411:
+translate schinese scene_ambleskill_a3d900fe:
 
-    # a "Alright then."
-    a ""
+    # ar "Alright then."
+    ar ""
 
 # game/main_scene03.rpy:723
 translate schinese scene_ambleskill_0bce7852:
@@ -1903,10 +1903,10 @@ translate schinese scene_ambleskill_0bce7852:
     e ""
 
 # game/main_scene03.rpy:725
-translate schinese scene_ambleskill_5ef46e7c:
+translate schinese scene_ambleskill_a9322d8d:
 
-    # a "Yea. You want to thank me, right? It sounds about right."
-    a ""
+    # ar "Yea. You want to thank me, right? It sounds about right."
+    ar ""
 
 # game/main_scene03.rpy:727
 translate schinese scene_ambleskill_e1a752bc:
@@ -1933,10 +1933,10 @@ translate schinese scene_ambleskill_1b55c4e1:
     ""
 
 # game/main_scene03.rpy:737
-translate schinese scene_ambleskill_e478e865:
+translate schinese scene_ambleskill_cdbcf0d0:
 
-    # a "Come on now."
-    a ""
+    # ar "Come on now."
+    ar ""
 
 # game/main_scene03.rpy:739
 translate schinese scene_ambleskill_3b9c7356:
@@ -1945,10 +1945,10 @@ translate schinese scene_ambleskill_3b9c7356:
     ""
 
 # game/main_scene03.rpy:741
-translate schinese scene_ambleskill_7514bf7c:
+translate schinese scene_ambleskill_c9960796:
 
-    # a "Oh. Puny friend, you're good."
-    a ""
+    # ar "Oh. Puny friend, you're good."
+    ar ""
 
 # game/main_scene03.rpy:743
 translate schinese scene_ambleskill_07adf072:
@@ -1969,10 +1969,10 @@ translate schinese scene_ambleskill_7071c33f:
     ""
 
 # game/main_scene03.rpy:749
-translate schinese scene_ambleskill_d849f5c7:
+translate schinese scene_ambleskill_58f37e0d:
 
-    # a "Oh..."
-    a ""
+    # ar "Oh..."
+    ar ""
 
 # game/main_scene03.rpy:751
 translate schinese scene_ambleskill_b6f2127f:
@@ -2005,10 +2005,10 @@ translate schinese scene_ambleskill_bd174e5d:
     ""
 
 # game/main_scene03.rpy:761
-translate schinese scene_ambleskill_a9ea4b24:
+translate schinese scene_ambleskill_f4e49ace:
 
-    # a "Oh... That's nice."
-    a ""
+    # ar "Oh... That's nice."
+    ar ""
 
 # game/main_scene03.rpy:765
 translate schinese scene_ambleskill_4ab4cf64:
@@ -2029,10 +2029,10 @@ translate schinese scene_ambleskill_b378eabf:
     ""
 
 # game/main_scene03.rpy:771
-translate schinese scene_ambleskill_e87fa026:
+translate schinese scene_ambleskill_6621ab7c:
 
-    # a "Urgh..."
-    a ""
+    # ar "Urgh..."
+    ar ""
 
 # game/main_scene03.rpy:773
 translate schinese scene_ambleskill_1b97f6f7:
@@ -2065,10 +2065,10 @@ translate schinese scene_ambleskill_7a69642e:
     ""
 
 # game/main_scene03.rpy:783
-translate schinese scene_ambleskill_031adcff:
+translate schinese scene_ambleskill_dca28335:
 
-    # a "Oh... Christ."
-    a ""
+    # ar "Oh... Christ."
+    ar ""
 
 # game/main_scene03.rpy:785
 translate schinese scene_ambleskill_ebc9a02f:
@@ -2077,10 +2077,10 @@ translate schinese scene_ambleskill_ebc9a02f:
     ""
 
 # game/main_scene03.rpy:787
-translate schinese scene_ambleskill_57106a98:
+translate schinese scene_ambleskill_9d9f1603:
 
-    # a "You get me leaking already."
-    a ""
+    # ar "You get me leaking already."
+    ar ""
 
 # game/main_scene03.rpy:789
 translate schinese scene_ambleskill_1036023f:
@@ -2095,10 +2095,10 @@ translate schinese scene_ambleskill_27bc0d48:
     ""
 
 # game/main_scene03.rpy:793
-translate schinese scene_ambleskill_6d4f71ac:
+translate schinese scene_ambleskill_5f1714a6:
 
-    # a "Ergh..."
-    a ""
+    # ar "Ergh..."
+    ar ""
 
 # game/main_scene03.rpy:795
 translate schinese scene_ambleskill_95585dfb:
@@ -2143,10 +2143,10 @@ translate schinese scene_ambleskill_2238cc97:
     ""
 
 # game/main_scene03.rpy:811
-translate schinese scene_ambleskill_73e2f2cc:
+translate schinese scene_ambleskill_fd212c09:
 
-    # a "You are too good, puny friend. I have to get this off. It's stretching so hard that it's making it painful."
-    a ""
+    # ar "You are too good, puny friend. I have to get this off. It's stretching so hard that it's making it painful."
+    ar ""
 
 # game/main_scene03.rpy:813
 translate schinese scene_ambleskill_4d09769b:
@@ -2227,10 +2227,10 @@ translate schinese scene_ambleskill_c5726547:
     ""
 
 # game/main_scene03.rpy:845
-translate schinese scene_ambleskill_f33b4562:
+translate schinese scene_ambleskill_47bdba36:
 
-    # a "Oh... Easy there..."
-    a ""
+    # ar "Oh... Easy there..."
+    ar ""
 
 # game/main_scene03.rpy:847
 translate schinese scene_ambleskill_8a57f783:
@@ -2299,10 +2299,10 @@ translate schinese scene_ambleskill_e241683e:
     ""
 
 # game/main_scene03.rpy:871
-translate schinese scene_ambleskill_6239d298:
+translate schinese scene_ambleskill_365d1511:
 
-    # a "Damn."
-    a ""
+    # ar "Damn."
+    ar ""
 
 # game/main_scene03.rpy:875
 translate schinese scene_ambleskill_eec9549c:
@@ -2341,16 +2341,16 @@ translate schinese scene_ambleskill_05281ea0:
     ""
 
 # game/main_scene03.rpy:887
-translate schinese scene_ambleskill_9dfe72a8:
+translate schinese scene_ambleskill_5b0dcd2e:
 
-    # a "You alright, puny friend?"
-    a ""
+    # ar "You alright, puny friend?"
+    ar ""
 
 # game/main_scene03.rpy:889
-translate schinese scene_ambleskill_f462af37:
+translate schinese scene_ambleskill_efcdc775:
 
-    # a "Hng... Why don't we take a break?"
-    a ""
+    # ar "Hng... Why don't we take a break?"
+    ar ""
 
 # game/main_scene03.rpy:891
 translate schinese scene_ambleskill_7c6dd68d:
@@ -2419,10 +2419,10 @@ translate schinese scene_ambleskill_7c6dd68d_1:
     e ""
 
 # game/main_scene03.rpy:915
-translate schinese scene_ambleskill_85a1385a:
+translate schinese scene_ambleskill_19298087:
 
-    # a "Christ... Yes..."
-    a ""
+    # ar "Christ... Yes..."
+    ar ""
 
 # game/main_scene03.rpy:917
 translate schinese scene_ambleskill_1819a542:
@@ -2461,10 +2461,10 @@ translate schinese scene_ambleskill_f5237b2a:
     ""
 
 # game/main_scene03.rpy:929
-translate schinese scene_ambleskill_87f7be86:
+translate schinese scene_ambleskill_d3700a8b:
 
-    # a "Hot damn... I thought only Jog can manage this."
-    a ""
+    # ar "Hot damn... I thought only Jog can manage this."
+    ar ""
 
 # game/main_scene03.rpy:931
 translate schinese scene_ambleskill_7c6dd68d_2:
@@ -2479,10 +2479,10 @@ translate schinese scene_ambleskill_51a24d8d:
     ""
 
 # game/main_scene03.rpy:937
-translate schinese scene_ambleskill_16dc0e00:
+translate schinese scene_ambleskill_c320a24d:
 
-    # a "Christ... Oh..."
-    a ""
+    # ar "Christ... Oh..."
+    ar ""
 
 # game/main_scene03.rpy:939
 translate schinese scene_ambleskill_d16a00ee:
@@ -2497,10 +2497,10 @@ translate schinese scene_ambleskill_31e19b57:
     ""
 
 # game/main_scene03.rpy:943
-translate schinese scene_ambleskill_03113d26:
+translate schinese scene_ambleskill_b0914852:
 
-    # a "Hng... I'm close."
-    a ""
+    # ar "Hng... I'm close."
+    ar ""
 
 # game/main_scene03.rpy:945
 translate schinese scene_ambleskill_aa357da4:
@@ -2527,10 +2527,10 @@ translate schinese scene_ambleskill_ff123488:
     ""
 
 # game/main_scene03.rpy:955
-translate schinese scene_ambleskill_3fdbce2b:
+translate schinese scene_ambleskill_45b2052a:
 
-    # a "I'm coming!"
-    a ""
+    # ar "I'm coming!"
+    ar ""
 
 # game/main_scene03.rpy:967
 translate schinese scene_ambleskill_3252ff96:
@@ -2587,10 +2587,10 @@ translate schinese scene_ambleskill_071bbfd9:
     ""
 
 # game/main_scene03.rpy:999
-translate schinese scene_ambleskill_243c761b:
+translate schinese scene_ambleskill_557bd2f0:
 
-    # a "Oh... Oh..."
-    a ""
+    # ar "Oh... Oh..."
+    ar ""
 
 # game/main_scene03.rpy:1001
 translate schinese scene_ambleskill_c0ddb016:
@@ -3258,69 +3258,1213 @@ translate schinese scene_jogskill_7d5784b5:
     # j "Til next time."
     j ""
 
-# game/main_scene03.rpy:1258
-translate schinese scene_werewolf_orgy_cf2a7e66:
-
-    # "You decide to visit Uffe's pack."
-    ""
-
 # game/main_scene03.rpy:1260
-translate schinese scene_werewolf_orgy_da13ff2e:
+translate schinese Scene_Arthur_NoNo_ef715fba:
 
-    # "It's been a few moments since you last visited "
+    # "Numb, woozy, and horny as you are, you comply, setting your arms against the hay beneath you, and lifting your ass."
     ""
 
-# game/main_scene03.rpy:1262
-translate schinese scene_werewolf_orgy_5797be93:
+# game/main_scene03.rpy:1261
+translate schinese Scene_Arthur_NoNo_8d18e3cf:
 
-    # "Outside the werewolf cave, something grey catches your eyes."
+    # ar "There. At least you're worth something, even if it is just as a hole for me to stick my dick in."
+    ar ""
+
+# game/main_scene03.rpy:1263
+translate schinese Scene_Arthur_NoNo_2ceb4758:
+
+    # "Saying that, Arty lines himself up behind you, making sure to have a proper grip on your leash first."
     ""
 
 # game/main_scene03.rpy:1264
-translate schinese scene_werewolf_orgy_4aeb1bd6:
+translate schinese Scene_Arthur_NoNo_260d10b0:
 
-    # "You notice the bushes rumbling, in a motion much different than simply leaves rustling."
+    # ar "One last thing before you're ready."
+    ar ""
+
+# game/main_scene03.rpy:1265
+translate schinese Scene_Arthur_NoNo_8c340863:
+
+    # "You feel a strong tug on your throat as the collar is once again pressed against it, choking you and arching your back."
     ""
 
-# game/main_scene03.rpy:1266
-translate schinese scene_werewolf_orgy_0ae9bcd0:
+# game/main_scene03.rpy:1267
+translate schinese Scene_Arthur_NoNo_d79bd4d3:
 
-    # ""
+    # "A moment later, you feel a splitting pain from your ass."
     ""
 
 # game/main_scene03.rpy:1268
-translate schinese scene_werewolf_orgy_7a66e101:
+translate schinese Scene_Arthur_NoNo_b38641b8:
 
-    # u "My dearest visitor, you've finally arrived."
-    u ""
+    # ar "Only got down to the knot."
+    ar ""
+
+# game/main_scene03.rpy:1269
+translate schinese Scene_Arthur_NoNo_e9ae4909:
+
+    # ar "We're going to mold you to do better than that."
+    ar ""
 
 # game/main_scene03.rpy:1270
-translate schinese scene_werewolf_orgy_d0aca7a6:
+translate schinese Scene_Arthur_NoNo_f219f8b8:
 
-    # e "Uffe, are those werewolves?"
-    e ""
+    # "Immediately, Arty begins to pump away at you, no longer pretending to try and figure out how fast he can get you to fit him."
+    ""
+
+# game/main_scene03.rpy:1271
+translate schinese Scene_Arthur_NoNo_f32b967f:
+
+    # "Right now, it's about getting the most pleasure out of you as possible."
+    ""
 
 # game/main_scene03.rpy:1272
-translate schinese scene_werewolf_orgy_1b7ac0df:
+translate schinese Scene_Arthur_NoNo_a53faf8e:
 
-    # u "You're a funny one. Of course. Come, we're having a celebration."
-    u ""
+    # "A slowly growing part of you is thrilled about that fact. The same part that led you to completely give yourself over to him just now."
+    ""
 
-# game/main_scene03.rpy:1274
-translate schinese scene_werewolf_orgy_78bb4a38:
+# game/main_scene03.rpy:1273
+translate schinese Scene_Arthur_NoNo_452da40c:
 
-    # e "For what, may I ask...?"
-    e ""
+    # ar "This is what you get for making me have to please myself."
+    ar ""
+
+# game/main_scene03.rpy:1275
+translate schinese Scene_Arthur_NoNo_2995f56e:
+
+    # "He doesn't even stop as he says this. The relentless feeling of his cock plunging in and out of you faster than you can process fills your mind."
+    ""
 
 # game/main_scene03.rpy:1276
-translate schinese scene_werewolf_orgy_88b767ae:
+translate schinese Scene_Arthur_NoNo_6614ab9d:
 
-    # u "The death of a threat. Did I not tell you about this, or did you lost your brain in the cave?"
-    u ""
+    # "A sea of pleasure and pain is what you experience, all of it accompanied by the underlying panic of being unable to breathe."
+    ""
+
+# game/main_scene03.rpy:1277
+translate schinese Scene_Arthur_NoNo_eda22249:
+
+    # "You can feel that he's gotten half of his knot in. It's either been thirty seconds or an hour. It is impossible for you to tell like this."
+    ""
 
 # game/main_scene03.rpy:1278
-translate schinese scene_werewolf_orgy_ccc301df:
+translate schinese Scene_Arthur_NoNo_395611f3:
 
-    # e "Hmm...You did tell me."
+    # "The man behind you continues to pound at you with no regard for your own pleasure."
+    ""
+
+# game/main_scene03.rpy:1280
+translate schinese Scene_Arthur_NoNo_51eafc22:
+
+    # "Despite this, you've already reached your climax under him, the dizziness, fear and raw bliss bringing you past your edge faster than you thought."
+    ""
+
+# game/main_scene03.rpy:1281
+translate schinese Scene_Arthur_NoNo_8c3da5b3:
+
+    # "Your hole tightens around him as you shoot shot after shot of cum into the hay. Arty continues to fuck you unabated, your tightening only drawing an angry growl out of him."
+    ""
+
+# game/main_scene03.rpy:1283
+translate schinese Scene_Arthur_NoNo_f28a680f:
+
+    # ar "I see you can learn, you just need it to be forced into you."
+    ar ""
+
+# game/main_scene03.rpy:1285
+translate schinese Scene_Arthur_NoNo_b0ef8682:
+
+    # "At this point, you see what he means. This is exhilarating. You feel fantastic."
+    ""
+
+# game/main_scene03.rpy:1286
+translate schinese Scene_Arthur_NoNo_c5a7fe10:
+
+    # "You are also… losing control… of your limbs…"
+    ""
+
+# game/main_scene03.rpy:1287
+translate schinese Scene_Arthur_NoNo_bd380b3a:
+
+    # "Air floods back into your system as Arty momentarily lets the leash go slack. Despite that moment of respite, he continues slamming into your hole unabated."
+    ""
+
+# game/main_scene03.rpy:1288
+translate schinese Scene_Arthur_NoNo_c27c85aa:
+
+    # ar "You can't learn if you're unconscious. You'll get to breathe properly once I've cum, so work for it."
+    ar ""
+
+# game/main_scene03.rpy:1289
+translate schinese Scene_Arthur_NoNo_c9aee665:
+
+    # "You can only oblige. As you try to relax your ass, Arty slams the collar into your throat again."
+    ""
+
+# game/main_scene03.rpy:1290
+translate schinese Scene_Arthur_NoNo_23decf66:
+
+    # ar "I said work for it, not take it easy."
+    ar ""
+
+# game/main_scene03.rpy:1291
+translate schinese Scene_Arthur_NoNo_7666fe1d:
+
+    # "The muscles you tried to relax are tense once more, which seems to be to Arty's liking. Unsure of what he wants from you, all you can try and do is last as long as possible without air."
+    ""
+
+# game/main_scene03.rpy:1292
+translate schinese Scene_Arthur_NoNo_03655d57:
+
+    # "With a particularly harsh push into your ass, Arty's knot pops all the way inside of you. Uncaring, he pulls it back out before your hole can tighten and keep the two of you locked."
+    ""
+
+# game/main_scene03.rpy:1293
+translate schinese Scene_Arthur_NoNo_a0b985b0:
+
+    # "The dog above you hums happily to himself, his previous anger suddenly gone."
+    ""
+
+# game/main_scene03.rpy:1294
+translate schinese Scene_Arthur_NoNo_a68b6fb4:
+
+    # ar "Theeeere we go. That's a good hole."
+    ar ""
+
+# game/main_scene03.rpy:1296
+translate schinese Scene_Arthur_NoNo_7b8fefe0:
+
+    # "This marks the start of a brutal experience for you."
+    ""
+
+# game/main_scene03.rpy:1298
+translate schinese Scene_Arthur_NoNo_a6293a96:
+
+    # "With every pump in, Arty fits his entire cock inside of you, down past the knot, and pulls it right out, only to repeat that again within less than a second."
+    ""
+
+# game/main_scene03.rpy:1299
+translate schinese Scene_Arthur_NoNo_659d31fd:
+
+    # "In less than a minute of this, you cum onto the hay bale once again, the combined feeling of fullness, pain, and… pleasure at being a useful bitch for Arty pushing you past the edge."
+    ""
+
+# game/main_scene03.rpy:1300
+translate schinese Scene_Arthur_NoNo_e1e3d006:
+
+    # ar "I'm glad to see I haven't forgotten how to get a bitch to fit me. It's things like this that make life good."
+    ar ""
+
+# game/main_scene03.rpy:1301
+translate schinese Scene_Arthur_NoNo_664bc4a1:
+
+    # "As he says that, Arty pulls all the way out of you for the final time, and shoves you onto the hay bale covered in your cum. Your front is hot and sticky, with straw poking into it, but you can breathe once more."
+    ""
+
+# game/main_scene03.rpy:1302
+translate schinese Scene_Arthur_NoNo_88458ca3:
+
+    # "You feel a hot, warm sensation on your back, as well as the animalistic grunts of the man behind you as Arty cums all over your back. You lay there, taking in gulps of air in a state of blissful oblivion."
+    ""
+
+# game/main_scene03.rpy:1303
+translate schinese Scene_Arthur_NoNo_4be9d7dd:
+
+    # "It takes a long time for him to finish, but when he does, he brings his softening cock up to your mouth."
+    ""
+
+# game/main_scene03.rpy:1305
+translate schinese Scene_Arthur_NoNo_a8998aa8:
+
+    # ar "Clean."
+    ar ""
+
+# game/main_scene03.rpy:1306
+translate schinese Scene_Arthur_NoNo_fe89d554:
+
+    # "You do as he says, opening your mouth only for the dog to shove his cock all the way in without warning."
+    ""
+
+# game/main_scene03.rpy:1307
+translate schinese Scene_Arthur_NoNo_a50964dd:
+
+    # "Obliging, you gently suckle on his cock, cleaning it of the strong, musky cum covering it."
+    ""
+
+# game/main_scene03.rpy:1308
+translate schinese Scene_Arthur_NoNo_42ce785c:
+
+    # "Arty sighs happily as you do this, pushing his hips forwards to make sure you get all of it."
+    ""
+
+# game/main_scene03.rpy:1309
+translate schinese Scene_Arthur_NoNo_0a1a1100:
+
+    # ar "We'll make a good pet of you yet."
+    ar ""
+
+# game/main_scene03.rpy:1310
+translate schinese Scene_Arthur_NoNo_4412bda0:
+
+    # "Deep down, that same fucked up part of you rejoices."
+    ""
+
+# game/main_scene03.rpy:1312
+translate schinese Scene_Arthur_NoNo_976c6f9a:
+
+    # "Once he's satisfied with your work, Arty pulls out of your mouth, his saliva-covered knot already slipping back into its sheath."
+    ""
+
+# game/main_scene03.rpy:1313
+translate schinese Scene_Arthur_NoNo_824b972a:
+
+    # "The shepherd steps back to admire his work, a cum covered dragon with a gaping hole."
+    ""
+
+# game/main_scene03.rpy:1315
+translate schinese Scene_Arthur_NoNo_32c091ff:
+
+    # ar "There's just one thing missing."
+    ar ""
+
+# game/main_scene03.rpy:1316
+translate schinese Scene_Arthur_NoNo_1a9a14e5:
+
+    # ar "We need to mark you so people know you're my property."
+    ar ""
+
+# game/main_scene03.rpy:1317
+translate schinese Scene_Arthur_NoNo_b806c489:
+
+    # "You're briefly confused by this statement, until you feel a stream of warm liquid pouring onto your back."
+    ""
+
+# game/main_scene03.rpy:1318
+translate schinese Scene_Arthur_NoNo_5753439a:
+
+    # "Arty sighs contentedly as he holds his cock in his hand, marking you with his urine."
+    ""
+
+# game/main_scene03.rpy:1319
+translate schinese Scene_Arthur_NoNo_f3d1d3cb:
+
+    # ar "A hole, and a bathroom. We're finding more uses for you by the minute."
+    ar ""
+
+# game/main_scene03.rpy:1320
+translate schinese Scene_Arthur_NoNo_58f0fdb0:
+
+    # "After a bit, the originally strong stream of piss tapers off into droplets, which he makes sure to get on you."
+    ""
+
+# game/main_scene03.rpy:1321
+translate schinese Scene_Arthur_NoNo_383b98dd:
+
+    # "Your fur is drenched with the stuff, filling your nose with the scent of his musk."
+    ""
+
+# game/main_scene03.rpy:1322
+translate schinese Scene_Arthur_NoNo_e6513c4c:
+
+    # "The shepherd dog above you seems very happy with this. Anybody nearby you would know that you were his for the next few hours."
+    ""
+
+# game/main_scene03.rpy:1323
+translate schinese Scene_Arthur_NoNo_d8466321:
+
+    # "He seems to revel in his ownership of you, as well as degrading you."
+    ""
+
+# game/main_scene03.rpy:1324
+translate schinese Scene_Arthur_NoNo_aba373ec:
+
+    # "And the worst part is, you can't say you hate it."
+    ""
+
+# game/main_scene03.rpy:1325
+translate schinese Scene_Arthur_NoNo_3a5c6438:
+
+    # ar "There, now you look just like you should."
+    ar ""
+
+# game/main_scene03.rpy:1327
+translate schinese Scene_Arthur_NoNo_301ecdde:
+
+    # ar "You look just like you should."
+    ar ""
+
+# game/main_scene03.rpy:1328
+translate schinese Scene_Arthur_NoNo_2c193e74:
+
+    # ar "You look so good, I might even cum in you next time!"
+    ar ""
+
+# game/main_scene03.rpy:1329
+translate schinese Scene_Arthur_NoNo_4c314575:
+
+    # "Slowly, you raise your head to look up at your master."
+    ""
+
+# game/main_scene03.rpy:1330
+translate schinese Scene_Arthur_NoNo_361a4032:
+
+    # ar "I've seen that you respond well to physical learning."
+    ar ""
+
+# game/main_scene03.rpy:1331
+translate schinese Scene_Arthur_NoNo_6f30d315:
+
+    # ar "We'll be continuing our lessons next time."
+    ar ""
+
+# game/main_scene03.rpy:1332
+translate schinese Scene_Arthur_NoNo_ff6509b3:
+
+    # "Arty turns to leave, but comes back to crouch in front of you."
+    ""
+
+# game/main_scene03.rpy:1333
+translate schinese Scene_Arthur_NoNo_e52cad27:
+
+    # ar "Now, tell me who I am."
+    ar ""
+
+# game/main_scene03.rpy:1334
+translate schinese Scene_Arthur_NoNo_f271535e:
+
+    # "Struggling, you fall to that little piece of yourself deep down."
+    ""
+
+# game/main_scene03.rpy:1335
+translate schinese Scene_Arthur_NoNo_a0b3eb8d:
+
+    # e "...master."
     e ""
+
+# game/main_scene03.rpy:1336
+translate schinese Scene_Arthur_NoNo_b51d9bad:
+
+    # "Arty smiles, satisfied with a job well done."
+    ""
+
+# game/main_scene03.rpy:1337
+translate schinese Scene_Arthur_NoNo_d8e1005c:
+
+    # ar "There we go."
+    ar ""
+
+# game/main_scene03.rpy:1346
+translate schinese Scene_Arthur_Yes_ba6ea08c:
+
+    # ar "To be clear, I do expect you to use both."
+    ar ""
+
+# game/main_scene03.rpy:1347
+translate schinese Scene_Arthur_Yes_5d39e6b7:
+
+    # ar "Now. Another question for you."
+    ar ""
+
+# game/main_scene03.rpy:1348
+translate schinese Scene_Arthur_Yes_063f3c6d:
+
+    # "Arty says this as he opens the door to the living quarters you identified earlier."
+    ""
+
+# game/main_scene03.rpy:1349
+translate schinese Scene_Arthur_Yes_93b3f259:
+
+    # "In the same motion, he twists and tugs you close to him, so your back is pressed against his front, and his mouth against your ear."
+    ""
+
+# game/main_scene03.rpy:1350
+translate schinese Scene_Arthur_Yes_a257ee3b:
+
+    # "A hungry, controlling voice growls into your ear as you feel your master's cock against your ass."
+    ""
+
+# game/main_scene03.rpy:1351
+translate schinese Scene_Arthur_Yes_59c6d955:
+
+    # ar "You remember I told you I've fucked a lot of bitches, right pup?"
+    ar ""
+
+# game/main_scene03.rpy:1352
+translate schinese Scene_Arthur_Yes_ab7564b2:
+
+    # "You gulp nervously, wondering where this was going."
+    ""
+
+# game/main_scene03.rpy:1353
+translate schinese Scene_Arthur_Yes_ea7d15be:
+
+    # e "Yes, sir?"
+    e ""
+
+# game/main_scene03.rpy:1354
+translate schinese Scene_Arthur_Yes_3c6d2e8e:
+
+    # "One of Arty's hands moves to undo his overalls, while the other moves down to your cock, slowly massaging it back and forth."
+    ""
+
+# game/main_scene03.rpy:1355
+translate schinese Scene_Arthur_Yes_cc0f1beb:
+
+    # ar "How do you feel about breeding, pup? You'd like to be bred? Or prefer I just fuck ya and leave it in like any regular lay."
+    ar ""
+
+# game/main_scene03.rpy:1359
+translate schinese Scene_Arthur_Yes_08ca889f:
+
+    # msg "{i}This is entirely optional kink content, with no effect on gameplay.{/i}" nointeract
+    msg "" nointeract
+
+# game/main_scene03.rpy:1362
+translate schinese Scene_Arthur_Yes_afcde003:
+
+    # e "Sorry, sir, breeding just, isn't for me."
+    e ""
+
+# game/main_scene03.rpy:1363
+translate schinese Scene_Arthur_Yes_96546de3:
+
+    # e "I still want nothing more than to be fucked by you, sir… is that okay?"
+    e ""
+
+# game/main_scene03.rpy:1364
+translate schinese Scene_Arthur_Yes_84e183e5:
+
+    # "Arty licks your ear gently, a small sign of affection."
+    ""
+
+# game/main_scene03.rpy:1365
+translate schinese Scene_Arthur_Yes_9ac2e88c:
+
+    # ar "Well aren't you just the cutest little thing."
+    ar ""
+
+# game/main_scene03.rpy:1366
+translate schinese Scene_Arthur_Yes_e09dc8ff:
+
+    # ar "I'm more than happy to fuck you until you're nothing but a moaning puddle of cum."
+    ar ""
+
+# game/main_scene03.rpy:1367
+translate schinese Scene_Arthur_Yes_5aaa0a6d:
+
+    # "At the same time as he says that, you feel Arty's overalls fall away, your back now pressed against his slick cock as he chuckles softly in your ear."
+    ""
+
+# game/main_scene03.rpy:1368
+translate schinese Scene_Arthur_Yes_d7d9bf85:
+
+    # ar "You'll be a good boy and open up nice and easy for me, yeah?"
+    ar ""
+
+# game/main_scene03.rpy:1369
+translate schinese Scene_Arthur_Yes_37078672:
+
+    # "Arty is pushing you forwards gently. You can feel his cock poking greedily at your entrance along the way, coating it with pre."
+    ""
+
+# game/main_scene03.rpy:1370
+translate schinese Scene_Arthur_Yes_c279c583:
+
+    # e "I, umm… I'll do my best, master, but I can't promise that I'll…."
+    e ""
+
+# game/main_scene03.rpy:1371
+translate schinese Scene_Arthur_Yes_bde8fe1f:
+
+    # "Your words trail off as your master gently shushes you and leads you over to the bed, which he guides you to get on all fours on."
+    ""
+
+# game/main_scene03.rpy:1374
+translate schinese Scene_Arthur_Yes_89be188c:
+
+    # ar "Oh, I know. But I want to hear you say it."
+    ar ""
+
+# game/main_scene03.rpy:1375
+translate schinese Scene_Arthur_Yes_89b78ae5:
+
+    # "At this point, Arty's tip is already a bit inside your hole, teasing you to a point that it becomes torture."
+    ""
+
+# game/main_scene03.rpy:1376
+translate schinese Scene_Arthur_Yes_36605635:
+
+    # ar "Now, let's hear it out of you. What are you going to do for your master?"
+    ar ""
+
+# game/main_scene03.rpy:1377
+translate schinese Scene_Arthur_Yes_fa57fe3f:
+
+    # "You hesitate briefly, trying to find the right words. You give up and speak without thinking when you feel Arty's cock pulse against your hole, oozing precum inside of you."
+    ""
+
+# game/main_scene03.rpy:1378
+translate schinese Scene_Arthur_Yes_ea02b31f:
+
+    # e "I'm going to do my best to please you, and help you do with me what you please."
+    e ""
+
+# game/main_scene03.rpy:1379
+translate schinese Scene_Arthur_Yes_4a18fe35:
+
+    # "Your master smiles widely at that, greed plain on his face. He wants to rut you, mount you, and mark you as his."
+    ""
+
+# game/main_scene03.rpy:1380
+translate schinese Scene_Arthur_Yes_eb270102:
+
+    # "He takes your leash and pulls on it, pulling your neck up and arching your back."
+    ""
+
+# game/main_scene03.rpy:1381
+translate schinese Scene_Arthur_Yes_ec8dbec9:
+
+    # ar "Good boy. Now, enjoy the ride."
+    ar ""
+
+# game/main_scene03.rpy:1383
+translate schinese Scene_Arthur_Yes_f397bc52:
+
+    # "Without any more warning, Arty plunges into you, getting halfway down in one thrust before pulling back."
+    ""
+
+# game/main_scene03.rpy:1384
+translate schinese Scene_Arthur_Yes_1aff589b:
+
+    # "You let out a sound between a yelp of pain and a moan of pleasure, the pain and urge to please warring within you as your master relies on his generous pre to lube you up."
+    ""
+
+# game/main_scene03.rpy:1385
+translate schinese Scene_Arthur_Yes_80b2b6a4:
+
+    # "Before you fully catch your balance, Arty goes for it again, plunging an inch deeper."
+    ""
+
+# game/main_scene03.rpy:1386
+translate schinese Scene_Arthur_Yes_e5ab0349:
+
+    # "You can hear the german shepherd let out a pleased growl above you."
+    ""
+
+# game/main_scene03.rpy:1387
+translate schinese Scene_Arthur_Yes_2f1cec97:
+
+    # ar "Come on, boy, loosen up, don't make me force my way in."
+    ar ""
+
+# game/main_scene03.rpy:1388
+translate schinese Scene_Arthur_Yes_2394ac6a:
+
+    # "He punctuates this with another thrust, which yet again moves slightly deeper."
+    ""
+
+# game/main_scene03.rpy:1389
+translate schinese Scene_Arthur_Yes_0236adb1:
+
+    # "Adamant to do your best, you concentrate on relaxing. The next time Arty thrusts into you, he nearly gets all the way down to his knot."
+    ""
+
+# game/main_scene03.rpy:1390
+translate schinese Scene_Arthur_Yes_26ca6cb5:
+
+    # ar "That's what I'm talking about, pup. You need to get ready for when things actually start."
+    ar ""
+
+# game/main_scene03.rpy:1391
+translate schinese Scene_Arthur_Yes_fac1170e:
+
+    # "So saying, he tries one last thrust. It feels like he's splitting you in two, but your brain clouds into pleasure as he slams his cock into your prostate, finally getting down to the knot."
+    ""
+
+# game/main_scene03.rpy:1392
+translate schinese Scene_Arthur_Yes_d2c1bde3:
+
+    # ar "There we go. Now it's time to get serious."
+    ar ""
+
+# game/main_scene03.rpy:1393
+translate schinese Scene_Arthur_Yes_6dadb083:
+
+    # "Arty pulls out of you, leaving your hole gaping and dripping with pre. With one hand, he jacks himself off, and with the other, he pushes you further onto the bed."
+    ""
+
+# game/main_scene03.rpy:1394
+translate schinese Scene_Arthur_Yes_44d5c697:
+
+    # "The old dog has a position in mind for you, one where he can push as deep as possible into you with the full force of his body."
+    ""
+
+# game/main_scene03.rpy:1395
+translate schinese Scene_Arthur_Yes_aadc40ad:
+
+    # "He gets on the bed and puts his feet to either side of your ass, squatting down and putting his belly on your back. His cock is significantly above your entrance, which leaves you confused."
+    ""
+
+# game/main_scene03.rpy:1396
+translate schinese Scene_Arthur_Yes_a9117963:
+
+    # "Up until he leans forwards and pushes your head into the bed by your neck. Your arms collapse as your ass raises to compensate, leaving you with Arty's cock right above your hole, pointing down."
+    ""
+
+# game/main_scene03.rpy:1397
+translate schinese Scene_Arthur_Yes_a94e317a:
+
+    # "Your master hums lightly in satisfaction before licking his lips and poking your entrance."
+    ""
+
+# game/main_scene03.rpy:1398
+translate schinese Scene_Arthur_Yes_1563b618:
+
+    # ar "Now, let's get serious, shall we?"
+    ar ""
+
+# game/main_scene03.rpy:1399
+translate schinese Scene_Arthur_Yes_b79c288b:
+
+    # "Your world goes white with a mix of pain and pleasure as Arty slams down into you, forcing himself all the way down to his knot, already getting a bit in from the force of it."
+    ""
+
+# game/main_scene03.rpy:1400
+translate schinese Scene_Arthur_Yes_20849b4f:
+
+    # "He doesn't stop. Within less than a second, he's pulled back, leaving only his head at the entrance, and slammed back into you at full force."
+    ""
+
+# game/main_scene03.rpy:1401
+translate schinese Scene_Arthur_Yes_bcdb4cf9:
+
+    # "There is nothing that will come between him and knotting you. He isn't quite speaking anymore, only letting out approving and hungry grunts and growls."
+    ""
+
+# game/main_scene03.rpy:1402
+translate schinese Scene_Arthur_Yes_1bc89dc8:
+
+    # "It's to the point where you're pretty sure he's drooling at the thought of knotting you."
+    ""
+
+# game/main_scene03.rpy:1406
+translate schinese Scene_Arthur_Yes_3b23ca90:
+
+    # e "Please breed me, master! I want you to leave me with a litter of your pups!"
+    e ""
+
+# game/main_scene03.rpy:1407
+translate schinese Scene_Arthur_Yes_56e44179:
+
+    # "Of course, now that you've admitted it, Arty starts to tease you, pulling away just a little so only his snout and bulge are touching you."
+    ""
+
+# game/main_scene03.rpy:1408
+translate schinese Scene_Arthur_Yes_1f7fcaaf:
+
+    # ar "I've fathered a lot of litters in my day… are you sure you want one?"
+    ar ""
+
+# game/main_scene03.rpy:1409
+translate schinese Scene_Arthur_Yes_54a12dfe:
+
+    # "Your master's behavior makes you whine softly. You make a dangerous move and push back so you are back to being against his body."
+    ""
+
+# game/main_scene03.rpy:1410
+translate schinese Scene_Arthur_Yes_1d25fff7:
+
+    # "When you get there, you feel Arty's overalls fall away, your back now pressed against his slick cock as he chuckles softly in your ear."
+    ""
+
+# game/main_scene03.rpy:1411
+translate schinese Scene_Arthur_Yes_eac453d4:
+
+    # ar "That's as good a sign as any that you want one in you, pup."
+    ar ""
+
+# game/main_scene03.rpy:1412
+translate schinese Scene_Arthur_Yes_37078672_1:
+
+    # "Arty is pushing you forwards gently. You can feel his cock poking greedily at your entrance along the way, coating it with pre."
+    ""
+
+# game/main_scene03.rpy:1413
+translate schinese Scene_Arthur_Yes_7a096472:
+
+    # e "I, umm. My one worry is that I can't actually have one."
+    e ""
+
+# game/main_scene03.rpy:1415
+translate schinese Scene_Arthur_Yes_f2dedccc:
+
+    # "Arty leads you over to the bed, which he guides you to get on all fours on."
+    ""
+
+# game/main_scene03.rpy:1416
+translate schinese Scene_Arthur_Yes_96282ab6:
+
+    # ar "Oh, I know. I'm not about to let that stop me from having our fun."
+    ar ""
+
+# game/main_scene03.rpy:1417
+translate schinese Scene_Arthur_Yes_89b78ae5_1:
+
+    # "At this point, Arty's tip is already a bit inside your hole, teasing you to a point that it becomes torture."
+    ""
+
+# game/main_scene03.rpy:1418
+translate schinese Scene_Arthur_Yes_c458fa6e:
+
+    # ar "Now, let's hear it out of you. What do you want your master to do to you."
+    ar ""
+
+# game/main_scene03.rpy:1419
+translate schinese Scene_Arthur_Yes_fa57fe3f_1:
+
+    # "You hesitate briefly, trying to find the right words. You give up and speak without thinking when you feel Arty's cock pulse against your hole, oozing precum inside of you."
+    ""
+
+# game/main_scene03.rpy:1420
+translate schinese Scene_Arthur_Yes_ce76bb3d:
+
+    # e "I want you to fuck me until I'm full, master. Please, use and breed me as you please."
+    e ""
+
+# game/main_scene03.rpy:1421
+translate schinese Scene_Arthur_Yes_ee42a916:
+
+    # "Your master smiles widely at that, avarice and need plain on his face. He wants to rut you, mount you, breed you like the pup you are, properly marking you as his."
+    ""
+
+# game/main_scene03.rpy:1422
+translate schinese Scene_Arthur_Yes_eb270102_1:
+
+    # "He takes your leash and pulls on it, pulling your neck up and arching your back."
+    ""
+
+# game/main_scene03.rpy:1423
+translate schinese Scene_Arthur_Yes_ec8dbec9_1:
+
+    # ar "Good boy. Now, enjoy the ride."
+    ar ""
+
+# game/main_scene03.rpy:1424
+translate schinese Scene_Arthur_Yes_ed36df51:
+
+    # "Without anymore warning, Arty plunges into you, getting halfway down in one thrust before pulling back."
+    ""
+
+# game/main_scene03.rpy:1425
+translate schinese Scene_Arthur_Yes_1aff589b_1:
+
+    # "You let out a sound between a yelp of pain and a moan of pleasure, the pain and urge to please warring within you as your master relies on his generous pre to lube you up."
+    ""
+
+# game/main_scene03.rpy:1426
+translate schinese Scene_Arthur_Yes_80b2b6a4_1:
+
+    # "Before you fully catch your balance, Arty goes for it again, plunging an inch deeper."
+    ""
+
+# game/main_scene03.rpy:1427
+translate schinese Scene_Arthur_Yes_e5ab0349_1:
+
+    # "You can hear the german shepherd let out a pleased growl above you."
+    ""
+
+# game/main_scene03.rpy:1428
+translate schinese Scene_Arthur_Yes_2f1cec97_1:
+
+    # ar "Come on, boy, loosen up, don't make me force my way in."
+    ar ""
+
+# game/main_scene03.rpy:1429
+translate schinese Scene_Arthur_Yes_2394ac6a_1:
+
+    # "He punctuates this with another thrust, which yet again moves slightly deeper."
+    ""
+
+# game/main_scene03.rpy:1430
+translate schinese Scene_Arthur_Yes_0236adb1_1:
+
+    # "Adamant to do your best, you concentrate on relaxing. The next time Arty thrusts into you, he nearly gets all the way down to his knot."
+    ""
+
+# game/main_scene03.rpy:1431
+translate schinese Scene_Arthur_Yes_26ca6cb5_1:
+
+    # ar "That's what I'm talking about, pup. You need to get ready for when things actually start."
+    ar ""
+
+# game/main_scene03.rpy:1432
+translate schinese Scene_Arthur_Yes_fac1170e_1:
+
+    # "So saying, he tries one last thrust. It feels like he's splitting you in two, but your brain clouds into pleasure as he slams his cock into your prostate, finally getting down to the knot."
+    ""
+
+# game/main_scene03.rpy:1433
+translate schinese Scene_Arthur_Yes_d2c1bde3_1:
+
+    # ar "There we go. Now it's time to get serious."
+    ar ""
+
+# game/main_scene03.rpy:1434
+translate schinese Scene_Arthur_Yes_6dadb083_1:
+
+    # "Arty pulls out of you, leaving your hole gaping and dripping with pre. With one hand, he jacks himself off, and with the other, he pushes you further onto the bed."
+    ""
+
+# game/main_scene03.rpy:1435
+translate schinese Scene_Arthur_Yes_44d5c697_1:
+
+    # "The old dog has a position in mind for you, one where he can push as deep as possible into you with the full force of his body."
+    ""
+
+# game/main_scene03.rpy:1436
+translate schinese Scene_Arthur_Yes_aadc40ad_1:
+
+    # "He gets on the bed and puts his feet to either side of your ass, squatting down and putting his belly on your back. His cock is significantly above your entrance, which leaves you confused."
+    ""
+
+# game/main_scene03.rpy:1437
+translate schinese Scene_Arthur_Yes_a9117963_1:
+
+    # "Up until he leans forwards and pushes your head into the bed by your neck. Your arms collapse as your ass raises to compensate, leaving you with Arty's cock right above your hole, pointing down."
+    ""
+
+# game/main_scene03.rpy:1438
+translate schinese Scene_Arthur_Yes_a94e317a_1:
+
+    # "Your master hums lightly in satisfaction before licking his lips and poking your entrance."
+    ""
+
+# game/main_scene03.rpy:1439
+translate schinese Scene_Arthur_Yes_4566339d:
+
+    # ar "Now, let's get that litter in you, shall we?"
+    ar ""
+
+# game/main_scene03.rpy:1440
+translate schinese Scene_Arthur_Yes_b79c288b_1:
+
+    # "Your world goes white with a mix of pain and pleasure as Arty slams down into you, forcing himself all the way down to his knot, already getting a bit in from the force of it."
+    ""
+
+# game/main_scene03.rpy:1441
+translate schinese Scene_Arthur_Yes_20849b4f_1:
+
+    # "He doesn't stop. Within less than a second, he's pulled back, leaving only his head at the entrance, and slammed back into you at full force."
+    ""
+
+# game/main_scene03.rpy:1442
+translate schinese Scene_Arthur_Yes_bcdb4cf9_1:
+
+    # "There is nothing that will come between him and knotting you. He isn't quite speaking anymore, only letting out approving and hungry grunts and growls."
+    ""
+
+# game/main_scene03.rpy:1443
+translate schinese Scene_Arthur_Yes_5a6008c3:
+
+    # "It's to the point where you're pretty sure he's drooling at the thought of breeding you."
+    ""
+
+# game/main_scene03.rpy:1445
+translate schinese Scene_Arthur_Yes_4dfa88a5:
+
+    # "Being fair, in the state you're in, you're also drooling, both cock and mouth."
+    ""
+
+# game/main_scene03.rpy:1446
+translate schinese Scene_Arthur_Yes_4d569592:
+
+    # "The way Arty keeps slamming directly into your prostate tells you he knows where he's aiming, and that he fully plans to get you to cum handsfree."
+    ""
+
+# game/main_scene03.rpy:1447
+translate schinese Scene_Arthur_Yes_2619d5c8:
+
+    # "If this goes on much longer, he's probably going to get his wish. Every thrust gets his knot a little further in, fills you up that little more."
+    ""
+
+# game/main_scene03.rpy:1448
+translate schinese Scene_Arthur_Yes_d35af414:
+
+    # "It's relentless, the slap of his balls against yours resounding throughout the room, the way you get pushed further and further down into the bed as his hips and belly slam into your back."
+    ""
+
+# game/main_scene03.rpy:1449
+translate schinese Scene_Arthur_Yes_89b90427:
+
+    # "Every time he goes deep, your hole tightens briefly, giving the two of you a burst of pleasure before he pulls out."
+    ""
+
+# game/main_scene03.rpy:1450
+translate schinese Scene_Arthur_Yes_78b5348e:
+
+    # "Arty seems to be as close as you are, his cock twitching violently, drooling copious amounts of pre."
+    ""
+
+# game/main_scene03.rpy:1451
+translate schinese Scene_Arthur_Yes_b2f789d3:
+
+    # e "M-master, I'm close!"
+    e ""
+
+# game/main_scene03.rpy:1452
+translate schinese Scene_Arthur_Yes_2b604367:
+
+    # "The Shepherd Dog gives no response. For a second, you think he didn't hear you, until you feel a splitting pain as he pushes even harder than he was before."
+    ""
+
+# game/main_scene03.rpy:1453
+translate schinese Scene_Arthur_Yes_563428bf:
+
+    # "Already he's three fourths of the way to knotting you."
+    ""
+
+# game/main_scene03.rpy:1455
+translate schinese Scene_Arthur_Yes_63e40444:
+
+    # "If this is at all like last time, he plans to knot you at the same time as he cums."
+    ""
+
+# game/main_scene03.rpy:1461
+translate schinese Scene_Arthur_Yes_660fa6bb:
+
+    # "Again, your master pulls out, and slams back into you. It feels like he's only a hair's breadth from successfully knotting you, your prostate squeezed so tightly you feel like you're going to burst."
+    ""
+
+# game/main_scene03.rpy:1462
+translate schinese Scene_Arthur_Yes_79c4f367:
+
+    # "Arty pulls out one last time before letting out an animalistic growl."
+    ""
+
+# game/main_scene03.rpy:1463
+translate schinese Scene_Arthur_Yes_486e56a0:
+
+    # ar "Mine."
+    ar ""
+
+# game/main_scene03.rpy:1464
+translate schinese Scene_Arthur_Yes_11431870:
+
+    # "Before you can fully process that, Arty plunges all the way inside of you, shoving his knot deep into its new home."
+    ""
+
+# game/main_scene03.rpy:1465
+translate schinese Scene_Arthur_Yes_beb09975:
+
+    # "Already you feel his cock pulse, a sudden and intense feeling of fullness bringing you past the edge."
+    ""
+
+# game/main_scene03.rpy:1466
+translate schinese Scene_Arthur_Yes_660ee900:
+
+    # "You cum to the feeling of your master hilted deep inside of you, shooting cum as you feel his cock do the same."
+    ""
+
+# game/main_scene03.rpy:1467
+translate schinese Scene_Arthur_Yes_3f216898:
+
+    # "His first shot goes deep inside you, a copious quantity of cum spilling into your ass at full force."
+    ""
+
+# game/main_scene03.rpy:1468
+translate schinese Scene_Arthur_Yes_09239d1f:
+
+    # "As the second pulse shoots into you, you feel your master lean forwards and grab your neck between his teeth."
+    ""
+
+# game/main_scene03.rpy:1469
+translate schinese Scene_Arthur_Yes_563903dd:
+
+    # "He isn't biting you, but you can tell that he's telling you that you are here to stay. His to fill."
+    ""
+
+# game/main_scene03.rpy:1470
+translate schinese Scene_Arthur_Yes_32205f9d:
+
+    # "Not that you really had a choice. Arty's hips keep fucking you, but his knot keeps the motions short and fast, as the two of you are stuck together."
+    ""
+
+# game/main_scene03.rpy:1471
+translate schinese Scene_Arthur_Yes_dd2080e1:
+
+    # "As you swim in a sea of endorphins, blissful euphoria drowning your every thought, Arty continues to fill you up."
+    ""
+
+# game/main_scene03.rpy:1472
+translate schinese Scene_Arthur_Yes_68e2ad62:
+
+    # "After an unknown amount of time, Arty lets go of your neck. You stopped feeling if he was still cumming a while ago - you had reached a point of fullness where anything more was just another drop in the bucket."
+    ""
+
+# game/main_scene03.rpy:1473
+translate schinese Scene_Arthur_Yes_f44b411e:
+
+    # "Your master licks your neck where his teeth were."
+    ""
+
+# game/main_scene03.rpy:1474
+translate schinese Scene_Arthur_Yes_3c3d4baf:
+
+    # ar "You've been a very good boy, pup."
+    ar ""
+
+# game/main_scene03.rpy:1475
+translate schinese Scene_Arthur_Yes_3e502c3a:
+
+    # ar "I'm feeling a bit tuckered out after all that."
+    ar ""
+
+# game/main_scene03.rpy:1476
+translate schinese Scene_Arthur_Yes_0cc47a36:
+
+    # "As he mentions that, you feel your own muscles trembling under the strain of the fucking he's given you."
+    ""
+
+# game/main_scene03.rpy:1477
+translate schinese Scene_Arthur_Yes_de855460:
+
+    # e "I'm much the same, master."
+    e ""
+
+# game/main_scene03.rpy:1478
+translate schinese Scene_Arthur_Yes_ccd3ca4d:
+
+    # e "I'm glad to have served you well…"
+    e ""
+
+# game/main_scene03.rpy:1479
+translate schinese Scene_Arthur_Yes_73ed649b:
+
+    # e "It was incredible."
+    e ""
+
+# game/main_scene03.rpy:1480
+translate schinese Scene_Arthur_Yes_2bf58962:
+
+    # "Your master gives you another lick when he hears that, happy to have you here with him."
+    ""
+
+# game/main_scene03.rpy:1481
+translate schinese Scene_Arthur_Yes_a013068a:
+
+    # ar "Well, you've been a very good boy. As a reward, I'll let you sleep with me, and cook you some food when you wake up, alright?"
+    ar ""
+
+# game/main_scene03.rpy:1482
+translate schinese Scene_Arthur_Yes_dc4b4bf0:
+
+    # "You nod, too exhausted to think of anything other than sleep anyways."
+    ""
+
+# game/main_scene03.rpy:1483
+translate schinese Scene_Arthur_Yes_2a1c3a83:
+
+    # e "I'd love to, Master."
+    e ""
+
+# game/main_scene03.rpy:1484
+translate schinese Scene_Arthur_Yes_a0d7c80b:
+
+    # ar "Good."
+    ar ""
+
+# game/main_scene03.rpy:1485
+translate schinese Scene_Arthur_Yes_e76b78ca:
+
+    # "So saying, Arty picks you up, keeping you attached to his knot."
+    ""
+
+# game/main_scene03.rpy:1486
+translate schinese Scene_Arthur_Yes_aaf62d52:
+
+    # "As you dangle in the air above the bed, he shifts you both over onto your sides, laying side by side on the bed."
+    ""
+
+# game/main_scene03.rpy:1487
+translate schinese Scene_Arthur_Yes_c8bac38a:
+
+    # "Immediately, Arty begins to scratch your belly, and gently nibble your neck."
+    ""
+
+# game/main_scene03.rpy:1488
+translate schinese Scene_Arthur_Yes_3735db42:
+
+    # "In your sleepy haze, you barely register what's going on, only the feeling of warmth throughout your body."
+    ""
+
+# game/main_scene03.rpy:1489
+translate schinese Scene_Arthur_Yes_02e73ac6:
+
+    # e "What are you doing, master?"
+    e ""
+
+# game/main_scene03.rpy:1490
+translate schinese Scene_Arthur_Yes_ee1fcb03:
+
+    # "Arty doesn't stop piling love on your body as he answers, pausing whenever to give nibbles every now and then."
+    ""
+
+# game/main_scene03.rpy:1491
+translate schinese Scene_Arthur_Yes_7eccba68:
+
+    # ar "I'm- rewarding you- for being a good boy."
+    ar ""
+
+# game/main_scene03.rpy:1492
+translate schinese Scene_Arthur_Yes_97508f1a:
+
+    # e "Oh. Thank you, master."
+    e ""
+
+# game/main_scene03.rpy:1493
+translate schinese Scene_Arthur_Yes_f25b7344:
+
+    # "You have more to say, but you're already melting into the bed."
+    ""
+
+# game/main_scene03.rpy:1494
+translate schinese Scene_Arthur_Yes_35b5729b:
+
+    # e "Goodnight master."
+    e ""
+
+# game/main_scene03.rpy:1495
+translate schinese Scene_Arthur_Yes_437e08da:
+
+    # "Arty takes this as a good time to stop, and just hold you close."
+    ""
+
+# game/main_scene03.rpy:1496
+translate schinese Scene_Arthur_Yes_92245e1a:
+
+    # ar "Goodnight, pup."
+    ar ""
+
+# game/main_scene03.rpy:1497
+translate schinese Scene_Arthur_Yes_c323c9b4:
+
+    # "You drift to sleep in the arms of the old man, stuck to him by the hips."
+    ""
+
+# game/main_scene03.rpy:1498
+translate schinese Scene_Arthur_Yes_a20cefa7:
+
+    # "..."
+    ""
+
+translate schinese strings:
+
+    # game/main_scene03.rpy:1358
+    old "I'd prefer just to get fucked"
+    new ""
+
+    # game/main_scene03.rpy:1358
+    old "I want you to leave me with a litter like the good bitch I am"
+    new ""
 
