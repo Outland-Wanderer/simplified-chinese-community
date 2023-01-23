@@ -296,7 +296,7 @@ translate schinese goat_battle_790cd1c4:
 translate schinese goat_battle_8aed4d60:
 
     # "You are facing a goat huntsman, he is waving his spear in arrogance, gesturing you to come closer. You hold your [pc.weapon.name!t] in defence."
-    "山羊猎人气焰嚣张，挥舞着长矛试问你敢不敢靠近。你手握 [pc.weapon.name!t] 架好了战斗姿态。"
+    "山羊猎人气焰嚣张，挥舞着长矛试问你敢不敢靠近。你手握[pc.weapon.name!t]架好了战斗姿态。"
 
 translate schinese goat_battle_loop_6bb5675b:
 
@@ -745,190 +745,190 @@ translate schinese goat_lose_e0fc99da:
 
 #熊地精
 
-# translate schinese buggbear_battle_393e2992:
+translate schinese buggbear_battle_393e2992:
 
-#     # "You are facing a wild buggbear. He looks at you with rage-filled eyes, a clear desire to smash your head in with his mace painted on his face."
-#     ""
+    # "You are facing a wild buggbear. He looks at you with rage-filled eyes, a clear desire to smash your head in with his mace painted on his face."
+    "你与这头巨兽相视，他的眼神充满愤怒，决心要用狼牙棒砸碎你的脑袋。"
 
-# translate schinese buggbear_battle_loop_5160e59e:
+translate schinese buggbear_battle_loop_5160e59e:
 
-#     # "You slash your [pc.weapon.name!t] at the buggbear's arm. It slides right off his fluffy arm. You can only look on in disbelief."
-#     ""
+    # "You slash your [pc.weapon.name!t] at the buggbear's arm. It slides right off his fluffy arm. You can only look on in disbelief."
+    "你挥动[pc.weapon.name!t]划向熊地精的手臂。难以置信，[pc.weapon.name!t]仅仅滑擦过他毛茸茸的手臂，没有留下一点痕迹。"
 
-# translate schinese buggbear_battle_loop_d7e32750:
+translate schinese buggbear_battle_loop_d7e32750:
 
-#     # "You slam your [pc.weapon.name!t] into the buggbear's arm. It bounces right off. You can only look back in disbelief."
-#     ""
+    # "You slam your [pc.weapon.name!t] into the buggbear's arm. It bounces right off. You can only look back in disbelief."
+    "你挥动[pc.weapon.name!t]砍向熊地精的手臂。难以置信，[pc.weapon.name!t]竟然被弹开了。"
 
-# translate schinese buggbear_battle_loop_9726da87:
+translate schinese buggbear_battle_loop_9726da87:
 
-#     # "You aim and shoot your [pc.weapon.name!t] at the buggbear's arms. It pierces right through his soft fur but fails to make a dent in his skin, leaving you frozen in disbelief."
-#     ""
+    # "You aim and shoot your [pc.weapon.name!t] at the buggbear's arms. It pierces right through his soft fur but fails to make a dent in his skin, leaving you frozen in disbelief."
+    "你架设[pc.weapon.name!t]飞箭射向熊地精的手臂，但箭矢没能在他皮毛留下一点凹痕，你难以置信地僵住了。"
 
-# translate schinese buggbear_battle_loop_53d8fb6d:
+translate schinese buggbear_battle_loop_53d8fb6d:
 
-#     # "You raise your fist and throw it at the buggbear, but miss and hit nothing, leaving you standing there like a fool instead."
-#     ""
+    # "You raise your fist and throw it at the buggbear, but miss and hit nothing, leaving you standing there like a fool instead."
+    "你握紧拳头冲向熊地精，但却什么也没打中。你保持出拳的姿势僵在原地就像个傻瓜。"
 
-# translate schinese buggbear_battle_loop_5dfa5b46:
+translate schinese buggbear_battle_loop_5dfa5b46:
 
-#     # "The buggbear growls loudly, hitting his chest while taunting at your feeble attempt at attacking him."
-#     ""
+    # "The buggbear growls loudly, hitting his chest while taunting at your feeble attempt at attacking him."
+    "熊地精大声咆哮，捶打着胸口，嘲笑你不自量力。"
 
-# translate schinese buggbear_battle_loop_e21937cd:
+translate schinese buggbear_battle_loop_e21937cd:
 
-#     # "You slash your [pc.weapon.name!t] at the buggbear, grazing its stomach and drawing blood."
-#     ""
+    # "You slash your [pc.weapon.name!t] at the buggbear, grazing its stomach and drawing blood."
+    "你挥动[pc.weapon.name!t]划过熊地精的肚皮，割出一道血迹。"
 
-# translate schinese buggbear_battle_loop_ff85ef81:
+translate schinese buggbear_battle_loop_ff85ef81:
 
-#     # "You slash your [pc.weapon.name!t] at the buggbear, knocking him to the ground. He growls at you before getting up, somehow angrier than albeit disheveled. "
-#     ""
+    # "You slash your [pc.weapon.name!t] at the buggbear, knocking him to the ground. He growls at you before getting up, somehow angrier than albeit disheveled. "
+    "你挥动[pc.weapon.name!t]将熊地精砍倒在地。蓬头垢面的熊地精朝你发出咆哮，从地上爬了起来，恼羞成怒。"
 
-# translate schinese buggbear_battle_loop_4985ccdf:
+translate schinese buggbear_battle_loop_4985ccdf:
 
-#     # "You slam your [pc.weapon.name!t] into the buggbear, cutting a bright red gash into his orange hide. The fur around the weeping wound grows matted with blood."
-#     ""
+    # "You slam your [pc.weapon.name!t] into the buggbear, cutting a bright red gash into his orange hide. The fur around the weeping wound grows matted with blood."
+    "你挥动[pc.weapon.name!t]劈向熊地精，后者被劈开一道口子，鲜血涌出染红了周围橙黄的皮毛。"
 
-# translate schinese buggbear_battle_loop_7ed551d3:
+translate schinese buggbear_battle_loop_7ed551d3:
 
-#     # "You slam your [pc.weapon.name!t] into the buggbear's face, tipping him off balance with a loud thump and roar."
-#     ""
+    # "You slam your [pc.weapon.name!t] into the buggbear's face, tipping him off balance with a loud thump and roar."
+    "你抡动[pc.weapon.name!t]砸向熊地精的脸，使他失去平衡猛然跌倒，发出摔落的巨响与痛苦的吼叫。"
 
-# translate schinese buggbear_battle_loop_e459d093:
+translate schinese buggbear_battle_loop_e459d093:
 
-#     # "You aim and shoot your [pc.weapon.name!t] at the buggbear. The arrow hits him right in the shoulder. He screams in agony."
-#     ""
+    # "You aim and shoot your [pc.weapon.name!t] at the buggbear. The arrow hits him right in the shoulder. He screams in agony."
+    "你架设[pc.weapon.name!t]飞箭射向熊地精。这一箭正中他的肩膀，使他痛苦地大叫。"
 
-# translate schinese buggbear_battle_loop_13dcf780:
+translate schinese buggbear_battle_loop_13dcf780:
 
-#     # "You run while shooting your [pc.weapon.name!t] at the buggbear, knocking him to the ground. He growls at you before getting up, albeit disheveled."
-#     ""
+    # "You run while shooting your [pc.weapon.name!t] at the buggbear, knocking him to the ground. He growls at you before getting up, albeit disheveled."
+    "你一边变换方位，一边架设[pc.weapon.name!t]飞箭射向敌人，这一箭将他击倒在地。熊地精朝你发出咆哮，从地上爬了起来，蓬头垢面的。"
 
-# translate schinese buggbear_battle_loop_01e116e5:
+translate schinese buggbear_battle_loop_01e116e5:
 
-#     # "You throw your fist at the buggbear, hitting him across his face, the sheer impact of which knocks him to the ground."
-#     ""
+    # "You throw your fist at the buggbear, hitting him across his face, the sheer impact of which knocks him to the ground."
+    "你一拳挥向熊地精，正中脸部。巨大的冲击力使得他应声倒地。"
 
-# translate schinese buggbear_battle_loop_ac5bad6e:
+translate schinese buggbear_battle_loop_ac5bad6e:
 
-#     # "You punch into the buggbear's stomach making him double over in pain. You use this opportunity to knee him in the face. It feels like hitting a stone wall, but the buggbear slams into the ground hard."
-#     ""
+    # "You punch into the buggbear's stomach making him double over in pain. You use this opportunity to knee him in the face. It feels like hitting a stone wall, but the buggbear slams into the ground hard."
+    "你勾拳猛击熊地精的腹部。他痛苦地捂着肚子，而你乘胜追击，出膝撞向他的脸。这感觉像撞上了一堵墙壁，但成功让熊地精狠狠地摔倒在地。"
 
-# translate schinese buggbear_battle_loop_24bcc736:
+translate schinese buggbear_battle_loop_24bcc736:
 
-#     # "His health decreases by [oa[4]] HP."
-#     "他失去了 [oa[4]] 点体力。"
+    # "His health decreases by [oa[4]] HP."
+    "他失去了 [oa[4]] 点体力。"
 
-# translate schinese buggbear_battle_loop_f57459ff:
+translate schinese buggbear_battle_loop_f57459ff:
 
-#     # "It seems you've hit the buggbear critically, dealing [oa[4]] HP!"
-#     ""
+    # "It seems you've hit the buggbear critically, dealing [oa[4]] HP!"
+    "暴击！他失去了 [oa[4]] 点体力！"
 
-# translate schinese buggbear_battle_loop_6e460286:
+translate schinese buggbear_battle_loop_6e460286:
 
-#     # "The buggbear grunts in anger, he definitely doesn't appreciate getting battered by a random visitor."
-#     ""
+    # "The buggbear grunts in anger, he definitely doesn't appreciate getting battered by a random visitor."
+    "熊地精愤怒地咆哮着，绝不容许自己被一个陌生人如此痛打。"
 
-# translate schinese buggbear_battle_loop_b5fde2de:
+translate schinese buggbear_battle_loop_b5fde2de:
 
-#     # "You can barely hear the groaning sound of the buggbear. He is in absolute distress, and ready to slaughter his attacker without mercy."
-#     ""
+    # "You can barely hear the groaning sound of the buggbear. He is in absolute distress, and ready to slaughter his attacker without mercy."
+    "熊地精发出微弱的呻吟声，他已遍体鳞伤，对侵犯者的杀意暴涨到了极点。"
 
-# translate schinese buggbear_battle_loop_dcd7ef85:
+translate schinese buggbear_battle_loop_dcd7ef85:
 
-#     # "You turn around and rub your hand all over your burly cheeks, feeling up and brushing against your ass while you shake your hips."
-#     ""
+    # "You turn around and rub your hand all over your burly cheeks, feeling up and brushing against your ass while you shake your hips."
+    "你慢腾腾背向熊地精，双手盖上饱满的臀部，把玩着、抚摸着，不时左右摇摆。"
 
-# translate schinese buggbear_battle_loop_82f88172:
+translate schinese buggbear_battle_loop_82f88172:
 
-#     # "You gently brush by your member, running a claw from your inner thigh to the back of your balls. You tug at them lightly while staring at the buggbear seductively."
-#     ""
+    # "You gently brush by your member, running a claw from your inner thigh to the back of your balls. You tug at them lightly while staring at the buggbear seductively."
+    "你深情地盯着熊地精，伸爪轻轻爱抚自己的下体，慢慢从大腿根滑向阴囊，紧紧箍着诱人的鼓包。"
 
-# translate schinese buggbear_battle_loop_74f4b0b7:
+translate schinese buggbear_battle_loop_74f4b0b7:
 
-#     # "You cup your fluffy chest, drawing circles around the area of your nipples. You smile at the buggbear while bouncing your chest up and down slightly."
-#     ""
+    # "You cup your fluffy chest, drawing circles around the area of your nipples. You smile at the buggbear while bouncing your chest up and down slightly."
+    "你双手捧持鼓起的胸肌，手指在乳头周围画着圆圈。一边对着熊地精微笑，一边轻轻掂量自己的厚物。"
 
-# translate schinese buggbear_battle_loop_ed2ce51a:
+translate schinese buggbear_battle_loop_ed2ce51a:
 
-#     # "You continue your act for about a minute, but the buggbear just stares at you in confusion."
-#     ""
+    # "You continue your act for about a minute, but the buggbear just stares at you in confusion."
+    "你自导自演了快一分钟，但对方只是看着你，神情困惑。"
 
-# translate schinese buggbear_battle_loop_0f90d427:
+translate schinese buggbear_battle_loop_0f90d427:
 
-#     # "Within a few seconds you can already see some movements from under the buggbear's loincloth. The sturdy beast man licks his lips, grumbling at your beautiful sight. His lust is increased by [player_flirt]."
-#     ""
+    # "Within a few seconds you can already see some movements from under the buggbear's loincloth. The sturdy beast man licks his lips, grumbling at your beautiful sight. His lust is increased by [player_flirt]."
+    "效果立竿见影，熊地精的遮裆布已然有些抽动。结实的巨兽舔舔嘴唇，对着你的哼哼自语。他的性欲增加了 [player_flirt] 点。"
 
-# translate schinese buggbear_battle_loop_e7025682:
+translate schinese buggbear_battle_loop_e7025682:
 
-#     # "You notice the buggbear is staring at your crotch. You give him a subtle wink. He already looks like he can't breath from his arousal. His lust is increased by [player_flirt]."
-#     ""
+    # "You notice the buggbear is staring at your crotch. You give him a subtle wink. He already looks like he can't breath from his arousal. His lust is increased by [player_flirt]."
+    "你注意到熊地精紧盯着你的胯下，你对他抛了个媚眼。他已经快兴奋到难以呼吸，性欲随之增加了 [player_flirt] 点。"
 
-# translate schinese buggbear_battle_loop_d427826b:
+translate schinese buggbear_battle_loop_d427826b:
 
-#     # "The buggbear is squirming in reaction to your advance. You can already hear his rapid breathing and grunting, holding his mace tightly. His lust is increased by [player_flirt]."
-#     ""
+    # "The buggbear is squirming in reaction to your advance. You can already hear his rapid breathing and grunting, holding his mace tightly. His lust is increased by [player_flirt]."
+    "熊地精不安地扭动着身体，将狼牙棒握得更紧了。你听见他呼吸变得急促，还带着些许呻吟。对方的性欲增加了 [player_flirt] 点。"
 
-# translate schinese buggbear_battle_loop_003220db:
+translate schinese buggbear_battle_loop_003220db:
 
-#     # "You can tell the buggbear is already playing with himself when his hand goes under his loincloth, staring at your ass intently. His lust is increased by [player_flirt]."
-#     ""
+    # "You can tell the buggbear is already playing with himself when his hand goes under his loincloth, staring at your ass intently. His lust is increased by [player_flirt]."
+    "熊地精紧盯着你肥美的臀部，将伸手套弄自己裤裆内的勃起。他的性欲增加了 [player_flirt] 点。"
 
-# translate schinese buggbear_battle_loop_33260ed5:
+translate schinese buggbear_battle_loop_33260ed5:
 
-#     # "You slowly back down from the buggbear's attack, you turn around and run as fast as you can."
-#     ""
+    # "You slowly back down from the buggbear's attack, you turn around and run as fast as you can."
+    "你慢慢退出熊地精的攻击范围，转身就跑。但这头巨兽轻而易举追上了你，将你一把抓起摔向黄土。逃跑失败！"
 
-# translate schinese buggbear_battle_loop_b5748ee7:
+translate schinese buggbear_battle_loop_b5748ee7:
 
-#     # "But the beast easily catches up to you and throws your entire body on the ground. Your escape seems to have failed!"
-#     ""
+    # "But the beast easily catches up to you and throws your entire body on the ground. Your escape seems to have failed!"
+    pass
 
-# translate schinese buggbear_battle_loop_48c7dd41:
+translate schinese buggbear_battle_loop_48c7dd41:
 
-#     # "You slowly back down from the buggbear's attack, you turn around and run as fast as you can. The beast tries to outrun you but he trips and falls on the ground, You successfully escaped from the huntsman!"
-#     ""
+    # "You slowly back down from the buggbear's attack, you turn around and run as fast as you can. The beast tries to outrun you but he trips and falls on the ground, You successfully escaped from the huntsman!"
+    "你慢慢退出熊地精的攻击范围，转身就跑。他想要追上你，却半途被绊倒摔在了地上。逃跑成功！"
 
 # translate schinese buggbear_battle_loop_4716fc18:
 
 #     # "You cann't use the Sedative yet, the buggbear is too responsive... Perhaps you need to make him weaker, or hornier..."
 #     ""
 
-# translate schinese buggbear_battle_loop_2f57f6fe:
+translate schinese buggbear_battle_loop_2f57f6fe:
 
-#     # "You fall to your knees, exhausted of all your energy. You grasp for breath as you lie on the ground, thinking surrendering yourself to the buggbear might be the best choice."
-#     ""
+    # "You fall to your knees, exhausted of all your energy. You grasp for breath as you lie on the ground, thinking surrendering yourself to the buggbear might be the best choice."
+    "你耗尽了所有气力，双膝一软跪倒在地。你躺在地上大口喘息，把希望寄于将自己完全暴露给熊地精。"
 
-# translate schinese buggbear_battle_loop_4b584ee6:
+translate schinese buggbear_battle_loop_4b584ee6:
 
-#     # "The beast man jeers at your submission, he walks around you, poking you to see if you'd still react. You slowly close your eyes and wait for him to decide your fate."
-#     ""
+    # "The beast man jeers at your submission, he walks around you, poking you to see if you'd still react. You slowly close your eyes and wait for him to decide your fate."
+    "他边嘲笑你屈服的模样边向你走来，戳了戳你，看你是否还有反应。你慢慢闭上眼睛，等待一头野兽决定你的命运。"
 
-# translate schinese buggbear_battle_loop_2ba8a64c:
+translate schinese buggbear_battle_loop_2ba8a64c:
 
-#     # "The buggbear swings his giant mace towards you. You are not quick enough to dodge his blow. Your health decreases by [enemy_damage] HP."
-#     ""
+    # "The buggbear swings his giant mace towards you. You are not quick enough to dodge his blow. Your health decreases by [enemy_damage] HP."
+    "熊地精挥舞着狼牙棒向你捶来，你来不及躲闪，失去了 [enemy_damage] 点体力。"
 
-# translate schinese buggbear_battle_loop_a1c9d058:
+translate schinese buggbear_battle_loop_a1c9d058:
 
-#     # "The buggbear charges at you, knocking away your guard with his off-hand before hitting you with a kick to the chest. Your health decreases by [enemy_damage] HP."
-#     ""
+    # "The buggbear charges at you, knocking away your guard with his off-hand before hitting you with a kick to the chest. Your health decreases by [enemy_damage] HP."
+    "熊地精向你冲了过来，一举拍散你的防卫，再一脚踹中你的胸口。你因此损失了 [enemy_damage] 点体力。"
 
-# translate schinese buggbear_battle_loop_6c9ae8fe:
+translate schinese buggbear_battle_loop_6c9ae8fe:
 
-#     # "The buggbear swings his mace towards you. You barely manage to deflect his heavy mace and dodge the attack."
-#     ""
+    # "The buggbear swings his mace towards you. You barely manage to deflect his heavy mace and dodge the attack."
+    "熊地精挥舞着狼牙棒向你捶来，你勉强挡住他沉重的武器，成功避开了攻击。"
 
-# translate schinese buggbear_battle_loop_bd492e8b:
+translate schinese buggbear_battle_loop_bd492e8b:
 
-#     # "The buggbear charges at you, trying to kick your chest, but you block the blow and push him back."
-#     ""
+    # "The buggbear charges at you, trying to kick your chest, but you block the blow and push him back."
+    "熊地精向你冲了过来试图踹倒你，但你成功将他的脚挡在胸前，发力推了回去。"
 
-# translate schinese buggbear_battle_loop_d7196aa4:
+translate schinese buggbear_battle_loop_d7196aa4:
 
-#     # "The buggbear raises his left fist and chants the tune of his tribe's warsong. It increases his attack damage by 10 for the rest of the fight."
-#     ""
+    # "The buggbear raises his left fist and chants the tune of his tribe's warsong. It increases his attack damage by 10 for the rest of the fight."
+    "熊地精举起左拳，吟唱着他部族的战歌。接下来的战斗中，他的攻击伤害均会增加 10 点。"
 
 # translate schinese buggbear_sedated_84d8db4c:
 
@@ -1015,50 +1015,50 @@ translate schinese goat_lose_e0fc99da:
 #     # "You have collected a bottle of buggbear saliva, you now own [item_number] bottle."
 #     ""
 
-# translate schinese buggbear_win2_67d3a7db:
+translate schinese buggbear_win2_67d3a7db:
 
-#     # "As you search around the buggbear, you find a Raw Meat, a Strap and [exp_drop] EXP!"
-#     ""
+    # "As you search around the buggbear, you find a Raw Meat, a Strap and [exp_drop] EXP!"
+    "你搜遍熊地精全身，收获了 1 块生肉、1 条皮带和 [exp_drop] 点经验值！"
 
-# translate schinese buggbear_win2_5da6f9be:
+translate schinese buggbear_win2_5da6f9be:
 
-#     # "As you search around the buggbear, you find a Raw Meat and [exp_drop] EXP!"
-#     ""
+    # "As you search around the buggbear, you find a Raw Meat and [exp_drop] EXP!"
+    "你搜遍熊地精全身，收获了 1 块生肉和 [exp_drop] 点经验值！"
 
-# translate schinese buggbear_win2_b3fe08c7:
+translate schinese buggbear_win2_b3fe08c7:
 
-#     # "You also find [found_gold] gold in the buggbear's leather pouch. You pick the coins up swiftly."
-#     ""
+    # "You also find [found_gold] gold in the buggbear's leather pouch. You pick the coins up swiftly."
+    "你还在他的皮包里发现了 [found_gold] 金币。你将这些金币迅速收入了自己的钱包里。"
 
-# translate schinese buggbear_win2_0f838d4b:
+translate schinese buggbear_win2_0f838d4b:
 
-#     # "You leave the buggbear alone in the forest, he will probably wake up in a few hours."
-#     ""
+    # "You leave the buggbear alone in the forest, he will probably wake up in a few hours."
+    "熊地精可能会在几小时后醒来，你心满意足离开了这里。"
 
 translate schinese buggbear_win2_91f1d522:
 
     # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
     msg "你的等级已升至 [pc.level] 级！请进入背包界面分配新增属性点。"
 
-# translate schinese buggbear_lose_47f40fa7:
+translate schinese buggbear_lose_47f40fa7:
 
-#     # "You struggle against the buggbear, but your mind succumbs to your unquenchable lust for the buggbear. He pounces on your helpless body like you are a feast to be served."
-#     ""
+    # "You struggle against the buggbear, but your mind succumbs to your unquenchable lust for the buggbear. He pounces on your helpless body like you are a feast to be served."
+    "你想要继续抵抗，但你已经一点力气也没有了。他扑向你瘫痪的身体，就像扑向一只待宰的羊羔。"
 
-# translate schinese buggbear_lose_f63e460b:
+translate schinese buggbear_lose_f63e460b:
 
-#     # "You struggle against the buggbear, your mind is filled with unquenchable lust over the buggbear. He pounces on your helpless body like you are a feast to be served."
-#     ""
+    # "You struggle against the buggbear, your mind is filled with unquenchable lust over the buggbear. He pounces on your helpless body like you are a feast to be served."
+    "你想要继续抵抗，但你抑制不住对野兽的渴望。他扑向你瘫痪的身体，就像扑向一只待宰的羊羔。"
 
-# translate schinese buggbear_lose_a20cefa7:
+translate schinese buggbear_lose_a20cefa7:
 
-#     # "..."
-#     ""
+    # "..."
+    "……"
 
-# translate schinese buggbear_lose_a0930d76:
+translate schinese buggbear_lose_a0930d76:
 
-#     # "You lost [lost_gold] Gold."
-#     ""
+    # "You lost [lost_gold] Gold."
+    "你失去了 [lost_gold] 金币。"
 
 #苔藓石魔像
 
