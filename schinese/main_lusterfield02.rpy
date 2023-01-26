@@ -13469,85 +13469,93 @@ translate schinese Lothar_Night_Greet_119f8b57:
 
 ##当过服务员
 
-# translate schinese Lothar_Night_Greet_05643719:
+translate schinese Lothar_Night_Greet_05643719:
 
-#     # c "Aye, Lot. I reckon this lad worked in our tavern before, he probably should be serving ya ass instead."
-#     c ""
+    # c "Aye, Lot. I reckon this lad worked in our tavern before, he probably should be serving ya ass instead."
+    c "喂，洛大侠。[e]做过我这的服务生，不如让他招待招待你。"
 
-# translate schinese Lothar_Night_Greet_13e59131:
+translate schinese Lothar_Night_Greet_13e59131:
 
-#     # l "Hmm... A server? And I thought you were an adventurer like me. How disappointing." nointeract
-#     l "" nointeract
+    # l "Hmm... A server? And I thought you were an adventurer like me. How disappointing." nointeract
+    l "哼……服务生？我还以为你和我一样是个冒险家。失望，太失望了。" nointeract
 
-# translate schinese Lothar_Night_Greet_be2f8761:
+translate schinese strings:
 
-#     # e "Hey... I was just working for Cane because I don't have any money on me. I really don't like doing it."
-#     e ""
+    old "I was forced to do it"
+    new "表示不乐意当服务员"
 
-# translate schinese Lothar_Night_Greet_a3a7ff58:
+    old "I enjoyed the job"
+    new "表示乐意当服务员"
 
-#     # l "The Cane I know aren't that guy to force someone to work for money, ya seriously trying to fool me or what."
-#     l ""
+translate schinese Lothar_Night_Greet_be2f8761:
 
-# translate schinese Lothar_Night_Greet_c34abcd0:
+    # e "Hey... I was just working for Cane because I don't have any money on me. I really don't like doing it."
+    e "……我只是那时没钱了才给凯恩打工挣钱，我一点也不喜欢这种工作。"
 
-#     # c "Lot, Ya really should come here on daytime, this thirsty lad is seriously trying to seduce all his customers or something."
-#     c ""
+translate schinese Lothar_Night_Greet_a3a7ff58:
 
-# translate schinese Lothar_Night_Greet_b8d32fe9:
+    # l "The Cane I know aren't that guy to force someone to work for money, ya seriously trying to fool me or what."
+    l "我认识的凯恩绝对不会强迫别人打工挣钱，你存心糊弄我还是怎么的。"
 
-#     # e "No... I didn't."
-#     e ""
+translate schinese Lothar_Night_Greet_c34abcd0:
 
-# translate schinese Lothar_Night_Greet_633b90d9:
+    # c "Lot, Ya really should come here on daytime, this thirsty lad is seriously trying to seduce all his customers or something."
+    c "洛大侠，你真得白天来咱夜夜椿，这个小淫娃勾引顾客可认真了，在座的每一位都不落下。"
 
-#     # l "Well, I'll take Cane's word for it. Let me know when you come to work again, I'll totally let you serve me."
-#     l ""
+translate schinese Lothar_Night_Greet_b8d32fe9:
 
-# translate schinese Lothar_Night_Greet_2b68d44f:
+    # e "No... I didn't."
+    e "不……我没有。"
 
-#     # e "Look, I can go for some side hustle, can't I. Besides, serving people is really fun."
-#     e ""
+translate schinese Lothar_Night_Greet_633b90d9:
 
-# translate schinese Lothar_Night_Greet_3e0eab8a:
+    # l "Well, I'll take Cane's word for it. Let me know when you come to work again, I'll totally let you serve me."
+    l "啧啧，我信老板。下次你打工前记得提前告诉我一声，我非得你服侍不可。"
 
-#     # l "I see, I see. You definitely need to hone your serving skill though, because I don't see you serving me here."
-#     l ""
+translate schinese Lothar_Night_Greet_2b68d44f:
 
-# translate schinese Lothar_Night_Greet_6ccc494e:
+    # e "Look, I can go for some side hustle, can't I. Besides, serving people is really fun."
+    e "又没人规定我不能干兼职。而且招待大家还挺有趣的。"
 
-#     # c "Hah, the apron fit yer ass at least, come here more often, we all need yer sweet ass."
-#     c ""
+translate schinese Lothar_Night_Greet_3e0eab8a:
 
-# translate schinese Lothar_Night_Greet_8fcbc8d4:
+    # l "I see, I see. You definitely need to hone your serving skill though, because I don't see you serving me here."
+    l "原来如此。不过你还得多练练怎么当个服务员，你看你都不懂得主动服侍我。"
 
-#     # l "Hey, Cane. You forgot about the beer thing?"
-#     l ""
+translate schinese Lothar_Night_Greet_6ccc494e:
 
-# translate schinese Lothar_Night_Greet_471f70f3:
+    # c "Hah, the apron fit yer ass at least, come here more often, we all need yer sweet ass."
+    c "哈哈哈，起码围裙合他的屁股。常来打工啊[e]，大家已经离不开你的翘臀哩。"
 
-#     # c "Ye, ye. Shut up Lot. I'm brewing the finest stuff here."
-#     c ""
+translate schinese Lothar_Night_Greet_8fcbc8d4:
 
-# translate schinese Lothar_Night_Greet_9054a985:
+    # l "Hey, Cane. You forgot about the beer thing?"
+    l "喂，凯恩。怎么还没上酒？"
 
-#     # c "Here it is, one for our hero, and one for our lowly server."
-#     c ""
+translate schinese Lothar_Night_Greet_471f70f3:
 
-# translate schinese Lothar_Night_Greet_1a8e1587:
+    # c "Ye, ye. Shut up Lot. I'm brewing the finest stuff here."
+    c "别急别急，慢工出佳酿。"
 
-#     # e "Hey... Why am I lowly."
-#     e ""
+translate schinese Lothar_Night_Greet_9054a985:
 
-# translate schinese Lothar_Night_Greet_a0c0d6ce:
+    # c "Here it is, one for our hero, and one for our lowly server."
+    c "来了。一杯给咱们尊贵的大英雄，一杯给咱们卑微的店小二。"
 
-#     # c "Cause yer not the hero."
-#     c ""
+translate schinese Lothar_Night_Greet_1a8e1587:
 
-# translate schinese Lothar_Night_Greet_faa7d97b:
+    # e "Hey... Why am I lowly."
+    e "嘿……为什么我是卑微的。"
 
-#     # e "Hmm..."
-#     e ""
+translate schinese Lothar_Night_Greet_a0c0d6ce:
+
+    # c "Cause yer not the hero."
+    c "因为你小子不是英雄嘞。"
+
+translate schinese Lothar_Night_Greet_faa7d97b:
+
+    # e "Hmm..."
+    e "呃……"
 
 ##没当过服务员
 
