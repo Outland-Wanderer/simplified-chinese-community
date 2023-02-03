@@ -3633,8 +3633,8 @@ translate schinese strings:
     # old "Report for Potions"
     # new "报告药剂的运送情况"
 
-    # old "Ask about ingredient for Cane's Apron"
-    # new "询问有无缝补围裙需要用到的材料"
+    old "Ask about ingredient for Cane's Apron"
+    new "询问有无缝补围裙需要用到的材料"
 
     # old "Report about Amble and Jog's Training"
     # new "报告向安布和乔格请教的学习情况"
@@ -5192,275 +5192,286 @@ translate schinese Ole_Ask_Goat_Tribe_e3b1e728:
     # o "Yeah, anything for my little outsider."
     o "小事，为了我的小客人，乐意之至。"
 
-# translate schinese Ole_Apron_Quest_a7701920:
+translate schinese Ole_Apron_Quest_a7701920:
 
-#     # e "Ole, I need to ask you for a specific ingredients."
-#     e ""
+    # e "Ole, I need to ask you for a specific ingredients."
+    e "奥利，你有没有那种绿色的染料？"
 
-# translate schinese Ole_Apron_Quest_accf83e0:
+translate schinese Ole_Apron_Quest_accf83e0:
 
-#     # o "Hmm...? What do you need?"
-#     o ""
+    # o "Hmm...? What do you need?"
+    o "嗯……？你要用来做什么？"
 
-# translate schinese Ole_Apron_Quest_abddad47:
+translate schinese Ole_Apron_Quest_abddad47:
 
-#     # e "A Green Dye. For Cane's Apron."
-#     e ""
+    # e "A Green Dye. For Cane's Apron."
+    e "我想修补凯恩的围裙。"
 
-# translate schinese Ole_Apron_Quest_ec90d0b4:
+translate schinese Ole_Apron_Quest_ec90d0b4:
 
-#     # o "His apron... did Rahim tell you the recipe?"
-#     o ""
+    # o "His apron... did Rahim tell you the recipe?"
+    o "围裙……雷叔有告诉你怎么补吗？"
 
-# translate schinese Ole_Apron_Quest_63d1afe6:
+translate schinese Ole_Apron_Quest_63d1afe6:
 
-#     # e "Yeah, he's helping with fixing the apron, I just need something that matches the colour of the fabric."
-#     e ""
+    # e "Yeah, he's helping with fixing the apron, I just need something that matches the colour of the fabric."
+    e "有的，而且他也会帮忙，我现在需要做出和围裙一样颜色的布料。"
 
-# translate schinese Ole_Apron_Quest_aaa75e4e:
+translate schinese Ole_Apron_Quest_aaa75e4e:
 
-#     # o "That's weird, I didn't recall Rahim ever forgiving the tavern owner..."
-#     o ""
+    # o "That's weird, I didn't recall Rahim ever forgiving the tavern owner..."
+    o "奇怪，我记得雷叔一直都没原谅酒馆老板……"
 
-# translate schinese Ole_Apron_Quest_46e8b7c7:
+translate schinese Ole_Apron_Quest_46e8b7c7:
 
-#     # o "You know what, I need to ask him about this. [e]. This is a weird occasion for him."
-#     o ""
+    # o "You know what, I need to ask him about this. [e]. This is a weird occasion for him."
+    o "[e]，我得亲自去问问雷叔什么情况。这有点不像他会做的事。"
 
-# translate schinese Ole_Apron_Quest_b4c9cc11:
+translate schinese Ole_Apron_Quest_b4c9cc11:
 
-#     # e "He just told me-"
-#     e ""
+    # e "He just told me-"
+    e "是他自己说——"
 
-# translate schinese Ole_Apron_Quest_832c0dec:
+translate schinese Ole_Apron_Quest_832c0dec:
 
-#     # o "Come on, let's go kiddo. Just go for a walk to the shop with me."
-#     o ""
+    # o "Come on, let's go kiddo. Just go for a walk to the shop with me."
+    o "来吧，小兄弟。和我去一趟雷叔那。"
 
-# translate schinese Ole_Apron_Quest_b52c58ff:
+translate schinese Ole_Apron_Quest_b52c58ff:
 
-#     # o "Hey, Rahim. I've got the courier with me."
-#     o ""
+    # o "Hey, Rahim. I've got the courier with me."
+    if isNight():
+        o "晚上好雷叔，我和[e]一块来了。"
+    elif True:
+        o "日安，雷叔，我和[e]一块来了。"
 
-# translate schinese Ole_Apron_Quest_ec01477c:
+translate schinese Ole_Apron_Quest_ec01477c:
 
-#     # r "Hmm...? What's the matter?"
-#     r ""
+    # r "Hmm...? What's the matter?"
+    r "嗯……？有什么事？"
 
-# translate schinese Ole_Apron_Quest_45228c3c:
+translate schinese Ole_Apron_Quest_45228c3c:
 
-#     # e "Hi Rahim, I just told Ole about the apron..."
-#     e ""
+    # e "Hi Rahim, I just told Ole about the apron..."
+    e "嗨雷叔，就是我跟奥利说我要修补围……"
 
-# translate schinese Ole_Apron_Quest_aab08703:
+translate schinese Ole_Apron_Quest_aab08703:
 
-#     # o "Yeah. Apron, what happened over there?"
-#     o ""
+    # o "Yeah. Apron, what happened over there?"
+    o "是的，围裙。"
 
-# translate schinese Ole_Apron_Quest_4b72cf21:
+translate schinese Ole_Apron_Quest_4b72cf21:
 
-#     # r "I gave [e] the recipe... Is there something wrong?"
-#     r ""
+    # r "I gave [e] the recipe... Is there something wrong?"
+    r "我给了[e]一张材料清单让他自己动手……怎么了吗？"
 
-# translate schinese Ole_Apron_Quest_25b92775:
+translate schinese Ole_Apron_Quest_25b92775:
 
-#     # o "No, I was just asking, why are you suddenly helping Cane."
-#     o ""
+    # o "No, I was just asking, why are you suddenly helping Cane."
+    o "没有，只是您怎么突然决定帮助凯恩？"
 
-# translate schinese Ole_Apron_Quest_7d5f5e73:
+translate schinese Ole_Apron_Quest_7d5f5e73:
 
-#     # r "I... I'm only trying to help [e]. I don't really care about him anymore."
-#     r ""
+    # r "I... I'm only trying to help [e]. I don't really care about him anymore."
+    r "我……我只是在帮[e]，不关那只蝙蝠的事。"
 
-# translate schinese Ole_Apron_Quest_382a288d:
+translate schinese Ole_Apron_Quest_382a288d:
 
-#     # o "Are you sure...?"
-#     o ""
+    # o "Are you sure...?"
+    o "您确定……？"
 
-# translate schinese Ole_Apron_Quest_bec3b4af:
+translate schinese Ole_Apron_Quest_bec3b4af:
 
-#     # r "Yes."
-#     r ""
+    # r "Yes."
+    r "确定。"
 
-# translate schinese Ole_Apron_Quest_54653927:
+translate schinese Ole_Apron_Quest_54653927:
 
-#     # o "Have you two, met yet?"
-#     o ""
+    # o "Have you two, met yet?"
+    o "那您和他，有见面吗？"
 
-# translate schinese Ole_Apron_Quest_2dd3ad7c:
+translate schinese Ole_Apron_Quest_2dd3ad7c:
 
-#     # r "No, like I said, I don't care about him. But [e]... I think he's a good person."
-#     r ""
+    # r "No, like I said, I don't care about him. But [e]... I think he's a good person."
+    r "没有，就像我说的，不关那只蝙蝠的事。[e]是个好孩子……所以我想帮助他。"
 
-# translate schinese Ole_Apron_Quest_e2b9725a:
+translate schinese Ole_Apron_Quest_e2b9725a:
 
-#     # o "...Alright. I understand now. I won't ask too much questions, Rahim, see you later."
-#     o ""
+    # o "...Alright. I understand now. I won't ask too much questions, Rahim, see you later."
+    o "……好的，我不多过问打扰您了。雷叔再见。"
 
-# translate schinese Ole_Apron_Quest_739472a3:
+translate schinese Ole_Apron_Quest_739472a3:
 
-#     # r "Take care Ole, and you [e]."
-#     r ""
+    # r "Take care Ole, and you [e]."
+    r "保重，奥利，还有你[e]。"
 
-# translate schinese Ole_Apron_Quest_de871dc5:
+translate schinese Ole_Apron_Quest_de871dc5:
 
-#     # e "Oh... Goodbye, Rahim."
-#     e ""
+    # e "Oh... Goodbye, Rahim."
+    e "噢……雷叔再见。"
 
-# translate schinese Ole_Apron_Quest_fe8b913c:
+translate schinese Ole_Apron_Quest_fe8b913c:
 
-#     # "You and Ole walk back towards the shop, he didn't say a word along the journey, he simply looks forward, almost ignoring your existence."
-#     ""
+    # "You and Ole walk back towards the shop, he didn't say a word along the journey, he simply looks forward, almost ignoring your existence."
+    "你们返回当铺，一路上奥利没有说话，直直看着前方好像你不存在一样。"
 
-# translate schinese Ole_Apron_Quest_fea4d0e5:
+translate schinese Ole_Apron_Quest_fea4d0e5:
 
-#     # o "Alright, kiddo."
-#     o ""
+    # o "Alright, kiddo."
+    o "好了，小兄弟。"
 
-# translate schinese Ole_Apron_Quest_4e09c0e8:
+translate schinese Ole_Apron_Quest_4e09c0e8:
 
-#     # e "Ole... May I g-get the ingredient... from you?"
-#     e ""
+    # e "Ole... May I g-get the ingredient... from you?"
+    e "奥利，请问……你可以给、给我一份绿色染料……吗？"
 
-# translate schinese Ole_Apron_Quest_00b73ef3:
+translate schinese Ole_Apron_Quest_00b73ef3:
 
-#     # o "Well I trust Rahim's judgement. You must be the best visitor he has had, at least you actually made him help the bat."
-#     o ""
+    # o "Well I trust Rahim's judgement. You must be the best visitor he has had, at least you actually made him help the bat."
+    o "我相信雷叔的判断。[e]，你得多惹雷叔宠着你，才能让他帮凯恩办事。"
 
-# translate schinese Ole_Apron_Quest_f4817427:
+translate schinese Ole_Apron_Quest_f4817427:
 
-#     # e "U-uh... I didn't do anything actually. I was just asking him for help."
-#     e ""
+    # e "U-uh... I didn't do anything actually. I was just asking him for help."
+    e "呃……其实我什么也没做。我只是问了雷叔愿不愿意帮忙。"
 
-# translate schinese Ole_Apron_Quest_510c0c91:
+translate schinese Ole_Apron_Quest_510c0c91:
 
-#     # o "You are brave to ask that in the first place. I'd give you that."
-#     o ""
+    # o "You are brave to ask that in the first place. I'd give you that."
+    o "你敢鼓起勇气主动问他就已经很了不起了。"
 
-# translate schinese Ole_Apron_Quest_03fdcfcf:
+translate schinese Ole_Apron_Quest_03fdcfcf:
 
-#     # o "Anyways, I don't have strong opinion on Cane anyways. Just wanted to be sure of Rahim's decision."
-#     o ""
+    # o "Anyways, I don't have strong opinion on Cane anyways. Just wanted to be sure of Rahim's decision."
+    o "我自己对凯恩没有什么成见。刚才只是想确认一下雷叔的意见。"
 
-# translate schinese Ole_Apron_Quest_31d1f04a:
+translate schinese Ole_Apron_Quest_31d1f04a:
 
-#     # o "And... You wanted some green dyes right? I can make one right here, Seb and me picked the leaves from the town area. We have no use of that anyways."
-#     o ""
+    # o "And... You wanted some green dyes right? I can make one right here, Seb and me picked the leaves from the town area. We have no use of that anyways."
+    o "话说回来……你要一份绿色染料对吧？我可以马上调一份给你，正好把阿塞和我从镇子采的树叶用掉，反正留着也没用。"
 
-# translate schinese Ole_Apron_Quest_23911e3d:
+translate schinese Ole_Apron_Quest_23911e3d:
 
-#     # e "Thank you so much, Ole. This is really great news."
-#     e ""
+    # e "Thank you so much, Ole. This is really great news."
+    e "太好了，谢谢你奥利。"
 
-# translate schinese Ole_Apron_Quest_d44bd1b6:
+translate schinese Ole_Apron_Quest_d44bd1b6:
 
-#     # o "So... what do you think?"
-#     o ""
+    # o "So... what do you think?"
+    o "那么……你会如何评价他？"
 
-# translate schinese Ole_Apron_Quest_1d0e5d7c:
+translate schinese Ole_Apron_Quest_1d0e5d7c:
 
-#     # e "Hmm...?"
-#     e ""
+    # e "Hmm...?"
+    e "谁……？"
 
-# translate schinese Ole_Apron_Quest_5c962a8a:
+translate schinese Ole_Apron_Quest_5c962a8a:
 
-#     # o "Cane, the Tavern owner."
-#     o ""
+    # o "Cane, the Tavern owner."
+    o "酒馆的老板凯恩。"
 
-# translate schinese Ole_Apron_Quest_ba1c90de:
+translate schinese Ole_Apron_Quest_ba1c90de:
 
-#     # o "Do you think I should trust Cane?"
-#     o ""
+    # o "Do you think I should trust Cane?"
+    o "你觉得我可以相信他吗？"
 
-# translate schinese Ole_Apron_Quest_975eb737:
+translate schinese Ole_Apron_Quest_975eb737:
 
-#     # e "Wait... are you asking for my opinion?"
-#     e ""
+    # e "Wait... are you asking for my opinion?"
+    e "啊……你是在问我的看法？"
 
-# translate schinese Ole_Apron_Quest_07f8aa5a:
+translate schinese Ole_Apron_Quest_07f8aa5a:
 
-#     # o "Yes, it's always better to judge from someone who haven't gotten used to the village yet."
-#     o ""
+    # o "Yes, it's always better to judge from someone who haven't gotten used to the village yet."
+    o "对，你刚来乐村还是白纸一张，你的看法会更有价值。"
 
-# translate schinese Ole_Apron_Quest_29253fb1:
+translate schinese Ole_Apron_Quest_29253fb1:
 
-#     # o "Do you think I should trust Cane? I can't speak for Rahim, obviously, but is he decent enough now?" nointeract
-#     o "" nointeract
+    # o "Do you think I should trust Cane? I can't speak for Rahim, obviously, but is he decent enough now?" nointeract
+    o "再说了，雷叔的意见不能代表我的意见。所以，你觉得他是好人还是坏人？我可以信任他吗？" nointeract
 
-# translate schinese Ole_Apron_Quest_066f0381:
+translate schinese strings:
 
-#     # e "Of course, Cane is not a bad person I believe."
-#     e ""
+    old "Yes, you can trust him"
+    new "表示可以信任凯恩"
 
-# translate schinese Ole_Apron_Quest_78e45ebf:
+    old "No, you cannot trust him"
+    new "表示不能信任凯恩"
 
-#     # o "Hmm... really? Seb told me the same, but you know, I don't really interact with the tavern that much."
-#     o ""
+translate schinese Ole_Apron_Quest_066f0381:
 
-# translate schinese Ole_Apron_Quest_6ffcef57:
+    # e "Of course, Cane is not a bad person I believe."
+    e "可以，我相信凯恩不是坏人。"
 
-#     # o "But I see, I see. I'll take your advice into my consideration."
-#     o ""
+translate schinese Ole_Apron_Quest_78e45ebf:
 
-# translate schinese Ole_Apron_Quest_21446274:
+    # o "Hmm... really? Seb told me the same, but you know, I don't really interact with the tavern that much."
+    o "唔……真的吗？阿塞的看法和你一样，不过你也知道，我不怎么跟酒馆的人打交道。"
 
-#     # e "No... I guess you really shouldn't trust him too easily."
-#     e ""
+translate schinese Ole_Apron_Quest_6ffcef57:
 
-# translate schinese Ole_Apron_Quest_d9305c06:
+    # o "But I see, I see. I'll take your advice into my consideration."
+    o "但我会好好参考你的意见的，嗯。"
 
-#     # o "That was what I was thinking, he must have scammed you so hard you work for him now."
-#     o ""
+translate schinese Ole_Apron_Quest_21446274:
 
-# translate schinese Ole_Apron_Quest_35d1f5cd:
+    # e "No... I guess you really shouldn't trust him too easily."
+    e "不……你可不要轻易相信他。"
 
-#     # o "Alright I see, I see. I'll take your advice into my consideration."
-#     o ""
+translate schinese Ole_Apron_Quest_d9305c06:
 
-# translate schinese Ole_Apron_Quest_c2b7dcd9:
+    # o "That was what I was thinking, he must have scammed you so hard you work for him now."
+    o "我也这么想，看你现在为他打工，一定被骗得很惨吧。"
 
-#     # e "Well... you should definitely judge him yourself when you meet him."
-#     e ""
+translate schinese Ole_Apron_Quest_35d1f5cd:
 
-# translate schinese Ole_Apron_Quest_1046c1e1:
+    # o "Alright I see, I see. I'll take your advice into my consideration."
+    o "哈哈，我会好好参考你的意见的。"
 
-#     # o "I've met him, a lot of times. But since the infiltration, I haven't talked with the bat."
-#     o ""
+translate schinese Ole_Apron_Quest_c2b7dcd9:
 
-# translate schinese Ole_Apron_Quest_4448e1d7:
+    # e "Well... you should definitely judge him yourself when you meet him."
+    e "奥利……你最好亲自和他聊聊，亲自去判断他到底是个什么样的人。"
 
-#     # e "People do change, I believe."
-#     e ""
+translate schinese Ole_Apron_Quest_1046c1e1:
 
-# translate schinese Ole_Apron_Quest_839a80ec:
+    # o "I've met him, a lot of times. But since the infiltration, I haven't talked with the bat."
+    o "我们已经认识很久了。但自从那场战争爆发之后，我就再也没有和他说过话。"
 
-#     # o "It depends, really. Could you really forgive someone entirely just because they're a different person now?"
-#     o ""
+translate schinese Ole_Apron_Quest_4448e1d7:
 
-# translate schinese Ole_Apron_Quest_7b25b8bd:
+    # e "People do change, I believe."
+    e "我相信人是会改变的。"
 
-#     # o "I don't know, but I can see how you made Rahim talk now, roommate."
-#     o ""
+translate schinese Ole_Apron_Quest_839a80ec:
 
-# translate schinese Ole_Apron_Quest_00f995b4:
+    # o "It depends, really. Could you really forgive someone entirely just because they're a different person now?"
+    o "这个得看情况。讲真，难道你会只因为某个人现在完全变了样，就彻底原谅他吗？"
 
-#     # e "Look, if you need me, I'll be right around the corner."
-#     e ""
+translate schinese Ole_Apron_Quest_7b25b8bd:
 
-# translate schinese Ole_Apron_Quest_622571fc:
+    # o "I don't know, but I can see how you made Rahim talk now, roommate."
+    o "至少我没法回答。不过多亏有你，雷叔才愿意开口吐露他的私事。"
 
-#     # o "Sure thing. Here's the dye you need."
-#     o ""
+translate schinese Ole_Apron_Quest_00f995b4:
 
-# translate schinese Ole_Apron_Quest_26d5dce1:
+    # e "Look, if you need me, I'll be right around the corner."
+    e "如果你也需要我帮忙，我随时都在。"
 
-#     # e "Thanks a lot, Ole."
-#     e ""
+translate schinese Ole_Apron_Quest_622571fc:
 
-# translate schinese Ole_Apron_Quest_ba31ebcc:
+    # o "Sure thing. Here's the dye you need."
+    o "真是我的好室友。来，你要的染料。"
 
-#     # o "See you, kiddo."
-#     o ""
+translate schinese Ole_Apron_Quest_26d5dce1:
+
+    # e "Thanks a lot, Ole."
+    e "谢啦。"
+
+translate schinese Ole_Apron_Quest_ba31ebcc:
+
+    # o "See you, kiddo."
+    o "回头见，小兄弟。"
 
 # translate schinese Ole_Sick_Quest_d0874d5f:
 
@@ -7586,11 +7597,11 @@ translate schinese Rahim_Normal_Talk_46758535:
 
 translate schinese strings:
 
-    # old "Ask about Fixing with the Apron"
-    # new "询问修补围裙的事情"
+    old "Ask about Fixing with the Apron"
+    new "询问修补围裙的事情"
 
-    # old "Ask about the fixed apron"
-    # new "询问围裙的往事"
+    old "Ask about the fixed apron"
+    new "报告围裙的修补情况"
 
     # old "Ask about Rahim's Request"
     # new "询问还有什么能帮忙的"
@@ -7665,7 +7676,7 @@ translate schinese strings:
 
 # translate schinese Rahim_Yarn_Quest_02_914f758a:
 
-#     # r "You'll need that enthusiasm for this one – you're making my least favorite, hats."
+#     # r "You'll need that enthusiasm for this one - you're making my least favorite, hats."
 #     r ""
 
 # translate schinese Rahim_Yarn_Quest_02_fef9af56:
@@ -7795,7 +7806,7 @@ translate schinese strings:
 
 # translate schinese Rahim_Yarn_Quest_02_41887cd0:
 
-#     # r "You'll need to grab [material_1], [material_2], and [material 3] in addition to the materials I'm giving you."
+#     # r "You'll need to grab metal hoop, some yarn, and feather in addition to the materials I'm giving you."
 #     r ""
 
 # translate schinese Rahim_Yarn_Quest_02_717a4209:
@@ -7965,7 +7976,7 @@ translate schinese strings:
 
 # translate schinese Rahim_Report_Yarn_Quest_02_a67ccac5:
 
-#     # r "Of course, this is still higher quality than the person needed – it is far above the craft of an amateur, but far below that of a professional."
+#     # r "Of course, this is still higher quality than the person needed - it is far above the craft of an amateur, but far below that of a professional."
 #     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_02_57ef58b1:
@@ -8110,7 +8121,7 @@ translate schinese strings:
 
 # translate schinese Rahim_Report_Yarn_Quest_02_7d496a1a:
 
-#     # r "My father was the town's tailor – that is to say, as with most tailors in places that small, he was a farmer that knew how to sew moderately well."
+#     # r "My father was the town's tailor - that is to say, as with most tailors in places that small, he was a farmer that knew how to sew moderately well."
 #     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_02_2c27ea5e:
@@ -8150,7 +8161,7 @@ translate schinese strings:
 
 # translate schinese Rahim_Report_Yarn_Quest_02_020ce57b:
 
-#     # r "There wasn't much to be done about that, because there was nothing for me to look at or aspire to – I was completely isolated in that rinkydink place."
+#     # r "There wasn't much to be done about that, because there was nothing for me to look at or aspire to - I was completely isolated in that rinkydink place."
 #     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_02_ea19a89c:
@@ -8165,7 +8176,7 @@ translate schinese strings:
 
 # translate schinese Rahim_Report_Yarn_Quest_02_01a42806:
 
-#     # r "He needed a bodyguard – someone young that could protect him from the monsters that roamed hte roads. "
+#     # r "He needed a bodyguard - someone young that could protect him from the monsters that roamed hte roads. "
 #     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_02_c8573086:
@@ -10249,270 +10260,272 @@ translate schinese Rahim_Ask_Himself_1ab95c4a:
     # e "Alright, Rahim."
     e "噢噢，好的。"
 
-# translate schinese Rahim_Apron_Fixed_ac111090:
+translate schinese Rahim_Apron_Fixed_ac111090:
 
-#     # e "Hey, Rahim... the apron is fixed."
-#     e ""
+    # e "Hey, Rahim... the apron is fixed."
+    e "嗨，雷叔……我已经把围裙补好了。"
 
-# translate schinese Rahim_Apron_Fixed_fb0c4131:
+translate schinese Rahim_Apron_Fixed_fb0c4131:
 
-#     # r "You should take it to him if you think it's fine... but I can take a look."
-#     r ""
+    # r "You should take it to him if you think it's fine... but I can take a look."
+    r "如果你觉得可以了就拿去给凯恩吧……不过也可以给我过目。"
 
-# translate schinese Rahim_Apron_Fixed_ecfb7992:
+translate schinese Rahim_Apron_Fixed_ecfb7992:
 
-#     # "Rahim raises the apron to your level, almost imagining your body in the apron. He calculates for a few seconds before looking back at you."
-#     ""
+    # "Rahim raises the apron to your level, almost imagining your body in the apron. He calculates for a few seconds before looking back at you."
+    "你将围裙递给雷希姆，他举起吊带把围裙比在你身上，像是在想象你穿上的样子。他打量一会后将围裙还给了你。"
 
-# translate schinese Rahim_Apron_Fixed_25d2b41d:
+translate schinese Rahim_Apron_Fixed_25d2b41d:
 
-#     # r "Looks really good, the material is almost the same."
-#     r ""
+    # r "Looks really good, the material is almost the same."
+    r "观感很好，几乎看不出来补丁的色差。"
 
-# translate schinese Rahim_Apron_Fixed_aae5699f:
+translate schinese Rahim_Apron_Fixed_aae5699f:
 
-#     # e "Thanks to your recipe, of course!"
-#     e ""
+    # e "Thanks to your recipe, of course!"
+    e "谢谢你教我怎么准备材料补衣服！"
 
-# translate schinese Rahim_Apron_Fixed_b3a5e1fe:
+translate schinese Rahim_Apron_Fixed_b3a5e1fe:
 
-#     # r "Hmm... Yeah there's no problem here, just take it to Cane."
-#     r ""
+    # r "Hmm... Yeah there's no problem here, just take it to Cane."
+    r "嗯……我这边没什么问题，拿去给凯恩吧。"
 
-# translate schinese Rahim_Apron_Fixed_9a679669:
+translate schinese Rahim_Apron_Fixed_9a679669:
 
-#     # e "Alrighty, thank you so much Rahim."
-#     e ""
+    # e "Alrighty, thank you so much Rahim."
+    e "好，那我去咯。谢谢雷叔。"
 
-# translate schinese Rahim_Apron_Fixed_d08115e6:
+translate schinese Rahim_Apron_Fixed_d08115e6:
 
-#     # r "You're welcome, [e]."
-#     r ""
+    # r "You're welcome, [e]."
+    r "不客气，[e]。"
 
-# translate schinese Rahim_Apron_Quest_b9e50a2b:
+translate schinese Rahim_Apron_Quest_b9e50a2b:
 
-#     # e "Rahim, I have a piece of... apparel, that I think you can help..."
-#     e ""
+    # e "Rahim, I have a piece of... apparel, that I think you can help..."
+    e "我有一件……衣服想请你帮忙补补……"
 
-# translate schinese Rahim_Apron_Quest_83b93a25:
+translate schinese Rahim_Apron_Quest_83b93a25:
 
-#     # r "What's it?"
-#     r ""
+    # r "What's it?"
+    r "哪件？"
 
-# translate schinese Rahim_Apron_Quest_037ef800:
+translate schinese Rahim_Apron_Quest_037ef800:
 
-#     # e "...This one."
-#     e ""
+    # e "...This one."
+    e "……这件。"
 
-# translate schinese Rahim_Apron_Quest_d7d4a4ed:
+translate schinese Rahim_Apron_Quest_d7d4a4ed:
 
-#     # "Rahim looks through your bag and found the tavern apron, his eyes widen, you would have thought that he's going to rip apart the apron once and for all."
-#     ""
+    # "Rahim looks through your bag and found the tavern apron, his eyes widen, you would have thought that he's going to rip apart the apron once and for all."
+    "雷希姆从你的包里翻出那条围裙，瞪大了双眼。你怕他下一秒就会把围裙撕个粉碎。"
 
-# translate schinese Rahim_Apron_Quest_a0e55179:
+translate schinese Rahim_Apron_Quest_a0e55179:
 
-#     # r "Did the bat sent you?"
-#     r ""
+    # r "Did the bat sent you?"
+    r "那只蝙蝠派你来的？"
 
-# translate schinese Rahim_Apron_Quest_c69cb282:
+translate schinese Rahim_Apron_Quest_c69cb282:
 
-#     # e "No, I asked him to take the apron to you... He ripped a hole in there accidentally."
-#     e ""
+    # e "No, I asked him to take the apron to you... He ripped a hole in there accidentally."
+    e "不，找雷叔你补衣服是我提议的……他不小心戳了个洞在上面。"
 
-# translate schinese Rahim_Apron_Quest_6504d9b5:
+translate schinese Rahim_Apron_Quest_6504d9b5:
 
-#     # "You point at the hole on the apron, but Rahim didn't even bother to inspect it. Instead, he stares at you intensely while grasping on the apron."
-#     ""
+    # "You point at the hole on the apron, but Rahim didn't even bother to inspect it. Instead, he stares at you intensely while grasping on the apron."
+    "你手指围裙上的破洞，但雷希姆却看也不看一眼。他紧紧抓着围裙，依然目不转睛地瞪着你。"
 
-# translate schinese Rahim_Apron_Quest_7f3341fd:
+translate schinese Rahim_Apron_Quest_7f3341fd:
 
-#     # r "Why did you help him?"
-#     r ""
+    # r "Why did you help him?"
+    r "你为什么要帮他？"
 
-# translate schinese Rahim_Apron_Quest_29027c07:
+translate schinese Rahim_Apron_Quest_29027c07:
 
-#     # e "Look, I was just looking out for you both, he said he's sorry for whatever happened in the past-"
-#     e ""
+    # e "Look, I was just looking out for you both, he said he's sorry for whatever happened in the past-"
+    e "雷叔，我是为了你们好。凯恩说他对过去发生的一切很抱歉——"
 
-# translate schinese Rahim_Apron_Quest_d0f811f4:
+translate schinese Rahim_Apron_Quest_d0f811f4:
 
-#     # r "Sorry? Did I mishear? If he said sorry he wouldn't be sending his little precious server here like a coward he is."
-#     r ""
+    # r "Sorry? Did I mishear? If he said sorry he wouldn't be sending his little precious server here like a coward he is."
+    r "抱歉？我没有听错吧？要是凯恩真心要来道歉，他就不会派他宝贝的店小二来传话。这个懦夫。"
 
-# translate schinese Rahim_Apron_Quest_51ab4cb7:
+translate schinese Rahim_Apron_Quest_51ab4cb7:
 
-#     # r "If he's sorry then he wouldn't hide in his pathetic tavern for years and years just to avoid seeing me across the road."
-#     r ""
+    # r "If he's sorry then he wouldn't hide in his pathetic tavern for years and years just to avoid seeing me across the road."
+    r "要是你的老板真心感到抱歉，就不会一天到晚躲在他可怜的小酒馆里，只为了不在路上遇见我。"
 
-# translate schinese Rahim_Apron_Quest_f64cde6b:
+translate schinese Rahim_Apron_Quest_f64cde6b:
 
-#     # r "It's been 4 years. And I've never heard a sorry from his damn stupid mouth."
-#     r ""
+    # r "It's been 4 years. And I've never heard a sorry from his damn stupid mouth."
+    r "整整四年过去，那张破嘴吐不出一句抱歉、对不起、我很惭愧。"
 
-# translate schinese Rahim_Apron_Quest_b39b3094:
+translate schinese Rahim_Apron_Quest_b39b3094:
 
-#     # r "He didn't even show up on my daughter's funeral, I don't care if he's guilty or not, is this how a person is supposed to treat his friends?"
-#     r ""
+    # r "He didn't even show up on my daughter's funeral, I don't care if he's guilty or not, is this how a person is supposed to treat his friends?"
+    r "他甚至没有参加我女儿的葬礼。我不管他有没有背叛乐村，抛开公事不谈，难道这就是他理应对待朋友的方式吗？"
 
-# translate schinese Rahim_Apron_Quest_b9b755e5:
+translate schinese Rahim_Apron_Quest_b9b755e5:
 
-#     # r "..."
-#     r "……"
+    # r "..."
+    r "……"
 
-# translate schinese Rahim_Apron_Quest_627522de:
+translate schinese Rahim_Apron_Quest_627522de:
 
-#     # e "Rahim... I- I thought you assumed he helped with the raid of the goat's wagon..."
-#     e ""
+    # e "Rahim... I- I thought you assumed he helped with the raid of the goat's wagon..."
+    e "雷叔……我以为你认定他就是山羊部落马车遇袭的帮凶……"
 
-# translate schinese Rahim_Apron_Quest_f79c7584:
+translate schinese Rahim_Apron_Quest_f79c7584:
 
-#     # r "I don't care if he's guilty or not. It's the goats that attacked our village. We had decades of friendship and memory, but right when I needed my friend the most, he disappeared."
-#     r ""
+    # r "I don't care if he's guilty or not. It's the goats that attacked our village. We had decades of friendship and memory, but right when I needed my friend the most, he disappeared."
+    r "我不在乎他是不是帮凶。决定并入侵乐村的是山羊，而不是他。"
+    r "我们曾经有几十年的情谊，但凯恩却在我最需要他的时候销声匿迹，人间蒸发，消失得无影无踪。"
 
-# translate schinese Rahim_Apron_Quest_231f1b8d:
+translate schinese Rahim_Apron_Quest_231f1b8d:
 
-#     # r "Vanished. Out of thin air. What a good friend. This whole time, I just felt scammed, I lost both people that I loved that day."
-#     r ""
+    # r "Vanished. Out of thin air. What a good friend. This whole time, I just felt scammed, I lost both people that I loved that day."
+    r "他这个朋友当得可真够妙啊。那一天，我同时失去了两个我所珍爱的人。"
+    r "到头来，我只觉得自己被深深地欺骗，深深地愚弄。"
 
-# translate schinese Rahim_Apron_Quest_425e1f1e:
+translate schinese Rahim_Apron_Quest_425e1f1e:
 
-#     # e "I'm so sorry to hear... Rahim. I think he'll certainly be happy to reconcile with you, if you wish..."
-#     e ""
+    # e "I'm so sorry to hear... Rahim. I think he'll certainly be happy to reconcile with you, if you wish..."
+    e "这实在太糟糕了……雷叔，我想凯恩一定非常乐意和好，如果你想……"
 
-# translate schinese Rahim_Apron_Quest_3074194c:
+translate schinese Rahim_Apron_Quest_3074194c:
 
-#     # r "No, it's too late. Now a single sorry isn't going to be enough."
-#     r ""
+    # r "No, it's too late. Now a single sorry isn't going to be enough."
+    r "别，已经太晚了。只有一句道歉远远不够。"
 
-# translate schinese Rahim_Apron_Quest_b9b755e5_1:
+translate schinese Rahim_Apron_Quest_b9b755e5_1:
 
-#     # r "..."
-#     r "……"
+    # r "..."
+    r "……"
 
-# translate schinese Rahim_Apron_Quest_fbdc0d06:
+translate schinese Rahim_Apron_Quest_fbdc0d06:
 
-#     # "Rahim stares at the hole on the apron, mumbling to himself when suddenly he realises something."
-#     ""
+    # "Rahim stares at the hole on the apron, mumbling to himself when suddenly he realises something."
+    "雷希姆盯着围裙上的洞喃喃自语，突然，他意识到了什么。"
 
-# translate schinese Rahim_Apron_Quest_752d18aa:
+translate schinese Rahim_Apron_Quest_752d18aa:
 
-#     # r "It's Topu, isn't it?"
-#     r ""
+    # r "It's Topu, isn't it?"
+    r "这是托普穿的围裙对吧？"
 
-# translate schinese Rahim_Apron_Quest_e74f101e:
+translate schinese Rahim_Apron_Quest_e74f101e:
 
-#     # e "I'm sorry?"
-#     e ""
+    # e "I'm sorry?"
+    e "什么？"
 
-# translate schinese Rahim_Apron_Quest_b5802c37:
+translate schinese Rahim_Apron_Quest_b5802c37:
 
-#     # r "Was his server the one... that took the deal to help with the raid?"
-#     r ""
+    # r "Was his server the one... that took the deal to help with the raid?"
+    r "酒馆以前的服务员。他好像才是那个……收了好处协助突袭马车的帮凶。"
 
-# translate schinese Rahim_Apron_Quest_e67088ef:
+translate schinese Rahim_Apron_Quest_e67088ef:
 
-#     # e "I don't know... but I believe it wasn't Cane..."
-#     e ""
+    # e "I don't know... but I believe it wasn't Cane..."
+    e "我不清楚……但我相信这不是凯恩穿的……"
 
-# translate schinese Rahim_Apron_Quest_982e3ddf:
+translate schinese Rahim_Apron_Quest_982e3ddf:
 
-#     # r "Ok."
-#     r ""
+    # r "Ok."
+    r "嗯。"
 
-# translate schinese Rahim_Apron_Quest_379ab857:
+translate schinese Rahim_Apron_Quest_379ab857:
 
-#     # "The cold air in this place slowly returns to normal, you glance at Rahim's crossed arms."
-#     ""
+    # "The cold air in this place slowly returns to normal, you glance at Rahim's crossed arms."
+    "冷凝的氛围逐渐回温，你鼓起勇气抬头看了一眼雷希姆。"
 
-# translate schinese Rahim_Apron_Quest_c5f57473:
+translate schinese Rahim_Apron_Quest_c5f57473:
 
-#     # "His shoulder is... not as strained as before, even though he still looks intimidating."
-#     ""
+    # "His shoulder is... not as strained as before, even though he still looks intimidating."
+    "他双臂交叉，虽然肩膀不像之前那么紧张了……但身姿依然压迫感十足。"
 
-# translate schinese Rahim_Apron_Quest_972a4cbf:
+translate schinese Rahim_Apron_Quest_972a4cbf:
 
-#     # r "I'm helping you with the Apron. Just know that I'm not doing this for the bat, I'm doing this for you."
-#     r ""
+    # r "I'm helping you with the Apron. Just know that I'm not doing this for the bat, I'm doing this for you."
+    r "我会帮你补好围裙。但你要知道，我是帮你而不是帮他。"
 
-# translate schinese Rahim_Apron_Quest_2355c0a8:
+translate schinese Rahim_Apron_Quest_2355c0a8:
 
-#     # e "Thank you... Rahim. I thought you might tear the apron apart..."
-#     e ""
+    # e "Thank you... Rahim. I thought you might tear the apron apart..."
+    e "谢谢你……雷叔。我刚刚还怕你把围裙撕了……"
 
-# translate schinese Rahim_Apron_Quest_2845df48:
+translate schinese Rahim_Apron_Quest_2845df48:
 
-#     # r "Ha. Maybe later."
-#     r ""
+    # r "Ha. Maybe later."
+    r "哼。可能等阵会吧。"
 
-# translate schinese Rahim_Apron_Quest_ce9d6590:
+translate schinese Rahim_Apron_Quest_ce9d6590:
 
-#     # r "Here's the recipe. There are two... actually. You might need to find Ole. He has the dye you would be looking for."
-#     r ""
+    # r "Here's the recipe. There are two... actually. You might need to find Ole. He has the dye you would be looking for."
+    r "这是修补围裙需要用到的原料清单，上面还有修补的步骤方法。你可能要找奥利拿染料。"
 
-# translate schinese Rahim_Apron_Quest_a47ea533:
+translate schinese Rahim_Apron_Quest_a47ea533:
 
-#     # r "For the other materials, you can find them quite easily if you venture outside, step on some grass."
-#     r ""
+    # r "For the other materials, you can find them quite easily if you venture outside, step on some grass."
+    r "至于其他材料，你只要外出冒险多多探索周围的世界，就能轻松找到。"
 
-# translate schinese Rahim_Apron_Quest_5e871018:
+translate schinese Rahim_Apron_Quest_5e871018:
 
-#     # r "I suppose the dummy from Lothar has the patches you need."
-#     r ""
+    # r "I suppose the dummy from Lothar has the patches you need."
+    r "我想洛萨尔的人偶身上有你需要的补丁。"
 
-# translate schinese Rahim_Apron_Quest_7684015f:
+translate schinese Rahim_Apron_Quest_7684015f:
 
-#     # r "And Flax, find them near the lagoon."
-#     r ""
+    # r "And Flax, find them near the lagoon."
+    r "亚麻可以在苍耀湖周围采到。"
 
-# translate schinese Rahim_Apron_Quest_ebfc7f91:
+translate schinese Rahim_Apron_Quest_ebfc7f91:
 
-#     # e "What about Cashmere, that sounds like a tree."
-#     e ""
+    # e "What about Cashmere, that sounds like a tree."
+    e "开司米，这是什么？听起来像一种树。"
 
-# translate schinese Rahim_Apron_Quest_cd63ffe7:
+translate schinese Rahim_Apron_Quest_cd63ffe7:
 
-#     # r "Mhmm... No. You need to get them from the goat, either ask them or beat a few of them up."
-#     r ""
+    # r "Mhmm... No. You need to get them from the goat, either ask them or beat a few of them up."
+    r "……不，这是一种羊毛的别称。你得去薅山羊的羊毛，要么让他主动给你，要么主动扒了他。"
 
-# translate schinese Rahim_Apron_Quest_1aa72b58:
+translate schinese Rahim_Apron_Quest_1aa72b58:
 
-#     # r "I've seen some of the hunters around the ancient tree."
-#     r ""
+    # r "I've seen some of the hunters around the ancient tree."
+    r "古树那边就潜伏着不少山羊猎人，你可以去碰碰看。"
 
-# translate schinese Rahim_Apron_Quest_d6b6319d:
+translate schinese Rahim_Apron_Quest_d6b6319d:
 
-#     # r "I don't know where you can find them. But the ancient tree is the best bet."
-#     r ""
+    # r "I don't know where you can find them. But the ancient tree is the best bet."
+    r "我不清楚他们的散兵具体在哪。但他们很可能会出现在古树附近。"
 
-# translate schinese Rahim_Apron_Quest_3f864565:
+translate schinese Rahim_Apron_Quest_3f864565:
 
-#     # r "Something tells me they're plotting... another plan of theirs."
-#     r ""
+    # r "Something tells me they're plotting... another plan of theirs."
+    r "……不知又在捣鼓什么阴谋诡计。"
 
-# translate schinese Rahim_Apron_Quest_0e3295ef:
+translate schinese Rahim_Apron_Quest_0e3295ef:
 
-#     # e "Thanks a lot for the recipe."
-#     e ""
+    # e "Thanks a lot for the recipe."
+    e "谢谢雷叔。"
 
-# translate schinese Rahim_Apron_Quest_82d397a2:
+translate schinese Rahim_Apron_Quest_82d397a2:
 
-#     # r "No, Thank you for doing all the boring chores, for us folks in the Lusterfield. It's rare to see such an energetic youth for a while."
-#     r ""
+    # r "No, Thank you for doing all the boring chores, for us folks in the Lusterfield. It's rare to see such an energetic youth for a while."
+    r "不客气，我反而要谢谢你为村民们处理了这么多无聊的杂事。难得乐村还能有你这么朝气蓬勃的小伙子。"
 
-# translate schinese Rahim_Apron_Quest_f039ab2d:
+translate schinese Rahim_Apron_Quest_f039ab2d:
 
-#     # r "Apart from the lion, of course."
-#     r ""
+    # r "Apart from the lion, of course."
+    r "当然，那头狮子除外。"
 
-# translate schinese Rahim_Apron_Quest_705ae207:
+translate schinese Rahim_Apron_Quest_705ae207:
 
-#     # e "You are too humble, Rahim. I'll certainly be keeping this in mind."
-#     e ""
+    # e "You are too humble, Rahim. I'll certainly be keeping this in mind."
+    e "雷叔过奖了，我一定不会辜负大家对我的期望。"
 
-# translate schinese Rahim_Apron_Quest_358d4028:
+translate schinese Rahim_Apron_Quest_358d4028:
 
-#     # r "Good, see you around, [e]."
-#     r ""
+    # r "Good, see you around, [e]."
+    r "很好，保重，[e]。"
 
 # translate schinese Rahim_Outfit_Quest_0622b34d:
 

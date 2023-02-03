@@ -161,11 +161,11 @@ translate schinese Cane_Normal_Talk_58e0fbb5:
 
 translate schinese strings:
 
-    # old "Ask to work in the Tavern"
-    # new "担任酒馆的钟点工"
+    old "Ask to work in the Tavern"
+    new "担任酒馆的钟点工"
 
-    # old "Give Cane the Fixed Apron"
-    # new "交付补好的围裙"
+    old "Give Cane the Fixed Apron"
+    new "交付补好的围裙"
 
     # old "Ask about the Beer Task"
     # new "承接采集啤酒原料的任务"
@@ -3888,65 +3888,73 @@ translate schinese Cane_Ask_Goat_Tribe_bba3d5dd:
 #     # e "O-ok! Thank you, Cane."
 #     e ""
 
-# translate schinese Cane_Work_0c1134d3:
+translate schinese Cane_Work_0c1134d3:
 
-#     # e "Hey... Cane. You talked about working in the tavern, right?"
-#     e ""
+    # e "Hey... Cane. You talked about working in the tavern, right?"
+    e "嗨……凯恩。你之前说我可以在你这打工，对吗？"
 
-# translate schinese Cane_Work_7121ebe1:
+translate schinese Cane_Work_7121ebe1:
 
-#     # c "Yeah?"
-#     c ""
+    # c "Yeah?"
+    c "嗯哼？"
 
-# translate schinese Cane_Work_774f4ade:
+translate schinese Cane_Work_774f4ade:
 
-#     # e "It looks pretty interesting, how is the wage here?"
-#     e ""
+    # e "It looks pretty interesting, how is the wage here?"
+    e "我感觉好像挺有意思的，工资怎么算？"
 
-# translate schinese Cane_Work_a80432ec:
+translate schinese Cane_Work_a80432ec:
 
-#     # c "Aye, its 50 gold for 4 hours, I'd pay more if yer work hard enough." nointeract
-#     c "" nointeract
+    # c "Aye, its 50 gold for 4 hours, I'd pay more if yer work hard enough." nointeract
+    c "诶，4 小时 50 金币，如果你表现出色我还会付得更多。" nointeract
 
-# translate schinese Cane_Work_d2ecfc50:
+translate schinese strings:
 
-#     # e "I'll think about it, Cane."
-#     e ""
+    old "Take the job"
+    new "开始打工"
 
-# translate schinese Cane_Work_b6ca98b4:
+    old "I'll think about it"
+    new "暂时离开"
 
-#     # c "All good. Well then, enjoy yer stay in the Nocturnal Trunk!"
-#     c ""
+translate schinese Cane_Work_d2ecfc50:
 
-# translate schinese Cane_Work_adc10916:
+    # e "I'll think about it, Cane."
+    e "我再考虑考虑吧。"
 
-#     # e "Hey... Cane. Can I work in the tavern again?"
-#     e ""
+translate schinese Cane_Work_b6ca98b4:
 
-# translate schinese Cane_Work_1a1b7af6:
+    # c "All good. Well then, enjoy yer stay in the Nocturnal Trunk!"
+    c "行吧，那在夜夜椿喝好玩好啊！"
 
-#     # c "Aye, same wage. Its 50 gold for 4 hours." nointeract
-#     c "" nointeract
+translate schinese Cane_Work_adc10916:
 
-# translate schinese Cane_Work_d2ecfc50_1:
+    # e "Hey... Cane. Can I work in the tavern again?"
+    e "嗨……凯恩。我能再给你打工吗？"
 
-#     # e "I'll think about it, Cane."
-#     e ""
+translate schinese Cane_Work_1a1b7af6:
 
-# translate schinese Cane_Work_b6ca98b4_1:
+    # c "Aye, same wage. Its 50 gold for 4 hours." nointeract
+    c "诶，还是 4 小时 50 金币。" nointeract
 
-#     # c "All good. Well then, enjoy yer stay in the Nocturnal Trunk!"
-#     c ""
+translate schinese Cane_Work_d2ecfc50_1:
 
-# translate schinese Cane_Work_0f213b78:
+    # e "I'll think about it, Cane."
+    e "我再考虑考虑。"
 
-#     # c "Mister [e], ya had already served the whole village. Come back after a few hours ya thirsty lad."
-#     c ""
+translate schinese Cane_Work_b6ca98b4_1:
 
-# translate schinese Cane_Work_62ea5a76:
+    # c "All good. Well then, enjoy yer stay in the Nocturnal Trunk!"
+    c "行吧，那在夜夜椿喝好玩好啊！"
 
-#     # e "...Ok, Cane."
-#     e ""
+translate schinese Cane_Work_0f213b78:
+
+    # c "Mister [e], ya had already served the whole village. Come back after a few hours ya thirsty lad."
+    c "[e]，全部村民你都招待个遍了。过几个小时再来吧，小淫娃。"
+
+translate schinese Cane_Work_62ea5a76:
+
+    # e "...Ok, Cane."
+    e "……好的。"
 
 #点单
 
@@ -5049,310 +5057,311 @@ translate schinese strings:
     old "Cane"
     new "凯恩"
 
-# translate schinese Cane_Apron_Quest_4375ebc2:
+translate schinese Cane_Apron_Quest_4375ebc2:
 
-#     # c "Ya bastard dragon. Come here."
-#     c ""
+    # c "Ya bastard dragon. Come here."
+    c "快滚过来，你个混账龙。"
 
-# translate schinese Cane_Apron_Quest_f0e3787a:
+translate schinese Cane_Apron_Quest_f0e3787a:
 
-#     # e "What's going on? Cane...?"
-#     e ""
+    # e "What's going on? Cane...?"
+    e "怎么了凯恩……？"
 
-# translate schinese Cane_Apron_Quest_430e8140:
+translate schinese Cane_Apron_Quest_430e8140:
 
-#     # "You follow Cane into the closet room. He picks up the apron you used to work from the dusty floor and shows it to you."
-#     ""
+    # "You follow Cane into the closet room. He picks up the apron you used to work from the dusty floor and shows it to you."
+    "你跟随他走进储物室，他打开衣柜，从布满灰尘的柜底捡起你工作时穿的围裙，亮在你面前。"
 
-# translate schinese Cane_Apron_Quest_eea4911b:
+translate schinese Cane_Apron_Quest_eea4911b:
 
-#     # c "Ya see the problem here?"
-#     c ""
+    # c "Ya see the problem here?"
+    c "你自己瞅瞅，发现什么问题没有。"
 
-# translate schinese Cane_Apron_Quest_fdc9949b:
+translate schinese Cane_Apron_Quest_fdc9949b:
 
-#     # e "Hmm... I don't. W-wait... there's a hole in the apron now."
-#     e ""
+    # e "Hmm... I don't. W-wait... there's a hole in the apron now."
+    e "……哪有什么问题。啊……围裙上有个破洞。"
 
-# translate schinese Cane_Apron_Quest_4957478b:
+translate schinese Cane_Apron_Quest_4957478b:
 
-#     # c "Yes ya dickhead. Ya broke my apron. T'is the only apron I have and ya broke it bad."
-#     c ""
+    # c "Yes ya dickhead. Ya broke my apron. T'is the only apron I have and ya broke it bad."
+    c "没错，大傻瓜。你弄坏了我的围裙。我就只有这一条，而你却把它弄成阵惨样。"
 
-# translate schinese Cane_Apron_Quest_cbfc644e:
+translate schinese Cane_Apron_Quest_cbfc644e:
 
-#     # e "I swear the last time I worked, it looked fine to me. Are you sure no one else touched it?"
-#     e ""
+    # e "I swear the last time I worked, it looked fine to me. Are you sure no one else touched it?"
+    e "上回我工作完放回去的时候它还没破，我发誓。会不会是其他人弄的？"
 
-# translate schinese Cane_Apron_Quest_0125d977:
+translate schinese Cane_Apron_Quest_0125d977:
 
-#     # c "Ya think I broke it? Poked a hole in it like how yer shop friends poke yer hole every night? Only ya have touched it son."
-#     c ""
+    # c "Ya think I broke it? Poked a hole in it like how yer shop friends poke yer hole every night? Only ya have touched it son."
+    c "你觉得是我弄的？我才不会像你那当铺炮友每天晚上乱捅你的洞一样，闲得发慌乱捅衣服。只有你挨过这条围裙，娃娃。"
 
-# translate schinese Cane_Apron_Quest_3045e0ca:
+translate schinese Cane_Apron_Quest_3045e0ca:
 
-#     # e "Uh... I didn't know... I'm so sorry."
-#     e ""
+    # e "Uh... I didn't know... I'm so sorry."
+    e "呃……我不知道我……非常对不起。"
 
-# translate schinese Cane_Apron_Quest_0e317473:
+translate schinese Cane_Apron_Quest_0e317473:
 
-#     # c "Ye... Well. I reckon yer not gonna have an apron when ya work."
-#     c ""
+    # c "Ye... Well. I reckon yer not gonna have an apron when ya work."
+    c "哎……以后你就穿你自己的衣服打工吧。"
 
-# translate schinese Cane_Apron_Quest_1bae8ad1:
+translate schinese Cane_Apron_Quest_1bae8ad1:
 
-#     # e "But... I thought your patrons liked the apron?"
-#     e ""
+    # e "But... I thought your patrons liked the apron?"
+    e "可是……顾客们不是很喜欢这件围裙吗？"
 
-# translate schinese Cane_Apron_Quest_5217820e:
+translate schinese Cane_Apron_Quest_5217820e:
 
-#     # c "Aye, that's why I ain't gonna let you destroy it more. I'm putting it away until the end of time."
-#     c ""
+    # c "Aye, that's why I ain't gonna let you destroy it more. I'm putting it away until the end of time."
+    c "所以我得防着你把它搞得更破，直到宇宙毁灭我也不会再拿出来。"
 
-# translate schinese Cane_Apron_Quest_50f49204:
+translate schinese Cane_Apron_Quest_50f49204:
 
-#     # e "Hey, Cane. I thought of a way to fix... the apron. Rahim, I'm sure he knows how to fix a hole easily."
-#     e ""
+    # e "Hey, Cane. I thought of a way to fix... the apron. Rahim, I'm sure he knows how to fix a hole easily."
+    e "嘿，我知道该怎么办了……我们可以找雷希姆帮忙，他肯定可以很快补好围裙的。"
 
-# translate schinese Cane_Apron_Quest_d0088566:
+translate schinese Cane_Apron_Quest_d0088566:
 
-#     # c "...No. Don't do it."
-#     c ""
+    # c "...No. Don't do it."
+    c "……不，不能找他。"
 
-# translate schinese Cane_Apron_Quest_e4441b97:
+translate schinese Cane_Apron_Quest_e4441b97:
 
-#     # e "How about I take it to him? I'll explain to him that it's my apron."
-#     e ""
+    # e "How about I take it to him? I'll explain to him that it's my apron."
+    e "那我帮你拿给他怎么样？我会说这是我的围裙。"
 
-# translate schinese Cane_Apron_Quest_3e2fc7d1:
+translate schinese Cane_Apron_Quest_3e2fc7d1:
 
-#     # c "He made the apron, ya cronky head. I can't take it to its maker who fooking hated me for no reason."
-#     c ""
+    # c "He made the apron, ya cronky head. I can't take it to its maker who fooking hated me for no reason."
+    c "这条围裙就是雷希姆做的，傻瓜。他无缘无故恨我，叫我怎么找他帮忙。"
 
-# translate schinese Cane_Apron_Quest_3350ee3f:
+translate schinese Cane_Apron_Quest_3350ee3f:
 
-#     # e "I... You have to fix it one way or another. Do you really want to bring this secret to your grave?"
-#     e ""
+    # e "I... You have to fix it one way or another. Do you really want to bring this secret to your grave?"
+    e "我……这件围裙不可能就这么不管吧。你非要和他老死不相往来吗？"
 
-# translate schinese Cane_Apron_Quest_38f241db:
+translate schinese Cane_Apron_Quest_38f241db:
 
-#     # c "Let it rest. It's ancient history."
-#     c ""
+    # c "Let it rest. It's ancient history."
+    c "事情已经过去太久了，就让它这样吧。"
 
-# translate schinese Cane_Apron_Quest_0d99119f:
+translate schinese Cane_Apron_Quest_0d99119f:
 
-#     # e "Is it really that hard?"
-#     e ""
+    # e "Is it really that hard?"
+    e "面子真就那么重要吗？"
 
-# translate schinese Cane_Apron_Quest_d19f855d:
+translate schinese Cane_Apron_Quest_d19f855d:
 
-#     # c "..."
-#     c ""
+    # c "..."
+    c "……"
 
-# translate schinese Cane_Apron_Quest_5f7fb295:
+translate schinese Cane_Apron_Quest_5f7fb295:
 
-#     # c "Ya spoke like the finest lad I've met."
-#     c ""
+    # c "Ya spoke like the finest lad I've met."
+    c "你这口气，和他一模一样。"
 
-# translate schinese Cane_Apron_Quest_ea4bc82b:
+translate schinese Cane_Apron_Quest_ea4bc82b:
 
-#     # e "Whoo?"
-#     e ""
+    # e "Whoo?"
+    e "谁？"
 
-# translate schinese Cane_Apron_Quest_c9668ba0:
+translate schinese Cane_Apron_Quest_c9668ba0:
 
-#     # c "The one who that fat bull made this apron for."
-#     c ""
+    # c "The one who that fat bull made this apron for."
+    c "这条围裙原本的主人。原本这件围裙就是雷希姆做给他的。他是我心目中最棒的小伙。"
 
-# translate schinese Cane_Apron_Quest_ef85acb8:
+translate schinese Cane_Apron_Quest_ef85acb8:
 
-#     # e "Stop distracting me again..."
-#     e ""
+    # e "Stop distracting me again..."
+    e "能不能别再转移话题……"
 
-# translate schinese Cane_Apron_Quest_ac22fca4:
+translate schinese Cane_Apron_Quest_ac22fca4:
 
-#     # c "It's true. I don't always get this unstoppable energy of young boys. But ya both took it to another level."
-#     c ""
+    # c "It's true. I don't always get this unstoppable energy of young boys. But ya both took it to another level."
+    c "我没骗你。你们两个年轻人都血气方刚，也都喜欢刚过头。"
 
-# translate schinese Cane_Apron_Quest_ad43b1b5:
+translate schinese Cane_Apron_Quest_ad43b1b5:
 
-#     # c "That lad. I took him in during a thunderstorm."
-#     c ""
+    # c "That lad. I took him in during a thunderstorm."
+    c "一场雷雨中，我把他带进酒馆。"
 
-# translate schinese Cane_Apron_Quest_b2f70962:
+translate schinese Cane_Apron_Quest_b2f70962:
 
-#     # c "He was the greatest, the most passionate and generous being that I've ever seen."
-#     c ""
+    # c "He was the greatest, the most passionate and generous being that I've ever seen."
+    c "他是我见过最优秀、最热心、最慷慨的人，可惜了。"
 
-# translate schinese Cane_Apron_Quest_5083b416:
+translate schinese Cane_Apron_Quest_5083b416:
 
-#     # e "Was...? Uh... I'm sorry-"
-#     e ""
+    # e "Was...? Uh... I'm sorry-"
+    e "难道……？啊……节哀顺变——"
 
-# translate schinese Cane_Apron_Quest_eb1c30a8:
+translate schinese Cane_Apron_Quest_eb1c30a8:
 
-#     # c "He's still alive, at least the last I've heard of. He used to be like you. But... the tavern, it corrupted him."
-#     c ""
+    # c "He's still alive, at least the last I've heard of. He used to be like you. But... the tavern, it corrupted him."
+    c "他还活着，至少我没听说过他的死讯。他曾经就像你一样单纯，但我的酒馆……腐蚀了他的心智。"
 
-# translate schinese Cane_Apron_Quest_ed2bef55:
+translate schinese Cane_Apron_Quest_ed2bef55:
 
-#     # e "Hmm... H-how?"
-#     e ""
+    # e "Hmm... H-how?"
+    e "这……为什么呢？"
 
-# translate schinese Cane_Apron_Quest_d5fbfc21:
+translate schinese Cane_Apron_Quest_d5fbfc21:
 
-#     # c "It's me. Those little ten years he's spent here. I've made him this way.."
-#     c ""
+    # c "It's me. Those little ten years he's spent here. I've made him this way.."
+    c "都怪我。怪我让他待在酒馆，仅仅十年他就变成了那样……"
 
-# translate schinese Cane_Apron_Quest_a5660b9a:
+translate schinese Cane_Apron_Quest_a5660b9a:
 
-#     # e "Hey... Cane. What are you talking about."
-#     e ""
+    # e "Hey... Cane. What are you talking about."
+    e "……凯恩，我不懂你在说什么。"
 
-# translate schinese Cane_Apron_Quest_16098242:
+translate schinese Cane_Apron_Quest_16098242:
 
-#     # "Cane sighs, looking at the ceiling, he ponders for a second, you can feel his sorrow even when he doesn't shed a tear."
-#     ""
+    # "Cane sighs, looking at the ceiling, he ponders for a second, you can feel his sorrow even when he doesn't shed a tear."
+    "凯恩叹了口气，若有所思地盯着天花板。即使他没有流泪，你也能感受到那溢出的悲伤。"
 
-# translate schinese Cane_Apron_Quest_821531a8:
+translate schinese Cane_Apron_Quest_821531a8:
 
-#     # c "I made him like me. The gluttonous, selfish me."
-#     c ""
+    # c "I made him like me. The gluttonous, selfish me."
+    c "是我把他教成了另一个我，贪心、自私的我。"
 
-# translate schinese Cane_Apron_Quest_ad434ebf:
+translate schinese Cane_Apron_Quest_ad434ebf:
 
-#     # c "The lad, he's gone, long before he actually left the village. But the apron, it's still something to reminisce, at least I reckon."
-#     c ""
+    # c "The lad, he's gone, long before he actually left the village. But the apron, it's still something to reminisce, at least I reckon."
+    c "他很早之前就已经不是原来的自己了，之后他人也离开了乐村。但我至少还有这条围裙可以怀念他。"
 
-# translate schinese Cane_Apron_Quest_6c4f6682:
+translate schinese Cane_Apron_Quest_6c4f6682:
 
-#     # e "It must mean a lot to you."
-#     e ""
+    # e "It must mean a lot to you."
+    e "这条围裙一定对你意义重大。"
 
-# translate schinese Cane_Apron_Quest_5f6cecea:
+translate schinese Cane_Apron_Quest_5f6cecea:
 
-#     # c "Yes... I am who I am, [e]. That ya can't change."
-#     c ""
+    # c "Yes... I am who I am, [e]. That ya can't change."
+    c "是的……这就是我，[e]。江山易改本性难移。"
 
-# translate schinese Cane_Apron_Quest_d19f855d_1:
+translate schinese Cane_Apron_Quest_d19f855d_1:
 
-#     # c "..."
-#     c ""
+    # c "..."
+    c "……"
 
-# translate schinese Cane_Apron_Quest_c462df8d:
+translate schinese Cane_Apron_Quest_c462df8d:
 
-#     # c "Take the apron to him."
-#     c ""
+    # c "Take the apron to him."
+    c "把围裙拿去给雷希姆补补吧。"
 
-# translate schinese Cane_Apron_Quest_dabe232f:
+translate schinese Cane_Apron_Quest_dabe232f:
 
-#     # e "Wait... really?"
-#     e ""
+    # e "Wait... really?"
+    e "啊……真的吗？"
 
-# translate schinese Cane_Apron_Quest_d3a1b47a:
+translate schinese Cane_Apron_Quest_d3a1b47a:
 
-#     # c "Well were ya not insisting on licking his cock like a few minutes ago? Go take this dang apron to him."
-#     c ""
+    # c "Well were ya not insisting on licking his cock like a few minutes ago? Go take this dang apron to him."
+    c "你几分钟前不是还坚持要舔他鸡巴示好？快，拿去给他。"
 
-# translate schinese Cane_Apron_Quest_15ae1031:
+translate schinese Cane_Apron_Quest_15ae1031:
 
-#     # c "Hey, I got an idea. Wanna take another bet with me?"
-#     c ""
+    # c "Hey, I got an idea. Wanna take another bet with me?"
+    c "嘿，不如我们打个赌？"
 
-# translate schinese Cane_Apron_Quest_a3a74ed9:
+translate schinese Cane_Apron_Quest_a3a74ed9:
 
-#     # e "What? Cane are you drunk?"
-#     e ""
+    # e "What? Cane are you drunk?"
+    e "什么？凯恩，你是不是喝醉了？"
 
-# translate schinese Cane_Apron_Quest_4e97f1f2:
+translate schinese Cane_Apron_Quest_4e97f1f2:
 
-#     # c "Ya cowardly ass didn't even take one before, it's time. Say yes."
-#     c ""
+    # c "Ya cowardly ass didn't even take one before, it's time. Say yes."
+    c "你个胆小鬼之前都不敢和我玩。这回我们赌定了。"
 
-# translate schinese Cane_Apron_Quest_40fc2269:
+translate schinese Cane_Apron_Quest_40fc2269:
 
-#     # c "This time it's different, yer not betting on yerself, this is too easy."
-#     c ""
+    # c "This time it's different, yer not betting on yerself, this is too easy."
+    c "这次和之前不同，我们不赌你会怎样。够便宜你了吧。"
 
-# translate schinese Cane_Apron_Quest_e258fe53:
+translate schinese Cane_Apron_Quest_e258fe53:
 
-#     # e "Uhhh... What's the bet...?"
-#     e ""
+    # e "Uhhh... What's the bet...?"
+    e "呃……那要赌什么……？"
 
-# translate schinese Cane_Apron_Quest_b951b910:
+translate schinese Cane_Apron_Quest_b951b910:
 
-#     # c "You think he would come back?"
-#     c ""
+    # c "You think he would come back?"
+    c "你觉得他，会回来乐村吗？"
 
-# translate schinese Cane_Apron_Quest_3be6d530:
+translate schinese Cane_Apron_Quest_3be6d530:
 
-#     # c "I'll let ya ass decide, whatcha bet for 100 gold." nointeract
-#     c "" nointeract
+    # c "I'll let ya ass decide, whatcha bet for 100 gold." nointeract
+    c "赌 100 块钱，你来决定。" nointeract
 
-# translate schinese Cane_Apron_Quest_67959dd9:
+translate schinese Cane_Apron_Quest_67959dd9:
 
-#     # e "I'm sure he'd come back for you, Cane."
-#     e ""
+    # e "I'm sure he'd come back for you, Cane."
+    e "我相信他会回来。"
 
-# translate schinese Cane_Apron_Quest_48f5d9cf:
+translate schinese Cane_Apron_Quest_48f5d9cf:
 
-#     # c "Ya think so? I've been preparing the apron for him."
-#     c ""
+    # c "Ya think so? I've been preparing the apron for him."
+    c "真的？我一直为他留着这条围裙哩。"
 
-# translate schinese Cane_Apron_Quest_a5b9de31:
+translate schinese Cane_Apron_Quest_a5b9de31:
 
-#     # e "I just want you to be hopeful."
-#     e ""
+    # e "I just want you to be hopeful."
+    e "我只是想让你保持希望。"
 
-# translate schinese Cane_Apron_Quest_14d59a4d:
+translate schinese Cane_Apron_Quest_14d59a4d:
 
-#     # c "I'd have picked the same choice. I missed that lad so much."
-#     c ""
+    # c "I'd have picked the same choice. I missed that lad so much."
+    c "换做我也赌他会回来。我忒想念他了。"
 
-# translate schinese Cane_Apron_Quest_3d20cc48:
+translate schinese Cane_Apron_Quest_3d20cc48:
 
-#     # e "Cane... you need to let him go... I don't think he's ever coming back."
-#     e ""
+    # e "Cane... you need to let him go... I don't think he's ever coming back."
+    e "凯恩……你得学会放下……我觉得他不会再回来了。"
 
-# translate schinese Cane_Apron_Quest_34ae8156:
+translate schinese Cane_Apron_Quest_34ae8156:
 
-#     # c "Huh...? Why not?"
-#     c ""
+    # c "Huh...? Why not?"
+    c "哼？为什么？"
 
-# translate schinese Cane_Apron_Quest_5339cbbd:
+translate schinese Cane_Apron_Quest_5339cbbd:
 
-#     # e "You said it yourself, that version of him you liked, was gone long before he left."
-#     e ""
+    # e "You said it yourself, that version of him you liked, was gone long before he left."
+    e "就像你说的，原本的他已经一去不复返。"
 
-# translate schinese Cane_Apron_Quest_582193ba:
+translate schinese Cane_Apron_Quest_582193ba:
 
-#     # c "Whatcha know about him anyway."
-#     c ""
+    # c "Whatcha know about him anyway."
+    c "你懂个屁。"
 
-# translate schinese Cane_Apron_Quest_ef7f2577:
+translate schinese Cane_Apron_Quest_ef7f2577:
 
-#     # c "However, I respect yer bet integrity."
-#     c ""
+    # c "However, I respect yer bet integrity."
+    c "也罢，赌约神圣不可侵犯。"
 
-# translate schinese Cane_Apron_Quest_023e6eca:
+translate schinese Cane_Apron_Quest_023e6eca:
 
-#     # e "So... what should I do now?"
-#     e ""
+    # e "So... what should I do now?"
+    e "那……我现在该干什么？"
 
-# translate schinese Cane_Apron_Quest_c5c48ee2:
+translate schinese Cane_Apron_Quest_c5c48ee2:
 
-#     # c "Take ya apron. Tell that old fart I need a fix. Most probably he will rip the apron up like the old farty bull he is."
-#     c ""
+    # c "Take ya apron. Tell that old fart I need a fix. Most probably he will rip the apron up like the old farty bull he is."
+    c "去找雷希姆，告诉那头老倔牛是我请他补好这件围裙。"
+    c "虽然他很可能会直接撕烂围裙，毕竟他到底是头老倔牛。"
 
-# translate schinese Cane_Apron_Quest_0068d11c:
+translate schinese Cane_Apron_Quest_0068d11c:
 
-#     # e "Hmm... Ok. I'll let him know."
-#     e ""
+    # e "Hmm... Ok. I'll let him know."
+    e "好……我会去问问他的。"
 
-# translate schinese Cane_Apron_Quest_faf83351:
+translate schinese Cane_Apron_Quest_faf83351:
 
-#     # c "And remember the bet between me and ya, sleazy ass."
-#     c ""
+    # c "And remember the bet between me and ya, sleazy ass."
+    c "也别忘了我们的赌约，小浪蛋。"
 
 # translate schinese Cane_Sebas_Tavern_Night_af64c90b:
 
@@ -5729,240 +5738,242 @@ translate schinese strings:
 #     # "You blush as red as a tomato."
 #     ""
 
-# translate schinese Cane_Apron_Quest_End_43e8b76a:
+translate schinese Cane_Apron_Quest_End_43e8b76a:
 
-#     # e "Hey... Cane. I've got your apron back, and no... he didn't rip it apart."
-#     e ""
+    # e "Hey... Cane. I've got your apron back, and no... he didn't rip it apart."
+    e "嘿……凯恩，围裙补好了，而且……没有被雷叔撕碎。"
 
-# translate schinese Cane_Apron_Quest_End_679e952f:
+translate schinese Cane_Apron_Quest_End_679e952f:
 
-#     # c "Ya got the apron? For real?"
-#     c ""
+    # c "Ya got the apron? For real?"
+    c "真的？拿来给我看看。"
 
-# translate schinese Cane_Apron_Quest_End_8a551634:
+translate schinese Cane_Apron_Quest_End_8a551634:
 
-#     # c "Oh... look at this beautiful boy. All brand new. Yer the best laddity lad out there."
-#     c ""
+    # c "Oh... look at this beautiful boy. All brand new. Yer the best laddity lad out there."
+    c "噢……瞧瞧这个极品多齐整，简直跟新的一样。[e]，你就是乐村最伙的小伙。"
 
-# translate schinese Cane_Apron_Quest_End_a363a796:
+translate schinese Cane_Apron_Quest_End_a363a796:
 
-#     # e "What... does that mean?"
-#     e ""
+    # e "What... does that mean?"
+    e "什么叫……最伙的小伙？"
 
-# translate schinese Cane_Apron_Quest_End_c24879c3:
+translate schinese Cane_Apron_Quest_End_c24879c3:
 
-#     # c "Well I don't know. Since you're working in my place, I might as well give yer ass the apron you need!"
-#     c ""
+    # c "Well I don't know. Since you're working in my place, I might as well give yer ass the apron you need!"
+    c "哈，随口说说而已。既然你的大蜜桃还要接着为我打工，这套衣服不妨送给你了！"
 
-# translate schinese Cane_Apron_Quest_End_60f08cdb:
+translate schinese Cane_Apron_Quest_End_60f08cdb:
 
-#     # e "I thought you were leaving the apron for your guy."
-#     e ""
+    # e "I thought you were leaving the apron for your guy."
+    e "我还以为你真要藏起来留给你之前的服务员。"
 
-# translate schinese Cane_Apron_Quest_End_a0969aca:
+translate schinese Cane_Apron_Quest_End_a0969aca:
 
-#     # c "I've been waiting for what? 4 years? No, he's not coming back, and I shouldn't waste my time waiting."
-#     c ""
+    # c "I've been waiting for what? 4 years? No, he's not coming back, and I shouldn't waste my time waiting."
+    c "他已经多久没消息？四年了吧？既然他不会再回来，我也不该白白空等。"
 
-# translate schinese Cane_Apron_Quest_End_e138317b:
+translate schinese Cane_Apron_Quest_End_e138317b:
 
-#     # c "Plus, I've got a much better substitute. Right here and then. No lie. Yer the best second finest lad I've had out there."
-#     c ""
+    # c "Plus, I've got a much better substitute. Right here and then. No lie. Yer the best second finest lad I've had out there."
+    c "再说了，此时此刻就有一个更好的替补站在我面前。不是哄你，你就是我这世上第二棒小伙。"
 
-# translate schinese Cane_Apron_Quest_End_bebdde80:
+translate schinese Cane_Apron_Quest_End_bebdde80:
 
-#     # e "What about the bet?"
-#     e ""
+    # e "What about the bet?"
+    e "我们的赌约要怎么办？"
 
-# translate schinese Cane_Apron_Quest_End_3b641db6:
+translate schinese Cane_Apron_Quest_End_3b641db6:
 
-#     # c "Ye, ye. Yer bet continues regardless of what I think, eh? Just take the apron."
-#     c ""
+    # c "Ye, ye. Yer bet continues regardless of what I think, eh? Just take the apron."
+    c "诶，我咋想的又不能改变结果。赌约不变，收下这条围裙吧。"
 
-# translate schinese Cane_Apron_Quest_End_f425d7a0:
+translate schinese Cane_Apron_Quest_End_f425d7a0:
 
-#     # e "Thank you so much for the apron, Cane. I'd surely be hoping to meet your expectation of... uhh.. finest lad."
-#     e ""
+    # e "Thank you so much for the apron, Cane. I'd surely be hoping to meet your expectation of... uhh.. finest lad."
+    e "那我就恭敬不如从命了，凯恩。我一定会努力去做你的……呃……棒小伙。"
 
-# translate schinese Cane_Apron_Quest_End_7383137d:
+translate schinese Cane_Apron_Quest_End_7383137d:
 
-#     # c "Ya know what... It's actually funny, I blamed ya for breaking the apron. But it's me, I was taking it out to do the laundry. But it got torn by the door handle over there."
-#     c ""
+    # c "Ya know what... It's actually funny, I blamed ya for breaking the apron. But it's me, I was taking it out to do the laundry. But it got torn by the door handle over there."
+    c "还有……其实围裙是我弄坏的，我骗了你。我本来想拿它去洗，但不小心勾到门把手扯出个洞。"
 
-# translate schinese Cane_Apron_Quest_End_fa685f40:
+translate schinese Cane_Apron_Quest_End_fa685f40:
 
-#     # e "I knew it... that's why I had no idea it was torn when I worked here."
-#     e ""
+    # e "I knew it... that's why I had no idea it was torn when I worked here."
+    e "我一开始就知道不是我……因为我工作完放回去的时候还好好的。"
 
-# translate schinese Cane_Apron_Quest_End_a1bb6838:
+translate schinese Cane_Apron_Quest_End_a1bb6838:
 
-#     # c "Ya can blame me for whatever happens here, it's fair game."
-#     c ""
+    # c "Ya can blame me for whatever happens here, it's fair game."
+    c "你想怎么怪我都行，我理亏。"
 
-# translate schinese Cane_Apron_Quest_End_29fc1fcb:
+translate schinese Cane_Apron_Quest_End_29fc1fcb:
 
-#     # e "It's fine."
-#     e ""
+    # e "It's fine."
+    e "没事，我不怪你。"
 
-# translate schinese Cane_Apron_Quest_End_879766b6:
+translate schinese Cane_Apron_Quest_End_879766b6:
 
-#     # c "Ha, yer already like thousand times better than when he left the place. That lad, I treated him like my own son."
-#     c ""
+    # c "Ha, yer already like thousand times better than when he left the place. That lad, I treated him like my own son."
+    c "哈，我的棒小伙，你比他离开的时候好上一千倍。想当年我还把他当成自己的儿子。"
 
-# translate schinese Cane_Apron_Quest_End_7f254f7d:
+translate schinese Cane_Apron_Quest_End_7f254f7d:
 
-#     # c "You'd never imagine, he was 14 when he first worked here. No family, just him alone in the village, he lived in one of my room over there."
-#     c ""
+    # c "You'd never imagine, he was 14 when he first worked here. No family, just him alone in the village, he lived in one of my room over there."
+    c "你肯定想不到，他第一次在夜夜椿工作的时候只有 14 岁。那时他孤身一人没爸没妈，我让他住进顶上的房间。"
 
-# translate schinese Cane_Apron_Quest_End_eb6a0d62:
+translate schinese Cane_Apron_Quest_End_eb6a0d62:
 
-#     # "Cane points to the guest room on the second floor, it seems to be much fancier than the other room, with a shade of a sign on the door that was once mounted."
-#     ""
+    # "Cane points to the guest room on the second floor, it seems to be much fancier than the other room, with a shade of a sign on the door that was once mounted."
+    "凯恩指了指二楼的客房，那个房间要比其他普通客房豪华得多，而且门上还留着门牌安装的痕迹。"
 
-# translate schinese Cane_Apron_Quest_End_7ae0ce56:
+translate schinese Cane_Apron_Quest_End_7ae0ce56:
 
-#     # c "He was someone like a humble, and loving person when he first worked for tavern. And I, eh. I was so relieved to have a helping hand delivering the dishes."
-#     c ""
+    # c "He was someone like a humble, and loving person when he first worked for tavern. And I, eh. I was so relieved to have a helping hand delivering the dishes."
+    c "一开始他也是个特别有礼貌有爱心的人。然后，呃，有他帮我端酒送菜，我轻松了好多。"
 
-# translate schinese Cane_Apron_Quest_End_d869454f:
+translate schinese Cane_Apron_Quest_End_d869454f:
 
-#     # c "I asked the old bull to make something that he'd like, on his birthday. Well of course, he made him a perfect-fit apron on the fly. That lad liked it."
-#     c ""
+    # c "I asked the old bull to make something that he'd like, on his birthday. Well of course, he made him a perfect-fit apron on the fly. That lad liked it."
+    c "所以我请雷希姆即兴给他定制一份礼物，在他生日那天送给了他。就是这条与他完美般配的围裙，他可喜欢了。"
 
-# translate schinese Cane_Apron_Quest_End_37505122:
+translate schinese Cane_Apron_Quest_End_37505122:
 
-#     # e "The apron, it fits me as well...?"
-#     e ""
+    # e "The apron, it fits me as well...?"
+    e "这条围裙我也非常合穿……？"
 
-# translate schinese Cane_Apron_Quest_End_f6e3caa1:
+translate schinese Cane_Apron_Quest_End_f6e3caa1:
 
-#     # c "Yeah. yeah it does. He liked the apron so much, that during those 10 years, he never spilt anything, or poked a hole in it. He was so careful and gentle with it."
-#     c ""
+    # c "Yeah. yeah it does. He liked the apron so much, that during those 10 years, he never spilt anything, or poked a hole in it. He was so careful and gentle with it."
+    c "嗯，是啊。他真的很珍惜这条围裙，十年里他没有让围裙溅上一滴酒，戳破一个洞，就差把围裙当宝贝供着。"
 
-# translate schinese Cane_Apron_Quest_End_54aafea2:
+translate schinese Cane_Apron_Quest_End_54aafea2:
 
-#     # c "But over time, he got used to the scent of the tavern, the gold-hungry, self-indulgent scent. And I felt I was losing control on him."
-#     c ""
+    # c "But over time, he got used to the scent of the tavern, the gold-hungry, self-indulgent scent. And I felt I was losing control on him."
+    c "可惜好景不长，酒馆爱财如命、酒池肉林的氛围渐渐地改变了他，我也越来越难管住他。"
 
-# translate schinese Cane_Apron_Quest_End_6b6d97f8:
+translate schinese Cane_Apron_Quest_End_6b6d97f8:
 
-#     # e "But... What made him leave the village?"
-#     e ""
+    # e "But... What made him leave the village?"
+    e "那他……为什么离开了乐村？"
 
-# translate schinese Cane_Apron_Quest_End_7ff81d38:
+translate schinese Cane_Apron_Quest_End_7ff81d38:
 
-#     # c "That one from the town, the inspector as they'd call him, he told the lad he'd get much more attention, much more money from working in the town. He instantly loved the idea."
-#     c ""
+    # c "That one from the town, the inspector as they'd call him, he told the lad he'd get much more attention, much more money from working in the town. He instantly loved the idea."
+    c "有一天乐村来了个城里人，大家都叫他大巡官。"
+    c "这个大巡官告诉我的小伙，如果他能到镇上工作就可以成为一代红人享尽荣华富贵。我的小伙一下迷上了这个主意。"
 
-# translate schinese Cane_Apron_Quest_End_ef1680df:
+translate schinese Cane_Apron_Quest_End_ef1680df:
 
-#     # c "But he didn't have the money. When he asked me for the gold to to apply for the job, I told him no. Because why would I? I wanted him to stay."
-#     c ""
+    # c "But he didn't have the money. When he asked me for the gold to to apply for the job, I told him no. Because why would I? I wanted him to stay."
+    c "但他需要一笔钱去应聘。于是他找我要钱，我没同意。"
+    c "我怎么可能同意，我想把他留在我身边。"
 
-# translate schinese Cane_Apron_Quest_End_bffa6f1b:
+translate schinese Cane_Apron_Quest_End_bffa6f1b:
 
-#     # c "He wouldn't listen, he didn't even talk to me again after that, he was just doing his job."
-#     c ""
+    # c "He wouldn't listen, he didn't even talk to me again after that, he was just doing his job."
+    c "可是他不听劝阻，甚至从那之后完全不理我了，只管埋头工作。"
 
-# translate schinese Cane_Apron_Quest_End_b91b2de6:
+translate schinese Cane_Apron_Quest_End_b91b2de6:
 
-#     # "I shouldn't care, but I did, I took away his gold, thinking he wouldn't dare to leave the tavern."
-#     ""
+    # "I shouldn't care, but I did, I took away his gold, thinking he wouldn't dare to leave the tavern."
+    c "我本不该干涉他自己的选择，但我还是忍不住，收走了他所有的金币，以为这样他就不敢离开我。"
 
-# translate schinese Cane_Apron_Quest_End_88055e7c:
+translate schinese Cane_Apron_Quest_End_88055e7c:
 
-#     # c "...I don't know what happened. But he got the money anyway. And he just vanished, one day before the goat tribe attacked the village."
-#     c ""
+    # c "...I don't know what happened. But he got the money anyway. And he just vanished, one day before the goat tribe attacked the village."
+    c "……不知道怎么的他还是凑够了钱，在山羊部落攻打乐村的前一天，彻底消失不见。"
 
-# translate schinese Cane_Apron_Quest_End_52ac0c00:
+translate schinese Cane_Apron_Quest_End_52ac0c00:
 
-#     # e "...What? Are you sure...? What happened to him?"
-#     e ""
+    # e "...What? Are you sure...? What happened to him?"
+    e "……啊？不是吧……？后来他怎么样了？"
 
-# translate schinese Cane_Apron_Quest_End_821fa4f9:
+translate schinese Cane_Apron_Quest_End_821fa4f9:
 
-#     # c "I don't know, I'd love to believe he wasn't the one helping with the raid on the goat wagon. But I don't know."
-#     c ""
+    # c "I don't know, I'd love to believe he wasn't the one helping with the raid on the goat wagon. But I don't know."
+    c "我不知道。我真的很想相信他不是袭击那驾马车的帮凶，他是清白的。但这一切只单单是巧合吗。"
 
-# translate schinese Cane_Apron_Quest_End_3df6dec1:
+translate schinese Cane_Apron_Quest_End_3df6dec1:
 
-#     # e "Is that... why you didn't tell Rahim about all of this?"
-#     e ""
+    # e "Is that... why you didn't tell Rahim about all of this?"
+    e "这……你为什么不把这些告诉雷叔？"
 
-# translate schinese Cane_Apron_Quest_End_2715cdc3:
+translate schinese Cane_Apron_Quest_End_2715cdc3:
 
-#     # c "He isn't the kind of lad that'd do this. I am. Everyone knows this. I didn't want to give him a bad name when he comes back eventually."
-#     c ""
+    # c "He isn't the kind of lad that'd do this. I am. Everyone knows this. I didn't want to give him a bad name when he comes back eventually."
+    c "我不想等他有一天回来的时候背上臭名。村里人人都知道他不是会做出那种事的人，而我这个奸诈的老蝙蝠是。"
 
-# translate schinese Cane_Apron_Quest_End_afd55807:
+translate schinese Cane_Apron_Quest_End_afd55807:
 
-#     # e "But... is he coming back?"
-#     e ""
+    # e "But... is he coming back?"
+    e "你还觉得……他会回来吗？"
 
-# translate schinese Cane_Apron_Quest_End_d19f855d:
+translate schinese Cane_Apron_Quest_End_d19f855d:
 
-#     # c "..."
-#     c ""
+    # c "..."
+    c "……"
 
-# translate schinese Cane_Apron_Quest_End_17c7e91e:
+translate schinese Cane_Apron_Quest_End_17c7e91e:
 
-#     # e "Cane... Can I give you a hug at least?"
-#     e ""
+    # e "Cane... Can I give you a hug at least?"
+    e "凯恩……让我抱抱你吧。"
 
-# translate schinese Cane_Apron_Quest_End_becb5789:
+translate schinese Cane_Apron_Quest_End_becb5789:
 
-#     # "You reach in, embracing his whole body, he's so tall that your head can only rest on his chest, while he leans in, burying his booze-scented face on your shoulder."
-#     ""
+    # "You reach in, embracing his whole body, he's so tall that your head can only rest on his chest, while he leans in, burying his booze-scented face on your shoulder."
+    "你向前环抱住凯恩的腰腹。他太高了，你的头只能靠在他的胸膛上。过了一会，他也将脸埋进你的肩膀，散发出淡淡的酒气。"
 
-# translate schinese Cane_Apron_Quest_End_8b6c73e7:
+translate schinese Cane_Apron_Quest_End_8b6c73e7:
 
-#     # c "Good lad."
-#     c ""
+    # c "Good lad."
+    c "好孩子。"
 
-# translate schinese Cane_Apron_Quest_End_f37d0883:
+translate schinese Cane_Apron_Quest_End_f37d0883:
 
-#     # "Slap!! You hear a huge smack on your buttock as Cane's hand finds his way to make the loudest sound possible."
-#     ""
+    # "Slap!! You hear a huge smack on your buttock as Cane's hand finds his way to make the loudest sound possible."
+    "啪！！凯恩知道怎样单手鼓掌能够发出最大的声响，那就是拍你背后两个大肉球。"
 
-# translate schinese Cane_Apron_Quest_End_edfad75a:
+translate schinese Cane_Apron_Quest_End_edfad75a:
 
-#     # "You gasped for a moment, couldn't even comprehend what just happened. Maybe Cane just has to ruin this heartfelt moment somehow."
-#     ""
+    # "You gasped for a moment, couldn't even comprehend what just happened. Maybe Cane just has to ruin this heartfelt moment somehow."
+    "你连连惊呼，甚至没能立即反应过来怎么回事。这个老色鬼顷刻毁掉了这煽情的时刻。"
 
-# translate schinese Cane_Apron_Quest_End_2179d396:
+translate schinese Cane_Apron_Quest_End_2179d396:
 
-#     # c "HAAA Gotcha."
-#     c ""
+    # c "HAAA Gotcha."
+    c "哈哈哈哈，没想到吧。"
 
-# translate schinese Cane_Apron_Quest_End_2989e603:
+translate schinese Cane_Apron_Quest_End_2989e603:
 
-#     # e "Hey, Cane. I thought you were sad."
-#     e ""
+    # e "Hey, Cane. I thought you were sad."
+    e "喂，我以为你在伤心呢。"
 
-# translate schinese Cane_Apron_Quest_End_a9fdd68b:
+translate schinese Cane_Apron_Quest_End_a9fdd68b:
 
-#     # c "Well, I'm fine now. Fine fiddity fine. Gotta get back to work like the good old bat I am."
-#     c ""
+    # c "Well, I'm fine now. Fine fiddity fine. Gotta get back to work like the good old bat I am."
+    c "拍拍更健康，现在我好得不能再好哩。顾客面前我总得做大家熟悉的老蝙蝠不是。"
 
-# translate schinese Cane_Apron_Quest_End_a122f272:
+translate schinese Cane_Apron_Quest_End_a122f272:
 
-#     # e "Hmm... I guess."
-#     e ""
+    # e "Hmm... I guess."
+    e "呃……行吧。"
 
-# translate schinese Cane_Apron_Quest_End_03379484:
+translate schinese Cane_Apron_Quest_End_03379484:
 
-#     # e "If you need any support, I'll be here for you."
-#     e ""
+    # e "If you need any support, I'll be here for you."
+    e "如果有什么需要帮忙，尽管找我。"
 
-# translate schinese Cane_Apron_Quest_End_00ade677:
+translate schinese Cane_Apron_Quest_End_00ade677:
 
-#     # c "Alright, finest lad, ya bet I'll come and ask ya to work for me again."
-#     c ""
+    # c "Alright, finest lad, ya bet I'll come and ask ya to work for me again."
+    c "那肯定的，棒小伙，我巴不得你多来酒馆打工。"
 
-# translate schinese Cane_Apron_Quest_End_910fe225:
+translate schinese Cane_Apron_Quest_End_910fe225:
 
-#     # msg "Quest Finished! You gained a level up point! Check your inventory to distribute your points!"
-#     msg ""
+    # msg "Quest Finished! You gained a level up point! Check your inventory to distribute your points!"
+    msg "任务完成！你已获得 1 属性点！请进入背包界面分配。"
 
 #完全猜错名字
 

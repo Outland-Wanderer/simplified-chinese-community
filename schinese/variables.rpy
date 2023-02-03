@@ -832,11 +832,11 @@ translate schinese strings:
     old "Furkan asked me to deliver a letter to Rahim as a signal of peace. I need to tell him about Rahim's Response."
     new "弗坎让我把一封议和信送给雷希姆。我得告诉他雷希姆的回应。"
 
-    # old "The Second Finest Lad"
-    # new "世界第二棒小伙"
+    old "The Second Finest Lad"
+    new "世界第二棒小伙"
 
-    # old "Cane's cherished apron was punctured, he asked me to take the apron to Rahim and see if he can fix the apron."
-    # new "凯恩珍爱的围裙破了个洞，他让我拿去给雷希姆看看能不能补好。"
+    old "Cane's cherished apron was punctured, he asked me to take the apron to Rahim and see if he can fix the apron."
+    new "凯恩珍爱的围裙破了个洞，他让我拿去给雷希姆看看能不能补好。"
 
     # old "Mutual Apothecary Arrangement"
     # new "药剂师的双边协定"
