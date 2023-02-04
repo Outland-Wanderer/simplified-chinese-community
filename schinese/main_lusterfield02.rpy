@@ -6305,7 +6305,7 @@ translate schinese Cane_NoMoney_e5c832b2:
 translate schinese Cane_NoMoney_7814d9f9:
 
     # c "It's only a few hours, if not, ya gonna pay double the price ya owed me. Just be our server for a while, what can it hurt ya?" nointeract
-    c "膺会服务员而已，顾客又不会吃了你。就几个钟头，赶趁的，不然你就要欠我双倍的钱。" nointeract
+    c "做会服务员而已，顾客又不会吃了你。就几个钟头，赶趁的，不然你要欠我双倍的钱。" nointeract
 
 # translate schinese Cane_Outfit_02_c237210e:
 
@@ -6587,770 +6587,782 @@ translate schinese Cane_NoMoney_7814d9f9:
 #     # e "Hmm... Alright."
 #     e ""
 
-# translate schinese Cane_Serve_Later_8f110e74:
+translate schinese Cane_Serve_Later_8f110e74:
 
-#     # e "Ok. I'll take the job."
-#     e ""
+    # e "Ok. I'll take the job."
+    e "行。"
 
-# translate schinese Cane_Serve_Later_22173d3a:
+translate schinese Cane_Serve_Later_22173d3a:
 
-#     # c "Good, same as last time. Take yer monkey suit out and start serving."
-#     c ""
+    # c "Good, same as last time. Take yer monkey suit out and start serving."
+    c "很好，老样子，穿上制服开工吧。"
 
-# translate schinese Cane_Serve_Later_6da3e789:
+translate schinese Cane_Serve_Later_6da3e789:
 
-#     # "You pick up the apron from the closet room again, it seems less dusty than the last time. You put on your uniform and walk out of the counter."
-#     ""
+    # "You pick up the apron from the closet room again, it seems less dusty than the last time. You put on your uniform and walk out of the counter."
+    "你从衣柜拿出围裙和裤子，这回房间没有上次那么多灰尘了。你换上工装走出储物间，从柜台走向大厅。"
 
-# translate schinese Cane_Serve_Later_afd7e145:
+translate schinese Cane_Serve_Later_afd7e145:
 
-#     # "Cane looks back at you and grins widely."
-#     ""
+    # "Cane looks back at you and grins widely."
+    "凯恩回头看着你，眉开眼笑。"
 
-# translate schinese Cane_Serve_Later_d87780c1:
+translate schinese Cane_Serve_Later_d87780c1:
 
-#     # c "Ya liked stripping naked in front of everyone, eh?"
-#     c ""
+    # c "Ya liked stripping naked in front of everyone, eh?"
+    c "你就喜欢在公众场合当暴露狂，对吧？"
 
-# translate schinese Cane_Serve_Later_4d4cee6b:
+translate schinese Cane_Serve_Later_4d4cee6b:
 
-#     # e "Hey, Cane... I was just doing what your patrons asked."
-#     e ""
+    # e "Hey, Cane... I was just doing what your patrons asked."
+    e "嘿……我只是在满足顾客们的要求。"
 
-# translate schinese Cane_Serve_Later_685c601b:
+translate schinese Cane_Serve_Later_685c601b:
 
-#     # c "Ye ye. They're all perverts, didn't know yer one as well."
-#     c ""
+    # c "Ye ye. They're all perverts, didn't know yer one as well."
+    c "对对对，他们都是变态。但没想到你也是个变态。"
 
-# translate schinese Cane_Serve_Later_3de196ca:
+translate schinese Cane_Serve_Later_3de196ca:
 
-#     # e "Hmmph... I just didn't want to disappoint people, plus, you got more patrons coming to your tavern."
-#     e ""
+    # e "Hmmph... I just didn't want to disappoint people, plus, you got more patrons coming to your tavern."
+    e "呃……我只是不想让我们的主顾失望，而且我也帮你招揽了不少顾客不是。"
 
-# translate schinese Cane_Serve_Later_8d28d7ad:
+translate schinese Cane_Serve_Later_8d28d7ad:
 
-#     # c "Yer right. Ok. At least we can put the apron to rest or something now."
-#     c ""
+    # c "Yer right. Ok. At least we can put the apron to rest or something now."
+    c "这倒是。好吧，看来我可以把这套工装收起来了。"
 
-# translate schinese Cane_Serve_Later_9a11f9d3:
+translate schinese Cane_Serve_Later_9a11f9d3:
 
-#     # c "Ya don't even need to put on anything."
-#     c ""
+    # c "Ya don't even need to put on anything."
+    c "反正你工作的时候又不用穿衣服。"
 
-# translate schinese Cane_Serve_Later_41a2b89e:
+translate schinese Cane_Serve_Later_41a2b89e:
 
-#     # "Cane chuckles at your naked form, he is pleasantly surprised to say the least."
-#     ""
+    # "Cane chuckles at your naked form, he is pleasantly surprised to say the least."
+    "凯恩打量着你裸露的身体咯咯窃笑，期待与喜悦溢于言表。"
 
-# translate schinese Cane_Serve_Later_376edd1c:
+translate schinese Cane_Serve_Later_376edd1c:
 
-#     # "Maybe you really should think about working naked all the time..."
-#     ""
+    # "Maybe you really should think about working naked all the time..."
+    "或许你真的应该考虑考虑以后要不要保持这样招待客人……"
 
-# translate schinese Cane_Serve_Later_ede32842:
+translate schinese Cane_Serve_Later_ede32842:
 
-#     # c "Look, put on yer normal clothes when ya leave the tavern, eh?"
-#     c ""
+    # c "Look, put on yer normal clothes when ya leave the tavern, eh?"
+    c "[e]，出门的时候记得穿好衣服。"
 
-# translate schinese Cane_Serve_Later_0cca1ca7:
+translate schinese Cane_Serve_Later_0cca1ca7:
 
-#     # c "Not everyone loves a slutty server in the village."
-#     c ""
+    # c "Not everyone loves a slutty server in the village."
+    c "乐村不是谁都喜欢看见你放荡的模样哩。"
 
-# translate schinese Cane_Serve_Later_c2efb15f:
+translate schinese Cane_Serve_Later_c2efb15f:
 
-#     # c "...Not that I don't like yer style. I love it."
-#     c ""
+    # c "...Not that I don't like yer style. I love it."
+    c "……当然我除外。我就喜欢你啥都不穿。"
 
-# translate schinese Cane_Serve_Later_79229c58:
+translate schinese Cane_Serve_Later_79229c58:
 
-#     # e "Ohh... Cane."
-#     e ""
+    # e "Ohh... Cane."
+    e "呵……老色鬼。"
 
-# translate schinese Cane_Serve_Later_a34b4850:
+translate schinese Cane_Serve_Later_a34b4850:
 
-#     # c "Here's yer 150 gold. I've got so much more people here now thanks to yer fat juicy ass."
-#     c ""
+    # c "Here's yer 150 gold. I've got so much more people here now thanks to yer fat juicy ass."
+    c "150 金币，拿去吧。多亏你的大蜜桃招来了这么多客人。"
 
-# translate schinese Cane_Serve_Later_cf59e35f:
+translate schinese Cane_Serve_Later_cf59e35f:
 
-#     # e "That was... a lot."
-#     e ""
+    # e "That was... a lot."
+    e "这可……够多的。"
 
-# translate schinese Cane_Serve_Later_c1b534e6:
+translate schinese Cane_Serve_Later_c1b534e6:
 
-#     # c "Aye. As long as you keep working for me like this maybe yer ass will earn more."
-#     c ""
+    # c "Aye. As long as you keep working for me like this maybe yer ass will earn more."
+    c "诶，只要保持这样的干劲，你那两瓣可以为你挣更多钱。"
 
-# translate schinese Cane_Serve_Later_7536fa5a:
+translate schinese Cane_Serve_Later_7536fa5a:
 
-#     # e "O...ok then, I'll think about it! See you Cane."
-#     e ""
+    # e "O...ok then, I'll think about it! See you Cane."
+    e "好……吧，我会考虑一下的！那我去休息了。"
 
-# translate schinese Cane_Serve_Later_360f0bd6:
+translate schinese Cane_Serve_Later_360f0bd6:
 
-#     # c "Put on yer clothes first!"
-#     c ""
+    # c "Put on yer clothes first!"
+    c "记得先穿上衣服！"
 
-# translate schinese Cane_Serve_Later_88216e7b:
+translate schinese Cane_Serve_Later_88216e7b:
 
-#     # "Cane... he looks to be satisfied with your performance around the place."
-#     ""
+    # "Cane... he looks to be satisfied with your performance around the place."
+    "凯恩他……看起来很满意你的表现。"
 
-# translate schinese Cane_Serve_Later_0da5722f:
+translate schinese Cane_Serve_Later_0da5722f:
 
-#     # c "Good job, fine lad. Lemme see, 50 gold for you. Ye, that's it!"
-#     c ""
+    # c "Good job, fine lad. Lemme see, 50 gold for you. Ye, that's it!"
+    c "工作得很认真嘛，乖孩子。这 50 金币收好了！"
 
-# translate schinese Cane_Serve_Later_24f6be09:
+translate schinese Cane_Serve_Later_24f6be09:
 
-#     # e "Thanks, Cane."
-#     e ""
+    # e "Thanks, Cane."
+    e "谢谢老板。"
 
-# translate schinese Cane_Serve_Later_a713d752:
+translate schinese Cane_Serve_Later_a713d752:
 
-#     # c "The apron still looks good on ya. Come back more often and be my server for a few hours."
-#     c ""
+    # c "The apron still looks good on ya. Come back more often and be my server for a few hours."
+    c "你这身还是一如既往地养眼。常来帮我干活啊。"
 
-# translate schinese Cane_Serve_Later_90bc5d50:
+translate schinese Cane_Serve_Later_90bc5d50:
 
-#     # e "Ok... as long as I get paid."
-#     e ""
+    # e "Ok... as long as I get paid."
+    e "嗯……只要不少我工钱。"
 
-# translate schinese Cane_Serve_Later_3c571d5e:
+translate schinese Cane_Serve_Later_3c571d5e:
 
-#     # c "Same as always."
-#     c ""
+    # c "Same as always."
+    c "同工同酬。"
 
-# translate schinese Cane_Serve_Later_117d4c18:
+translate schinese Cane_Serve_Later_117d4c18:
 
-#     # e "Great, that's a promise now. See you Cane."
-#     e ""
+    # e "Great, that's a promise now. See you Cane."
+    e "那就说好咯。待会见，凯恩。"
 
-# translate schinese Cane_Serve_Later_98573fca:
+translate schinese Cane_Serve_Later_98573fca:
 
-#     # c "Ye ye."
-#     c ""
+    # c "Ye ye."
+    c "得嘞。"
 
-# translate schinese Cane_Serve_First_955b4701:
+translate schinese Cane_Serve_First_955b4701:
 
-#     # e "Yeah, alright, just a few hours."
-#     e ""
+    # e "Yeah, alright, just a few hours."
+    e "好吧好吧，四小时就四小时。"
 
-# translate schinese Cane_Serve_First_d3eb4ebf:
+translate schinese Cane_Serve_First_d3eb4ebf:
 
-#     # c "Ye, ye. Ya donk, ya think I'd scam yer arse out eh?"
-#     c ""
+    # c "Ye, ye. Ya donk, ya think I'd scam yer arse out eh?"
+    c "诶、诶，小淫娃，你以为我要拐走你的蜜穴不成？"
 
-# translate schinese Cane_Serve_First_1445f505:
+translate schinese Cane_Serve_First_1445f505:
 
-#     # e "No... Of course. So, how do I start?"
-#     e ""
+    # e "No... Of course. So, how do I start?"
+    e "当然没有……那我现在要干什么？"
 
-# translate schinese Cane_Serve_First_d9867cde:
+translate schinese Cane_Serve_First_d9867cde:
 
-#     # c "Ya go over there in the closet, get ya lil monkey suit out. And then come get me some order."
-#     c ""
+    # c "Ya go over there in the closet, get ya lil monkey suit out. And then come get me some order."
+    c "去那边的衣柜找套制服穿，然后过来帮我接单。"
 
-# translate schinese Cane_Serve_First_d3eabced:
+translate schinese Cane_Serve_First_d3eabced:
 
-#     # e "Hmm... what's the.. uh... suit?"
-#     e ""
+    # e "Hmm... what's the.. uh... suit?"
+    e "呃……什么……制服？"
 
-# translate schinese Cane_Serve_First_f21e6ad9:
+translate schinese Cane_Serve_First_f21e6ad9:
 
-#     # c "Don't worry. It's not exposing ya arse or something. Just an apron and a trouser for ya."
-#     c ""
+    # c "Don't worry. It's not exposing ya arse or something. Just an apron and a trouser for ya."
+    c "放心，只是一条围裙和裤子而已，不会露你哪里。"
 
-# translate schinese Cane_Serve_First_6eca412b:
+translate schinese Cane_Serve_First_6eca412b:
 
-#     # e "Oh... Thank god. I was worried I have to wear a literal monkey suit."
-#     e ""
+    # e "Oh... Thank god. I was worried I have to wear a literal monkey suit."
+    e "噢……谢天谢地。我以为你要我穿那种连体衣。"
 
-# translate schinese Cane_Serve_First_bbd3d80e:
+translate schinese Cane_Serve_First_bbd3d80e:
 
-#     # c "Ha, yer moron! Now get yer arse over to the closet before I take away yer trouser."
-#     c ""
+    # c "Ha, yer moron! Now get yer arse over to the closet before I take away yer trouser."
+    c "哈，小傻瓜！快去换吧，不然我就帮你脱裤子哩。"
 
-# translate schinese Cane_Serve_First_5fd10514:
+translate schinese Cane_Serve_First_5fd10514:
 
-#     # e "Ok..."
-#     e ""
+    # e "Ok..."
+    e "知道了……"
 
-# translate schinese Cane_Serve_First_c1465d7e:
+translate schinese Cane_Serve_First_c1465d7e:
 
-#     # "When you turn you back towards the closet room, Cane raised his hand and lightly slapped your butt."
-#     ""
+    # "When you turn you back towards the closet room, Cane raised his hand and lightly slapped your butt."
+    "你转身正准备走向衣柜所在的房间，凯恩抬手轻轻拍了一下你的屁股。"
 
-# translate schinese Cane_Serve_First_fb68f497:
+translate schinese Cane_Serve_First_fb68f497:
 
-#     # "You flinched at the bounce, you can only see Cane's creepy look in response when you look behind. You decide to ignore it and continue with your business."
-#     ""
+    # "You flinched at the bounce, you can only see Cane's creepy look in response when you look behind. You decide to ignore it and continue with your business."
+    "一掌下去肉墩弹弹，你被吓得往前闪开，回头却看见凯恩诡异的邪笑。你决定不理他，专心准备开工。"
 
-# translate schinese Cane_Serve_First_e1a702fd:
+translate schinese Cane_Serve_First_e1a702fd:
 
-#     # "As you open the closet door, you found a discarded apron and trouser on the floor. The room is dusty and probably hadn't been entered for a while."
-#     ""
+    # "As you open the closet door, you found a discarded apron and trouser on the floor. The room is dusty and probably hadn't been entered for a while."
+    "打开衣柜，你发现地板上散落着一套弃置的围裙和裤子。整个房间布满灰尘，看起来已经很长一段时间没人进来过了。"
 
-# translate schinese Cane_Serve_First_3d664d4d:
+translate schinese Cane_Serve_First_3d664d4d:
 
-#     # "You pick up the uniform, and pat away the dust. You begin putting them on yourself. Surprisingly they fit like a glove in your hand, but it doesn't seem to be what Cane would wear."
-#     ""
+    # "You pick up the uniform, and pat away the dust. You begin putting them on yourself. Surprisingly they fit like a glove in your hand, but it doesn't seem to be what Cane would wear."
+    "你捡起制服，拍去灰尘套了进去。不管是围裙还是裤子都出乎意料的合身，可这套制服并不像凯恩会穿的。"
 
-# translate schinese Cane_Serve_First_2d456b6c:
+translate schinese Cane_Serve_First_2d456b6c:
 
-#     # "You walk out of the closet and show Cane your new server outfit. He gesture you to turn around for him and you do so. You notice that the stitches of the clothes is exceptionally clean."
-#     ""
+    # "You walk out of the closet and show Cane your new server outfit. He gesture you to turn around for him and you do so. You notice that the stitches of the clothes is exceptionally clean."
+    "你走回柜台向凯恩展示，他看看正面让你转过身再看看反面，你则发现衣服布料的缝线特别干净利落。"
 
-# translate schinese Cane_Serve_First_f617345c:
+translate schinese Cane_Serve_First_f617345c:
 
-#     # "Moving in the outfit feels like a graceful prance, like you are meant to be inside the clothes. You see Cane chuckles for a bit, almost mesmerised, he is probably really satisfied with your look."
-#     ""
+    # "Moving in the outfit feels like a graceful prance, like you are meant to be inside the clothes. You see Cane chuckles for a bit, almost mesmerised, he is probably really satisfied with your look."
+    "这套工装像是专为你定制似的，穿上走起路来每一步都风度翩翩。凯恩笑逐颜开，被你崭新的模样深深迷住，你能看出他的确很满意。"
 
-# translate schinese Cane_Serve_First_557b076d:
+translate schinese Cane_Serve_First_557b076d:
 
-#     # c "Looking good, yer a fine lad now eh?"
-#     c ""
+    # c "Looking good, yer a fine lad now eh?"
+    c "瞧瞧，多精致一个小伙。"
 
-# translate schinese Cane_Serve_First_f2eda8c3:
+translate schinese Cane_Serve_First_f2eda8c3:
 
-#     # e "Your clothes, they feel really good to wear. And it fit me very well."
-#     e ""
+    # e "Your clothes, they feel really good to wear. And it fit me very well."
+    e "这套衣服真的很合身，穿着也很舒服。"
 
-# translate schinese Cane_Serve_First_c40c4090:
+translate schinese Cane_Serve_First_c40c4090:
 
-#     # c "Ye, ye. Clothes and stuff. It's been in that room for years now. So, why don't ya put yer arse to work."
-#     c ""
+    # c "Ye, ye. Clothes and stuff. It's been in that room for years now. So, why don't ya put yer arse to work."
+    c "那是自然，要说起来这套衣服已经在衣柜吃灰好几年了。"
+    c "现在快滚去工作吧，小淫娃。"
 
-# translate schinese Cane_Serve_First_7ac5483a:
+translate schinese Cane_Serve_First_7ac5483a:
 
-#     # e "Alright, I'll get some order now."
-#     e ""
+    # e "Alright, I'll get some order now."
+    e "好，我马上去接单。"
 
-# translate schinese Cane_Serve_First_77ebf5e5:
+translate schinese Cane_Serve_First_77ebf5e5:
 
-#     # c "Wait, lemme get something done."
-#     c ""
+    # c "Wait, lemme get something done."
+    c "等阵，我想先讲句话。"
 
-# translate schinese Cane_Serve_First_88656487:
+translate schinese Cane_Serve_First_88656487:
 
-#     # "Cane walks in front of you, he raises his hand and clap for a few times, everyone in the tavern seems to go silent immediately, looking back at Cane."
-#     ""
+    # "Cane walks in front of you, he raises his hand and clap for a few times, everyone in the tavern seems to go silent immediately, looking back at Cane."
+    "凯恩跨到你身前面朝大厅，举起双手鼓了鼓掌。原本喧嚣的酒馆一下子安静下来，大家齐刷刷看向你们这边。"
 
-# translate schinese Cane_Serve_First_6a123d0a:
+translate schinese Cane_Serve_First_6a123d0a:
 
-#     # c "Gentlemen, let me introduce my new server, [e]. He will be handling your request for the next few hours."
-#     c ""
+    # c "Gentlemen, let me introduce my new server, [e]. He will be handling your request for the next few hours."
+    c "各位客官，接下来有请我们的新服务生——[e]，招待大家一段时间。"
 
-# translate schinese Cane_Serve_First_26fe63fd:
+translate schinese Cane_Serve_First_26fe63fd:
 
-#     # "You look at the tavern owner in surprise, he is speaking in a completely different accent than you are used to. You scratch your head, and wave to the patron."
-#     ""
+    # "You look at the tavern owner in surprise, he is speaking in a completely different accent than you are used to. You scratch your head, and wave to the patron."
+    "平常口音浓重的酒馆老板话风突变，你惊讶地看着他，挠挠头朝顾客们挥手问好。"
 
-# translate schinese Cane_Serve_First_b5e8b817:
+translate schinese Cane_Serve_First_b5e8b817:
 
-#     # "Every one of the patron clapped probably the loudest they have ever been in their lives, some of them even chant with your name, screaming in celebration."
-#     ""
+    # "Every one of the patron clapped probably the loudest they have ever been in their lives, some of them even chant with your name, screaming in celebration."
+    "全场轰动，掌声雷鸣，每一位顾客都在鼓掌，这或许是他们这辈子最用力的一次。有些人甚至喊叫着你的名字，庆祝你的加入。"
 
-# translate schinese Cane_Serve_First_1a8b4404:
+translate schinese Cane_Serve_First_1a8b4404:
 
-#     # "You begin to walk towards the patron who raised their hand, and take your first order. You can almost hear other patron mumbling around you, talking something about the apron."
-#     ""
+    # "You begin to walk towards the patron who raised their hand, and take your first order. You can almost hear other patron mumbling around you, talking something about the apron."
+    "你走向举手示意的顾客，开始招待你的第一个客人。你隐约听到其他顾客在谈论自己，尤其是自己的围裙。"
 
-# translate schinese Cane_Serve_First_afd7e145:
+translate schinese Cane_Serve_First_afd7e145:
 
-#     # "Cane looks back at you and grins widely."
-#     ""
+    # "Cane looks back at you and grins widely."
+    "凯恩回头看着你，眉开眼笑。"
 
-# translate schinese Cane_Serve_First_d87780c1:
+translate schinese Cane_Serve_First_d87780c1:
 
-#     # c "Ya liked stripping naked in front of everyone, eh?"
-#     c ""
+    # c "Ya liked stripping naked in front of everyone, eh?"
+    c "你就喜欢在公众场合当暴露狂，对吧？"
 
-# translate schinese Cane_Serve_First_4d4cee6b:
+translate schinese Cane_Serve_First_4d4cee6b:
 
-#     # e "Hey, Cane... I was just doing what your patrons asked."
-#     e ""
+    # e "Hey, Cane... I was just doing what your patrons asked."
+    e "嘿……我只是在满足顾客们的要求。"
 
-# translate schinese Cane_Serve_First_685c601b:
+translate schinese Cane_Serve_First_685c601b:
 
-#     # c "Ye ye. They're all perverts, didn't know yer one as well."
-#     c ""
+    # c "Ye ye. They're all perverts, didn't know yer one as well."
+    c "对对对，他们都是变态。但没想到你也是个变态。"
 
-# translate schinese Cane_Serve_First_3de196ca:
+translate schinese Cane_Serve_First_3de196ca:
 
-#     # e "Hmmph... I just didn't want to disappoint people, plus, you got more patrons coming to your tavern."
-#     e ""
+    # e "Hmmph... I just didn't want to disappoint people, plus, you got more patrons coming to your tavern."
+    e "呃……我只是不想让我们的主顾失望，而且我也帮你招揽了不少顾客不是。"
 
-# translate schinese Cane_Serve_First_8d28d7ad:
+translate schinese Cane_Serve_First_8d28d7ad:
 
-#     # c "Yer right. Ok. At least we can put the apron to rest or something now."
-#     c ""
+    # c "Yer right. Ok. At least we can put the apron to rest or something now."
+    c "这倒是。好吧，看来我可以把这套工装收起来了。"
 
-# translate schinese Cane_Serve_First_9a11f9d3:
+translate schinese Cane_Serve_First_9a11f9d3:
 
-#     # c "Ya don't even need to put on anything."
-#     c ""
+    # c "Ya don't even need to put on anything."
+    c "反正你工作的时候又不用穿衣服。"
 
-# translate schinese Cane_Serve_First_41a2b89e:
+translate schinese Cane_Serve_First_41a2b89e:
 
-#     # "Cane chuckles at your naked form, he is pleasantly surprised to say the least."
-#     ""
+    # "Cane chuckles at your naked form, he is pleasantly surprised to say the least."
+    "凯恩打量着你裸露的身体咯咯窃笑，期待与喜悦溢于言表。"
 
-# translate schinese Cane_Serve_First_376edd1c:
+translate schinese Cane_Serve_First_376edd1c:
 
-#     # "Maybe you really should think about working naked all the time..."
-#     ""
+    # "Maybe you really should think about working naked all the time..."
+    "或许你真的应该考虑考虑以后要不要保持这样招待客人……"
 
-# translate schinese Cane_Serve_First_ede32842:
+translate schinese Cane_Serve_First_ede32842:
 
-#     # c "Look, put on yer normal clothes when ya leave the tavern, eh?"
-#     c ""
+    # c "Look, put on yer normal clothes when ya leave the tavern, eh?"
+    c "[e]，出门的时候记得穿好衣服。"
 
-# translate schinese Cane_Serve_First_0cca1ca7:
+translate schinese Cane_Serve_First_0cca1ca7:
 
-#     # c "Not everyone loves a slutty server in the village."
-#     c ""
+    # c "Not everyone loves a slutty server in the village."
+    c "乐村不是谁都喜欢看见你放荡的模样哩。"
 
-# translate schinese Cane_Serve_First_c2efb15f:
+translate schinese Cane_Serve_First_c2efb15f:
 
-#     # c "...Not that I don't like yer style. I love it."
-#     c ""
+    # c "...Not that I don't like yer style. I love it."
+    c "……当然我除外。我就喜欢你啥都不穿。"
 
-# translate schinese Cane_Serve_First_79229c58:
+translate schinese Cane_Serve_First_79229c58:
 
-#     # e "Ohh... Cane."
-#     e ""
+    # e "Ohh... Cane."
+    e "呵……老色鬼。"
 
-# translate schinese Cane_Serve_First_a34b4850:
+translate schinese Cane_Serve_First_a34b4850:
 
-#     # c "Here's yer 150 gold. I've got so much more people here now thanks to yer fat juicy ass."
-#     c ""
+    # c "Here's yer 150 gold. I've got so much more people here now thanks to yer fat juicy ass."
+    c "150 金币，拿去吧。多亏你的大蜜桃招来了这么多客人。"
 
-# translate schinese Cane_Serve_First_cf59e35f:
+translate schinese Cane_Serve_First_cf59e35f:
 
-#     # e "That was... a lot."
-#     e ""
+    # e "That was... a lot."
+    e "这可……够多的。"
 
-# translate schinese Cane_Serve_First_c1b534e6:
+translate schinese Cane_Serve_First_c1b534e6:
 
-#     # c "Aye. As long as you keep working for me like this maybe yer ass will earn more."
-#     c ""
+    # c "Aye. As long as you keep working for me like this maybe yer ass will earn more."
+    c "诶，只要保持这样的干劲，你那两瓣可以为你挣更多钱。"
 
-# translate schinese Cane_Serve_First_7536fa5a:
+translate schinese Cane_Serve_First_7536fa5a:
 
-#     # e "O...ok then, I'll think about it! See you Cane."
-#     e ""
+    # e "O...ok then, I'll think about it! See you Cane."
+    e "好……吧，我会考虑一下的！那我去休息了。"
 
-# translate schinese Cane_Serve_First_360f0bd6:
+translate schinese Cane_Serve_First_360f0bd6:
 
-#     # c "Put on yer clothes first!"
-#     c ""
+    # c "Put on yer clothes first!"
+    c "记得先穿上衣服！"
 
-# translate schinese Cane_Serve_First_6c93000e:
+translate schinese Cane_Serve_First_6c93000e:
 
-#     # "Cane... he looks to be satisfied with your performance around the place, yet it still seems there're some sorrow on his face."
-#     ""
+    # "Cane... he looks to be satisfied with your performance around the place, yet it still seems there're some sorrow on his face."
+    "凯恩他……看起来很满意你的表现，但神情却杂糅着一丝悲伤。"
 
-# translate schinese Cane_Serve_First_9e78d2bf:
+translate schinese Cane_Serve_First_9e78d2bf:
 
-#     # "His furrowed brows are so obvious that something is troubling him."
-#     ""
+    # "His furrowed brows are so obvious that something is troubling him."
+    "紧缩的眉头显然说明有事情困扰着他。"
 
-# translate schinese Cane_Serve_First_3736c33e:
+translate schinese Cane_Serve_First_3736c33e:
 
-#     # "You dare not to ask him about anything other than your job, so you apporoach Cane. You wave to him to let him know about your presence."
-#     ""
+    # "You dare not to ask him about anything other than your job, so you apporoach Cane. You wave to him to let him know about your presence."
+    "你不敢问他工作以外的事情。所以你默默走向柜台，朝他挥手表示你要找他。"
 
-# translate schinese Cane_Serve_First_1e71a28a:
+translate schinese Cane_Serve_First_1e71a28a:
 
-#     # c "Good job, fine lad. Lemme see, [owed_gold]. Ye, that's it!"
-#     c ""
+    # c "Good job, fine lad. Lemme see, [owed_gold]. Ye, that's it!"
+    c "工作得很认真嘛，乖孩子。扣掉你欠我的钱，让我数数……这 [owed_gold] 金币收好了！"
 
-# translate schinese Cane_Serve_First_0da5722f:
+translate schinese Cane_Serve_First_0da5722f:
 
-#     # c "Good job, fine lad. Lemme see, 50 gold for you. Ye, that's it!"
-#     c ""
+    # c "Good job, fine lad. Lemme see, 50 gold for you. Ye, that's it!"
+    c "工作得很认真嘛，乖孩子。这 50 金币收好了！"
 
-# translate schinese Cane_Serve_First_66fc3a5a:
+translate schinese Cane_Serve_First_66fc3a5a:
 
-#     # e "Thanks!"
-#     e ""
+    # e "Thanks!"
+    e "谢谢老板！"
 
-# translate schinese Cane_Serve_First_58261a60:
+translate schinese Cane_Serve_First_58261a60:
 
-#     # e "Hey, Cane. There seem to be some people who are really into me, like really."
-#     e ""
+    # e "Hey, Cane. There seem to be some people who are really into me, like really."
+    e "那个，凯恩，有些顾客好像对我特别感兴趣，而且还是那种兴趣。"
 
-# translate schinese Cane_Serve_First_27454513:
+translate schinese Cane_Serve_First_27454513:
 
-#     # c "Hah... Don't make me laugh, not everyone is a horny bastard like you. They're just here for the apron."
-#     c ""
+    # c "Hah... Don't make me laugh, not everyone is a horny bastard like you. They're just here for the apron."
+    c "哈哈哈……别搞笑了，又不是每个人都像恁个小淫娃整天发情。他们只是来看这件围裙的。"
 
-# translate schinese Cane_Serve_First_bd1014f4:
+translate schinese Cane_Serve_First_bd1014f4:
 
-#     # e "Hmm? Why?"
-#     e ""
+    # e "Hmm? Why?"
+    e "啊？为什么？"
 
-# translate schinese Cane_Serve_First_49be60b3:
+translate schinese Cane_Serve_First_49be60b3:
 
-#     # c "Forget about it. The apron looks good on ya though."
-#     c ""
+    # c "Forget about it. The apron looks good on ya though."
+    c "没什么。对了，你穿这件围裙通好看嘞。"
 
-# translate schinese Cane_Serve_First_faa7d97b:
+translate schinese Cane_Serve_First_faa7d97b:
 
-#     # e "Hmm..."
-#     e ""
+    # e "Hmm..."
+    e "呃……"
 
-# translate schinese Cane_Serve_First_bd0a5f88:
+translate schinese Cane_Serve_First_bd0a5f88:
 
-#     # c "If ya want, come back more often and be my server for a few hours."
-#     c ""
+    # c "If ya want, come back more often and be my server for a few hours."
+    c "如果你还想招待客人，可以几个钟头之后再来。"
 
-# translate schinese Cane_Serve_First_90bc5d50:
+translate schinese Cane_Serve_First_90bc5d50:
 
-#     # e "Ok... as long as I get paid."
-#     e ""
+    # e "Ok... as long as I get paid."
+    e "嗯……只要不少我工钱。"
 
-# translate schinese Cane_Serve_First_5976e452:
+translate schinese Cane_Serve_First_5976e452:
 
-#     # c "Much more than yer actual job."
-#     c ""
+    # c "Much more than yer actual job."
+    c "肯定比你现在的“工作”好挣钱。"
 
-# translate schinese Cane_Serve_First_117d4c18:
+translate schinese Cane_Serve_First_117d4c18:
 
-#     # e "Great, that's a promise now. See you Cane."
-#     e ""
+    # e "Great, that's a promise now. See you Cane."
+    e "那就说好咯。待会见，凯恩。"
 
-# translate schinese Cane_Serve_First_98573fca:
+translate schinese Cane_Serve_First_98573fca:
 
-#     # c "Ye ye."
-#     c ""
+    # c "Ye ye."
+    c "得嘞。"
 
-# translate schinese Scene_Nocturnal_Serve_eafab2e0:
+translate schinese Scene_Nocturnal_Serve_eafab2e0:
 
-#     # "For the next couple of hours you rush among tables in the tavern, taking orders after order, holding trays after trays of beer."
-#     ""
+    # "For the next couple of hours you rush among tables in the tavern, taking orders after order, holding trays after trays of beer."
+    "接下来的几个小时里，你穿梭于桌台之间，接过一个又一个订单，端过一盘又一盘啤酒。"
 
-# translate schinese Scene_Nocturnal_Serve_4ada4de1:
+translate schinese Scene_Nocturnal_Serve_4ada4de1:
 
-#     # "Sometimes you might spill a few drops of beer on the ground, but the patrons are surprisingly gentle with you."
-#     ""
+    # "Sometimes you might spill a few drops of beer on the ground, but the patrons are surprisingly gentle with you."
+    "你偶尔会不小心洒些酒，但顾客们却出奇地包容你的失误。"
 
-# translate schinese Scene_Nocturnal_Serve_3fffc14c:
+translate schinese Scene_Nocturnal_Serve_3fffc14c:
 
-#     # "Almost overly gentle, even apologise when you bump into them."
-#     ""
+    # "Almost overly gentle, even apologise when you bump into them."
+    "几乎是包容过头了，就算是你撞到他们，他们还会向你道歉。"
 
-# translate schinese Scene_Nocturnal_Serve_f16a1d28:
+translate schinese Scene_Nocturnal_Serve_f16a1d28:
 
-#     # "You feel like the center of attention in the tavern, everyone is looking at you, even Cane gives you a side-eye from time to time."
-#     ""
+    # "You feel like the center of attention in the tavern, everyone is looking at you, even Cane gives you a side-eye from time to time."
+    "你感觉自己成为了整个酒馆的焦点，每个人都在看着你，甚至连一旁忙活的凯恩也时不时瞥你几眼。"
 
-# translate schinese Scene_Nocturnal_Serve_ba2f7cfe:
+translate schinese Scene_Nocturnal_Serve_ba2f7cfe:
 
-#     # "But after the first hour you seem to get used to this feeling."
-#     ""
+    # "But after the first hour you seem to get used to this feeling."
+    "一个钟头过后，你渐渐习惯这种感觉。"
 
-# translate schinese Scene_Nocturnal_Serve_69067c75:
+translate schinese Scene_Nocturnal_Serve_69067c75:
 
-#     # "Yet, they're not looking at you in a normal way. Are they not?"
-#     ""
+    # "Yet, they're not looking at you in a normal way. Are they not?"
+    "不过，这些顾客的目光并不只有单纯的好奇。"
 
-# translate schinese Scene_Nocturnal_Serve_b435ea60:
+translate schinese Scene_Nocturnal_Serve_b435ea60:
 
-#     # "They look... almost lustful, passionate to order anything just to get you closer to them."
-#     ""
+    # "They look... almost lustful, passionate to order anything just to get you closer to them."
+    "而更多的是……好色。他们大方点着小食酒水，只为了能让你走到他们跟前。"
 
-# translate schinese Scene_Nocturnal_Serve_82d983cb:
+translate schinese Scene_Nocturnal_Serve_82d983cb:
 
-#     # "Every time you turn back at the tavern, there seem to be more customers than you checked last time."
-#     ""
+    # "Every time you turn back at the tavern, there seem to be more customers than you checked last time."
+    "每当你回头观察整个酒馆，都能发现新的顾客加入，越来越多。"
 
-# translate schinese Scene_Nocturnal_Serve_ee90f643:
+translate schinese Scene_Nocturnal_Serve_ee90f643:
 
-#     # "Are they attracted by the news of a new server in the tavern? How are they this crazed about a worker."
-#     ""
+    # "Are they attracted by the news of a new server in the tavern? How are they this crazed about a worker."
+    "难道他们听说酒馆来了个新服务员，于是专程过来见你？可这又有什么好见的呢？"
 
-# translate schinese Scene_Nocturnal_Serve_b529dfe4:
+translate schinese Scene_Nocturnal_Serve_b529dfe4:
 
-#     # "You decided to put these unresolved thoughts to rest. Afterall, you are here to serve your patron, not to solve a mystery."
-#     ""
+    # "You decided to put these unresolved thoughts to rest. Afterall, you are here to serve your patron, not to solve a mystery."
+    "你决定不去多想这些事情。毕竟你是来打工而不是来解谜的。"
 
-# translate schinese Scene_Nocturnal_Serve_930469ce:
+translate schinese Scene_Nocturnal_Serve_930469ce:
 
-#     # "You focus on delivering your order in time, dashing between the counter and the tables."
-#     ""
+    # "You focus on delivering your order in time, dashing between the counter and the tables."
+    "越来越多的订单需要你专心处理，为了赶时间，你开始在酒桌和柜台之间跑来跑去。"
 
-# translate schinese Scene_Nocturnal_Serve_9fcf5098:
+translate schinese Scene_Nocturnal_Serve_9fcf5098:
 
-#     # "But after a while, you'd get slapped in the ass for a few times by some random patrons."
-#     ""
+    # "But after a while, you'd get slapped in the ass for a few times by some random patrons."
+    "可每过一会，就会有几个顾客拍你屁股。"
 
-# translate schinese Scene_Nocturnal_Serve_4e41b9c8:
+translate schinese Scene_Nocturnal_Serve_4e41b9c8:
 
-#     # "You don't even know who they are, but you are sure the bounce of your own butt can be heard loud and clear around the place."
-#     ""
+    # "You don't even know who they are, but you are sure the bounce of your own butt can be heard loud and clear around the place."
+    "你甚至都不知道到底是谁动的手。拍打声实在太过清晰响亮，你确信已经传遍了整间酒馆。"
 
-# translate schinese Scene_Nocturnal_Serve_38eff8af:
+translate schinese Scene_Nocturnal_Serve_38eff8af:
 
-#     # patron "Another beer, please."
-#     patron ""
+    # patron "Another beer, please."
+    patron "这边再来一杯，谢谢。"
 
-# translate schinese Scene_Nocturnal_Serve_2d4c40c1:
+translate schinese Scene_Nocturnal_Serve_2d4c40c1:
 
-#     # "You turn up to the source of the voice as soon as you hear it. The patron begins gesturing you to introduce to his friend."
-#     ""
+    # "You turn up to the source of the voice as soon as you hear it. The patron begins gesturing you to introduce to his friend."
+    "你立即向那桌走去。这位顾客比划着向你介绍他的酒友。"
 
-# translate schinese Scene_Nocturnal_Serve_23d506bd:
+translate schinese Scene_Nocturnal_Serve_23d506bd:
 
-#     # e "...Hey, I'm [e], I'll be taking your order today."
-#     e ""
+    # e "...Hey, I'm [e], I'll be taking your order today."
+    e "……您好，我是[e]，今天由我招待您。"
 
-# translate schinese Scene_Nocturnal_Serve_38144ae0:
+translate schinese Scene_Nocturnal_Serve_38144ae0:
 
-#     # patron2 "Yeah, you can probably take my dick in your mouth, waiter."
-#     patron2 ""
+    # patron2 "Yeah, you can probably take my dick in your mouth, waiter."
+    patron2 "是吗，你可以用嘴招待招待我的老二，新来的服务员。"
 
-# translate schinese Scene_Nocturnal_Serve_a93ba61c:
+translate schinese Scene_Nocturnal_Serve_a93ba61c:
 
-#     # e "Ahem... I don't think I will..."
-#     e ""
+    # e "Ahem... I don't think I will..."
+    e "呃……容我拒绝……"
 
-# translate schinese Scene_Nocturnal_Serve_3fa41558:
+translate schinese Scene_Nocturnal_Serve_3fa41558:
 
-#     # patron2 "You sure you won't? I'd be sad to not get your pretty little fuzzy face to work."
-#     patron2 ""
+    # patron2 "You sure you won't? I'd be sad to not get your pretty little fuzzy face to work."
+    patron2 "你确定？如果干不到你毛毛的小脸蛋，我会很伤心唷。"
 
-# translate schinese Scene_Nocturnal_Serve_cbc6cb0d:
+translate schinese Scene_Nocturnal_Serve_cbc6cb0d:
 
-#     # e "I've told you, no... I don't do this."
-#     e ""
+    # e "I've told you, no... I don't do this."
+    e "我已经告诉你了……我不做这种事。"
 
-# translate schinese Scene_Nocturnal_Serve_fcb07c59:
+translate schinese Scene_Nocturnal_Serve_fcb07c59:
 
-#     # patron2 "Look... I know about the story behind you and the old man Cane, you probably like this a lot, don't you? Don't worry, we like you here."
-#     patron2 ""
+    # patron2 "Look... I know about the story behind you and the old man Cane, you probably like this a lot, don't you? Don't worry, we like you here."
+    patron2 "嘿……我知道你和老凯恩那档事，其实你心里很想要吧？别担心，我们都很中意你。"
 
-# translate schinese Scene_Nocturnal_Serve_c9867601:
+translate schinese Scene_Nocturnal_Serve_c9867601:
 
-#     # patron2 "We can start with something very light. How about you strip off that old apron, and shake your ass for all of us who wants to see."
-#     patron2 ""
+    # patron2 "We can start with something very light. How about you strip off that old apron, and shake your ass for all of us who wants to see."
+    patron2 "我们可以一步一步慢慢来。先把这条旧围裙脱了怎么样？让大家看看你漂亮的大屁股能摇得多起劲。"
 
-# translate schinese Scene_Nocturnal_Serve_6b70fcfd:
+translate schinese Scene_Nocturnal_Serve_6b70fcfd:
 
-#     # e "Uhmm..."
-#     e ""
+    # e "Uhmm..."
+    e "呃……"
 
-# translate schinese Scene_Nocturnal_Serve_77989197:
+translate schinese Scene_Nocturnal_Serve_77989197:
 
-#     # "You instantly blush at his comment. Maybe he is right, you have been working here so much that the patrons begin to recognise you as their eager server."
-#     ""
+    # "You instantly blush at his comment. Maybe he is right, you have been working here so much that the patrons begin to recognise you as their eager server."
+    "你被他调戏得一下脸红起来。或许他是对的，你已经在酒馆工作有一段时间了，谁不认识你这个饥渴的服务员。"
 
-# translate schinese Scene_Nocturnal_Serve_fa9fb971:
+translate schinese Scene_Nocturnal_Serve_fa9fb971:
 
-#     # "Everyone at the tavern is cheering for you. Even whistling towards you. Cane is looking at you as well, cheering along with the patrons."
-#     ""
+    # "Everyone at the tavern is cheering for you. Even whistling towards you. Cane is looking at you as well, cheering along with the patrons."
+    "周围的呼声越来越大，甚至有人向你吹口哨。连凯恩也在看着你，和其他人一块吆喝。"
 
-# translate schinese Scene_Nocturnal_Serve_cedf49d9:
+translate schinese Scene_Nocturnal_Serve_cedf49d9:
 
-#     # "You feel like you are in the center of attention, and somehow... it feels amazing."
-#     ""
+    # "You feel like you are in the center of attention, and somehow... it feels amazing."
+    "你感觉自己成为了全场关注的焦点，你心中有股……莫名的愉悦感。"
 
-# translate schinese Scene_Nocturnal_Serve_853dd4b0:
+translate schinese strings:
 
-#     # "Yes. As much as you do not wish to admit, you are still desperately trying to please the men in front of you."
-#     ""
+    old "Should you... take off your apron for the enthusiatic patrons?"
+    new "你要……满足顾客的要求裸体服务吗？"
 
-# translate schinese Scene_Nocturnal_Serve_f8d2fa2e:
+    old "Take off your Apron"
+    new "裸"
 
-#     # "You are not the adventurer, you are a mere server here in the tavern. And you love this."
-#     ""
+    old "Continue with your work"
+    new "不裸"
 
-# translate schinese Scene_Nocturnal_Serve_fdac3ef9:
+translate schinese Scene_Nocturnal_Serve_853dd4b0:
 
-#     # e "O-ok."
-#     e ""
+    # "Yes. As much as you do not wish to admit, you are still desperately trying to please the men in front of you."
+    "是的。尽管你不愿意承认，但你的确渴望取悦你面前的男人。"
 
-# translate schinese Scene_Nocturnal_Serve_10eada3b:
+translate schinese Scene_Nocturnal_Serve_f8d2fa2e:
 
-#     # "The Tavern instantly fills with roar and praise, everyone is watching you now."
-#     ""
+    # "You are not the adventurer, you are a mere server here in the tavern. And you love this."
+    "在酒馆里，你不再是冒险家，而仅仅只是一个服务员。你热爱这个副业。"
 
-# translate schinese Scene_Nocturnal_Serve_2041de1c:
+translate schinese Scene_Nocturnal_Serve_fdac3ef9:
 
-#     # "You leave the tray on the table in fluster, and begin loosening your apron straps."
-#     ""
+    # e "O-ok."
+    e "那、那好吧。"
 
-# translate schinese Scene_Nocturnal_Serve_3a8b58e2:
+translate schinese Scene_Nocturnal_Serve_10eada3b:
 
-#     # patron "YYEAH! WOO-HOO!!!"
-#     patron ""
+    # "The Tavern instantly fills with roar and praise, everyone is watching you now."
+    "酒馆瞬间喧闹起来，叫好声一片，没有一个人不在注视着你。"
 
-# translate schinese Scene_Nocturnal_Serve_98ef541f:
+translate schinese Scene_Nocturnal_Serve_2041de1c:
 
-#     # patron "[e]! [e]! [e]! [e]! ..."
-#     patron ""
+    # "You leave the tray on the table in fluster, and begin loosening your apron straps."
+    "你匆忙将托盘放到桌上，开始解开围裙的束带。"
 
-# translate schinese Scene_Nocturnal_Serve_3dd925dd:
+translate schinese Scene_Nocturnal_Serve_3a8b58e2:
 
-#     # "The patrons begin chanting your name as you take off the apron completely, revealing your bare chest."
-#     ""
+    # patron "YYEAH! WOO-HOO!!!"
+    patron "就是这样！噢吼！！！"
 
-# translate schinese Scene_Nocturnal_Serve_43c671ed:
+translate schinese Scene_Nocturnal_Serve_98ef541f:
 
-#     # patron2 "He looks so much more delicious now."
-#     patron2 ""
+    # patron "[e]! [e]! [e]! [e]! ..."
+    patron "[e]！[e]！[e]！[e]！……"
 
-# translate schinese Scene_Nocturnal_Serve_a5a64d06:
+translate schinese Scene_Nocturnal_Serve_3dd925dd:
 
-#     # patron "Yes, he is. Look at his tits."
-#     patron ""
+    # "The patrons begin chanting your name as you take off the apron completely, revealing your bare chest."
+    "顾客们吼叫着你的名字为你助兴。你脱下围裙，袒胸露乳。"
 
-# translate schinese Scene_Nocturnal_Serve_026f0efd:
+translate schinese Scene_Nocturnal_Serve_43c671ed:
 
-#     # patron2 "Ha, Keep going! Take off your trousers for us!!!"
-#     patron2 ""
+    # patron2 "He looks so much more delicious now."
+    patron2 "他现在看起来更诱人了。"
 
-# translate schinese Scene_Nocturnal_Serve_23122780:
+translate schinese Scene_Nocturnal_Serve_a5a64d06:
 
-#     # "You are reveling in their lustful comments, but you could never imagine that you would strip naked one day in front of dozens of customers."
-#     ""
+    # patron "Yes, he is. Look at his tits."
+    patron "是啊，你看那对奶头。"
 
-# translate schinese Scene_Nocturnal_Serve_ac317df8:
+translate schinese Scene_Nocturnal_Serve_026f0efd:
 
-#     # "With everyone's eyes on you, you slowly take your belt off and unbutton your trousers."
-#     ""
+    # patron2 "Ha, Keep going! Take off your trousers for us!!!"
+    patron2 "脱，继续脱！别让大伙等急咯！！！"
 
-# translate schinese Scene_Nocturnal_Serve_fb60ad70:
+translate schinese Scene_Nocturnal_Serve_23122780:
 
-#     # "You lower your pants gradually, teasing the patrons with inches and inches of your skin revealed to the public."
-#     ""
+    # "You are reveling in their lustful comments, but you could never imagine that you would strip naked one day in front of dozens of customers."
+    "你陶醉于大家淫靡的喝彩声中。换做以前的你，这么也想象不到自己有一天会在几十个人面前完全暴露自己的身体。"
 
-# translate schinese Scene_Nocturnal_Serve_ce4b91f2:
+translate schinese Scene_Nocturnal_Serve_ac317df8:
 
-#     # "Soon, everyone can see your uncut cock, completely exposed."
-#     ""
+    # "With everyone's eyes on you, you slowly take your belt off and unbutton your trousers."
+    "众目睽睽之下，你慢慢抽出腰带，解开裤子上的纽扣。"
 
-# translate schinese Scene_Nocturnal_Serve_7a709fac:
+translate schinese Scene_Nocturnal_Serve_fb60ad70:
 
-#     # "You take the apron and trousers away to Cane, who looks surprised, but still smiles at you."
-#     ""
+    # "You lower your pants gradually, teasing the patrons with inches and inches of your skin revealed to the public."
+    "你一点一点褪下裤子，一点一点将私处的皮毛展现出来，挑逗着四面八方的顾客。"
 
-# translate schinese Scene_Nocturnal_Serve_beeecc23:
+translate schinese Scene_Nocturnal_Serve_ce4b91f2:
 
-#     # "Some of them gasped at the sheer size of your cock, some of them cheer."
-#     ""
+    # "Soon, everyone can see your uncut cock, completely exposed."
+    "很快，人人都可以看到你未割包皮的鸡巴，一览无余。"
 
-# translate schinese Scene_Nocturnal_Serve_7d6ae282:
+translate schinese Scene_Nocturnal_Serve_7a709fac:
 
-#     # "All of them begin chanting your name again, clapping at the sight of your member flopping around as you walk."
-#     ""
+    # "You take the apron and trousers away to Cane, who looks surprised, but still smiles at you."
+    "你将脱下的衣物交给凯恩保管，他看起来又惊又喜。"
 
-# translate schinese Scene_Nocturnal_Serve_a13debea:
+translate schinese Scene_Nocturnal_Serve_beeecc23:
 
-#     # "After you undressed, you can see much more people entering the tavern just to see you."
-#     ""
+    # "Some of them gasped at the sheer size of your cock, some of them cheer."
+    "有些顾客惊叹于你的巨根，有些则继续为你欢呼。"
 
-# translate schinese Scene_Nocturnal_Serve_fa3eb0cd:
+translate schinese Scene_Nocturnal_Serve_7d6ae282:
 
-#     # "You are now sure that, it's not the apron they want, it's you."
-#     ""
+    # "All of them begin chanting your name again, clapping at the sight of your member flopping around as you walk."
+    "你端起盘子继续服务，下体随着步伐甩来甩去。大伙又开始呼喊你的名字，掌声经久不绝。"
 
-# translate schinese Scene_Nocturnal_Serve_b1226cf5:
+translate schinese Scene_Nocturnal_Serve_a13debea:
 
-#     # "They continues slapping you ass whenever you pass, in fact, they now slap harder because of your exposed fluffy behind."
-#     ""
+    # "After you undressed, you can see much more people entering the tavern just to see you."
+    "自打你脱光衣服后，酒馆里人头攒动，越来越多村民专程跑来看你。"
 
-# translate schinese Scene_Nocturnal_Serve_221ebd97:
+translate schinese Scene_Nocturnal_Serve_fa3eb0cd:
 
-#     # "The patrons pay you fat tips, which by Cane's rules the money should belong to him. But the action itself already makes you flush with euphoria."
-#     ""
+    # "You are now sure that, it's not the apron they want, it's you."
+    "你现在可以确定他们此前欣赏的不是围裙，而是你自己。"
 
-# translate schinese Scene_Nocturnal_Serve_9f2be9f8:
+translate schinese Scene_Nocturnal_Serve_b1226cf5:
 
-#     # "People begin groping at your chest casually, whispering dirty words in your ears, while fondling your cock."
-#     ""
+    # "They continues slapping you ass whenever you pass, in fact, they now slap harder because of your exposed fluffy behind."
+    "每当你经过顾客面前，他们都会拍拍你的翘臀。而且，既然你选择主动献上那对毛球，他们也敢拍打得更加用力。"
 
-# translate schinese Scene_Nocturnal_Serve_135c6aa8:
+translate schinese Scene_Nocturnal_Serve_221ebd97:
 
-#     # "Some even invite you to a room upstairs, in a group."
-#     ""
+    # "The patrons pay you fat tips, which by Cane's rules the money should belong to him. But the action itself already makes you flush with euphoria."
+    "一打打小费放到了你的盘子上。虽然按照凯恩的规定这些都要归他，但小费本身所代表的青睐和喜爱更加令你感到幸福。"
 
-# translate schinese Scene_Nocturnal_Serve_099c0b6b:
+translate schinese Scene_Nocturnal_Serve_9f2be9f8:
 
-#     # "But you deny politely, there's still a red line drawn, and you are not planning to cross that any time soon."
-#     ""
+    # "People begin groping at your chest casually, whispering dirty words in your ears, while fondling your cock."
+    "这会不管是生客还是熟客，都开始肆意摸索你的胸部，抚弄你的阴茎，在你耳边说着下流的骚话。"
 
-# translate schinese Scene_Nocturnal_Serve_9b6fd6ee:
+translate schinese Scene_Nocturnal_Serve_135c6aa8:
 
-#     # "Taking in plates from plates. Time passes so quick that you only now realises you have already finished your job."
-#     ""
+    # "Some even invite you to a room upstairs, in a group."
+    "有的甚至集体邀请你上二楼的房间玩。"
 
-# translate schinese Scene_Nocturnal_Serve_451d1529:
+translate schinese Scene_Nocturnal_Serve_099c0b6b:
 
-#     # "You walk to Cane, asking to complete your shift."
-#     ""
+    # "But you deny politely, there's still a red line drawn, and you are not planning to cross that any time soon."
+    "但你都礼貌地拒绝了。你是有底线的人，而且你不打算这么快就突破这条底线。"
 
-# translate schinese Scene_Nocturnal_Serve_c9e80490:
+translate schinese Scene_Nocturnal_Serve_9b6fd6ee:
 
-#     # e "As I said. No."
-#     e ""
+    # "Taking in plates from plates. Time passes so quick that you only now realises you have already finished your job."
+    "一盘接一盘，忙碌的时光总是过得飞快，这时你才意识到你已经完成了工作。"
 
-# translate schinese Scene_Nocturnal_Serve_e4389356:
+translate schinese Scene_Nocturnal_Serve_451d1529:
 
-#     # patron2 "Ok... Ok. Calm down. It's not like it's not your sole purpose in the tavern anyway. Haha."
-#     patron2 ""
+    # "You walk to Cane, asking to complete your shift."
+    "你走向凯恩，准备知会他一声后下班。"
 
-# translate schinese Scene_Nocturnal_Serve_fee3aac5:
+translate schinese Scene_Nocturnal_Serve_c9e80490:
 
-#     # "His other friends begins to laugh at his comment. You look back at the reflection in your tray, you are an adventurer, [e]."
-#     ""
+    # e "As I said. No."
+    e "不行就是不行。"
 
-# translate schinese Scene_Nocturnal_Serve_79141be6:
+translate schinese Scene_Nocturnal_Serve_e4389356:
 
-#     # "Since when did it become serving stranger and letting them take advantage of you."
-#     ""
+    # patron2 "Ok... Ok. Calm down. It's not like it's not your sole purpose in the tavern anyway. Haha."
+    patron2 "好吧、好吧。反正你的服务项目又不止这一个，哈哈哈。"
 
-# translate schinese Scene_Nocturnal_Serve_4d1dd737:
+translate schinese Scene_Nocturnal_Serve_fee3aac5:
 
-#     # "You know it is for money. But deep inside your heart, you love the spotlight they shine on you."
-#     ""
+    # "His other friends begins to laugh at his comment. You look back at the reflection in your tray, you are an adventurer, [e]."
+    "他另一个酒友也大笑起来。你看向托盘中自己的倒影，再次提醒自己是一个冒险家。"
 
-# translate schinese Scene_Nocturnal_Serve_4aac980c:
+translate schinese Scene_Nocturnal_Serve_79141be6:
 
-#     # "You feel this constant shower of praise and love, and this urge to take another order from all the fine gentlemen."
-#     ""
+    # "Since when did it become serving stranger and letting them take advantage of you."
+    "可你现在却在屈身服侍陌生人，任由他们吃你豆腐。"
 
-# translate schinese Scene_Nocturnal_Serve_1d99bab7:
+translate schinese Scene_Nocturnal_Serve_4d1dd737:
 
-#     # "With every second passing, this feeling gets stronger that little rush of dopamine every time someone calls you a good boy."
-#     ""
+    # "You know it is for money. But deep inside your heart, you love the spotlight they shine on you."
+    "你知道自己只不过是为了赚钱。但内心深处，你却爱上了他们照在你身上的聚光灯。"
 
-# translate schinese Scene_Nocturnal_Serve_0b1646e6:
+translate schinese Scene_Nocturnal_Serve_4aac980c:
 
-#     # "Soon, your mind is clouded by thoughts of getting pampered and complimented."
-#     ""
+    # "You feel this constant shower of praise and love, and this urge to take another order from all the fine gentlemen."
+    "你沐浴着顾客们对你的赞赏与关怀，更加卖力工作，渴求这些客官的回报。"
 
-# translate schinese Scene_Nocturnal_Serve_afe35ccd:
+translate schinese Scene_Nocturnal_Serve_1d99bab7:
 
-#     # "You shake your head, these intrusive thoughts better stay as thoughts only."
-#     ""
+    # "With every second passing, this feeling gets stronger that little rush of dopamine every time someone calls you a good boy."
+    "时间一分一秒过去，这种感觉越来越强烈。每当有人夸你好孩子的时候，你头脑里就涌现起一阵小高潮。"
 
-# translate schinese Scene_Nocturnal_Serve_ab368fa1:
+translate schinese Scene_Nocturnal_Serve_0b1646e6:
 
-#     # "There's no way you are going to belittle yourself like that. And so you continue with your orders."
-#     ""
+    # "Soon, your mind is clouded by thoughts of getting pampered and complimented."
+    "很快，你不禁开始幻想如何获得更多的宠爱与恭维。"
 
-# translate schinese Scene_Nocturnal_Serve_9b6fd6ee_1:
+translate schinese Scene_Nocturnal_Serve_afe35ccd:
 
-#     # "Taking in plates from plates. Time passes so quick that you only now realises you have already finished your job."
-#     ""
+    # "You shake your head, these intrusive thoughts better stay as thoughts only."
+    "但这些乍现的想法最好只是想法，你摇摇头让自己清醒过来。"
 
-# translate schinese Scene_Nocturnal_Serve_451d1529_1:
+translate schinese Scene_Nocturnal_Serve_ab368fa1:
 
-#     # "You walk to Cane, asking to complete your shift."
-#     ""
+    # "There's no way you are going to belittle yourself like that. And so you continue with your orders."
+    "你绝不会放任自己被玷污，于是你接着正常招待顾客。"
+
+translate schinese Scene_Nocturnal_Serve_9b6fd6ee_1:
+
+    # "Taking in plates from plates. Time passes so quick that you only now realises you have already finished your job."
+    "一盘接一盘，忙碌的时光总是过得飞快，这时你才意识到已经过了工作时间。"
+
+translate schinese Scene_Nocturnal_Serve_451d1529_1:
+
+    # "You walk to Cane, asking to complete your shift."
+    "你走向凯恩，准备知会他一声后下班。"
 
 translate schinese Cane_NoMoney_No_8776ea0c:
 
