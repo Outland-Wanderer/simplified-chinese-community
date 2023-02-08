@@ -1,5 +1,3 @@
-#卧室-自慰
-
 translate schinese main_bedroom_23ae28c4:
 
     # "You cannot resist your lust anymore, you lunge into your own bed, grinding yourself against the bedsheet before looking down at your crotch, it is remarkably hard now."
@@ -29,8 +27,6 @@ translate schinese strings:
     old "Pleasure yourself"
     new "自慰"
 
-#卧室-睡觉
-
 translate schinese bedroom_sleep_6ad06346:
 
     # "You get on the bed and slowly fall asleep."
@@ -42,8 +38,6 @@ translate schinese bedroom_sleep_b20d9dca:
     "你准时早起迎接新的一天，感觉浑身充满干劲。"
     $ renpy.notify("已恢复全部体力和魔力")
 
-#卧室-小憩
-
 translate schinese bedroom_rest_a239a84c:
 
     # "You get on the bed and rest for a few hours."
@@ -54,8 +48,6 @@ translate schinese bedroom_rest_cff4dfd7:
     # "You recovered a portion of your HP and MP."
     pass
     $ renpy.notify("已恢复部分体力和魔力")
-
-# #君临典当门口-癫狂的解药事件引子
 
 # translate schinese main_lusterfield02_ad070029:
 
@@ -71,10 +63,6 @@ translate schinese bedroom_rest_cff4dfd7:
 
 #     # "Realistically, you should head over there now, but it's honestly up to you at the end of the day."
 #     ""
-
-#夜夜椿
-
-##第一次发现塞巴斯喝酒
 
 translate schinese Sebas_dialogue_a201ecb1:
 
@@ -96,8 +84,6 @@ translate schinese Sebas_dialogue_9b0986c5:
     # s "G-goo..."
     s "日……"
 
-###若奥利也在
-
 translate schinese Sebas_dialogue_a962fd4e:
 
     # e "Ole, is Seb alright?"
@@ -118,8 +104,6 @@ translate schinese Sebas_dialogue_7115ea73:
     # e "A-alright."
     e "好、好吧。"
 
-##第一次发现塞巴斯喝酒之后
-
 translate schinese Sebas_dialogue_a201ecb1_1:
 
     # s "Good... Mo-rning fu-"
@@ -134,8 +118,6 @@ translate schinese Sebas_dialogue_9b0986c5_1:
 
     # s "G-goo..."
     s "日……"
-
-####若奥利也在
 
 translate schinese Sebas_dialogue_3fae2a78:
 
@@ -152,8 +134,6 @@ translate schinese Sebas_dialogue_7115ea73_1:
     # e "A-alright."
     e "好、好吧。"
 
-###给了啤酒
-
 translate schinese Sebas_dialogue_53242b88:
 
     # s "...b-butt... hmmph..."
@@ -163,10 +143,6 @@ translate schinese Sebas_dialogue_ed5ceb54:
 
     # e "I think I should leave him alone now..."
     e "我想我还是不打扰他了吧……"
-
-#君临典当
-
-##裸体
 
 translate schinese Sebas_dialogue_9d20aedd:
 
@@ -192,10 +168,6 @@ translate schinese Sebas_dialogue_926a9aa5:
 
     # s "Hehe, Look I still have works to do. But if you keep walking around my shop naked I'm going to do something really reckless!"
     s "嘿嘿，可惜我还有工作要做。但如果你继续在我面前晃悠，休怪我饿狮扑食哦！"
-
-##不裸体
-
-###第一天醒来
 
 translate schinese Sebas_dialogue_c62310a6:
 
@@ -228,8 +200,6 @@ translate schinese Sebas_dialogue_dca38e93:
     # s "Heh... He has his own recipe for all medicines like this, if you want to know more you can always ask him for some."
     s "哼哼……他捣鼓这些东西有独家秘方，如果你感兴趣可以多问问他。"
 
-###上午七点至下午一点的问好
-
 translate schinese Sebas_dialogue_9d20aedd_1:
 
     # s "Good Fucking Morning, [e]!"
@@ -239,8 +209,6 @@ translate schinese Sebas_dialogue_a2be4c8d_1:
 
     # e "Good Morning, Seb!"
     e "早上好，阿塞！"
-
-###下午一点后的问好
 
 translate schinese Sebas_dialogue_c62310a6_1:
 
@@ -262,8 +230,6 @@ translate schinese Sebas_dialogue_cca63278:
     # e "You're so silly."
     e "你真是傻得可爱。"
 
-#塞巴斯喝醉对话菜单
-
 translate schinese Sebas_Drunk_Talk_75c41cd4:
 
     # s "M-mo...in..." nointeract
@@ -279,8 +245,6 @@ translate schinese strings:
 
     old "That's all for now"
     new "结束对话"
-
-#塞巴斯通常对话菜单
 
 translate schinese Sebas_Normal_Talk_87b8e211:
 
@@ -298,14 +262,14 @@ translate schinese strings:
     old "Go to the river with Sebas and Lothar"
     new "与塞巴斯和洛萨尔一同前往招藓河"
 
-    # old "Ask to relieve his stress at work"
-    # new "提议帮忙舒散工作压力"
+    old "Ask to relieve his stress at work"
+    new "提议帮忙舒散工作压力"
 
     # old "Ask about after Ole's sickness"
     # new "询问奥利的病情"
 
-    # old "Ask about the time under the counter"
-    # new "询问对之前柜台底下那件事的感想"
+    old "Ask about the time under the counter"
+    new "询问对之前柜台底下那件事的感想"
 
     # old "Ask about your outfit"
     # new "询问对新衣服的评价"
@@ -322,14 +286,10 @@ translate schinese strings:
     old "Ask about the shop"
     new "询问当铺的事情"
 
-##新装备事件
-
 translate schinese Sebas_Normal_Talk_58e0fbb5:
 
     # "As you are about to ask, you realise you are not putting on the right clothes to judge..."
     "你正准备开口，突然想起自己还没穿上那套衣服……"
-
-# #塞巴斯醉酒后一天对话
 
 # translate schinese Sebas_After_Cane_Tavern_Night_696a9f9e:
 
@@ -391,8 +351,6 @@ translate schinese Sebas_Normal_Talk_58e0fbb5:
 #     # s "It's the least I can do for my Roomie!"
 #     s ""
 
-#与塞巴斯打赌
-
 translate schinese Sebas_Drunk_Bet_Cane_aceb8c28:
 
     # e "Seb... how's your bet with Cane?"
@@ -412,8 +370,6 @@ translate schinese Sebas_Drunk_Bet_Cane_965d706c:
 
     # s "Uh... No? I w-will bet... 20 coins. Y-yeah."
     s "啊……不？我、我赌……二十块钱。对。"
-
-##奥利不在场
 
 translate schinese Sebas_Drunk_Bet_Cane_359a9d90:
 
@@ -488,8 +444,6 @@ translate schinese Sebas_Drunk_Bet_Cane_5e13ff23:
     # e "I think I should leave Sebas alone..."
     e "我还是先走吧……"
 
-##奥利在场
-
 translate schinese Sebas_Drunk_Bet_Cane_fb0b1bfb:
 
     # o "Hey, [e]. don't bet with him... he's not thinking anything now."
@@ -500,14 +454,10 @@ translate schinese Sebas_Drunk_Bet_Cane_7bbc8c49:
     # e "Alright, Ole."
     e "好吧。"
 
-#离开醉酒的塞巴斯
-
 translate schinese Sebas_Drunk_End_6d967733:
 
     # e "I should go now..."
     e "我先走咯……"
-
-##奥利在场
 
 translate schinese Sebas_Drunk_End_3ead1baa:
 
@@ -524,8 +474,6 @@ translate schinese Sebas_Drunk_End_d31fa5eb:
     # o "See you."
     o "再见。"
 
-##奥利不在场
-
 translate schinese Sebas_Drunk_End_e1554201:
 
     # s "..."
@@ -535,8 +483,6 @@ translate schinese Sebas_Drunk_End_4b8c8fa2:
 
     # "You wave to the drunk lion before leaving him alone in the tavern."
     "你朝喝得烂醉的狮子挥挥手，离开了他的酒桌。"
-
-#问醉酒的塞巴斯近来的情况
 
 translate schinese Sebas_Drunk_How_Doing_9b89d68c:
 
@@ -568,14 +514,10 @@ translate schinese Sebas_Drunk_How_Doing_094c362b:
     # s "Uh... U-hm.. Beer! I- uh... need uh beer. more... I told y-you I can take 6 bottles, 7-...uhh."
     s "呃……嗯……啤酒！我、要呃……要喝酒。喝……我告诉你，我能喝六大杯，不七大——嗝。"
 
-##奥利不在场
-
 translate schinese Sebas_Drunk_How_Doing_817c442f:
 
     # e "He seems... too drunk already. Should I give him... a beer?" nointeract
     e "他好像……已经醉得不行了。我还要给他啤酒……吗？" nointeract
-
-###有啤酒
 
 translate schinese Sebas_Drunk_How_Doing_3a45cc31:
 
@@ -642,8 +584,6 @@ translate schinese Sebas_Drunk_How_Doing_c494ae54:
     # "But he soon fell asleep... so you decide against asking nor confirming his words."
     "不过很快，塞巴斯趴倒在酒桌上睡着了……你决定当他没有说过，不再过问。"
 
-####不给喝
-
 translate schinese Sebas_Drunk_How_Doing_479a11b1:
 
     # e "I don't think you should drink more, Seb."
@@ -653,8 +593,6 @@ translate schinese Sebas_Drunk_How_Doing_8f142ebb:
 
     # s "Ugh. one star S-service. Hmm..."
     s "啊。我要给你、给你一星差评。哼……"
-
-###没有啤酒
 
 translate schinese Sebas_Drunk_How_Doing_578e054a:
 
@@ -666,8 +604,6 @@ translate schinese Sebas_Drunk_How_Doing_8f142ebb_1:
     # s "Ugh. one star S-service. Hmm..."
     s "啊。我要给你、给你一星差评。哼……"
 
-##奥利在场
-
 translate schinese Sebas_Drunk_How_Doing_71f69f8a:
 
     # o "He's doing fine, just don't give him any beer."
@@ -678,49 +614,45 @@ translate schinese Sebas_Drunk_How_Doing_9a7bb4ed:
     # e "I won't."
     e "我不会的。"
 
-# #问塞巴斯被口交后的感想
+translate schinese Sebas_Ask_Under_Counter_71e6e8ee:
 
-# translate schinese Sebas_Ask_Under_Counter_71e6e8ee:
+    # e "Hey... Seb?"
+    pass
 
-#     # e "Hey... Seb?"
-#     e ""
+translate schinese Sebas_Ask_Under_Counter_ec389973:
 
-# translate schinese Sebas_Ask_Under_Counter_ec389973:
+    # s "Hello! My favourite little furball."
+    pass
 
-#     # s "Hello! My favourite little furball."
-#     s ""
+translate schinese Sebas_Ask_Under_Counter_ff37cfd7:
 
-# translate schinese Sebas_Ask_Under_Counter_ff37cfd7:
+    # e "Do you... want to talk about last time, under the counter?"
+    e "上次我们在柜底下的事……你感觉怎么样？"
 
-#     # e "Do you... want to talk about last time, under the counter?"
-#     e ""
+translate schinese Sebas_Ask_Under_Counter_d5d770c9:
 
-# translate schinese Sebas_Ask_Under_Counter_d5d770c9:
+    # s "Haha. Well. You were really good, I'd give you that, but that customer almost scared me somehow."
+    s "爽嗨了哈哈哈哈，你的口技可真厉害。虽然当时我快被那个顾客吓死了。"
 
-#     # s "Haha. Well. You were really good, I'd give you that, but that customer almost scared me somehow."
-#     s ""
+translate schinese Sebas_Ask_Under_Counter_fc5e0951:
 
-# translate schinese Sebas_Ask_Under_Counter_fc5e0951:
+    # s "And yes. Ole knew."
+    s "而且，是的，奥利知道。"
 
-#     # s "And yes. Ole knew."
-#     s ""
+translate schinese Sebas_Ask_Under_Counter_87da52ee:
 
-# translate schinese Sebas_Ask_Under_Counter_87da52ee:
+    # e "I guess we better not do that... in the public."
+    e "所以我们以后还是……别在公开场合做这种事了。"
 
-#     # e "I guess we better not do that... in the public."
-#     e ""
+translate schinese Sebas_Ask_Under_Counter_cebb45ed:
 
-# translate schinese Sebas_Ask_Under_Counter_cebb45ed:
+    # s "Of course! If we have time, I'd tug you to my bed instantly."
+    s "没错！下回有空我要直接把你抱进我洞房。"
 
-#     # s "Of course! If we have time, I'd tug you to my bed instantly."
-#     s ""
+translate schinese Sebas_Ask_Under_Counter_9c31ec59:
 
-# translate schinese Sebas_Ask_Under_Counter_9c31ec59:
-
-#     # e "Ah... alright."
-#     e ""
-
-# #问塞巴斯和奥利第三套新衣服怎么样
+    # e "Ah... alright."
+    e "啊……行吧。"
 
 # translate schinese Sebas_Ole_Outfit_03_cbff1666:
 
@@ -897,8 +829,6 @@ translate schinese Sebas_Drunk_How_Doing_9a7bb4ed:
 #     # o "You've met Haskell, right? I believe he's familiar with robes as everyday wear. You should go find him at the apothecary."
 #     o ""
 
-# #问塞巴斯和奥利第一套新衣服怎么样
-
 # translate schinese Sebas_Ole_Outfit_01_60fcff58:
 
 #     # s "Roomie! Oh Wow, you cut a stunning figure in that new armor of yours."
@@ -943,8 +873,6 @@ translate schinese Sebas_Drunk_How_Doing_9a7bb4ed:
 
 #     # "Seb grins mischievously at you."
 #     ""
-
-# #问塞巴斯和奥利第二套新衣服怎么样
 
 # translate schinese Sebas_Ole_Outfit_02_7f340fcc:
 
@@ -1116,8 +1044,6 @@ translate schinese Sebas_Drunk_How_Doing_9a7bb4ed:
 #     # o "AHH! Nevermind! I get it..."
 #     o ""
 
-#交易界面
-
 translate schinese Sebas_Shopping_17f68e7d:
 
     # s "Take a look, here's our finest collections in the shop."
@@ -1243,8 +1169,6 @@ translate schinese Sebas_Shopping_Loop_4d9dc5c6:
     # s "Alrighty! Thank you for your [selected_shopItem.value] gold! Mister [e]. Here's your [selected_shopItem.name!t]."
     s "谢谢惠顾！收您 [selected_shopItem.value] 金币，[e]先生！这是[selected_shopItem.name!t]请拿好。"
 
-#问塞巴斯有关村子的事情
-
 translate schinese Sebas_Ask_Lusterfield_3261991c:
 
     # s "What do you want to learn about us?" nointeract
@@ -1260,8 +1184,6 @@ translate schinese strings:
 
     old "That's all I needed"
     new "结束询问"
-
-# #塞巴斯-病假事件
 
 # translate schinese Sebas_After_Sick_Quest_e5e62d66:
 
@@ -1316,12 +1238,12 @@ translate schinese Sebas_Ask_Goat_Tribe_1801f85c:
 translate schinese Sebas_Ask_Goat_Tribe_7e9688db:
 
     # e "Hmmph... Well. Which side are you leaning?"
-    e "唔……那你会站哪边队呢？"
-#TODO
+    e "唔……那你会站哪队呢？"
+
 translate schinese Sebas_Ask_Goat_Tribe_fb728923:
 
     # s "Look, [e]. I have no side. The only side is my side, which is pretty fucking huge."
-    s "[e]，我哪边都不站。我只站我这队，"
+    s "[e]，我哪队都不站，我只站我这队。要说起来，我这队可是小母牛探亲——牛逼到家了。"
 
 translate schinese Sebas_Ask_Goat_Tribe_315ccb76:
 
@@ -1363,214 +1285,219 @@ translate schinese Sebas_Ask_Goat_Tribe_34f02d8a:
     # e "Me too... Seb."
     e "我也是……阿塞。"
 
-# #为塞巴斯口交-引子
+translate schinese Sebas_Under_Counter_11cc785e:
 
-# translate schinese Sebas_Under_Counter_11cc785e:
+    # e "...Seb? Are you free... to hang out?"
+    e "……阿塞，今天你有没有空……一起出去走走？"
 
-#     # e "...Seb? Are you free... to hang out?"
-#     e ""
+translate schinese Sebas_Under_Counter_27ad4092:
 
-# translate schinese Sebas_Under_Counter_27ad4092:
+    # s "Hmm...? I'm working right now. Like, right now."
+    s "嗯……？我还在工作噢，你看。"
 
-#     # s "Hmm...? I'm working right now. Like, right now."
-#     s ""
+translate schinese Sebas_Under_Counter_7370f611:
 
-# translate schinese Sebas_Under_Counter_7370f611:
+    # e "But there's no one here."
+    e "但现在一个顾客也没有。"
 
-#     # e "But there's no one here."
-#     e ""
+translate schinese Sebas_Under_Counter_ba026f8e:
 
-# translate schinese Sebas_Under_Counter_ba026f8e:
+    # s "Ole is here. I can't sneak away to get some fuck with you."
+    s "奥利还在呢。我没法偷偷溜出去和你做爱。"
 
-#     # s "Ole is here. I can't sneak away to get some fuck with you."
-#     s ""
+translate schinese Sebas_Under_Counter_e4bef205:
 
-# translate schinese Sebas_Under_Counter_e4bef205:
+    # e "S-Seb! I think that wasn't what I meant."
+    e "阿、阿塞！我不是那个意思。"
 
-#     # e "S-Seb! I think that wasn't what I meant."
-#     e ""
+translate schinese Sebas_Under_Counter_cbd0ed71:
 
-# translate schinese Sebas_Under_Counter_cbd0ed71:
+    # "Your face turns intantly red from Sebas' charming smile."
+    "塞巴斯潇洒迷人的微笑令你瞬间脸红。"
 
-#     # "Your face turns intantly red from Sebas' charming smile."
-#     ""
+translate schinese Sebas_Under_Counter_f43cc1cc:
 
-# translate schinese Sebas_Under_Counter_f43cc1cc:
+    # s "Yeah, I know what you are thinking, this fluffy lion is so fucking handsome, aren't I?"
+    s "诶嘿，我知道你在想什么，这头毛茸茸的狮子真他妈帅炸了，对吧？"
 
-#     # s "Yeah, I know what you are thinking, this fluffy lion is so fucking handsome, aren't I?"
-#     s ""
+translate schinese Sebas_Under_Counter_d6fcdd3f:
 
-# translate schinese Sebas_Under_Counter_d6fcdd3f:
+    # s "Look, how about this buddy. Just sneak under the counter. And... do whatever you like."
+    s "要不这样老铁。你可以躲在柜台底下……做你爱做的事。"
 
-#     # s "Look, how about this buddy. Just sneak under the counter. And... do whatever you like."
-#     s ""
+translate schinese Sebas_Under_Counter_3f2c5d33:
 
-# translate schinese Sebas_Under_Counter_3f2c5d33:
+    # e "Ok. But Seb, are you sure...? I don't know if your customers are going to visit at any time."
+    e "可以是可以……但万一突然有顾客来怎么办。"
 
-#     # e "Ok. But Seb, are you sure...? I don't know if your customers are going to visit at any time."
-#     e ""
+translate schinese Sebas_Under_Counter_43080e35:
 
-# translate schinese Sebas_Under_Counter_43080e35:
+    # s "[e], it's my shop! I can do whatever I want! Plus, I'm super discrete about stuff like this."
+    s "[e]，这里可是我的地盘！我爱怎么样就怎么样！而且我干这种事情老谨慎了。"
 
-#     # s "[e], it's my shop! I can do whatever I want! Plus, I'm super discrete about stuff like this."
-#     s ""
+translate schinese Sebas_Under_Counter_79ca83d6:
 
-# translate schinese Sebas_Under_Counter_79ca83d6:
+    # e "A-and... Ole?"
+    e "那、那奥利呢？"
 
-#     # e "A-and... Ole?"
-#     e ""
+translate schinese Sebas_Under_Counter_ccedf24f:
 
-# translate schinese Sebas_Under_Counter_ccedf24f:
+    # s "Don't worry. He's not gonna spank you or something if he finds out. He won't get angry because of this." nointeract
+    s "别担心。就算他发现了也没关系，他才不会因为这点小事发脾气。" nointeract
 
-#     # s "Don't worry. He's not gonna spank you or something if he finds out. He won't get angry because of this." nointeract
-#     s "" nointeract
+translate schinese strings:
 
-# translate schinese Sebas_Under_Counter_7b26d37a:
+    old "Sneak under counter"
+    new "及时享乐"
 
-#     # "You glance at Ole... who seems to be minding his own business, but you can feel that he knows what you two have been talking about..."
-#     ""
+    old "Maybe next time"
+    new "改日再说"
 
-# translate schinese Sebas_Under_Counter_7e106e87:
+translate schinese Sebas_Under_Counter_7b26d37a:
 
-#     # e "Alright, how... do I-"
-#     e ""
+    # "You glance at Ole... who seems to be minding his own business, but you can feel that he knows what you two have been talking about..."
+    "你瞄了一眼奥利……他好像还在忙自己的事情，但你感觉刚才的谈话他听得清清楚楚……"
 
-# translate schinese Sebas_Under_Counter_e59f6cbc:
+translate schinese Sebas_Under_Counter_7e106e87:
 
-#     # s "Come on, and do whatever you want to this lion."
-#     s ""
+    # e "Alright, how... do I-"
+    e "好吧，现在我要怎么——"
 
-# translate schinese Sebas_Under_Counter_4eebfe2f:
+translate schinese Sebas_Under_Counter_e59f6cbc:
 
-#     # "Sebas points at himself, putting up a huge grin on his face, his warm smile is warming your heart. You cannot believe it is happening, now."
-#     ""
+    # s "Come on, and do whatever you want to this lion."
+    s "来，你想对我做什么就做什么。"
 
-# translate schinese Sebas_Under_Counter_a4cfd78f:
+translate schinese Sebas_Under_Counter_4eebfe2f:
 
-#     # "Not just in a private setting, but somewhat out in the open. Like telling the whole world you are about to have fun with Sebas."
-#     ""
+    # "Sebas points at himself, putting up a huge grin on his face, his warm smile is warming your heart. You cannot believe it is happening, now."
+    "塞巴斯指了指自己，咧出大大的笑容，你心中随之涌起一股暖流。你不敢相信自己此时此刻要做这么刺激的事。"
 
-# translate schinese Sebas_Under_Counter_e2842517:
+translate schinese Sebas_Under_Counter_a4cfd78f:
 
-#     # "But it doesn't stop you, it makes you more excited instead. You climb under the counter as Sebas moves to adjust to his new leg space."
-#     ""
+    # "Not just in a private setting, but somewhat out in the open. Like telling the whole world you are about to have fun with Sebas."
+    "当铺可不是什么私密场所，这里人来人往的，你感觉自己像要昭告全世界你和塞巴斯的快活事。"
 
-# translate schinese Sebas_Under_Counter_8d68e49b:
+translate schinese Sebas_Under_Counter_e2842517:
 
-#     # e "Ouch..."
-#     e ""
+    # "But it doesn't stop you, it makes you more excited instead. You climb under the counter as Sebas moves to adjust to his new leg space."
+    "突破禁忌的感觉非但没能让你停下，反而令你更加兴奋。你爬到柜台底下，塞巴斯则配合着调整站姿，为你腾出足够的空间。"
 
-# translate schinese Sebas_Under_Counter_36530e6c:
+translate schinese Sebas_Under_Counter_8d68e49b:
 
-#     # "You head seems to hit something hard, but you quickly explore the area, and sit inside this tight dark space. The only thing is Sebas' fluffy but muscular legs."
-#     ""
+    # e "Ouch..."
+    e "啊……"
 
-# translate schinese Sebas_Under_Counter_3a1dbabb:
+translate schinese Sebas_Under_Counter_36530e6c:
 
-#     # s3 "You like it there, buddy?"
-#     s3 ""
+    # "You head seems to hit something hard, but you quickly explore the area, and sit inside this tight dark space. The only thing is Sebas' fluffy but muscular legs."
+    "你的头不小心撞到硬木挡板，但你很快摸清了边界，坐到了合适的位置上。"
+    "在这片黑暗的角落，你只能看见塞巴斯毛蓬且粗壮的双腿。"
 
-# translate schinese Sebas_Under_Counter_602f2907:
+translate schinese Sebas_Under_Counter_3a1dbabb:
 
-#     # e "It's alright."
-#     e ""
+    # s3 "You like it there, buddy?"
+    s3 "你没事吧老铁？"
 
-# translate schinese Sebas_Under_Counter_a8e4a769:
+translate schinese Sebas_Under_Counter_602f2907:
 
-#     # "You hear a few footsteps towards the table, but it stops there."
-#     ""
+    # e "It's alright."
+    e "没事。"
 
-# translate schinese Sebas_Under_Counter_d3f2b703:
+translate schinese Sebas_Under_Counter_a8e4a769:
 
-#     # s "Ole?"
-#     s ""
+    # "You hear a few footsteps towards the table, but it stops there."
+    "你听到有人走了过来，停在柜台前。"
 
-# translate schinese Sebas_Under_Counter_e7a83287:
+translate schinese Sebas_Under_Counter_d3f2b703:
 
-#     # o "Uhh... Look, I didn't see anything. I'll just check the goods upstairs."
-#     o ""
+    # s "Ole?"
+    s "奥利？"
 
-# translate schinese Sebas_Under_Counter_d79080e0:
+translate schinese Sebas_Under_Counter_e7a83287:
 
-#     # o "Enjoy yourselv-... I mean take care of the shop, Seb."
-#     o ""
+    # o "Uhh... Look, I didn't see anything. I'll just check the goods upstairs."
+    o "呃……我什么也没有看见。楼上还有些货物没有清点，我先上楼去了。"
 
-# translate schinese Sebas_Under_Counter_8f1b58c9:
+translate schinese Sebas_Under_Counter_d79080e0:
 
-#     # s "O-ok... We'll be done soon..."
-#     s ""
+    # o "Enjoy yourselv-... I mean take care of the shop, Seb."
+    o "玩得开——我是说别忘记看好当铺，阿塞。"
 
-# translate schinese Sebas_Under_Counter_4e46aa48:
+translate schinese Sebas_Under_Counter_8f1b58c9:
 
-#     # "You can feel Ole going upstairs, he probably already knows about you two..."
-#     ""
+    # s "O-ok... We'll be done soon..."
+    s "没、没问题……我们很快就搞定……"
 
-# translate schinese Sebas_Under_Counter_13031903:
+translate schinese Sebas_Under_Counter_4e46aa48:
 
-#     # s "Look it'll be very quick. There's no one h-"
-#     s ""
+    # "You can feel Ole going upstairs, he probably already knows about you two..."
+    "你听见奥利上楼的声音，他大概已经知道你们要做什么了……"
 
-# translate schinese Sebas_Under_Counter_e1e6e2aa:
+translate schinese Sebas_Under_Counter_13031903:
 
-#     # "As soon as Sebas starts to speak, the shop door creaks and a customer walks in."
-#     ""
+    # s "Look it'll be very quick. There's no one h-"
+    s "咱们速战速决。趁现在没人——"
 
-# translate schinese Sebas_Under_Counter_ba34a018:
+translate schinese Sebas_Under_Counter_e1e6e2aa:
 
-#     # s "Fuck..."
-#     s ""
+    # "As soon as Sebas starts to speak, the shop door creaks and a customer walks in."
+    "店门嘎吱，一位顾客推门而入直奔柜台。塞巴斯话都还没说完。"
 
-# translate schinese Sebas_Under_Counter_ab3382bc:
+translate schinese Sebas_Under_Counter_ba34a018:
 
-#     # "Sebas tries to act as normal as possible while you begin exploring his lower body."
-#     ""
+    # s "Fuck..."
+    s "操……"
 
-# translate schinese Sebas_Under_Counter_7943c46e:
+translate schinese Sebas_Under_Counter_ab3382bc:
 
-#     # "You wish to sleep right now, but Sebas has already pulled you up."
-#     ""
+    # "Sebas tries to act as normal as possible while you begin exploring his lower body."
+    "塞巴斯努力佯装一切正常，你则开始探索他的下身。"
 
-# translate schinese Sebas_Under_Counter_afb4e601:
+translate schinese Sebas_Under_Counter_7943c46e:
 
-#     # "He tucks you to your bed and leaves you there."
-#     ""
+    # "You wish to sleep right now, but Sebas has already pulled you up."
+    "你困得想就这么睡在柜底，但塞巴斯一把将你拉起来抬到了你的床上。"
 
-# translate schinese Sebas_Under_Counter_889ff4f5:
+translate schinese Sebas_Under_Counter_afb4e601:
 
-#     # e "Good luck with your work, Seb."
-#     e ""
+    # "He tucks you to your bed and leaves you there."
+    pass
 
-# translate schinese Sebas_Under_Counter_f395e613:
+translate schinese Sebas_Under_Counter_889ff4f5:
 
-#     # "Sebas nods at you, then goes back to pick up his discarded kilt."
-#     ""
+    # e "Good luck with your work, Seb."
+    e "祝你工作顺利，阿塞。"
 
-# translate schinese Sebas_Under_Counter_84e037b3:
+translate schinese Sebas_Under_Counter_f395e613:
 
-#     # "You lie on the bed. Quickly you drift to sleep."
-#     ""
+    # "Sebas nods at you, then goes back to pick up his discarded kilt."
+    "塞巴斯点点头走出房间，回到柜台捡起掉在地上的短裙穿好。"
 
-# translate schinese Sebas_Under_Counter_a20cefa7:
+translate schinese Sebas_Under_Counter_84e037b3:
 
-#     # "..."
-#     "……"
+    # "You lie on the bed. Quickly you drift to sleep."
+    "你躺在床上很快睡了过去。"
 
-# translate schinese Sebas_Under_Counter_4a04161d:
+translate schinese Sebas_Under_Counter_a20cefa7:
 
-#     # "You wake up slowly. Remnant of cum still remains on your face and fur."
-#     ""
+    # "..."
+    "……"
 
-# translate schinese Sebas_Under_Counter_f734e221:
+translate schinese Sebas_Under_Counter_4a04161d:
 
-#     # e "Uhh... m-maybe next time?"
-#     e ""
+    # "You wake up slowly. Remnant of cum still remains on your face and fur."
+    "你缓缓醒来，脸上的毛发还被精液黏成一块一块的。"
 
-# translate schinese Sebas_Under_Counter_0630e288:
+translate schinese Sebas_Under_Counter_f734e221:
 
-#     # s "Aww... maybe. I'll be here if you need anything, like, anything."
-#     s ""
+    # e "Uhh... m-maybe next time?"
+    e "呃……下、下次再说？"
 
-#完成任务2
+translate schinese Sebas_Under_Counter_0630e288:
+
+    # s "Aww... maybe. I'll be here if you need anything, like, anything."
+    s "嗷……好吧。我就在这，你想要什么尽管提，尽管提。"
 
 translate schinese Sebas_Postal_Report_759b7889:
 
@@ -1732,8 +1659,6 @@ translate schinese Sebas_Postal_Report_805a490a:
     # e "...Yes, Seb."
     e "……没问题，阿塞。"
 
-#任务2-引子
-
 translate schinese Sebas_Postal_Training_451986d7:
 
     # e "Hello, Sebas. Can I get a training from you."
@@ -1824,8 +1749,6 @@ translate schinese Sebas_Postal_Training_e5ad05cd:
 
     # "Sebas grabs your hand tightly, and jogs right from the cashier towards the door, tugging you behind him. You can barely follow him with the speed he is going."
     "塞巴斯紧紧牵住你的手，从收银台三下两下蹦到门口。你跟不上他的速度，跌跌撞撞地被拉出了当铺。"
-
-#任务2-行动
 
 translate schinese Sebas_Expedition_1db330e7:
 
@@ -2007,8 +1930,6 @@ translate schinese Sebas_Expedition_e69bb7e0:
     # "You quickly snap back to reality, what a strange conversation he left behind. You still need to bring 3 stones to him."
     "什么莫名其妙的对话。你甩掉杂念回到现实，想起自己得收集 3 块石头交给塞巴斯。"
 
-#问塞巴斯村子的人
-
 translate schinese Sebas_Ask_Lusterfield_People_54885e9f:
 
     # e "So... Can you tell me more about Lusterfield?"
@@ -2118,8 +2039,6 @@ translate schinese Sebas_Ask_Lusterfield_People_62030927:
 
     # s "No problem, my [e]."
     s "不客气，我的好室友。"
-
-#任务5
 
 translate schinese Sebas_Lothar_Adventure_d6a6b535:
 
@@ -3037,8 +2956,6 @@ translate schinese Sebas_Lothar_Adventure_End_e62911c6:
     # "But at the end, you decide it's better for you to continue with your adventure."
     "但最后你决定继续自己的旅程，让时间给出答案。"
 
-#问关于洛萨尔的事情
-
 translate schinese Sebas_Ask_Lusterfield_Lothar_11916a45:
 
     # e "Hey, I saw you were here when Lothar and I were... uhh.. talking outside."
@@ -3104,8 +3021,6 @@ translate schinese Sebas_Ask_Lusterfield_Lothar_35005525:
     # e "Ok... thanks, Sebas."
     e "好吧……谢谢你。"
 
-#问塞巴斯他自己
-
 translate schinese Sebas_Ask_Himself_58e0c1b1:
 
     # e "Soo... what about you?"
@@ -3140,8 +3055,6 @@ translate schinese Sebas_Ask_Himself_28aef9ad:
 
     # e "That sounds cozy."
     e "我觉得挺自在嘛。"
-
-#问关于当铺的事情
 
 translate schinese Sebas_Ask_Kingspawn_62644bd3:
 
@@ -3424,8 +3337,6 @@ translate schinese Sebas_Ask_Kingspawn_6cce255c:
 #     # s "Heh, sure thing."
 #     s ""
 
-#塞巴斯-结束对话
-
 translate schinese Sebas_Dialogue_End_c11c2b4e:
 
     # e "That's all for now, Seb."
@@ -3435,10 +3346,6 @@ translate schinese Sebas_Dialogue_End_83578b3f:
 
     # s "Hehe, take care buddy."
     s "吼吼，注意安全好哥们。"
-
-#奥利
-
-#在酒馆
 
 # translate schinese Ole_dialogue_e0dbc7b6:
 
@@ -3555,10 +3462,6 @@ translate schinese Sebas_Dialogue_End_83578b3f:
 #     # o "Heh... I like you this way."
 #     o ""
 
-#在当铺
-
-##裸体
-
 translate schinese Ole_dialogue_b93ddb0b:
 
     # o "Hey, kiddo... Did you forget to put on your clothes."
@@ -3573,9 +3476,6 @@ translate schinese Ole_dialogue_845cd927:
 
     # o "You can put them on anytime... now, I mean anytime..."
     o "你知道你随时都可以去穿衣服……随时……"
-
-##非裸体
-###第一天醒来
 
 translate schinese Ole_dialogue_64c2c56a:
 
@@ -3603,8 +3503,6 @@ translate schinese Ole_dialogue_bced9a10:
     # o "Heh, good to know."
     o "哈哈，看来那个顾客没有坑我们。"
 
-###第一天醒来以后
-
 translate schinese Ole_dialogue_e4038ae9:
 
     # o "Hey, kiddo."
@@ -3614,8 +3512,6 @@ translate schinese Ole_dialogue_794f2559:
 
     # e "Hello, Ole!"
     e "嘿，奥利！"
-
-#通用对话
 
 translate schinese Ole_Normal_Talk_fe5fcc14:
 
@@ -3639,8 +3535,8 @@ translate schinese strings:
     # old "Report about Amble and Jog's Training"
     # new "报告向安布和乔格请教的学习情况"
 
-    # old "Ask if he sees you under the counter"
-    # new "探问是否看见了你在柜台底下做的事情"
+    old "Ask if he sees you under the counter"
+    new "探问是否看见了你在柜台底下做的事情"
 
     # old "Ask about Further training and lessons"
     # new "询问进一步的邮递员训练和课程"
@@ -3659,8 +3555,6 @@ translate schinese strings:
 
     old "Ask about the Shop"
     new "询问当铺的事情"
-
-#问奥利有关村子的事情
 
 translate schinese Ole_Ask_Lusterfield_d9433aa5:
 
@@ -5032,100 +4926,100 @@ translate schinese strings:
 #     # s "Hey. Don't forget me!"
 #     s ""
 
-# translate schinese Ole_Ask_Under_Counter_c372fb80:
+translate schinese Ole_Ask_Under_Counter_c372fb80:
 
-#     # e "Ole?"
-#     e ""
+    # e "Ole?"
+    e "奥利？"
 
-# translate schinese Ole_Ask_Under_Counter_ca730175:
+translate schinese Ole_Ask_Under_Counter_ca730175:
 
-#     # o "Hmm?"
-#     o ""
+    # o "Hmm?"
+    o "嗯？"
 
-# translate schinese Ole_Ask_Under_Counter_0dd6c55c:
+translate schinese Ole_Ask_Under_Counter_0dd6c55c:
 
-#     # e "I..."
-#     e ""
+    # e "I..."
+    e "我……"
 
-# translate schinese Ole_Ask_Under_Counter_6efe202d:
+translate schinese Ole_Ask_Under_Counter_6efe202d:
 
-#     # e "Did you... happen to see..."
-#     e ""
+    # e "Did you... happen to see..."
+    e "你有没有……看见……"
 
-# translate schinese Ole_Ask_Under_Counter_354cf749:
+translate schinese Ole_Ask_Under_Counter_354cf749:
 
-#     # o "You and Seb?"
-#     o ""
+    # o "You and Seb?"
+    o "你和阿塞？"
 
-# translate schinese Ole_Ask_Under_Counter_72a33094:
+translate schinese Ole_Ask_Under_Counter_72a33094:
 
-#     # e "..."
-#     e "……"
+    # e "..."
+    e "……"
 
-# translate schinese Ole_Ask_Under_Counter_a2ea77ab:
+translate schinese Ole_Ask_Under_Counter_a2ea77ab:
 
-#     # o "Yeah. It's fine. It was too awkward for me once I realised you're not fixing the counter or something."
-#     o ""
+    # o "Yeah. It's fine. It was too awkward for me once I realised you're not fixing the counter or something."
+    o "没事的，[e]。我只是在反应过来你没在柜底修柜子的时候特别尴尬。"
 
-# translate schinese Ole_Ask_Under_Counter_ad7e7276:
+translate schinese Ole_Ask_Under_Counter_ad7e7276:
 
-#     # e "I'm sorry, Ole."
-#     e ""
+    # e "I'm sorry, Ole."
+    e "对不起。"
 
-# translate schinese Ole_Ask_Under_Counter_fef687ad:
+translate schinese Ole_Ask_Under_Counter_fef687ad:
 
-#     # o "I know you young boys have some weird impulses, but I thought you knew better than this..."
-#     o ""
+    # o "I know you young boys have some weird impulses, but I thought you knew better than this..."
+    o "我明白你们年轻小伙子会有些离奇的冲动，但我以为你们都懂事了……"
 
-# translate schinese Ole_Ask_Under_Counter_72a33094_1:
+translate schinese Ole_Ask_Under_Counter_72a33094_1:
 
-#     # e "..."
-#     e "……"
+    # e "..."
+    e "……"
 
-# translate schinese Ole_Ask_Under_Counter_829b5223:
+translate schinese Ole_Ask_Under_Counter_829b5223:
 
-#     # o "Seb shouldn't be putting the shop under the risk of bad reputation. That's reserved for the nocturnal trunk."
-#     o ""
+    # o "Seb shouldn't be putting the shop under the risk of bad reputation. That's reserved for the nocturnal trunk."
+    o "阿塞不该让当铺承受名声败坏的风险。这是夜夜椿而不是君临典当的商业形象。"
 
-# translate schinese Ole_Ask_Under_Counter_9f02d661:
+translate schinese Ole_Ask_Under_Counter_9f02d661:
 
-#     # e "I think we won't do it again..."
-#     e ""
+    # e "I think we won't do it again..."
+    e "我们以后不会再犯了……"
 
-# translate schinese Ole_Ask_Under_Counter_84a436e0:
+translate schinese Ole_Ask_Under_Counter_84a436e0:
 
-#     # o "Ha. I must look like a boring elderly who denies you instant gratification in your eyes, am I not?"
-#     o ""
+    # o "Ha. I must look like a boring elderly who denies you instant gratification in your eyes, am I not?"
+    o "哈哈，在你眼里我就像一个这也不行那也不行的无聊老头子，对吧？"
 
-# translate schinese Ole_Ask_Under_Counter_a845e617:
+translate schinese Ole_Ask_Under_Counter_a845e617:
 
-#     # e "Of course no. You're always right, Ole. I'm glad you're by my side."
-#     e ""
+    # e "Of course no. You're always right, Ole. I'm glad you're by my side."
+    e "当然没有。奥利你总能明辨是非，我很高兴有你做朋友。"
 
-# translate schinese Ole_Ask_Under_Counter_3ff63043:
+translate schinese Ole_Ask_Under_Counter_3ff63043:
 
-#     # o "Yeah... Stay with Seb more, I think he likes your company."
-#     o ""
+    # o "Yeah... Stay with Seb more, I think he likes your company."
+    o "嗯……多陪陪阿塞，他喜欢你在他身边。"
 
-# translate schinese Ole_Ask_Under_Counter_80c64ffb:
+translate schinese Ole_Ask_Under_Counter_80c64ffb:
 
-#     # e "Do... you like my company as well."
-#     e ""
+    # e "Do... you like my company as well."
+    e "那你……也喜欢我在你身边吗？"
 
-# translate schinese Ole_Ask_Under_Counter_6d4322fc:
+translate schinese Ole_Ask_Under_Counter_6d4322fc:
 
-#     # o "...I do."
-#     o ""
+    # o "...I do."
+    o "……我也喜欢。"
 
-# translate schinese Ole_Ask_Under_Counter_6cf2b443:
+translate schinese Ole_Ask_Under_Counter_6cf2b443:
 
-#     # o "Now, let me continue with my work. I'll see you later."
-#     o ""
+    # o "Now, let me continue with my work. I'll see you later."
+    o "我得继续工作了，待会见小兄弟。"
 
-# translate schinese Ole_Ask_Under_Counter_d35aaf4c:
+translate schinese Ole_Ask_Under_Counter_d35aaf4c:
 
-#     # e "Ok."
-#     e ""
+    # e "Ok."
+    e "好的。"
 
 translate schinese Ole_Ask_Goat_Tribe_62774199:
 
@@ -6893,8 +6787,6 @@ translate schinese Ole_Apron_Quest_ba31ebcc:
 #     # e "Alright."
 #     e ""
 
-#完成任务1
-
 translate schinese Ole_Postal_Finish_daeb3047:
 
     # e "Ole! I'm back from all three training you gave me!"
@@ -6985,8 +6877,6 @@ translate schinese Ole_Postal_Finish_e2808404:
     # e "Yes! Ole. I'll be back soon."
     e "是！我尽快完成训练。"
 
-#询问当铺
-
 translate schinese Ole_Ask_Kingspawn_0cb532a7:
 
     # e "Hey, Ole. How did you and Sebas built this shop?"
@@ -7042,8 +6932,6 @@ translate schinese Ole_Ask_Kingspawn_398d784d:
 
     # e "Alright, thanks Ole."
     e "好吧，谢谢你。"
-
-#任务1
 
 translate schinese Ole_Postal_Training_7f4577d7:
 
@@ -7125,8 +7013,6 @@ translate schinese Ole_Postal_Training_b729b5c2:
     # msg "Your Journal has been updated."
     msg "备忘录已更新"
 
-#问关于村子的事
-
 translate schinese Ole_Ask_Lusterfield_People_69aa160d:
 
     # e "Hey, Ole! How are the people in Lusterfield doing?"
@@ -7202,8 +7088,6 @@ translate schinese Ole_Ask_Lusterfield_People_535d9ef0:
     # e "Ok. I'll be on the look out, thanks Ole."
     e "好，我会多加注意的。谢谢你奥利。"
 
-#问关于洛萨尔的事
-
 translate schinese Ole_Ask_Lusterfield_Lothar_8d3ae7eb:
 
     # e "Hey, Ole."
@@ -7274,8 +7158,6 @@ translate schinese Ole_Ask_Lusterfield_Lothar_5e33dede:
 
     # o "Thanks, kiddo."
     o "谢谢。"
-
-#问关于奥利自己的事
 
 translate schinese Ole_Ask_Himself_e3545a54:
 
@@ -7397,15 +7279,10 @@ translate schinese Ole_Ask_Himself_d92a2fb3:
     # e "Alright, I'll see you later."
     e "那就好，待会见。"
 
-#奥利结束对话
-
 translate schinese Ole_Dialogue_End_88c159ac:
 
     # o "Alright kid, have a good day."
     o "好，祝你一切顺利。"
-
-#雷希姆
-##裸体
 
 translate schinese Rahim_Dialogue_846228c8:
 
@@ -7439,8 +7316,6 @@ translate schinese strings:
 
     old "Being Naked is not my Tribe's Tradition"
     new "回答裸露不是霍克埃塔的传统"
-
-##选择
 
 translate schinese Rahim_Dialogue_345bed1e:
 
@@ -7507,8 +7382,6 @@ translate schinese Rahim_Dialogue_b9b755e5_1:
     # r "..."
     r "……"
 
-#允许裸体
-
 translate schinese Rahim_Dialogue_2902a041:
 
     # r "You... naked.. again?"
@@ -7559,8 +7432,6 @@ translate schinese Rahim_Dialogue_b9b755e5_2:
     # r "..."
     r "……"
 
-#第二次见面
-
 translate schinese Rahim_Dialogue_e43364e3:
 
     # r "You are [e]. Correct?"
@@ -7576,8 +7447,6 @@ translate schinese Rahim_Dialogue_982e3ddf:
     # r "Ok."
     r "嗯。"
 
-#第二次见面后
-
 translate schinese Rahim_Dialogue_4d565392:
 
     # r "How goes it, [e]."
@@ -7587,8 +7456,6 @@ translate schinese Rahim_Dialogue_b3dcb561:
 
     # e "I'm well, thanks Rahim."
     e "我很好，谢谢雷叔关心。"
-
-#雷希姆通用对话
 
 translate schinese Rahim_Normal_Talk_46758535:
 
@@ -7635,8 +7502,6 @@ translate schinese strings:
 
     old "How is he doing"
     new "询问近来的情况"
-
-#问雷希姆村里的事情
 
 translate schinese Rahim_Ask_Lusterfield_6d945238:
 
@@ -9886,8 +9751,6 @@ translate schinese Rahim_Postal_Training_e40338aa:
     # e "Thanks Rahim. I'll bring it to you very quickly."
     e "谢谢雷叔，我马上去做。"
 
-#完成任务3
-
 translate schinese Rahim_Postal_Finish_3e6a72d7:
 
     # e "Hello, Rahim! I've finished the tunic!"
@@ -9967,8 +9830,6 @@ translate schinese Rahim_Postal_Finish_530f3065_1:
 
     # e "Ok, I'll be back soon."
     e "嗯，待会见。"
-
-#问村子的事
 
 translate schinese Rahim_Ask_Lusterfield_People_789effe3:
 
@@ -10181,8 +10042,6 @@ translate schinese Rahim_Ask_GoatTribe_c7420349:
     # e "I will... Thank you Rahim."
     e "我会的……谢谢雷叔。"
 
-#问职业
-
 translate schinese Rahim_Ask_Tailor_1229a64a:
 
     # e "How long have you been a tailor for the village?"
@@ -10222,8 +10081,6 @@ translate schinese Rahim_Ask_Tailor_77e56968:
 
     # r "You are a helpful boy."
     r "[e]，你是个懂事的好孩子。"
-
-#问关于雷希姆自己的事情
 
 translate schinese Rahim_Ask_Himself_88e9f8ee:
 
@@ -10911,8 +10768,6 @@ translate schinese Rahim_Apron_Quest_358d4028:
 
 #     # r "Hmm..."
 #     r ""
-
-#雷希姆结束对话
 
 translate schinese Rahim_Dialogue_End_8d660a05:
 

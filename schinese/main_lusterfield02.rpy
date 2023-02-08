@@ -3782,7 +3782,7 @@ translate schinese Cane_Ask_Goat_Tribe_8027243b:
 
     # e "...Cane? Have you heard of... the letter?"
     e "……凯恩，你有听说过……那封信吗？"
-#TODO
+
 translate schinese Cane_Ask_Goat_Tribe_dad25553:
 
     # c "Ye, ye. The lion spread around the news yesterday like strawberry jam on my bread."
