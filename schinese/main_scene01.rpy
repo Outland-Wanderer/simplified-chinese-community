@@ -1,253 +1,255 @@
-﻿# translate schinese scene_masturbation_6a87edce:
+﻿translate schinese scene_masturbation_6a87edce:
 
-#     # "Without a second thought, your hands wander around your body."
-#     ""
-#     $ renpy.notify("该场景文本未与画面同步更新")
+    # "Without a second thought, your hands wander around your body."
+    $ renpy.notify("该场景文本未与画面同步更新")
+    "没有了衣物阻碍，你迫不及待地双手并用开始爱抚自己的身体。"
 
-# translate schinese scene_masturbation_8be627a8:
+translate schinese scene_masturbation_8be627a8:
 
-#     # "Every touch feels like an over-sensitive experience, and the smooth caress of your own hand is giving you tinkly feeling."
-#     ""
+    # "Every touch feels like an over-sensitive experience, and the smooth caress of your own hand is giving you tinkly feeling."
+    "爪掌轻轻拨过体毛带来瘙痒的感觉，游走到每一寸皮肤都敏感得出奇。"
 
-# translate schinese scene_masturbation_d16f97a2:
+translate schinese scene_masturbation_d16f97a2:
 
-#     # e "Oh-h..."
-#     e ""
+    # e "Oh-h..."
+    e "噢……"
 
-# translate schinese scene_masturbation_f7661362:
+translate schinese scene_masturbation_f7661362:
 
-#     # "You right hand runs from your neck to your sensual chest, rubbing your fingers slowly against it, it is bouncing up and down softly to your lightest touch."
-#     ""
+    # "You right hand runs from your neck to your sensual chest, rubbing your fingers slowly against it, it is bouncing up and down softly to your lightest touch."
+    "你的右手从颈间滑向性感的胸部，慢慢感受肌肉隆起的弧度。你的胸肌厚实却不僵硬，再轻微的按压也能让它即刻回弹。"
 
-# translate schinese scene_masturbation_e9e51a04:
+translate schinese scene_masturbation_e9e51a04:
 
-#     # "When your finger reaches your nipple, you let out a light gasp."
-#     ""
+    # "When your finger reaches your nipple, you let out a light gasp."
+    "不一会你摸到了乳头，全身上下如触电般绷紧，令你发出微微的喘息声。"
 
-# translate schinese scene_masturbation_c27771d9:
+translate schinese scene_masturbation_c27771d9:
 
-#     # "Your entire body tenses up like an electrical shock to your skin."
-#     ""
+    # "Your entire body tenses up like an electrical shock to your skin."
+    pass
 
-# translate schinese scene_masturbation_10bc33b9:
+translate schinese scene_masturbation_10bc33b9:
 
-#     # "You close you eyes for a moment, gently nudging your own nipples, and you let out another gasp."
-#     ""
+    # "You close you eyes for a moment, gently nudging your own nipples, and you let out another gasp."
+    "你闭上眼睛，轻轻揉搓着自己的愉悦源泉，喉咙里蹦出另一声娇喘。"
 
-# translate schinese scene_masturbation_13242a35:
+translate schinese scene_masturbation_13242a35:
 
-#     # "The constant teasing of your own nipple makes you feel blissfully thrilled."
-#     ""
+    # "The constant teasing of your own nipple makes you feel blissfully thrilled."
+    "你的乳头实在太敏感了，每刮一下你的胸肌就会跟着抽动一下。"
 
-# translate schinese scene_masturbation_cb8dca52:
+translate schinese scene_masturbation_cb8dca52:
 
-#     # "It is so sensitive that your chest muscles convulse with every touch."
-#     ""
+    # "It is so sensitive that your chest muscles convulse with every touch."
+    pass
 
-# translate schinese scene_masturbation_c9f36473:
+translate schinese scene_masturbation_c9f36473:
 
-#     # "Eventually, you pinch on it with most of your strength."
-#     ""
+    # "Eventually, you pinch on it with most of your strength."
+    "持续不断地挑逗让你感觉好生幸福。你进而用力掐住胸前那粒凸起。"
 
-# translate schinese scene_masturbation_a4abf8b7:
+translate schinese scene_masturbation_a4abf8b7:
 
-#     # e "Ah-hhh!"
-#     e ""
+    # e "Ah-hhh!"
+    e "哼啊——！"
 
-# translate schinese scene_masturbation_96219358:
+translate schinese scene_masturbation_96219358:
 
-#     # "You moan so loud that the others in the shop might hear you."
-#     ""
+    # "You moan so loud that the others in the shop might hear you."
+    "想必这叫声大到房间外的其他人都能听到，但已经兴起的你并不会在意。"
 
-# translate schinese scene_masturbation_ae12a6ab:
+translate schinese scene_masturbation_ae12a6ab:
 
-#     # "But you don't care anymore, your other hand begins to wander deeper below, grazing against your stomach."
-#     ""
+    # "But you don't care anymore, your other hand begins to wander deeper below, grazing against your stomach."
+    "与此同时，你的左手滑过齐整清晰的腹肌向下身探去，顺利覆上了被遮裆布盖住的宝贝。"
 
-# translate schinese scene_masturbation_711c6759:
+translate schinese scene_masturbation_711c6759:
 
-#     # "It reaches the loincloth very effortlessly."
-#     ""
+    # "It reaches the loincloth very effortlessly."
+    pass
 
-# translate schinese scene_masturbation_43f8c0c0:
+translate schinese scene_masturbation_43f8c0c0:
 
-#     # "Your hand explore around the area, scraping against the cloth to feel something underneath"
-#     ""
+    # "Your hand explore around the area, scraping against the cloth to feel something underneath"
+    pass
 
-# translate schinese scene_masturbation_941661bb:
+translate schinese scene_masturbation_941661bb:
 
-#     # "Very quickly, you found a hard-on under the loincloth, and it is growing with every second."
-#     ""
+    # "Very quickly, you found a hard-on under the loincloth, and it is growing with every second."
+    "你透过布料感受着自己的性器。很快，你两腿间的大包鼓胀起来，越来越粗壮，越来越挺拔。"
 
-# translate schinese scene_masturbation_bd36a089:
+translate schinese scene_masturbation_bd36a089:
 
-#     # "You cannot hold your arousal anymore, your balls are so full."
-#     ""
+    # "You cannot hold your arousal anymore, your balls are so full."
+    "大包下那对卵蛋蓄满了性欲，令你饥渴难耐。"
 
-# translate schinese scene_masturbation_9da4332e:
+translate schinese scene_masturbation_9da4332e:
 
-#     # "You nudges on your cock underneath the loincloth, the rough fabric is creating enough friction that makes your cock leak pre-cums right away."
-#     ""
+    # "You nudges on your cock underneath the loincloth, the rough fabric is creating enough friction that makes your cock leak pre-cums right away."
+    "你摆弄起支棱的小帐篷。遮裆布质地粗糙，龙根在强烈的摩擦力刺激下立即涌出淫水。"
 
-# translate schinese scene_masturbation_8c6541b9:
+translate schinese scene_masturbation_8c6541b9:
 
-#     # "Your palm is tracing the shape of your cock, it becomes strikingly obvious when you wrap your loincloth around your throbbing member."
-#     ""
+    # "Your palm is tracing the shape of your cock, it becomes strikingly obvious when you wrap your loincloth around your throbbing member."
+    "你握紧龙根，让遮裆布包被着它，显现出傲人的形状与尺寸。"
 
-# translate schinese scene_masturbation_cd07466c:
+translate schinese scene_masturbation_cd07466c:
 
-#     # "The room has become so hot, and you are sweating profusely."
-#     ""
+    # "The room has become so hot, and you are sweating profusely."
+    "不知不觉间，你已经大汗淋漓，房间也变得闷热难当。"
 
-# translate schinese scene_masturbation_449a5fd3:
+translate schinese scene_masturbation_449a5fd3:
 
-#     # "Your cock is jolting in anticipation, you are getting more and more impatient to let out all these pent up lust and hunger."
-#     ""
+    # "Your cock is jolting in anticipation, you are getting more and more impatient to let out all these pent up lust and hunger."
+    "你的下体仍在兴奋地搏动，压抑已久的欲望必须现在得到释放。"
 
-# translate schinese scene_masturbation_d23a3db7:
+translate schinese scene_masturbation_d23a3db7:
 
-#     # e "Ha... F-fuck..."
-#     e ""
+    # e "Ha... F-fuck..."
+    e "哈……我操……"
 
-# translate schinese scene_masturbation_43bc3b7a:
+translate schinese scene_masturbation_43bc3b7a:
 
-#     # "You remove your loincloth clumsily, the precum is leaking everywhere on your bedsheet."
-#     ""
+    # "You remove your loincloth clumsily, the precum is leaking everywhere on your bedsheet."
+    "你颤抖着脱下遮裆布，大鸡巴啪的一声弹了出来，拍打在肚皮上频频点头。"
 
-# translate schinese scene_masturbation_2299d41d:
+translate schinese scene_masturbation_2299d41d:
 
-#     # "But all you see is your pulsing and stiff rod, it slumps against your stomach before thumping up again."
-#     ""
+    # "But all you see is your pulsing and stiff rod, it slumps against your stomach before thumping up again."
+    "淫水渗得满床单都是，但你顾不上那么多了。"
 
-# translate schinese scene_masturbation_142d4fba:
+translate schinese scene_masturbation_142d4fba:
 
-#     # "When your cock is fully erect. You hold on to it gently."
-#     ""
+    # "When your cock is fully erect. You hold on to it gently."
+    "性器完全勃起，占据了你所有心思。你温柔地握住自己的雄武，而它已经粗大到单手没法完全包握。"
 
-# translate schinese scene_masturbation_1adb5708:
+translate schinese scene_masturbation_1adb5708:
 
-#     # "It is obvious that your hand cannot fit with your cock, so you slowing stroke it up and down, trying to get into a rhythmical pace."
-#     ""
+    # "It is obvious that your hand cannot fit with your cock, so you slowing stroke it up and down, trying to get into a rhythmical pace."
+    "你进而上下套弄起这根巨龙，保持着一定的节奏。"
 
-# translate schinese scene_masturbation_8473832e:
+translate schinese scene_masturbation_8473832e:
 
-#     # "Your one hand is pinching on your nipple, and your other hand is fondling your own member, you lick your lips ever so slightly."
-#     ""
+    # "Your one hand is pinching on your nipple, and your other hand is fondling your own member, you lick your lips ever so slightly."
+    "现在你右手捏着乳头，左手撸着鸡巴，微微舔着嘴唇渐入佳境。"
 
-# translate schinese scene_masturbation_5a6be1a9:
+translate schinese scene_masturbation_5a6be1a9:
 
-#     # e "O-oh... P-please."
-#     e ""
+    # e "O-oh... P-please."
+    e "噢……"
 
-# translate schinese scene_masturbation_31b4a1b6:
+translate schinese scene_masturbation_31b4a1b6:
 
-#     # "You stroke your cock up, scraping against your foreskin."
-#     ""
+    # "You stroke your cock up, scraping against your foreskin."
+    "你加快了速度，不断擦过包皮下的敏感点。"
 
-# translate schinese scene_masturbation_2efe62ff:
+translate schinese scene_masturbation_2efe62ff:
 
-#     # "The lust and desire in your brain is building up to a point of no return."
-#     ""
+    # "The lust and desire in your brain is building up to a point of no return."
+    "淫欲积聚，逐渐把你推上不可回退的高潮悬崖。"
 
-# translate schinese scene_masturbation_a16c9247:
+translate schinese scene_masturbation_a16c9247:
 
-#     # "You shut your eyes and imagine someone else to touch you right here, someone holding your hands and pushing himself against your wet entrance."
-#     ""
+    # "You shut your eyes and imagine someone else to touch you right here, someone holding your hands and pushing himself against your wet entrance."
+    "你闭上眼睛，想象此时有人摸遍你全身，与你十指相扣，挺着他的擎天柱撞进你早已湿润的小骚穴中。"
 
-# translate schinese scene_masturbation_bcdef41c:
+translate schinese scene_masturbation_bcdef41c:
 
-#     # "It would feel so good to let yourself go for just a few moments, to let someone take hold of your lustful body."
-#     ""
+    # "It would feel so good to let yourself go for just a few moments, to let someone take hold of your lustful body."
+    "偶尔放空自己，将身体交给他人任意摆布的感觉想必舒服极了。"
 
-# translate schinese scene_masturbation_185eb191:
+translate schinese scene_masturbation_185eb191:
 
-#     # "You moan and grunt, thinking about the person you love, you imagine his cock throbbing, patiently waiting for you."
-#     ""
+    # "You moan and grunt, thinking about the person you love, you imagine his cock throbbing, patiently waiting for you."
+    "你呻吟着，吞咽着，幻想着自己心爱的那个他，幻想他跳动的鸡巴在耐心等候你的差遣。"
 
-# translate schinese scene_masturbation_e85360b1:
+translate schinese scene_masturbation_e85360b1:
 
-#     # e "Hnnnn-ngh..."
-#     e ""
+    # e "Hnnnn-ngh..."
+    e "嗯啊……"
 
-# translate schinese scene_masturbation_459dd9dc:
+translate schinese scene_masturbation_459dd9dc:
 
-#     # "Your pace gets faster and faster when you realise the room becomes much hotter."
-#     ""
+    # "Your pace gets faster and faster when you realise the room becomes much hotter."
+    "你的喘息声越来越粗重，周围的空气也变得更加燥热。"
 
-# translate schinese scene_masturbation_e39aff8a:
+translate schinese scene_masturbation_e39aff8a:
 
-#     # "All you have in your brain now is only your insatiable thirst. You pant heavier and heavier."
-#     ""
+    # "All you have in your brain now is only your insatiable thirst. You pant heavier and heavier."
+    "此刻你脑海中只有对原始欢愉永不满足的渴望。"
 
-# translate schinese scene_masturbation_9bbc8d33:
+translate schinese scene_masturbation_9bbc8d33:
 
-#     # "The sensory overload is getting so unbearable that you almost pass out, but you are dangerously close to climax."
-#     ""
+    # "The sensory overload is getting so unbearable that you almost pass out, but you are dangerously close to climax."
+    "超越感官核载的刺激令你差点失去意识，稍不注意就有可能失守精关。"
 
-# translate schinese scene_masturbation_a1441c4e:
+translate schinese scene_masturbation_a1441c4e:
 
-#     # "Your hand is still bouncing up and down on your cock, getting faster and faster."
-#     ""
+    # "Your hand is still bouncing up and down on your cock, getting faster and faster."
+    "你手中的动作一刻也没有停下，反而越来越疯狂。"
 
-# translate schinese scene_masturbation_1c456ef6:
+translate schinese scene_masturbation_1c456ef6:
 
-#     # "Your legs quivering to the pace of your stroke, you grip on the bedsheet more tightly."
-#     ""
+    # "Your legs quivering to the pace of your stroke, you grip on the bedsheet more tightly."
+    "你的臀部与之同步绷紧、放松、绷紧、放松……"
+    "要射了！"
 
-# translate schinese scene_masturbation_ca8ac7c4:
+translate schinese scene_masturbation_ca8ac7c4:
 
-#     # "You can feel it coming. A loud gasp escape your mouth before your member erupt with ropes and ropes of cum."
-#     ""
+    # "You can feel it coming. A loud gasp escape your mouth before your member erupt with ropes and ropes of cum."
+    "伴随着一声怒吼，大股大股雄精从发怒的巨根喷射而出。"
 
-# translate schinese scene_masturbation_8b0a32b4:
+translate schinese scene_masturbation_8b0a32b4:
 
-#     # e "AAAAHHH-Hgh!"
-#     e ""
+    # e "AAAAHHH-Hgh!"
+    e "啊啊啊啊！"
 
-# translate schinese scene_masturbation_faee904c:
+translate schinese scene_masturbation_faee904c:
 
-#     # "You scream loudly as your whole body twitches at the amount of ecstasy."
-#     ""
+    # "You scream loudly as your whole body twitches at the amount of ecstasy."
+    "你放声呻吟，通体因极乐而抽搐。"
 
-# translate schinese scene_masturbation_454c5956:
+translate schinese scene_masturbation_454c5956:
 
-#     # "Some of the cum land on your face, some drips down on your chest, all of them splatters around your body like a mess."
-#     ""
+    # "Some of the cum land on your face, some drips down on your chest, all of them splatters around your body like a mess."
+    "奶白色的浓精喷洒到你的脸庞与胸脯上，渗进周围的皮毛搞得一团糟。"
 
-# translate schinese scene_masturbation_a091f9e2:
+translate schinese scene_masturbation_a091f9e2:
 
-#     # "Your cock is still pulsating, dribbling the last few drop of cum on the side."
-#     ""
+    # "Your cock is still pulsating, dribbling the last few drop of cum on the side."
+    "你的鸡巴还在抽动，爱液一阵阵从马眼溢出、滴落。"
 
-# translate schinese scene_masturbation_27a21ad9:
+translate schinese scene_masturbation_27a21ad9:
 
-#     # e "F-fuck...Mmhmmmm..."
-#     e ""
+    # e "F-fuck...Mmhmmmm..."
+    e "干……唔……"
 
-# translate schinese scene_masturbation_ec9604f6:
+translate schinese scene_masturbation_ec9604f6:
 
-#     # "Your body feels like it's getting drained to the core, you slump into your bed."
-#     ""
+    # "Your body feels like it's getting drained to the core, you slump into your bed."
+    "你彻底瘫倒，感觉身体像被完全掏空了一般。"
 
-# translate schinese scene_masturbation_238a635b:
+translate schinese scene_masturbation_238a635b:
 
-#     # "It would be so great to share this pleasure with someone else, but you are satisfied for now."
-#     ""
+    # "It would be so great to share this pleasure with someone else, but you are satisfied for now."
+    "你心想，要是有谁能与自己共享这份快乐该有多好。"
+    "不过现在你已经知足了。"
 
-# translate schinese scene_masturbation_9f56daa9:
+translate schinese scene_masturbation_9f56daa9:
 
-#     # "You don't even bother to clean yourself up, it is a job for the future you after all."
-#     ""
+    # "You don't even bother to clean yourself up, it is a job for the future you after all."
+    "你甚至累到懒得清理残局，于是你闭上眼睛，慢慢沉入进睡梦当中。"
 
-# translate schinese scene_masturbation_a0fb88e6:
+translate schinese scene_masturbation_a0fb88e6:
 
-#     # "Slowly but surely, you close your eyes once more and wander away to sleep."
-#     ""
+    # "Slowly but surely, you close your eyes once more and wander away to sleep."
+    "麻烦事就留给未来的自己去做吧。"
 
-# translate schinese scene_masturbation_a20cefa7:
+translate schinese scene_masturbation_a20cefa7:
 
-#     # "..."
-#     "……"
+    # "..."
+    "……"
 
 translate schinese strings:
 
@@ -492,7 +494,7 @@ translate schinese Scene_Sebas_Under_Counter_60ea3c44:
 translate schinese Scene_Sebas_Under_Counter_b0021ab9:
 
     # "His cock is pulsating with each stroke, fluttering at your slightest touch."
-    "他的巨根随着你的套弄而搏动，即使再轻微的触碰也能让它频频“点头”。"
+    "他的巨根随着你的套弄而搏动，即使再轻微的触碰也能让它哆嗦。"
 
 translate schinese Scene_Sebas_Under_Counter_7c522a3f:
 

@@ -1,7 +1,7 @@
 translate schinese main_bedroom_23ae28c4:
 
     # "You cannot resist your lust anymore, you lunge into your own bed, grinding yourself against the bedsheet before looking down at your crotch, it is remarkably hard now."
-    "你趴上床，无法对自己的淫欲置之不理，挺胯对着床单就是一顿摩擦。这时你向下看，两腿间的小帐篷已经高高架起惹人抚弄。"
+    "你无法对自己的淫欲置之不理，趴上床挺胯对着床单就是一顿摩擦。这时你向下看，两腿间的小帐篷已经高高架起惹人抚弄。"
 
 translate schinese main_bedroom_28952bf0:
 
