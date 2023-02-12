@@ -1,6 +1,4 @@
-﻿# #任务11
-
-# translate schinese main_woodland_outpost_78c284fa:
+﻿# translate schinese main_woodland_outpost_78c284fa:
 
 #     # k "Hey... Where's Furkan?"
 #     k ""
@@ -85,8 +83,6 @@
 #     # "You decide that the guards won't let you in, and you move on back to the main road."
 #     ""
 
-#古树-伐木
-
 translate schinese ancient_tree_chop_bd47983b:
 
     # "You chop off some wood from a nearby tree. You have collected [chop_amount] Wooden Log. However, you have lost 20 hp in the process."
@@ -101,8 +97,6 @@ translate schinese ancient_tree_chop_a229b0ad:
 
     # "You look through your bag, there's nothing for you to chop the wood except for your hand. You would probably need an axe for this occasion."
     "你翻了翻背包，没找到除了你双手之外的伐木工具。你决定先去整把斧头改日再来。"
-
-#苍耀湖-打水
 
 # translate schinese sparkling_lagoon_drink_e8ac8bd3:
 
@@ -160,8 +154,6 @@ translate schinese strings:
 
     old "Drink from the pond"
     new "饮用湖水"
-
-#叠翠森林
 
 translate schinese green_forest_loop_e59928dc:
 
@@ -243,8 +235,6 @@ translate schinese green_forest_loop_e7c8eaf3:
     # "You put the stone into your bag, you now have [item_number] stones."
     "你将石块放进背包，现在你持有 [item_number] 个石块。"
 
-#骄阳农场
-
 # translate schinese summery_farmland_loop_f5a6843c:
 
 #     # "You come across a barley field in the farmland, you use your scythe and pick up a crop of barley."
@@ -305,8 +295,6 @@ translate schinese strings:
 
     old "Leave it alone"
     new "否"
-
-#古树
 
 translate schinese ancient_tree_loop_5ec750a1:
 
@@ -393,8 +381,6 @@ translate schinese ancient_tree_loop_e91ba75d_2:
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     "你找了又找，但周围似乎没有什么值得关注的东西了。"
 
-#苍耀湖
-
 translate schinese sparkling_lagoon_loop_752145e3:
 
     # "Around the lagoon, you notice that there's a patch of small flowers nearby, you go and pick it up, it was a flax flower."
@@ -464,8 +450,6 @@ translate schinese sparkling_lagoon_loop_e91ba75d_1:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     "你找了又找，但周围似乎没有什么值得关注的东西了。"
-
-#招藓河
 
 translate schinese mossy_freshwater_loop_c78bb1b6:
 
@@ -646,8 +630,6 @@ translate schinese mossy_freshwater_loop_e91ba75d_1:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     "你找了又找，但周围似乎没有什么值得关注的东西了。"
-
-#林地前哨站
 
 translate schinese woodland_outpost_loop_b9952a9e:
 
@@ -1034,8 +1016,6 @@ translate schinese alchemists_cabin_loop_e91ba75d:
 #     # "You put the ginger in your bag, you now have [item_number] gingers."
 #     ""
 
-#战败史莱姆
-
 translate schinese scene_slime_sex_7652cf4c:
 
     # "Your consciousness lingers. How could this mere slime defeat you in such a humiliating fashion. You clutch at the grass, praying that the slime would leave you alone."
@@ -1050,6 +1030,7 @@ translate schinese scene_slime_sex_1b9337db:
 
     # "Instead, the slime slithers towards you. You can sense its presence gets closer and closer every second, until it makes contact with your fur."
     "史莱姆滑过青草朝你缓缓蠕动，离你越来越近，直至挨上你的毛发。"
+    $ renpy.notify("该场景文本未与画面同步更新")
 
 translate schinese scene_slime_sex_162528bb:
 
@@ -1106,9 +1087,9 @@ translate schinese scene_slime_sex_23c9fec3:
     # e "A-ahhhhh...."
     e "啊啊啊……"
 
-translate schinese scene_slime_sex_5d56afbd:
+translate schinese scene_slime_sex_3bdca4bc:
 
-    # "For a second, you imagine it would continue towards your legs, but as soon as the slime slide itself under your loincloth, you realise what it is doing."
+    # "For a second, you imagine it would continue towards your legs, but as soon as the slime slides itself under your loincloth, you realise what it is doing."
     "倏忽间，你以为史莱姆会向腿脚继续前进，而它却一举掀开遮裆布，此刻你才明白它真正的目的地。"
 
 translate schinese scene_slime_sex_2165b1c9:

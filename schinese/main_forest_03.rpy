@@ -32,8 +32,3 @@ translate schinese sundersilk_cascades_loop_e91ba75d_3:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     "你找了又找，但周围似乎没有什么值得关注的东西了。"
-
-translate schinese main_backyard_barn_e6d22e0b:
-
-    # msg "Work in Progress!"
-    msg "正在开发中！"

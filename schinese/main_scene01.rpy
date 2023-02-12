@@ -4,9 +4,9 @@
     $ renpy.notify("该场景文本未与画面同步更新")
     "没有了衣物阻碍，你迫不及待地双手并用开始爱抚自己的身体。"
 
-translate schinese scene_masturbation_8be627a8:
+translate schinese scene_masturbation_c469aa8f:
 
-    # "Every touch feels like an over-sensitive experience, and the smooth caress of your own hand is giving you tinkly feeling."
+    # "Every touch feels like an over-sensitive experience, and the smooth caress of your own hand is giving you tickly feeling."
     "爪掌轻轻拨过体毛带来瘙痒的感觉，游走到每一寸皮肤都敏感得出奇。"
 
 translate schinese scene_masturbation_d16f97a2:
@@ -841,9 +841,9 @@ translate schinese Scene_Goat_Lose_5638889d:
     # "But... surprisingly he is very gentle with you, even if forcefully. His soft touch is making you go insane."
     "与想象相反……强迫你屈服的他此时却温柔极了。外族细致的手法令你有些迷糊。"
 
-translate schinese Scene_Goat_Lose_8995eb00:
+translate schinese Scene_Goat_Lose_69e23c93:
 
-    # "You can feel his warmth emanating on your back, his breath gets tinkly in your neck."
+    # "You can feel his warmth emanating on your back, his breath gets tickly in your neck."
     "他俯下身子，你感受着陌生人传递出的温暖，脖子被气流吹得发痒。"
 
 translate schinese Scene_Goat_Lose_a6970c5e:

@@ -37,6 +37,8 @@
 
 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)
 
+[千图雪花体](https://www.58pic.com/index.php?m=qtwFontPage)
+
 ## 译者名单
 
 逆戟鲸

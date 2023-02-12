@@ -1,4 +1,8 @@
-﻿translate schinese strings:
+﻿translate schinese style main_menu_style:
+    font "qiantuxuehuati.ttf"
+    bold False
+
+translate schinese strings:
 
     old "Back"
     new "回退"
@@ -233,3 +237,12 @@
 
     old "Gallery"
     new "画廊"
+
+    old "Work in Progress"
+    new "测试内容"
+
+    old "Kinkier Text"
+    new "更猎奇的叙述"
+
+    old "Redesigned MC"
+    new "重绘版主角"

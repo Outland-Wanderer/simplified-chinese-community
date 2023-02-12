@@ -36,6 +36,6 @@
 
     简体中文翻译： 逆戟鲸COPtimer  {a=https://twitter.com/COPtimer_1974}Twitter{/a}
 
-    使用字体： Adobe Garamond Pro、Adobe Chaparral Pro、文鼎ＰＬ简中楷、霞鹜文楷
+    使用字体： Adobe Garamond Pro、Adobe Chaparral Pro、文鼎ＰＬ简中楷、霞鹜文楷、千图雪花体
 
     """)

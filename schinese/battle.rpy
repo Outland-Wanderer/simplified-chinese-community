@@ -145,6 +145,14 @@ translate schinese slime_lose_b2fedee8:
     # msg "Do you wish to replay the losing Scene?" nointeract
     msg "你想重放战败情景吗？" nointeract
 
+translate schinese strings:
+
+    old "Yes{#slimelose}"
+    new "是"
+
+    old "No{#slimelose}"
+    new "否"
+
 translate schinese slime_lose_f2930421:
 
     # "You fall unconscious shortly after..."
@@ -648,6 +656,17 @@ translate schinese goat_win_36785ac5:
 #     # k "...Well. The second one, or should I say, ones. They're our best duo in the tribe... B-best warrior duo..."
 #     k ""
 
+translate schinese strings:
+
+    old "You stare at the goat lying on the ground, barely able to catch a breath..."
+    new "你俯视倒地的山羊，他正上气不接下气……"
+
+    old "Have fun with the huntsman"
+    new "及时行乐"
+#TODO
+    # old "Leave him alone"
+    # new "放他一马"
+
 # translate schinese goat_win_534b91e8:
 
 #     # gt "W-wait... not here..."
@@ -723,9 +742,20 @@ translate schinese goat_lose_85500e57:
     # "The huntsman stands above you like a hunter with his prey, licking his lips while thinking about his next move."
     "山羊猎人站在你跟前，居高临下舔了舔嘴唇，思考接下来要怎么玩弄他的猎物。"
 
-# translate schinese goat_lose_85b01bde:
+translate schinese strings:
 
-#     # gt "Heh... gotta bring you to somewhere discrete..."
+    old "Do you wish to replay the lose Scene?"
+    new "你想重放战败情景吗？"
+
+    old "Yes{#goatlose}"
+    new "是"    
+
+    old "No{#goatlose}"
+    new "否"
+
+# translate schinese goat_lose_f879780c:
+
+#     # gt "Heh... gotta bring you to somewhere discreet..."
 #     gt ""
 
 # translate schinese goat_lose_7489b947:
@@ -885,9 +915,9 @@ translate schinese buggbear_battle_loop_b5748ee7:
     # "But the beast easily catches up to you and throws your entire body on the ground. Your escape seems to have failed!"
     pass
 
-translate schinese buggbear_battle_loop_48c7dd41:
+translate schinese buggbear_battle_loop_4af42606:
 
-    # "You slowly back down from the buggbear's attack, you turn around and run as fast as you can. The beast tries to outrun you but he trips and falls on the ground, You successfully escaped from the huntsman!"
+    # "You slowly back down from the buggbear's attack, you turn around and run as fast as you can. The beast tries to outrun you but he trips and falls on the ground, You successfully escaped from the buggbear!"
     "你慢慢退出熊地精的攻击范围，转身就跑。他想要追上你，却半途被绊倒摔在了地上。逃跑成功！"
 
 # translate schinese buggbear_battle_loop_4716fc18:
@@ -1015,6 +1045,17 @@ translate schinese buggbear_battle_loop_d7196aa4:
 #     # "You have collected a bottle of buggbear saliva, you now own [item_number] bottle."
 #     ""
 
+translate schinese strings:
+
+    old "Do you want to replay the winning scene?"
+    new "你想重放战胜情景吗？"
+
+    old "Yes{#buggbearwin}"
+    new "是"
+
+    old "No{#buggbearwin}"
+    new "否"
+
 translate schinese buggbear_win2_67d3a7db:
 
     # "As you search around the buggbear, you find a Raw Meat, a Strap and [exp_drop] EXP!"
@@ -1054,6 +1095,17 @@ translate schinese buggbear_lose_a20cefa7:
 
     # "..."
     "……"
+
+translate schinese strings:
+
+    old "Do you want to replay the losing scene?"
+    new "你想重放战败情景吗？"
+
+    old "Yes{#buggbearlose}"
+    new "是"
+
+    old "No{#buggbearlose}"
+    new "否"
 
 translate schinese buggbear_lose_a0930d76:
 
@@ -1441,24 +1493,6 @@ translate schinese strings:
 
     old "[item_num] x Green Ointment"
     new "[item_num]绿色药膏"
-
-    old "You stare at the goat lying on the ground, barely able to catch a breath..."
-    new "你俯视倒地的山羊，他正上气不接下气……"
-
-    old "Have fun with the huntsman"
-    new "及时行乐"
-#TODO
-    # old "Leave him alone"
-    # new "放他一马"
-
-    old "Do you wish to replay the lose Scene?"
-    new "你想重放战败情景吗？"
-
-    old "Do you want to replay the winning scene?"
-    new "你想重放战胜情景吗？"
-
-    old "Do you want to replay the losing scene?"
-    new "你想重放战败情景吗？"
 
     old "Continue"
     new "继续"

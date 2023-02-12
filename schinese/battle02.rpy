@@ -32,6 +32,16 @@ translate schinese Ability_Self_Heal_90794f49:
 
     # "You used self heal, your health goes up by [healing] HP."
     "自愈技能发动，你回复了 [healing] 体力。"
+#TODO
+# translate schinese Ability_Fiery_Charge_7f84b070:
+
+#     # "You use Fiery Charge on [enemy.name], dealing [fc_damage] HP Damage."
+#     ""
+
+# translate schinese Ability_Fiery_Charge_c4b817c9:
+
+#     # "You use Fiery Charge on all enemies, dealing [fc_damage] HP Damage."
+#     ""
 
 translate schinese Ability_Fortify_2faf436f:
 

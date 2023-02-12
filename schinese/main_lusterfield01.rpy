@@ -1310,9 +1310,9 @@ translate schinese Sebas_Under_Counter_e4bef205:
     # e "S-Seb! I think that wasn't what I meant."
     e "阿、阿塞！我不是那个意思。"
 
-translate schinese Sebas_Under_Counter_cbd0ed71:
+translate schinese Sebas_Under_Counter_edc572a7:
 
-    # "Your face turns intantly red from Sebas' charming smile."
+    # "Your face turns instantly red from Sebas' charming smile."
     "塞巴斯潇洒迷人的微笑令你瞬间脸红。"
 
 translate schinese Sebas_Under_Counter_f43cc1cc:
@@ -1330,9 +1330,9 @@ translate schinese Sebas_Under_Counter_3f2c5d33:
     # e "Ok. But Seb, are you sure...? I don't know if your customers are going to visit at any time."
     e "可以是可以……但万一突然有顾客来怎么办。"
 
-translate schinese Sebas_Under_Counter_43080e35:
+translate schinese Sebas_Under_Counter_e4a5a882:
 
-    # s "[e], it's my shop! I can do whatever I want! Plus, I'm super discrete about stuff like this."
+    # s "[e], it's my shop! I can do whatever I want! Plus, I'm super discreet about stuff like this."
     s "[e]，这里可是我的地盘！我爱怎么样就怎么样！而且我干这种事情老谨慎了。"
 
 translate schinese Sebas_Under_Counter_79ca83d6:
@@ -2050,13 +2050,13 @@ translate schinese Sebas_Lothar_Adventure_2ffcb859:
     # s "Well it all depends on you buddy, are you ready?" nointeract
     s "主要看你现在方不方便，嗯？" nointeract
 
-# translate schinese strings:
+translate schinese strings:
 
-#     old "Yes"
-#     new "表示你准备好了"
+    old "Yes{#seblotgoesadventure}"
+    new "表示你准备好了"
 
-#     old "No"
-#     new "表示你还没准备好"
+    old "No{#seblotgoesadventure}"
+    new "表示你还没准备好"
 
 translate schinese Sebas_Lothar_Adventure_6a1fc445:
 
@@ -7518,6 +7518,1741 @@ translate schinese strings:
 
     old "That's all I need to know"
     new "结束询问"
+
+# translate schinese Rahim_Yarn_Quest_03_c51008b6:
+
+#     # e "I was wondering if you had any more commissions for me to do? I learned a lot last time, and I'd love to try again."
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_ad1c0c07:
+
+#     # "Rahim looks up from his sewing, and looks at you with what seems to be bemused exasperation."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_dbae1bc5:
+
+#     # r "Excited, aren't you."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_81f332fb:
+
+#     # e "Yeah! I hear awesome stories, get to learn tailoring, and earn money. What's there not to like?"
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_ce89727e:
+
+#     # "The bull heaves a sigh, grumbling about unexpected work and having to find the materials."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_d56ecf9b:
+
+#     # "Despite that, the bull's permanent scowl is missing from his face. He still looks grumpy, of course, but he seems to be in a good mood."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_3d457e35:
+
+#     # r "I do have a commission ready for you, [e]."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_23f37d91:
+
+#     # r "It's also, luckily for the both of us, not a hat."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_fa2f1b40:
+
+#     # "There being no hats seems to be a genuine relief for the bull. The process was annoying, certainly, but it's surprising that they cause him this much trouble."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_79a9feb1:
+
+#     # e "So, I'll be learning something new?"
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_eb42fce2:
+
+#     # "Rahim gives you a curt nod before taking out several bolts of colorful cloth."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_48ed5ed2:
+
+#     # r "Yes. You'll be making a scarf this time."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_5a38ed67:
+
+#     # "You look at him quizzically."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_cd2ec19f:
+
+#     # e "Isn't that sort of easier than a hat?"
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_e2206c4c:
+
+#     # "You get a nod, and a look of annoyance."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_bb1a9c1f:
+
+#     # r "I was trying to go easy on you."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_a5dec8c3:
+
+#     # r "Despite that, this isn't going to be a walk in the park for you."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_0262d3f2:
+
+#     # r "Scarves need to be lightweight but durable - soft, but pliable. To make things harder for you, the patterning on this scarf is difficult, alternating blue, gold and red in irregular rings."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_bfe2f26b:
+
+#     # e "Ah. And here I was celebrating."
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_98c816ea:
+
+#     # r "Never celebrate if you're helping me. You know who taught me, and I haven't learned a teaching method other than his."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_56656e59:
+
+#     # "Raising an eyebrow at him only earns an eyebrow raise in response."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_0afb118b:
+
+#     # e "I don't see any wolves around here."
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_277ce017:
+
+#     # "You say this, entirely joking."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_0e956ef6:
+
+#     # "Rahim snorts lightly, closing his eyes in a mockery of lacking patience."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_5cb2e20b:
+
+#     # r "No, I suppose you don't."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_261baf0f:
+
+#     # r "If you want, I can provide them?"
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_c7b4d906:
+
+#     # "That's the first joke you've ever seen Rahim cra-"
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_ed42017b:
+
+#     # "Oh. He's serious. That light in his eyes is serious."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_2fc36f0f:
+
+#     # e "No, I think I'll pass on that, thank you Rahim! I am reasonably challenged by this and appreciate the commission! I'll be going now!"
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_163aa3b9:
+
+#     # "Despite your best effort to slip out before Rahim managed to track down a feral wolf, you stop when a loud voice yells your name."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_3d58e845:
+
+#     # "Guiltily, you turn around to a now {i}genuinely{/i} unhappy bull."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_c579bfd6:
+
+#     # r "If you're going to take a commission from me, you're going to do it right."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_8f0dfdd8:
+
+#     # r "You don't even have the list of materials, or the materials I was going to generously provide you with myself."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_24cb31ff:
+
+#     # e "M-my apologies, Rahim. I didn't mean to dash out like that."
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_540178a6:
+
+#     # "Rahim sighs yet again, a pained expression on his face."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_b9907288:
+
+#     # r "I understand. You understand I'm not going to throw you to an actual wolf, yes?"
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_2b1131e8:
+
+#     # "A sense of relief floods your body."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_96e6bfdd:
+
+#     # e "R-really?"
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_02146332:
+
+#     # "The peeved look on Rahim's face is all you needed as an answer."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_5150d635:
+
+#     # r "Yes. Throwing you at a wolf would do nothing for you as a tailor - neither would it help my shop."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_beab006f:
+
+#     # "Those are some of the worst reasons you could ask for, as none of them involve your safety, but it is certainly better than the alternative."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_e4a08178:
+
+#     # e "What about if I require wolf fur?"
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_fb4e7776:
+
+#     # r "Then I'll probably buy it for you. You could make these bolts of cloth."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_92d2074b:
+
+#     # "Rahim drops the bolts of cloth he took out into your hands as he speaks."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_fba4a75a:
+
+#     # r "But I'm not going to make you do that. It'd be a waste of my time and yours."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_7fb54799:
+
+#     # "Chastened by Rahim's harsh rebuke, you dip your head in acknowledgement and apology."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_795e0333:
+
+#     # e "You're right. I'm sorry about that, Rahim."
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_4e9cab5d:
+
+#     # "Again, Rahim sighs deeply. While he doesn't look grumpy, you can't tell if that's better or not - the complex mix of amusement and frustration isn't something you can easily categorize or understand."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_7e9e0ea1:
+
+#     # "Undeniably bad was the disappointment you saw flicker across his face when you told him you were genuinely worried about the wolf."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_87670113:
+
+#     # r "It's alright. You took me seriously when I was making a bad joke."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_111e4090:
+
+#     # r "Just… go finish the commission. I'll figure out a story I can tell you when you come back."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_206b5229:
+
+#     # "You clearly don't understand this man. He was joking before? His face was dead serious."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_7e28e31b:
+
+#     # "Then again, it always is."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_a5caf3e5:
+
+#     # e "Can I make a request about the story?"
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_7ed8ec50:
+
+#     # "Rahim opens his mouth to make an irritated comment, but closes it and considers what to say more carefully."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_3ac3a3c0:
+
+#     # r "You can make it. I cannot promise I will deliver."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_2c68410b:
+
+#     # "You gulp, and nod."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_c033b62c:
+
+#     # e "I want to hear about what group of people taught you the most about sewing after you started adventuring. Who they were, their culture… all of it."
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_568e476f:
+
+#     # "Of all the things you expected that to bring out of Rahim, pain was not one of them."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_1e844e30:
+
+#     # "Despite that, Rahim looks as gutted as a man just told his pet had died."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_50ccfc10:
+
+#     # r "That… It's a good question. I'll have to think about it."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_7874d879:
+
+#     # r "Farewell."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_11e6261b:
+
+#     # "He's schooled his face back into neutrality and returned to sewing at this point. Despite that, you know that both of you know what you saw."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_ea8c46a4:
+
+#     # e "Yes, I'll… I'll be back when I finish the scarf."
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_86af871c:
+
+#     # e "Thank you for giving me the commission."
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_b27fcc59:
+
+#     # "Rahim doesn't react to your words."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_bfeda9a1:
+
+#     # e "I hope things are going well, Rahim."
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_eb98bf66:
+
+#     # "The bulky bull grunts at you noncommittally."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_09e62486:
+
+#     # e "I was wondering if you had another commission for me?"
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_766774c4:
+
+#     # "This time, the bull looks up at you."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_df55ce6b:
+
+#     # r "I have another hat for you to make."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_e6c65813:
+
+#     # "After last time, you understand why the man hates hats."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_2553650d:
+
+#     # e "Would you happen to have any other commission I could work on?"
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_2dd00ae2:
+
+#     # "Rahim gives you a level glare."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_a4de76e6:
+
+#     # "You refuse to quail under his gaze, looking back at him with what you hope is confidence."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_211c085a:
+
+#     # r "Fine. I have a scarf that you can work on."
+#     r ""
+
+# translate schinese Rahim_Yarn_Quest_03_002c20d5:
+
+#     # "Rahim passes you a list of ingredients you'll need."
+#     ""
+
+# translate schinese Rahim_Yarn_Quest_03_084e70f4:
+
+#     # e "Sounds good. I'll come back once it's ready."
+#     e ""
+
+# translate schinese Rahim_Yarn_Quest_03_687c1f58:
+
+#     # "Done with the conversation, Rahim focuses on his work once more."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_c047809b:
+
+#     # e "I'm pretty happy with how the scarf turned out."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_20c22a10:
+
+#     # e "I wasn't happy with it at first, but a few finishing touches helped patch things up."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_0eebe24b:
+
+#     # "Rahim looks up from his project in pleasant surprise."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_787363f7:
+
+#     # "He drops his project completely for now, getting up to take the scarf from your hands."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_89d977ec:
+
+#     # r "Let's see how it went."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_8a8f56b3:
+
+#     # "Rahim first gives the scarf a light look-over for anything out of the ordinary."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_4bf2414c:
+
+#     # r "At first glance, it seems quite well made, if even more patterned than the original commission requested."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_66764627:
+
+#     # "You scratch the back fo your head, beneath your horns, embarrassed."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_6bc8d043:
+
+#     # e "Those were the finishing touches."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_d6cbc6b6:
+
+#     # e "I didn't like the original design that much, so I got a bit carried away adding small improvements here and there."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_33d69971:
+
+#     # e "Before I knew it, I had touched up the entire scarf."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_e9b3ed21:
+
+#     # "Rahim snorts in amusement."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_0418501a:
+
+#     # r "You're supposed to do what the commissioner asks and nothing more or less. Personal projects and original designs are where you get to explore."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_c359918e:
+
+#     # r "I'd chew you out for it if you didn't do such a damn good job of it."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_a5fc2b24:
+
+#     # "Rahim's scowl is once again absent from his face. In its place is a very small smile."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_5935e35b:
+
+#     # r "Don't let your head get too big, but I can tell you've been listening to my lessons. Your work lacks many of its prior faults."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_ec73797b:
+
+#     # e "I've improved?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_f5ca7235:
+
+#     # "Rahim gives you a sidelong glance, mildly irritated and amused."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_9f986fa1:
+
+#     # r "I'd recommend you don't fish for compliments with me. You already know the answer from what I've told you."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_300ac853:
+
+#     # "He's right. You still wanted to hear him say it though."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_58b33c95:
+
+#     # "Rahim sees your disappointment - not difficult considering the poor job you did of hiding it. He looks a bit guilty after that."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_051066c1:
+
+#     # r "It's good to have someone else with an interest in tailoring. Up until now your work was uninspired, if high quality, but the scarf shows actual passion."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_565be95f:
+
+#     # "...He really sucks at giving compliments. You clear your throat to try and take some of the awkwardness out of the air."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_887b1c2c:
+
+#     # e "You're right. I noticed the time go by when I did the other projects, but with the scarf, it felt like I sat down to work on it, and suddenly had the completed scarf in my hands."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_9cde316a:
+
+#     # "Rahim lets out an approving grunt."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_a86b1f26:
+
+#     # r "I do not notice time pass while I am working either."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_538e1cd7:
+
+#     # r "It is as much of a boon as it is a bane."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_dfc43281:
+
+#     # "You raise an eyebrow at that."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_ac66cd73:
+
+#     # e "What downsides does it have?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_8538a068:
+
+#     # r "It can be hard to remember to go check up on people or eat. There have been especially interesting projects that have lead me to work for three days without sleeping."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_0a0f30be:
+
+#     # r "I hadn't noticed the changing of the days in the moment, but lit and unlit my candle by instinct so I could keep working."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_30265bfe:
+
+#     # "A shiver goes through your body. Hopefully you never quite reach that level of passion."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_8bcd21ed:
+
+#     # e "You only realized when you finished?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_14d66ed1:
+
+#     # "Rahim snorts dismissively."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_6bad7d37:
+
+#     # r "No, I noticed when I woke up 12 hours later, having collapsed over my work."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_2dea5083:
+
+#     # "It sounds dangerous for a person like this to live on his own. Does nobody take care of him?"
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_5deb0471:
+
+#     # e "You know, if you ever start an especially big project or something, you can tell me, and I'll bring you food and make sure you sleep, Rahim."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_b92428dd:
+
+#     # "Rahim blinks at you in surprise. You cringe, expecting him to chew you out for what you said."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_2917b322:
+
+#     # "Instead, his expression softens."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_a31d3c5e:
+
+#     # r "I haven't had anybody offer something like that in…"
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_dafcc160:
+
+#     # "He clears his throat slightly."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_463899b6:
+
+#     # r "...years."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_32a3caae:
+
+#     # "The bulky bull looks you over, as he would one of his tailoring pieces. Despite his eyes seeing only skin, fur, and cloth, it feels like he's peering into your soul."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_aafe5085:
+
+#     # e "Well, it sounds dangerous. If I can't convince you to take care of yourself, I can at least try and help."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_5b8b46c8:
+
+#     # e "I know you'd do the same for me"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_4c9c056b:
+
+#     # "If reluctantly."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_5bf98223:
+
+#     # r "I know you well enough to know that you will visit me regularly to make sure I'm eating and sleeping if I say no."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_7e82d7dd:
+
+#     # r "So I'll say yes."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_dbee71fe:
+
+#     # "Not quite the answer you wanted, but good enough for now."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_ffeebf4a:
+
+#     # e "Alright, my cooking services are only 100 gold a meal-"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_3a6bc443:
+
+#     # "Rahim narrows his eyes."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_df17da61:
+
+#     # r "I can still take back what I said, you know."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_0c89d68a:
+
+#     # "The intensity of his gaze makes you break a sweat."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_544928cf:
+
+#     # e "I was just kidding, please have mercy, Rahim."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_1e574865:
+
+#     # e "You know I wouldn't make you pay for helping you out."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_38b832c5:
+
+#     # "Rahim snorts skeptically."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_536c07ce:
+
+#     # r "So you don't want the gold from making the scarf?"
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_f1e97100:
+
+#     # "Your eyes widen in shock, before returning to normal as you realize he's joking."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_9fe77b71:
+
+#     # "Going by when he assigned you the commission, Rahim's style of joking is to say something brutal, and be even more deadpan than usual."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_e0e578f6:
+
+#     # "You should probably start a guide to how to interact with him properly - he's frustratingly difficult to understand sometimes."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_15dc84fe:
+
+#     # e "You know that's not what I meant. But I'll give you the scarf for free if I have to - I don't do this for the money alone."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_3753cbcf:
+
+#     # "Rahim looks pleasantly surprised by your reaction to his joke. Well, as 'pleasant' or 'happy' as the grumpy bull's scowl can look."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_f7d5892b:
+
+#     # r "There's no need. You'll get your gold, as well as your story."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_5248d43f:
+
+#     # r "I give credit where it's due."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_73965f8e:
+
+#     # "The bulky bull snorts, and his tail flicks to the side rapidly as he finishes his thoughts on the matter."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_e045947c:
+
+#     # r "As a citizen of Lusterfield, you knew this already, but."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_658b7ecf:
+
+#     # "You meet Rahim's eyes, and find yourself trapped there by the determination they are filled with."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_452c4e7c:
+
+#     # r "I'll come to your assistance if ever you need me."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_bb230b10:
+
+#     # "A nervous gulp later, and you find yourself nodding."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_98efa8d1:
+
+#     # "A lot happened after your offer, and you don't quite know how Rahim feels about it all. All you can do is hope that he appreciated it."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_cf5430db:
+
+#     # e "That sounds like an awful experience."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_ddc41762:
+
+#     # "Rahim shrugs his shoulders at that."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_6406476a:
+
+#     # r "It's the cost of passion."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_96a0ccbc:
+
+#     # r "I can and do pay it every single day of my life."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_09c65ae8:
+
+#     # "You grimace subconsciously."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_692df60a:
+
+#     # e "Is passion really worth risking life and limb over?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_34da1199:
+
+#     # "The bull just looks at you with his typical scowl highlighting his features."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_bf9b0b78:
+
+#     # r "I'm not exactly risking all that anymore."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_3ab7bcb9:
+
+#     # r "If anything, I wish I had risked more. A life without passion is one not worth living."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_df23fe2a:
+
+#     # "There is no doubt in his voice. You hope never to be his enemy. You get the feeling he'd die sooner than let you get away scot-free."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_cc0d4b05:
+
+#     # e "So the scarf has no issues that stand out to you?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_5db66979:
+
+#     # "Rahim blinks, suddenly realizing he's been distracted from something tailoring related."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_85034ba5:
+
+#     # r "Oh, at surface level it certainly seems so."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_a06c1ef5:
+
+#     # "Surface level isn't good enough for you at this point, and neither is it for Rahim, apparently. The bull brings the scarf back under his attentive gaze."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_9900f590:
+
+#     # "His expression doesn't shift the entire time he looks at it."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_03a905a4:
+
+#     # "The longer he spends, checking different angles and prodding seams, the more anxious you get."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_16d5fd00:
+
+#     # "Did you make a mistake with the weft? Maybe one of the adornments is lopsided?"
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_2778fc20:
+
+#     # "After what feels like an eternity, the bull looks up at you."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_aa04dd06:
+
+#     # r "The actual quality of your tailoring is quite high."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_fb0e2566:
+
+#     # r "Any improvements at this stage will be difficult to achieve, and are ones you most likely already identified."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_0c00c3c4:
+
+#     # r "In case you haven't, the main thing you have to worry about is planning ahead as you work. I see spots where you had to change the distance between each stitch to account for an unexpected lack of space."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_57b8beab:
+
+#     # r "Despite this being nearly irrelevant to the commissions I've given you before, the main thing you have left to improve upon is design."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_a9abecdc:
+
+#     # "You tilt your head, questioning, and a bit hurt."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_13c12dc9:
+
+#     # e "I thought the design was good?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_a89652f2:
+
+#     # "Rahim grimaces slightly."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_37edb346:
+
+#     # r "I said it was passionate. It is flawed to say the least."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_bbcee9b7:
+
+#     # r "It is good for a first attempt."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_9c4704ae:
+
+#     # "He's being gentle about it, but it still hurts like a knife to the guts."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_d3582e44:
+
+#     # e "I understand. What is it that most needs working on?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_9d46f063:
+
+#     # r "Color theory."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_8acf4c41:
+
+#     # "Rahim points at a patch of bright blue, a snowflake you patterned in against a blood red background."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_e77274c3:
+
+#     # r "Discarding the issue of a snowflake being an odd choice for for the Summer, you generally want to have contrasting or similar colors together."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_89e36e6c:
+
+#     # r "Without something to balance or add further contrast, these two are just in between contrast and similarity."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_30b7b782:
+
+#     # r "It looks bad."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_278a5186:
+
+#     # "Ouch. This wasn't what you expected to hear when you came here."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_8b174edc:
+
+#     # r "I tell you this not to be cruel, but to see you improve."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_9bad81b5:
+
+#     # r "You've consistently listened to my instructions, I think you'd prefer honesty over mercy."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_2e0e08fb:
+
+#     # "He could still be nicer about it."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_600501ae:
+
+#     # e "Y-yeah. I understand."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_4f6b4fd5:
+
+#     # e "Different is good, so is similar. Anything in between is bad unless it has something to balance."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_6cfdae0d:
+
+#     # "Rahim gives you a nod."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_9a599947:
+
+#     # r "Precisely."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_a63e7391:
+
+#     # e "Where did you learn design from anyway? Rayleigh?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_d280173e:
+
+#     # r "It feels a bit like you're trying to escape further criticism, but I was just about done."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_1e15a7c5:
+
+#     # r "I'll tell you the story - it is the same one you were looking for earlier, the group that taught me the most."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_1c49b6cd:
+
+#     # "Rahim gestures for you to sit down, giving you a good angle to watch him sew as he tells you the story. He hasn't started, but he's preparing the materials."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_363eecf1:
+
+#     # r "You already know the group that taught me, but they wouldn't come to mind when one thinks of good tailoring."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_1f366da4:
+
+#     # r "At least, anymore."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_9336cff4:
+
+#     # "Rahim picks up his needle and thread, and begins to weave the story."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_d4c07533:
+
+#     # r "When I first came to Lusterfield, I did so as an adventurer."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_dc32e58a:
+
+#     # r "I fully intended to stay here only a few days, helping a few folks here and there, learning a little, and continuing my travels."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_c74fe2cb:
+
+#     # "The bull heaves a sigh, his hand tentatively weaving the cloth, struggling to externalize something stored deep in himself, complicating it by thinking about, rather than experiencing it."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_b2af65fd:
+
+#     # "It's like you can see his mind clicking pieces together, putting himself in the shoes of a self long past."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_ebc25443:
+
+#     # r "It was only when I met the goat tribe that my journey was halted."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_a75cc98f:
+
+#     # r "Never before had I seen cloth so beautifully textured, so vividly colored."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_883336f9:
+
+#     # "He looks at you and snorts dismissively."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_a3ebb08d:
+
+#     # r "Don't even bother thinking about what they wear now. Only echoes of past glory remain in that place."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_004da1c8:
+
+#     # e "What they wear isn't exactly… complex, but the colors are still vivid, I'd say?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_adbb57f5:
+
+#     # "Rahim gives a grudging nod."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_fd51b62e:
+
+#     # r "They have access to the same materials, and remember how to use them."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_6e3712ce:
+
+#     # r "Blue, at least. I haven't seen them recently enough to know if they've kept the other colors."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_b79009bc:
+
+#     # e "But, I wouldn't think of you as all that old…? How fast did all of this disappear?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_c16c3bc6:
+
+#     # "The bull grimaces."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_a64eaa3b:
+
+#     # r "A matter of years, though her techniques are still around. I {i}do{/i} still remember them, even if they don't."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_b60ddc27:
+
+#     # "The two of you are briefly quiet as you process what he said, and he reaches for a new color to sew with."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_e5639544:
+
+#     # e "Who was the, umm, the woman in the goat tribe you learned from?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_f407744a:
+
+#     # "Rahim blinks twice, as if suddenly remembering something."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_6cf4d79b:
+
+#     # r "I forgot you weren't here for that, sorry."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_619766ef:
+
+#     # r "The goats' greatest - and only - tailor was a grizzled old water buffalo by the time I met her."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_e06ae716:
+
+#     # e "A mentor to you?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_7917a9c5:
+
+#     # "Rahim's face is in an expression you've seen only a few times before, a melancholy reserved mainly for when he spoke of his daughter."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_adbc66a7:
+
+#     # r "As much as a master can be a mentor to an experienced tailor. I haven't met a better tailor to this day, and I don't think I ever will."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_cc90bc41:
+
+#     # "You chuckle lightly, trying to break the heavy mood."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_7b1b73e1:
+
+#     # e "You never know, someday I may become that good!"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_45f00e0f:
+
+#     # "Rahim raises his eyebrows at that, amused. Despite that, there is a piece of him that seems to take you seriously."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_4649ba35:
+
+#     # r "If you are serious about tailoring, aim for it. I am close to her level, but I have a ways to go yet. You'll have nothing but respect from me if you manage it."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_f8582497:
+
+#     # "You feel a sudden urge to start tailoring just from hearing that."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_997ee96f:
+
+#     # e "So, she was amazing, and incredibly old. I can't meet her, I at least want to know who she was."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_97023691:
+
+#     # "Rahim slaps you upside the head, careful not to stab himself on your horns, or hit you too hard."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_7e0ac03e:
+
+#     # r "I should kick you out for impatience or impertinence."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_552be3d6:
+
+#     # "Your head doesn't quite hurt, but you're just irritated enough to snap back."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_01a930e5:
+
+#     # e "And why don't you?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_34902ee2:
+
+#     # r "I don't mind it."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_8118dfb0:
+
+#     # "Just as you open your mouth to speak, Rahim finishes his sentence."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_2477ff59:
+
+#     # r "Within reason of course. I still expect you to treat me with the respect I deserve."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_e0603dbf:
+
+#     # "You squirm a bit in your seat."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_89b52820:
+
+#     # e "And me? Do I get any respect in return?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_3155f868:
+
+#     # "Rahim lets out a dark chuckle, a joke at both of your expenses."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_d0c47848:
+
+#     # r "You deserve a little. I give you it as you continue to earn it."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_645bf517:
+
+#     # "You grumble a bit under your breath, unsatisfied with that answer."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_84024f78:
+
+#     # r "What was that?"
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_1a400f0b:
+
+#     # e "Nothing."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_3c8bfc2b:
+
+#     # "He gives you a look that tells you exactly how much he believes that."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_1839cd61:
+
+#     # r "Sure."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_eba0cb6d:
+
+#     # r "If you think I'm demanding, you should have met Larra."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_1229400d:
+
+#     # r "She only used my name after a month of teaching me. Up until then I was just 'that one', or 'the bull over there.'"
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_6d559ace:
+
+#     # "A shiver goes down your spine. You don't want to think about learning from someone like that."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_01e575d9:
+
+#     # "It took you long enough to be able to talk to Rahim without being insulted… too much."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_de433c23:
+
+#     # e "That sounds. Unpleasant?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_6866622f:
+
+#     # "You quickly correct yourself, not meaning to be so rude."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_e69f9cbd:
+
+#     # e "Not to speak ill of the dead, of course."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_640f180f:
+
+#     # "To your surprise, Rahim only snorts in amusement."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_bf3efc43:
+
+#     # r "Oh, I wouldn't worry about it, I think she'd take it as a compliment if anything."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_bf77c8d0:
+
+#     # r "She had two pleasures in life: Tailoring, and making people uncomfortable. She excelled in both."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_eb7a56a9:
+
+#     # "You have to bite your tongue to prevent yourself from asking if she taught him both or just tailoring."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_8b204d55:
+
+#     # e "And she's the one you learned the most from?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_27f58336:
+
+#     # "Rahim nods, the piece now identifiable as a sock in his hands nearly finished."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_424ea57d:
+
+#     # r "She was stingy with compliments, but not with lessons."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_d1d83a35:
+
+#     # r "It was her that taught me how to actually {i}design{/i} what I tailored. She's the one that made me look at tailoring as an art form, and not just a profession."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_8fe80c88:
+
+#     # "It takes a bit for you to phrase the question this raises - Rahim has been quite understanding so far, but you have a feeling you're on thin ice."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_62a5e179:
+
+#     # e "But none of the goats picked up her lessons because…?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_f3d10d29:
+
+#     # "You don't say any of the reasons you thought of. None of them are particularly favorable."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_fd447d0d:
+
+#     # "Rahim just rolls his eyes as he sews."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_bad4ebce:
+
+#     # r "Same reason people didn't pick up mine."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_42254219:
+
+#     # "He pauses briefly to correct himself."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_1ecf03f5:
+
+#     # r "Probably."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_ec4607f5:
+
+#     # r "Nobody there or here was interested in tailoring, except for myself and her. Her personality didn't help matters either."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_db3c1a49:
+
+#     # "There's a pause. You very intentionally stay silent."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_69f033d6:
+
+#     # r "Neither does mine, I suppose."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_2ca74a91:
+
+#     # e "I won't say you're wrong, but from what you're saying, Larra seemed like somebody worthy of admiration and love."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_935721f2:
+
+#     # e "I'd say the same of you."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_99b19981:
+
+#     # "Rahim freezes in his tailoring. You're pretty sure he's stopped breathing. It takes only a few moments for him to recover, but the bull's expression remains strained."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_0ae6e693:
+
+#     # r "I had my chance at that."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_25e70510:
+
+#     # r "That you believe I do may be because you weren't here to see what I lost."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_72a33094:
+
+#     # e "..."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_957833f8:
+
+#     # e "I can't tell you if that's true or not for sure - I wasn't there, and I will never have been there. We'll never know."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_28879e2d:
+
+#     # "You take a deep breath before you continue. It is a difficult sentence, and one that cannot be botched."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_90a8ffd0:
+
+#     # e "But the bull I've met since coming here."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_464a10b0:
+
+#     # "Taking a risk, you reach out and tap his chest gently."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_f374519b:
+
+#     # e "He deserves it. If not from everyone, then from me at least."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_b3b55575:
+
+#     # "Said bull turns to you, looking completely bewildered."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_fd9125cd:
+
+#     # r "Where is this coming from? I'm a good tailor, and maybe even a good teacher, but I'm otherwise just a grouchy old bull."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_663531e4:
+
+#     # "It's your turn to look at him confused."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_192c051b:
+
+#     # e "Those are fairly admirable things? Except for the bad temper, which I don't really mind."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_4706dca9:
+
+#     # "Rahim's face goes from confusion to outright suspicion."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_f5e0490d:
+
+#     # e "...that much. It can be a bit rough to deal with, but I've learned it's just part of who you are."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_4dd53d0c:
+
+#     # r "That's still not exactly admirable, but I'll concede the point considering I admire Larra to this day."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_59ee6baf:
+
+#     # r "Even if she was, as the old chieftain phrased it 'a crotchety old bitch.'"
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_71c468f4:
+
+#     # "That's good enough for you. The man really needs to learn how to accept a compliment."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_527817f7:
+
+#     # r "I appreciate the sentiment. Even if we disagree, it's… nice to know someone like you thinks that of me."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_a8ebd8aa:
+
+#     # "You can't help but smile. Even if he didn't mean to, that was the best compliment he'd given tonight."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_bb161db7:
+
+#     # r "Don't think I'm going to go any easier on you just because you said a couple of nice words, though."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_8751f1b5:
+
+#     # "Alas, he couldn't let you get away without at least a drop of negativity."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_e47f52e5:
+
+#     # "Even so, you can't seem to help but like him."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_d33e924a:
+
+#     # e "Yes, it definitely doesn't help, but I'm used to it."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_31c0529b:
+
+#     # "The bull raises an eyebrow at that."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_9391a22e:
+
+#     # e "Just like you got used to Larra's bad temper, I've gotten used to yours."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_a8555b3a:
+
+#     # "All you get is a light shrug - limited in scope to not interrupt his sewing."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_9f1c3a61:
+
+#     # r "Fair enough. But just like her, I'm probably going to wind up dying only having taught one person."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_e219d4cb:
+
+#     # e "I think you might be getting ahead of yourself there, but it's definitely a possibility."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_09c8a131:
+
+#     # "A sardonic smile splays across your lips."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_a1014eb1:
+
+#     # e "It seems only us adventurers have the patience for each other."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_c0de847e:
+
+#     # "Rahim snorts lightly."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_a25ea4e3:
+
+#     # r "Larra wasn't an adventurer, but yes. It is an interesting chain of inheritance."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_4a2d4aa5:
+
+#     # "The conversation sort of falls flat after that."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_409552d9:
+
+#     # "Rahim sews, nearly having completed his project, while you sit there silently, twiddling your thumbs."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_99245f31:
+
+#     # "Unable to think of anything else to ask, you finally broach that most uncomfortable of questions."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_33b8b339:
+
+#     # e "So, what happened to her?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_c5b73aae:
+
+#     # "The bull flinches, accidentally piercing himself with the needle. The cut is small enough not to need medical attention, but you can tell it hurts."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_a090ec2c:
+
+#     # "He continues as if nothing happened."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_19904e4f:
+
+#     # r "She was on the cart the day the war started."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_94004a03:
+
+#     # "Oh."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_3ef2b2a2:
+
+#     # "This time, silence really {i}does{/i} fall, and you wouldn't be the one to break it even if you had to spend the next three hours here."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_5a3991e0:
+
+#     # "Luckily, Rahim breaks the silence after only five minutes, his sock laying finished in his hands."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_18fca02b:
+
+#     # "He does not look as satisfied as you thought he would."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_276ab81d:
+
+#     # r "I believe it would be best if you went home for now."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_6d686a78:
+
+#     # "A pang of discomfort surges through you as you hear just how tired he sounds."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_af0963c7:
+
+#     # r "As far as I'm concerned, our deal is still on, and I didn't give you much of a story this time around."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_845ebb8b:
+
+#     # "He slides a small pile of gold your way."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_417f045e:
+
+#     # r "I tried to compensate a bit with the reward. Hopefully it should be more than equal to its worth in stories."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_6dfd40c2:
+
+#     # r "I truly do not understand why you wish to hear them."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_ab3b1629:
+
+#     # "You open your mouth to say something, but realize that now isn't the time. He can't hear you - his eyes are looking at something that isn't there."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_c898abd1:
+
+#     # "Quietly, you pick up the 100 Gold Coins and store them in your pouch."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_f7952ad1:
+
+#     # "There is nothing you can say to the man that lost his mentor and friend, daughter, and wife to a war he is still trapped in."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_1f51abcf:
+
+#     # "All you can do is mumble a brief 'Thank you.' and head out."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_2dc0d1a5:
+
+#     # e "I finished the scarf."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_f1192fed:
+
+#     # "You present your work to the bull, who gives it a cursory glance before accepting it."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_46c4ac30:
+
+#     # r "It's of acceptable quality."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_ac6b880b:
+
+#     # r "Here, your reward."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_7ad6877f:
+
+#     # "Rahim pours 100 Gold into your hands."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_ea798f2c:
+
+#     # e "Thank you. It's much appreciated."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_35a45a95:
+
+#     # "The bull grunts at that, turning to some unidentifiable clothing he's working on."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_66a49605:
+
+#     # r "You'll get compensated for as much as your work is worth. Nothing to thank me for."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_88ac6ec2:
+
+#     # "You're about to accept that and leave, but pause as you step out."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_6bdc3f48:
+
+#     # e "What about your profit margin?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_48f2dc99:
+
+#     # "Rahim gives you a skeptical look."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_6e78b4d9:
+
+#     # r "Mine to worry about. Don't worry, it's more than made, if it even matters."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_40e70611:
+
+#     # "He doesn't seem very happy that you're digging into this. You should probably leave."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_5cc21f69:
+
+#     # e "Alright, well. Farewell, Rahim."
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_99cbf97f:
+
+#     # "Rahim gives you a terse nod, and nothing more."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_74a98378:
+
+#     # e "Rahim, I finished the Scarf!"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_039c3f3b:
+
+#     # "Rahim says nothing. He just looks straight into your eyes from his seat, and stares at you."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_1dbba092:
+
+#     # e "Rahim?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_83b1b38c:
+
+#     # "Rahim's glare only grows harsher in response to your attempt to call out to him."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_6e275b70:
+
+#     # e "I guess I should come back when it's all properly done?"
+#     e ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_c91ad6c3:
+
+#     # r "Yes. Do not try to lie to me again. It reflects poorly upon my decision to trust you."
+#     r ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_4b8229d1:
+
+#     # "Rahim continues to stare into your soul."
+#     ""
+
+# translate schinese Rahim_Report_Yarn_Quest_03_de2a3c2f:
+
+#     # "You take this as a sign that you should leave now."
+#     ""
 
 # translate schinese Rahim_Yarn_Quest_02_fda9931d:
 

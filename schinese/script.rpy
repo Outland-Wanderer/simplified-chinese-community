@@ -1783,6 +1783,11 @@ translate schinese bedroom_beginning_ca03823d:
 
 #加载后
 
+translate schinese after_load_7a256475:
+
+    # "Hey there! Here's a reminder that the protagonist's sprite is currently in the progress of redesign! You will see new designs as default while the rest of other content will be updated alongside! Thank you so much again~"
+    "注意！主角的部分立绘和相关CG仍在重绘中！现在新老形象混在一起属于正常现象！谢谢你的理解~"
+
 translate schinese after_load_0be072f2:
 
     # "Hey there! If you're playing with old save on v0.0.10 or later, remember to take off your equipment(!) before using your next level point, that way it'll now accurately calculate your character stat."
@@ -1797,6 +1802,12 @@ translate schinese strings:
 
     old "Is your name [el]?"
     new "[el]？"
+
+    old "Yes{#name}"
+    new "是"
+
+    old "No{#name}"
+    new "否"
 
 #人名
 
@@ -1831,6 +1842,9 @@ translate schinese strings:
 
     old "Werewolf"
     new "狼人"
+
+    old "Book"
+    new "书"
 
     old "Sebas"
     new "塞巴斯"

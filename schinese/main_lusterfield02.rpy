@@ -4860,14 +4860,14 @@ translate schinese Cane_First_8a970462:
 
     # c "50 gold, that fair for ya? If ya don't get my name next time, That 50 gold is mine." nointeract
     c "50 金币，公平不？如果你赶明儿再来却没记住我的名字，这笔钱就归我了。" nointeract
-#TODO
-# translate schinese strings:
 
-#     old "Yes"
-#     new "同意"
+translate schinese strings:
 
-#     old "No"
-#     new "拒绝"
+    old "Yes{#canebet}"
+    new "同意"
+
+    old "No{#canebet}"
+    new "拒绝"
 
 ##赌
 
@@ -5296,6 +5296,14 @@ translate schinese Cane_Apron_Quest_3be6d530:
 
     # c "I'll let ya ass decide, whatcha bet for 100 gold." nointeract
     c "赌 100 块钱，你来决定。" nointeract
+
+translate schinese strings:
+
+    old "Yes{#canebettopu}"
+    new "同意"
+
+    old "No{#canebettopu}"
+    new "拒绝"
 
 translate schinese Cane_Apron_Quest_67959dd9:
 
@@ -5877,7 +5885,7 @@ translate schinese Cane_Apron_Quest_End_bffa6f1b:
 
 translate schinese Cane_Apron_Quest_End_b91b2de6:
 
-    # "I shouldn't care, but I did, I took away his gold, thinking he wouldn't dare to leave the tavern."
+    # c "I shouldn't care, but I did, I took away his gold, thinking he wouldn't dare to leave the tavern."
     c "我本不该干涉他自己的选择，但我还是忍不住，收走了他所有的金币，以为这样他就不敢离开我。"
 
 translate schinese Cane_Apron_Quest_End_88055e7c:
@@ -6306,6 +6314,14 @@ translate schinese Cane_NoMoney_7814d9f9:
 
     # c "It's only a few hours, if not, ya gonna pay double the price ya owed me. Just be our server for a while, what can it hurt ya?" nointeract
     c "做会服务员而已，顾客又不会吃了你。就几个钟头，赶趁的，不然你要欠我双倍的钱。" nointeract
+
+translate schinese strings:
+
+    old "Yes{#caneserverjob}"
+    new "同意"
+
+    old "No{#caneserverjob}"
+    new "拒绝"
 
 # translate schinese Cane_Outfit_02_c237210e:
 
@@ -13702,6 +13718,14 @@ translate schinese Lothar_Night_Greet_eceb32db:
     # l "Talking about proof... You got your courier badge yet?" nointeract
     l "说到证明……你拿到邮递员徽章没？" nointeract
 
+translate schinese strings:
+
+    old "Yes{#lotharhavebadge}"
+    new "肯定"
+
+    old "No{#lotharhavebadge}"
+    new "否定"
+
 translate schinese Lothar_Night_Greet_5433d9ff:
 
     # e "Hmm... Yes."
@@ -15464,14 +15488,14 @@ translate schinese Lothar_Postal_Finish_50fcf88a:
 
     # l "Did you just lie to me, [e]." nointeract
     l "你刚刚有没有骗我，[e]。" nointeract
-#TODO
-# translate schinese strings:
 
-#     old "Yes"
-#     new "承认"
+translate schinese strings:
 
-#     old "No"
-#     new "否认"
+    old "Yes{#lothardummylie}"
+    new "承认"
+
+    old "No{#lothardummylie}"
+    new "否认"
 
 translate schinese Lothar_Postal_Finish_7188cbc6:
 

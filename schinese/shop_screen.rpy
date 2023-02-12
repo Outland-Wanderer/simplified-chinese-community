@@ -1,7 +1,10 @@
 ﻿translate schinese strings:
 
-    old "Sebas' Shop"
-    new "塞巴斯小卖店"
+    old "The King's Pawn"
+    new "君临典当"
+
+    # old "The Ardent Cauldron"
+    # new ""
 
     old "Sell Value: [selected_shopItem.value]"
     new "出售价格：[selected_shopItem.value]"

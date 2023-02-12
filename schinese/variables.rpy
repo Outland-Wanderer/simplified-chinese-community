@@ -1,5 +1,49 @@
 translate schinese strings:
 
+    #技能
+
+    old "Self Heal"
+    new "自愈"
+
+    old "Self Heal: {p} You can heal back a portion of your health scaling with your INT. Costs 30 MP."
+    new "根据你的智慧属性值回复部分体力。消耗 30 点魔力。"
+
+    old "Fortify"
+    new "设防"
+
+    old "Fortify: {p} Your defense is increased by a significant amount for this round. Costs 20 MP."
+    new "显著增强 1 回合的防御力。消耗 20 点魔力。"
+
+    old "Alluring Lust"
+    new "勾人"
+
+    old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA. Costs 20 MP."
+    new "根据你的智慧和魅力属性值增强 3 回合的诱惑效果。消耗 20 点魔力。"
+
+    old "Camouflage"
+    new "乱眼"
+
+    old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI. Costs 20 MP."
+    new "根据你的智慧和敏捷属性值增强本场战斗的闪避几率。消耗 20 点魔力。"
+
+    old "Core Strike"
+    new "溃敌"
+
+    old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round. Costs 35 MP."
+    new "根据你的智慧和坚韧属性值对目标造成大量伤害，并使其眩晕 1 回合。消耗 35 点魔力。"
+
+    old "Resolution"
+    new "净心"
+
+    old "Resolution: {p} Reduce your Lust based on your INT. Costs 25 MP."
+    new "根据你的智慧属性值清除部分欲望。消耗 25 点魔力。"
+
+    # old "Fiery Charge"
+    # new ""
+
+    # old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP"
+    # new ""
+
     #物品-标本
 
     old "Lindbloom"
@@ -141,6 +185,18 @@ translate schinese strings:
     old "A small hand tool most used for digging in a garden, smoothing or spreading mortar. {p} Attack: +4"
     new "一种小手工具，多用于花园铲土或者抹平抹开砂浆。{p}攻击 +4"
 
+    # old "Copper Pickaxe"
+    # new ""
+
+    # old "An old pickaxe that the werewolf miners used, could be too fragile for long term usage. {p} Attack: +4"
+    # new ""
+
+    # old "Tribal Spear"
+    # new ""
+
+    # old "A long spear crafted by a tribe, the magical power within gives its user an unusual boost. {p} Attack: +10 {p} INT: +1 {p} Max MP: +15"
+    # new ""
+
     #物品-穿戴品
 
     old "Tribe Loincloth"
@@ -280,6 +336,35 @@ translate schinese strings:
 
     old "A stylish headwear, popularised by the academics of the capital.{p} Defense: +6 {p} INT: +1 {p} Max MP: +20 {p} Flirt: -3"
     new "一种时尚的头饰，流行于首都的学者圈。{p}防御 +6{p}智慧 +1{p}最大魔力 +20{p}诱惑 -3"
+
+    # old "Long Scarf"
+    # new ""
+
+    # old "A scarf usually worn around the wearer's neck. Its smart and classy outlook probably grants wearer actual smartness as well.{p} Defense: +2 {p} INT: +2 {p} CHA: +1 {p} Flirt: -2"
+    # new ""
+
+    # old "Dog Collar"
+    # new ""
+
+    # old "A collar made by a farmer dog who specialises in growing plants and boners, wearing the collar renders the wearer property of the farmer.{p}Defense: +9 {p} TEN:+1 {p}Max Lust: +15 {p} Flirt: -2"
+    # new ""
+
+    #物品-书籍
+
+    # old "{i}Botanical Journal of Plants In and Around the Dark Forest: Species, Uses, and Dangers{/i}"
+    # new ""
+
+    # old "Book of Fiery Charge"
+    # new ""
+
+    # old "The Book grants you a spell that burns all enemies."
+    # new ""
+
+    # old "Medicinal Botany, by ???"
+    # new ""
+
+    # old "The Botanical Journal is covered with slime, accompanied by a few loose pages, it describes details of different plants species around the dark forest."
+    # new ""
 
     #物品-关键
 
@@ -549,6 +634,30 @@ translate schinese strings:
     old "Dropped from a certain waterfall, it is used for decoration, clothes, and different utilities."
     new "从某个瀑布落下的东西，可以用来当装饰、做衣服等等。"
 
+    # old "Lodestone"
+    # new ""
+
+    # old "A piece of Mineral that is naturally magnetized. It was used to make compasses and all accessories."
+    # new ""
+
+    # old "Copper"
+    # new ""
+
+    # old "A reddish mineral from a somewhat rare ore, it was first used to make tools until iron took over."
+    # new ""
+
+    # old "Chestnut"
+    # new ""
+
+    # old "An edible nut that is quite enticing to little creatures around Dark Forest."
+    # new ""
+
+    # old "Purple Panacea"
+    # new ""
+
+    # old "A fairly rare vegetation grown in the summery farmland. It closes any non-lethal wounds and gives consumer a pick-me-up, according to the farmer"
+    # new ""
+
     #敌方
 
     old "Slime"
@@ -607,6 +716,9 @@ translate schinese strings:
 
     old "Goat Ranger"
     new "山羊弓弩手"
+
+    old "Nosferat"
+    new "吸血鬼"
 
     #地点
 
@@ -701,7 +813,13 @@ translate schinese strings:
     new "剪绸瀑布"
 
     old "The waterfall on Kesi Alps connected to the freshwater down south."
-    new "恺惜山脉的瀑布，往下流走就是招藓河。"
+    new "恺惜山脉的瀑布，往下游走就是招藓河。"
+
+    # old "Backyard Barn"
+    # new ""
+
+    # old "The large barn in the middle of corn and wheat field, owned by an odd... Shepherd."
+    # new ""
 
     old "Forest Nightwatch"
     new "幽暗森林哨站"
@@ -751,25 +869,11 @@ translate schinese strings:
     old "The area where an ancient shrine used to stand before the forest, now abandoned, and inhabited by slimes of extreme sizes."
     new "幽暗森林的古老神殿，已经被遗弃了，现在栖息着大大小小的史莱姆。"
 
-    #技能
+    # old "Creek Thicket"
+    # new ""
 
-    old "Self Heal"
-    new "自愈"
-
-    old "Fortify"
-    new "设防"
-
-    old "Alluring Lust"
-    new "勾人"
-
-    old "Camouflage"
-    new "乱眼"
-
-    old "Core Strike"
-    new "溃敌"
-
-    old "Resolution"
-    new "净心"
+    # old "The area connected to the Viscid Stream, it is filled with different kinds of Slime and Herbs suitable for research."
+    # new ""
 
     #日期
 
@@ -958,6 +1062,24 @@ translate schinese strings:
     # old "After learning the ingredients of the cure, Wuldon wanted to go to the Slime's territory with me."
     # new "了解到解药的配方后，伍尔顿想让我陪他一起探索史莱姆的领地。"
 
+    # old "The Buried Shimmer"
+    # new ""
+
+    # old "Before the curse takes over Vurro, he suggests to go back to the collapsed cave with Wuldon and me and finish his research."
+    # new ""
+
+    # old "Ranch Patrol"
+    # new ""
+
+    # old "To know more about his routine patrol. Amble leads me for a walk around the farm..."
+    # new ""
+
+    # old "Hands of Red"
+    # new ""
+
+    # old "After leaving Vurro behind in the cave, Wuldon wanted me to attend his burial, and plan for a revenge on Uffe."
+    # new ""
+#TODO quest31重复任务？？
     # #任务
 
     # old "Potion Order"
