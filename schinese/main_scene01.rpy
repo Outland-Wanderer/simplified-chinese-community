@@ -494,7 +494,7 @@ translate schinese Scene_Sebas_Under_Counter_60ea3c44:
 translate schinese Scene_Sebas_Under_Counter_b0021ab9:
 
     # "His cock is pulsating with each stroke, fluttering at your slightest touch."
-    "他的巨根随着你的套弄而搏动，即使再轻微的触碰也能让它哆嗦。"
+    "他的巨根跟随你的套弄而搏动，即使再轻微的触碰也能让它哆嗦。"
 
 translate schinese Scene_Sebas_Under_Counter_7c522a3f:
 
@@ -741,345 +741,345 @@ translate schinese Scene_Sebas_Under_Counter_7d29b710:
     # e "Ok... Take care Seb."
     e "好……你去吧。"
 
-# translate schinese Scene_Goat_Lose_3689a1fa:
+translate schinese Scene_Goat_Lose_3689a1fa:
 
-#     # "You are... stranded in the forest, your energy depleted from the battle."
-#     ""
+    # "You are... stranded in the forest, your energy depleted from the battle."
+    "你在先前的战斗中早已力竭……这片密林没有其他人能够帮你，你只能凭借着意志力向外界爬去。"
 
-# translate schinese Scene_Goat_Lose_bb69ecde:
+translate schinese Scene_Goat_Lose_bb69ecde:
 
-#     # "The huntsman is following you as you crawl away from him, like playing with his prey."
-#     ""
+    # "The huntsman is following you as you crawl away from him, like playing with his prey."
+    "山羊猎人不紧不慢跟着你，像与他平日的猎物玩一场追逐游戏。"
 
-# translate schinese Scene_Goat_Lose_27db5529:
+translate schinese Scene_Goat_Lose_27db5529:
 
-#     # "You grip onto a patch of grass, continue dragging yourself across..."
-#     ""
+    # "You grip onto a patch of grass, continue dragging yourself across..."
+    "你抓住一撮草，继续拖拽自己逃离这块地方……"
 
-# translate schinese Scene_Goat_Lose_b60b37bd:
+translate schinese Scene_Goat_Lose_b60b37bd:
 
-#     # gt "Insolence like you... We had a pretty strict rule about how to teach a lesson."
-#     gt ""
+    # gt "Insolence like you... We had a pretty strict rule about how to teach a lesson."
+    gt "我们部落可专门制定了严格的规矩……来教训像你这样的獠奴。"
 
-# translate schinese Scene_Goat_Lose_0edb86f7:
+translate schinese Scene_Goat_Lose_0edb86f7:
 
-#     # gt "The village is full of insolence. That's why we had to cleanse it."
-#     gt ""
+    # gt "The village is full of insolence. That's why we had to cleanse it."
+    gt "乐斯民菲尔德只有一群没有开化的低劣刁民，所以我们才一定要去净化它。"
 
-# translate schinese Scene_Goat_Lose_11e2be78:
+translate schinese Scene_Goat_Lose_11e2be78:
 
-#     # gt "If only our chieftain allowed us..."
-#     gt ""
+    # gt "If only our chieftain allowed us..."
+    gt "只要首领有一天能同意……"
 
-# translate schinese Scene_Goat_Lose_91dfc767:
+translate schinese Scene_Goat_Lose_91dfc767:
 
-#     # e "Shut up... and let me go."
-#     e ""
+    # e "Shut up... and let me go."
+    e "闭嘴……放我走。"
 
-# translate schinese Scene_Goat_Lose_69a043ba:
+translate schinese Scene_Goat_Lose_69a043ba:
 
-#     # gt "Come on, you think I will let you go that easily?"
-#     gt ""
+    # gt "Come on, you think I will let you go that easily?"
+    gt "别做梦了，你以为我会这么轻易地放过你？"
 
-# translate schinese Scene_Goat_Lose_1909df66:
+translate schinese Scene_Goat_Lose_1909df66:
 
-#     # "You can see the shade of the goat overshadowing you. He kneels behind you, and yanks your leg forcefully."
-#     ""
+    # "You can see the shade of the goat overshadowing you. He kneels behind you, and yanks your leg forcefully."
+    "山羊猎人的阴影笼罩到你面前的草地上。他跪在你正后方，用力固定住了你的腿。"
 
-# translate schinese Scene_Goat_Lose_0292c121:
+translate schinese Scene_Goat_Lose_0292c121:
 
-#     # e "Fuck... Get off me."
-#     e ""
+    # e "Fuck... Get off me."
+    e "操……滚开。"
 
-# translate schinese Scene_Goat_Lose_78bf3372:
+translate schinese Scene_Goat_Lose_78bf3372:
 
-#     # "He doesn't say another word. Only fondling your body like it's his property."
-#     ""
+    # "He doesn't say another word. Only fondling your body like it's his property."
+    "他没有说话，而是专心致志爱抚着你，像在爱抚他的专属玩具。"
 
-# translate schinese Scene_Goat_Lose_794057c1:
+translate schinese Scene_Goat_Lose_794057c1:
 
-#     # e "Get the fuck off!"
-#     e ""
+    # e "Get the fuck off!"
+    e "放开我！"
 
-# translate schinese Scene_Goat_Lose_0723a08b:
+translate schinese Scene_Goat_Lose_0723a08b:
 
-#     # "The goat continues moving his hand, ignoring your plead. Feeling from your shoulder to your waist."
-#     ""
+    # "The goat continues moving his hand, ignoring your plead. Feeling from your shoulder to your waist."
+    "山羊猎人双手各路，继续从你的肩膀摸到腰胯，丝毫不理会手下败将的恳求。"
 
-# translate schinese Scene_Goat_Lose_da0a386f:
+translate schinese Scene_Goat_Lose_da0a386f:
 
-#     # "You shudder at his touch, he keeps running his hand across your buttom, until he reaches your butt."
-#     ""
+    # "You shudder at his touch, he keeps running his hand across your buttom, until he reaches your butt."
+    "你不紧对这种异样触感直打哆嗦。他的魔爪稍作停留后一路向下，直至你的臀部。"
 
-# translate schinese Scene_Goat_Lose_45e275dd:
+translate schinese Scene_Goat_Lose_45e275dd:
 
-#     # e "W-what... what are you doing..."
-#     e ""
+    # e "W-what... what are you doing..."
+    e "你……你要干什么……"
 
-# translate schinese Scene_Goat_Lose_28c5c8d8:
+translate schinese Scene_Goat_Lose_28c5c8d8:
 
-#     # gt "I haven't seen similar faces like you before... but this will certainly do..."
-#     gt ""
+    # gt "I haven't seen similar faces like you before... but this will certainly do..."
+    gt "我还是头一回见到你这种长相的家伙，不过……一回生二回熟……"
 
-# translate schinese Scene_Goat_Lose_798b8159:
+translate schinese Scene_Goat_Lose_798b8159:
 
-#     # e "Fuck, I'll kill you without mercy. Let me go and maybe I'll let you liv-"
-#     e ""
+    # e "Fuck, I'll kill you without mercy. Let me go and maybe I'll let you liv-"
+    e "去死吧，我要杀了你！立刻放我走说不定——"
 
-# translate schinese Scene_Goat_Lose_865bdedc:
+translate schinese Scene_Goat_Lose_865bdedc:
 
-#     # gt "Shut your mouth, insolence. I'm in control of you now."
-#     gt ""
+    # gt "Shut your mouth, insolence. I'm in control of you now."
+    gt "这里没你说话的份，獠奴。现在我是你的主人。"
 
-# translate schinese Scene_Goat_Lose_e0bc7e8e:
+translate schinese Scene_Goat_Lose_e0bc7e8e:
 
-#     # "You are too exhausted to fight back, so you watch him grope and squeeze your ass without any consquences."
-#     ""
+    # "You are too exhausted to fight back, so you watch him grope and squeeze your ass without any consquences."
+    "你没有力气反抗，只能任由他抓摸挤弄你圆滚的翘臀。"
 
-# translate schinese Scene_Goat_Lose_5638889d:
+translate schinese Scene_Goat_Lose_5638889d:
 
-#     # "But... surprisingly he is very gentle with you, even if forcefully. His soft touch is making you go insane."
-#     ""
+    # "But... surprisingly he is very gentle with you, even if forcefully. His soft touch is making you go insane."
+    "与想象相反……强迫你屈服的他此时却温柔极了。外族细致的手法令你有些迷糊。"
 
-# translate schinese Scene_Goat_Lose_8995eb00:
+translate schinese Scene_Goat_Lose_8995eb00:
 
-#     # "You can feel his warmth emanating on your back, his breath gets tinkly in your neck."
-#     ""
+    # "You can feel his warmth emanating on your back, his breath gets tinkly in your neck."
+    "他俯下身子，你感受着陌生人传递出的温暖，脖子被气流吹得发痒。"
 
-# translate schinese Scene_Goat_Lose_a6970c5e:
+translate schinese Scene_Goat_Lose_a6970c5e:
 
-#     # gt "You've got a nice ass."
-#     gt ""
+    # gt "You've got a nice ass."
+    gt "你的屁股手感真好。"
 
-# translate schinese Scene_Goat_Lose_3839cda1:
+translate schinese Scene_Goat_Lose_3839cda1:
 
-#     # "The goat whispers in your ears softly, you can sense his lust from the hoarse voice alone."
-#     ""
+    # "The goat whispers in your ears softly, you can sense his lust from the hoarse voice alone."
+    "山羊猎人凑到你耳边窃窃私语，声音沙哑又淫邪。"
 
-# translate schinese Scene_Goat_Lose_be035371:
+translate schinese Scene_Goat_Lose_be035371:
 
-#     # "He lifts off your loincloth gently, revealing the view of your cock exposed in the forest."
-#     ""
+    # "He lifts off your loincloth gently, revealing the view of your cock exposed in the forest."
+    "他开始动手一点一点除去你的遮裆布，将底下的宝贝展示给这片森林。"
 
-# translate schinese Scene_Goat_Lose_96956be1:
+translate schinese Scene_Goat_Lose_96956be1:
 
-#     # e "N-noo. Get... off."
-#     e ""
+    # e "N-noo. Get... off."
+    e "不、不要……"
 
-# translate schinese Scene_Goat_Lose_231af4db:
+translate schinese Scene_Goat_Lose_231af4db:
 
-#     # gt "Don't lie to yourself. You want this too don't you? I'll fill you up... r-really good."
-#     gt ""
+    # gt "Don't lie to yourself. You want this too don't you? I'll fill you up... r-really good."
+    gt "少在这装纯，你其实很期待吧？放心，我会让你好好尝尝……被填满的滋味。"
 
-# translate schinese Scene_Goat_Lose_d338029e:
+translate schinese Scene_Goat_Lose_d338029e:
 
-#     # "You feel the huntsman's fat cock sitting on your back. He is getting closer until his stomach meets your back."
-#     ""
+    # "You feel the huntsman's fat cock sitting on your back. He is getting closer until his stomach meets your back."
+    "你感觉背后有一根粗大的东西渐渐压了上来。山羊猎人越靠越近，直到八块腹肌与你的脊背相贴。"
 
-# translate schinese Scene_Goat_Lose_f345b9df:
+translate schinese Scene_Goat_Lose_f345b9df:
 
-#     # "Then, his hand is holding your shoulder, you can feel that he is ready for the main event."
-#     ""
+    # "Then, his hand is holding your shoulder, you can feel that he is ready for the main event."
+    "他随即紧紧抓住了你的肩膀，你知道前戏即将结束。"
 
-# translate schinese Scene_Goat_Lose_711f287f:
+translate schinese Scene_Goat_Lose_711f287f:
 
-#     # e "Hnnnn-ARGHHHH!!"
-#     e ""
+    # e "Hnnnn-ARGHHHH!!"
+    e "呃啊啊啊——！！"
 
-# translate schinese Scene_Goat_Lose_9397a84e:
+translate schinese Scene_Goat_Lose_9397a84e:
 
-#     # "You scream when the goat pushes himself into your body without any warning."
-#     ""
+    # "You scream when the goat pushes himself into your body without any warning."
+    "没有任何提醒或警告，山羊猎人一个挺胯将凶器硬生生撞进了你体内。"
 
-# translate schinese Scene_Goat_Lose_df0553fd:
+translate schinese Scene_Goat_Lose_df0553fd:
 
-#     # "It is not properly lubricated yet, so the inside of your entrance seems to be... bumpy."
-#     ""
+    # "It is not properly lubricated yet, so the inside of your entrance seems to be... bumpy."
+    "你的后穴根本没有得到任何润滑……想必干涩得很。"
 
-# translate schinese Scene_Goat_Lose_789db212:
+translate schinese Scene_Goat_Lose_789db212:
 
-#     # "And you can feel his foreskin scratching with the wall of your rectum."
-#     ""
+    # "And you can feel his foreskin scratching with the wall of your rectum."
+    "你能清晰地感受到他那话擦过你肠壁火辣辣的疼。"
 
-# translate schinese Scene_Goat_Lose_35a35456:
+translate schinese Scene_Goat_Lose_35a35456:
 
-#     # "The goat grunts in enjoyment. He probably really likes it rough."
-#     ""
+    # "The goat grunts in enjoyment. He probably really likes it rough."
+    "山羊猎人闷哼着，一脸享受，或许他就爱这么粗暴地插入。"
 
-# translate schinese Scene_Goat_Lose_754e6100:
+translate schinese Scene_Goat_Lose_754e6100:
 
-#     # "He forces himself inside your tight hole, shoving your ass just to get it deep."
-#     ""
+    # "He forces himself inside your tight hole, shoving your ass just to get it deep."
+    "他没有给你适应的时间，继续将鸡巴深深顶进你紧致的屁眼里，又轻而易举地抽了出来。"
 
-# translate schinese Scene_Goat_Lose_773b18b3:
+translate schinese Scene_Goat_Lose_773b18b3:
 
-#     # "And he pulls out easily, there's already pre-cum leaking from the tip of his erect member."
-#     ""
+    # "And he pulls out easily, there's already pre-cum leaking from the tip of his erect member."
+    "他梆硬的鸡巴顶端此时已经渗出不少淫水。"
 
-# translate schinese Scene_Goat_Lose_b5ecb88c:
+translate schinese Scene_Goat_Lose_b5ecb88c:
 
-#     # "It hurts a lot, you have never felt a foreign object going inside you, let alone a stiff goat cock."
-#     ""
+    # "It hurts a lot, you have never felt a foreign object going inside you, let alone a stiff goat cock."
+    "你感到钻心的疼。来到新世界后的第一次竟然被一只山羊强取豪夺。"
 
-# translate schinese Scene_Goat_Lose_50243b28:
+translate schinese Scene_Goat_Lose_50243b28:
 
-#     # "But as much as you wouldn't like to admit, it made you extremely aroused, even hot."
-#     ""
+    # "But as much as you wouldn't like to admit, it made you extremely aroused, even hot."
+    "粗野的攻势让你兴奋极了，你心里不愿承认，身体却变得火热。"
 
-# translate schinese Scene_Goat_Lose_4d97b9fc:
+translate schinese Scene_Goat_Lose_4d97b9fc:
 
-#     # "The goat thrusts his hip into you again, this time a little smoother, but still rough."
-#     ""
+    # "The goat thrusts his hip into you again, this time a little smoother, but still rough."
+    "山羊猎人再次发力将肉棒捅入你的肉穴中，这次稍许顺利了些，不过干涩的感觉还在。"
 
-# translate schinese Scene_Goat_Lose_2cf60594:
+translate schinese Scene_Goat_Lose_2cf60594:
 
-#     # "He shoves himself inside you, the pace becomes faster and faster when your entrance gets more wet."
-#     ""
+    # "He shoves himself inside you, the pace becomes faster and faster when your entrance gets more wet."
+    "他逐渐加快了速度，你的后庭在频频抽插下变得湿润起来。"
 
-# translate schinese Scene_Goat_Lose_af0695e1:
+translate schinese Scene_Goat_Lose_af0695e1:
 
-#     # gt "I see that you like this. You like getting fucked roughly, by us?"
-#     gt ""
+    # gt "I see that you like this. You like getting fucked roughly, by us?"
+    gt "你这不是也很享受嘛。就喜欢我来硬的，嗯？"
 
-# translate schinese Scene_Goat_Lose_7a2199a0:
+translate schinese Scene_Goat_Lose_7a2199a0:
 
-#     # e "N-noo- Ah- F-f-fuck! Stop-p!"
-#     e ""
+    # e "N-noo- Ah- F-f-fuck! Stop-p!"
+    e "我才没有——啊，操！拔、拔出来！"
 
-# translate schinese Scene_Goat_Lose_2cdec28b:
+translate schinese Scene_Goat_Lose_2cdec28b:
 
-#     # "The goat only smiles back at you, he must have already seen your cock twitching and getting hard from his thrusting."
-#     ""
+    # "The goat only smiles back at you, he must have already seen your cock twitching and getting hard from his thrusting."
+    "实际上你的龙根非但勃起了还一跳一跳的。山羊猎人在你背后露出微笑，这些反应肯定都被他看在眼里。"
 
-# translate schinese Scene_Goat_Lose_d04c8970:
+translate schinese Scene_Goat_Lose_d04c8970:
 
-#     # "You would never think that you let this complete stranger take you on, and intrude upon your body like this."
-#     ""
+    # "You would never think that you let this complete stranger take you on, and intrude upon your body like this."
+    "半刻前，你绝对想不到自己竟然会沦为这个陌生人的俘虏，被他恣意侵犯最私密的地方。"
 
-# translate schinese Scene_Goat_Lose_3b849c19:
+translate schinese Scene_Goat_Lose_3b849c19:
 
-#     # "But... he is so tender about this, even if you know he is using you as his pleasure toy."
-#     ""
+    # "But... he is so tender about this, even if you know he is using you as his pleasure toy."
+    "可他并没有只在乎自己爽快与否……即便你不过是一个供他泄欲的玩具。"
 
-# translate schinese Scene_Goat_Lose_9145304c:
+translate schinese Scene_Goat_Lose_9145304c:
 
-#     # "At some point, you stopped struggling and even press your ass deeper along his cock, feeling it getting deeper and deeper."
-#     ""
+    # "At some point, you stopped struggling and even press your ass deeper along his cock, feeling it getting deeper and deeper."
+    "不知何时你停止了挣扎，反倒开始主动拱起屁股迎合撞击，帮助入侵者一次比一次深入。"
 
-# translate schinese Scene_Goat_Lose_2f86e673:
+translate schinese Scene_Goat_Lose_2f86e673:
 
-#     # gt "Didn't know you are so... thirsty, I like it."
-#     gt ""
+    # gt "Didn't know you are so... thirsty, I like it."
+    gt "没想到你竟然这么……饥渴，我喜欢。"
 
-# translate schinese Scene_Goat_Lose_606a6b54:
+translate schinese Scene_Goat_Lose_606a6b54:
 
-#     # "The huntsman never stops, instead he keeps pounding your ass, each wave sends lustful blissfulness into your brain."
-#     ""
+    # "The huntsman never stops, instead he keeps pounding your ass, each wave sends lustful blissfulness into your brain."
+    "山羊猎人好比一台永不停歇的打桩机，不断挑动冲击你那根神经，激发出一波一波快感将你送上性福之巅。"
 
-# translate schinese Scene_Goat_Lose_aa7e5a13:
+translate schinese Scene_Goat_Lose_aa7e5a13:
 
-#     # "You can't get rid of this feeling, this feeling of wanting him to fill you up like you are supposed to be."
-#     ""
+    # "You can't get rid of this feeling, this feeling of wanting him to fill you up like you are supposed to be."
+    "你无法抗拒这种想要被填满的感觉，就像你生来如此。"
 
-# translate schinese Scene_Goat_Lose_505bc6ab:
+translate schinese Scene_Goat_Lose_505bc6ab:
 
-#     # "Your muscle slowly relax at the constant intrusion of your entrance."
-#     ""
+    # "Your muscle slowly relax at the constant intrusion of your entrance."
+    "你慢慢适应了羊鞭来回搅动肉穴，不再浑身紧绷。"
 
-# translate schinese Scene_Goat_Lose_4795d2b2:
+translate schinese Scene_Goat_Lose_4795d2b2:
 
-#     # "You are overwhelmed by the sound of his thighs slapping against yours, accompanied by the muffled grunt of pleasure from the goat."
-#     ""
+    # "You are overwhelmed by the sound of his thighs slapping against yours, accompanied by the muffled grunt of pleasure from the goat."
+    "健壮肉体撞击的拍打声，山羊猎人舒爽的闷哼声，充斥着你的脑海。"
 
-# translate schinese Scene_Goat_Lose_898961a4:
+translate schinese Scene_Goat_Lose_898961a4:
 
-#     # "You moan loudly at every thrust, both of your breath pattern is getting more rapid and robust."
-#     ""
+    # "You moan loudly at every thrust, both of your breath pattern is getting more rapid and robust."
+    "他每一次插入都让你爽得大叫，两人呼吸都愈发短促、粗重。"
 
-# translate schinese Scene_Goat_Lose_8262f8c2:
+translate schinese Scene_Goat_Lose_8262f8c2:
 
-#     # "He is really good at making you feel... loved, he presses his body against you, this intimate touch makes your heart pounds faster."
-#     ""
+    # "He is really good at making you feel... loved, he presses his body against you, this intimate touch makes your heart pounds faster."
+    "这头山羊真的很擅长表达对你的……喜爱。他整个压上了你的后背，如此亲昵的接触令你心跳加速。"
 
-# translate schinese Scene_Goat_Lose_0d74124c:
+translate schinese Scene_Goat_Lose_0d74124c:
 
-#     # "His pace gets faster when you feel his grip on your shoulder tightens."
-#     ""
+    # "His pace gets faster when you feel his grip on your shoulder tightens."
+    "随着他挺胯动作越来越快，你肩膀上抓劲也变得更狠。"
 
-# translate schinese Scene_Goat_Lose_dd7bce1b:
+translate schinese Scene_Goat_Lose_dd7bce1b:
 
-#     # "You feel a powerful climax building up within you..."
-#     ""
+    # "You feel a powerful climax building up within you..."
+    "无与伦比的巨大快感正在下体堆积……"
 
-# translate schinese Scene_Goat_Lose_2e48ae48:
+translate schinese Scene_Goat_Lose_2e48ae48:
 
-#     # "You can hear his low grunt when he pushes his member reaching the deepest of you guts, all of his cock is inside of you..."
-#     ""
+    # "You can hear his low grunt when he pushes his member reaching the deepest of you guts, all of his cock is inside of you..."
+    "山羊猎人全力一顶将整根鸡巴没入你体内，发出低沉且悠长的呻吟，恨不得连卵蛋也一并塞进去……"
 
-# translate schinese Scene_Goat_Lose_c41c62a7:
+translate schinese Scene_Goat_Lose_c41c62a7:
 
-#     # e "Arrr-aggh... ha- ha..."
-#     e ""
+    # e "Arrr-aggh... ha- ha..."
+    e "唔啊……哈，哈……"
 
-# translate schinese Scene_Goat_Lose_1aa32583:
+translate schinese Scene_Goat_Lose_1aa32583:
 
-#     # "You shudder violently, wanting to pull yourself away but he pushes back. He cums inside your hole as ropes and ropes of fluid flood your asshole."
-#     ""
+    # "You shudder violently, wanting to pull yourself away but he pushes back. He cums inside your hole as ropes and ropes of fluid flood your asshole."
+    "你浑身颤抖，本能地想把他推开，但他死死将你压在身下，朝你洞内注入一股又一股精液。"
 
-# translate schinese Scene_Goat_Lose_8c49f102:
+translate schinese Scene_Goat_Lose_8c49f102:
 
-#     # "Your body spasms wildly as you reach an intense orgasm, you look back at his cock, he is still pumping seed inside your insatiable hole."
-#     ""
+    # "Your body spasms wildly as you reach an intense orgasm, you look back at his cock, he is still pumping seed inside your insatiable hole."
+    "与此同时，你也在疯狂的痉挛中达到了高潮。你回头往后看去，他的鸡巴还在不停泵动，喂养你贪得无厌的后穴。"
 
-# translate schinese Scene_Goat_Lose_87a983a0:
+translate schinese Scene_Goat_Lose_87a983a0:
 
-#     # "For a few seconds, you can feel his warm cum gushing down your body, some even spill out of your tunnel, making a mess on the grass."
-#     ""
+    # "For a few seconds, you can feel his warm cum gushing down your body, some even spill out of your tunnel, making a mess on the grass."
+    "恍惚间你感觉肚子里热流涌动，甚至过于充盈。一部分浓精溢出交合处落到草地上。"
 
-# translate schinese Scene_Goat_Lose_ea14a475:
+translate schinese Scene_Goat_Lose_ea14a475:
 
-#     # "Eventually, the huntsman withdraws his length, spraying copious amount of semen onto your ass and thighs."
-#     ""
+    # "Eventually, the huntsman withdraws his length, spraying copious amount of semen onto your ass and thighs."
+    "山羊猎人拔出肉棒活塞，大量白浆倾泻而出，布满你的屁股和大腿。"
 
-# translate schinese Scene_Goat_Lose_d3724201:
+translate schinese Scene_Goat_Lose_d3724201:
 
-#     # "The pleasure never subsides for you, you can still feel the shape of his cock inside you even when he pulls out."
-#     ""
+    # "The pleasure never subsides for you, you can still feel the shape of his cock inside you even when he pulls out."
+    "被操射的快感仍未消退。你蜜穴大张，内壁全然塑造成了羊鞭的形状，这感觉像是他还插着你。"
 
-# translate schinese Scene_Goat_Lose_ab68be70:
+translate schinese Scene_Goat_Lose_ab68be70:
 
-#     # "Your hole gaping, leaking drops and drops of goat's cum as he claims you as his property."
-#     ""
+    # "Your hole gaping, leaking drops and drops of goat's cum as he claims you as his property."
+    "从中不断滴落的精液证明你已经被这头山羊彻底征服。"
 
-# translate schinese Scene_Goat_Lose_32d90b33:
+translate schinese Scene_Goat_Lose_32d90b33:
 
-#     # gt "You, you are mine. Get it? Next time, skip the struggle part and I'll treat you well, insolence."
-#     gt ""
+    # gt "You, you are mine. Get it? Next time, skip the struggle part and I'll treat you well, insolence."
+    gt "听着，你是属于我的獠奴，记住了吗？下次免掉无谓的挣扎，让主人好好关照你。"
 
-# translate schinese Scene_Goat_Lose_6e93ccc3:
+translate schinese Scene_Goat_Lose_6e93ccc3:
 
-#     # "You are too tired to respond... your mind is filled with lust to the brim."
-#     ""
+    # "You are too tired to respond... your mind is filled with lust to the brim."
+    "你已经累到没法做出回应……意识还被淫欲所占据。"
 
-# translate schinese Scene_Goat_Lose_b175884f:
+translate schinese Scene_Goat_Lose_b175884f:
 
-#     # "The goat slaps his cock on your ass, bouncing off the last few drops onto you as he sits up."
-#     ""
+    # "The goat slaps his cock on your ass, bouncing off the last few drops onto you as he sits up."
+    "山羊猎人坐起来，拿鸡巴拍了拍你的屁股，将最后几滴精液弹到你身上。"
 
-# translate schinese Scene_Goat_Lose_6b90bebd:
+translate schinese Scene_Goat_Lose_6b90bebd:
 
-#     # gt "I must go now. But do come here more often for me, heh."
-#     gt ""
+    # gt "I must go now. But do come here more often for me, heh."
+    gt "现在我得走了。要是想我就多来这里找我，呵呵呵。"
 
-# translate schinese Scene_Goat_Lose_dfb02fed:
+translate schinese Scene_Goat_Lose_dfb02fed:
 
-#     # "You slump against the ground, watching the goat putting on his own loincloth."
-#     ""
+    # "You slump against the ground, watching the goat putting on his own loincloth."
+    "你侧身瘫在地上，像刚洗了个精液澡。"
 
-# translate schinese Scene_Goat_Lose_90428d54:
+translate schinese Scene_Goat_Lose_90428d54:
 
-#     # "He leaps around you to pick up his weapon. You vision goes blurry as he leaves you alone in the forest, covered in his semen."
-#     ""
+    # "He leaps around you to pick up his weapon. You vision goes blurry as he leaves you alone in the forest, covered in his semen."
+    "山羊猎人绑好遮裆布，跃过你，拾起他的武器后便离开了。你望着他渐行渐远的背影，视野逐渐模糊。"
 
 # translate schinese Scene_Goat_Win_37b8cc4d:
 
