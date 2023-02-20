@@ -1,7 +1,4 @@
-﻿#凯恩
-#首次打赌后
-
-translate schinese Cane_Bet_Dialogue_7eafd3a3:
+﻿translate schinese Cane_Bet_Dialogue_7eafd3a3:
 
     # e "Hey, Cone. How's the Tavern doing."
     e "嘿，科恩。你在忙吗？"
@@ -25,9 +22,6 @@ translate schinese Cane_Bet_Dialogue_5fd10514:
 
     # e "Ok..."
     e "好吧……"
-
-#塞巴斯在场
-##奥利不在场
 
 translate schinese Cane_Dialogue_be413ed6:
 
@@ -54,8 +48,6 @@ translate schinese Cane_Dialogue_bf6f0d3d:
     # e "A-alright..."
     e "行、行吧……"
 
-##奥利在场
-
 translate schinese Cane_Dialogue_be413ed6_1:
 
     # c "Welcome to the Nocturnal Trunk!"
@@ -81,8 +73,6 @@ translate schinese Cane_Dialogue_bf6f0d3d_1:
     # e "A-alright..."
     e "好、好的……"
 
-##裸体
-
 translate schinese Cane_Dialogue_97de7bb1:
 
     # c "Welcome to the Nocturnal Trun-...?"
@@ -107,8 +97,6 @@ translate schinese Cane_Dialogue_c6408ae7:
 
     # c "Cover yer cock, ya dink. I'm not serving some donks who goes out naked in the public."
     c "遮好你那话儿，小逼孩得。我不卖酒给光天化日不穿衣服的浪蛋。"
-
-##首次对话
 
 translate schinese Cane_Dialogue_bad59a76:
 
@@ -140,14 +128,10 @@ translate schinese Cane_Dialogue_d2c9a869:
     # e "Yes... Thank you.. Cane."
     e "当然……谢谢你……凯恩。"
 
-##一般见面
-
 translate schinese Cane_Dialogue_be413ed6_2:
 
     # c "Welcome to the Nocturnal Trunk!"
     c "欢迎光临夜夜椿！"
-
-#凯恩通用对话
 
 translate schinese Cane_Normal_Talk_9b502ad2:
 
@@ -4687,7 +4671,7 @@ translate schinese Cane_Ask_Lusterfield_4a7bedd3:
 translate schinese Cane_Ask_Lusterfield_76014c88:
 
     # c "Don't bother, [e]. Yar wasting yer time."
-    c "不必，[e]。胡董高低不成事。"
+    c "不必，[e]。你丫胡董，高低不成事。"
 
 translate schinese Cane_Ask_Lusterfield_1d0e5d7c:
 
@@ -4698,8 +4682,6 @@ translate schinese Cane_Ask_Lusterfield_907a1932:
 
     # c "Ahem... {p} You are wasting your time."
     c "哎……我是说，这是在浪费你的时间。"
-
-#关于酒馆
 
 translate schinese Cane_Ask_Tavern_83fd7086:
 
@@ -4751,8 +4733,6 @@ translate schinese Cane_Ask_Tavern_7b457a2f:
     # c "Ha. Later it is."
     c "哈，说话算话啊。"
 
-#关于凯恩自己
-
 translate schinese Cane_Ask_Himself_fd1c6e9a:
 
     # e "Cane, how are you doing?"
@@ -4783,8 +4763,6 @@ translate schinese Cane_Ask_Himself_8250175a:
     # c "Good. Don't waste my time with yer chit-chatting, [e]."
     c "很好，我可不浪费时间和你嘴喳喳，[e]。"
 
-#凯恩结束对话
-
 translate schinese Cane_Dialogue_End_5c4dfe36:
 
     # e "That's all. Thank you, Cane."
@@ -4794,8 +4772,6 @@ translate schinese Cane_Dialogue_End_9b06c336:
 
     # c "Well, then enjoy ya stay in the Nocturnal Trunk."
     c "得，在夜夜椿喝好玩好啊。"
-
-#初次见面
 
 translate schinese Cane_First_d2df1bbe:
 
@@ -4812,8 +4788,6 @@ translate schinese Cane_First_54d14e14:
     # e "Hello- wait how did you know my name?"
     e "你好——等下，你怎么知道我的名字？"
 
-##给洛萨尔留下坏印象
-
 translate schinese Cane_First_fbd04217:
 
     # m "That hunky dunky Lothar told me a goat outsider disrespected him. Ya got the guts to mix up his name like that, [e]."
@@ -4823,8 +4797,6 @@ translate schinese Cane_First_60610ff3:
 
     # e "I'm a dragon... but yes, that's me. Nice to meet you, uh- what's your name again?"
     e "我是龙……不过没错，我叫[e]。你好，呃——请问怎么称呼？"
-
-##给洛萨尔留下好印象
 
 translate schinese Cane_First_6915ea61:
 
@@ -4869,8 +4841,6 @@ translate schinese strings:
     old "No{#canebet}"
     new "拒绝"
 
-##赌
-
 translate schinese Cane_First_4c7bc377:
 
     # e "Of course I can remember your name, you just told me."
@@ -4895,8 +4865,6 @@ translate schinese Cane_First_e116a3b7:
 
     # c "Well then, enjoy ya stay in the Nocturnal Trunk!"
     c "呵呵呵，小客官在夜夜椿吃好玩好嘞！"
-
-##不赌
 
 translate schinese Cane_First_5ab7a9a2:
 
@@ -4994,8 +4962,6 @@ translate schinese Cane_First_5435e904:
 
     # c "My friend, ya got a bright future ahead of ya, [e]. Well then, enjoy yer stay in the Nocturnal Trunk."
     c "[e]你小子够精的，前途无量啊。行了，好喝好玩去吧。"
-
-#第二次见面
 
 translate schinese Cane_Second_ba3981a3:
 
@@ -5983,8 +5949,6 @@ translate schinese Cane_Apron_Quest_End_910fe225:
     # msg "Quest Finished! You gained a level up point! Check your inventory to distribute your points!"
     msg "任务完成！你已获得 1 属性点！请进入背包界面分配。"
 
-#完全猜错名字
-
 translate schinese Cane_SoWrong_21a8a3ed:
 
     # c "What kinda name was that? Don't make me laugh, [e]."
@@ -6010,8 +5974,6 @@ translate schinese Cane_SoWrong_e2bf0094:
 
     # c "Now, ya got the 50 gold for me?"
     c "还记得我们 50 块钱的赌约么？"
-
-#猜成科恩
 
 translate schinese Cane_Wrong_5dfc18ba:
 
@@ -6098,8 +6060,6 @@ translate schinese Cane_Wrong_072d3a3d:
     # c "Speaking of which, ya got the money eh?"
     c "说到钱包，你现在带够钱了么？"
 
-#猜对名字
-
 translate schinese Cane_Correct_ef785441:
 
     # c "Ha... damn, that's fair. It's Cane with a C."
@@ -6145,8 +6105,6 @@ translate schinese Cane_Correct_1c52ee51:
 
     # c "Alright, enjoy ya stay in the Nocturnal Trunk!"
     c "行，喝好玩好去吧！"
-
-#还钱
 
 translate schinese Cane_GotTheMoney_a6a81379:
 
@@ -6262,8 +6220,6 @@ translate schinese Cane_GotTheMoney_2e23fe8d:
 
     # "Your ass still feels sore after Cane's slap. You nudge on the cheeks as you walk around the tavern."
     "被壮实的老蝙蝠那么大力一拍，你的屁股酸痛得很。你只好边走边揉离开了柜台。"
-
-#没钱
 
 translate schinese Cane_NoMoney_f0972ae5:
 

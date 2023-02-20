@@ -1422,7 +1422,7 @@ translate schinese strings:
     old "Have fun with the huntsman"
     new ""
 
-    old "Leave him alone"
+    old "Leave him alone{#huntsmanwin}"
     new ""
 
     old "Do you wish to replay the lose Scene?"

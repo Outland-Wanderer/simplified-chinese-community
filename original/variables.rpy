@@ -93,13 +93,7 @@
     old "An Ointment with recipe created by Ole, it can recover 80 HP and MP each, reduces 30 Lust, and cleanse all negative effect during battle."
     new ""
 
-    old "Beer"
-    new ""
-
     old "The Famous Beer from Nocturnal Trunk, it recovers 15 HP, but increases Lust by 20 as well."
-    new ""
-
-    old "Ale"
     new ""
 
     old "The new addition of beer in Nocturnal Trunk, it recoveres 40 HP and 40 MP, but increases Lust by 20 as well."
@@ -966,6 +960,12 @@
     old "After learning the ingredients of the curse, Wuldon wanted to go to the Slime's territory with me."
     new ""
 
+    old "Roommate's Night Out"
+    new ""
+
+    old "Sebas invited me to have dinner in the tavern with Ole today, I should meet them there at night."
+    new ""
+
     old "Potion Order"
     new ""
 
@@ -1030,5 +1030,11 @@
     new ""
 
     old "Bruised: {p} All Target's healing is reduced by a significant amount."
+    new ""
+
+    old "Scorched"
+    new ""
+
+    old "Scorched: {p} Target's Health decreased by the same amount for each round. Additional application extends the effect duration instead."
     new ""
 

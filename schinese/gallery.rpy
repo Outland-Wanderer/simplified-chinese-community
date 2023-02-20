@@ -45,7 +45,7 @@ translate schinese strings:
     # old "{color=#000}Losing in Mimic Battle{/color}"
     # new "{color=#000}战败宝箱怪{/color}"
 
-    # old "{color=#000}Watching Sebas and Cane at night{/color}"
+    # old "{color=#000}Snooping on Sebas and Cane{/color}"
     # new "{color=#000}偷看塞巴斯和凯恩的春宵{/color}"
 
     # old "{color=#000}Losing in Werewolf Battle{/color}"
@@ -68,3 +68,12 @@ translate schinese strings:
 
     # old "{color=#000}Asking Cane about his Favour{/color}"
     # new "{color=#000}向凯恩表热心{/color}"
+
+    # old "{color=#000}Being submissive with Arthur{/color}"
+    # new ""
+
+    # old "{color=#000}Being rebellious with Arthur{/color}"
+    # new ""
+
+    # old "{color=#000}Losing to Hefty/Malignant Slime{/color}"
+    # new ""

@@ -45,7 +45,7 @@
     old "{color=#000}Losing in Mimic Battle{/color}"
     new ""
 
-    old "{color=#000}Watching Sebas and Cane at night{/color}"
+    old "{color=#000}Snooping on Sebas and Cane{/color}"
     new ""
 
     old "{color=#000}Losing in Werewolf Battle{/color}"
@@ -69,10 +69,10 @@
     old "{color=#000}Asking Cane about his Favour{/color}"
     new ""
 
-    old "{color=#000}Becoming submissive towards Arthur{/color}"
+    old "{color=#000}Being submissive with Arthur{/color}"
     new ""
 
-    old "{color=#000}Acting devious towards Arthur{/color}"
+    old "{color=#000}Being rebellious with Arthur{/color}"
     new ""
 
     old "{color=#000}Losing to Hefty/Malignant Slime{/color}"

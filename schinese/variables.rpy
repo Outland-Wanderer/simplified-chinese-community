@@ -942,11 +942,11 @@ translate schinese strings:
     old "Cane's cherished apron was punctured, he asked me to take the apron to Rahim and see if he can fix the apron."
     new "凯恩珍爱的围裙破了个洞，他让我拿去给雷希姆看看能不能补好。"
 
-    # old "Mutual Apothecary Arrangement"
-    # new "药剂师的双边协定"
+    old "Mutual Apothecary Arrangement"
+    new "药剂师的双边协定"
 
-    # old "As my courier job, Ole told me about helping him get potion from an old friend."
-    # new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为邮递员的本职工作。"
+    old "As my courier job, Ole told me about helping him get potion from an old friend."
+    new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为邮递员的本职工作。"
 
     # old "New Outfit"
     # new "新装备"

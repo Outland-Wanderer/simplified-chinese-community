@@ -663,9 +663,9 @@ translate schinese strings:
 
     old "Have fun with the huntsman"
     new "及时行乐"
-#TODO
-    # old "Leave him alone"
-    # new "放他一马"
+
+    old "Leave him alone{#huntsmanwin}"
+    new "放他一马"
 
 # translate schinese goat_win_534b91e8:
 

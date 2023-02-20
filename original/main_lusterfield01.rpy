@@ -1103,6 +1103,3221 @@ translate schinese Sebas_Ask_Lusterfield_3261991c:
     # s "What do you want to learn about us?" nointeract
     s "" nointeract
 
+translate schinese Sebas_Night_Out_Quest_Begin_d04ba342:
+
+    # "As soon as you step into the main lobby of the pawn shop, you are greeted by a familiar face."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_fb0f889c:
+
+    # s "Goooood Fuckin- Morning Roomie!"
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_2fc7ddfc:
+
+    # e "Gooood Morning Seb!"
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_a9005d6d:
+
+    # s "Got any time today?"
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_9854705d:
+
+    # e "Ehem... W-what do you mean?"
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_1ac2e746:
+
+    # s "Well I'd say we should get a drink at the Tavern, you and me. And Ole of course."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_0dfb3255:
+
+    # "The lion tilts his head to his right and shouts."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_fe5df01e:
+
+    # s "Hey! Ole! We're going there right?"
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_ce42a2fa:
+
+    # "Before you turn your head, a scaled hand drifts into your hair and ruffles it."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_db8224d3:
+
+    # o "Yes. Is [e] going too?"
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_820f29e6:
+
+    # s "Of course he's in! This little buddy here deserves the best drink in the town."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_52f9b265:
+
+    # "Sebas suddenly seems to remember something."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_19155a06:
+
+    # s "I dunno what he puts in there actually, but what's important is that it tastes damn good."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_50f3e810:
+
+    # o "I don't love it like this guy does, but I can't deny that it's pretty good."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_5ba6d5be:
+
+    # s "You didn't even get to the mellow part! Ales are supposed to be quaffed, not sipped on."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_75ab91e4:
+
+    # e "W-wait..."
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_a726564e:
+
+    # e "hmm... Alright, I'll go with you guys."
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_db09b689:
+
+    # o "That's great news, Seb's got a new drinking buddy now."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_b90bd54d:
+
+    # "The lizard squats down, laying his head on the counter. He has the look of a man finally seeing the light at the end of a tunnel."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_8160c2ba:
+
+    # s "Ha, we'll see, we'll see. The winner gets tea."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_d78e4863:
+
+    # s "...for Ole. We'll get a bunch of fucking beer!"
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_3d87b731:
+
+    # e "Ahem... so! What's the plan...?"
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_50187609:
+
+    # o "As usual, we'll meet at the Tavern."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_6938f316:
+
+    # s "Meet us there at night time. Alright."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_b3a9474f:
+
+    # s "Uh... No need to bring anything, we've got gold."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_4e00d00e:
+
+    # s "But bring some for yourself so you can actually bet on something."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_5cfad1f0:
+
+    # o "I suppose that bat friend of yours can get you a bag of coins if you ever need one."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_c736099d:
+
+    # o "Don't bring too much, you're gonna lose it to Cane anyway."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_b656cdae:
+
+    # "Ole chuckles, casually fidgeting with his dewlap."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_430e4bc0:
+
+    # "You haven't ever seen Ole look this... this relaxed. He's always seemed so cautious, so attentive."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_7bd8df44:
+
+    # "It Somehow comes as a surprise to you that he can actually relax, even as he closes his eyes in front of you."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_c2716d5c:
+
+    # s "Well buddy, we'll see you there then."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_4ae8394a:
+
+    # e "See you, Seb and Ole."
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_27dcabc5:
+
+    # o "Hmmph... I've told you this a few times, but, it's good to have you here."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_dd99fd32:
+
+    # "Ole stands back up, and gets back to work."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_6ce79733:
+
+    # o "Remember to come tonight. We'll be waiting for you."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_b988d61b:
+
+    # e "Well I'd maybe, uh. I'll- Uhem..."
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_d979735b:
+
+    # "You have no idea what your brain is doing, but it's not going great. Only a mush of words comes out of your mouth, leaving the lion confused."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_7b40b6b8:
+
+    # e "I'll go with you guys next tim-"
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_2772e2e6:
+
+    # s "Why?"
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_e7c62786:
+
+    # "The sudden injection of the lion caught you off guard. His tone is much more firm and stern than you're used to."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_0c2167bd:
+
+    # e "I'll need to uhm... attend other businesses."
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_48ee2f5e:
+
+    # s "But I'm your buddy, right?"
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_9dab544e:
+
+    # e "Seb. I'm still here, I'll go with you whenever I'm ready."
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_3f62caac:
+
+    # s "But I have been always ready for you."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_e3b78845:
+
+    # "Sebas stares at you, his mouth hangs agape. All the while Ole furrows his brows, interjecting."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_b9dc0dbc:
+
+    # o "Stop with the whining, Seb. Let him decide for himself."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_13f9f9d1:
+
+    # "The shop soon becomes silent as Ole finishes his sentence."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_94cdc7f3:
+
+    # "Sebas is still in shock. You didn't expect his reaction to be this strong. But he slowly calms down."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_27e73340:
+
+    # s "I- uhm... yes. Well, sorry if I acted strange."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_568de443:
+
+    # e "You're fine with this... right?"
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_1dfecf4f:
+
+    # s "I am. I'll probably just wait until the frivolous lizard is done with his inventory and we'll go to the Tavern."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_8b3306bf:
+
+    # "The lion shifts back to his lively self quite quickly, as opposed to your expectation."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_6cf859cd:
+
+    # o "Well, this frivolous lizard isn't going to bring your drunk butt back home if you're still bubbling with your gabby mouth."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_3e7345d4:
+
+    # s "Ha, he can't even beat a drunk lion in that disk game."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_840e3118:
+
+    # s "He lost to me last time we did, it was soooo embarrassing. I was drunk as hell and I drank like a full barrel of that beer."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_dca3d84f:
+
+    # o "I only lost because you begged me to take it easy to impress that someone else."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_b76b0d97:
+
+    # s "Excuses!"
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_73679941:
+
+    # o "Believe it or not, there was one time when we went there, you got so drunk you basically fell on the pile of bottles."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_dfe223d8:
+
+    # s "That's not relevant to what we're talking about, you lost!"
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_aec64dd0:
+
+    # "You are not sure if Seb is still angry over your answer... but seeing him back to his old self is certainly a bit of relief."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_4d60299f:
+
+    # e "Uhmm..." nointeract
+    e "" nointeract
+
+translate schinese Sebas_Night_Out_Quest_Begin_4e3b1024:
+
+    # e "Give some credit to Seb, I think he may have really nailed the throw."
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_4955614c:
+
+    # s "See? Even [e] agrees with my amazing talent at throwing."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_8eaac967:
+
+    # o "Don't get flattered. [e] is just being polite after you threw a tantrum at him just minutes ago."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_846da231:
+
+    # s "Heh, if this is being polite then I'd gladly tantrum all over [e]... Is there something as tantruming?"
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_7aa043d6:
+
+    # s "Hey, that's not fair, I don't see him as rude at any point."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_6b2c6c12:
+
+    # e "I wasn't just being polite, I genuinely believe in Seb."
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_0972165c:
+
+    # s "Aww... Don't worry, [e]. Ole is just salty that I am your favourite roomie."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_4190e869:
+
+    # s "His aiming was so fucking bad he hit a dude's crotch from the other side of the tavern. It's amazing actually how you can do that."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_7c14b01d:
+
+    # o "Ok, you should go back to attend your table now before I take over the shop and kick you out of it."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_ad3df93e:
+
+    # s "Oh No! I'm so scared!. Ha."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_647b2edc:
+
+    # "He turns back at you and gives your hand a huge squeeze."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_709f2726:
+
+    # e "I don't think Ole's gonna unintentionally be that bad, and I doubt Seb's going to remember the score that vividly when he's drunk."
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_82c985ec:
+
+    # s "Really? Don't get fooled by this guy's appearance, he's a master of sucking at tavern games I tell you buddy."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_4190e869_1:
+
+    # s "His aiming was so fucking bad he hit a dude's crotch from the other side of the tavern. It's amazing actually how you can do that."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_b55f9515:
+
+    # o "[e] said it. You're too complacent just because I played one game badly."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_c16d75f7:
+
+    # "Wait, Ole, you actually lost to a drunk Seb?"
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_0af7971f:
+
+    # o "No... I mean, the ball there was chipped, it steered off mid-way there."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_092a91d2:
+
+    # s "See? I told you, it actually happened. Maybe you should join us next time so we can hang out, and see how bad this little lizard throws."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_5b6a776e:
+
+    # e "O-okay! But I'll bet on Ole over a drunk lion any other day."
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_fee87e41:
+
+    # s "Ha, you'll see, you'll see, you naughty little roomie."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_5fa0ad10:
+
+    # o "At least [e] has my back."
+    o ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_257b64f0:
+
+    # "Ole gives you a gentle smile."
+    ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_54238028:
+
+    # s "Anyway, we shouldn't keep [e] here too long."
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_61578aba:
+
+    # s "But you have to remember to let me know when you have time, alright?"
+    s ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_dbd14c20:
+
+    # e "Yes, thanks Seb."
+    e ""
+
+translate schinese Sebas_Night_Out_Quest_Begin_747ca868:
+
+    # s "Hehe."
+    s ""
+
+translate schinese Sebas_Night_Out_Before_Tavern_e5c53a7f:
+
+    # s "Gooooo-d Fu-"
+    s ""
+
+translate schinese Sebas_Night_Out_Before_Tavern_81988f9c:
+
+    # "Sebas pauses."
+    ""
+
+translate schinese Sebas_Night_Out_Before_Tavern_adb35810:
+
+    # s "Anyway, [e]! we were just going to head out. Want to join us here?"
+    s ""
+
+translate schinese Sebas_Night_Out_Before_Tavern_1e2e50da:
+
+    # e "I thought you two were there...?"
+    e ""
+
+translate schinese Sebas_Night_Out_Before_Tavern_0d1213a8:
+
+    # o "If it didn't take Seb so long to pack his stuff we'd be there already."
+    o ""
+
+translate schinese Sebas_Night_Out_Before_Tavern_5a19c34d:
+
+    # s "You're making me so nervous here looking at me all the time."
+    s ""
+
+translate schinese Sebas_Night_Out_Before_Tavern_e67c3e48:
+
+    # "The lizard looks away as he opens the door for both you and Seb."
+    ""
+
+translate schinese Sebas_Night_Out_Before_Tavern_9d103852:
+
+    # s "Forget it, let's go..."
+    s ""
+
+translate schinese Sebas_Night_Out_Before_Tavern_467b9970:
+
+    # "The bell on the door clanks as you three have arrived at the Nocturnal Trunk."
+    ""
+
+translate schinese Sebas_Night_Out_Before_Tavern_5879c31b:
+
+    # "You are beginning to anticipate the familiar scent of alcohol and meat, the frequented patrons wave at you, seemingly greeting a familiar face here."
+    ""
+
+translate schinese Sebas_Night_Out_Before_Tavern_25febc16:
+
+    # "Sebas swiftly finds an empty table at the center of the tavern."
+    ""
+
+translate schinese Sebas_Night_Out_Before_Tavern_da63231b:
+
+    # o "Well, take a seat here, [e]."
+    o ""
+
+translate schinese Sebas_Night_Out_Before_Tavern_6e6c7174:
+
+    # "Ole drags out a chair gently, gesturing you to sit between Ole and Sebas."
+    ""
+
+translate schinese Sebas_Night_Out_Before_Tavern_b457f085:
+
+    # "You take the empty seat between the lion and the lizard."
+    ""
+
+translate schinese Sebas_Night_Out_In_Tavern_59eb1747:
+
+    # s "H-hey! Goooooo-d Fuckin- Morning- [e]-."
+    s ""
+
+translate schinese Sebas_Night_Out_In_Tavern_a44e2294:
+
+    # o "Heya!"
+    o ""
+
+translate schinese Sebas_Night_Out_In_Tavern_a8687385:
+
+    # "You notice the two familiar faces in the Tavern, one is Sebas, and the other Ole. You wave at them, heartily walking towards the two shopkeepers."
+    ""
+
+translate schinese Sebas_Night_Out_In_Tavern_da63231b:
+
+    # o "Well, take a seat here, [e]."
+    o ""
+
+translate schinese Sebas_Night_Out_In_Tavern_6e6c7174:
+
+    # "Ole drags out a chair gently, gesturing you to sit between Ole and Sebas."
+    ""
+
+translate schinese Sebas_Night_Out_In_Tavern_b457f085:
+
+    # "You take the empty seat between the lion and the lizard."
+    ""
+
+translate schinese Sebas_Night_Out_36503303:
+
+    # "As you settle, you lean forwards in anticipation, waiting for shopkeepers to start talking."
+    ""
+
+translate schinese Sebas_Night_Out_12888e62:
+
+    # "But immediately, you notice both of them are staring towards your posture, causing you to sit up straight."
+    ""
+
+translate schinese Sebas_Night_Out_077e4f7e:
+
+    # e "Are you two doing alright?"
+    e ""
+
+translate schinese Sebas_Night_Out_fa3369f3:
+
+    # s "Yep. So very alright, I've finally got my favorite roommate out."
+    s ""
+
+translate schinese Sebas_Night_Out_817bf605:
+
+    # o "Not as so when I waited for almost an hour for Seb to actually get going."
+    o ""
+
+translate schinese Sebas_Night_Out_71274785:
+
+    # s "Hey, that's not my problem at all. It wasn't even evening and you closed the shop much earlier than usual."
+    s ""
+
+translate schinese Sebas_Night_Out_f266a1e6:
+
+    # o "That should give you more time to organize your bags, not the other way around."
+    o ""
+
+translate schinese Sebas_Night_Out_c8291b9a:
+
+    # e "You two usually come here at this time right?"
+    e ""
+
+translate schinese Sebas_Night_Out_3ff5b22f:
+
+    # s "Well, Ole and I come here on the weekend."
+    s ""
+
+translate schinese Sebas_Night_Out_789821da:
+
+    # s "It's usually just me who comes to drink here on the weekend, sometimes I can get Ole to go with me, but it's not like he's drinking beer."
+    s ""
+
+translate schinese Sebas_Night_Out_377b4e17:
+
+    # o "I'm just cruising, bread is good enough for me."
+    o ""
+
+translate schinese Sebas_Night_Out_77220bb9:
+
+    # e "So, what are we doing here today?"
+    e ""
+
+translate schinese Sebas_Night_Out_07aeee36:
+
+    # s "We feast! That's what we do. That disk game looks available today, perhaps you should try it out."
+    s ""
+
+translate schinese Sebas_Night_Out_43f62810:
+
+    # e "I suppose I have been in the Tavern more than a couple times."
+    e ""
+
+translate schinese Sebas_Night_Out_dd823823:
+
+    # s "Yes but I can ask Cane to set up those little games here-"
+    s ""
+
+translate schinese Sebas_Night_Out_4a2e9e09:
+
+    # "Before Sebas finishes his sentence, you notice a familiar figure arriving to your table."
+    ""
+
+translate schinese Sebas_Night_Out_328bca85:
+
+    # "It's Cane, you can smell his scent from afar without even looking at him."
+    ""
+
+translate schinese Sebas_Night_Out_42a4f1c6:
+
+    # s "Ha, talk of the devil."
+    s ""
+
+translate schinese Sebas_Night_Out_e2fcee74:
+
+    # c "If it ain't my favorite customer and server on the same table! And the lizard fella too."
+    c ""
+
+translate schinese Sebas_Night_Out_e6f0d15c:
+
+    # c "What'cha like, same one beer for the lion eh?"
+    c ""
+
+translate schinese Sebas_Night_Out_2982fb11:
+
+    # s "The usual best dinner you have, and a pot of that hearty Hunter's Stew, with extra portions for my buddy right here."
+    s ""
+
+translate schinese Sebas_Night_Out_0aea56b7:
+
+    # s "And give me the best of the best beer! I'm gonna get so fucking drunk tonight."
+    s ""
+
+translate schinese Sebas_Night_Out_d0ba4de7:
+
+    # "Cane chuckles as he writes down his order on a piece of paper."
+    ""
+
+translate schinese Sebas_Night_Out_0ed78ac8:
+
+    # c "Sure, and lizard, ye in fer a treat today. We've got some rye bread fresh out of the oven."
+    c ""
+
+translate schinese Sebas_Night_Out_742c0d23:
+
+    # o "Alright, then I'll have two... or three."
+    o ""
+
+translate schinese Sebas_Night_Out_9699b64d:
+
+    # "Ole smirks."
+    ""
+
+translate schinese Sebas_Night_Out_00e144f4:
+
+    # o "And give me some water please."
+    o ""
+
+translate schinese Sebas_Night_Out_1b77bffb:
+
+    # o "It's fine, I'll just get a piece of maslin as usual."
+    o ""
+
+translate schinese Sebas_Night_Out_26c33441:
+
+    # "Ole looks around, before reluctantly turning back to Cane."
+    ""
+
+translate schinese Sebas_Night_Out_fab51459:
+
+    # c "We're on it."
+    c ""
+
+translate schinese Sebas_Night_Out_08f29f2b:
+
+    # c "And lad, anything yer like?" nointeract
+    c "" nointeract
+
+translate schinese Sebas_Night_Out_380e1b70:
+
+    # e "I'll have some Ale."
+    e ""
+
+translate schinese Sebas_Night_Out_e23e59a8:
+
+    # "Cane raises his brows slightly."
+    ""
+
+translate schinese Sebas_Night_Out_cfb5d9ba:
+
+    # c "Ain't cha hardy little fella. Alright, ale it is."
+    c ""
+
+translate schinese Sebas_Night_Out_fec3a6c8:
+
+    # e "I'll have a Beer."
+    e ""
+
+translate schinese Sebas_Night_Out_2571af92:
+
+    # s "You can have mine, heh. I've ordered lots of them just for me and you!"
+    s ""
+
+translate schinese Sebas_Night_Out_b4aa80a0:
+
+    # c "Then one more for the lad. How ya say, lion."
+    c ""
+
+translate schinese Sebas_Night_Out_9ed6a67b:
+
+    # s "Well, my beer is his and his beer is mine."
+    s ""
+
+translate schinese Sebas_Night_Out_090dd8da:
+
+    # "Sebas gives you a wink."
+    ""
+
+translate schinese Sebas_Night_Out_374dc113:
+
+    # e "I'll just get some bread."
+    e ""
+
+translate schinese Sebas_Night_Out_3f23e772:
+
+    # c "Oh? Not drinking tonight eh?"
+    c ""
+
+translate schinese Sebas_Night_Out_5588b171:
+
+    # o "He's staying sober so we can both drag Seb back home."
+    o ""
+
+translate schinese Sebas_Night_Out_50ec86c1:
+
+    # c "Well we have rooms here."
+    c ""
+
+translate schinese Sebas_Night_Out_b934df3b:
+
+    # s "Not today, Cane. I have my best buddy [e] here, isn't that right."
+    s ""
+
+translate schinese Sebas_Night_Out_b1600753:
+
+    # c "Alright then, we've got yer order."
+    c ""
+
+translate schinese Sebas_Night_Out_920aaa73:
+
+    # c "And lad, remember to check us out more often, we've got a nice job fer ya."
+    c ""
+
+translate schinese Sebas_Night_Out_f6d29648:
+
+    # "Cane turns back towards his counter, preparing food and drinks for your table."
+    ""
+
+translate schinese Sebas_Night_Out_b6a4e718:
+
+    # e "So... what's a Hunter's Stew?"
+    e ""
+
+translate schinese Sebas_Night_Out_4eeb26c6:
+
+    # s "Oh? Didn't you work for the Tavern for quite a while? You should know that already."
+    s ""
+
+translate schinese Sebas_Night_Out_d0ed9dcc:
+
+    # e "Hmmph... I didn't work in the kitchen, and it's not like Cane let me eat here. But it seems like the ingredients change every time I work here."
+    e ""
+
+translate schinese Sebas_Night_Out_3552fea9:
+
+    # s "Damn, how can he do that to [e]. The Hunter's Stew is pretty good here, but it depends on the day."
+    s ""
+
+translate schinese Sebas_Night_Out_ef29efe3:
+
+    # e "W-why's that?"
+    e ""
+
+translate schinese Sebas_Night_Out_9c1e9ccf:
+
+    # s "The hunters... namely, Lothar and others alike. Brings in meat and ingredients they collected today, and Cane puts them into a single stew."
+    s ""
+
+translate schinese Sebas_Night_Out_d02978f8:
+
+    # s "If they get something good today, we'll get to taste something good."
+    s ""
+
+translate schinese Sebas_Night_Out_e607f57e:
+
+    # e "And if they get nothing..."
+    e ""
+
+translate schinese Sebas_Night_Out_8ec97c0e:
+
+    # o "You'll still get something to eat, the stew is never emptied all the way, but it's replenished every day."
+    o ""
+
+translate schinese Sebas_Night_Out_bb744a10:
+
+    # e "S-so... I'll have something from yesterday's hunt?"
+    e ""
+
+translate schinese Sebas_Night_Out_437183f5:
+
+    # "Ole nods."
+    ""
+
+translate schinese Sebas_Night_Out_0d6af7c0:
+
+    # "The lion looks away for a second, and he smiles."
+    ""
+
+translate schinese Sebas_Night_Out_7784c33f:
+
+    # s "Well there he goes, and here he comes."
+    s ""
+
+translate schinese Sebas_Night_Out_0e952bec:
+
+    # "The tavern keeper arrives at your table with a plate full of beer, with some bread on the side."
+    ""
+
+translate schinese Sebas_Night_Out_34e06233:
+
+    # "Another plate comes with a variety of glistening meat pies, a pot of stew and a basket of fruits and tarts."
+    ""
+
+translate schinese Sebas_Night_Out_42ef230c:
+
+    # "Soon, the table is filled to brim with food and drinks, with a very happy lion on the side, drooling."
+    ""
+
+translate schinese Sebas_Night_Out_10e77e86:
+
+    # c "There ya go, enjoy the night fer me, young lads."
+    c ""
+
+translate schinese Sebas_Night_Out_0c0b5748:
+
+    # s "Thanks a lot, Cane."
+    s ""
+
+translate schinese Sebas_Night_Out_bdfd99e4:
+
+    # "Cane chuckles, he gives the lion a pat on the shoulder, before leaving to serve another table."
+    ""
+
+translate schinese Sebas_Night_Out_8ac20559:
+
+    # o "So, anything interesting going on lately, [e]?"
+    o ""
+
+translate schinese Sebas_Night_Out_933802a0:
+
+    # "Ole says as he scoops up a spoonful of the pottage, you can see him gulping down different ingredients cheerfully."
+    ""
+
+translate schinese Sebas_Night_Out_75eae884:
+
+    # e "I ran some errands for Haskell lately."
+    e ""
+
+translate schinese Sebas_Night_Out_0ec5b764:
+
+    # s "Haskell? You mean the potions for our shop, right."
+    s ""
+
+translate schinese Sebas_Night_Out_92f16cc0:
+
+    # e "Yeah."
+    e ""
+
+translate schinese Sebas_Night_Out_0c8596ca:
+
+    # "Ole stands and scoops up another portion onto your bowl, dropping a huge chunk of meat inside."
+    ""
+
+translate schinese Sebas_Night_Out_9e76e8ab:
+
+    # "He doesn't need to speak, just gestures for you to take the stew from his hand."
+    ""
+
+translate schinese Sebas_Night_Out_63827e3f:
+
+    # "You extend your arm to accept the bowl, only to lightly scrape against his scaled paws."
+    ""
+
+translate schinese Sebas_Night_Out_0614e2b7:
+
+    # "He gasps and flinches a little before you wrap your paws around it, feeling the warmth emanating from the handsome lizard."
+    ""
+
+translate schinese Sebas_Night_Out_bd926702:
+
+    # "Ole looks completely flustered, he puts the stew in front of you, as he sits and nudges against the back of his claws for some time."
+    ""
+
+translate schinese Sebas_Night_Out_83e07547:
+
+    # "You take the bowl of stew from Ole, thanking him with a slight nod."
+    ""
+
+translate schinese Sebas_Night_Out_70fd2ab2:
+
+    # s "Ha, we were actually collecting materials for ourselves before you came along."
+    s ""
+
+translate schinese Sebas_Night_Out_5d17f933:
+
+    # s "But it really feels like you're part of the shop now, getting us materials and all."
+    s ""
+
+translate schinese Sebas_Night_Out_70d88f4d:
+
+    # o "Yeah, we've got a lot of the strength potions sold so I'm just grateful [e] is here."
+    o ""
+
+translate schinese Sebas_Night_Out_09c40593:
+
+    # e "And I'm happy that you didn't mind it taking some extra long time."
+    e ""
+
+translate schinese Sebas_Night_Out_d32d1b18:
+
+    # "You slurp up the stew from your spoon, and you can feel the warmth of the variety of ingredients nourishing your whole body."
+    ""
+
+translate schinese Sebas_Night_Out_b28b9ca9:
+
+    # "Meanwhile Sebas takes a bite out of the meaty pie. He never hesitates to show his messy side as oil and meat drips from his maw."
+    ""
+
+translate schinese Sebas_Night_Out_f5177e50:
+
+    # s "Mhmm... yes."
+    s ""
+
+translate schinese Sebas_Night_Out_7618b353:
+
+    # "He wipes away the mess with his palm, the lion notices you staring at him and grins foolishly at you."
+    ""
+
+translate schinese Sebas_Night_Out_ca17821d:
+
+    # o "Well, I know it's just Haskell, he's mostly the one that takes his time, letting things go on their full course and all."
+    o ""
+
+translate schinese Sebas_Night_Out_977ef296:
+
+    # o "He has been like this since I first met him, just habits of an old dragon."
+    o ""
+
+translate schinese Sebas_Night_Out_cfc3cca9:
+
+    # "Sebas burps as Ole continues talking."
+    ""
+
+translate schinese Sebas_Night_Out_da20e945:
+
+    # e "Yeah, and sometimes I just have tea with him in the forest."
+    e ""
+
+translate schinese Sebas_Night_Out_1554f512:
+
+    # o "Hmm... You know, Haskell picked up on tea making only after I met him."
+    o ""
+
+translate schinese Sebas_Night_Out_c7bc4f23:
+
+    # o "He has a vast amount of knowledge on potion-making, but he grew bored of it at some point."
+    o ""
+
+translate schinese Sebas_Night_Out_d2e89d3a:
+
+    # o "I never talked to him about the potions anyway, the quality dropped pretty drastically since I asked you to bring them over."
+    o ""
+
+translate schinese Sebas_Night_Out_f217dcc9:
+
+    # s "Ha- sch-we'll. I 'e-tsh he's b-ushy making ano-tshker round of tea for hims-schelf."
+    s ""
+
+translate schinese Sebas_Night_Out_23ac7fee:
+
+    # o "The potions are still as good as ever, but he doesn't sound too pleased when I come over to his hut."
+    o ""
+
+translate schinese Sebas_Night_Out_54d346c1:
+
+    # s "Ye-r, he deed ent even off-shr me that herbal t-ehe was-sh mak-ching, wha'a a shel-bish jer-ksh."
+    s ""
+
+translate schinese Sebas_Night_Out_3f7741bc:
+
+    # s "N-ot st-hat I 'refsh-er te-a over my 'rec-shious be'er, h-heh."
+    s ""
+
+translate schinese Sebas_Night_Out_602dd357:
+
+    # "The lion talks with full mouth as he continues chewing through the meat, he doesn't even bother to enunciate his word clearly."
+    ""
+
+translate schinese Sebas_Night_Out_bf1397d1:
+
+    # "He also mutters something else, but it was too indistinguishable from the sputtering sound of the pie."
+    ""
+
+translate schinese Sebas_Night_Out_acb8ad3e:
+
+    # "Ole gives Sebas a side eye, the messy lion looks away, before swallowing the content silently."
+    ""
+
+translate schinese Sebas_Night_Out_014d1738:
+
+    # e "Perhaps he just likes making tea for himself."
+    e ""
+
+translate schinese Sebas_Night_Out_21d3b1b4:
+
+    # o "Well, the dragon did promise us he'd help with the shop when the shop first opened."
+    o ""
+
+translate schinese Sebas_Night_Out_64b43af2:
+
+    # o "But I can't blame him for losing his passion..."
+    o ""
+
+translate schinese Sebas_Night_Out_e2a6e272:
+
+    # "A new idea comes across your mind, and that it might actually help both Ole and Haskell."
+    ""
+
+translate schinese Sebas_Night_Out_1bfef146:
+
+    # e "You know what? I think there's a way that both of you'd be satisfied..."
+    e ""
+
+translate schinese Sebas_Night_Out_4accbf46:
+
+    # e "How about, ask Haskell to sell his tea in your shop?"
+    e ""
+
+translate schinese Sebas_Night_Out_4f68d8a3:
+
+    # s "Oh? That's a good idea! We can make him sell his tea leaves and herbs, else those teas are gonna expire very quickly."
+    s ""
+
+translate schinese Sebas_Night_Out_be551bc2:
+
+    # o "You're right, just the plants would suffice."
+    o ""
+
+translate schinese Sebas_Night_Out_5f6bd161:
+
+    # o "It's not going to sell that much like potions, but I bet some people in the town are going to like it a lot."
+    o ""
+
+translate schinese Sebas_Night_Out_e4baf75d:
+
+    # e "I assure you, his tea is really great!"
+    e ""
+
+translate schinese Sebas_Night_Out_e67aa920:
+
+    # s "I don't doubt that, roomie. We'll have to take some notes, perhaps we should talk to the sleazy old dragon later."
+    s ""
+
+translate schinese Sebas_Night_Out_f9e1607e:
+
+    # "Sebas takes a mouthful of the beer, leaving remnants of white foams on his snout."
+    ""
+
+translate schinese Sebas_Night_Out_97897f02:
+
+    # o "Alright, so... anything else?"
+    o ""
+
+translate schinese Sebas_Night_Out_f24f830b:
+
+    # "You take a sip out of the Ale you ordered, the bitter and barley scent of the drink entices your snout, but the bitterness is too strong as you choke a bit."
+    ""
+
+translate schinese Sebas_Night_Out_945e6138:
+
+    # "The lion and the lizard stare at you with concern before you gobble down the rest of the drink."
+    ""
+
+translate schinese Sebas_Night_Out_9f2eb790:
+
+    # "Surprisingly, there's an aftertaste of the mellow and fruity sweetness emanating from within your throat, it was quite a refreshing drink."
+    ""
+
+translate schinese Sebas_Night_Out_00fe2196:
+
+    # "You know you collected rosemary and barleys for the Ale, but you still wonder what other ingredients were put in there..."
+    ""
+
+translate schinese Sebas_Night_Out_0eec26aa:
+
+    # s "Haha [e], I told you the ale here is really good! And I heard you collected the ingredients for Cane, so it's extra good!"
+    s ""
+
+translate schinese Sebas_Night_Out_76db36cd:
+
+    # o "Oh? Really. Sad I didn't get to taste [e]'s Ale."
+    o ""
+
+translate schinese Sebas_Night_Out_a517443d:
+
+    # s "Well O, the Ale is right in front of you."
+    s ""
+
+translate schinese Sebas_Night_Out_cfd10b34:
+
+    # "The lizard quickly shakes his head."
+    ""
+
+translate schinese Sebas_Night_Out_4a29487d:
+
+    # o "No, no. I told you I don't drink."
+    o ""
+
+translate schinese Sebas_Night_Out_34a36fc3:
+
+    # "You take a cup of beer from Sebas' pile. And begin gulping them down, a few drops of the beer spills right on your chest."
+    ""
+
+translate schinese Sebas_Night_Out_32f524c2:
+
+    # s "Hey, take it easy, I- I don't even drink that fast."
+    s ""
+
+translate schinese Sebas_Night_Out_69a115fa:
+
+    # o "Well, I'm sure [e] is going to be a little more careful with his cup than you do with half a dozen cups of beer here."
+    o ""
+
+translate schinese Sebas_Night_Out_5de6c720:
+
+    # "You put down the empty cup, licking off the white foam around your lips."
+    ""
+
+translate schinese Sebas_Night_Out_907235ef:
+
+    # e "What were you guys talking about...?"
+    e ""
+
+translate schinese Sebas_Night_Out_92dc00c9:
+
+    # o "Nothing at all."
+    o ""
+
+translate schinese Sebas_Night_Out_8c58229d:
+
+    # "You take a huge bite out of the bread in front of you, it was surprisingly soft and emitting a light scent of sourdough."
+    ""
+
+translate schinese Sebas_Night_Out_3a8b54b5:
+
+    # e "O-oh, this is pretty good."
+    e ""
+
+translate schinese Sebas_Night_Out_6a42fddc:
+
+    # s "Take it slowly [e]. Cane adds so much sourdough from this bread you might as well get drunk from it."
+    s ""
+
+translate schinese Sebas_Night_Out_d5ffda26:
+
+    # o "Well maybe that's why they're so good."
+    o ""
+
+translate schinese Sebas_Night_Out_1f321c6b:
+
+    # "Ole taps the side of his head in front of Sebas with a slight chuckle."
+    ""
+
+translate schinese Sebas_Night_Out_bcf662f1:
+
+    # s "Ha, well, [e]. Anything else going on with you?"
+    s ""
+
+translate schinese Sebas_Night_Out_6bf7acdd:
+
+    # "Sebas doesn't hesitate to guzzle down another cup of beer, beer leaking from his mouth right down to his lower jaw."
+    ""
+
+translate schinese Sebas_Night_Out_62723546:
+
+    # "Some of it drizzles on his loincloth, but he doesn't even seem to notice."
+    ""
+
+translate schinese Sebas_Night_Out_8193e1c3:
+
+    # s "A-ah... so-o good."
+    s ""
+
+translate schinese Sebas_Night_Out_31f6d6c2:
+
+    # s "Damn, it's really fun to hang out with you, [e]. Despite the bad stuff, at least we get to know what's going on with you more!"
+    s ""
+
+translate schinese Sebas_Night_Out_fa2493c1:
+
+    # o "Well, [e], whenever you're free, you can definitely hang out with us!"
+    o ""
+
+translate schinese Sebas_Night_Out_55971e7b:
+
+    # e "Thank you, you both are really flattering sometimes."
+    e ""
+
+translate schinese Sebas_Night_Out_c928cd03:
+
+    # s "I feel we're slowly becoming like a family. I remembered when I first met Ole, he was shy as hell! He was sitting in the forest alone there."
+    s ""
+
+translate schinese Sebas_Night_Out_99cc5dc5:
+
+    # o "That... that was so long ago, Seb."
+    o ""
+
+translate schinese Sebas_Night_Out_91ec9748:
+
+    # s "Anyway, Ole here doesn't really like me talking about ancient histories."
+    s ""
+
+translate schinese Sebas_Night_Out_7235e8d8:
+
+    # o "And neither do you too."
+    o ""
+
+translate schinese Sebas_Night_Out_e9bf51d8:
+
+    # s "Uhm, anyway, we both settled in Lusterfield after his thing, and the thing is, we've been living together for like a decade, I see him just like a family."
+    s ""
+
+translate schinese Sebas_Night_Out_60d8a7c4:
+
+    # s "Sure, we took in roomies from time to time, but if you can settle here for the years to come, we'd just be like... family."
+    s ""
+
+translate schinese Sebas_Night_Out_b4c2a050:
+
+    # "Sebas screams in excitement, you wonder if he's drunk or if he means what he said, but his usual bright grin convinces you it's the latter."
+    ""
+
+translate schinese Sebas_Night_Out_f5f146c5:
+
+    # e "I would like to live here for a long time too, Seb."
+    e ""
+
+translate schinese Sebas_Night_Out_4ee1cd36:
+
+    # s "Yeah! Stay for as looooooong as you wis-."
+    s ""
+
+translate schinese Sebas_Night_Out_e83453c6:
+
+    # "Sebas lets out a huge burp."
+    ""
+
+translate schinese Sebas_Night_Out_1a956796:
+
+    # "You chuckle slightly towards the embarrassed lion, as Ole takes another huge chunk out of his bread, finishing off the basket with a few bites."
+    ""
+
+translate schinese Sebas_Night_Out_2332f108:
+
+    # "The table is almost cleared all the way, only a few cup of beer left standing, and a stuffed roommate."
+    ""
+
+translate schinese Sebas_Night_Out_ca8c72de:
+
+    # o "Looks like we're finished."
+    o ""
+
+translate schinese Sebas_Night_Out_5e249759:
+
+    # s "We did, now it's time for Skittles, come on, [e]."
+    s ""
+
+translate schinese Sebas_Night_Out_a6959cc0:
+
+    # "Sebas says with his glistening eyes, you have seen it played a couple times from when you work in the Tavern, but you still don't know how it works."
+    ""
+
+translate schinese Sebas_Night_Out_2c6fe809:
+
+    # o "Right, let's go then."
+    o ""
+
+translate schinese Sebas_Night_Out_7868f6ee:
+
+    # "You follow the two towards a long lane in between tables of talking patrons, the floor seems to be varnished with shiny wax."
+    ""
+
+translate schinese Sebas_Night_Out_a719eab1:
+
+    # s "Don't you walk on the lane buddy, you're gonna slip and snap your back like a twig in winter."
+    s ""
+
+translate schinese Sebas_Night_Out_b3c71459:
+
+    # s "Should be good for some games... [e], have you played it before?"
+    s ""
+
+translate schinese Sebas_Night_Out_5be0435d:
+
+    # e "I've peeked at some patrons playing the game before, but I haven't tried it myself..."
+    e ""
+
+translate schinese Sebas_Night_Out_7e227ca1:
+
+    # s "Well, you're missing a lot of fun in your work, aren't you. We just put bottles on the floor, and guess what. You have got to roll the disks towards the bull's eye, not the real one."
+    s ""
+
+translate schinese Sebas_Night_Out_04c1ac6f:
+
+    # o "You don't roll the disk, Seb. You'd just throw it there."
+    o ""
+
+translate schinese Sebas_Night_Out_7bd532aa:
+
+    # s "I know. I know. I'm explaining it to [e]. Mister advisor lizard. Plus, rolling it sounds like a better game."
+    s ""
+
+translate schinese Sebas_Night_Out_b41469c6:
+
+    # o "That's the rule in the Nocturnal Trun-"
+    o ""
+
+translate schinese Sebas_Night_Out_02ceae5f:
+
+    # s "Anyway, you just score more points the closer you get to the center."
+    s ""
+
+translate schinese Sebas_Night_Out_5ee55d1c:
+
+    # "Sebas pauses, you notice that he raises his head slightly, and you can feel a shadow looms over you."
+    ""
+
+translate schinese Sebas_Night_Out_91e600dc:
+
+    # "The lion and the lizard do not look exactly surprised, or scared. So you turn around, and you are greeted by a leather glove right in front of your face."
+    ""
+
+translate schinese Sebas_Night_Out_bea82f78:
+
+    # l "Did someone say throwing disks?"
+    l ""
+
+translate schinese Sebas_Night_Out_5900b8f6:
+
+    # s "Nobody said that, you can go now."
+    s ""
+
+translate schinese Sebas_Night_Out_5c2e3c26:
+
+    # e "Good evening, Lothar, good to see you in the Tavern. You wanna join us?"
+    e ""
+
+translate schinese Sebas_Night_Out_f55f4763:
+
+    # s "Hey-"
+    s ""
+
+translate schinese Sebas_Night_Out_cf610db7:
+
+    # l "Well, I'll have to say, apart from being the hero of Lusterfield. I am also a master of tavern games."
+    l ""
+
+translate schinese Sebas_Night_Out_3a54cc08:
+
+    # l "S-so, how can you throw disks without the hero's demonstration!"
+    l ""
+
+translate schinese Sebas_Night_Out_afd579d2:
+
+    # s "The disks rented from Cane are only enough for three of us."
+    s ""
+
+translate schinese Sebas_Night_Out_36b5b3ad:
+
+    # o "And we can get a few more from Cane, it's very cheap-"
+    o ""
+
+translate schinese Sebas_Night_Out_853fc61d:
+
+    # s "Ole! The fuck are you talking about. We have no more disks."
+    s ""
+
+translate schinese Sebas_Night_Out_7383db3c:
+
+    # l "It's quite unfortunate that our little lion here has no dicks."
+    l ""
+
+translate schinese Sebas_Night_Out_2210cb89:
+
+    # s "You deaf or somethi-"
+    s ""
+
+translate schinese Sebas_Night_Out_cca3b408:
+
+    # l "It does show how he's afraid of losing to the hero of the village in a tavern game."
+    l ""
+
+translate schinese Sebas_Night_Out_0beca0a9:
+
+    # s "Say that again Lothar and I will break your dick after that last time we met."
+    s ""
+
+translate schinese Sebas_Night_Out_93e5e115:
+
+    # l "You think I have forgotten the last time you went for the kick? Ha, that's right, you didn't even manage to do that."
+    l ""
+
+translate schinese Sebas_Night_Out_2a86b4c3:
+
+    # s "I'm not playing your stupid game, Lothar."
+    s ""
+
+translate schinese Sebas_Night_Out_1729c931:
+
+    # "Ole glances at you, pointing at the lion and the wolf as he furrows his brows, and you both let out an awkward chuckle."
+    ""
+
+translate schinese Sebas_Night_Out_0be971fe:
+
+    # l "You already know who's going to win, Ha, ask my disciple, he knows who's a better skilled player."
+    l ""
+
+translate schinese Sebas_Night_Out_c1f73d0b:
+
+    # s "I already know he's going to root for me, isn't it right, [e]?"
+    s ""
+
+translate schinese Sebas_Night_Out_a56e4394:
+
+    # "Both of them suddenly look towards you, you look left and right, can't even believe you have to make the decision again..."
+    ""
+
+translate schinese Sebas_Night_Out_da69e409:
+
+    # e "U-uhmm...." nointeract
+    e "" nointeract
+
+translate schinese Sebas_Night_Out_7423e89c:
+
+    # e "I'd say... Lothar? He has... good aiming, afterall... I mean maybe."
+    e ""
+
+translate schinese Sebas_Night_Out_31773f76:
+
+    # l "Ha, see, my disciple knows who's the best."
+    l ""
+
+translate schinese Sebas_Night_Out_d59b127a:
+
+    # s "Well- let's see then, don't you lose this smug ass face when I beat you right here."
+    s ""
+
+translate schinese Sebas_Night_Out_641aad9c:
+
+    # "Sebas leaves as he walks to Cane and returns with some disks on his hand."
+    ""
+
+translate schinese Sebas_Night_Out_94de00ed:
+
+    # s "Alright then."
+    s ""
+
+translate schinese Sebas_Night_Out_e1e1213f:
+
+    # "He tosses the disks towards Lothar with full force, luckily Lothar catches them right before they smash into his face."
+    ""
+
+translate schinese Sebas_Night_Out_ca6ed08a:
+
+    # "Still surprised, you and Ole each take some disks from Sebas' pile."
+    ""
+
+translate schinese Sebas_Night_Out_19100b1d:
+
+    # o "Looks like everything's all set up here. Any questions?"
+    o ""
+
+translate schinese Sebas_Night_Out_81e158e8:
+
+    # e "Perhaps Sebas. H-he... is tough? I-I'm not sure."
+    e ""
+
+translate schinese Sebas_Night_Out_7703985f:
+
+    # l "My disciple, how does toughness even remotely play a role on one's bowlin-"
+    l ""
+
+translate schinese Sebas_Night_Out_ab4e63a8:
+
+    # s "You've heard [e]. Now get the fuuu-ck off before embarrassing yourself."
+    s ""
+
+translate schinese Sebas_Night_Out_78d52e56:
+
+    # l "Uuuuugh-... Watch out for your balls, lion. I'll be sure to kick them off the next time I see you."
+    l ""
+
+translate schinese Sebas_Night_Out_3a2d9eb5:
+
+    # "Lothar doesn't look pissed as you would imagine, instead he looks... defeated. His eyes unfocused."
+    ""
+
+translate schinese Sebas_Night_Out_affd37a6:
+
+    # "A scaled hand latches on his shoulder, it's Ole."
+    ""
+
+translate schinese Sebas_Night_Out_071b8a71:
+
+    # o "Stay here, Lothar. I'll get you your disk."
+    o ""
+
+translate schinese Sebas_Night_Out_32233a39:
+
+    # l "W-well. At least someone knows to respect their hero."
+    l ""
+
+translate schinese Sebas_Night_Out_7ad3dd54:
+
+    # o "More people makes for more fun."
+    o ""
+
+translate schinese Sebas_Night_Out_93bdcb28:
+
+    # "As Ole walks towards the counter, Lothar stands in a weird pose between you and Sebas."
+    ""
+
+translate schinese Sebas_Night_Out_94f33275:
+
+    # "Sebas looks away, and Lothar just stares at you silently. You are not even sure how you got into this position of choosing in between these two."
+    ""
+
+translate schinese Sebas_Night_Out_cfebc4df:
+
+    # "But you are constantly dragged into it. Deep down you want them to hang around nicely, at least not arguing and getting mad at each other all the time."
+    ""
+
+translate schinese Sebas_Night_Out_ebe08bff:
+
+    # "You thought comes to a pause as Ole arrives with a few different coloured disks. He hands some to the flustered wolf before taking a few for himself."
+    ""
+
+translate schinese Sebas_Night_Out_3a4dc32e:
+
+    # o "Any questions...?"
+    o ""
+
+translate schinese Sebas_Night_Out_8cb648fa:
+
+    # s "Well, there's one right there."
+    s ""
+
+translate schinese Sebas_Night_Out_cdfe7c8d:
+
+    # "He points towards the wolf."
+    ""
+
+translate schinese Sebas_Night_Out_3ac6429a:
+
+    # l "Cry more, lion. You're gonna prepare for when you lose against the hero."
+    l ""
+
+translate schinese Sebas_Night_Out_f9d1612d:
+
+    # "You awkwardly stand in between the arguing pair, as Ole hands you and Sebas each three disks."
+    ""
+
+translate schinese Sebas_Night_Out_f4e43177:
+
+    # e "Uh... one question... how do I get a good score?"
+    e ""
+
+translate schinese Sebas_Night_Out_27b26c68:
+
+    # s "Just aim, buddy."
+    s ""
+
+translate schinese Sebas_Night_Out_83592bdf:
+
+    # "Sebas smiles as Ole furrows his brows."
+    ""
+
+translate schinese Sebas_Night_Out_dde4f362:
+
+    # o "Well, aside from your aiming, you also need to have enough {color=#d1e431}Strength{/color} to knock them down. Of course, {color=#d1e431}Agility{/color} definitely can help you aim better."
+    o ""
+
+translate schinese Sebas_Night_Out_5d1560c0:
+
+    # o "Start at any position and just throw the disk out, see if you can get close to the bull's eye."
+    o ""
+
+translate schinese Sebas_Night_Out_a08af25b:
+
+    # o "And we'll play twelve rounds, three for each of us."
+    o ""
+
+translate schinese Sebas_Night_Out_5e402f5e:
+
+    # l "Yeah, we know how to play the game, let's get started already."
+    l ""
+
+translate schinese Sebas_Night_Out_d7f3f7b5:
+
+    # o "I'll go first then, Lothar next. [e]'s the third, and Sebas last."
+    o ""
+
+translate schinese Sebas_Night_Out_8d288ac4:
+
+    # "Ole says as he writes down your names on a piece of yellow paper, before holding a disk for himself."
+    ""
+
+translate schinese Sebas_Night_Out_fef43b66:
+
+    # "The game is finished, as Sebas and Lothar finish the last sips of their beer."
+    ""
+
+translate schinese Sebas_Night_Out_239da954:
+
+    # "Their cheeks are all red now, eyes barely open, you're almost surprised how they're more peaceful after drinking."
+    ""
+
+translate schinese Sebas_Night_Out_b7684bc4:
+
+    # "Ole reads out the score he gets from the paper..."
+    ""
+
+translate schinese Sebas_Night_Out_9a940510:
+
+    # o "Ahem..."
+    o ""
+
+translate schinese Sebas_Night_Out_f3ae1574:
+
+    # l "Well, unsurprisingly we all know who's going to win..."
+    l ""
+
+translate schinese Sebas_Night_Out_63329c07:
+
+    # o "Ehrem, you're right, Lothar with [winnerScore] score won the game."
+    o ""
+
+translate schinese Sebas_Night_Out_31835e28:
+
+    # "Ole claps with the paper still in his hand, Sebas soon follows suit, albeit sluggishly."
+    ""
+
+translate schinese Sebas_Night_Out_58d1b620:
+
+    # s "Mhmmm..."
+    s ""
+
+translate schinese Sebas_Night_Out_7da75df6:
+
+    # e "Congrats!"
+    e ""
+
+translate schinese Sebas_Night_Out_dd8ac827:
+
+    # o "Oh! I won, alright, with [winnerScore] score, congratulations to me!"
+    o ""
+
+translate schinese Sebas_Night_Out_31835e28_1:
+
+    # "Ole claps with the paper still in his hand, Sebas soon follows suit, albeit sluggishly."
+    ""
+
+translate schinese Sebas_Night_Out_a109afb3:
+
+    # l "Did we just lost to this fucking lizard, what is even going on..."
+    l ""
+
+translate schinese Sebas_Night_Out_8ccf3541:
+
+    # l "Hey, lion. You just lost."
+    l ""
+
+translate schinese Sebas_Night_Out_991700df:
+
+    # o "Hey! [e] just won the game with [winnerScore] score. That's quite a lot of score."
+    o ""
+
+translate schinese Sebas_Night_Out_31835e28_2:
+
+    # "Ole claps with the paper still in his hand, Sebas soon follows suit, albeit sluggishly."
+    ""
+
+translate schinese Sebas_Night_Out_c7e16cdc:
+
+    # e "Aw... thanks."
+    e ""
+
+translate schinese Sebas_Night_Out_f0a2101b:
+
+    # l "Ugh, I swear my disciple has not surpassed me in any other form except this useless game."
+    l ""
+
+translate schinese Sebas_Night_Out_9d88eefa:
+
+    # l "It's for fun anyway."
+    l ""
+
+translate schinese Sebas_Night_Out_ae29b257:
+
+    # l "As long as the winner is not this lion."
+    l ""
+
+translate schinese Sebas_Night_Out_8a0c400a:
+
+    # o "Seb won with [winnerScore] score, hmm."
+    o ""
+
+translate schinese Sebas_Night_Out_31835e28_3:
+
+    # "Ole claps with the paper still in his hand, Sebas soon follows suit, albeit sluggishly."
+    ""
+
+translate schinese Sebas_Night_Out_d554f216:
+
+    # l "Why are you clapping to yourself... lion. Ugh, the ego on this guy."
+    l ""
+
+translate schinese Sebas_Night_Out_ed0637d0:
+
+    # "Lothar shakes Sebas' shoulder, who is still licking up the beer foam from the obviously empty cup."
+    ""
+
+translate schinese Sebas_Night_Out_b8ec32b7:
+
+    # e "I think he's drunk."
+    e ""
+
+translate schinese Sebas_Night_Out_ba837cd5:
+
+    # o "The second place is [fstrunner] with [fstrunnerScore] score."
+    o ""
+
+translate schinese Sebas_Night_Out_eefa8452:
+
+    # l "At least I'm still better than this stupid lion..."
+    l ""
+
+translate schinese Sebas_Night_Out_f60f4ff0:
+
+    # o "That's me! What a pleasant surprise."
+    o ""
+
+translate schinese Sebas_Night_Out_6188cf18:
+
+    # l "Ugh, I just got a little rusty."
+    l ""
+
+translate schinese Sebas_Night_Out_4e9d0473:
+
+    # "Lothar turns to the drunk lion again as he collapses and passes out on the floor."
+    ""
+
+translate schinese Sebas_Night_Out_0dee1666:
+
+    # e "Is... Seb alright?"
+    e ""
+
+translate schinese Sebas_Night_Out_8cc0eb0c:
+
+    # o "Yeah, I think so. He's just sleeping."
+    o ""
+
+translate schinese Sebas_Night_Out_04d23a7a:
+
+    # l "And he's not listening to me. Hey, dumbass lion. Frick you, stupid ass lion. Say nothing if you love dicks."
+    l ""
+
+translate schinese Sebas_Night_Out_8d12f8e6:
+
+    # "It doesn't seem like Sebas is answering him anytime soon."
+    ""
+
+translate schinese Sebas_Night_Out_3c3869c0:
+
+    # l "Yes we all know that, hmm... Give me your pen, lizard."
+    l ""
+
+translate schinese Sebas_Night_Out_589b751f:
+
+    # o "Oh? Don't go overboard with the drawing, Lot."
+    o ""
+
+translate schinese Sebas_Night_Out_18f985a3:
+
+    # l "Hah- You can hope."
+    l ""
+
+translate schinese Sebas_Night_Out_046062c3:
+
+    # e "W-what are you doing, Lothar?"
+    e ""
+
+translate schinese Sebas_Night_Out_aecaf94c:
+
+    # l "Revenge."
+    l ""
+
+translate schinese Sebas_Night_Out_22d875df:
+
+    # "Lothar takes the pen from Ole's hand, and he sits on top of Sebas' chest, getting incredibly close to Sebas face."
+    ""
+
+translate schinese Sebas_Night_Out_cb164bd2:
+
+    # "He's not being subtle, neither is he afraid of Sebas waking up, Lothar begins to scribble, staining Sebas' orange fur with black ink."
+    ""
+
+translate schinese Sebas_Night_Out_09c75d17:
+
+    # l "This is good, look."
+    l ""
+
+translate schinese Sebas_Night_Out_b64cb21c:
+
+    # "Watching from behind Lothar, you can see a... cock-shaped doodle being drawn dangerously close to the lion's mouth."
+    ""
+
+translate schinese Sebas_Night_Out_794da077:
+
+    # "Looking from afar, Ole seems to be laughing along with you and Ole as he stares at Lothar's scribblings."
+    ""
+
+translate schinese Sebas_Night_Out_f216c6f4:
+
+    # "And Lothar draws a knot at the base of the shaft."
+    ""
+
+translate schinese Sebas_Night_Out_48ca783a:
+
+    # l "That's my cock in your face, stupid lion."
+    l ""
+
+translate schinese Sebas_Night_Out_9d50ba3c:
+
+    # "You can see Sebas feeling something itchy on his face, his tongue sticks out and licks around the... cock-shaped doodle."
+    ""
+
+translate schinese Sebas_Night_Out_04ac6c56:
+
+    # l "Ha, he likes it, how does it taste, S-Seb."
+    l ""
+
+translate schinese Sebas_Night_Out_45659dcd:
+
+    # "Lothar stands back up, returning Ole his pen. He looks at both of you, unaware that you both are staring at the slight bulge in his crotch."
+    ""
+
+translate schinese Sebas_Night_Out_20cf17cc:
+
+    # o "Uhm... Alright. We should take Sebas home, Tavern people are watching us."
+    o ""
+
+translate schinese Sebas_Night_Out_23f58107:
+
+    # l "Alright, but don't you clean that masterpiece off, it's too funny."
+    l ""
+
+translate schinese Sebas_Night_Out_a4d3a316:
+
+    # s "m-mpph..."
+    s ""
+
+translate schinese Sebas_Night_Out_fc590117:
+
+    # "Sebas turns and tugs on Lothar's leg, drooling on his leather shoes."
+    ""
+
+translate schinese Sebas_Night_Out_934e1724:
+
+    # l "Ugh, you really need to bring him home now. Why was he drinking so much beer if he can't even handle it."
+    l ""
+
+translate schinese Sebas_Night_Out_43528d6f:
+
+    # "Lothar turns his attention to you."
+    ""
+
+translate schinese Sebas_Night_Out_2d87b042:
+
+    # l "Regardless, I'll stay in the Tavern for a while."
+    l ""
+
+translate schinese Sebas_Night_Out_95b4b8f4:
+
+    # e "Your cheeks are still red, Lothar."
+    e ""
+
+translate schinese Sebas_Night_Out_ddab4664:
+
+    # l "Disciple, do I look like I'm gonna collapse at any moment?"
+    l ""
+
+translate schinese Sebas_Night_Out_13be631e:
+
+    # o "No, but you seem like you need to rest."
+    o ""
+
+translate schinese Sebas_Night_Out_fe390d70:
+
+    # "Lothar chides, and he points his finger towards your direction."
+    ""
+
+translate schinese Sebas_Night_Out_904e3637:
+
+    # l "Lizard can bring the lion back, you want to stay here for a while?" nointeract
+    l "" nointeract
+
+translate schinese Sebas_Night_Out_3b4410f8:
+
+    # e "I can stay for a while."
+    e ""
+
+translate schinese Sebas_Night_Out_a23c26a2:
+
+    # o "Hmm... I'll take Seb home by myself then."
+    o ""
+
+translate schinese Sebas_Night_Out_e2d8abfa:
+
+    # o "And you two, don't stay up for too long."
+    o ""
+
+translate schinese Sebas_Night_Out_1be2aaff:
+
+    # "You and Ole nod towards each other, and Ole begins tugging at Sebas."
+    ""
+
+translate schinese Sebas_Night_Out_1431c8b4:
+
+    # "Lothar leads you to the counter in front of the tavern keeper."
+    ""
+
+translate schinese Sebas_Night_Out_2ebbdd22:
+
+    # c "Aye-, back from tha- little disk game, eh?"
+    c ""
+
+translate schinese Sebas_Night_Out_c3bb79f4:
+
+    # e "Yeah, Ole's taking Seb back home. He's quite drunk."
+    e ""
+
+translate schinese Sebas_Night_Out_348142a4:
+
+    # c "Bummer, he could-a stay here for a while. What about ya two? Drank a lot?"
+    c ""
+
+translate schinese Sebas_Night_Out_b8dc9e5c:
+
+    # l "Not as much as that stupid lion did."
+    l ""
+
+translate schinese Sebas_Night_Out_acbbb770:
+
+    # c "Good. Then, enjoy the rest o- yer night. I gotta run errands for these hungry patrons."
+    c ""
+
+translate schinese Sebas_Night_Out_7976d7a7:
+
+    # "Cane quickly leaves you two alone with a few extra cup of beer."
+    ""
+
+translate schinese Sebas_Night_Out_259f3a9f:
+
+    # l "Mmmph... What do you think?"
+    l ""
+
+translate schinese Sebas_Night_Out_888eb8a6:
+
+    # e "Oh?"
+    e ""
+
+translate schinese Sebas_Night_Out_3a0107d6:
+
+    # l "Why did you choose to stay here."
+    l ""
+
+translate schinese Sebas_Night_Out_f2409aac:
+
+    # e "I just thought you wanted someone to hang out with."
+    e ""
+
+translate schinese Sebas_Night_Out_17475449:
+
+    # l "I have Amble and Jog. They just ditched me today to patrol the farm, as they said."
+    l ""
+
+translate schinese Sebas_Night_Out_410cdcaf:
+
+    # "Lothar takes a gulp of the beer."
+    ""
+
+translate schinese Sebas_Night_Out_e3255443:
+
+    # l "But fair enough, your hero will accept your reasoning."
+    l ""
+
+translate schinese Sebas_Night_Out_621e532c:
+
+    # "The wolf chuckles loudly, is he laughing at his own talk of heroism?"
+    ""
+
+translate schinese Sebas_Night_Out_0ad0c196:
+
+    # "Regardless, Lothar begins to talk with you again, telling you what he had done today or yesterday. It quickly spirals into a constant conversation."
+    ""
+
+translate schinese Sebas_Night_Out_acd041da:
+
+    # "Often you two pause for a few seconds before responding to each other. But unlike every other time, Lothar never sounds overly confident, or self-assured."
+    ""
+
+translate schinese Sebas_Night_Out_22600c37:
+
+    # "Instead, he's almost too natural, his voice a little deeper than the usual hero and disciple speech."
+    ""
+
+translate schinese Sebas_Night_Out_8e0ce29f:
+
+    # "You feel you're no longer intimidated by his aura of dominance, you feel much safer, talking with him inside of this crowded tavern."
+    ""
+
+translate schinese Sebas_Night_Out_0063f949:
+
+    # "Sometimes he laughs with you for all the misfortune you've been through since you wake up in this world."
+    ""
+
+translate schinese Sebas_Night_Out_067c9e6d:
+
+    # "Sometimes you chuckles at how he and Jog messes with Amble without him ever noticing."
+    ""
+
+translate schinese Sebas_Night_Out_0f4a76f9:
+
+    # "And it was... magical how that feels to have your mentor drinking beer alongside you, peaceful all around."
+    ""
+
+translate schinese Sebas_Night_Out_05fb091f:
+
+    # "Most importantly, you get to know who Lothar is. Despite thousands of exaggerations thrown at your face each sentence, there's some form of truth buried inside."
+    ""
+
+translate schinese Sebas_Night_Out_69212834:
+
+    # "You wish to talk with Lothar for the entire night, but at some point, you feel your eyelids droop. You lean on the counter and lie your head on your arms."
+    ""
+
+translate schinese Sebas_Night_Out_a5d7011c:
+
+    # "You two continue to talk for some time before you completely fall asleep."
+    ""
+
+translate schinese Sebas_Night_Out_4f6c8900:
+
+    # "The next thing you know, it's already morning. You're inside your room, sleeping on your own bed."
+    ""
+
+translate schinese Sebas_Night_Out_8382d080:
+
+    # "Did he carry you back onto your bed like that time you lost to him...? You're not too certain."
+    ""
+
+translate schinese Sebas_Night_Out_ca02055e:
+
+    # "It doesn't seem like Lothar is anywhere close to you..."
+    ""
+
+translate schinese Sebas_Night_Out_25df6518:
+
+    # "You went to bed again for a while before a scream interrupt your sleep."
+    ""
+
+translate schinese Sebas_Night_Out_41863b22:
+
+    # e "I should help Ole bring him home. And I'm tired and all."
+    e ""
+
+translate schinese Sebas_Night_Out_53c734cf:
+
+    # l "Well then, see you later, disciple."
+    l ""
+
+translate schinese Sebas_Night_Out_82822a0c:
+
+    # l "..."
+    l ""
+
+translate schinese Sebas_Night_Out_6c439456:
+
+    # l "I have to say it again, but don't you two wipe that dick off his face."
+    l ""
+
+translate schinese Sebas_Night_Out_e6cb3461:
+
+    # "You two nods towards Lothar as he leaves for the counter."
+    ""
+
+translate schinese Sebas_Night_Out_f459ebf9:
+
+    # e "Mhmm... Ole, how do we carry him?"
+    e ""
+
+translate schinese Sebas_Night_Out_afa7fa78:
+
+    # o "Usually I'd have you taking his arms and me taking his legs. But I've prepared a cart just to carry him home."
+    o ""
+
+translate schinese Sebas_Night_Out_37af04bc:
+
+    # e "O-oh, so you didn't need my help?"
+    e ""
+
+translate schinese Sebas_Night_Out_0d894779:
+
+    # o "Well, for the cart to work we first have to put him inside, right? I need you to take his arms."
+    o ""
+
+translate schinese Sebas_Night_Out_7115ea73:
+
+    # e "A-alright."
+    e ""
+
+translate schinese Sebas_Night_Out_34e165df:
+
+    # "Your arms wrap around Sebas from behind under his armpits, you can sense the scent of beer, and faint musk coming from there."
+    ""
+
+translate schinese Sebas_Night_Out_45d367e8:
+
+    # "Ole puts his legs first inside the cart, before you lower him inside of it."
+    ""
+
+translate schinese Sebas_Night_Out_db8dc3f0:
+
+    # s "Mmmmph..."
+    s ""
+
+translate schinese Sebas_Night_Out_a96bd4f6:
+
+    # "You can still see the drawn cock on his mouth, clearly. And Sebas is drooling all over it as well."
+    ""
+
+translate schinese Sebas_Night_Out_e5f37208:
+
+    # "Ole begins pushing the cart with Sebas inside, gesturing you to follow him."
+    ""
+
+translate schinese Sebas_Night_Out_2f3e3f28:
+
+    # o "[e], was tonight good?"
+    o ""
+
+translate schinese Sebas_Night_Out_25f8e876:
+
+    # e "I enjoy spending time with you two, and Lothar."
+    e ""
+
+translate schinese Sebas_Night_Out_12b903b4:
+
+    # o "Yeah, more so if Lothar and Seb don't argue all the time. But, it was a lot of fun."
+    o ""
+
+translate schinese Sebas_Night_Out_9de8cfee:
+
+    # o "Did you enjoy the food there? I thought the bread was amazing."
+    o ""
+
+translate schinese Sebas_Night_Out_e63f0eaa:
+
+    # e "You're right, I really like the rye bread."
+    e ""
+
+translate schinese Sebas_Night_Out_877a8b90:
+
+    # o "And at least you're not already drunk like Seb is."
+    o ""
+
+translate schinese Sebas_Night_Out_31353d3a:
+
+    # "After a while, you arrive to the shop."
+    ""
+
+translate schinese Sebas_Night_Out_b8927e14:
+
+    # o "Hey, [e]. Help me carry this cart upstairs."
+    o ""
+
+translate schinese Sebas_Night_Out_753b48dd:
+
+    # "You run in front of the cart, lifting it up and begin walking towards Sebas' room."
+    ""
+
+translate schinese Sebas_Night_Out_6630872e:
+
+    # "Soon, Ole gestures you to put the cart down, just for Ole to bring Seb onto his bed."
+    ""
+
+translate schinese Sebas_Night_Out_aab6f876:
+
+    # o "Finally... another drunk Seb saved."
+    o ""
+
+translate schinese Sebas_Night_Out_4a4354eb:
+
+    # e "That's great. I suppose you'd want to sleep too...?"
+    e ""
+
+translate schinese Sebas_Night_Out_418fcdb2:
+
+    # o "Yeah. My stomach is full after all these bread Cane gave me."
+    o ""
+
+translate schinese Sebas_Night_Out_bc68b661:
+
+    # e "Alright then, I'll see you tomorrow."
+    e ""
+
+translate schinese Sebas_Night_Out_e2a7f325:
+
+    # o "Sure."
+    o ""
+
+translate schinese Sebas_Night_Out_d407ff0d:
+
+    # "Ole closes the door as you go downstairs towards your room."
+    ""
+
+translate schinese Sebas_Night_Out_9b2f8b18:
+
+    # "You falls on the long-awaited bed, and the next thing you know, a glimmer of sunlight flickers on your eyes. It's already morning."
+    ""
+
+translate schinese Sebas_Night_Out_74811991:
+
+    # o "Well, the problem is..."
+    o ""
+
+translate schinese Sebas_Night_Out_d176bbbe:
+
+    # o "Usually, we share a bed. But I don't want him to vomit all over me while I'm sleeping."
+    o ""
+
+translate schinese Sebas_Night_Out_5541c495:
+
+    # e "Oh, my bed's big enough for you, I think."
+    e ""
+
+translate schinese Sebas_Night_Out_83ba6965:
+
+    # o "If you don't mind, kiddo. I'd probably trust you not to throw up than this lion."
+    o ""
+
+translate schinese Sebas_Night_Out_2267c8b2:
+
+    # "You and Ole walks downstairs towards your room."
+    ""
+
+translate schinese Sebas_Night_Out_3ce5c7ca:
+
+    # o "Damn, it's still amazing how this room was full of crates, empty barrels and all."
+    o ""
+
+translate schinese Sebas_Night_Out_6cba5f09:
+
+    # e "That was before I arrived here... right?"
+    e ""
+
+translate schinese Sebas_Night_Out_dc3c9cfd:
+
+    # o "Yeah. That's right. I'd probably prefer you living in here instead, of course."
+    o ""
+
+translate schinese Sebas_Night_Out_0a1ff1e6:
+
+    # o "It was a nice bedroom."
+    o ""
+
+translate schinese Sebas_Night_Out_aa52f598:
+
+    # "Ole sits on the bed, before fully leaning on your pillow."
+    ""
+
+translate schinese Sebas_Night_Out_fa60806e:
+
+    # "You lie as near as you can without touching his scaled skin."
+    ""
+
+translate schinese Sebas_Night_Out_bd58f46c:
+
+    # "But it was his skin that touches you first, and his arm wraps around your shoulder."
+    ""
+
+translate schinese Sebas_Night_Out_7e582dde:
+
+    # o "I lied about the bed, by the way. I just wanted to take a look at your room."
+    o ""
+
+translate schinese Sebas_Night_Out_07abc845:
+
+    # o "..."
+    o ""
+
+translate schinese Sebas_Night_Out_05a7a9cb:
+
+    # o "I also lied about that."
+    o ""
+
+translate schinese Sebas_Night_Out_807057dc:
+
+    # "You suddenly blush intensely, you can feel the lizard's hot breaths enveloping your face."
+    ""
+
+translate schinese Sebas_Night_Out_e88fc406:
+
+    # "Is he right on top of you? The room is too dark to know exactly what happened."
+    ""
+
+translate schinese Sebas_Night_Out_c372fb80:
+
+    # e "Ole?"
+    e ""
+
+translate schinese Sebas_Night_Out_697620cf:
+
+    # o "S-sorry, I was just taking a good look at you."
+    o ""
+
+translate schinese Sebas_Night_Out_2b768e87:
+
+    # e "What are you doing...?"
+    e ""
+
+translate schinese Sebas_Night_Out_354761a9:
+
+    # "You feel something soft taps your lips, it was Ole's finger, probably signaling you to be silent..."
+    ""
+
+translate schinese Sebas_Night_Out_48adfef9:
+
+    # "The lizard let out a huge yawn as he returns to his position."
+    ""
+
+translate schinese Sebas_Night_Out_f984d269:
+
+    # o "Well, I'm exhausted."
+    o ""
+
+translate schinese Sebas_Night_Out_9e280f00:
+
+    # e "Me too."
+    e ""
+
+translate schinese Sebas_Night_Out_a231d08a:
+
+    # o "Good Night, roommate."
+    o ""
+
+translate schinese Sebas_Night_Out_facb0650:
+
+    # "You head slowly leans into Ole's, as you soon drift into slumber."
+    ""
+
+translate schinese Sebas_Night_Out_a20cefa7:
+
+    # "..."
+    ""
+
+translate schinese Sebas_Night_Out_4f7418cd:
+
+    # "The next thing you know, a glimmer of sunlight flickers on your eyes. It's already morning."
+    ""
+
+translate schinese Sebas_Night_Out_788153f6:
+
+    # "Ole is gone, he probably woke up before you did."
+    ""
+
+translate schinese Sebas_Night_Out_b5785a75:
+
+    # "You try to close your eyes again to get some more sleep, before a scream interrupts your sleep."
+    ""
+
+translate schinese Sebas_Night_Out_6197e943:
+
+    # s3 "WHAT IS THAT THING ON MY FACE!!"
+    s3 ""
+
+translate schinese Sebas_Night_Out_4bec5703:
+
+    # s2 "OOOOOOO-OOOOO!!"
+    s2 ""
+
+translate schinese Sebas_Night_Out_07b376e3:
+
+    # "A calm and collected voice follows."
+    ""
+
+translate schinese Sebas_Night_Out_e14f5879:
+
+    # s "YOU LET HIM DO WHAT?"
+    s ""
+
+translate schinese Sebas_Night_Out_8f5378fb:
+
+    # "You hear a hysterical scream, followed with a long shout between the two shopkeepers."
+    ""
+
+translate schinese Sebas_Night_Out_975cb6cc:
+
+    # "Annoyed, you cover your ears with the pillow, and you snooze for at least a few hours."
+    ""
+
+translate schinese Ole_Night_Out_Chat_7801eb24:
+
+    # e "I learned from Lothar, like- a lot."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_52b3be0f:
+
+    # s "Yeah, I still don't get why Ole here recommended you to learn from him. It's not like he's the only one that knows how to fight."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_64206344:
+
+    # o "Well, he definitely should be the best at it, regardless."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_d58b9794:
+
+    # s "You don't think I can beat him? I can literally kick him in the nuts, hard."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_53abd1cc:
+
+    # s "I literally did, and he had to stay home for a whole day."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_b5455bdc:
+
+    # s "My [e] here knows he's a fucking ass hat."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_ee6f5945:
+
+    # o "Yeah I still don't get why you two are so obsessed with your nuts. It can cause some serious problems if you two are... regularly doing it."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_23723993:
+
+    # s "I can assure you after that kick he never appears in my shop, ever again, it was quite effective in that sense."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_f89c48c0:
+
+    # s "Well, [e] stopped me. But I guess someone should be an actually responsible adult and stop the nuts kicking."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_1f6112a5:
+
+    # o "I agree with [e], you two are just fighting constantly all the time for no reason at all."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_df58aa7f:
+
+    # s "It's still better than you defending him for some reason."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_6010a1fe:
+
+    # s "Whatever, I don't care about him. At least he's not coming into our shop now."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_c792a3ea:
+
+    # s "For a hero like he claims to be, he's quite an example of what you shouldn't be, [e]."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_92145868:
+
+    # e "I thought his lessons were quite nice, to be fair. He was a decent mentor."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_584030bd:
+
+    # s "Is that so?"
+    s ""
+
+translate schinese Ole_Night_Out_Chat_d55a6a46:
+
+    # "Sebas takes a sip of his beer, while Ole looks around."
+    ""
+
+translate schinese Ole_Night_Out_Chat_fa558e93:
+
+    # e "I attended battle training from Jog and Amble... it was quite good."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_b9c887e4:
+
+    # "Sebas' eyes immediately squint upon hearing about Jog."
+    ""
+
+translate schinese Ole_Night_Out_Chat_324d3488:
+
+    # s "Those two again, huh, found any gold missing in your pocket afterwards?"
+    s ""
+
+translate schinese Ole_Night_Out_Chat_b5add4e5:
+
+    # e "Uh... no? Probably?"
+    e ""
+
+translate schinese Ole_Night_Out_Chat_63825ef4:
+
+    # s "Probably."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_87ea5194:
+
+    # "You can hear the change in Seb's tone when you mention them, you still are not sure what happened between them. But at this point, you don't even want to find out."
+    ""
+
+translate schinese Ole_Night_Out_Chat_a6c9959d:
+
+    # o "Apart from certain personality and habits, I trust they possess some skills that can be useful for [e]."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_0452abff:
+
+    # s "And maybe the problem is you trust too much, Ole."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_0743270a:
+
+    # "Ole remains silent, he doesn't seem too startled by Sebas' response."
+    ""
+
+translate schinese Ole_Night_Out_Chat_f2631c9f:
+
+    # e "So... why are you against them, Seb?"
+    e ""
+
+translate schinese Ole_Night_Out_Chat_0264130c:
+
+    # s "Amble's an honest guy, not like I've lived with him before. But the hyena is not someone you should hang out with."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_cad7fb06:
+
+    # s "If you do, watch out for the backstabs."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_4a2164df:
+
+    # e "I don't think Jog is the person you think he is, Seb."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_a00f8e5e:
+
+    # s "I've known that thief for a decade. I know all his tricks, his jokes, everything about him."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_aa5c2694:
+
+    # s "You've only met him for how long? [sebguessingmonth] months at most."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_6d1cef10:
+
+    # e "B-but still, he doesn't strike me as someone who would... backstab."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_d6ea92e2:
+
+    # o "[e] is still new around here, just change the topic."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_22c61a31:
+
+    # "The lion pouts, he just guzzles down a whole cup of beer."
+    ""
+
+translate schinese Ole_Night_Out_Chat_0844a559:
+
+    # "You shudder for a second as Sebas slams the cup hard on the table, without saying a single word."
+    ""
+
+translate schinese Ole_Night_Out_Chat_54668e7d:
+
+    # "Your table remains silent for a short while."
+    ""
+
+translate schinese Ole_Night_Out_Chat_e521d2c1:
+
+    # "You remain silent while the two shopkeepers talk among themselves."
+    ""
+
+translate schinese Ole_Night_Out_Chat_f1abfa1d:
+
+    # o "Seb, honestly we shouldn't bring that up ever again. You're never going to get over it."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_5922aadb:
+
+    # s "Get over what, that we kicked him out of our shop?"
+    s ""
+
+translate schinese Ole_Night_Out_Chat_f2ab1e8f:
+
+    # o "You're like this everytime someone mentions him."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_026a2ca6:
+
+    # s "What's the fucking problem, O. That we live in this shithole of a village and we have to see his face every single fucking day?"
+    s ""
+
+translate schinese Ole_Night_Out_Chat_2fd2e7c7:
+
+    # "The lion gulps down another whole cup of beer, before catching you staring at him in the eyes."
+    ""
+
+translate schinese Ole_Night_Out_Chat_e1554201:
+
+    # s "..."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_dbaea1da:
+
+    # "He calms down a bit, looking down at the cup."
+    ""
+
+translate schinese Ole_Night_Out_Chat_f362bd92:
+
+    # s "Uhm... sorry roomie. It's not your fault."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_6c279348:
+
+    # "Ole moves his arm over the lion's shoulder, and pats on the back of his head lightly."
+    ""
+
+translate schinese Ole_Night_Out_Chat_aee86f3f:
+
+    # e "I-it's okay, Seb."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_cdb5c912:
+
+    # o "Anyway, we should talk about something else."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_f3041ca8:
+
+    # e "I started to sew up some clothes for Rahim."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_699027b5:
+
+    # s "Oh? Rahim let you take care of his clients' orders? He didn't even let me touch his stuff."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_2e07906c:
+
+    # o "He did at one point, before you ruined the stitches of that whole tunic."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_5ea21f5d:
+
+    # "Sebas scoffs."
+    ""
+
+translate schinese Ole_Night_Out_Chat_76d50a5d:
+
+    # e "Did Rahim know Seb did this?"
+    e ""
+
+translate schinese Ole_Night_Out_Chat_1243c960:
+
+    # s "No... that wasn't my fault, alright- I didn't even know how to stitch at that time."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_b8e43b25:
+
+    # o "You also borrowed his sewing scissors to cut the paper in our shop."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_db14366c:
+
+    # s "Stop, how am I supposed to know his scissors aren't for cutting stuff."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_567ceafd:
+
+    # s "And I gifted him another pair I got from the town, alright. It's not that big of a deal. I promise."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_57f879b3:
+
+    # "Sebas laughs awkwardly, while Ole squints his eyes towards him."
+    ""
+
+translate schinese Ole_Night_Out_Chat_7e07b567:
+
+    # s "Well, anyway, [e]'s got in touch with Rahim a lot too. Anything you learned from the grumpy old bull?"
+    s ""
+
+translate schinese Ole_Night_Out_Chat_6368ac9a:
+
+    # o "I trust he must have done a better job than you."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_a50f7a9c:
+
+    # s "Stop embarrassing me in front of [e], O-..."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_32d71e63:
+
+    # e "Uhm... I think I did somewhat of a good job?"
+    e ""
+
+translate schinese Ole_Night_Out_Chat_a458edaf:
+
+    # e "Sometimes I stayed listening to him, just random stories. It was pretty nice talking to Rahim."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_ac708b8f:
+
+    # o "Aw... It's such a rare occasion to hear him open up. You must be quite a special protégé."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_b6182e0e:
+
+    # s "Oh yeah, Rahim's not the type to talk while working."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_4765445e:
+
+    # e "I don't know, our conversation's been short. I just worked for him for some money."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_6888622b:
+
+    # s "Ah, well most of us do too. He's not the type to talk that much."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_ff82b56b:
+
+    # o "How's he with Cane anyway, I didn't catch them speaking to each other..."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_286621e5:
+
+    # e "I'm not sure, Cane was apologetic, but Rahim doesn't seem to respond well."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_3295847d:
+
+    # s "Bummer. They were quite friendly before the whole goat thing started."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_828ebaa0:
+
+    # s "A-and I assure you he's really trying to become quite a better bat. You should definitely see the improvement."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_64eafa22:
+
+    # "You suddenly remember how he acted when he was with Cane in bed."
+    ""
+
+translate schinese Ole_Night_Out_Chat_cfdafb8a:
+
+    # "It was quite weird for Sebas to talk about Cane like that, perhaps they've been in touch a lot?"
+    ""
+
+translate schinese Ole_Night_Out_Chat_2a2c1acf:
+
+    # o "Well if you both say so."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_3b0b3148:
+
+    # "Ole takes a bite off from his rye bread, he seems surprised at first, before chomping down the whole bread in his mouth."
+    ""
+
+translate schinese Ole_Night_Out_Chat_6aea4bec:
+
+    # o "Now I see what you mean Seb, it's really an improvement."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_f93e6326:
+
+    # "Sebas and you chuckle at Ole's comment, it's quite rare for him to enjoy something other than cleaning, and much rarer for something made by Cane."
+    ""
+
+translate schinese Ole_Night_Out_Chat_1f4099c2:
+
+    # o "I'll have to see for my eyes... regardless."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_7397b3fe:
+
+    # e "Well... Did I ever tell you about.... What happened in the Goat Tribe?"
+    e ""
+
+translate schinese Ole_Night_Out_Chat_78a329b8:
+
+    # s "Not that I've heard a lot from them, any juicy news we ought to hear?"
+    s ""
+
+translate schinese Ole_Night_Out_Chat_29feb3b3:
+
+    # "Ole raises his brows, both of them are looking at you, patiently waiting for you to speak."
+    ""
+
+translate schinese Ole_Night_Out_Chat_96acaba7:
+
+    # e "Just a lot of stuff happened, their general, Kari, told me that their leader was stuck somewhere in a cave, so I was kind of thrusted into their situation."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_f543b8ae:
+
+    # e "And I just went to the damp cave to get him out. And another guardian attacked me."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_b6ebbe1a:
+
+    # e "We saved their leader, Furkan, back in the cave."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_decac57e:
+
+    # s "Wait, how was Furk inside a random cave?"
+    s ""
+
+translate schinese Ole_Night_Out_Chat_c91a48c4:
+
+    # e "I didn't understand as much, just that, they needed to look for their guardian there, and something attacked him, stealing the basin that Furkan had."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_af18d600:
+
+    # o "For a goat leader, Furkan wasn't the most careful type. I appreciate his courage though."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_dc3375fc:
+
+    # s "And where is it now?"
+    s ""
+
+translate schinese Ole_Night_Out_Chat_9561621e:
+
+    # e "I don't know. The thef is still out there, we didn't even know why the two guardians went rogue in the first place."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_bfbe8c07:
+
+    # o "Perhaps someone out there was trying to fetch a good price with the basin."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_72425165:
+
+    # s "Or, they wanted to make more guardians, for themselves."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_ccc8619d:
+
+    # o "Anyway, how did you come to find the Goat Tribe?" nointeract
+    o "" nointeract
+
+translate schinese Ole_Night_Out_Chat_95059aa6:
+
+    # e "I just got there myself. They keep asking me about their leader, and Kari kind of threatened to lock me down..."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_ede8a22f:
+
+    # e "I just remembered Lothar told me to pretend to pass out, but they were going to capture me if I didn't fight back.."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_d4dba864:
+
+    # o "Lothar?"
+    o ""
+
+translate schinese Ole_Night_Out_Chat_ebc537b1:
+
+    # "Right upon hearing Ole's inquiry, you realize you had lied to Ole about the whole plan of infiltration before, you pause for a moment, waiting for Ole's response."
+    ""
+
+translate schinese Ole_Night_Out_Chat_a20cefa7:
+
+    # "..."
+    ""
+
+translate schinese Ole_Night_Out_Chat_b9acd771:
+
+    # "He doesn't say anything, only looking away from you, you can make out a sense of disappointment emanating in the air."
+    ""
+
+translate schinese Ole_Night_Out_Chat_54c949e4:
+
+    # s "Something wrong?"
+    s ""
+
+translate schinese Ole_Night_Out_Chat_5c09ce2b:
+
+    # "Sebas notices the awkward stare between you and Ole as he breaks out of contemplation."
+    ""
+
+translate schinese Ole_Night_Out_Chat_2ca967a9:
+
+    # o "What?"
+    o ""
+
+translate schinese Ole_Night_Out_Chat_65d12ab9:
+
+    # s "S-sooo... what happened between you two?"
+    s ""
+
+translate schinese Ole_Night_Out_Chat_cb23ec1e:
+
+    # e "I'm just sorry I didn't tell Ole the truth about Lothar's plan."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_d3b0a9af:
+
+    # o "Honestly, I-I... don't want to blame you, [e]. I'm just glad you're safe."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_4c0a152f:
+
+    # o "We're not your guardian, [e]. It's not like we get lost in the forest and end up wandering along the river."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_5f49139c:
+
+    # o "Of course, we'll try ourselves to protect you, because you live here, but ultimately, you're free to make your own choices."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_d784f10a:
+
+    # e "Ole..."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_0695c18e:
+
+    # o "[e], I'm already over it. We should really move on before Seb gets bored to death."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_b8602f24:
+
+    # "Ole gives you a faint smile."
+    ""
+
+translate schinese Ole_Night_Out_Chat_be5a4843:
+
+    # e "I met the general in the forest, he was looking for Furkan."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_059296d0:
+
+    # o "Oh? He doesn't seem like the type to wander in the forest alone."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_06ec6b79:
+
+    # e "It was almost night. He found out about the guardian that Seb and I met back in the river. So he asked me to see if Furkan was there."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_9b16b686:
+
+    # s "That golem? Well, we had a hunch it was from the goats. I thought these huge fellas should have been protecting their runes, or whatever the runes were in."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_e9e10270:
+
+    # s "Did Furkan tell you what happened?"
+    s ""
+
+translate schinese Ole_Night_Out_Chat_fb2bc21f:
+
+    # e "No, I don't really know what happened, even after helping him I'm not sure if they'd share all of their secrets to me."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_22607b19:
+
+    # o "It was already a miracle Furkan trusted a stranger, not mentioning that you're living in Lusterfield."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_ea519abc:
+
+    # o "Well, Lothar did tell you to sneak into the tribe, if I remembered correctly."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_014817f4:
+
+    # o "He's really stupid when it comes to asking someone to help him."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_5489b31b:
+
+    # s "Ha- you're giving him too much credit, O. I'd say he's just stupid."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_03ee0af5:
+
+    # o "In any case, I've talked to him about you already, he won't be putting you in any dangerous situation again."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_448d5bf0:
+
+    # e "Really? I didn't hear him talk about you that much."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_6c1086fa:
+
+    # o "You're going to worry if he talks about me, ha. He's given me enough troubles already in the past."
+    o ""
+
+translate schinese Ole_Night_Out_Chat_6128cea1:
+
+    # s "He's still a dumb wolf, I don't get why so many folks here still praise him like he's some kind of hero."
+    s ""
+
+translate schinese Ole_Night_Out_Chat_6479f1ee:
+
+    # s "Not mentioning that he's cooking up frictions with the goats, does he want another war or something?"
+    s ""
+
+translate schinese Ole_Night_Out_Chat_5641ec6c:
+
+    # e "I'm sure Lothar just sees them as being dangerous, he will come to his senses when he knows more."
+    e ""
+
+translate schinese Ole_Night_Out_Chat_83a20941:
+
+    # s "Ha, sure."
+    s ""
+
+translate schinese Sebas_Rejoining_Night_Out_4a9b1b97:
+
+    # e "Hey, Seb. Do you think we can hang out today?"
+    e ""
+
+translate schinese Sebas_Rejoining_Night_Out_7135ed34:
+
+    # "Seb bounces up, he's suddenly more energetic than ever."
+    ""
+
+translate schinese Sebas_Rejoining_Night_Out_6aeb8fc6:
+
+    # s "Oh! You mean, like... hang out at night?"
+    s ""
+
+translate schinese Sebas_Rejoining_Night_Out_4b312d7a:
+
+    # e "Yes, just like what I promised you last time we talked?"
+    e ""
+
+translate schinese Sebas_Rejoining_Night_Out_122d9c48:
+
+    # s "H-ha! Well, yes. I'll have to tell Ole we close the shop earlier, but..."
+    s ""
+
+translate schinese Sebas_Rejoining_Night_Out_d571c310:
+
+    # s "I'll see you in the tavern tonight! Don't be late!"
+    s ""
+
+translate schinese Sebas_Not_Going_Night_Out_06225383:
+
+    # "As you return to the shop, you notices the lion at the counter is watching you, he waves and walks towards your direction."
+    ""
+
+translate schinese Sebas_Not_Going_Night_Out_e182a5cd:
+
+    # s "Hey, roomie."
+    s ""
+
+translate schinese Sebas_Not_Going_Night_Out_4b5ed695:
+
+    # e "Hello... Seb."
+    e ""
+
+translate schinese Sebas_Not_Going_Night_Out_e0e0a032:
+
+    # "You didn't go to the Tavern with Seb, yesterday. That must be why Sebas looks this... grumpy."
+    ""
+
+translate schinese Sebas_Not_Going_Night_Out_26368a6e:
+
+    # "Ole minds his own business, he either didn't notice you returning, or he didn't want to talk to you... Both are possible."
+    ""
+
+translate schinese Sebas_Not_Going_Night_Out_0623fb46:
+
+    # s "You must be pretty busy last night... Yes?"
+    s ""
+
+translate schinese Sebas_Not_Going_Night_Out_65cde3b1:
+
+    # e "Mhmm... yes. I'm sorry about ditching you, and Ole."
+    e ""
+
+translate schinese Sebas_Not_Going_Night_Out_26881068:
+
+    # s "Hey, don't be sorry. Of course you being there makes it more fun, but Ole and I could just be hanging out like normal."
+    s ""
+
+translate schinese Sebas_Not_Going_Night_Out_49ee66ed:
+
+    # s "OOOOOO! [e] is here!"
+    s ""
+
+translate schinese Sebas_Not_Going_Night_Out_0e5a4c75:
+
+    # "The lizard reluctuantly turns to you, before putting on a slight grin."
+    ""
+
+translate schinese Sebas_Not_Going_Night_Out_be311aa3:
+
+    # o "Good to see you alive, [e]."
+    o ""
+
+translate schinese Sebas_Not_Going_Night_Out_bf9c4a91:
+
+    # e "I'm so sorry to you both, you two must be waiting for so long..."
+    e ""
+
+translate schinese Sebas_Not_Going_Night_Out_fe8840f5:
+
+    # o "Seb didn't wait for long before he finished up all the food and beer. I'll say you missed out on a lot of the food, though."
+    o ""
+
+translate schinese Sebas_Not_Going_Night_Out_9405e98c:
+
+    # e "Yeah, I probably did."
+    e ""
+
+translate schinese Sebas_Not_Going_Night_Out_ced38aeb:
+
+    # o "Anyway, we are not jerking you or anything, but it was pretty fun last night, and I wished you were there, kiddo."
+    o ""
+
+translate schinese Sebas_Not_Going_Night_Out_d4cc816c:
+
+    # s "I agree. but it was what it was, I hope you enjoy whatever you did last night though!"
+    s ""
+
+translate schinese Sebas_Not_Going_Night_Out_b5159dfb:
+
+    # "Sebas pets your head for a few times, before returning to his counter."
+    ""
+
+translate schinese Sebas_Not_Going_Night_Out_3d6d3bcd:
+
+    # "You already feel quite bad for abandoning them, making them wait for you for the whole night."
+    ""
+
+translate schinese Sebas_Not_Going_Night_Out_12b9e057:
+
+    # "And you feel even more guilty that they're not even blaming you..."
+    ""
+
+translate schinese Sebas_Not_Going_Night_Out_bb103e9f:
+
+    # "Regardless, you look at the shopkeepers keeping the pawn running. You hope someday you can show the worth of their kindness towards you."
+    ""
+
+translate schinese Sebas_Not_Going_Night_Out_a20cefa7:
+
+    # "..."
+    ""
+
 translate schinese Sebas_After_Sick_Quest_e5e62d66:
 
     # s "Ole gave us quite a scare, didn't he?"
@@ -3618,9 +6833,9 @@ translate schinese Ole_Potion_Task_Start_46978121:
     # o "Too late! You can't take it back!"
     o ""
 
-translate schinese Ole_Potion_Task_Start_983c32a2:
+translate schinese Ole_Potion_Task_Start_18830d10:
 
-    # e "Okay… I can't really say no after everything you've done for me."
+    # e "Okay... I can't really say no after everything you've done for me."
     e ""
 
 translate schinese Ole_Potion_Task_Start_b5121e81:
@@ -3683,9 +6898,9 @@ translate schinese Ole_Potion_Task_Finish_b0a908f6:
     # o "You didn't even leave, how are you going to tell me you already got the potions from him."
     o ""
 
-translate schinese Ole_Potion_Task_Finish_6586f06e:
+translate schinese Ole_Potion_Task_Finish_eb762554:
 
-    # e "Oh, umm… I, uhh."
+    # e "Oh, umm... I, uhh."
     e ""
 
 translate schinese Ole_Potion_Task_Finish_ab07fad9:
@@ -7523,9 +10738,9 @@ translate schinese Rahim_Yarn_Quest_03_87670113:
     # r "It's alright. You took me seriously when I was making a bad joke."
     r ""
 
-translate schinese Rahim_Yarn_Quest_03_111e4090:
+translate schinese Rahim_Yarn_Quest_03_5b364512:
 
-    # r "Just… go finish the commission. I'll figure out a story I can tell you when you come back."
+    # r "Just... go finish the commission. I'll figure out a story I can tell you when you come back."
     r ""
 
 translate schinese Rahim_Yarn_Quest_03_206b5229:
@@ -7558,9 +10773,9 @@ translate schinese Rahim_Yarn_Quest_03_2c68410b:
     # "You gulp, and nod."
     ""
 
-translate schinese Rahim_Yarn_Quest_03_c033b62c:
+translate schinese Rahim_Yarn_Quest_03_c1217428:
 
-    # e "I want to hear about what group of people taught you the most about sewing after you started adventuring. Who they were, their culture… all of it."
+    # e "I want to hear about what group of people taught you the most about sewing after you started adventuring. Who they were, their culture... all of it."
     e ""
 
 translate schinese Rahim_Yarn_Quest_03_568e476f:
@@ -7573,9 +10788,9 @@ translate schinese Rahim_Yarn_Quest_03_1e844e30:
     # "Despite that, Rahim looks as gutted as a man just told his pet had died."
     ""
 
-translate schinese Rahim_Yarn_Quest_03_50ccfc10:
+translate schinese Rahim_Yarn_Quest_03_13fed9d8:
 
-    # r "That… It's a good question. I'll have to think about it."
+    # r "That... It's a good question. I'll have to think about it."
     r ""
 
 translate schinese Rahim_Yarn_Quest_03_7874d879:
@@ -7588,9 +10803,9 @@ translate schinese Rahim_Yarn_Quest_03_11e6261b:
     # "He's schooled his face back into neutrality and returned to sewing at this point. Despite that, you know that both of you know what you saw."
     ""
 
-translate schinese Rahim_Yarn_Quest_03_ea8c46a4:
+translate schinese Rahim_Yarn_Quest_03_3ac29ae7:
 
-    # e "Yes, I'll… I'll be back when I finish the scarf."
+    # e "Yes, I'll... I'll be back when I finish the scarf."
     e ""
 
 translate schinese Rahim_Yarn_Quest_03_86af871c:
@@ -7863,9 +11078,9 @@ translate schinese Rahim_Report_Yarn_Quest_03_2917b322:
     # "Instead, his expression softens."
     ""
 
-translate schinese Rahim_Report_Yarn_Quest_03_a31d3c5e:
+translate schinese Rahim_Report_Yarn_Quest_03_67e55ea8:
 
-    # r "I haven't had anybody offer something like that in…"
+    # r "I haven't had anybody offer something like that in..."
     r ""
 
 translate schinese Rahim_Report_Yarn_Quest_03_dafcc160:
@@ -8303,9 +11518,9 @@ translate schinese Rahim_Report_Yarn_Quest_03_a3ebb08d:
     # r "Don't even bother thinking about what they wear now. Only echoes of past glory remain in that place."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_03_004da1c8:
+translate schinese Rahim_Report_Yarn_Quest_03_7d089062:
 
-    # e "What they wear isn't exactly… complex, but the colors are still vivid, I'd say?"
+    # e "What they wear isn't exactly... complex, but the colors are still vivid, I'd say?"
     e ""
 
 translate schinese Rahim_Report_Yarn_Quest_03_adbb57f5:
@@ -8323,9 +11538,9 @@ translate schinese Rahim_Report_Yarn_Quest_03_6e3712ce:
     # r "Blue, at least. I haven't seen them recently enough to know if they've kept the other colors."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_03_b79009bc:
+translate schinese Rahim_Report_Yarn_Quest_03_8a2d70b0:
 
-    # e "But, I wouldn't think of you as all that old…? How fast did all of this disappear?"
+    # e "But, I wouldn't think of you as all that old...? How fast did all of this disappear?"
     e ""
 
 translate schinese Rahim_Report_Yarn_Quest_03_c16c3bc6:
@@ -8503,9 +11718,9 @@ translate schinese Rahim_Report_Yarn_Quest_03_6d559ace:
     # "A shiver goes down your spine. You don't want to think about learning from someone like that."
     ""
 
-translate schinese Rahim_Report_Yarn_Quest_03_01e575d9:
+translate schinese Rahim_Report_Yarn_Quest_03_108fd841:
 
-    # "It took you long enough to be able to talk to Rahim without being insulted… too much."
+    # "It took you long enough to be able to talk to Rahim without being insulted... too much."
     ""
 
 translate schinese Rahim_Report_Yarn_Quest_03_de433c23:
@@ -8568,9 +11783,9 @@ translate schinese Rahim_Report_Yarn_Quest_03_8fe80c88:
     # "It takes a bit for you to phrase the question this raises - Rahim has been quite understanding so far, but you have a feeling you're on thin ice."
     ""
 
-translate schinese Rahim_Report_Yarn_Quest_03_62a5e179:
+translate schinese Rahim_Report_Yarn_Quest_03_e2b1cbd6:
 
-    # e "But none of the goats picked up her lessons because…?"
+    # e "But none of the goats picked up her lessons because...?"
     e ""
 
 translate schinese Rahim_Report_Yarn_Quest_03_f3d10d29:
@@ -8713,9 +11928,9 @@ translate schinese Rahim_Report_Yarn_Quest_03_71c468f4:
     # "That's good enough for you. The man really needs to learn how to accept a compliment."
     ""
 
-translate schinese Rahim_Report_Yarn_Quest_03_527817f7:
+translate schinese Rahim_Report_Yarn_Quest_03_f30d701b:
 
-    # r "I appreciate the sentiment. Even if we disagree, it's… nice to know someone like you thinks that of me."
+    # r "I appreciate the sentiment. Even if we disagree, it's... nice to know someone like you thinks that of me."
     r ""
 
 translate schinese Rahim_Report_Yarn_Quest_03_a8ebd8aa:
@@ -9038,9 +12253,9 @@ translate schinese Rahim_Yarn_Quest_02_fef9af56:
     # "You look at him slightly confused."
     ""
 
-translate schinese Rahim_Yarn_Quest_02_c7bd0066:
+translate schinese Rahim_Yarn_Quest_02_9fc48241:
 
-    # e "Your least favorite thing is… hats?"
+    # e "Your least favorite thing is... hats?"
     e ""
 
 translate schinese Rahim_Yarn_Quest_02_a1c9a7e5:
@@ -9048,9 +12263,9 @@ translate schinese Rahim_Yarn_Quest_02_a1c9a7e5:
     # "Rahim nods, dead serious."
     ""
 
-translate schinese Rahim_Yarn_Quest_02_fec4e75d:
+translate schinese Rahim_Yarn_Quest_02_bfdab8d2:
 
-    # r "Yes. They're the farthest thing away from normal clothing as I can get, and I have to buy a specific size of metal loop with each commission…"
+    # r "Yes. They're the farthest thing away from normal clothing as I can get, and I have to buy a specific size of metal loop with each commission..."
     r ""
 
 translate schinese Rahim_Yarn_Quest_02_af67c55a:
@@ -9083,9 +12298,9 @@ translate schinese Rahim_Yarn_Quest_02_05a4ee60:
     # r "This isn't everything you need, by the way. Just the hardest stuff. Here's the list of everything else you'll need."
     r ""
 
-translate schinese Rahim_Yarn_Quest_02_301dcc73:
+translate schinese Rahim_Yarn_Quest_02_6f5a86b2:
 
-    # "You sigh, looking down the list of ingredients… yarn, feather, wire... These are all a bit out of the way."
+    # "You sigh, looking down the list of ingredients... yarn, feather, wire... These are all a bit out of the way."
     ""
 
 translate schinese Rahim_Yarn_Quest_02_dde0384f:
@@ -9323,9 +12538,9 @@ translate schinese Rahim_Report_Yarn_Quest_02_20757017:
     # r "The solution almost makes it seem like you just added some extra interfacing on the edges, but the unevenness of it gives it away."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_02_9639301d:
+translate schinese Rahim_Report_Yarn_Quest_02_c90743f6:
 
-    # "That… yeah. He's absolutely right on the sequence of events. He's also right about what he's clearly implying you need to do next time."
+    # "That... yeah. He's absolutely right on the sequence of events. He's also right about what he's clearly implying you need to do next time."
     ""
 
 translate schinese Rahim_Report_Yarn_Quest_02_5a949255:
@@ -9538,9 +12753,9 @@ translate schinese Rahim_Report_Yarn_Quest_02_c8573086:
     # r "We had nobody like that in town. Right as he was about to give up, I asked if I could join him."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_02_77d7f99c:
+translate schinese Rahim_Report_Yarn_Quest_02_c665cc43:
 
-    # r "One of my greatest regrets is that I never told my father I was going to do that… I hated the man, but no father deserves that."
+    # r "One of my greatest regrets is that I never told my father I was going to do that... I hated the man, but no father deserves that."
     r ""
 
 translate schinese Rahim_Report_Yarn_Quest_02_1fd2e60b:
@@ -9568,14 +12783,14 @@ translate schinese Rahim_Report_Yarn_Quest_02_42262e13:
     # r "I later learned that the old bastard was an ex-adventurer, one that made his money killing and cleaning monsters, taking all of their valuable parts, and making them into things."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_02_c1375ce6:
+translate schinese Rahim_Report_Yarn_Quest_02_69afc02e:
 
-    # r "He tried to teach me leatherworking, bonecraft, alchemy… but the only thing that really stuck was tailoring."
+    # r "He tried to teach me leatherworking, bonecraft, alchemy... but the only thing that really stuck was tailoring."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_02_b94ae948:
+translate schinese Rahim_Report_Yarn_Quest_02_4b8d0113:
 
-    # e "He sounds like a pretty good teacher, but… You sound like you don't remember him fondly?"
+    # e "He sounds like a pretty good teacher, but... You sound like you don't remember him fondly?"
     e ""
 
 translate schinese Rahim_Report_Yarn_Quest_02_5c531953:
@@ -9638,9 +12853,9 @@ translate schinese Rahim_Report_Yarn_Quest_02_6564ebd3:
     # r "II was a weak and stupid bull back then. I would be disgusted by myself if I stayed like that for my whole life."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_02_a693e899:
+translate schinese Rahim_Report_Yarn_Quest_02_5b6e5bb5:
 
-    # e "And me? I'm just starting out, like you… do you think I'm quite that bad?"
+    # e "And me? I'm just starting out, like you... do you think I'm quite that bad?"
     e ""
 
 translate schinese Rahim_Report_Yarn_Quest_02_5cfd9ee0:
@@ -9663,9 +12878,9 @@ translate schinese Rahim_Report_Yarn_Quest_02_351a78a6:
     # r "If you learn, you may grow. The ability to change is all one needs in life."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_02_3d86bad6:
+translate schinese Rahim_Report_Yarn_Quest_02_e667a3a9:
 
-    # "Rahim's voice betrayed no deep love or care, but… it seems he respects you more than most, if only by a bit."
+    # "Rahim's voice betrayed no deep love or care, but... it seems he respects you more than most, if only by a bit."
     ""
 
 translate schinese Rahim_Report_Yarn_Quest_02_672e64c0:
@@ -10133,9 +13348,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
     # e "I understand."
     e ""
 
-translate schinese Rahim_Yarn_Quest_01_9979d63a:
+translate schinese Rahim_Yarn_Quest_01_4931f5c5:
 
-    # e "So, Rahim…?"
+    # e "So, Rahim...?"
     e ""
 
 translate schinese Rahim_Yarn_Quest_01_8c837d57:
@@ -10143,14 +13358,14 @@ translate schinese Rahim_Yarn_Quest_01_8c837d57:
     # r "Yes, [e]?"
     r ""
 
-translate schinese Rahim_Yarn_Quest_01_8e37d9f4:
+translate schinese Rahim_Yarn_Quest_01_5f640d5b:
 
-    # e "I know you are always busy, so… I was wondering if you had anything I could help with?"
+    # e "I know you are always busy, so... I was wondering if you had anything I could help with?"
     e ""
 
-translate schinese Rahim_Yarn_Quest_01_f4daae8e:
+translate schinese Rahim_Yarn_Quest_01_a13324a4:
 
-    # e "I don't know… making some orders for you or something?"
+    # e "I don't know... making some orders for you or something?"
     e ""
 
 translate schinese Rahim_Yarn_Quest_01_1249fc01:
@@ -10168,9 +13383,9 @@ translate schinese Rahim_Yarn_Quest_01_ab2f05c7:
     # r "People see me as the best tailor for miles and miles around, and they expect that quality when they order from me."
     r ""
 
-translate schinese Rahim_Yarn_Quest_01_bfeeadb2:
+translate schinese Rahim_Yarn_Quest_01_f8849295:
 
-    # e "...Well, I still want to help. Maybe I can't deal with the high profile clients, but…"
+    # e "...Well, I still want to help. Maybe I can't deal with the high profile clients, but..."
     e ""
 
 translate schinese Rahim_Yarn_Quest_01_d2b283d4:
@@ -10203,9 +13418,9 @@ translate schinese Rahim_Yarn_Quest_01_04669fb6:
     # r "If I see you try anything funny, however, you will not be welcome back in this shop."
     r ""
 
-translate schinese Rahim_Yarn_Quest_01_befcc4db:
+translate schinese Rahim_Yarn_Quest_01_4da23814:
 
-    # e "Hehe, well… I want to think you can trust me not to betray you like that."
+    # e "Hehe, well... I want to think you can trust me not to betray you like that."
     e ""
 
 translate schinese Rahim_Yarn_Quest_01_8e02631b:
@@ -10233,9 +13448,9 @@ translate schinese Rahim_Yarn_Quest_01_bec3b4af:
     # r "Yes."
     r ""
 
-translate schinese Rahim_Yarn_Quest_01_885d11ee:
+translate schinese Rahim_Yarn_Quest_01_f250ba86:
 
-    # r "Trust may not be as critical as back when I was out adventuring, where trusting the wrong person could end with you bleeding out in the middle of the woods with no coin purse…"
+    # r "Trust may not be as critical as back when I was out adventuring, where trusting the wrong person could end with you bleeding out in the middle of the woods with no coin purse..."
     r ""
 
 translate schinese Rahim_Yarn_Quest_01_e6d654b3:
@@ -10268,9 +13483,9 @@ translate schinese Rahim_Yarn_Quest_01_18304dc8:
     # "Rahim's ear flicks, seemingly flummoxed by your question."
     ""
 
-translate schinese Rahim_Yarn_Quest_01_53049656:
+translate schinese Rahim_Yarn_Quest_01_635d28d2:
 
-    # r "...I have not spoken about them in quite some time, but…"
+    # r "...I have not spoken about them in quite some time, but..."
     r ""
 
 translate schinese Rahim_Yarn_Quest_01_7f5c168c:
@@ -10418,9 +13633,9 @@ translate schinese Rahim_Report_Yarn_Quest_01_5f186f7a:
     # "You hand Rahim the [clothing]."
     ""
 
-translate schinese Rahim_Report_Yarn_Quest_01_e894237e:
+translate schinese Rahim_Report_Yarn_Quest_01_fbb75c80:
 
-    # r "Hrmm… This is mostly good, but you left a few loose ends in these two spots."
+    # r "Hrmm... This is mostly good, but you left a few loose ends in these two spots."
     r ""
 
 translate schinese Rahim_Report_Yarn_Quest_01_bc90054b:
@@ -10518,9 +13733,9 @@ translate schinese Rahim_Report_Yarn_Quest_01_b5237610:
     # "Rahim reaches over to the [clothing], smooths it out, and brings the faulty stitches under the brightest spot on his desk."
     ""
 
-translate schinese Rahim_Report_Yarn_Quest_01_1a234a4e:
+translate schinese Rahim_Report_Yarn_Quest_01_4e2eb8a2:
 
-    # r "These might seem like small mistakes, but over time…"
+    # r "These might seem like small mistakes, but over time..."
     r ""
 
 translate schinese Rahim_Report_Yarn_Quest_01_3fc71d11:
@@ -10618,9 +13833,9 @@ translate schinese Rahim_Report_Yarn_Quest_01_a8c0dfb3:
     # r "You'll get the lessons drilled into you the next few times we have this talk."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_01_633b0861:
+translate schinese Rahim_Report_Yarn_Quest_01_928fff47:
 
-    # "Wait… what?"
+    # "Wait... what?"
     ""
 
 translate schinese Rahim_Report_Yarn_Quest_01_ae3e3dbb:
@@ -10628,9 +13843,9 @@ translate schinese Rahim_Report_Yarn_Quest_01_ae3e3dbb:
     # e "N-next time?"
     e ""
 
-translate schinese Rahim_Report_Yarn_Quest_01_74a3d75c:
+translate schinese Rahim_Report_Yarn_Quest_01_6a6863a3:
 
-    # r "Oh. Yes. We had not agreed on that. I had just assumed, apologies…"
+    # r "Oh. Yes. We had not agreed on that. I had just assumed, apologies..."
     r ""
 
 translate schinese Rahim_Report_Yarn_Quest_01_63c1fa00:
@@ -10643,9 +13858,9 @@ translate schinese Rahim_Report_Yarn_Quest_01_9869af00:
     # r "You were right that it was useful to have a helping hand to reduce my workload a bit."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_01_8374b0c5:
+translate schinese Rahim_Report_Yarn_Quest_01_0617e560:
 
-    # r "And… I don't mind teaching you. Not like there's anybody else in town who wants to learn."
+    # r "And... I don't mind teaching you. Not like there's anybody else in town who wants to learn."
     r ""
 
 translate schinese Rahim_Report_Yarn_Quest_01_d6dcd309:
@@ -10708,19 +13923,19 @@ translate schinese Rahim_Report_Yarn_Quest_01_ebec3137:
     # r "It's a place of many faces."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_01_a55400a8:
+translate schinese Rahim_Report_Yarn_Quest_01_d576f22a:
 
-    # r "Some streets are grand, towering marble structures laced with runework on every side…"
+    # r "Some streets are grand, towering marble structures laced with runework on every side..."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_01_82fe78c1:
+translate schinese Rahim_Report_Yarn_Quest_01_c524f1d1:
 
-    # r "Others are… squalid. The scent of death and sewage in the air, slimes living just beneath the surface, roaming out and eating what has been left out at night."
+    # r "Others are... squalid. The scent of death and sewage in the air, slimes living just beneath the surface, roaming out and eating what has been left out at night."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_01_03ed15c2:
+translate schinese Rahim_Report_Yarn_Quest_01_3388a208:
 
-    # e "Oh…"
+    # e "Oh..."
     e ""
 
 translate schinese Rahim_Report_Yarn_Quest_01_980f0094:
@@ -10838,9 +14053,9 @@ translate schinese Rahim_Report_Yarn_Quest_01_8af1d106:
     # r "If you ever encounter them, aim for the joint connecting their head and body plates."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_01_7823d2cf:
+translate schinese Rahim_Report_Yarn_Quest_01_4f2f5405:
 
-    # r "I didn't know that at the time, so I stabbed one in the back, and got sprayed with an… unfortunate amount of acid."
+    # r "I didn't know that at the time, so I stabbed one in the back, and got sprayed with an... unfortunate amount of acid."
     r ""
 
 translate schinese Rahim_Report_Yarn_Quest_01_ba423bce:
@@ -10848,9 +14063,9 @@ translate schinese Rahim_Report_Yarn_Quest_01_ba423bce:
     # r "Needless to say, I needed new clothes by the end of it."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_01_f4b330ba:
+translate schinese Rahim_Report_Yarn_Quest_01_52a78cfe:
 
-    # "You try imagining a younger Rahim covered in sweat from killing several giant monsters, clothes riddled with holes… things peeking out…"
+    # "You try imagining a younger Rahim covered in sweat from killing several giant monsters, clothes riddled with holes... things peeking out..."
     ""
 
 translate schinese Rahim_Report_Yarn_Quest_01_66127527:
@@ -10868,9 +14083,9 @@ translate schinese Rahim_Report_Yarn_Quest_01_d4b24455:
     # "If you didn't know better, you'd think the big guy was snickering. You're not though. Your head hurts."
     ""
 
-translate schinese Rahim_Report_Yarn_Quest_01_bd69ece1:
+translate schinese Rahim_Report_Yarn_Quest_01_052e47e3:
 
-    # r "Point is, I had to get myself some new clothes before I got to the capital, and… all I had was some dyes and spiderwebs left by the giant bastards."
+    # r "Point is, I had to get myself some new clothes before I got to the capital, and... all I had was some dyes and spiderwebs left by the giant bastards."
     r ""
 
 translate schinese Rahim_Report_Yarn_Quest_01_0b7880a8:
@@ -10898,9 +14113,9 @@ translate schinese Rahim_Report_Yarn_Quest_01_dd225d6c:
     # r "People really liked the look, and I started to get commission after commission, until finally, I was given one by the king himself."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_01_8dd3b9a2:
+translate schinese Rahim_Report_Yarn_Quest_01_dbc5b504:
 
-    # r "It would be many years before I would become his personal tailor, but…"
+    # r "It would be many years before I would become his personal tailor, but..."
     r ""
 
 translate schinese Rahim_Report_Yarn_Quest_01_6c2ec628:
@@ -10923,9 +14138,9 @@ translate schinese Rahim_Report_Yarn_Quest_01_873191d5:
     # "It is a pale white dress shirt with bright green accents on the shoulders and hems."
     ""
 
-translate schinese Rahim_Report_Yarn_Quest_01_5edfe779:
+translate schinese Rahim_Report_Yarn_Quest_01_a5d7689d:
 
-    # r "Yes. I originally traveled just to see the world, but…"
+    # r "Yes. I originally traveled just to see the world, but..."
     r ""
 
 translate schinese Rahim_Report_Yarn_Quest_01_7be506e9:
@@ -11028,9 +14243,9 @@ translate schinese Rahim_Report_Yarn_Quest_01_4915c6ed:
     # r "Well, off with you then. If you are busy, you should get to that."
     r ""
 
-translate schinese Rahim_Report_Yarn_Quest_01_4fc4a08c:
+translate schinese Rahim_Report_Yarn_Quest_01_2f925843:
 
-    # "There's no reason for you to stick around here, so… you leave."
+    # "There's no reason for you to stick around here, so... you leave."
     ""
 
 translate schinese Rahim_Letter_Furkan_a6c14195:
@@ -12280,6 +15495,9 @@ translate schinese strings:
     old "Ask about his betting"
     new ""
 
+    old "Go to Tavern with Sebas and Ole tonight"
+    new ""
+
     old "Ask about Postal Training"
     new ""
 
@@ -12304,6 +15522,9 @@ translate schinese strings:
     old "'Bet' with drunk Sebas"
     new ""
 
+    old "Leave him alone{#sebasdrunk}"
+    new ""
+
     old "Give a beer"
     new ""
 
@@ -12323,6 +15544,54 @@ translate schinese strings:
     new ""
 
     old "That's all I needed"
+    new ""
+
+    old "Go with Sebas and Ole?"
+    new ""
+
+    old "Accept Invitation"
+    new ""
+
+    old "Compliment Sebas"
+    new ""
+
+    old "Defend Ole"
+    new ""
+
+    old "Ale"
+    new ""
+
+    old "Beer"
+    new ""
+
+    old "Bread"
+    new ""
+
+    old "Stay with Lothar"
+    new ""
+
+    old "Leave with Ole"
+    new ""
+
+    old "Talk about learning from Lothar"
+    new ""
+
+    old "Talk about attending Jog and Amble's training"
+    new ""
+
+    old "Talk about Rahim's tailoring Job"
+    new ""
+
+    old "Talk about Furkan and Kari from the Goat Tribe"
+    new ""
+
+    old "Defend Jog"
+    new ""
+
+    old "I visited the tribe myself"
+    new ""
+
+    old "I met Kari in the forest"
     new ""
 
     old "Sneak under counter"

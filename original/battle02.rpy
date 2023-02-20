@@ -33,14 +33,24 @@ translate schinese Ability_Self_Heal_90794f49:
     # "You used self heal, your health goes up by [healing] HP."
     ""
 
-translate schinese Ability_Fiery_Charge_7f84b070:
+translate schinese Ability_Fiery_Charge_c4aaf8f8:
 
-    # "You use Fiery Charge on [enemy.name], dealing [fc_damage] HP Damage."
+    # "You use Fiery Charge on [enemy.name], dealing [fc_damage] HP Damage. [enemy.name] is now scorched."
     ""
 
-translate schinese Ability_Fiery_Charge_c4b817c9:
+translate schinese Ability_Fiery_Charge_935fdf95:
 
-    # "You use Fiery Charge on all enemies, dealing [fc_damage] HP Damage."
+    # "You use Fiery Charge on [enemy.name], [enemy.name] continues to be scorched for two additional rounds."
+    ""
+
+translate schinese Ability_Fiery_Charge_093c999c:
+
+    # "You use Fiery Charge on all enemies, dealing [fc_damage] HP Damage. All enemies are now scorched."
+    ""
+
+translate schinese Ability_Fiery_Charge_fb4c2287:
+
+    # "You use Fiery Charge on the enemies, they continue to be scorched for two additional rounds."
     ""
 
 translate schinese Ability_Fortify_2faf436f:
@@ -81,6 +91,16 @@ translate schinese Ability_Resolution_8f64a376:
 translate schinese Battle_End_Check_78e7c049:
 
     # "Your health decreases by [wounded_damage] from the bleeding."
+    ""
+
+translate schinese Battle_End_Check_2732cb22:
+
+    # "[enemy.name] is still burning, receiving [scorched.effect] HP damage."
+    ""
+
+translate schinese Battle_End_Check_b20e7375:
+
+    # "[enemy2.name] is still burning, receiving [scorched.effect] HP damage."
     ""
 
 translate schinese Battle_Mid_Check_5eb35099:

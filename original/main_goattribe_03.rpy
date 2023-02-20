@@ -78,9 +78,9 @@ translate schinese Gwyddyon_First_Meet_fbc23e26:
     # my "Oh?"
     my ""
 
-translate schinese Gwyddyon_First_Meet_54ca4536:
+translate schinese Gwyddyon_First_Meet_32966bc4:
 
-    # my "The famous [e] from Lusterfield who saved the chieftain that other day. Needless to say, didn't expect you to look like a goat, all the more that other one."
+    # my "The famous [e] from Lusterfield who saved the chieftain that other day? Needless to say, didn't expect you to look like a goat, all the more that other one."
     my ""
 
 translate schinese Gwyddyon_First_Meet_d245c3aa:
@@ -88,9 +88,9 @@ translate schinese Gwyddyon_First_Meet_d245c3aa:
     # e "That other one?"
     e ""
 
-translate schinese Gwyddyon_First_Meet_05ad7a09:
+translate schinese Gwyddyon_First_Meet_eefdb742:
 
-    # "In your mind, there's only one person that could have looked like you in this world. And you're confident that it's him."
+    # "In your mind, there's only one person that could have looked like you in this world. And there's no second candidate in your mind."
     ""
 
 translate schinese Gwyddyon_First_Meet_abe45804:

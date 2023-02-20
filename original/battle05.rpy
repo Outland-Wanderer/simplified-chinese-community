@@ -1103,11 +1103,6 @@ translate schinese heftyslime_lose_8ff8cfd8:
     # "There's no strength left inside you to struggle against its grasp..."
     ""
 
-translate schinese heftyslime_lose_6ac429c8:
-
-    # msg "Scene WIP!"
-    msg ""
-
 translate schinese heftyslime_lose_4ba96869:
 
     # "You lost [gold_lost] gold."
@@ -1372,11 +1367,6 @@ translate schinese malignantslime_lose_8ff8cfd8:
 
     # "There's no strength left inside you to struggle against its grasp..."
     ""
-
-translate schinese malignantslime_lose_6ac429c8:
-
-    # msg "Scene WIP!"
-    msg ""
 
 translate schinese malignantslime_lose_4ba96869:
 

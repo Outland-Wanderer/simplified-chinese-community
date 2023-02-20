@@ -381,7 +381,7 @@ translate schinese strings:
     old "'Bet' with drunk Sebas"
     new "与塞巴斯打赌"
 
-    old "Leave him alone"
+    old "Leave him alone{#sebasdrunk}"
     new "先不管他"
 
 translate schinese Sebas_Drunk_Bet_Cane_c98361ad:
@@ -1838,7 +1838,7 @@ translate schinese Sebas_Expedition_7fda2f6b:
 translate schinese Sebas_Expedition_e1c15a68:
 
     # s "Look, there's a stone right there, if you explore enough. Surely you can collect some rocks, minerals, stones all sort of things."
-    s "你看，那边就有一块石头，如果你积极探索，你可以采集到不少普通石块或珍惜矿物之类的东西。"
+    s "你看，那边就有一块石头，如果你积极探索，你可以采集到不少普通石块或珍稀矿物之类的东西。"
 
 translate schinese Sebas_Expedition_da8eb826:
 
@@ -3791,9 +3791,9 @@ translate schinese strings:
 #     # o "Too late! You can't take it back!"
 #     o ""
 
-# translate schinese Ole_Potion_Task_Start_983c32a2:
+# translate schinese Ole_Potion_Task_Start_18830d10:
 
-#     # e "Okay… I can't really say no after everything you've done for me."
+#     # e "Okay... I can't really say no after everything you've done for me."
 #     e ""
 
 # translate schinese Ole_Potion_Task_Start_b5121e81:
@@ -3856,9 +3856,9 @@ translate schinese strings:
 #     # o "You didn't even leave, how are you going to tell me you already got the potions from him."
 #     o ""
 
-# translate schinese Ole_Potion_Task_Finish_6586f06e:
+# translate schinese Ole_Potion_Task_Finish_eb762554:
 
-#     # e "Oh, umm… I, uhh."
+#     # e "Oh, umm... I, uhh."
 #     e ""
 
 # translate schinese Ole_Potion_Task_Finish_ab07fad9:
@@ -4591,90 +4591,90 @@ translate schinese strings:
 #     # "You decide to leave the shop, and head to the tavern..."
 #     ""
 
-# translate schinese Ole_Ask_Ointment_Quest_f47af4b4:
+translate schinese Ole_Ask_Ointment_Quest_f47af4b4:
 
-#     # e "Hey! Ole. I'm ready for the first... courier job!"
-#     e ""
+    # e "Hey! Ole. I'm ready for the first... courier job!"
+    e ""
 
-# translate schinese Ole_Ask_Ointment_Quest_10988a0d:
+translate schinese Ole_Ask_Ointment_Quest_10988a0d:
 
-#     # o "Alright kiddo. Looking good with your badge here."
-#     o ""
+    # o "Alright kiddo. Looking good with your badge here."
+    o ""
 
-# translate schinese Ole_Ask_Ointment_Quest_340f6913:
+translate schinese Ole_Ask_Ointment_Quest_340f6913:
 
-#     # e "Oh yeah! It looks really good! I certainly love the shape I have here."
-#     e ""
+    # e "Oh yeah! It looks really good! I certainly love the shape I have here."
+    e ""
 
-# translate schinese Ole_Ask_Ointment_Quest_22a27393:
+translate schinese Ole_Ask_Ointment_Quest_22a27393:
 
-#     # o "Sure, I designed the badge with Rahim's advice. He's certainly a great mentor."
-#     o ""
+    # o "Sure, I designed the badge with Rahim's advice. He's certainly a great mentor."
+    o ""
 
-# translate schinese Ole_Ask_Ointment_Quest_51760586:
+translate schinese Ole_Ask_Ointment_Quest_51760586:
 
-#     # o "But back to the job, I remembered you asked about the ointment... that I gave you when we met."
-#     o ""
+    # o "But back to the job, I remembered you asked about the ointment... that I gave you when we met."
+    o ""
 
-# translate schinese Ole_Ask_Ointment_Quest_68df99ac:
+translate schinese Ole_Ask_Ointment_Quest_68df99ac:
 
-#     # e "Oh, yes. I was a little curious how you made it."
-#     e ""
+    # e "Oh, yes. I was a little curious how you made it."
+    e ""
 
-# translate schinese Ole_Ask_Ointment_Quest_573a9302:
+translate schinese Ole_Ask_Ointment_Quest_573a9302:
 
-#     # o "Well, let's not get ahead of ourselves here, [e]. I'll teach you how to make it after your job."
-#     o ""
+    # o "Well, let's not get ahead of ourselves here, [e]. I'll teach you how to make it after your job."
+    o ""
 
-# translate schinese Ole_Ask_Ointment_Quest_178288b9:
+translate schinese Ole_Ask_Ointment_Quest_178288b9:
 
-#     # o "I need you to visit... a-a potion maker, if you will."
-#     o ""
+    # o "I need you to visit... a-a potion maker, if you will."
+    o ""
 
-# translate schinese Ole_Ask_Ointment_Quest_91890a33:
+translate schinese Ole_Ask_Ointment_Quest_91890a33:
 
-#     # e "Should I take... a memo?"
-#     e ""
+    # e "Should I take... a memo?"
+    e ""
 
-# translate schinese Ole_Ask_Ointment_Quest_80d5c3d7:
+translate schinese Ole_Ask_Ointment_Quest_80d5c3d7:
 
-#     # o "I'll mark it... on your map. You pass the river after the giant tree, and then reach the outpost and you'll see a cabin."
-#     o ""
+    # o "I'll mark it... on your map. You pass the river after the giant tree, and then reach the outpost and you'll see a cabin."
+    o ""
 
-# translate schinese Ole_Ask_Ointment_Quest_a518c665:
+translate schinese Ole_Ask_Ointment_Quest_a518c665:
 
-#     # e "Uh... Ok. What's the job about?"
-#     e ""
+    # e "Uh... Ok. What's the job about?"
+    e ""
 
-# translate schinese Ole_Ask_Ointment_Quest_bc467a46:
+translate schinese Ole_Ask_Ointment_Quest_bc467a46:
 
-#     # o "Just ask him for 30 strength potions. He'll know what you're talking about."
-#     o ""
+    # o "Just ask him for 30 strength potions. He'll know what you're talking about."
+    o ""
 
-# translate schinese Ole_Ask_Ointment_Quest_bcc97e0d:
+translate schinese Ole_Ask_Ointment_Quest_bcc97e0d:
 
-#     # e "O-hh... But does the potion maker know me, if I went there?"
-#     e ""
+    # e "O-hh... But does the potion maker know me, if I went there?"
+    e ""
 
-# translate schinese Ole_Ask_Ointment_Quest_9bdc524c:
+translate schinese Ole_Ask_Ointment_Quest_9bdc524c:
 
-#     # o "Yeah, Sebas told him about your badge last time he went there."
-#     o ""
+    # o "Yeah, Sebas told him about your badge last time he went there."
+    o ""
 
-# translate schinese Ole_Ask_Ointment_Quest_6b43982e:
+translate schinese Ole_Ask_Ointment_Quest_6b43982e:
 
-#     # o "Alright, courier, don't disappoint me with your first job."
-#     o ""
+    # o "Alright, courier, don't disappoint me with your first job."
+    o ""
 
-# translate schinese Ole_Ask_Ointment_Quest_1e01be55:
+translate schinese Ole_Ask_Ointment_Quest_1e01be55:
 
-#     # e "O-ok. Yes, chief."
-#     e ""
+    # e "O-ok. Yes, chief."
+    e ""
 
-# translate schinese Ole_Ask_Ointment_Quest_a36325ea:
+translate schinese Ole_Ask_Ointment_Quest_a36325ea:
 
-#     # "Ole chuckles at your gesture. He soon turns back to the cabinet and resume cleaning."
-#     ""
+    # "Ole chuckles at your gesture. He soon turns back to the cabinet and resume cleaning."
+    ""
 
 # translate schinese Ole_Ask_Cleaning_acacbf7e:
 
@@ -7769,9 +7769,9 @@ translate schinese strings:
 #     # r "It's alright. You took me seriously when I was making a bad joke."
 #     r ""
 
-# translate schinese Rahim_Yarn_Quest_03_111e4090:
+# translate schinese Rahim_Yarn_Quest_03_5b364512:
 
-#     # r "Just… go finish the commission. I'll figure out a story I can tell you when you come back."
+#     # r "Just... go finish the commission. I'll figure out a story I can tell you when you come back."
 #     r ""
 
 # translate schinese Rahim_Yarn_Quest_03_206b5229:
@@ -7804,9 +7804,9 @@ translate schinese strings:
 #     # "You gulp, and nod."
 #     ""
 
-# translate schinese Rahim_Yarn_Quest_03_c033b62c:
+# translate schinese Rahim_Yarn_Quest_03_c1217428:
 
-#     # e "I want to hear about what group of people taught you the most about sewing after you started adventuring. Who they were, their culture… all of it."
+#     # e "I want to hear about what group of people taught you the most about sewing after you started adventuring. Who they were, their culture... all of it."
 #     e ""
 
 # translate schinese Rahim_Yarn_Quest_03_568e476f:
@@ -7819,9 +7819,9 @@ translate schinese strings:
 #     # "Despite that, Rahim looks as gutted as a man just told his pet had died."
 #     ""
 
-# translate schinese Rahim_Yarn_Quest_03_50ccfc10:
+# translate schinese Rahim_Yarn_Quest_03_13fed9d8:
 
-#     # r "That… It's a good question. I'll have to think about it."
+#     # r "That... It's a good question. I'll have to think about it."
 #     r ""
 
 # translate schinese Rahim_Yarn_Quest_03_7874d879:
@@ -7834,9 +7834,9 @@ translate schinese strings:
 #     # "He's schooled his face back into neutrality and returned to sewing at this point. Despite that, you know that both of you know what you saw."
 #     ""
 
-# translate schinese Rahim_Yarn_Quest_03_ea8c46a4:
+# translate schinese Rahim_Yarn_Quest_03_3ac29ae7:
 
-#     # e "Yes, I'll… I'll be back when I finish the scarf."
+#     # e "Yes, I'll... I'll be back when I finish the scarf."
 #     e ""
 
 # translate schinese Rahim_Yarn_Quest_03_86af871c:
@@ -8109,9 +8109,9 @@ translate schinese strings:
 #     # "Instead, his expression softens."
 #     ""
 
-# translate schinese Rahim_Report_Yarn_Quest_03_a31d3c5e:
+# translate schinese Rahim_Report_Yarn_Quest_03_67e55ea8:
 
-#     # r "I haven't had anybody offer something like that in…"
+#     # r "I haven't had anybody offer something like that in..."
 #     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_03_dafcc160:
@@ -8549,9 +8549,9 @@ translate schinese strings:
 #     # r "Don't even bother thinking about what they wear now. Only echoes of past glory remain in that place."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_03_004da1c8:
+# translate schinese Rahim_Report_Yarn_Quest_03_7d089062:
 
-#     # e "What they wear isn't exactly… complex, but the colors are still vivid, I'd say?"
+#     # e "What they wear isn't exactly... complex, but the colors are still vivid, I'd say?"
 #     e ""
 
 # translate schinese Rahim_Report_Yarn_Quest_03_adbb57f5:
@@ -8569,9 +8569,9 @@ translate schinese strings:
 #     # r "Blue, at least. I haven't seen them recently enough to know if they've kept the other colors."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_03_b79009bc:
+# translate schinese Rahim_Report_Yarn_Quest_03_8a2d70b0:
 
-#     # e "But, I wouldn't think of you as all that old…? How fast did all of this disappear?"
+#     # e "But, I wouldn't think of you as all that old...? How fast did all of this disappear?"
 #     e ""
 
 # translate schinese Rahim_Report_Yarn_Quest_03_c16c3bc6:
@@ -8749,9 +8749,9 @@ translate schinese strings:
 #     # "A shiver goes down your spine. You don't want to think about learning from someone like that."
 #     ""
 
-# translate schinese Rahim_Report_Yarn_Quest_03_01e575d9:
+# translate schinese Rahim_Report_Yarn_Quest_03_108fd841:
 
-#     # "It took you long enough to be able to talk to Rahim without being insulted… too much."
+#     # "It took you long enough to be able to talk to Rahim without being insulted... too much."
 #     ""
 
 # translate schinese Rahim_Report_Yarn_Quest_03_de433c23:
@@ -8814,9 +8814,9 @@ translate schinese strings:
 #     # "It takes a bit for you to phrase the question this raises - Rahim has been quite understanding so far, but you have a feeling you're on thin ice."
 #     ""
 
-# translate schinese Rahim_Report_Yarn_Quest_03_62a5e179:
+# translate schinese Rahim_Report_Yarn_Quest_03_e2b1cbd6:
 
-#     # e "But none of the goats picked up her lessons because…?"
+#     # e "But none of the goats picked up her lessons because...?"
 #     e ""
 
 # translate schinese Rahim_Report_Yarn_Quest_03_f3d10d29:
@@ -8959,9 +8959,9 @@ translate schinese strings:
 #     # "That's good enough for you. The man really needs to learn how to accept a compliment."
 #     ""
 
-# translate schinese Rahim_Report_Yarn_Quest_03_527817f7:
+# translate schinese Rahim_Report_Yarn_Quest_03_f30d701b:
 
-#     # r "I appreciate the sentiment. Even if we disagree, it's… nice to know someone like you thinks that of me."
+#     # r "I appreciate the sentiment. Even if we disagree, it's... nice to know someone like you thinks that of me."
 #     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_03_a8ebd8aa:
@@ -9284,9 +9284,9 @@ translate schinese strings:
 #     # "You look at him slightly confused."
 #     ""
 
-# translate schinese Rahim_Yarn_Quest_02_c7bd0066:
+# translate schinese Rahim_Yarn_Quest_02_9fc48241:
 
-#     # e "Your least favorite thing is… hats?"
+#     # e "Your least favorite thing is... hats?"
 #     e ""
 
 # translate schinese Rahim_Yarn_Quest_02_a1c9a7e5:
@@ -9294,9 +9294,9 @@ translate schinese strings:
 #     # "Rahim nods, dead serious."
 #     ""
 
-# translate schinese Rahim_Yarn_Quest_02_fec4e75d:
+# translate schinese Rahim_Yarn_Quest_02_bfdab8d2:
 
-#     # r "Yes. They're the farthest thing away from normal clothing as I can get, and I have to buy a specific size of metal loop with each commission…"
+#     # r "Yes. They're the farthest thing away from normal clothing as I can get, and I have to buy a specific size of metal loop with each commission..."
 #     r ""
 
 # translate schinese Rahim_Yarn_Quest_02_af67c55a:
@@ -9329,9 +9329,9 @@ translate schinese strings:
 #     # r "This isn't everything you need, by the way. Just the hardest stuff. Here's the list of everything else you'll need."
 #     r ""
 
-# translate schinese Rahim_Yarn_Quest_02_301dcc73:
+# translate schinese Rahim_Yarn_Quest_02_6f5a86b2:
 
-#     # "You sigh, looking down the list of ingredients… yarn, feather, wire... These are all a bit out of the way."
+#     # "You sigh, looking down the list of ingredients... yarn, feather, wire... These are all a bit out of the way."
 #     ""
 
 # translate schinese Rahim_Yarn_Quest_02_dde0384f:
@@ -9569,9 +9569,9 @@ translate schinese strings:
 #     # r "The solution almost makes it seem like you just added some extra interfacing on the edges, but the unevenness of it gives it away."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_02_9639301d:
+# translate schinese Rahim_Report_Yarn_Quest_02_c90743f6:
 
-#     # "That… yeah. He's absolutely right on the sequence of events. He's also right about what he's clearly implying you need to do next time."
+#     # "That... yeah. He's absolutely right on the sequence of events. He's also right about what he's clearly implying you need to do next time."
 #     ""
 
 # translate schinese Rahim_Report_Yarn_Quest_02_a67ccac5:
@@ -9784,9 +9784,9 @@ translate schinese strings:
 #     # r "We had nobody like that in town. Right as he was about to give up, I asked if I could join him."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_02_77d7f99c:
+# translate schinese Rahim_Report_Yarn_Quest_02_c665cc43:
 
-#     # r "One of my greatest regrets is that I never told my father I was going to do that… I hated the man, but no father deserves that."
+#     # r "One of my greatest regrets is that I never told my father I was going to do that... I hated the man, but no father deserves that."
 #     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_02_1fd2e60b:
@@ -9814,14 +9814,14 @@ translate schinese strings:
 #     # r "I later learned that the old bastard was an ex-adventurer, one that made his money killing and cleaning monsters, taking all of their valuable parts, and making them into things."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_02_c1375ce6:
+# translate schinese Rahim_Report_Yarn_Quest_02_69afc02e:
 
-#     # r "He tried to teach me leatherworking, bonecraft, alchemy… but the only thing that really stuck was tailoring."
+#     # r "He tried to teach me leatherworking, bonecraft, alchemy... but the only thing that really stuck was tailoring."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_02_b94ae948:
+# translate schinese Rahim_Report_Yarn_Quest_02_4b8d0113:
 
-#     # e "He sounds like a pretty good teacher, but… You sound like you don't remember him fondly?"
+#     # e "He sounds like a pretty good teacher, but... You sound like you don't remember him fondly?"
 #     e ""
 
 # translate schinese Rahim_Report_Yarn_Quest_02_5c531953:
@@ -9884,9 +9884,9 @@ translate schinese strings:
 #     # r "II was a weak and stupid bull back then. I would be disgusted by myself if I stayed like that for my whole life."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_02_a693e899:
+# translate schinese Rahim_Report_Yarn_Quest_02_5b6e5bb5:
 
-#     # e "And me? I'm just starting out, like you… do you think I'm quite that bad?"
+#     # e "And me? I'm just starting out, like you... do you think I'm quite that bad?"
 #     e ""
 
 # translate schinese Rahim_Report_Yarn_Quest_02_5cfd9ee0:
@@ -9909,9 +9909,9 @@ translate schinese strings:
 #     # r "If you learn, you may grow. The ability to change is all one needs in life."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_02_3d86bad6:
+# translate schinese Rahim_Report_Yarn_Quest_02_e667a3a9:
 
-#     # "Rahim's voice betrayed no deep love or care, but… it seems he respects you more than most, if only by a bit."
+#     # "Rahim's voice betrayed no deep love or care, but... it seems he respects you more than most, if only by a bit."
 #     ""
 
 # translate schinese Rahim_Report_Yarn_Quest_02_672e64c0:
@@ -10379,9 +10379,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
     # e "I understand."
     e "我会的。"
 
-# translate schinese Rahim_Yarn_Quest_01_9979d63a:
+# translate schinese Rahim_Yarn_Quest_01_4931f5c5:
 
-#     # e "So, Rahim…?"
+#     # e "So, Rahim...?"
 #     e ""
 
 # translate schinese Rahim_Yarn_Quest_01_8c837d57:
@@ -10389,14 +10389,14 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # r "Yes, [e]?"
 #     r ""
 
-# translate schinese Rahim_Yarn_Quest_01_8e37d9f4:
+# translate schinese Rahim_Yarn_Quest_01_5f640d5b:
 
-#     # e "I know you are always busy, so… I was wondering if you had anything I could help with?"
+#     # e "I know you are always busy, so... I was wondering if you had anything I could help with?"
 #     e ""
 
-# translate schinese Rahim_Yarn_Quest_01_f4daae8e:
+# translate schinese Rahim_Yarn_Quest_01_a13324a4:
 
-#     # e "I don't know… making some orders for you or something?"
+#     # e "I don't know... making some orders for you or something?"
 #     e ""
 
 # translate schinese Rahim_Yarn_Quest_01_1249fc01:
@@ -10414,9 +10414,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # r "People see me as the best tailor for miles and miles around, and they expect that quality when they order from me."
 #     r ""
 
-# translate schinese Rahim_Yarn_Quest_01_bfeeadb2:
+# translate schinese Rahim_Yarn_Quest_01_f8849295:
 
-#     # e "...Well, I still want to help. Maybe I can't deal with the high profile clients, but…"
+#     # e "...Well, I still want to help. Maybe I can't deal with the high profile clients, but..."
 #     e ""
 
 # translate schinese Rahim_Yarn_Quest_01_d2b283d4:
@@ -10449,9 +10449,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # r "If I see you try anything funny, however, you will not be welcome back in this shop."
 #     r ""
 
-# translate schinese Rahim_Yarn_Quest_01_befcc4db:
+# translate schinese Rahim_Yarn_Quest_01_4da23814:
 
-#     # e "Hehe, well… I want to think you can trust me not to betray you like that."
+#     # e "Hehe, well... I want to think you can trust me not to betray you like that."
 #     e ""
 
 # translate schinese Rahim_Yarn_Quest_01_8e02631b:
@@ -10479,9 +10479,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # r "Yes."
 #     r ""
 
-# translate schinese Rahim_Yarn_Quest_01_885d11ee:
+# translate schinese Rahim_Yarn_Quest_01_f250ba86:
 
-#     # r "Trust may not be as critical as back when I was out adventuring, where trusting the wrong person could end with you bleeding out in the middle of the woods with no coin purse…"
+#     # r "Trust may not be as critical as back when I was out adventuring, where trusting the wrong person could end with you bleeding out in the middle of the woods with no coin purse..."
 #     r ""
 
 # translate schinese Rahim_Yarn_Quest_01_e6d654b3:
@@ -10514,9 +10514,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # "Rahim's ear flicks, seemingly flummoxed by your question."
 #     ""
 
-# translate schinese Rahim_Yarn_Quest_01_53049656:
+# translate schinese Rahim_Yarn_Quest_01_635d28d2:
 
-#     # r "...I have not spoken about them in quite some time, but…"
+#     # r "...I have not spoken about them in quite some time, but..."
 #     r ""
 
 # translate schinese Rahim_Yarn_Quest_01_7f5c168c:
@@ -10664,9 +10664,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # "You hand Rahim the [clothing]."
 #     ""
 
-# translate schinese Rahim_Report_Yarn_Quest_01_e894237e:
+# translate schinese Rahim_Report_Yarn_Quest_01_fbb75c80:
 
-#     # r "Hrmm… This is mostly good, but you left a few loose ends in these two spots."
+#     # r "Hrmm... This is mostly good, but you left a few loose ends in these two spots."
 #     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_01_bc90054b:
@@ -10764,9 +10764,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # "Rahim reaches over to the [clothing], smooths it out, and brings the faulty stitches under the brightest spot on his desk."
 #     ""
 
-# translate schinese Rahim_Report_Yarn_Quest_01_1a234a4e:
+# translate schinese Rahim_Report_Yarn_Quest_01_4e2eb8a2:
 
-#     # r "These might seem like small mistakes, but over time…"
+#     # r "These might seem like small mistakes, but over time..."
 #     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_01_3fc71d11:
@@ -10864,9 +10864,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # r "You'll get the lessons drilled into you the next few times we have this talk."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_01_633b0861:
+# translate schinese Rahim_Report_Yarn_Quest_01_928fff47:
 
-#     # "Wait… what?"
+#     # "Wait... what?"
 #     ""
 
 # translate schinese Rahim_Report_Yarn_Quest_01_ae3e3dbb:
@@ -10874,9 +10874,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # e "N-next time?"
 #     e ""
 
-# translate schinese Rahim_Report_Yarn_Quest_01_74a3d75c:
+# translate schinese Rahim_Report_Yarn_Quest_01_6a6863a3:
 
-#     # r "Oh. Yes. We had not agreed on that. I had just assumed, apologies…"
+#     # r "Oh. Yes. We had not agreed on that. I had just assumed, apologies..."
 #     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_01_63c1fa00:
@@ -10889,9 +10889,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # r "You were right that it was useful to have a helping hand to reduce my workload a bit."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_01_8374b0c5:
+# translate schinese Rahim_Report_Yarn_Quest_01_0617e560:
 
-#     # r "And… I don't mind teaching you. Not like there's anybody else in town who wants to learn."
+#     # r "And... I don't mind teaching you. Not like there's anybody else in town who wants to learn."
 #     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_01_d6dcd309:
@@ -10954,19 +10954,19 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # r "It's a place of many faces."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_01_a55400a8:
+# translate schinese Rahim_Report_Yarn_Quest_01_d576f22a:
 
-#     # r "Some streets are grand, towering marble structures laced with runework on every side…"
+#     # r "Some streets are grand, towering marble structures laced with runework on every side..."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_01_82fe78c1:
+# translate schinese Rahim_Report_Yarn_Quest_01_c524f1d1:
 
-#     # r "Others are… squalid. The scent of death and sewage in the air, slimes living just beneath the surface, roaming out and eating what has been left out at night."
+#     # r "Others are... squalid. The scent of death and sewage in the air, slimes living just beneath the surface, roaming out and eating what has been left out at night."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_01_03ed15c2:
+# translate schinese Rahim_Report_Yarn_Quest_01_3388a208:
 
-#     # e "Oh…"
+#     # e "Oh..."
 #     e ""
 
 # translate schinese Rahim_Report_Yarn_Quest_01_980f0094:
@@ -11062,7 +11062,7 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 # translate schinese Rahim_Report_Yarn_Quest_01_b9b755e5:
 
 #     # r "..."
-#     r "……"
+#     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_01_e2e499e4:
 
@@ -11084,9 +11084,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # r "If you ever encounter them, aim for the joint connecting their head and body plates."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_01_7823d2cf:
+# translate schinese Rahim_Report_Yarn_Quest_01_4f2f5405:
 
-#     # r "I didn't know that at the time, so I stabbed one in the back, and got sprayed with an… unfortunate amount of acid."
+#     # r "I didn't know that at the time, so I stabbed one in the back, and got sprayed with an... unfortunate amount of acid."
 #     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_01_ba423bce:
@@ -11094,9 +11094,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # r "Needless to say, I needed new clothes by the end of it."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_01_f4b330ba:
+# translate schinese Rahim_Report_Yarn_Quest_01_52a78cfe:
 
-#     # "You try imagining a younger Rahim covered in sweat from killing several giant monsters, clothes riddled with holes… things peeking out…"
+#     # "You try imagining a younger Rahim covered in sweat from killing several giant monsters, clothes riddled with holes... things peeking out..."
 #     ""
 
 # translate schinese Rahim_Report_Yarn_Quest_01_66127527:
@@ -11114,9 +11114,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # "If you didn't know better, you'd think the big guy was snickering. You're not though. Your head hurts."
 #     ""
 
-# translate schinese Rahim_Report_Yarn_Quest_01_bd69ece1:
+# translate schinese Rahim_Report_Yarn_Quest_01_052e47e3:
 
-#     # r "Point is, I had to get myself some new clothes before I got to the capital, and… all I had was some dyes and spiderwebs left by the giant bastards."
+#     # r "Point is, I had to get myself some new clothes before I got to the capital, and... all I had was some dyes and spiderwebs left by the giant bastards."
 #     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_01_0b7880a8:
@@ -11144,9 +11144,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # r "People really liked the look, and I started to get commission after commission, until finally, I was given one by the king himself."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_01_8dd3b9a2:
+# translate schinese Rahim_Report_Yarn_Quest_01_dbc5b504:
 
-#     # r "It would be many years before I would become his personal tailor, but…"
+#     # r "It would be many years before I would become his personal tailor, but..."
 #     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_01_6c2ec628:
@@ -11169,9 +11169,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # "It is a pale white dress shirt with bright green accents on the shoulders and hems."
 #     ""
 
-# translate schinese Rahim_Report_Yarn_Quest_01_5edfe779:
+# translate schinese Rahim_Report_Yarn_Quest_01_a5d7689d:
 
-#     # r "Yes. I originally traveled just to see the world, but…"
+#     # r "Yes. I originally traveled just to see the world, but..."
 #     r ""
 
 # translate schinese Rahim_Report_Yarn_Quest_01_7be506e9:
@@ -11274,9 +11274,9 @@ translate schinese Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 #     # r "Well, off with you then. If you are busy, you should get to that."
 #     r ""
 
-# translate schinese Rahim_Report_Yarn_Quest_01_4fc4a08c:
+# translate schinese Rahim_Report_Yarn_Quest_01_2f925843:
 
-#     # "There's no reason for you to stick around here, so… you leave."
+#     # "There's no reason for you to stick around here, so... you leave."
 #     ""
 
 translate schinese Rahim_Letter_Furkan_a6c14195:
