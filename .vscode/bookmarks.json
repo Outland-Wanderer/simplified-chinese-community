@@ -1,0 +1,669 @@
+{
+	"files": [
+		{
+			"path": "schinese/main_scene01.rpy",
+			"bookmarks": [
+				{
+					"line": 0,
+					"column": 0,
+					"label": "scene_masturbation"
+				},
+				{
+					"line": 253,
+					"column": 27,
+					"label": "Scene_Sebas_Under_Counter"
+				},
+				{
+					"line": 743,
+					"column": 46,
+					"label": "Scene_Goat_Lose"
+				},
+				{
+					"line": 1083,
+					"column": 45,
+					"label": "Scene_Goat_Win"
+				},
+				{
+					"line": 1418,
+					"column": 50,
+					"label": "scene_buggbear_lose"
+				},
+				{
+					"line": 1818,
+					"column": 51,
+					"label": "Scene_Tavern_Meet_01"
+				},
+				{
+					"line": 2548,
+					"column": 51,
+					"label": "Scene_Tavern_Meet_02"
+				},
+				{
+					"line": 3568,
+					"column": 51,
+					"label": "Scene_Tavern_Meet_03"
+				},
+				{
+					"line": 4298,
+					"column": 49,
+					"label": "scene_buggbear_win"
+				}
+			]
+		},
+		{
+			"path": "schinese/main_lusterfield02.rpy",
+			"bookmarks": [
+				{
+					"line": 0,
+					"column": 0,
+					"label": "Cane_Bet_Dialogue"
+				},
+				{
+					"line": 25,
+					"column": 3,
+					"label": "Cane_Dialogue"
+				},
+				{
+					"line": 135,
+					"column": 27,
+					"label": "Cane_Normal_Talk"
+				},
+				{
+					"line": 174,
+					"column": 33,
+					"label": "Cane_Beer_Task_Begin"
+				},
+				{
+					"line": 354,
+					"column": 38,
+					"label": "Cane_Beer_Task_Report"
+				},
+				{
+					"line": 534,
+					"column": 30,
+					"label": "Cane_Favour_For_Ya"
+				},
+				{
+					"line": 694,
+					"column": 43,
+					"label": "Cane_Favour_For_Ya_Sex"
+				},
+				{
+					"line": 3764,
+					"column": 40,
+					"label": "Cane_Ask_Goat_Tribe"
+				},
+				{
+					"line": 3829,
+					"column": 33,
+					"label": "Cane_Work"
+				},
+				{
+					"line": 3944,
+					"column": 25,
+					"label": "Cane_Order"
+				},
+				{
+					"line": 4035,
+					"column": 32,
+					"label": "Cane_Event_Patron_Show"
+				},
+				{
+					"line": 4190,
+					"column": 42,
+					"label": "Cane_Private_Show_Quest_Accept"
+				},
+				{
+					"line": 4280,
+					"column": 47,
+					"label": "Cane_Private_Show_Quest_Finish"
+				},
+				{
+					"line": 4305,
+					"column": 35,
+					"label": "Cane_Private_Show"
+				},
+				{
+					"line": 4530,
+					"column": 34,
+					"label": "Cane_Ask_Lusterfield"
+				},
+				{
+					"line": 4685,
+					"column": 30,
+					"label": "Cane_Ask_Tavern"
+				},
+				{
+					"line": 4735,
+					"column": 30,
+					"label": "Cane_Ask_Himself"
+				},
+				{
+					"line": 4765,
+					"column": 30,
+					"label": "Cane_Dialogue_End"
+				},
+				{
+					"line": 4775,
+					"column": 28,
+					"label": "Cane_First"
+				},
+				{
+					"line": 4965,
+					"column": 27,
+					"label": "Cane_Second"
+				},
+				{
+					"line": 5025,
+					"column": 26,
+					"label": "Cane_Apron_Quest"
+				},
+				{
+					"line": 5339,
+					"column": 33,
+					"label": "Cane_Sebas_Tavern_Night"
+				},
+				{
+					"line": 5714,
+					"column": 36,
+					"label": "Cane_Apron_Quest_End"
+				},
+				{
+					"line": 5951,
+					"column": 28,
+					"label": "Cane_SoWrong"
+				},
+				{
+					"line": 5977,
+					"column": 27,
+					"label": "Cane_Wrong"
+				},
+				{
+					"line": 6062,
+					"column": 33,
+					"label": "Cane_Correct"
+				},
+				{
+					"line": 6108,
+					"column": 36,
+					"label": "Cane_GotTheMoney"
+				},
+				{
+					"line": 6223,
+					"column": 31,
+					"label": "Cane_NoMoney"
+				},
+				{
+					"line": 6281,
+					"column": 24,
+					"label": "Cane_Outfit_02"
+				},
+				{
+					"line": 6446,
+					"column": 41,
+					"label": "Cane_Outfit_03"
+				},
+				{
+					"line": 6516,
+					"column": 36,
+					"label": "Cane_Outfit_01"
+				},
+				{
+					"line": 6561,
+					"column": 31,
+					"label": "Cane_Serve_Later"
+				},
+				{
+					"line": 6706,
+					"column": 33,
+					"label": "Cane_Serve_First"
+				},
+				{
+					"line": 7002,
+					"column": 34,
+					"label": "Scene_Nocturnal_Serve"
+				},
+				{
+					"line": 7338,
+					"column": 30,
+					"label": "Cane_NoMoney_No"
+				}
+			]
+		},
+		{
+			"path": "schinese/main_lusterfield01.rpy",
+			"bookmarks": [
+				{
+					"line": 0,
+					"column": 0,
+					"label": "main_bedroom"
+				},
+				{
+					"line": 29,
+					"column": 8,
+					"label": "bedroom_sleep"
+				},
+				{
+					"line": 40,
+					"column": 22,
+					"label": "bedroom_rest"
+				},
+				{
+					"line": 51,
+					"column": 23,
+					"label": "main_lusterfield02"
+				},
+				{
+					"line": 66,
+					"column": 24,
+					"label": "Sebas_dialogue"
+				},
+				{
+					"line": 232,
+					"column": 19,
+					"label": "Sebas_Drunk_Talk"
+				},
+				{
+					"line": 248,
+					"column": 24,
+					"label": "Sebas_Normal_Talk"
+				},
+				{
+					"line": 293,
+					"column": 31,
+					"label": "Sebas_Normal_Talk"
+				},
+				{
+					"line": 353,
+					"column": 30,
+					"label": ""
+				},
+				{
+					"line": 456,
+					"column": 28,
+					"label": ""
+				},
+				{
+					"line": 486,
+					"column": 32,
+					"label": ""
+				},
+				{
+					"line": 616,
+					"column": 30,
+					"label": ""
+				},
+				{
+					"line": 656,
+					"column": 30,
+					"label": ""
+				},
+				{
+					"line": 831,
+					"column": 33,
+					"label": ""
+				},
+				{
+					"line": 876,
+					"column": 34,
+					"label": ""
+				},
+				{
+					"line": 1046,
+					"column": 26,
+					"label": ""
+				},
+				{
+					"line": 1051,
+					"column": 30,
+					"label": ""
+				},
+				{
+					"line": 1171,
+					"column": 35,
+					"label": ""
+				},
+				{
+					"line": 1187,
+					"column": 26,
+					"label": ""
+				},
+				{
+					"line": 1227,
+					"column": 28,
+					"label": ""
+				},
+				{
+					"line": 1287,
+					"column": 29,
+					"label": ""
+				},
+				{
+					"line": 1501,
+					"column": 26,
+					"label": ""
+				},
+				{
+					"line": 1661,
+					"column": 31,
+					"label": ""
+				},
+				{
+					"line": 1752,
+					"column": 25,
+					"label": ""
+				},
+				{
+					"line": 1932,
+					"column": 30,
+					"label": ""
+				},
+				{
+					"line": 2042,
+					"column": 35,
+					"label": ""
+				},
+				{
+					"line": 2538,
+					"column": 35,
+					"label": ""
+				},
+				{
+					"line": 2958,
+					"column": 40,
+					"label": ""
+				},
+				{
+					"line": 3023,
+					"column": 23,
+					"label": ""
+				},
+				{
+					"line": 3058,
+					"column": 32,
+					"label": ""
+				},
+				{
+					"line": 3129,
+					"column": 26,
+					"label": ""
+				},
+				{
+					"line": 3339,
+					"column": 29,
+					"label": ""
+				},
+				{
+					"line": 3349,
+					"column": 31,
+					"label": "Ole_dialogue"
+				},
+				{
+					"line": 3515,
+					"column": 27,
+					"label": "Ole_Normal_Talk"
+				},
+				{
+					"line": 3558,
+					"column": 32,
+					"label": "Ole_Ask_Lusterfield"
+				},
+				{
+					"line": 3568,
+					"column": 31,
+					"label": "Ole_Potion_Task_Start"
+				},
+				{
+					"line": 3843,
+					"column": 21,
+					"label": "Ole_Potion_Task_Finish"
+				},
+				{
+					"line": 4113,
+					"column": 28,
+					"label": "Ole_Report_Courier_Quest"
+				},
+				{
+					"line": 4193,
+					"column": 31,
+					"label": "Ole_Ask_Courier_Quest"
+				},
+				{
+					"line": 4308,
+					"column": 34,
+					"label": "Ole_Party_Begin"
+				},
+				{
+					"line": 4478,
+					"column": 36,
+					"label": "Ole_Party_Quest"
+				},
+				{
+					"line": 4593,
+					"column": 41,
+					"label": "Ole_Ask_Ointment_Quest"
+				},
+				{
+					"line": 4678,
+					"column": 31,
+					"label": "Ole_Ask_Cleaning"
+				},
+				{
+					"line": 4928,
+					"column": 40,
+					"label": "Ole_Ask_Under_Counter"
+				},
+				{
+					"line": 5023,
+					"column": 34,
+					"label": "Ole_Ask_Goat_Tribe"
+				},
+				{
+					"line": 5088,
+					"column": 27,
+					"label": "Ole_Apron_Quest"
+				},
+				{
+					"line": 5369,
+					"column": 29,
+					"label": "Ole_Sick_Quest"
+				},
+				{
+					"line": 7161,
+					"column": 27,
+					"label": "Ole_Ask_Himself"
+				},
+				{
+					"line": 7281,
+					"column": 34,
+					"label": "Ole_Dialogue_End"
+				},
+				{
+					"line": 7286,
+					"column": 31,
+					"label": "Rahim_Dialogue"
+				},
+				{
+					"line": 7459,
+					"column": 25,
+					"label": "Rahim_Normal_Talk"
+				},
+				{
+					"line": 10316,
+					"column": 37,
+					"label": ""
+				},
+				{
+					"line": 11281,
+					"column": 31,
+					"label": ""
+				},
+				{
+					"line": 11386,
+					"column": 22,
+					"label": ""
+				},
+				{
+					"line": 11486,
+					"column": 37,
+					"label": ""
+				},
+				{
+					"line": 11566,
+					"column": 37,
+					"label": ""
+				},
+				{
+					"line": 11626,
+					"column": 35,
+					"label": ""
+				},
+				{
+					"line": 11777,
+					"column": 31,
+					"label": ""
+				},
+				{
+					"line": 11817,
+					"column": 33,
+					"label": ""
+				},
+				{
+					"line": 11852,
+					"column": 37,
+					"label": ""
+				},
+				{
+					"line": 12504,
+					"column": 28,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "schinese/main_haskellhut.rpy",
+			"bookmarks": [
+				{
+					"line": 0,
+					"column": 27,
+					"label": "Haskell_Dialogues"
+				},
+				{
+					"line": 35,
+					"column": 25,
+					"label": "Haskell_Normal_Talk"
+				},
+				{
+					"line": 40,
+					"column": 30,
+					"label": "Haskell_Ask_Clients"
+				},
+				{
+					"line": 50,
+					"column": 35,
+					"label": "Haskell_Ask_Gwyddyon"
+				},
+				{
+					"line": 120,
+					"column": 41,
+					"label": "Haskell_Report_Wuldon_Curse"
+				},
+				{
+					"line": 515,
+					"column": 40,
+					"label": "Haskell_Buggbear_Wait"
+				},
+				{
+					"line": 800,
+					"column": 38,
+					"label": "Haskell_Buggbear_Quest"
+				},
+				{
+					"line": 950,
+					"column": 41,
+					"label": "Haskell_Outfit_03"
+				},
+				{
+					"line": 1070,
+					"column": 41,
+					"label": "Haskell_Ask_Lusterfield"
+				},
+				{
+					"line": 1160,
+					"column": 39,
+					"label": "Haskell_Potion_Order_Finish"
+				},
+				{
+					"line": 1215,
+					"column": 35,
+					"label": "Haskell_Potion_Order"
+				},
+				{
+					"line": 1495,
+					"column": 36,
+					"label": "Haskell_Ask_Goat_Tribe"
+				},
+				{
+					"line": 1610,
+					"column": 40,
+					"label": "Haskell_Ask_Other_Business"
+				},
+				{
+					"line": 1640,
+					"column": 31,
+					"label": "Haskell_Ask_Apothecary"
+				},
+				{
+					"line": 1720,
+					"column": 31,
+					"label": "Haskell_How_Doing"
+				},
+				{
+					"line": 1815,
+					"column": 39,
+					"label": "Haskell_Dialogues_End"
+				},
+				{
+					"line": 1825,
+					"column": 35,
+					"label": "Haskell_Meet_Hut"
+				},
+				{
+					"line": 2390,
+					"column": 34,
+					"label": "Haskell_First_Meet"
+				},
+				{
+					"line": 2858,
+					"column": 42,
+					"label": "Haskell_Minotaur_Dungeon"
+				},
+				{
+					"line": 3068,
+					"column": 35,
+					"label": "Haskell_Sick_Quest"
+				},
+				{
+					"line": 3158,
+					"column": 35,
+					"label": "Haskell_Report_Minotaur_Dungeon"
+				},
+				{
+					"line": 3263,
+					"column": 39,
+					"label": "Haskell_After_Sick_Quest"
+				},
+				{
+					"line": 3318,
+					"column": 37,
+					"label": "Haskell_Trinket_Quest"
+				},
+				{
+					"line": 3628,
+					"column": 31,
+					"label": "Haskell_Report_Trinket_Quest"
+				}
+			]
+		}
+	]
+}
