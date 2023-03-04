@@ -469,6 +469,46 @@
 					"label": "Ole_Sick_Quest"
 				},
 				{
+					"line": 5474,
+					"column": 28,
+					"label": "Ole_Sick_Quest_End"
+				},
+				{
+					"line": 6589,
+					"column": 35,
+					"label": "Ole_After_Sick_Quest"
+				},
+				{
+					"line": 6654,
+					"column": 32,
+					"label": "Ole_Ointment_Finish"
+				},
+				{
+					"line": 6789,
+					"column": 31,
+					"label": "Ole_Postal_Finish"
+				},
+				{
+					"line": 6879,
+					"column": 28,
+					"label": "Ole_Ask_Kingspawn"
+				},
+				{
+					"line": 6935,
+					"column": 31,
+					"label": "Ole_Postal_Training"
+				},
+				{
+					"line": 7015,
+					"column": 39,
+					"label": "Ole_Ask_Lusterfield_People"
+				},
+				{
+					"line": 7090,
+					"column": 39,
+					"label": "Ole_Ask_Lusterfield_Lothar"
+				},
+				{
 					"line": 7161,
 					"column": 27,
 					"label": "Ole_Ask_Himself"
@@ -629,39 +669,204 @@
 					"label": "Haskell_Meet_Hut"
 				},
 				{
-					"line": 2390,
+					"line": 2391,
 					"column": 34,
 					"label": "Haskell_First_Meet"
 				},
 				{
-					"line": 2858,
+					"line": 2867,
 					"column": 42,
 					"label": "Haskell_Minotaur_Dungeon"
 				},
 				{
-					"line": 3068,
+					"line": 3077,
 					"column": 35,
 					"label": "Haskell_Sick_Quest"
 				},
 				{
-					"line": 3158,
+					"line": 3167,
 					"column": 35,
 					"label": "Haskell_Report_Minotaur_Dungeon"
 				},
 				{
-					"line": 3263,
+					"line": 3272,
 					"column": 39,
 					"label": "Haskell_After_Sick_Quest"
 				},
 				{
-					"line": 3318,
+					"line": 3327,
 					"column": 37,
 					"label": "Haskell_Trinket_Quest"
 				},
 				{
-					"line": 3628,
+					"line": 3637,
 					"column": 31,
 					"label": "Haskell_Report_Trinket_Quest"
+				}
+			]
+		},
+		{
+			"path": "schinese/main_forest_01.rpy",
+			"bookmarks": [
+				{
+					"line": 0,
+					"column": 20,
+					"label": "main_woodland_outpost"
+				},
+				{
+					"line": 85,
+					"column": 32,
+					"label": "ancient_tree_chop"
+				},
+				{
+					"line": 100,
+					"column": 33,
+					"label": "sparkling_lagoon_drink"
+				},
+				{
+					"line": 157,
+					"column": 35,
+					"label": "green_forest_loop"
+				},
+				{
+					"line": 237,
+					"column": 34,
+					"label": "summery_farmland_loop"
+				},
+				{
+					"line": 298,
+					"column": 25,
+					"label": "ancient_tree_loop"
+				},
+				{
+					"line": 383,
+					"column": 26,
+					"label": "sparkling_lagoon_loop"
+				},
+				{
+					"line": 453,
+					"column": 27,
+					"label": "mossy_freshwater_loop"
+				},
+				{
+					"line": 633,
+					"column": 28,
+					"label": "woodland_outpost_loop"
+				},
+				{
+					"line": 928,
+					"column": 28,
+					"label": "damp_cave_loop"
+				},
+				{
+					"line": 953,
+					"column": 27,
+					"label": "alchemists_cabin_loop"
+				},
+				{
+					"line": 1018,
+					"column": 30,
+					"label": "scene_slime_sex"
+				}
+			]
+		},
+		{
+			"path": "schinese/battle.rpy",
+			"bookmarks": [
+				{
+					"line": 6,
+					"column": 41,
+					"label": "slime_battle"
+				},
+				{
+					"line": 101,
+					"column": 21,
+					"label": "slime_win"
+				},
+				{
+					"line": 131,
+					"column": 28,
+					"label": "slime_lose"
+				},
+				{
+					"line": 169,
+					"column": 27,
+					"label": "dummy_battle"
+				},
+				{
+					"line": 249,
+					"column": 27,
+					"label": "dummy_win"
+				},
+				{
+					"line": 274,
+					"column": 16,
+					"label": "dummy_lose"
+				},
+				{
+					"line": 285,
+					"column": 25,
+					"label": "goat_battle"
+				},
+				{
+					"line": 295,
+					"column": 34,
+					"label": "goat_battle_loop"
+				},
+				{
+					"line": 625,
+					"column": 26,
+					"label": "goat_win"
+				},
+				{
+					"line": 716,
+					"column": 27,
+					"label": "goat_lose"
+				},
+				{
+					"line": 762,
+					"column": 26,
+					"label": "buggbear_battle"
+				},
+				{
+					"line": 767,
+					"column": 31,
+					"label": "buggbear_battle_loop"
+				},
+				{
+					"line": 947,
+					"column": 33,
+					"label": "buggbear_sedated"
+				},
+				{
+					"line": 1043,
+					"column": 29,
+					"label": "buggbear_win2"
+				},
+				{
+					"line": 1068,
+					"column": 30,
+					"label": "buggbear_lose"
+				},
+				{
+					"line": 1099,
+					"column": 24,
+					"label": "mossgolem_battle"
+				},
+				{
+					"line": 1119,
+					"column": 33,
+					"label": "mossgolem_battle_loop"
+				},
+				{
+					"line": 1314,
+					"column": 31,
+					"label": "mossgolem_lose"
+				},
+				{
+					"line": 1400,
+					"column": 30,
+					"label": "mossgolem_win"
 				}
 			]
 		}

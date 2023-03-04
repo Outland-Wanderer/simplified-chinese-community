@@ -131,8 +131,8 @@ translate schinese ancient_tree_chop_a229b0ad:
 translate schinese sparkling_lagoon_drink_484eb984:
 
     # "You drink from the lagoon with your bucket, the refreshing power of the water recovered a portion of your HP and MP."
-    "你用小木桶打了些湖水喝下，沁人心脾的湖水让你感觉焕然一新。"
     $ renpy.notify("已恢复部分体力和魔力")
+    "你用小木桶打了些湖水喝下，沁人心脾的湖水让你感觉焕然一新。"
 
 translate schinese sparkling_lagoon_drink_1778dec4:
 
@@ -951,70 +951,70 @@ translate schinese damp_cave_loop_e91ba75d_4:
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     "你找了又找，但周围似乎没有什么值得关注的东西了。"
 
-# translate schinese alchemists_cabin_loop_edc03792:
+translate schinese alchemists_cabin_loop_edc03792:
 
-#     # "Around the cabin, you wander and pick up a certain plant from the garden, it was a Hemp."
-#     ""
+    # "Around the cabin, you wander and pick up a certain plant from the garden, it was a Hemp."
+    "你绕着小屋周围探索，从花园中折下了一株大麻。"
 
-# translate schinese alchemists_cabin_loop_c27b0ffa:
+translate schinese alchemists_cabin_loop_c27b0ffa:
 
-#     # "You put the hemp in your bag, you now have [item_number] hemp."
-#     ""
+    # "You put the hemp in your bag, you now have [item_number] hemp."
+    "你将大麻放进背包，现在你持有 [item_number] 把大麻。"
 
-# translate schinese alchemists_cabin_loop_51ad78bd:
+translate schinese alchemists_cabin_loop_51ad78bd:
 
-#     # "You put the hemp in your bag, you now have [item_number] hemps."
-#     ""
+    # "You put the hemp in your bag, you now have [item_number] hemps."
+    "你将大麻放进背包，现在你持有 [item_number] 把大麻。"
 
-# translate schinese alchemists_cabin_loop_13893b58:
+translate schinese alchemists_cabin_loop_13893b58:
 
-#     # "Around the cabin, you wander and pick up a certain plant from the garden, it was a Herb of Grace."
-#     ""
+    # "Around the cabin, you wander and pick up a certain plant from the garden, it was a Herb of Grace."
+    "你绕着小屋周围探索，从花园中拔起了一株芸香。"
 
-# translate schinese alchemists_cabin_loop_06c240e9:
+translate schinese alchemists_cabin_loop_06c240e9:
 
-#     # "You put the herb of grace in your bag, you now have [item_number] herb of grace."
-#     ""
+    # "You put the herb of grace in your bag, you now have [item_number] herb of grace."
+    "你将芸香放进背包，现在你持有 [item_number] 把芸香。"
 
-# translate schinese alchemists_cabin_loop_06c240e9_1:
+translate schinese alchemists_cabin_loop_06c240e9_1:
 
-#     # "You put the herb of grace in your bag, you now have [item_number] herb of grace."
-#     ""
+    # "You put the herb of grace in your bag, you now have [item_number] herb of grace."
+    "你将芸香放进背包，现在你持有 [item_number] 把芸香。"
 
 translate schinese alchemists_cabin_loop_e91ba75d:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     "你找了又找，但周围似乎没有什么值得关注的东西了。"
 
-# translate schinese alchemists_cabin_loop_07d928ef:
+translate schinese alchemists_cabin_loop_07d928ef:
 
-#     # "Around the cabin, you wander and pick up a certain plant, it was a Rosemary."
-#     ""
+    # "Around the cabin, you wander and pick up a certain plant, it was a Rosemary."
+    "你绕着小屋周围探索，从花园中折下了一枝玫瑰。"
 
-# translate schinese alchemists_cabin_loop_aef11256:
+translate schinese alchemists_cabin_loop_aef11256:
 
-#     # "You put the Rosemary in your bag, you now have [item_number] Rosemary."
-#     ""
+    # "You put the Rosemary in your bag, you now have [item_number] Rosemary."
+    "你将玫瑰放进背包，现在你持有 [item_number] 枝玫瑰。"
 
-# translate schinese alchemists_cabin_loop_5622ab4d:
+translate schinese alchemists_cabin_loop_5622ab4d:
 
-#     # "You put the Rosemary in your bag, you now have [item_number] Rosemarys."
-#     ""
+    # "You put the Rosemary in your bag, you now have [item_number] Rosemarys."
+    "你将玫瑰放进背包，现在你持有 [item_number] 枝玫瑰。"
 
-# translate schinese alchemists_cabin_loop_2fba35cf:
+translate schinese alchemists_cabin_loop_2fba35cf:
 
-#     # "Around the cabin, you wander and notice a small bump on the ground, you dig it up.. and it is a piece of ginger."
-#     ""
+    # "Around the cabin, you wander and notice a small bump on the ground, you dig it up.. and it is a piece of ginger."
+    "你绕着小屋周围探索，地上有个小突起引起了你的注意。你蹲下将它挖了出来……原来是块生姜。"
 
-# translate schinese alchemists_cabin_loop_65e95ca8:
+translate schinese alchemists_cabin_loop_65e95ca8:
 
-#     # "You put the ginger in your bag, you now have [item_number] ginger."
-#     ""
+    # "You put the ginger in your bag, you now have [item_number] ginger."
+    "你将生姜放进背包，现在你持有 [item_number] 块生姜。"
 
-# translate schinese alchemists_cabin_loop_c45c6227:
+translate schinese alchemists_cabin_loop_c45c6227:
 
-#     # "You put the ginger in your bag, you now have [item_number] gingers."
-#     ""
+    # "You put the ginger in your bag, you now have [item_number] gingers."
+    "你将生姜放进背包，现在你持有 [item_number] 块生姜。"
 
 translate schinese scene_slime_sex_7652cf4c:
 
@@ -1029,8 +1029,8 @@ translate schinese scene_slime_sex_a1d58699:
 translate schinese scene_slime_sex_1b9337db:
 
     # "Instead, the slime slithers towards you. You can sense its presence gets closer and closer every second, until it makes contact with your fur."
-    "史莱姆滑过青草朝你缓缓蠕动，离你越来越近，直至挨上你的毛发。"
     $ renpy.notify("该场景文本未与画面同步更新")
+    "史莱姆滑过青草朝你缓缓蠕动，离你越来越近，直至挨上你的毛发。"
 
 translate schinese scene_slime_sex_162528bb:
 
