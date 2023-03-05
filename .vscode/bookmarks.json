@@ -271,127 +271,127 @@
 				{
 					"line": 293,
 					"column": 31,
-					"label": "Sebas_Normal_Talk"
+					"label": "Sebas_After_Cane_Tavern_Night"
 				},
 				{
 					"line": 353,
 					"column": 30,
-					"label": ""
+					"label": "Sebas_Drunk_Bet_Cane"
 				},
 				{
 					"line": 456,
 					"column": 28,
-					"label": ""
+					"label": "Sebas_Drunk_End"
 				},
 				{
 					"line": 486,
 					"column": 32,
-					"label": ""
+					"label": "Sebas_Drunk_How_Doing"
 				},
 				{
 					"line": 616,
 					"column": 30,
-					"label": ""
+					"label": "Sebas_Ask_Under_Counter"
 				},
 				{
 					"line": 656,
 					"column": 30,
-					"label": ""
+					"label": "Sebas_Ole_Outfit_03"
 				},
 				{
 					"line": 831,
 					"column": 33,
-					"label": ""
+					"label": "Sebas_Ole_Outfit_01"
 				},
 				{
 					"line": 876,
 					"column": 34,
-					"label": ""
+					"label": "Sebas_Ole_Outfit_02"
 				},
 				{
 					"line": 1046,
 					"column": 26,
-					"label": ""
+					"label": "Sebas_Shopping"
 				},
 				{
 					"line": 1051,
 					"column": 30,
-					"label": ""
+					"label": "Sebas_Shopping_Loop"
 				},
 				{
 					"line": 1171,
 					"column": 35,
-					"label": ""
+					"label": "Sebas_Ask_Lusterfield"
 				},
 				{
 					"line": 1187,
 					"column": 26,
-					"label": ""
+					"label": "Sebas_After_Sick_Quest"
 				},
 				{
 					"line": 1227,
 					"column": 28,
-					"label": ""
+					"label": "Sebas_Ask_Goat_Tribe"
 				},
 				{
 					"line": 1287,
 					"column": 29,
-					"label": ""
+					"label": "Sebas_Under_Counter"
 				},
 				{
 					"line": 1501,
 					"column": 26,
-					"label": ""
+					"label": "Sebas_Postal_Report"
 				},
 				{
 					"line": 1661,
 					"column": 31,
-					"label": ""
+					"label": "Sebas_Postal_Training"
 				},
 				{
 					"line": 1752,
 					"column": 25,
-					"label": ""
+					"label": "Sebas_Expedition"
 				},
 				{
 					"line": 1932,
 					"column": 30,
-					"label": ""
+					"label": "Sebas_Ask_Lusterfield_People"
 				},
 				{
 					"line": 2042,
 					"column": 35,
-					"label": ""
+					"label": "Sebas_Lothar_Adventure"
 				},
 				{
 					"line": 2538,
 					"column": 35,
-					"label": ""
+					"label": "Sebas_Lothar_Adventure_End"
 				},
 				{
 					"line": 2958,
 					"column": 40,
-					"label": ""
+					"label": "Sebas_Ask_Lusterfield_Lothar"
 				},
 				{
 					"line": 3023,
 					"column": 23,
-					"label": ""
+					"label": "Sebas_Ask_Himself"
 				},
 				{
 					"line": 3058,
 					"column": 32,
-					"label": ""
+					"label": "Sebas_Ask_Kingspawn"
 				},
 				{
 					"line": 3129,
 					"column": 26,
-					"label": ""
+					"label": "Sebas_Ask_Transport_Task"
 				},
 				{
 					"line": 3339,
 					"column": 29,
-					"label": ""
+					"label": "Sebas_Dialogue_End"
 				},
 				{
 					"line": 3349,
@@ -584,122 +584,122 @@
 			"path": "schinese/main_haskellhut.rpy",
 			"bookmarks": [
 				{
-					"line": 0,
+					"line": 11,
 					"column": 27,
 					"label": "Haskell_Dialogues"
 				},
 				{
-					"line": 35,
+					"line": 46,
 					"column": 25,
 					"label": "Haskell_Normal_Talk"
 				},
 				{
-					"line": 40,
+					"line": 89,
 					"column": 30,
 					"label": "Haskell_Ask_Clients"
 				},
 				{
-					"line": 50,
+					"line": 116,
 					"column": 35,
 					"label": "Haskell_Ask_Gwyddyon"
 				},
 				{
-					"line": 120,
+					"line": 186,
 					"column": 41,
 					"label": "Haskell_Report_Wuldon_Curse"
 				},
 				{
-					"line": 515,
+					"line": 581,
 					"column": 40,
 					"label": "Haskell_Buggbear_Wait"
 				},
 				{
-					"line": 800,
+					"line": 866,
 					"column": 38,
 					"label": "Haskell_Buggbear_Quest"
 				},
 				{
-					"line": 950,
+					"line": 1016,
 					"column": 41,
 					"label": "Haskell_Outfit_03"
 				},
 				{
-					"line": 1070,
+					"line": 1136,
 					"column": 41,
 					"label": "Haskell_Ask_Lusterfield"
 				},
 				{
-					"line": 1160,
+					"line": 1226,
 					"column": 39,
 					"label": "Haskell_Potion_Order_Finish"
 				},
 				{
-					"line": 1215,
+					"line": 1281,
 					"column": 35,
 					"label": "Haskell_Potion_Order"
 				},
 				{
-					"line": 1495,
+					"line": 1561,
 					"column": 36,
 					"label": "Haskell_Ask_Goat_Tribe"
 				},
 				{
-					"line": 1610,
+					"line": 1676,
 					"column": 40,
 					"label": "Haskell_Ask_Other_Business"
 				},
 				{
-					"line": 1640,
+					"line": 1706,
 					"column": 31,
 					"label": "Haskell_Ask_Apothecary"
 				},
 				{
-					"line": 1720,
+					"line": 1786,
 					"column": 31,
 					"label": "Haskell_How_Doing"
 				},
 				{
-					"line": 1815,
+					"line": 1881,
 					"column": 39,
 					"label": "Haskell_Dialogues_End"
 				},
 				{
-					"line": 1825,
+					"line": 1891,
 					"column": 35,
 					"label": "Haskell_Meet_Hut"
 				},
 				{
-					"line": 2391,
+					"line": 2457,
 					"column": 34,
 					"label": "Haskell_First_Meet"
 				},
 				{
-					"line": 2867,
+					"line": 2933,
 					"column": 42,
 					"label": "Haskell_Minotaur_Dungeon"
 				},
 				{
-					"line": 3077,
+					"line": 3143,
 					"column": 35,
 					"label": "Haskell_Sick_Quest"
 				},
 				{
-					"line": 3167,
+					"line": 3233,
 					"column": 35,
 					"label": "Haskell_Report_Minotaur_Dungeon"
 				},
 				{
-					"line": 3272,
+					"line": 3338,
 					"column": 39,
 					"label": "Haskell_After_Sick_Quest"
 				},
 				{
-					"line": 3327,
+					"line": 3393,
 					"column": 37,
 					"label": "Haskell_Trinket_Quest"
 				},
 				{
-					"line": 3637,
+					"line": 3703,
 					"column": 31,
 					"label": "Haskell_Report_Trinket_Quest"
 				}

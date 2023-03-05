@@ -4,8 +4,6 @@ translate schinese style button_text2:
 translate schinese style enemy_text2:
     font "LXGWWenKaiLite-Bold.ttf"
 
-#史莱姆
-
 translate schinese slime_battle_ffc0301b:
 
     # "You are facing a green slime, it is slowly slithering at you. You raise your fists, ready to strike at the gelatinous mass."
@@ -101,8 +99,6 @@ translate schinese slime_battle_loop_c030a39e:
     # "The slime slithers towards you and traps you within its body. You struggle for a few seconds before getting out of the slime. Your health decreases by [enemy_damage] HP."
     "史莱姆向你冲过来，缠住了你的身体，你费老大劲才把它甩了出去。你失去了 [enemy_damage] 点体力。"
 
-#战胜史莱姆
-
 translate schinese slime_win_2e14fb9c:
 
     # "You pull your arm away from the slime as you punch it for the last time. The slime slowly ceases all motion as it melts into the grass, forming a pond of green mass."
@@ -132,8 +128,6 @@ translate schinese slime_win_91f1d522:
 
     # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
     msg "你的等级已升至 [pc.level] 级！请进入背包界面分配新增属性点。"
-
-#战败史莱姆
 
 translate schinese slime_lose_896f5cf6:
 
@@ -172,8 +166,6 @@ translate schinese slime_lose_a0930d76:
 
     # "You lost [lost_gold] Gold."
     "你失去了 [lost_gold] 金币。"
-
-#人偶
 
 translate schinese dummy_battle_0d373686:
 
@@ -255,8 +247,6 @@ translate schinese dummy_battle_loop_4da3d7f0:
     # "You get closer to let the dummy slap you on the side. Your health decreases by [enemy_damage] HP."
     "人偶找准你靠近他的时机，拍了你一巴掌。你失去了 [enemy_damage] 点体力。"
 
-#战胜人偶
-
 translate schinese dummy_win_b0ed8c92:
 
     # "When you finish your last strike on the dummy, it crosses its arm, signaling its defeat."
@@ -282,19 +272,16 @@ translate schinese dummy_win_91f1d522:
     # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
     msg "你的等级已升至 [pc.level] 级！请进入背包界面分配新增属性点。"
 
-#战败人偶
-
 translate schinese dummy_lose_5c5fd169:
 
     # "Your health reaches 0, you are exhausted to the point of collapsing on the grass floor. The world slowly fades away along with the motionless dummy."
-    "你体力已空，累倒在草地上。"
+    "你体力已空，累倒在草地上。你注视着眼前一动不动的人偶，慢慢昏了过去，"
 
 translate schinese dummy_lose_c4214a99:
 
     # "When you wake up, you check your pockets and find nothing missing. You see the dummy still mounted in the alleyway. It's waving at you, probably scoffing at someone who lost to a dummy."
-    "你醒来后检查了一遍背包和口袋，发现什么也没少。你看向巷子里的人偶桩，他正朝你招手，似乎在嘲笑你竟然能输给一个人偶。"
-
-#山羊猎人
+    "醒来后，你检查了一遍背包和口袋，发现什么也没少。"
+    "你看向巷子里的人偶桩，他正朝你招手，似乎在嘲笑你竟然能输给一个人偶。"
 
 translate schinese goat_battle_790cd1c4:
 
@@ -773,8 +760,6 @@ translate schinese goat_lose_e0fc99da:
     # "You wake up a few hours later, your body still sore. The huntsman is nowhere to be found, vanishing along with some of your gold. You lost [lost_gold] Gold."
     "几个小时后，你醒过来，身体依然酸痛。山羊猎人早已不见踪影，连同你的一些金币。你仔细清点，发现自己丢了 [lost_gold] 块钱。"
 
-#熊地精
-
 translate schinese buggbear_battle_393e2992:
 
     # "You are facing a wild buggbear. He looks at you with rage-filled eyes, a clear desire to smash your head in with his mace painted on his face."
@@ -920,10 +905,10 @@ translate schinese buggbear_battle_loop_4af42606:
     # "You slowly back down from the buggbear's attack, you turn around and run as fast as you can. The beast tries to outrun you but he trips and falls on the ground, You successfully escaped from the buggbear!"
     "你慢慢退出熊地精的攻击范围，转身就跑。他想要追上你，却半途被绊倒摔在了地上。逃跑成功！"
 
-# translate schinese buggbear_battle_loop_4716fc18:
+translate schinese buggbear_battle_loop_4716fc18:
 
-#     # "You cann't use the Sedative yet, the buggbear is too responsive... Perhaps you need to make him weaker, or hornier..."
-#     ""
+    # "You cann't use the Sedative yet, the buggbear is too responsive... Perhaps you need to make him weaker, or hornier..."
+    "熊地精现在反应太灵敏了，还不能朝他扔镇静剂……你得先让他更虚弱，或者更饥渴……"
 
 translate schinese buggbear_battle_loop_2f57f6fe:
 
@@ -960,90 +945,90 @@ translate schinese buggbear_battle_loop_d7196aa4:
     # "The buggbear raises his left fist and chants the tune of his tribe's warsong. It increases his attack damage by 10 for the rest of the fight."
     "熊地精举起左拳，吟唱着他部族的战歌。接下来的战斗中，他的攻击伤害均会增加 10 点。"
 
-# translate schinese buggbear_sedated_84d8db4c:
+translate schinese buggbear_sedated_84d8db4c:
 
-#     # "You throw your sedative powder right into the buggbear's face, hitting him in the nose."
-#     ""
+    # "You throw your sedative powder right into the buggbear's face, hitting him in the nose."
+    "你掏出镇静粉末朝熊地精脸上扔去，正中他的鼻子。"
 
-# translate schinese buggbear_sedated_bcbff226:
+translate schinese buggbear_sedated_bcbff226:
 
-#     # e "Take this!"
-#     e ""
+    # e "Take this!"
+    e "吃我一剂！"
 
-# translate schinese buggbear_sedated_e3ae465d:
+translate schinese buggbear_sedated_e3ae465d:
 
-#     # "The monster takes a big whiff of the powder before noticing what the substance is."
-#     ""
+    # "The monster takes a big whiff of the powder before noticing what the substance is."
+    "熊地精打了个大大的喷嚏，才发觉自己吸进了什么东西。"
 
-# translate schinese buggbear_sedated_2e89c57b:
+translate schinese buggbear_sedated_2e89c57b:
 
-#     # "Your sedative definitely worked, as he coughs violently, his limbs growing weaker."
-#     ""
+    # "Your sedative definitely worked, as he coughs violently, his limbs growing weaker."
+    "他剧烈地咳嗽着，四肢变得越来越无力。镇静剂果真有用。"
 
-# translate schinese buggbear_sedated_4454de5d:
+translate schinese buggbear_sedated_4454de5d:
 
-#     # "He staggers for a few seconds before growling back at you, and collapses in front of your weapon."
-#     ""
+    # "He staggers for a few seconds before growling back at you, and collapses in front of your weapon."
+    "巨兽跌跌撞撞的，不过再朝你走了几步，伴随着一声吼叫便倒在了你的武器之下。"
 
-# translate schinese buggbear_sedated_a20cefa7:
+translate schinese buggbear_sedated_a20cefa7:
 
-#     # "..."
-#     ""
+    # "..."
+    "……"
 
-# translate schinese buggbear_sedated_3c2ecbab:
+translate schinese buggbear_sedated_3c2ecbab:
 
-#     # "After it falls flat, you walk towards the buggbear, and poke him with your wooden stick."
-#     ""
+    # "After it falls flat, you walk towards the buggbear, and poke him with your wooden stick."
+    "待他瘫倒，你走近熊地精，随手捡起根树枝戳了戳他。"
 
-# translate schinese buggbear_sedated_745d7195:
+translate schinese buggbear_sedated_745d7195:
 
-#     # "You take a while to actually confirm that he is indeed knocked out, and begin taking out an empty bottle from your bag."
-#     ""
+    # "You take a while to actually confirm that he is indeed knocked out, and begin taking out an empty bottle from your bag."
+    "又过了一会，确定他彻底昏睡过去后，你掏出包里的空瓶。"
 
-# translate schinese buggbear_sedated_b06e8613:
+translate schinese buggbear_sedated_b06e8613:
 
-#     # e "Just... get close..."
-#     e ""
+    # e "Just... get close..."
+    e "只要再靠近一点点……一点点就好……"
 
-# translate schinese buggbear_sedated_7baafefa:
+translate schinese buggbear_sedated_7baafefa:
 
-#     # "You raise your hand over the unconscious buggbear, he is surely asleep now."
-#     ""
+    # "You raise your hand over the unconscious buggbear, he is surely asleep now."
+    "你张手按在昏迷的熊地精头上，他铁定睡着了。"
 
-# translate schinese buggbear_sedated_d291c900:
+translate schinese buggbear_sedated_d291c900:
 
-#     # "Without waking up the monster, you gently lower his chin and open his mouth."
-#     ""
+    # "Without waking up the monster, you gently lower his chin and open his mouth."
+    "为了不惊醒他，你轻轻掰开他的下巴，让他的舌头垂出来。"
 
-# translate schinese buggbear_sedated_966e7859:
+translate schinese buggbear_sedated_966e7859:
 
-#     # "His loud snore almost startled you, but you calm down and quickly scoop up the extra sticky liquid around his tongue."
-#     ""
+    # "His loud snore almost startled you, but you calm down and quickly scoop up the extra sticky liquid around his tongue."
+    "巨兽响亮的鼾声吓了你一跳，但你很快冷静下来，将瓶子迅速对准他的舌头收集滴落的唾液。"
 
-# translate schinese buggbear_sedated_a20cefa7_1:
+translate schinese buggbear_sedated_a20cefa7_1:
 
-#     # "..."
-#     ""
+    # "..."
+    "……"
 
-# translate schinese buggbear_sedated_ed06d27d:
+translate schinese buggbear_sedated_ed06d27d:
 
-#     # e "fuck..."
-#     e ""
+    # e "fuck..."
+    e "操……"
 
-# translate schinese buggbear_sedated_ae821e5b:
+translate schinese buggbear_sedated_ae821e5b:
 
-#     # "You drop the bottle and his saliva spills all over your body. Luckily the buggbear doesn't seem to take notice of your clumsiness."
-#     ""
+    # "You drop the bottle and his saliva spills all over your body. Luckily the buggbear doesn't seem to take notice of your clumsiness."
+    "拿起瓶子的时候你手一抖，瓶子掉了下来。口水溅得你满身都是。好在对方没有因你笨拙的动作而惊醒。"
 
-# translate schinese buggbear_sedated_8da24fa6:
+translate schinese buggbear_sedated_8da24fa6:
 
-#     # "In a few seconds, you abruptly scrape the rest of his saliva back into the bottle and get up from the mess."
-#     ""
+    # "In a few seconds, you abruptly scrape the rest of his saliva back into the bottle and get up from the mess."
+    "几秒钟后，你嫌弃地将身上的粘液刮到瓶内，从一片混乱中起身。"
 
-# translate schinese buggbear_sedated_8ec4a406:
+translate schinese buggbear_sedated_8ec4a406:
 
-#     # "You have collected a bottle of buggbear saliva, you now own [item_number] bottle."
-#     ""
+    # "You have collected a bottle of buggbear saliva, you now own [item_number] bottle."
+    "你成功收集了一瓶熊地精的唾液，现在你持有 [item_number] 瓶唾液。"
 
 translate schinese strings:
 
@@ -1111,8 +1096,6 @@ translate schinese buggbear_lose_a0930d76:
 
     # "You lost [lost_gold] Gold."
     "你失去了 [lost_gold] 金币。"
-
-#苔藓石魔像
 
 translate schinese mossgolem_battle_a69f0c95:
 
@@ -1329,8 +1312,6 @@ translate schinese mossgolem_battle_loop_8fd8c645:
     # "He has recovered [healing] HP."
     "他的体力回复了 [healing] 点。"
 
-#战败苔藓石魔像
-
 translate schinese mossgolem_lose_3f7e0dd5:
 
     # "The golem stares at your vulnerable state, but doesn't stop there. You realise that you are not making it out of this alive..."
@@ -1416,8 +1397,6 @@ translate schinese mossgolem_lose_e5543b2f:
 
     # msg "You died."
     msg "你死了。"
-
-#战胜苔藓石魔像
 
 translate schinese mossgolem_win_abd39c56:
 
