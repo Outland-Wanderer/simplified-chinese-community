@@ -35,8 +35,8 @@ translate schinese bedroom_sleep_6ad06346:
 translate schinese bedroom_sleep_b20d9dca:
 
     # "You wake up in the morning, feeling energized and ready for the day."
-    "你准时早起迎接新的一天，感觉浑身充满干劲。"
     $ renpy.notify("已恢复全部体力和魔力")
+    "你准时早起迎接新的一天，感觉浑身充满干劲。"
 
 translate schinese bedroom_rest_a239a84c:
 
@@ -46,8 +46,8 @@ translate schinese bedroom_rest_a239a84c:
 translate schinese bedroom_rest_cff4dfd7:
 
     # "You recovered a portion of your HP and MP."
-    pass
     $ renpy.notify("已恢复部分体力和魔力")
+    pass
 
 # translate schinese main_lusterfield02_ad070029:
 
@@ -3547,11 +3547,11 @@ translate schinese strings:
     # old "Ask about his sickness"
     # new "关心病情"
 
-    # old "Ask about his Ointment"
-    # new "报告药剂的运送情况"
+    old "Ask about his Ointment"
+    new "询问自己的第一份工作"
 
-    # old "Finish with his Strength Potion Request"
-    # new "报告力量药剂的运送情况"
+    old "Finish with his Strength Potion Request"
+    new "交付力量药剂"
 
     old "Ask about the Shop"
     new "询问当铺的事情"
@@ -4594,87 +4594,87 @@ translate schinese strings:
 translate schinese Ole_Ask_Ointment_Quest_f47af4b4:
 
     # e "Hey! Ole. I'm ready for the first... courier job!"
-    e ""
+    e "奥利，我准备好送第一单货了！"
 
 translate schinese Ole_Ask_Ointment_Quest_10988a0d:
 
     # o "Alright kiddo. Looking good with your badge here."
-    o ""
+    o "我看看，这枚徽章很适合你嘛。"
 
 translate schinese Ole_Ask_Ointment_Quest_340f6913:
 
     # e "Oh yeah! It looks really good! I certainly love the shape I have here."
-    e ""
+    e "对啊对啊！我也这么觉得！我特别喜欢徽章的形状。"
 
 translate schinese Ole_Ask_Ointment_Quest_22a27393:
 
     # o "Sure, I designed the badge with Rahim's advice. He's certainly a great mentor."
-    o ""
+    o "是吗，这是我参考了雷叔的意见设计的。大师眼光果然非同凡响。"
 
 translate schinese Ole_Ask_Ointment_Quest_51760586:
 
     # o "But back to the job, I remembered you asked about the ointment... that I gave you when we met."
-    o ""
+    o "说回正事。我记得我们第一次见面的时候……你好像问了我关于药膏的事情。"
 
 translate schinese Ole_Ask_Ointment_Quest_68df99ac:
 
     # e "Oh, yes. I was a little curious how you made it."
-    e ""
+    e "嗯嗯，我有点好奇药膏是怎么做出来的。"
 
 translate schinese Ole_Ask_Ointment_Quest_573a9302:
 
     # o "Well, let's not get ahead of ourselves here, [e]. I'll teach you how to make it after your job."
-    o ""
+    o "没问题[e]，但在此之前，我有一件事情需要你帮忙。"
 
 translate schinese Ole_Ask_Ointment_Quest_178288b9:
 
     # o "I need you to visit... a-a potion maker, if you will."
-    o ""
+    o "我想委托你去找一位……药剂师，如果你愿意的话。"
 
 translate schinese Ole_Ask_Ointment_Quest_91890a33:
 
     # e "Should I take... a memo?"
-    e ""
+    e "现在……我是不是应该把你说的记下来？"
 
 translate schinese Ole_Ask_Ointment_Quest_80d5c3d7:
 
     # o "I'll mark it... on your map. You pass the river after the giant tree, and then reach the outpost and you'll see a cabin."
-    o ""
+    o "我会把位置标记在……你的地图上。越过古树旁的小河，去到山羊部落的前哨站，从那你可以看见一座小屋，他就住在屋里。"
 
 translate schinese Ole_Ask_Ointment_Quest_a518c665:
 
     # e "Uh... Ok. What's the job about?"
-    e ""
+    e "呃……好的。那我要找他做什么呢？"
 
 translate schinese Ole_Ask_Ointment_Quest_bc467a46:
 
     # o "Just ask him for 30 strength potions. He'll know what you're talking about."
-    o ""
+    o "向他拿 30 瓶力量药水。他清楚接下来怎么办。"
 
 translate schinese Ole_Ask_Ointment_Quest_bcc97e0d:
 
     # e "O-hh... But does the potion maker know me, if I went there?"
-    e ""
+    e "噢噢……但他知道我是乐村的邮递员吗？"
 
 translate schinese Ole_Ask_Ointment_Quest_9bdc524c:
 
     # o "Yeah, Sebas told him about your badge last time he went there."
-    o ""
+    o "他知道。上回他来的时候，塞巴斯已经和他提过你的徽章了。"
 
 translate schinese Ole_Ask_Ointment_Quest_6b43982e:
 
     # o "Alright, courier, don't disappoint me with your first job."
-    o ""
+    o "那么，新任邮递员[e]，认真对待你入职的第一次工作，别让我失望。"
 
 translate schinese Ole_Ask_Ointment_Quest_1e01be55:
 
     # e "O-ok. Yes, chief."
-    e ""
+    e "是、是！保证完成任务，长官。"
 
 translate schinese Ole_Ask_Ointment_Quest_a36325ea:
 
     # "Ole chuckles at your gesture. He soon turns back to the cabinet and resume cleaning."
-    ""
+    "你端正地向奥利起誓。奥利笑了笑，转身回去继续清理货架。"
 
 # translate schinese Ole_Ask_Cleaning_acacbf7e:
 
@@ -4959,7 +4959,7 @@ translate schinese Ole_Ask_Under_Counter_72a33094:
 translate schinese Ole_Ask_Under_Counter_a2ea77ab:
 
     # o "Yeah. It's fine. It was too awkward for me once I realised you're not fixing the counter or something."
-    o "没事的，[e]。我只是在反应过来你没在柜底修柜子的时候特别尴尬。"
+    o "没事的，[e]。我只是反应过来你没在柜底修柜子的时候特别尴尬。"
 
 translate schinese Ole_Ask_Under_Counter_ad7e7276:
 
@@ -4979,7 +4979,7 @@ translate schinese Ole_Ask_Under_Counter_72a33094_1:
 translate schinese Ole_Ask_Under_Counter_829b5223:
 
     # o "Seb shouldn't be putting the shop under the risk of bad reputation. That's reserved for the nocturnal trunk."
-    o "阿塞不该让当铺承受名声败坏的风险。这是夜夜椿而不是君临典当的商业形象。"
+    o "阿塞不该让当铺承受名声败坏的风险。那种商业形象是夜夜椿的，而不是君临典当的。"
 
 translate schinese Ole_Ask_Under_Counter_9f02d661:
 
@@ -6652,140 +6652,140 @@ translate schinese Ole_Apron_Quest_ba31ebcc:
 #     # e "Me too."
 #     e ""
 
-# translate schinese Ole_Ointment_Finish_5065a4cb:
+translate schinese Ole_Ointment_Finish_5065a4cb:
 
-#     # e "Ole... I'm back from Haskell's place."
-#     e ""
+    # e "Ole... I'm back from Haskell's place."
+    e "……我从哈斯克尔那回来了。"
 
-# translate schinese Ole_Ointment_Finish_3f27eeb0:
+translate schinese Ole_Ointment_Finish_3f27eeb0:
 
-#     # o "Good! Have you brought back the potions?"
-#     o ""
+    # o "Good! Have you brought back the potions?"
+    o "噢！药水都带回来了吗？"
 
-# translate schinese Ole_Ointment_Finish_121b68f6:
+translate schinese Ole_Ointment_Finish_121b68f6:
 
-#     # e "Here they are."
-#     e ""
+    # e "Here they are."
+    e "都在这。"
 
-# translate schinese Ole_Ointment_Finish_db331b59:
+translate schinese Ole_Ointment_Finish_db331b59:
 
-#     # o "Good, took you some time though."
-#     o ""
+    # o "Good, took you some time though."
+    o "辛苦辛苦，应该花了不少时间吧。"
 
-# translate schinese Ole_Ointment_Finish_685f2ec9:
+translate schinese Ole_Ointment_Finish_685f2ec9:
 
-#     # e "Yeah, Haskell had to brew the potions for a few days."
-#     e ""
+    # e "Yeah, Haskell had to brew the potions for a few days."
+    e "是啊，等哈斯克尔熬药都得等个几天。"
 
-# translate schinese Ole_Ointment_Finish_c7bd55b5:
+translate schinese Ole_Ointment_Finish_c7bd55b5:
 
-#     # o "Hmm... He does take everything slowly. Like, too slow."
-#     o ""
+    # o "Hmm... He does take everything slowly. Like, too slow."
+    o "嗯……他的性子确实慢过头了。"
 
-# translate schinese Ole_Ointment_Finish_db4ba45a:
+translate schinese Ole_Ointment_Finish_db4ba45a:
 
-#     # o "That's why I didn't want to live with him."
-#     o ""
+    # o "That's why I didn't want to live with him."
+    o "所以我才不想和他一块住。"
 
-# translate schinese Ole_Ointment_Finish_ee4a4d89:
+translate schinese Ole_Ointment_Finish_ee4a4d89:
 
-#     # e "I thought... cleaning after a shop is pretty slow, isn't it?"
-#     e ""
+    # e "I thought... cleaning after a shop is pretty slow, isn't it?"
+    e "话说……要清理一整个当铺，进度也慢得让人发慌吧？"
 
-# translate schinese Ole_Ointment_Finish_8a53de4f:
+translate schinese Ole_Ointment_Finish_8a53de4f:
 
-#     # o "No. Not at all. You need to appreciate the nuances of it all."
-#     o ""
+    # o "No. Not at all. You need to appreciate the nuances of it all."
+    o "不会，完全不会。你要去感受打扫时那种微妙的心境。"
 
-# translate schinese Ole_Ointment_Finish_6e0bc1cb:
+translate schinese Ole_Ointment_Finish_6e0bc1cb:
 
-#     # o "Everything here, we built it from scratch, the counter, the wardrobe, the floor."
-#     o ""
+    # o "Everything here, we built it from scratch, the counter, the wardrobe, the floor."
+    o "这间当铺的一切都是我们亲手建造的，货架、衣柜、地板。"
 
-# translate schinese Ole_Ointment_Finish_8738d155:
+translate schinese Ole_Ointment_Finish_8738d155:
 
-#     # o "I'd love to maintain them. Keep it the same, even when I'm just stressed. It helps me relax."
-#     o ""
+    # o "I'd love to maintain them. Keep it the same, even when I'm just stressed. It helps me relax."
+    o "我想要它们保持干净、保持原样。在我紧张的时候，打扫当铺能让我放松下来。"
 
-# translate schinese Ole_Ointment_Finish_f0e3fa3a:
+translate schinese Ole_Ointment_Finish_f0e3fa3a:
 
-#     # e "I've never seen as much of a hardworking cleaner like you."
-#     e ""
+    # e "I've never seen as much of a hardworking cleaner like you."
+    e "我从没见过向你这么勤奋的清洁工。"
 
-# translate schinese Ole_Ointment_Finish_163ee248:
+translate schinese Ole_Ointment_Finish_163ee248:
 
-#     # o "Am I?"
-#     o ""
+    # o "Am I?"
+    o "是吗？"
 
-# translate schinese Ole_Ointment_Finish_e66316d3:
+translate schinese Ole_Ointment_Finish_e66316d3:
 
-#     # e "It's like, you're focused on cleaning... all day."
-#     e ""
+    # e "It's like, you're focused on cleaning... all day."
+    e "感觉你好像……一整天都在打扫。"
 
-# translate schinese Ole_Ointment_Finish_76f047ee:
+translate schinese Ole_Ointment_Finish_76f047ee:
 
-#     # o "Well of course I don't only clean stuff, I took a lot of responsibility in maintaining the business as well."
-#     o ""
+    # o "Well of course I don't only clean stuff, I took a lot of responsibility in maintaining the business as well."
+    o "我当然不只干清洁工作，我也负责了相当一部分生意往来。"
 
-# translate schinese Ole_Ointment_Finish_8a67cd73:
+translate schinese Ole_Ointment_Finish_8a67cd73:
 
-#     # o "Like getting you to fetch me 30 strength potions."
-#     o ""
+    # o "Like getting you to fetch me 30 strength potions."
+    o "比如请你帮我取 30 瓶力量药水。"
 
-# translate schinese Ole_Ointment_Finish_778d2494:
+translate schinese Ole_Ointment_Finish_778d2494:
 
-#     # o "Speaking of which, did Haskell tell you anything...?"
-#     o ""
+    # o "Speaking of which, did Haskell tell you anything...?"
+    o "对了，哈斯克尔有向你提起什么事吗……？"
 
-# translate schinese Ole_Ointment_Finish_8d1c303b:
+translate schinese Ole_Ointment_Finish_8d1c303b:
 
-#     # e "Uhhmmm.... no...?"
-#     e ""
+    # e "Uhhmmm.... no...?"
+    e "呃呃呃呃……没有……？"
 
-# translate schinese Ole_Ointment_Finish_7f269832:
+translate schinese Ole_Ointment_Finish_7f269832:
 
-#     # o "I guess so."
-#     o ""
+    # o "I guess so."
+    o "想必也是。"
 
-# translate schinese Ole_Ointment_Finish_cb215c0b:
+translate schinese Ole_Ointment_Finish_cb215c0b:
 
-#     # o "Alright, then. I'll give you my recipe for ointment. Helps with health, and your magic, and if you are horny, lust."
-#     o ""
+    # o "Alright, then. I'll give you my recipe for ointment. Helps with health, and your magic, and if you are horny, lust."
+    o "没事。这是我答应给你的药膏配方，通常它可以回复你的体力、魔力，还可以清除你的性欲。"
 
-# translate schinese Ole_Ointment_Finish_d31652d0:
+translate schinese Ole_Ointment_Finish_d31652d0:
 
-#     # o "It'll cleanse you of your negative effects if you use it during a combat."
-#     o ""
+    # o "It'll cleanse you of your negative effects if you use it during a combat."
+    o "在战斗时使用还能清除一切负面效果。"
 
-# translate schinese Ole_Ointment_Finish_a68a1e17:
+translate schinese Ole_Ointment_Finish_a68a1e17:
 
-#     # e "I see. Thank you so much, Ole."
-#     e ""
+    # e "I see. Thank you so much, Ole."
+    e "这么厉害。太谢谢你了奥利。"
 
-# translate schinese Ole_Ointment_Finish_bc6cac7c:
+translate schinese Ole_Ointment_Finish_bc6cac7c:
 
-#     # o "No problem."
-#     o ""
+    # o "No problem."
+    o "不客气，小兄弟。"
 
-# translate schinese Ole_Ointment_Finish_c5b743b6:
+translate schinese Ole_Ointment_Finish_c5b743b6:
 
-#     # e "...I think I took a few... of them."
-#     e ""
+    # e "...I think I took a few... of them."
+    e "……我现在就有几瓶……力量药水。"
 
-# translate schinese Ole_Ointment_Finish_2f03c742:
+translate schinese Ole_Ointment_Finish_2f03c742:
 
-#     # o "Then... get Haskell to make more of them, you know."
-#     o ""
+    # o "Then... get Haskell to make more of them, you know."
+    o "那……去问哈斯克尔再拿多些。"
 
-# translate schinese Ole_Ointment_Finish_e461cbc3:
+translate schinese Ole_Ointment_Finish_e461cbc3:
 
-#     # o "I want the number to be exact. Hmm..."
-#     o ""
+    # o "I want the number to be exact. Hmm..."
+    o "记得总共 30 瓶。嗯……"
 
-# translate schinese Ole_Ointment_Finish_9d2f2d12:
+translate schinese Ole_Ointment_Finish_9d2f2d12:
 
-#     # e "Alright."
-#     e ""
+    # e "Alright."
+    e "好的。"
 
 translate schinese Ole_Postal_Finish_daeb3047:
 
@@ -11383,8 +11383,6 @@ translate schinese Rahim_Letter_Furkan_6a131a86:
 
     # r "You are good."
     r "好孩子。"
-
-#任务3
 
 translate schinese Rahim_Postal_Training_05d05f0a:
 

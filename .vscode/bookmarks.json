@@ -614,92 +614,92 @@
 					"label": "Haskell_Buggbear_Wait"
 				},
 				{
-					"line": 866,
+					"line": 874,
 					"column": 38,
 					"label": "Haskell_Buggbear_Quest"
 				},
 				{
-					"line": 1016,
+					"line": 1025,
 					"column": 41,
 					"label": "Haskell_Outfit_03"
 				},
 				{
-					"line": 1136,
+					"line": 1145,
 					"column": 41,
 					"label": "Haskell_Ask_Lusterfield"
 				},
 				{
-					"line": 1226,
+					"line": 1235,
 					"column": 39,
 					"label": "Haskell_Potion_Order_Finish"
 				},
 				{
-					"line": 1281,
+					"line": 1290,
 					"column": 35,
 					"label": "Haskell_Potion_Order"
 				},
 				{
-					"line": 1561,
+					"line": 1570,
 					"column": 36,
 					"label": "Haskell_Ask_Goat_Tribe"
 				},
 				{
-					"line": 1676,
+					"line": 1685,
 					"column": 40,
 					"label": "Haskell_Ask_Other_Business"
 				},
 				{
-					"line": 1706,
+					"line": 1715,
 					"column": 31,
 					"label": "Haskell_Ask_Apothecary"
 				},
 				{
-					"line": 1786,
+					"line": 1795,
 					"column": 31,
 					"label": "Haskell_How_Doing"
 				},
 				{
-					"line": 1881,
+					"line": 1890,
 					"column": 39,
 					"label": "Haskell_Dialogues_End"
 				},
 				{
-					"line": 1891,
+					"line": 1900,
 					"column": 35,
 					"label": "Haskell_Meet_Hut"
 				},
 				{
-					"line": 2457,
+					"line": 2466,
 					"column": 34,
 					"label": "Haskell_First_Meet"
 				},
 				{
-					"line": 2933,
+					"line": 2942,
 					"column": 42,
 					"label": "Haskell_Minotaur_Dungeon"
 				},
 				{
-					"line": 3143,
+					"line": 3152,
 					"column": 35,
 					"label": "Haskell_Sick_Quest"
 				},
 				{
-					"line": 3233,
+					"line": 3242,
 					"column": 35,
 					"label": "Haskell_Report_Minotaur_Dungeon"
 				},
 				{
-					"line": 3338,
+					"line": 3347,
 					"column": 39,
 					"label": "Haskell_After_Sick_Quest"
 				},
 				{
-					"line": 3393,
+					"line": 3402,
 					"column": 37,
 					"label": "Haskell_Trinket_Quest"
 				},
 				{
-					"line": 3703,
+					"line": 3712,
 					"column": 31,
 					"label": "Haskell_Report_Trinket_Quest"
 				}

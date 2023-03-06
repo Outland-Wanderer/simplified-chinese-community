@@ -1,52 +1,118 @@
-﻿translate schinese Haskell_Dialogues_f2b2b1cb:
+﻿translate schinese strings:
+
+    old "As my courier job, Ole told me about helping him get potion from an old friend. {p} I need to report back to Ole for the 30 strength potion."
+    new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为邮递员的本职工作。{p}现在我需要交给奥利 30 瓶力量药水。"
+
+    old "As my courier job, Ole told me about helping him get potion from an old friend. {p} I need to wait for two days for Haskell to complete his potions."
+    new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为邮递员的本职工作。{p}现在我需要等上两天，等哈斯克尔配完药水。"
+
+    old "As my courier job, Ole told me about helping him get potion from an old friend. {p} I need to sedate two Buggbears with the powder Haskell gave me."
+    new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为邮递员的本职工作。{p}现在我需要利用哈斯克尔教我制作的镇静剂扳倒熊地精，收集两份他们的口水。"
+
+translate schinese Haskell_Dialogues_f2b2b1cb:
 
     # h "Lost your clothes to the monsters again?"
-    h ""
+    h "又被怪兽扯烂衣服了？"
 
 translate schinese Haskell_Dialogues_a0a4da04:
 
     # e "Uhh..."
-    e ""
+    e "呃……"
 
 translate schinese Haskell_Dialogues_9f2901c3:
 
     # e "U-uhmm... I felt a little hot today."
-    e ""
+    e "呃嗯……我今天感觉有点热。"
 
 translate schinese Haskell_Dialogues_478b104e:
 
     # h "I think the word you're looking for, is audacious."
-    h ""
+    h "是你今天特别胆大吧。"
 
 translate schinese Haskell_Dialogues_461d3e5c:
 
     # h "mmmph..."
-    h ""
+    h "嗦……"
 
 translate schinese Haskell_Dialogues_9d968adc:
 
     # h "M-mm!! Hey! Didn't see you there."
-    h ""
+    h "唔！！嘿！没注意到你来了。"
 
 translate schinese Haskell_Dialogues_3776ce49:
 
     # e "Hey, Haskell!"
-    e ""
+    e "嗨，哈斯克尔！"
 
 translate schinese Haskell_Normal_Talk_575b4de3:
 
     # h "So, how are you doing, [e]." nointeract
-    h "" nointeract
+    h "近来可好，[e]。" nointeract
+
+translate schinese strings:
+
+    old "Ask about the research on buggbears"
+    new "谈论收集熊地精唾液的事情"
+
+    old "Ask for Strength Potions"
+    new "拿取力量药水"
+
+    old "Ask if the potion is ready"
+    new "询问力量药水的制作情况"
+
+    # old "Ask about the magic that took you here"
+    # new "询问将自己传送来莫肯的魔力"
+
+    old "Ask about Haskell's Apothecary"
+    new "好奇他的药剂学知识"
+
+    # old "Ask about his Special Request"
+    # new ""
+
+    # old "Report about the minotaur's essence"
+    # new ""
+
+    # old "Ask about your outfit"
+    # new ""
+
+    # old "Ask about Ole's sickness"
+    # new ""
+
+    # old "Ask about after Ole's sickness"
+    # new ""
+
+    old "Ask about Haskell's clients"
+    new "打听他的客户"
+
+    old "Ask how Haskell is doing"
+    new "询问近来的情况"
 
 translate schinese Haskell_Ask_Clients_81e15f79:
 
     # e "Haskell, can I ask you more about your clients?"
-    e ""
+    e "哈斯克尔，我能问问关于你客户的事情吗？"
 
 translate schinese Haskell_Ask_Clients_5234121f:
 
     # h "Who do you want to know, kiddo." nointeract
-    h "" nointeract
+    h "你都想知道些什么？好奇鬼。" nointeract
+
+translate schinese strings:
+
+    old "Ask about Gwyddyon"
+    new "打听格威迪恩"
+
+    old "Ask about Goat Tribe"
+    new "打听山羊部落"
+#TODO
+    # old "Ask about Lusterfield"
+    # new "打听乐斯民菲尔德"
+
+    old "Ask about other business"
+    new "打听其他生意"
+
+    old "That's all I need"
+    new "结束询问"
 
 # translate schinese Haskell_Ask_Gwyddyon_ec80bdf4:
 
@@ -513,440 +579,449 @@ translate schinese Haskell_Ask_Clients_5234121f:
 #     # w "Yes. I'll see you there."
 #     w ""
 
-# translate schinese Haskell_Buggbear_Wait_561492c6:
+translate schinese Haskell_Buggbear_Wait_561492c6:
 
-#     # e "Hey... Haskell? Is the deeds done?"
-#     e ""
+    # e "Hey... Haskell? Is the deeds done?"
+    e "药水做完了吗？"
 
-# translate schinese Haskell_Buggbear_Wait_ac03851d:
+translate schinese Haskell_Buggbear_Wait_ac03851d:
 
-#     # h "Wha-... Oh. Right. The Potion. I was enjoying my cup of tea."
-#     h ""
+    # h "Wha-... Oh. Right. The Potion. I was enjoying my cup of tea."
+    h "什么——噢，对，力量药水。刚刚我品茶品得入神了。"
 
-# translate schinese Haskell_Buggbear_Wait_4c4880f6:
+translate schinese Haskell_Buggbear_Wait_4c4880f6:
 
-#     # h "Tell Ole to set a better price. Else you're going to come back again for restock."
-#     h ""
+    # h "Tell Ole to set a better price. Else you're going to come back again for restock."
+    h "叫奥利卖贵些。免得太畅销你没过多久又要跑一趟补货。"
 
-# translate schinese Haskell_Buggbear_Wait_3388a208:
+translate schinese Haskell_Buggbear_Wait_3388a208:
 
-#     # e "Oh..."
-#     e ""
+    # e "Oh..."
+    e "哦……"
 
-# translate schinese Haskell_Buggbear_Wait_e9dbd160:
+translate schinese Haskell_Buggbear_Wait_e9dbd160:
 
-#     # h "How about this, I just teach you how to make the basic potions."
-#     h ""
+    # h "How about this, I just teach you how to make the basic potions."
+    h "要不这样，我教你做些基础款药剂。"
 
-# translate schinese Haskell_Buggbear_Wait_b8c7dc95:
+translate schinese Haskell_Buggbear_Wait_b8c7dc95:
 
-#     # e "Haskell, do you not like me visiting...?"
-#     e ""
+    # e "Haskell, do you not like me visiting...?"
+    e "哈斯克尔，你不喜欢我来你家吗……？"
 
-# translate schinese Haskell_Buggbear_Wait_d7cf7756:
+translate schinese Haskell_Buggbear_Wait_d7cf7756:
 
-#     # h "No..."
-#     h ""
+    # h "No..."
+    h "我不是这个意思……"
 
-# translate schinese Haskell_Buggbear_Wait_fc1e1c91:
+translate schinese Haskell_Buggbear_Wait_fc1e1c91:
 
-#     # h "I'm tired of making potions. Look at the garden I have, all the ingredient to make the best tea."
-#     h ""
+    # h "I'm tired of making potions. Look at the garden I have, all the ingredient to make the best tea."
+    h "我只是做药水做烦了。你看我的花园，那么多材料可以用来泡那么极品的茶。"
 
-# translate schinese Haskell_Buggbear_Wait_f81fa467:
+translate schinese Haskell_Buggbear_Wait_f81fa467:
 
-#     # h "And I'm stuck here making meaningless potions."
-#     h ""
+    # h "And I'm stuck here making meaningless potions."
+    h "而我却非得用它们熬些无所谓的药水。"
 
-# translate schinese Haskell_Buggbear_Wait_871ad403:
+translate schinese Haskell_Buggbear_Wait_871ad403:
 
-#     # e "I thought they're the same."
-#     e ""
+    # e "I thought they're the same."
+    e "熬药和泡茶，药水和茶水都差不多吧。"
 
-# translate schinese Haskell_Buggbear_Wait_0344f63b:
+translate schinese Haskell_Buggbear_Wait_0344f63b:
 
-#     # h "Yeah they're the same if you don't own a taste bud, bud."
-#     h ""
+    # h "Yeah they're the same if you don't own a taste bud, bud."
+    h "的确，只要你的舌头尝不出味道，它们确实差不多，小品鉴家。"
 
-# translate schinese Haskell_Buggbear_Wait_99214e45:
+translate schinese Haskell_Buggbear_Wait_99214e45:
 
-#     # h "So, here's the potions, all 30 of them."
-#     h ""
+    # h "So, here's the potions, all 30 of them."
+    h "拿好了，30 瓶力量药水。"
 
-# translate schinese Haskell_Buggbear_Wait_3c0c94c0:
+translate schinese Haskell_Buggbear_Wait_3c0c94c0:
 
-#     # e "Thanks, Haskell, I really appreciate your help."
-#     e ""
+    # e "Thanks, Haskell, I really appreciate your help."
+    e "谢谢你，哈斯克尔。可帮大忙了。"
 
-# translate schinese Haskell_Buggbear_Wait_504f5733:
+translate schinese Haskell_Buggbear_Wait_504f5733:
 
-#     # h "Yeah, anyways, there's one more thing."
-#     h ""
+    # h "Yeah, anyways, there's one more thing."
+    h "嗯，还有一件事。"
 
-# translate schinese Haskell_Buggbear_Wait_0d799b04:
+translate schinese Haskell_Buggbear_Wait_0d799b04:
 
-#     # h "I'll teach you how to make potions. All of them basic ones, health, magic..."
-#     h ""
+    # h "I'll teach you how to make potions. All of them basic ones, health, magic..."
+    h "我会教你制作最基础的药水，比如补血剂、补魔剂……"
 
-# translate schinese Haskell_Buggbear_Wait_d978186b:
+translate schinese Haskell_Buggbear_Wait_d978186b:
 
-#     # h "But... promise me if Ole ask you to bring him potions again, you'll make the potions for him instead."
-#     h ""
+    # h "But... promise me if Ole ask you to bring him potions again, you'll make the potions for him instead."
+    h "但是……你要答应我，假如下回奥利又叫你来我这补货，你得替我做这些药水给他。"
 
-# translate schinese Haskell_Buggbear_Wait_6f463424:
+translate schinese Haskell_Buggbear_Wait_6f463424:
 
-#     # e "Haskell, I'm not sure if you should lie to Ole like that."
-#     e ""
+    # e "Haskell, I'm not sure if you should lie to Ole like that."
+    e "哈斯克尔，这样撒谎不太好吧。"
 
-# translate schinese Haskell_Buggbear_Wait_e1bfc841:
+translate schinese Haskell_Buggbear_Wait_e1bfc841:
 
-#     # h "Well. I'll tell him when I need to tell him."
-#     h ""
+    # h "Well. I'll tell him when I need to tell him."
+    h "没事的，如果有必要我会亲自和他说明。"
 
-# translate schinese Haskell_Buggbear_Wait_64930028:
+translate schinese Haskell_Buggbear_Wait_64930028:
 
-#     # h "So...? Deal?" nointeract
-#     h "" nointeract
+    # h "So...? Deal?" nointeract
+    h "所以说……行不？" nointeract
 
-# translate schinese Haskell_Buggbear_Wait_a2061b99:
+translate schinese strings:
 
-#     # e "Alright... I'll make them."
-#     e ""
+    old "I'll make the potion for Ole"
+    new "同意"
 
-# translate schinese Haskell_Buggbear_Wait_5ee11ac9:
+    old "You need to make them yourself"
+    new "拒绝"
 
-#     # h "And... don't tell Ole about it, alright?"
-#     h ""
+translate schinese Haskell_Buggbear_Wait_a2061b99:
 
-# translate schinese Haskell_Buggbear_Wait_faa7d97b:
+    # e "Alright... I'll make them."
+    e "好吧……我会替你做药水的。"
 
-#     # e "Hmm..."
-#     e ""
+translate schinese Haskell_Buggbear_Wait_5ee11ac9:
 
-# translate schinese Haskell_Buggbear_Wait_64adb548:
+    # h "And... don't tell Ole about it, alright?"
+    h "然后……记得不要告诉奥利，好吗？"
 
-#     # h "Alright?"
-#     h ""
+translate schinese Haskell_Buggbear_Wait_faa7d97b:
 
-# translate schinese Haskell_Buggbear_Wait_df5c8356:
+    # e "Hmm..."
+    e "嗯……"
 
-#     # e "Yeah, yeah."
-#     e ""
+translate schinese Haskell_Buggbear_Wait_64adb548:
 
-# translate schinese Haskell_Buggbear_Wait_3a78ddf8:
+    # h "Alright?"
+    h "拜托？"
 
-#     # e "Did Sebas talk about this to you as well?"
-#     e ""
+translate schinese Haskell_Buggbear_Wait_df5c8356:
 
-# translate schinese Haskell_Buggbear_Wait_b99ae8c8:
+    # e "Yeah, yeah."
+    e "知道了知道了。"
 
-#     # h "Well he's not that good at making potions anyways, did you see that clumsy lion try to grind his herbs?"
-#     h ""
+translate schinese Haskell_Buggbear_Wait_3a78ddf8:
 
-# translate schinese Haskell_Buggbear_Wait_82185e7d:
+    # e "Did Sebas talk about this to you as well?"
+    e "你不会也叫过塞巴斯替你做药水吧？"
 
-#     # h "No, Ole will see the difference instantly."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_b99ae8c8:
 
-# translate schinese Haskell_Buggbear_Wait_6579a045:
+    # h "Well he's not that good at making potions anyways, did you see that clumsy lion try to grind his herbs?"
+    h "他怎样都不可能做出我的这种品质，你得看看他磨药材的时候有多笨手笨脚。"
 
-#     # e "Oh... So, you think I can do it?"
-#     e ""
+translate schinese Haskell_Buggbear_Wait_82185e7d:
 
-# translate schinese Haskell_Buggbear_Wait_dfa81d2b:
+    # h "No, Ole will see the difference instantly."
+    h "奥利肯定会马上发现那不是我做的。"
 
-#     # h "Sure. I've seen your samples. Looks good enough."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_6579a045:
 
-# translate schinese Haskell_Buggbear_Wait_e69b1967:
+    # e "Oh... So, you think I can do it?"
+    e "噢……你觉得我做的奥利看不出来？"
 
-#     # h "Here's your recipes. If he does ask you again, just tell them I made it."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_dfa81d2b:
 
-# translate schinese Haskell_Buggbear_Wait_66c783bf:
+    # h "Sure. I've seen your samples. Looks good enough."
+    h "没错，我看过你做的试样。已经够好了。"
 
-#     # h "Here's the health, and mana potion recipe, and strength..."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_e69b1967:
 
-# translate schinese Haskell_Buggbear_Wait_9d2f2d12:
+    # h "Here's your recipes. If he does ask you again, just tell them I made it."
+    h "这是补血剂、补魔剂还有力量药水的配方……"
 
-#     # e "Alright."
-#     e ""
+translate schinese Haskell_Buggbear_Wait_66c783bf:
 
-# translate schinese Haskell_Buggbear_Wait_a294f288:
+    # h "Here's the health, and mana potion recipe, and strength..."
+    h "如果他问起来，你就说是我做的。"
 
-#     # h "Good, thanks kiddo."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_9d2f2d12:
 
-# translate schinese Haskell_Buggbear_Wait_d7a4d0c5:
+    # e "Alright."
+    e "好。"
 
-#     # e "I can't lie to him."
-#     e ""
+translate schinese Haskell_Buggbear_Wait_a294f288:
 
-# translate schinese Haskell_Buggbear_Wait_dc4860a9:
+    # h "Good, thanks kiddo."
+    h "谢谢你，小老弟。"
 
-#     # h "Come on, kiddo. Don't be a douchbag."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_d7a4d0c5:
 
-# translate schinese Haskell_Buggbear_Wait_7f34416a:
+    # e "I can't lie to him."
+    e "我不能欺骗奥利。"
 
-#     # e "You should tell him yourself that you don't want to make potions anymore."
-#     e ""
+translate schinese Haskell_Buggbear_Wait_dc4860a9:
 
-# translate schinese Haskell_Buggbear_Wait_22d08682:
+    # h "Come on, kiddo. Don't be a douchbag."
+    h "别怂嘛，[e]。"
 
-#     # h "I can't."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_7f34416a:
 
-# translate schinese Haskell_Buggbear_Wait_2fded262:
+    # e "You should tell him yourself that you don't want to make potions anymore."
+    e "你可以亲自告诉他你不想再做药水了。"
 
-#     # h "..."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_22d08682:
 
-# translate schinese Haskell_Buggbear_Wait_1b5c9e0f:
+    # h "I can't."
+    h "不要。"
 
-#     # h "Alright, keep this between us."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_2fded262:
 
-# translate schinese Haskell_Buggbear_Wait_51ff2f2a:
+    # h "..."
+    h "……"
 
-#     # h "Just don't tell Ole I asked you about this."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_1b5c9e0f:
 
-# translate schinese Haskell_Buggbear_Wait_4aba3a6c:
+    # h "Alright, keep this between us."
+    h "算了，这段对话就当成我俩的秘密。"
 
-#     # e "You'll keep making the potions for him?"
-#     e ""
+translate schinese Haskell_Buggbear_Wait_51ff2f2a:
 
-# translate schinese Haskell_Buggbear_Wait_d533d724:
+    # h "Just don't tell Ole I asked you about this."
+    h "千万别告诉奥利我和你谈过这件事。"
 
-#     # h "Sure, Sure."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_4aba3a6c:
 
-# translate schinese Haskell_Buggbear_Wait_1cdcf7a9:
+    # e "You'll keep making the potions for him?"
+    e "所以说你会继续为奥利做药水？"
 
-#     # h "Right."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_d533d724:
 
-# translate schinese Haskell_Buggbear_Wait_6cb377ad:
+    # h "Sure, Sure."
+    h "嗯，嗯。"
 
-#     # h "Oh... I almost forgot. The Balm."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_1cdcf7a9:
 
-# translate schinese Haskell_Buggbear_Wait_ba5c2d62:
+    # h "Right."
+    h "我做。"
 
-#     # e "You said you were making it for the buggbears?"
-#     e ""
+translate schinese Haskell_Buggbear_Wait_6cb377ad:
 
-# translate schinese Haskell_Buggbear_Wait_b7d867fa:
+    # h "Oh... I almost forgot. The Balm."
+    h "噢……差点忘了。软膏。"
 
-#     # h "Yeah. Right. I still need some time to perfect."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_ba5c2d62:
 
-# translate schinese Haskell_Buggbear_Wait_02bba5ab:
+    # e "You said you were making it for the buggbears?"
+    e "可以用来躲过熊地精的那个软膏？"
 
-#     # h "Uhh... Come back later, again. I'll talk to you about it."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_b7d867fa:
 
-# translate schinese Haskell_Buggbear_Wait_282ab36b:
+    # h "Yeah. Right. I still need some time to perfect."
+    h "对，我还需要继续研究，继续完善它。"
 
-#     # e "Alright, thank you so much anyways, Haskell."
-#     e ""
+translate schinese Haskell_Buggbear_Wait_02bba5ab:
 
-# translate schinese Haskell_Buggbear_Wait_9a5455d7:
+    # h "Uhh... Come back later, again. I'll talk to you about it."
+    h "呃……过段时间再来，我详细和你说明。"
 
-#     # h "Sure."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_282ab36b:
 
-# translate schinese Haskell_Buggbear_Wait_5c214951:
+    # e "Alright, thank you so much anyways, Haskell."
+    e "好，谢谢你，哈斯克尔。"
 
-#     # e "Hey... Haskell. Are you ready with the potion for Ole...?"
-#     e ""
+translate schinese Haskell_Buggbear_Wait_9a5455d7:
 
-# translate schinese Haskell_Buggbear_Wait_427f47d6:
+    # h "Sure."
+    h "嗯哼。"
 
-#     # h "Yes, uhhh, just a few adjustment and here and there..."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_5c214951:
 
-# translate schinese Haskell_Buggbear_Wait_8c02ec34:
+    # e "Hey... Haskell. Are you ready with the potion for Ole...?"
+    e "奥利的药剂……你做好了吗？"
 
-#     # h "No."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_427f47d6:
 
-# translate schinese Haskell_Buggbear_Wait_9d2f2d12_1:
+    # h "Yes, uhhh, just a few adjustment and here and there..."
+    h "嗯，就差再微调一下……"
 
-#     # e "Alright."
-#     e ""
+translate schinese Haskell_Buggbear_Wait_8c02ec34:
 
-# translate schinese Haskell_Buggbear_Wait_889f6e5c:
+    # h "No."
+    h "答案是还没好。"
 
-#     # h "Come back later, alright. Patience is a virtue."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_9d2f2d12_1:
 
-# translate schinese Haskell_Buggbear_Wait_3f1904b8:
+    # e "Alright."
+    e "行吧。"
 
-#     # e "You seem to have a lot of patience for your potions."
-#     e ""
+translate schinese Haskell_Buggbear_Wait_889f6e5c:
 
-# translate schinese Haskell_Buggbear_Wait_d948c694:
+    # h "Come back later, alright. Patience is a virtue."
+    h "过段时间再来。耐心是一种美德。"
 
-#     # h "A watched pot never boils, your potions will be back in no time."
-#     h ""
+translate schinese Haskell_Buggbear_Wait_3f1904b8:
 
-# translate schinese Haskell_Buggbear_Wait_3729b96c:
+    # e "You seem to have a lot of patience for your potions."
+    e "看来你的药水的确加了很多味“耐心”。"
 
-#     # e "Hmmph..."
-#     e ""
+translate schinese Haskell_Buggbear_Wait_d948c694:
+
+    # h "A watched pot never boils, your potions will be back in no time."
+    h "心急喝不了热粥，嘴催制不出良药。快了快了。"
+
+translate schinese Haskell_Buggbear_Wait_3729b96c:
+
+    # e "Hmmph..."
+    e "呃……"
 
 translate schinese Haskell_Buggbear_Quest_de063e27:
 
     # e "Hey, Haskell. I've got the... Saliva you need."
-    e ""
+    e "我取到你要的……口水了。"
 
 translate schinese Haskell_Buggbear_Quest_bef55235:
 
     # h "Sure, Sure. But what's the problem with those... liquid."
-    h ""
+    h "不错不错。但你身上的液体是……"
 
 translate schinese Haskell_Buggbear_Quest_10a6bc06:
 
     # e "Uhh... it's just saliva."
-    e ""
+    e "呃……那些只是不小心溅到的口水。"
 
 translate schinese Haskell_Buggbear_Quest_e9fd87d4:
 
     # h "Look, I don't mind if you get too along with the buggbears, just take a bath or something."
-    h ""
+    h "我不介意你和熊地精友好深入交流，但你最好去洗个澡还是怎样的。"
 
 translate schinese Haskell_Buggbear_Quest_8791adcb:
 
     # e "I've told you, it's just spilt saliva... not anything you're thinking of..."
-    e ""
+    e "我没骗你。那些真的就只是溅出来的口水……不是你想的……"
 
 translate schinese Haskell_Buggbear_Quest_5d33379e:
 
     # h "Alright. Alright. I was just kidding. Not that there's any problem with buggbear cum..."
-    h ""
+    h "好吧。好吧。我只是开个玩笑。如果真是熊地精的精液也无妨……"
 
 translate schinese Haskell_Buggbear_Quest_72a33094:
 
     # e "..."
-    e ""
+    e "……"
 
 translate schinese Haskell_Buggbear_Quest_c4165c3d:
 
     # h "Ok. Thanks for your hard work anyways."
-    h ""
+    h "不管怎样，辛苦你了。"
 
 translate schinese Haskell_Buggbear_Quest_114881f6:
 
     # e "Can I get the strength potion?"
-    e ""
+    e "现在能帮我调力量药水了吗？"
 
 translate schinese Haskell_Buggbear_Quest_09be828f:
 
     # h "About that, I think I haven't brew them yet."
-    h ""
+    h "关于这个，我好像还没有开始熬。"
 
 translate schinese Haskell_Buggbear_Quest_c642af3d:
 
     # h "Don't look at me like that, kiddo. I-I uhh... I'll do it right away. With your saliva."
-    h ""
+    h "别摆出这副表情，[e]。我、我呃……我待会就去做。多亏有你收集的唾液。"
 
 translate schinese Haskell_Buggbear_Quest_3d62fde7:
 
     # e "So... When can I get the potions..."
-    e ""
+    e "那么……我什么时候能拿到货呢……"
 
 translate schinese Haskell_Buggbear_Quest_303b810b:
 
     # h "Soon. Soon."
-    h ""
+    h "过不了多久。"
 
 translate schinese Haskell_Buggbear_Quest_ceb38114:
 
     # h "Hey, come back in 2 days. You'll get your little potions."
-    h ""
+    h "嘿，你两天后再来应该差不多。"
 
 translate schinese Haskell_Buggbear_Quest_72a33094_1:
 
     # e "..."
-    e ""
+    e "……"
 
 translate schinese Haskell_Buggbear_Quest_56d5894c:
 
     # h "I'll teach you how to make it too. Hey don't get mad at me. At this age I'm just forgetful."
-    h ""
+    h "我还可以教你怎么调配力量药水。别不高兴了，你要知道我这年纪就容易忘事。"
 
 translate schinese Haskell_Buggbear_Quest_e53c6fed:
 
     # e "Alright..."
-    e ""
+    e "好吧……"
 
 translate schinese Haskell_Buggbear_Quest_1a15d7dc:
 
     # e "Hey Haskell. I was wondering... if you can help with the buggbear?"
-    e ""
+    e "关于熊地精的事情……你能帮帮我吗？"
 
 translate schinese Haskell_Buggbear_Quest_ddb8ab35:
 
     # h "You've not gotten the saliva?"
-    h ""
+    h "我没给你熊地精镇静剂？"
 
 translate schinese Haskell_Buggbear_Quest_dcdbb394:
 
     # e "No, I forgot how to get them."
-    e ""
+    e "你给了，但我忘了怎么用。"
 
 translate schinese Haskell_Buggbear_Quest_2ba8f65e:
 
     # h "Alright. You're getting more forgetful than me. I gave you two sedatives, just throw the stuff on them when they're weak."
-    h ""
+    h "没办法，想不到你比我还健忘。"
+    h "我给了你两份镇静剂，你得趁熊地精反应比较迟钝的时候把它扔到他们脸上。"
 
 translate schinese Haskell_Buggbear_Quest_f31b4a1d:
 
     # e "When will they be... weak?"
-    e ""
+    e "怎样才能让他们……反应比较迟钝呢？"
 
 translate schinese Haskell_Buggbear_Quest_1021cd6f:
 
     # h "I don't know, half as strong? or at least a bit horny?"
-    h ""
+    h "我不清楚，消耗掉他们一半的体力？或者至少让他们有点想做爱的念头？"
 
 translate schinese Haskell_Buggbear_Quest_6a447cfa:
 
     # e "What if I lost the... powder."
-    e ""
+    e "如果我弄丢了镇静剂……怎么办？"
 
 translate schinese Haskell_Buggbear_Quest_11573762:
 
     # h "Then, well. Let's say I'll be too lazy to make you a new one. Just make another from scratch."
-    h ""
+    h "那么，啧，我可没那么勤快再给你做一份。你得自己采集材料自己做。"
 
 translate schinese Haskell_Buggbear_Quest_2fb8183a:
 
     # h "I gave you the recipe already, just go to whatever workstation you have in Lusterfield."
-    h ""
+    h "我已经把配方给你了。去乐村随便找个工作台做。"
 
 translate schinese Haskell_Buggbear_Quest_a50b83fa:
 
     # e "You mean Rahim's... sewing machine?"
-    e ""
+    e "你是说雷希姆的……缝纫机？"
 
 translate schinese Haskell_Buggbear_Quest_5bb9b3ae:
 
     # h "Whatever, just get some flowers and sew them up, I'm sure that'll work."
-    h ""
+    h "都行，只要能把那两种花按比例捣在一起制成粉就行。"
 
 translate schinese Haskell_Buggbear_Quest_a62a2c55:
 
     # e "Alright... I'll try."
-    e ""
+    e "好吧……我会试试的。"
 
 translate schinese Haskell_Buggbear_Quest_3cbb205f:
 
     # h "Go now. Before you accidentally sedate yourself with that powder."
-    h ""
+    h "去吧。小心别把粉撒自己脸上了。"
 
 # translate schinese Haskell_Outfit_03_9143a877:
 
@@ -1638,85 +1713,85 @@ translate schinese Haskell_Buggbear_Quest_3cbb205f:
 #     # e "Oh... Alright."
 #     e ""
 
-translate schinese Haskell_Ask_Apothecary_597b226f:
+# translate schinese Haskell_Ask_Apothecary_597b226f:
 
-    # e "Haskell, what's with your deal with potion making?"
-    e ""
+#     # e "Haskell, what's with your deal with potion making?"
+#     e ""
 
-translate schinese Haskell_Ask_Apothecary_338eb79e:
+# translate schinese Haskell_Ask_Apothecary_338eb79e:
 
-    # h "Common Potion making is actually really easy, but you won't get specific effects very easily without me."
-    h ""
+#     # h "Common Potion making is actually really easy, but you won't get specific effects very easily without me."
+#     h ""
 
-translate schinese Haskell_Ask_Apothecary_b0fbef07:
+# translate schinese Haskell_Ask_Apothecary_b0fbef07:
 
-    # h "I'm not bluffing, it takes years to learn to be adaptive and creative with your potion invention."
-    h ""
+#     # h "I'm not bluffing, it takes years to learn to be adaptive and creative with your potion invention."
+#     h ""
 
-translate schinese Haskell_Ask_Apothecary_0147538b:
+# translate schinese Haskell_Ask_Apothecary_0147538b:
 
-    # h "But I just make them for a living, buying myself herbs and stuff so I can afford to make myself some tea."
-    h ""
+#     # h "But I just make them for a living, buying myself herbs and stuff so I can afford to make myself some tea."
+#     h ""
 
-translate schinese Haskell_Ask_Apothecary_3e3a3aad:
+# translate schinese Haskell_Ask_Apothecary_3e3a3aad:
 
-    # e "Tea?"
-    e ""
+#     # e "Tea?"
+#     e ""
 
-translate schinese Haskell_Ask_Apothecary_5ba4a29a:
+# translate schinese Haskell_Ask_Apothecary_5ba4a29a:
 
-    # h "Tea. I make tea in my free time, it's refreshing, much tastier than those nasty ass potion."
-    h ""
+#     # h "Tea. I make tea in my free time, it's refreshing, much tastier than those nasty ass potion."
+#     h ""
 
-translate schinese Haskell_Ask_Apothecary_3388a208:
+# translate schinese Haskell_Ask_Apothecary_3388a208:
 
-    # e "Oh..."
-    e ""
+#     # e "Oh..."
+#     e ""
 
-translate schinese Haskell_Ask_Apothecary_16b6427c:
+# translate schinese Haskell_Ask_Apothecary_16b6427c:
 
-    # h "I used to make tisana, it's not really that good."
-    h ""
+#     # h "I used to make tisana, it's not really that good."
+#     h ""
 
-translate schinese Haskell_Ask_Apothecary_8d0db2d7:
+# translate schinese Haskell_Ask_Apothecary_8d0db2d7:
 
-    # h "I've grown Kapor, Chamomile. My favourite is Oolong."
-    h ""
+#     # h "I've grown Kapor, Chamomile. My favourite is Oolong."
+#     h ""
 
-translate schinese Haskell_Ask_Apothecary_83e1dfe6:
+# translate schinese Haskell_Ask_Apothecary_83e1dfe6:
 
-    # e "Uhh... Oolong?"
-    e ""
+#     # e "Uhh... Oolong?"
+#     e ""
 
-translate schinese Haskell_Ask_Apothecary_9cb45f86:
+# translate schinese Haskell_Ask_Apothecary_9cb45f86:
 
-    # h "It takes some time to make, you usually have to wait for the plant to wither first, under strong sunlight out there."
-    h ""
+#     # h "It takes some time to make, you usually have to wait for the plant to wither first, under strong sunlight out there."
+#     h ""
 
-translate schinese Haskell_Ask_Apothecary_a2bd5b3b:
+# translate schinese Haskell_Ask_Apothecary_a2bd5b3b:
 
-    # h "After the process of oxidation, the leaves would twist and curl. You really need a lot of attention to its timing and temperature."
-    h ""
+#     # h "After the process of oxidation, the leaves would twist and curl. You really need a lot of attention to its timing and temperature."
+#     h ""
 
-translate schinese Haskell_Ask_Apothecary_a738f513:
+# translate schinese Haskell_Ask_Apothecary_a738f513:
 
-    # e "Oh... that sounds, interesting."
-    e ""
+#     # e "Oh... that sounds, interesting."
+#     e ""
 
-translate schinese Haskell_Ask_Apothecary_ffee101b:
+# translate schinese Haskell_Ask_Apothecary_ffee101b:
 
-    # h "I'll let you taste it once they're ready, but you need to be here for it though."
-    h ""
+#     # h "I'll let you taste it once they're ready, but you need to be here for it though."
+#     h ""
 
-translate schinese Haskell_Ask_Apothecary_11358271:
+# translate schinese Haskell_Ask_Apothecary_11358271:
 
-    # e "It's a deal then."
-    e ""
+#     # e "It's a deal then."
+#     e ""
 
-translate schinese Haskell_Ask_Apothecary_435c9e56:
+# translate schinese Haskell_Ask_Apothecary_435c9e56:
 
-    # h "Good, Good. You'll know about it soon."
-    h ""
+#     # h "Good, Good. You'll know about it soon."
+#     h ""
 
 # translate schinese Haskell_How_Doing_04158c57:
 
@@ -1816,957 +1891,972 @@ translate schinese Haskell_Ask_Apothecary_435c9e56:
 translate schinese Haskell_Dialogues_End_66502dd7:
 
     # e "I think that's all for now, thank you so much, Haskell."
-    e ""
+    e "我差不多该走了，谢啦，哈斯克尔。"
 
 translate schinese Haskell_Dialogues_End_39124717:
 
     # h "Yeah, take care out there."
-    h ""
+    h "嗯，多多保重。"
 
 translate schinese Haskell_Meet_Hut_03af2d75:
 
     # "You peek inside the hut filled with green plants. If not informed by Ole, you would think it is owned by a gardener, not a potion maker."
-    ""
+    "你来到这座草木环绕的小屋门前，透过虚掩的门偷偷朝里面望去。"
+    "如果没有奥利事先介绍，你肯定会以为小屋的主人是个园丁，而不是药剂师。"
 
 translate schinese Haskell_Meet_Hut_d9517974:
 
     # "Once you stare long enough, you can see different shapes of glasses scattered around the hut, you think they should be empty potion bottles."
-    ""
+    "定睛一看，屋内散落着各式各样的瓶瓶罐罐，大概是空药水瓶。"
 
 translate schinese Haskell_Meet_Hut_73e68ee0:
 
     # "Remembering what Ole told you about the potion maker, you feel safe enough to step into the hut."
-    ""
+    "你想到奥利既然说对方认识自己，便放心推门走了进去。"
 
 translate schinese Haskell_Meet_Hut_5b93eeb7:
 
     # "But upon a greater look, you spot a white hair in your peripheral vision."
-    ""
+    "刚踏进屋内，一根长长的白毛垂在你面前。"
 
 translate schinese Haskell_Meet_Hut_b566483e:
 
     # "When you look closely to the weird hair, it becomes more obvious that it's a whisker from a dark red dragon."
-    ""
+    "你凑近这根奇怪的白毛，沿着它慢慢向上观察。暗红色的龙首随之浮现，原来那是他的胡须。"
 
 translate schinese Haskell_Meet_Hut_72a33094:
 
     # e "..."
-    e ""
+    e "……"
 
 translate schinese Haskell_Meet_Hut_88649592:
 
     # m "What are you looking at?"
-    m ""
+    m "看什么？"
 
 translate schinese Haskell_Meet_Hut_4e0b2e03:
 
     # e "Ahhh...!!"
-    e ""
+    e "啊啊啊……！！"
 
 translate schinese Haskell_Meet_Hut_fd9996f9:
 
     # "You instinctively jumps backwards from the shock, and slam your head hard into the cabinet behind you."
-    ""
+    "你本能地向后跳开，脑袋狠狠撞上了身后的柜子。"
 
 translate schinese Haskell_Meet_Hut_8de9c05d:
 
     # e "F-fuck!"
-    e ""
+    e "操！"
 
 translate schinese Haskell_Meet_Hut_a24e4789:
 
     # e "I hit my head..."
-    e ""
+    e "头好痛……"
 
 translate schinese Haskell_Meet_Hut_b4a290e9:
 
     # e "You... scared me."
-    e ""
+    e "你——吓死我了。"
 
 translate schinese Haskell_Meet_Hut_549e712b:
 
     # "You suddenly realise the dragon is dangerously close to you, only a few inches apart."
-    ""
+    "你突然意识到自己离这个陌生人不过二三尺近，非常危险。"
 
 translate schinese Haskell_Meet_Hut_8e67f786:
 
     # m "What... How did you hit your head again..."
-    m ""
+    m "唉……怎么又撞破头了……"
 
 translate schinese Haskell_Meet_Hut_a4992a39:
 
     # m "I've got ointment on my hand, just wait."
-    m ""
+    m "好在我备着些药膏，你先别动。"
 
 translate schinese Haskell_Meet_Hut_1b303302:
 
     # "The dragon sighs at your blunt injury, he walks off nonchalantly to fetch himself an ointment and bring it to where you lie."
-    ""
+    "红龙瞧见你撞着的地方，叹了口气徐徐走开，拿上药膏回到你身边。"
 
 translate schinese Haskell_Meet_Hut_9523cb17:
 
     # e "What did you mean by 'again'?"
-    e ""
+    e "你说“又”是什么意思？"
 
 translate schinese Haskell_Meet_Hut_5648014e:
 
     # m "Didn't you hit your head when you arrive?"
-    m ""
+    m "你穿越来的时候不是也撞到头了？"
 
 translate schinese Haskell_Meet_Hut_763838df:
 
     # e "Uhh... how did you know?"
-    e ""
+    e "呃……你怎么知道的？"
 
 translate schinese Haskell_Meet_Hut_af401647:
 
     # m "I just know."
-    m ""
+    m "我就是知道。"
 
 translate schinese Haskell_Meet_Hut_9a8484e7:
 
     # m "And maybe if Seb didn't jump on his feet and tell me about his new roommate that's kinda cute, according to him."
-    m ""
+    m "或许还少不了塞巴斯蹦到我面前介绍他可爱的新室友。"
 
 translate schinese Haskell_Meet_Hut_c6c2c87b:
 
     # e "...kinda c-cute?"
-    e ""
+    e "……可、可爱？"
 
 translate schinese Haskell_Meet_Hut_1ba9b7dd:
 
     # m "His word, not mine."
-    m ""
+    m "他的用词就是可爱。"
 
 translate schinese Haskell_Meet_Hut_e8027532:
 
     # h "I'm Haskell, by the way."
-    h ""
+    h "还有，我是哈斯克尔。"
 
 translate schinese Haskell_Meet_Hut_8a237421:
 
     # e "Ahhh... fuck... I'm [e]."
-    e ""
+    e "啊……靠……我叫[e]。"
 
 translate schinese Haskell_Meet_Hut_3b588477:
 
     # h "What are you looking at?"
-    h ""
+    h "看什么？"
 
 translate schinese Haskell_Meet_Hut_4e0b2e03_1:
 
     # e "Ahhh...!!"
-    e ""
+    e "啊啊啊……！！"
 
 translate schinese Haskell_Meet_Hut_fd9996f9_1:
 
     # "You instinctively jumps backwards from the shock, and slam your head hard into the cabinet behind you."
-    ""
+    "你本能地向后跳开，脑袋狠狠撞上了身后的柜子。"
 
 translate schinese Haskell_Meet_Hut_8de9c05d_1:
 
     # e "F-fuck!"
-    e ""
+    e "操！"
 
 translate schinese Haskell_Meet_Hut_a24e4789_1:
 
     # e "I hit my head..."
-    e ""
+    e "头好痛……"
 
 translate schinese Haskell_Meet_Hut_b4a290e9_1:
 
     # e "You... scared me."
-    e ""
+    e "你——吓死我了。"
 
 translate schinese Haskell_Meet_Hut_faab7a27:
 
     # h "What... How did you hit your head again..."
-    h ""
+    h "小冒失鬼……怎么又撞破头了……"
 
 translate schinese Haskell_Meet_Hut_b1c1e4b6:
 
     # h "I've got ointment on my hand, just wait."
-    h ""
+    h "好在我备着些药膏，你先别动。"
 
 translate schinese Haskell_Meet_Hut_1b303302_1:
 
     # "The dragon sighs at your blunt injury, he walks off nonchalantly to fetch himself an ointment and bring it to where you lie."
-    ""
+    "哈斯克尔瞧见你撞着的地方，叹了口气徐徐走开，拿上药膏回到你身边。"
 
 translate schinese Haskell_Meet_Hut_9523cb17_1:
 
     # e "What did you mean by 'again'?"
-    e ""
+    e "你说“又”是什么意思？"
 
 translate schinese Haskell_Meet_Hut_0513e579:
 
     # h "Didn't you hit your head when you arrive?"
-    h ""
+    h "你穿越来的时候不是也撞到头了？"
 
 translate schinese Haskell_Meet_Hut_763838df_1:
 
     # e "Uhh... how did you know?"
-    e ""
+    e "呃……你怎么知道的？"
 
 translate schinese Haskell_Meet_Hut_3b363702:
 
     # h "I just know."
-    h ""
+    h "我就是知道。"
 
 translate schinese Haskell_Meet_Hut_e84c0dd3:
 
     # h "And maybe if Seb didn't jump on his feet and tell me about his new roommate that's kinda cute, according to him."
-    h ""
+    h "或许还少不了塞巴斯蹦到我面前介绍他可爱的新室友。"
 
 translate schinese Haskell_Meet_Hut_c6c2c87b_1:
 
     # e "...kinda c-cute?"
-    e ""
+    e "……可、可爱？"
 
 translate schinese Haskell_Meet_Hut_44afa5a2:
 
     # h "His word, not mine."
-    h ""
+    h "他的用词就是可爱。"
 
 translate schinese Haskell_Meet_Hut_04a2925a:
 
     # e "Ahhh... fuck. Haskell, didn't expect to see you here..."
-    e ""
+    e "啊……靠。哈斯克尔，没想到你会在这……"
 
 translate schinese Haskell_Meet_Hut_b0b8cecd:
 
     # "Haskell slaps his ointment on your head, it feels cool on the wound."
-    ""
+    "哈斯克尔将药膏轻轻拍到你头上，感觉凉凉的。"
 
 translate schinese Haskell_Meet_Hut_3233c104:
 
     # "You can feel it is healing very quickly, almost like what Ole had..."
-    ""
+    "你能感受到伤口正在快速愈合，这像极了奥利做的药膏……"
 
 translate schinese Haskell_Meet_Hut_fe3a24de:
 
     # e "Do you know Ole?"
-    e ""
+    e "你认识奥利吗？"
 
 translate schinese Haskell_Meet_Hut_256bdbd1:
 
     # h "Uh... Yes?"
-    h ""
+    h "呃……认识？"
 
 translate schinese Haskell_Meet_Hut_a54b4cbe:
 
     # h "I saved him from his doom and I taught him about the way of herbalism."
-    h ""
+    h "我救了他一命，还教会了他认药草做草药。"
 
 translate schinese Haskell_Meet_Hut_879f7402:
 
     # e "...Doom?"
-    e ""
+    e "……救了他一命？"
 
 translate schinese Haskell_Meet_Hut_2fded262:
 
     # h "..."
-    h ""
+    h "……"
 
 translate schinese Haskell_Meet_Hut_0ad65391:
 
     # h "Let's talk about your feeble head, it's fine, the furs will cover it up."
-    h ""
+    h "还是说回你的豆腐脑袋吧。放心，伤口有毛遮住看不出来。"
 
 translate schinese Haskell_Meet_Hut_67c31a74:
 
     # "Haskell kneels to nudge on your head several times, and stands back up to check on you."
-    ""
+    "哈斯克尔屈膝俯身点了点你的头，又站起来仔细观察你。"
 
 translate schinese Haskell_Meet_Hut_76a90afd:
 
     # h "So, Are you here for the delivery?"
-    h ""
+    h "那么，你是来取货的？"
 
 translate schinese Haskell_Meet_Hut_bc8e674d:
 
     # e "Ahh... yes. If you didn't sneak up on me like that."
-    e ""
+    e "啊……对，我正要说这件事。假如你没有冷不丁地出现在我面前……"
 
 translate schinese Haskell_Meet_Hut_d811d4a8:
 
     # h "How many did Ole told you to get?"
-    h ""
+    h "奥利想要多少瓶？"
 
 translate schinese Haskell_Meet_Hut_f3d382fd:
 
     # e "30..."
-    e ""
+    e "30瓶……"
 
 translate schinese Haskell_Meet_Hut_a3d8434a:
 
     # h "Yeah. That's too much for me."
-    h ""
+    h "嗯。这也太多了。"
 
 translate schinese Haskell_Meet_Hut_9e15db04:
 
     # e "What do you mean?"
-    e ""
+    e "什么意思？"
 
 translate schinese Haskell_Meet_Hut_ce94cf41:
 
     # h "You need to help me with something else, before I give you the potions for free."
-    h ""
+    h "想让我免费给你配这么多药水，就得先为我办一件事。"
 
 translate schinese Haskell_Meet_Hut_118c9692:
 
     # e "Uhh- my head still hurts. I thought you two had negotiated already."
-    e ""
+    e "呃啊——我头还疼得厉害。你们俩不是已经谈好了吗。"
 
 translate schinese Haskell_Meet_Hut_7e81bea4:
 
     # h "Sure, Sure. I have a lot of other clients to worry about, the goats, the bears, the-"
-    h ""
+    h "是的、没错。但我还有一堆客户要操心，比如羊族、熊族，还有——"
 
 translate schinese Haskell_Meet_Hut_867e11c1:
 
     # e "Bears?"
-    e ""
+    e "熊族？"
 
 translate schinese Haskell_Meet_Hut_d3bfca5c:
 
     # h "Yeah, they're a little bit annoying with the secrecy policy."
-    h ""
+    h "嗯哼，他们的保密协议还挺烦人的。"
 
 translate schinese Haskell_Meet_Hut_2fded262_1:
 
     # h "..."
-    h ""
+    h "……"
 
 translate schinese Haskell_Meet_Hut_714ede2f:
 
     # h "Oops, it seems I just leaked their information."
-    h ""
+    h "哦嚯，不小心说漏嘴了。"
 
 translate schinese Haskell_Meet_Hut_70fd8e6a:
 
     # e "Haskell, are you this careless or is this intentional..."
-    e ""
+    e "哈斯克尔，你是真的不小心还是故意的……"
 
 translate schinese Haskell_Meet_Hut_4648a24b:
 
     # h "Uh... I'll just pretend I have a plan all along so you'll think I'm smart or something."
-    h ""
+    h "呃……我只是假装胸有成竹，这样在你面前才显得聪明绝顶。"
 
 translate schinese Haskell_Meet_Hut_fdac3ef9:
 
     # e "O-ok."
-    e ""
+    e "好、好吧。"
 
 translate schinese Haskell_Meet_Hut_c970698f:
 
     # h "Look, have you seen the buggbears?"
-    h ""
+    h "你知道熊地精吗？"
 
 translate schinese Haskell_Meet_Hut_a213c704:
 
     # e "Yes, I've seen them around the outpost."
-    e ""
+    e "我知道，他们就在哨站那。"
 
 translate schinese Haskell_Meet_Hut_bdee3437:
 
     # e "No... What are they?"
-    e ""
+    e "不知道……熊地精是什么？"
 
 translate schinese Haskell_Meet_Hut_4e3feaf9:
 
     # h "They're some kind of monsters lurking around the outpost, walking distance from here."
-    h ""
+    h "熊地精是种身形巨大的怪物，出没在哨站附近，离这不远。"
 
 translate schinese Haskell_Meet_Hut_2763cc3e:
 
     # h "The goats used to be on the look out there. Until their primordial runes got stolen recently, and it drained their spellcraft reserve."
-    h ""
+    h "本来那个哨站有山羊守着，直到前不久他们的上古符石被偷走了，部落的魔力储备一夜归零。"
 
 translate schinese Haskell_Meet_Hut_854138e5:
 
     # e "R-recently?"
-    e ""
+    e "前不久？"
 
 translate schinese Haskell_Meet_Hut_1625d6eb:
 
     # h "Well, four years to be exact. That's why they started the war with the folks back."
-    h ""
+    h "准确来说，是四年前。这也是山羊部落向乐村发动战争的原因。"
 
 translate schinese Haskell_Meet_Hut_07250603:
 
     # h "These goat folks are much weaker than they're now. Furkan is furious that they lost the outpost to the buggbears, more recently."
-    h ""
+    h "如今那群山羊的力量可以说是一落千丈，最近哨站失守可把弗坎气坏了。"
 
 translate schinese Haskell_Meet_Hut_a65d1ec9:
 
     # e "Hmm... Primordial Runes?"
-    e ""
+    e "嗯……上古符石？"
 
 translate schinese Haskell_Meet_Hut_50126663:
 
     # h "The rock thing, that used to be on their mountain. It just generates magical energy for the goat folks, magically."
-    h ""
+    h "就是块为山羊部落提供魔力的石头，之前一直看管在他们的山上。"
 
 translate schinese Haskell_Meet_Hut_bcb877bf:
 
     # e "Who stole it?"
-    e ""
+    e "谁偷走的？"
 
 translate schinese Haskell_Meet_Hut_f0e28691:
 
     # h "Me."
-    h ""
+    h "我。"
 
 translate schinese Haskell_Meet_Hut_86ec8bb2:
 
     # e "Y-you?"
-    e ""
+    e "真、真的吗？"
 
 translate schinese Haskell_Meet_Hut_4ad4f6ed:
 
     # h "No you dumbass, who do you think I am, do you think I even use magic?"
-    h ""
+    h "当然不是真的，傻瓜。我可是谁，你觉得我会用到魔法吗？"
 
 translate schinese Haskell_Meet_Hut_4e42cb09:
 
     # e "I thought potion making is related to magic somehow."
-    e ""
+    e "我以为制作药水需要用到魔法。"
 
 translate schinese Haskell_Meet_Hut_e764c840:
 
     # h "Yeah no."
-    h ""
+    h "并不用。"
 
 translate schinese Haskell_Meet_Hut_c6f67d45:
 
     # h "The only reason I'm making potion is for me to get enough herbs from elsewhere for my tea."
-    h ""
+    h "我制作药水单单只是为了换来世界各地的草药泡茶。"
 
 translate schinese Haskell_Meet_Hut_12fedfad:
 
     # e "Alright, so who stole the runes?"
-    e ""
+    e "好吧好吧，那究竟是谁偷走了符石？"
 
 translate schinese Haskell_Meet_Hut_4f9493fc:
 
     # h "I don't know. The leader doesn't know either."
-    h ""
+    h "我不知道。就连他们首领也不知道。"
 
 translate schinese Haskell_Meet_Hut_655fd14c:
 
     # e "Do you think it's related to me... being here?"
-    e ""
+    e "这会和我穿越到这里……有关系吗？"
 
 translate schinese Haskell_Meet_Hut_c0bc245e:
 
     # h "I told you, I don't know. Best ask Furkan about that."
-    h ""
+    h "都说了我不知道。你最好亲自去问弗坎。"
 
 translate schinese Haskell_Meet_Hut_53f3a4ff:
 
     # h "Anyways, it's kinda causing me some troubles, with the buggbears roaming around."
-    h ""
+    h "总之，这群熊地精在附近晃悠挺麻烦的，搞得我都没法采要用的花草。"
 
 translate schinese Haskell_Meet_Hut_c2b5a1be:
 
     # h "I can't pick up grasses and flowers like I used to now."
-    h ""
+    pass
 
 translate schinese Haskell_Meet_Hut_5b9be095:
 
     # e "What do you want me to do with them?"
-    e ""
+    e "你想我把他们怎么样？"
 
 translate schinese Haskell_Meet_Hut_16a0c5fa:
 
     # h "Well you probably won't want to meet them head to head."
-    h ""
+    h "依我看，你应该不想和他们硬碰硬到底。"
 
 translate schinese Haskell_Meet_Hut_f01e989e:
 
     # h "Come here, get this. I'll give you a recipe for knocking them off."
-    h ""
+    h "来，拿上这个，可以令熊地精晕倒的镇静剂。配方我也写给你了。"
 
 translate schinese Haskell_Meet_Hut_1cacb0e9:
 
     # e "So we're beating them?"
-    e ""
+    e "所以我们要把他们都赶出这里？"
 
 translate schinese Haskell_Meet_Hut_000bcb22:
 
     # h "Beating the buggbears off, if you will. There's too many of those huge monsters."
-    h ""
+    h "如果你愿意的话，可以。但这群大只佬数量太多了。"
 
 translate schinese Haskell_Meet_Hut_b7ace592:
 
     # h "We can't just show them the door and tell them to leave."
-    h ""
+    h "我们也不可能指条路请他们自觉滚蛋。"
 
 translate schinese Haskell_Meet_Hut_c6a770f5:
 
     # e "So, what's your plan here?"
-    e ""
+    e "那具体要怎么办？"
 
 translate schinese Haskell_Meet_Hut_51273dc3:
 
     # h "See, they work by smell alone. If I can make a lotion, or ointment that makes our scent undetectable, then they won't attack us."
-    h ""
+    h "熊地精只凭嗅觉辨识生物。如果能调配出遮盖我们气味的药水或者软膏，他们就不会攻击我们了。"
 
 translate schinese Haskell_Meet_Hut_2a85af28:
 
     # e "You're proposing for us to live with the buggbears?"
-    e ""
+    e "你的意思是让熊地精继续在附近晃悠？"
 
 translate schinese Haskell_Meet_Hut_e62c5a69:
 
     # h "It's called mutualism, they get those pesky meddling goats away from me, and I leave them alone."
-    h ""
+    h "这叫与大自然和谐共生，他们为我赶走那些多管闲事的山羊，我给他们一个安宁。"
 
 translate schinese Haskell_Meet_Hut_dac1e95d:
 
     # e "Is that what it's called?"
-    e ""
+    e "“和谐共生”真的可以这么用吗？"
 
 translate schinese Haskell_Meet_Hut_9cd61f17:
 
     # h "Yes. Alright, the plan is simple. You use my powder to knock them off, and they'll produce extra saliva for you to collect."
-    h ""
+    h "当然可以。好了，计划很简单。你把我给你的这种粉末撒到他们面前，他们会昏过去而且分泌更多唾液。"
 
 translate schinese Haskell_Meet_Hut_e7b346ac:
 
     # h "Give them to me, it'll take me some time to make the lotion, so, after that, I'll give you the copious amount of strength potion."
-    h ""
+    h "收集这些唾液交给我。我要花几天调配隐身药水，之后我会帮你制作一车的力量药水。"
 
 translate schinese Haskell_Meet_Hut_6f874d7b:
 
     # e "Can't you just get them yourself..."
-    e ""
+    e "你不能自己去收集吗……"
 
 translate schinese Haskell_Meet_Hut_b9a21217:
 
     # h "I'm lazy. Plus now I need a replacement lion."
-    h ""
+    h "不能，因为我懒。再加上我需要有人代替那头狮子。"
 
 translate schinese Haskell_Meet_Hut_b758138e:
 
     # e "You mean... Seb."
-    e ""
+    e "你是指……塞巴斯。"
 
 translate schinese Haskell_Meet_Hut_e7626cc7:
 
     # h "Of course I mean Sebas. Now I can't drink tea with him because of his supposedly 'busy' business."
-    h ""
+    h "没错，他总说生意“忙”没法和我喝茶。"
 
 translate schinese Haskell_Meet_Hut_029e0575:
 
     # h "It's all an excuse, why wouldn't he come and talk with me."
-    h ""
+    h "都是借口罢了，我就纳闷他为什么不肯来陪我说说话。"
 
 translate schinese Haskell_Meet_Hut_07e4487d:
 
     # e "I... I'm here."
-    e ""
+    e "我……我可以陪你。"
 
 translate schinese Haskell_Meet_Hut_3ef7775e:
 
     # h "You? H-ha. I'd be surprised if you don't get bashed in the head by those buggbears."
-    h ""
+    h "你？哼哼。可别在来的路上被熊地精打伤头，又要我给你处理。"
 
 translate schinese Haskell_Meet_Hut_b9b43880:
 
     # e "I can handle them. Really."
-    e ""
+    e "我会解决他们的。不骗你。"
 
 translate schinese Haskell_Meet_Hut_ebd5fd58:
 
     # h "Alright, now go and prove yourself then, kiddo. Else I'll go to the village myself and kidnap them both back to my hut."
-    h ""
+    h "行，现在去证明给我看吧，小冒险家。不然我可要亲自去你们当铺，把奥利和塞巴斯都绑架来我家了。"
 
 translate schinese Haskell_Meet_Hut_9d0eb290:
 
     # e "O-ok. Thanks Haskell."
-    e ""
+    e "我、我知道了。"
 
 translate schinese Haskell_First_Meet_e0c3de74:
 
     # "While you explore the area around the wood, you run into someone sitting on a tree trunk."
-    ""
+    "你漫步树丛，突然发现前方有个人坐在一段倒下的树干上。"
 
 translate schinese Haskell_First_Meet_95bacecb:
 
     # "It doesn't seem to be someone you know, so you raise your weapon, and sneak behind the figure..."
-    ""
+    "他看起来不像是你会认识的人。你架起武器，准备偷偷潜行到他身后……"
 
 translate schinese Haskell_First_Meet_b121d820:
 
     # "As soon as you try to approach him, you step on a dry leaf, making loud cracking sound across the forest."
-    ""
+    "却一脚踩在枯叶上，响亮的破裂声任谁都能听见。"
 
 translate schinese Haskell_First_Meet_8e2821ca:
 
     # m "Hmmm...?"
-    m ""
+    m "嗯……？"
 
 translate schinese Haskell_First_Meet_20d216de:
 
     # "A blunt voice comes out of the figure's mouth, you realise that he is a dragon."
-    ""
+    "树干上的神秘人声音浑厚。你听出来了，他也是一头龙。"
 
 translate schinese Haskell_First_Meet_3aa5f827:
 
     # m "Ohh... You're not supposed to be here."
-    m ""
+    m "噢……这里可不是你随便来的地方。"
 
 translate schinese Haskell_First_Meet_14953670:
 
     # "The figure turns around and wave at you, apparently he is holding his cup of tea..."
-    ""
+    "他侧过身向你招手，另一只手抓着茶杯的把柄……"
 
 translate schinese Haskell_First_Meet_a3269dc2:
 
     # e "Uhh... Who are you?"
-    e ""
+    e "呃……你是谁？"
 
 translate schinese Haskell_First_Meet_2c380fbc:
 
     # h "Haskell. This is my place, kiddo, go play around somewhere else."
-    h ""
+    h "哈斯克尔。这是我的地盘，小年轻，去别的地方玩去。"
 
 translate schinese Haskell_First_Meet_cac2e7ed:
 
     # e "Sorry... My name is [e]. I was just looking around, I didn't mean to disturb you."
-    e ""
+    e "抱歉……我只是在附近转转，不是有意打扰你的。我叫[e]。"
 
 translate schinese Haskell_First_Meet_99daee51:
 
     # h "The weapon you are holding seems too sharp for this little old me."
-    h ""
+    h "对一个羸弱的老头子还举着这么锋利的武器会不会太过了。"
 
 translate schinese Haskell_First_Meet_107ae903:
 
     # e "I didn't know if you are dangerous or not."
-    e ""
+    e "我还不能排除你对我有没有威胁。"
 
 translate schinese Haskell_First_Meet_da5ca0a6:
 
     # h "Sure. Sure."
-    h ""
+    h "在理。"
 
 translate schinese Haskell_First_Meet_a1a95417:
 
     # e "Hmm... You're living nearby?"
-    e ""
+    e "嗯……你住在这附近吗？"
 
 translate schinese Haskell_First_Meet_8c02ec34:
 
     # h "No."
-    h ""
+    h "当然不。"
 
 translate schinese Haskell_First_Meet_1963d2b1:
 
     # h "What else do you think, you little dick head, I just told you this is my place."
-    h ""
+    h "你到底在想什么，小呆瓜，我刚刚才说这里是我的地盘。"
 
 translate schinese Haskell_First_Meet_d5920e57:
 
     # e "I am not familiar with anything around here... You don't need to be this aggressive, Haskell."
-    e ""
+    e "我还不是很熟悉这附近的环境……你用不着这么急眼。"
 
 translate schinese Haskell_First_Meet_c59518fb:
 
     # h "Ha. Funny kid aren't you. You look new around here, where do you live?"
-    h ""
+    h "哈，你可太逗了。你住在哪？我还没见过你这样的面孔。"
 
 translate schinese Haskell_First_Meet_2db7b312:
 
     # e "...Lusterfield?"
-    e ""
+    e "……乐斯民菲尔德？"
 
 translate schinese Haskell_First_Meet_76bf4f23:
 
     # h "Ohh... and what's your name again?"
-    h ""
+    h "噢……你叫什么来着？"
 
 translate schinese Haskell_First_Meet_5031b55a:
 
     # e "[e]."
-    e ""
+    e "[e]。"
 
 translate schinese Haskell_First_Meet_ff63cdc5:
 
     # h "S-So. You are the one living with Ole?"
-    h ""
+    h "嗯哼，你还住在奥利那？"
 
 translate schinese Haskell_First_Meet_c8ace0ee:
 
     # e "Yeah, I just arrived here... like [timenow.day] days ago."
-    e ""
+    e "对，我……[timenow.day]天前才到的这里。"
 
 translate schinese Haskell_First_Meet_c0d42f0a:
 
     # e "Do you know me?"
-    e ""
+    e "你认识我吗？"
 
 translate schinese Haskell_First_Meet_562bf2d0:
 
     # h "No. Are you an outsider?"
-    h ""
+    h "不认识。你是海外人吧？"
 
 translate schinese Haskell_First_Meet_d609152d:
 
     # e "Yes... Wait, are you interrogating me right now?"
-    e ""
+    e "对……等等，你在套我话吗？"
 
 translate schinese Haskell_First_Meet_9aca643d:
 
     # h "What else do you think I'm doing... Fucking your bubbly butt?"
-    h ""
+    h "不然呢……难道你觉得我要透你圆滚滚的大屁股？"
 
 translate schinese Haskell_First_Meet_72a33094:
 
     # e "..."
-    e ""
+    e "……"
 
 translate schinese Haskell_First_Meet_0316b1e5:
 
     # "Haskell takes a giant sip at his cup, while looking up to you and peeking at your reaction."
-    ""
+    "哈斯克尔举杯大饮，双眼同时观察着你的反应。"
 
 translate schinese Haskell_First_Meet_0b45ae74:
 
     # e "No?"
-    e ""
+    e "我没这么觉得？"
 
 translate schinese Haskell_First_Meet_38d65710:
 
     # h "Ugh... boring."
-    h ""
+    h "呃啊……没意思的家伙。"
 
 translate schinese Haskell_First_Meet_1109b032:
 
     # e "Hey, you are the one sitting there sipping tea and judging me for no reason at all."
-    e ""
+    e "嘿，你才是那个一边喝茶一边无缘无故评价我的家伙。"
 
 translate schinese Haskell_First_Meet_da5ca0a6_1:
 
     # h "Sure. Sure."
-    h ""
+    h "对对对。"
 
 translate schinese Haskell_First_Meet_2fded262:
 
     # h "..."
-    h ""
+    h "……"
 
 translate schinese Haskell_First_Meet_4306ac46:
 
     # h "You wanna try this? I made it this morning."
-    h ""
+    h "想尝尝吗？我今早刚泡的。"
+
+translate schinese strings:
+
+    old "The dragon points at his cup, signaling you to sit down with him and relax."
+    new "哈斯克尔指了指他的杯子，示意你陪他坐下来放松片刻。"
+
+    old "Sit with Haskell"
+    new "同意"
+
+    old "Decline"
+    new "拒绝"
 
 translate schinese Haskell_First_Meet_f9d92965:
 
     # "You take your seat with Haskell, he seems to be very nonchalant with a stranger in the forest."
-    ""
+    "你坐在哈斯克尔身旁，他似乎完全不在意你只是个突然窜出来的陌生人。"
 
 translate schinese Haskell_First_Meet_ca47902a:
 
     # "You can smell the floral aroma of the herbal tea from here, enticing you to try it out."
-    ""
+    "花茶清香四溢，勾起你想品味一番的欲望。"
 
 translate schinese Haskell_First_Meet_1f005d5f:
 
     # e "Uhh... What's in the cup?"
-    e ""
+    e "呃……这是拿什么泡的？"
 
 translate schinese Haskell_First_Meet_b8fdf930:
 
     # h "Poison."
-    h ""
+    h "毒药。"
 
 translate schinese Haskell_First_Meet_08610248:
 
     # e "...What?"
-    e ""
+    e "……什么？"
 
 translate schinese Haskell_First_Meet_fc44ba59:
 
     # h "Calm down... It was just a joke."
-    h ""
+    h "放轻松……我只是开个小玩笑。"
 
 translate schinese Haskell_First_Meet_6fd38b29:
 
     # e "You have a weird sense of humour, Haskell."
-    e ""
+    e "你的幽默感也太怪了。"
 
 translate schinese Haskell_First_Meet_02d30f16:
 
     # h "Look, it's chrysanthemum, with the best looking roots of angelica and rehmannia in my garden."
-    h ""
+    h "这是我拿我花园里上等的菊花、地黄、白芷泡成的。"
 
 translate schinese Haskell_First_Meet_d7ed60ca:
 
     # e "How does it taste...?"
-    e ""
+    e "茶的味道怎么样？"
 
 translate schinese Haskell_First_Meet_6041eea4:
 
     # h "You will know when you take a sip."
-    h ""
+    h "你尝尝不就知道了。"
 
 translate schinese Haskell_First_Meet_288e173c:
 
     # "Haskell adjusts his posture to sit closer to you, he brings the cup to your hand and motion you to hold it."
-    ""
+    "哈斯克尔凑了过来，将他的杯子递给你，示意你拿去喝。"
 
 translate schinese Haskell_First_Meet_a8dc6a92:
 
     # "He stares at you while you taste the tea, it's surprisingly sweet, with a hint of buttery warmth in your mouth, much like honey."
-    ""
+    "你感受着他紧盯的目光，举杯喝下少许。"
+    "茶水味道十分甘甜，伴随着类似黄油的温暖奶香，让你感觉自己像在喝蜂蜜。"
 
 translate schinese Haskell_First_Meet_ffe16c9f:
 
     # h "How does it taste?"
-    h ""
+    h "怎么样？"
 
 translate schinese Haskell_First_Meet_fb581347:
 
     # e "Nice? I've never drank anything like that."
-    e ""
+    e "挺不错的？我从来没有喝过这种茶。"
 
 translate schinese Haskell_First_Meet_9e2186e0:
 
     # "You take a big slurp before he takes the cup from you, sipping from the cup himself."
-    ""
+    "你立马又大灌了一口。哈斯克尔连忙把杯子夺过来，饮啜余下的茶水。"
 
 translate schinese Haskell_First_Meet_eb8cbdfa:
 
     # h "Drink slowly, or no drink at all."
-    h ""
+    h "要么慢慢喝，要么没得喝。"
 
 translate schinese Haskell_First_Meet_16983184:
 
     # e "Sorry, Haskell, it tastes so good."
-    e ""
+    e "对不起啊，这实在太好喝了。"
 
 translate schinese Haskell_First_Meet_117bc2b2:
 
     # h "You'd be surprised how many years of research it takes to create such... masterpiece of refreshment."
-    h ""
+    h "要是你知道这得花多少年去研究，才能做出如此……沁人心脾的杰作，你一定会惊讶得掉下巴。"
 
 translate schinese Haskell_First_Meet_3f9df8ff:
 
     # e "You're good at making tea?"
-    e ""
+    e "你很擅长泡茶吗？"
 
 translate schinese Haskell_First_Meet_7a4a117a:
 
     # h "I'm good at making anything you can drink."
-    h ""
+    h "我擅长做出所有你可以喝下肚的东西。"
 
 translate schinese Haskell_First_Meet_e219cace:
 
     # e "That's... cool. It feels so cozy here drinking tea in the forest."
-    e ""
+    e "那可……真厉害。在这里喝茶的确好惬意。"
 
 translate schinese Haskell_First_Meet_2888ad77:
 
     # h "Sure, kiddo. Sure."
-    h ""
+    h "那可不，[e]，那可不。"
 
 translate schinese Haskell_First_Meet_1ee7e1a0:
 
     # "You admire the scenery with Haskell by your side. He doesn't speak much, only drinking from his cup from time to time."
-    ""
+    "你们并排坐着欣赏这片绿林风光。哈斯克尔时不时抿一口茶，没有怎么说话。"
 
 translate schinese Haskell_First_Meet_3433d8cc:
 
     # "You would think it's a bad idea to share tea with a stranger, but strangely you feel much relaxed, and clear-minded."
-    ""
+    "按理来说，和一个完全陌生的家伙挨这么近非常危险，更不用说你还喝了他给的不明饮品。"
+    "但此时你却感到莫名的放松和清醒。"
 
 translate schinese Haskell_First_Meet_b4799588:
 
     # msg "Your HP and MP is replenished, and your lust turns to 0."
-    msg ""
+    pass
 
 translate schinese Haskell_First_Meet_72a33094_1:
 
     # e "..."
-    e ""
+    $ renpy.notify("已恢复全部体力和魔力；已净空性欲")
+    e "……"
 
 translate schinese Haskell_First_Meet_8b10215b:
 
     # e "You seem to be too laidback to be sitting here out in the dangerous forest."
-    e ""
+    e "你就这么坐在这片危险的森林，一点提防都没有，会不会太大意了。"
 
 translate schinese Haskell_First_Meet_ad900b0b:
 
     # h "How would you know if I'm not prepared. If anything, it was you who sit beside me not knowing what I'm capable of."
-    h ""
+    h "你又知道我没有提防？要说谁大意，你才是那个大意到不知道我有什么能耐，还坐在我旁边的人吧。"
 
 translate schinese Haskell_First_Meet_ad8abcdc:
 
     # e "...Al-right."
-    e ""
+    e "……好、好吧。"
 
 translate schinese Haskell_First_Meet_7045b99c:
 
     # h "I should go now. Tea time is over."
-    h ""
+    h "我得走了，茶话会结束。"
 
 translate schinese Haskell_First_Meet_80b5f97f:
 
     # e "W-wait... You're going... already?"
-    e ""
+    e "啊……这么快吗？"
 
 translate schinese Haskell_First_Meet_dd9032fa:
 
     # h "I've finished my drink, which means I need a refill."
-    h ""
+    h "茶喝完了，我要回屋里续杯。"
 
 translate schinese Haskell_First_Meet_119faab8:
 
     # h "But don't worry kiddo, I assume we'll meet again somewhere else soon."
-    h ""
+    h "但别太失望，我相信我们很快会再见面的，[e]。"
 
 translate schinese Haskell_First_Meet_80c9d9e7:
 
     # "You see Haskell casually walks away, and then disappears into the darkness of the forest, leaving you sitting on the tree trunk alone."
-    ""
+    "哈斯克尔悠哉游哉地朝远方走去，切入幽暗的树丛中消失不见，留你一人坐在树干上。"
 
 translate schinese Haskell_First_Meet_8c8ac27d:
 
     # e "Uhh... I'm gonna pass."
-    e ""
+    e "呃……不用了。"
 
 translate schinese Haskell_First_Meet_4dd1e307:
 
     # h "Your loss."
-    h ""
+    h "不喝白不喝。"
 
 translate schinese Haskell_First_Meet_f002e5c2:
 
     # "Haskell continues sipping his tea, looking around the forest as it is his piece of work."
-    ""
+    "哈斯克尔继续品着茶，观赏周围的花草树木，好似这一片郁郁葱葱就是他的杰作。"
 
 translate schinese Haskell_First_Meet_3934b3e4:
 
     # "He ignores you for the time being, eventually you just slip away from his sight and carry on with your adventure."
-    ""
+    "他没有再理会你。最终你径直离开了他的视线，继续前进。"
 
 translate schinese Haskell_First_Meet_beb19627:
 
     # "You see the back of a dragon sitting under the shade of the forest, it's Haskell."
-    ""
+    "眼前树林的阴影投在一头龙的背上，是哈斯克尔。"
 
 translate schinese Haskell_First_Meet_6b354584:
 
     # e "Hey, Haskell. Nice seeing you around here."
-    e ""
+    e "嗨，哈斯克尔。真巧啊。"
 
 translate schinese Haskell_First_Meet_d533d724:
 
     # h "Sure, Sure."
-    h ""
+    h "嗯哼。"
 
 translate schinese Haskell_First_Meet_b26b7fda:
 
@@ -2776,72 +2866,79 @@ translate schinese Haskell_First_Meet_b26b7fda:
 translate schinese Haskell_First_Meet_74115fba:
 
     # h "The buggbears are still around the corner, we have to be cautious, somehow."
-    h ""
+    h "周围还有熊地精出没，留个心眼。"
 
 translate schinese Haskell_First_Meet_3388a208:
 
     # e "Oh..."
-    e ""
+    e "噢……"
 
 translate schinese Haskell_First_Meet_62b66d99:
 
     # h "You want a drink?" nointeract
-    h "" nointeract
+    h "来一杯？" nointeract
+
+translate schinese strings:
+
+    old "Accept"
+    new "同意"
 
 translate schinese Haskell_First_Meet_cca4c10b:
 
     # "You sit besides Haskell and try to take the mug from him, only to see him holding onto it."
-    ""
+    "你在哈斯克尔身旁坐了下来，自然而然地伸手去拿茶杯，但他却攥着杯柄不让你马上拿走。"
 
 translate schinese Haskell_First_Meet_7bca638f:
 
     # "Haskell adjusts his posture to sit closer to you, he brings it to your palm and motion you to hold the mug."
-    ""
+    "而后他才凑了过来将杯子递给你，暗示自己的主动权。"
 
 translate schinese Haskell_First_Meet_a8dc6a92_1:
 
     # "He stares at you while you taste the tea, it's surprisingly sweet, with a hint of buttery warmth in your mouth, much like honey."
-    ""
+    "你举杯开饮，同时感受着他紧盯的目光。"
+    "茶水味道十分甘甜，伴随着类似黄油的温暖奶香，让你感觉自己像在喝蜂蜜。"
 
 translate schinese Haskell_First_Meet_b4799588_1:
 
     # msg "Your HP and MP is replenished, and your lust turns to 0."
-    msg ""
+    pass
 
 translate schinese Haskell_First_Meet_b4afa39e:
 
     # e "Thank you for the drink, Haskell. I think I got to go."
-    e ""
+    $ renpy.notify("已恢复全部体力和魔力；已净空性欲")
+    e "谢谢你的茶，哈斯克尔。现在我得去办别的事了。"
 
 translate schinese Haskell_First_Meet_bad88e76:
 
     # h "Right. See you around."
-    h ""
+    h "好，下次见。"
 
 translate schinese Haskell_First_Meet_19f2aebb:
 
     # e "See you, Haskell."
-    e ""
+    e "下次见。"
 
 translate schinese Haskell_First_Meet_8c8ac27d_1:
 
     # e "Uhh... I'm gonna pass."
-    e ""
+    e "呃……不用了。"
 
 translate schinese Haskell_First_Meet_4dd1e307_1:
 
     # h "Your loss."
-    h ""
+    h "不喝白不喝。"
 
 translate schinese Haskell_First_Meet_f002e5c2_1:
 
     # "Haskell continues sipping his tea, looking around the forest as it is his piece of work."
-    ""
+    "哈斯克尔继续品着茶，观赏周围的花草树木，好似这一片郁郁葱葱就是他的杰作。"
 
 translate schinese Haskell_First_Meet_3934b3e4_1:
 
     # "He ignores you for the time being, eventually you just slip away from his sight and carry on with your adventure."
-    ""
+    "他没有再理会你。最终你径直离开了他的视线，继续前进。"
 
 # translate schinese Haskell_Minotaur_Dungeon_20335060:
 

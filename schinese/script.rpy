@@ -1773,8 +1773,8 @@ translate schinese bedroom_beginning_4255fc2d:
 translate schinese bedroom_beginning_f228f457:
 
     # "You glance at the drawer and found a brown leather bag, with a journal and a piece of map inside. (You can access them at the bottom right corner of the screen.)"
-    "环顾房间，你瞥见抽屉里多了个皮跨包，里面有笔记本和地图。"
     $ renpy.notify("现可通过屏幕右下方按钮打开背包")
+    "环顾房间，你瞥见抽屉里多了个皮跨包，里面有笔记本和地图。"
 
 translate schinese bedroom_beginning_ca03823d:
 

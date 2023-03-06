@@ -27,6 +27,7 @@ Arthur | 亚瑟 |
 Cane | 凯恩 | 
 Chime | 齐门 | 
 Furkan | 弗坎 | 
+Gwyddyon | 格威迪恩 | 
 Haskell | 哈斯克尔 | 
 Jog | 乔格 | 
 Kari | 卡里 | 

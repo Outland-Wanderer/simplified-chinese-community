@@ -4955,8 +4955,8 @@ translate schinese Cane_First_c9dfabe5:
 translate schinese Cane_First_c8902e05:
 
     # e "Ok then. (You received 100 gold.)"
-    e "谢谢老板。"
     $ renpy.notify("已收获 100 金币")
+    e "谢谢老板。"
 
 translate schinese Cane_First_5435e904:
 

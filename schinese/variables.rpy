@@ -1079,7 +1079,7 @@ translate schinese strings:
 
     # old "After leaving Vurro behind in the cave, Wuldon wanted me to attend his burial, and plan for a revenge on Uffe."
     # new ""
-#TODO quest31重复任务？？
+
     # #任务
 
     # old "Potion Order"
