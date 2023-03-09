@@ -3541,8 +3541,8 @@ translate schinese strings:
     # old "Ask about Further training and lessons"
     # new "询问进一步的邮递员训练和课程"
 
-    # old "Ask about his habit of cleaning"
-    # new "好奇对清洁的爱好"
+    old "Ask about his habit of cleaning"
+    new "好奇他对清洁的爱好"
 
     # old "Ask about his sickness"
     # new "关心病情"
@@ -4676,255 +4676,255 @@ translate schinese Ole_Ask_Ointment_Quest_a36325ea:
     # "Ole chuckles at your gesture. He soon turns back to the cabinet and resume cleaning."
     "你端正地向奥利起誓。奥利笑了笑，转身回去继续清理货架。"
 
-# translate schinese Ole_Ask_Cleaning_acacbf7e:
+translate schinese Ole_Ask_Cleaning_acacbf7e:
 
-#     # e "Ole, I really haven't gotten to know what do you do specifically at the shop."
-#     e ""
+    # e "Ole, I really haven't gotten to know what do you do specifically at the shop."
+    e "奥利，其实我还真没搞清楚你在当铺具体做些什么。"
 
-# translate schinese Ole_Ask_Cleaning_13edcf9e:
+translate schinese Ole_Ask_Cleaning_13edcf9e:
 
-#     # o "I help Seb with the logistics side of things."
-#     o ""
+    # o "I help Seb with the logistics side of things."
+    o "我在当铺主要负责后勤工作。"
 
-# translate schinese Ole_Ask_Cleaning_9f2e108d:
+translate schinese Ole_Ask_Cleaning_9f2e108d:
 
-#     # o "Arranging new couriers, doing inventory, tallying up the accounts and so on."
-#     o ""
+    # o "Arranging new couriers, doing inventory, tallying up the accounts and so on."
+    o "比如安排新的邮差，管理库存和账目等等。"
 
-# translate schinese Ole_Ask_Cleaning_9330d358:
+translate schinese Ole_Ask_Cleaning_9330d358:
 
-#     # e "That is amazing."
-#     e ""
+    # e "That is amazing."
+    e "好复杂噢。"
 
-# translate schinese Ole_Ask_Cleaning_776ef18e:
+translate schinese Ole_Ask_Cleaning_776ef18e:
 
-#     # o "It is more like a necessity."
-#     o ""
+    # o "It is more like a necessity."
+    o "再复杂也得管这些事啊……"
 
-# translate schinese Ole_Ask_Cleaning_cccb8730:
+translate schinese Ole_Ask_Cleaning_cccb8730:
 
-#     # o "If you leave those things to Seb, this shop would have gone under a long time ago."
-#     o ""
+    # o "If you leave those things to Seb, this shop would have gone under a long time ago."
+    o "要是让阿塞来，君临典当早就倒闭了。"
 
-# translate schinese Ole_Ask_Cleaning_853ba6df:
+translate schinese Ole_Ask_Cleaning_853ba6df:
 
-#     # s "Hey, I heard that!"
-#     s ""
+    # s "Hey, I heard that!"
+    s "嘿，我听到咯！"
 
-# translate schinese Ole_Ask_Cleaning_922ce317:
+translate schinese Ole_Ask_Cleaning_922ce317:
 
-#     # s "Just verifying that O is telling the truth!"
-#     s ""
+    # s "Just verifying that O is telling the truth!"
+    s "但奥利说的没错！"
 
-# translate schinese Ole_Ask_Cleaning_d31a9d20:
+translate schinese Ole_Ask_Cleaning_d31a9d20:
 
-#     # o "See."
-#     o ""
+    # o "See."
+    o "你看。"
 
-# translate schinese Ole_Ask_Cleaning_147337b7:
+translate schinese Ole_Ask_Cleaning_147337b7:
 
-#     # "Ole shakes his head helplessly."
-#     ""
+    # "Ole shakes his head helplessly."
+    "奥利无奈地摇摇头。"
 
-# translate schinese Ole_Ask_Cleaning_1e2f1329:
+translate schinese Ole_Ask_Cleaning_1e2f1329:
 
-#     # o "Other than that I also help make some simple potions for the store to sell and clean up around here."
-#     o ""
+    # o "Other than that I also help make some simple potions for the store to sell and clean up around here."
+    o "除此之外，我还会制作一些简单的药剂出售，和打扫当铺。"
 
-# translate schinese Ole_Ask_Cleaning_64c354d1:
+translate schinese Ole_Ask_Cleaning_64c354d1:
 
-#     # e "Why don't you ask Seb to help you clean?"
-#     e ""
+    # e "Why don't you ask Seb to help you clean?"
+    e "为什么不叫阿塞帮忙打扫？"
 
-# translate schinese Ole_Ask_Cleaning_af0a14ec:
+translate schinese Ole_Ask_Cleaning_af0a14ec:
 
-#     # s "Roomie, you're making it sound like I don't pull my weight around here!"
-#     s ""
+    # s "Roomie, you're making it sound like I don't pull my weight around here!"
+    s "老铁，你说得我好像吃白饭不干活一样！"
 
-# translate schinese Ole_Ask_Cleaning_6908e972:
+translate schinese Ole_Ask_Cleaning_6908e972:
 
-#     # s "That's not true! Right, O?"
-#     s ""
+    # s "That's not true! Right, O?"
+    s "我还是很勤奋的！对吧，奥利？"
 
-# translate schinese Ole_Ask_Cleaning_ce8f75f3:
+translate schinese Ole_Ask_Cleaning_ce8f75f3:
 
-#     # "Ole smiles indulgently."
-#     ""
+    # "Ole smiles indulgently."
+    "奥利会心一笑。"
 
-# translate schinese Ole_Ask_Cleaning_491fef5e:
+translate schinese Ole_Ask_Cleaning_491fef5e:
 
-#     # o "Yes. Seb does his part and I do mine."
-#     o ""
+    # o "Yes. Seb does his part and I do mine."
+    o "没错，阿塞和我只是忙活不同的事情而已。"
 
-# translate schinese Ole_Ask_Cleaning_609c70de:
+translate schinese Ole_Ask_Cleaning_609c70de:
 
-#     # o "But let's just say cleaning is not his calling."
-#     o ""
+    # o "But let's just say cleaning is not his calling."
+    o "而且，没办法，阿塞不是干家务的料。"
 
-# translate schinese Ole_Ask_Cleaning_8eede033:
+translate schinese Ole_Ask_Cleaning_8eede033:
 
-#     # s "Hey, I clean too.... That one time."
-#     s ""
+    # s "Hey, I clean too.... That one time."
+    s "嘿，我也有打扫过……一次。"
 
-# translate schinese Ole_Ask_Cleaning_797865e8:
+translate schinese Ole_Ask_Cleaning_797865e8:
 
-#     # o "What a catastrophe that was."
-#     o ""
+    # o "What a catastrophe that was."
+    o "你忘了那次你闯了多大的祸吗。"
 
-# translate schinese Ole_Ask_Cleaning_9e168798:
+translate schinese Ole_Ask_Cleaning_9e168798:
 
-#     # e "What happened?"
-#     e ""
+    # e "What happened?"
+    e "怎么回事？"
 
-# translate schinese Ole_Ask_Cleaning_9f3be4f6:
+translate schinese Ole_Ask_Cleaning_9f3be4f6:
 
-#     # o "I'll just say that I ended up doing more cleaning than I should've if I didn't ask for Seb's help."
-#     o ""
+    # o "I'll just say that I ended up doing more cleaning than I should've if I didn't ask for Seb's help."
+    o "客观来说，假如我没叫阿塞帮忙，那天我的打扫工作量就不会比平时翻倍了。"
 
-# translate schinese Ole_Ask_Cleaning_a67b2433:
+translate schinese Ole_Ask_Cleaning_a67b2433:
 
-#     # s "Hey! That wasn't my fault."
-#     s ""
+    # s "Hey! That wasn't my fault."
+    s "嘿！那又不是我的错。"
 
-# translate schinese Ole_Ask_Cleaning_87e02399:
+translate schinese Ole_Ask_Cleaning_87e02399:
 
-#     # s "Am I supposed to know that glassware are so fragile?"
-#     s ""
+    # s "Am I supposed to know that glassware are so fragile?"
+    s "我哪知道那些玻璃罐这么不经摔？"
 
-# translate schinese Ole_Ask_Cleaning_8651e32a:
+translate schinese Ole_Ask_Cleaning_8651e32a:
 
-#     # e "Isn't that common knowledge?"
-#     e ""
+    # e "Isn't that common knowledge?"
+    e "玻璃易碎难道不是常识吗？"
 
-# translate schinese Ole_Ask_Cleaning_a0fd3bcc:
+translate schinese Ole_Ask_Cleaning_a0fd3bcc:
 
-#     # s "Roomy, whose side are you on? The glass or mine?"
-#     s ""
+    # s "Roomy, whose side are you on? The glass or mine?"
+    s "好室友，你评评谁有理吧？玻璃罐还是我？"
 
-# translate schinese Ole_Ask_Cleaning_38b16088:
+translate schinese Ole_Ask_Cleaning_38b16088:
 
-#     # o "Alright. Stop pestering our friend."
-#     o ""
+    # o "Alright. Stop pestering our friend."
+    o "好了好了，不要扯上[e]。"
 
-# translate schinese Ole_Ask_Cleaning_00b78639:
+translate schinese Ole_Ask_Cleaning_00b78639:
 
-#     # "Ole shoos Seb back to work before turning back to you."
-#     ""
+    # "Ole shoos Seb back to work before turning back to you."
+    "奥利转身将塞巴斯赶去工作，又重新面向你。"
 
-# translate schinese Ole_Ask_Cleaning_ffdadf92:
+translate schinese Ole_Ask_Cleaning_ffdadf92:
 
-#     # o "Now you understand why I don't ask him for help when it comes to cleaning."
-#     o ""
+    # o "Now you understand why I don't ask him for help when it comes to cleaning."
+    o "现在你明白为什么我不找他帮忙打扫了吧。"
 
-# translate schinese Ole_Ask_Cleaning_9f53eed8:
+translate schinese Ole_Ask_Cleaning_9f53eed8:
 
-#     # o "It's something I picked up when I was an apprentice working for Haskell."
-#     o ""
+    # o "It's something I picked up when I was an apprentice working for Haskell."
+    o "其实，爱打扫卫生是我在哈斯克尔那当学徒时养成的。"
 
-# translate schinese Ole_Ask_Cleaning_3f19a81f:
+translate schinese Ole_Ask_Cleaning_3f19a81f:
 
-#     # o "You wouldn't know it but cleanliness plays a huge-role in potion making."
-#     o ""
+    # o "You wouldn't know it but cleanliness plays a huge-role in potion making."
+    o "洁净的器皿和环境对制作药剂非常重要，这点你可能还不知道。"
 
-# translate schinese Ole_Ask_Cleaning_0e0139e0:
+translate schinese Ole_Ask_Cleaning_0e0139e0:
 
-#     # o "If an ingredient is contaminated, the final product's effect might be affected."
-#     o ""
+    # o "If an ingredient is contaminated, the final product's effect might be affected."
+    o "配料中任何一点污染都有可能影响最终的成品。"
 
-# translate schinese Ole_Ask_Cleaning_666874f9:
+translate schinese Ole_Ask_Cleaning_666874f9:
 
-#     # o "I've spent quite a long time cleaning vials and bottles before Haskell would allow me to brew my first potion."
-#     o ""
+    # o "I've spent quite a long time cleaning vials and bottles before Haskell would allow me to brew my first potion."
+    o "哈斯克尔允许我自行配制药水之前，好长一段时间我都在洗这些瓶瓶罐罐。"
 
-# translate schinese Ole_Ask_Cleaning_8a831a72:
+translate schinese Ole_Ask_Cleaning_8a831a72:
 
-#     # o "I've kept that habit every since."
-#     o ""
+    # o "I've kept that habit every since."
+    o "从那时起，我就有了保持干净的习惯。"
 
-# translate schinese Ole_Ask_Cleaning_b41abd79:
+translate schinese Ole_Ask_Cleaning_b41abd79:
 
-#     # "You glance at the glass vials and bottles on the table and shelves. They are all sparkling clean."
-#     ""
+    # "You glance at the glass vials and bottles on the table and shelves. They are all sparkling clean."
+    "你望向周围的玻璃器具，它们全都一尘不染，干净得发光。"
 
-# translate schinese Ole_Ask_Cleaning_008c6b8d:
+translate schinese Ole_Ask_Cleaning_008c6b8d:
 
-#     # e "But, Haskell doesn't seem like someone who would mind cleanliness that much."
-#     e ""
+    # e "But, Haskell doesn't seem like someone who would mind cleanliness that much."
+    e "但哈斯克尔好像不怎么在意干净不干净。"
 
-# translate schinese Ole_Ask_Cleaning_964222b3:
+translate schinese Ole_Ask_Cleaning_964222b3:
 
-#     # e "Speaking of, I don't think I've seen him clean the big mug he often drinks out of...."
-#     e ""
+    # e "Speaking of, I don't think I've seen him clean the big mug he often drinks out of...."
+    e "话说他每天捧着的茶杯，我好像还没见他洗过……"
 
-# translate schinese Ole_Ask_Cleaning_b7aba819:
+translate schinese Ole_Ask_Cleaning_b7aba819:
 
-#     # "Ole chuckles warmly."
-#     ""
+    # "Ole chuckles warmly."
+    "奥利坦荡地笑出声。"
 
-# translate schinese Ole_Ask_Cleaning_4b6b1c5c:
+translate schinese Ole_Ask_Cleaning_4b6b1c5c:
 
-#     # o "Sharp observation there."
-#     o ""
+    # o "Sharp observation there."
+    o "小兄弟观察力挺敏锐的嘛。"
 
-# translate schinese Ole_Ask_Cleaning_87117a86:
+translate schinese Ole_Ask_Cleaning_87117a86:
 
-#     # o "Haskell is already a master when I studied under him."
-#     o ""
+    # o "Haskell is already a master when I studied under him."
+    o "我向哈斯克尔求学的时候他已经才高八斗了。"
 
-# translate schinese Ole_Ask_Cleaning_296f2cbf:
+translate schinese Ole_Ask_Cleaning_296f2cbf:
 
-#     # o "His mastery of alchemy easily overrides the negative influence any grim or dirt can bring."
-#     o ""
+    # o "His mastery of alchemy easily overrides the negative influence any grim or dirt can bring."
+    o "他对炼金术的造诣已经高到无论什么污损材料带来的负面影响，他都有办法抵消。"
 
-# translate schinese Ole_Ask_Cleaning_b3caa43a:
+translate schinese Ole_Ask_Cleaning_b3caa43a:
 
-#     # o "Can't say Haskell's one to take his own advice. He just can't kick that slothful habit."
-#     o ""
+    # o "Can't say Haskell's one to take his own advice. He just can't kick that slothful habit."
+    o "不能说哈斯克尔双重标准，他只是改不掉那懒惰的性格。"
 
-# translate schinese Ole_Ask_Cleaning_fea00386:
+translate schinese Ole_Ask_Cleaning_fea00386:
 
-#     # o "So occasionally I'd go back to his hut to help with the clean up."
-#     o ""
+    # o "So occasionally I'd go back to his hut to help with the clean up."
+    o "所以我偶尔会去他家帮忙打扫卫生。"
 
-# translate schinese Ole_Ask_Cleaning_eda85b29:
+translate schinese Ole_Ask_Cleaning_eda85b29:
 
-#     # e "That's very kind of you, Ole."
-#     e ""
+    # e "That's very kind of you, Ole."
+    e "奥利你人真好。"
 
-# translate schinese Ole_Ask_Cleaning_82f47773:
+translate schinese Ole_Ask_Cleaning_82f47773:
 
-#     # "Ole accepts the compliment."
-#     ""
+    # "Ole accepts the compliment."
+    "对方点头收下你的赞美。"
 
-# translate schinese Ole_Ask_Cleaning_9a1a8521:
+translate schinese Ole_Ask_Cleaning_9a1a8521:
 
-#     # o "He has taught me everything I know about alchemy. Some cleaning is nothing."
-#     o ""
+    # o "He has taught me everything I know about alchemy. Some cleaning is nothing."
+    o "毕竟是他教会了我关于炼金术的一切，帮他打扫屋子不算什么。"
 
-# translate schinese Ole_Ask_Cleaning_79d62148:
+translate schinese Ole_Ask_Cleaning_79d62148:
 
-#     # o "Plus, I like to clean. A clean mind is a healthy mind."
-#     o ""
+    # o "Plus, I like to clean. A clean mind is a healthy mind."
+    o "而且我本来就喜欢打扫，清净的心境就是健康的心境。"
 
-# translate schinese Ole_Ask_Cleaning_10d94b0f:
+translate schinese Ole_Ask_Cleaning_10d94b0f:
 
-#     # o "That's why you'll normally see me cleaning up around here."
-#     o ""
+    # o "That's why you'll normally see me cleaning up around here."
+    o "所以，这就是你总能看到我在这里打扫卫生的原因。"
 
-# translate schinese Ole_Ask_Cleaning_cb9fd50c:
+translate schinese Ole_Ask_Cleaning_cb9fd50c:
 
-#     # e "Thanks for the chat, Ole. I feel like I know you better now."
-#     e ""
+    # e "Thanks for the chat, Ole. I feel like I know you better now."
+    e "谢谢你告诉我这些让我更了解你，奥利。"
 
-# translate schinese Ole_Ask_Cleaning_bc52a60f:
+translate schinese Ole_Ask_Cleaning_bc52a60f:
 
-#     # o "It was fun talking to you."
-#     o ""
+    # o "It was fun talking to you."
+    o "不用谢，和你聊天我也很开心。"
 
-# translate schinese Ole_Ask_Cleaning_17bd1023:
+translate schinese Ole_Ask_Cleaning_17bd1023:
 
-#     # s "Hey. Don't forget me!"
-#     s ""
+    # s "Hey. Don't forget me!"
+    s "嘿。别忘了还有我！"
 
 translate schinese Ole_Ask_Under_Counter_c372fb80:
 
