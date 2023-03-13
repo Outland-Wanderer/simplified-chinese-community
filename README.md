@@ -33,7 +33,7 @@
 
 ## 字体使用
 
-[文鼎ＰＬ简中楷](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
+[文鼎ＰＬ简中楷、文鼎ＰＬ中楷](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
 
 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)
 
