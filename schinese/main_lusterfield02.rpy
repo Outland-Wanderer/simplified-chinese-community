@@ -96,7 +96,7 @@ translate schinese Cane_Dialogue_a9f0941c:
 translate schinese Cane_Dialogue_c6408ae7:
 
     # c "Cover yer cock, ya dink. I'm not serving some donks who goes out naked in the public."
-    c "遮好你那话儿，小逼孩得。我不卖酒给光天化日不穿衣服的浪蛋。"
+    c "遮好你那话儿，小屄孩得。我不卖酒给光天化日不穿衣服的浪蛋。"
 
 translate schinese Cane_Dialogue_bad59a76:
 
@@ -5978,7 +5978,7 @@ translate schinese Cane_SoWrong_e2bf0094:
 translate schinese Cane_Wrong_5dfc18ba:
 
     # c "Cone? Really? Ya think I've got that stupid name like that?"
-    c "科恩？不是吧。你觉得我会叫这种傻逼名字？"
+    c "科恩？不是吧。你觉得我会叫这种傻屄名字？"
 
 translate schinese Cane_Wrong_22a66741:
 
@@ -6063,7 +6063,7 @@ translate schinese Cane_Wrong_072d3a3d:
 translate schinese Cane_Correct_ef785441:
 
     # c "Ha... damn, that's fair. It's Cane with a C."
-    c "哈……操，你赢了，我的名字是凯恩。"
+    c "哈……肏，你赢了，我的名字是凯恩。"
 
 translate schinese Cane_Correct_fb58faa6:
 
@@ -6073,7 +6073,7 @@ translate schinese Cane_Correct_fb58faa6:
 translate schinese Cane_Correct_533a6b69:
 
     # c "Ya sure? I'm not Cone for the record, just letting ya know."
-    c "啊，你说什么？我可没叫过科恩，你可别记岔逼了。"
+    c "啊，你说什么？我可没叫过科恩，你可别记岔屄了。"
 
 translate schinese Cane_Correct_bcb31e09:
 
@@ -14598,7 +14598,7 @@ translate schinese Lothar_Mossy_Artifact_8e6121c9:
 translate schinese Lothar_Mossy_Artifact_c06c02be:
 
     # s "Fuck you. Lothar."
-    s "操翻你，傻狗。"
+    s "肏翻你，傻狗。"
 
 translate schinese Lothar_Mossy_Artifact_c95b6c6c:
 
@@ -14628,7 +14628,7 @@ translate schinese Lothar_Mossy_Artifact_65e123da:
 translate schinese Lothar_Mossy_Artifact_3b467327:
 
     # s "The kick. You kicked me in the nuts last time, fuck! Let me give you the fucking foot and I'll consider a transaction between us."
-    s "那一脚。你上次搞得我现在下面还疼，操！让我以蛋还蛋踢回你，没准我会考虑考虑你的小交易。"
+    s "那一脚。你上次搞得我现在下面还疼，肏！让我以蛋还蛋踢回你，没准我会考虑考虑你的小交易。"
 
 translate schinese Lothar_Mossy_Artifact_df0db928:
 
@@ -14820,7 +14820,7 @@ translate schinese Lothar_Sebas_Kick_Yes_655355ea:
 translate schinese Lothar_Sebas_Kick_Yes_427f03db:
 
     # l "Y-You two morons. I'll... I'll beat you two to the pulp you hear me!"
-    l "你、你们两个大傻逼。我会把你们都揍得……揍得连你妈都不认识，听见了吗！"
+    l "你、你们两个大傻屄。我会把你们都揍得……揍得连你妈都不认识，听见了吗！"
 
 translate schinese Lothar_Sebas_Kick_Yes_a0ec2b92:
 

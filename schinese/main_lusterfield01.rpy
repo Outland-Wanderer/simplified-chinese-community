@@ -492,7 +492,7 @@ translate schinese Sebas_Drunk_How_Doing_9b89d68c:
 translate schinese Sebas_Drunk_How_Doing_fc249cda:
 
     # s "Hmmmm... ye. All... left."
-    s "嗯哼哼哼……系啊。{font=LXGWWenKaiLite-Bold.ttf}{size=-2}咩事……都冇晒咗。{/size}{/font}{alpha=*0.5}（什么事都没有了）{/alpha}"
+    s "嗯哼哼哼……系啊。咩事都冇晒——{font=LXGWWenKaiLite-Bold.ttf}{size=-2}咗{/size}{/font}。{alpha=*0.5}（什么事都没有了）{/alpha}"
 
 translate schinese Sebas_Drunk_How_Doing_8800bc34:
 
@@ -562,7 +562,7 @@ translate schinese Sebas_Drunk_How_Doing_68466dec:
 translate schinese Sebas_Drunk_How_Doing_875cdd45:
 
     # s "I wanna... f-fuck your ass, [e]. Y-you're... so. hot. Hotty. hot-"
-    s "[e]，我要……操、操烂你的小穴。你个勾……人的小骚、骚货。货——"
+    s "[e]，我要……肏、肏烂你的小穴。你个勾……人的小骚、骚货。货——"
 
 translate schinese Sebas_Drunk_How_Doing_81029163:
 
@@ -1243,7 +1243,7 @@ translate schinese Sebas_Ask_Goat_Tribe_7e9688db:
 translate schinese Sebas_Ask_Goat_Tribe_fb728923:
 
     # s "Look, [e]. I have no side. The only side is my side, which is pretty fucking huge."
-    s "[e]，我哪队都不站，我只站我这队。要说起来，我这队可是小母牛探亲——牛逼到家了。"
+    s "[e]，我哪队都不站，我只站我这队。要说起来，我这队可是小母牛探亲——牛屄到家了。"
 
 translate schinese Sebas_Ask_Goat_Tribe_315ccb76:
 
@@ -1447,7 +1447,7 @@ translate schinese Sebas_Under_Counter_e1e6e2aa:
 translate schinese Sebas_Under_Counter_ba34a018:
 
     # s "Fuck..."
-    s "操……"
+    s "肏……"
 
 translate schinese Sebas_Under_Counter_ab3382bc:
 
@@ -2216,7 +2216,7 @@ translate schinese Sebas_Lothar_Adventure_86ca7079:
 translate schinese Sebas_Lothar_Adventure_bc738f13:
 
     # s "Uh Huh. Tread carefully, Lothar. You won't know when the payback will come, maybe not yesterday, but most certainly today if you keep talking."
-    s "哼哼，说话小心点，洛萨尔。你总有一天要遭报应的，就算昨天没遭，今天你再逼逼下去也绝对会遭。"
+    s "哼哼，说话小心点，洛萨尔。你总有一天要遭报应的，就算昨天没遭，今天你再叨叨下去也绝对会遭。"
 
 translate schinese Sebas_Lothar_Adventure_d64ded9d_1:
 
@@ -2574,7 +2574,7 @@ translate schinese Sebas_Lothar_Adventure_End_576265f8:
 translate schinese Sebas_Lothar_Adventure_End_bb959436:
 
     # e "Holy- You scared me Lothar."
-    e "我操——洛萨尔，吓死我了。"
+    e "我肏——洛萨尔，吓死我了。"
 
 translate schinese Sebas_Lothar_Adventure_End_7ed598ae:
 

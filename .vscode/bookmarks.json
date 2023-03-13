@@ -24,27 +24,27 @@
 					"label": "Scene_Goat_Win"
 				},
 				{
-					"line": 1418,
+					"line": 1422,
 					"column": 50,
 					"label": "scene_buggbear_lose"
 				},
 				{
-					"line": 1818,
+					"line": 1822,
 					"column": 51,
 					"label": "Scene_Tavern_Meet_01"
 				},
 				{
-					"line": 2548,
+					"line": 2552,
 					"column": 51,
 					"label": "Scene_Tavern_Meet_02"
 				},
 				{
-					"line": 3568,
+					"line": 3572,
 					"column": 51,
 					"label": "Scene_Tavern_Meet_03"
 				},
 				{
-					"line": 4298,
+					"line": 4302,
 					"column": 49,
 					"label": "scene_buggbear_win"
 				}

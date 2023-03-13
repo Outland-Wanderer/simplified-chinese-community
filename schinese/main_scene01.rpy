@@ -107,7 +107,7 @@ translate schinese scene_masturbation_449a5fd3:
 translate schinese scene_masturbation_d23a3db7:
 
     # e "Ha... F-fuck..."
-    e "哈……我操……"
+    e "哈……我肏……"
 
 translate schinese scene_masturbation_43bc3b7a:
 
@@ -524,7 +524,7 @@ translate schinese Scene_Sebas_Under_Counter_26c153b6:
 translate schinese Scene_Sebas_Under_Counter_5610ecfa:
 
     # s "Fuck... uhhhmmm... I-its... f-f-f-fo. for sal-s sales... yes..."
-    s "操……呃啊……卖……那、那、那把匕、匕首……有的卖……"
+    s "肏……呃啊……卖……那、那、那把匕、匕首……有的卖……"
 
 translate schinese Scene_Sebas_Under_Counter_b2bad737:
 
@@ -789,7 +789,7 @@ translate schinese Scene_Goat_Lose_1909df66:
 translate schinese Scene_Goat_Lose_0292c121:
 
     # e "Fuck... Get off me."
-    e "操……滚开。"
+    e "肏……滚开。"
 
 translate schinese Scene_Goat_Lose_78bf3372:
 
@@ -944,7 +944,7 @@ translate schinese Scene_Goat_Lose_af0695e1:
 translate schinese Scene_Goat_Lose_7a2199a0:
 
     # e "N-noo- Ah- F-f-fuck! Stop-p!"
-    e "我才没有——啊，操！拔、拔出来！"
+    e "我才没有——啊，肏！拔、拔出来！"
 
 translate schinese Scene_Goat_Lose_2cdec28b:
 
@@ -1044,7 +1044,7 @@ translate schinese Scene_Goat_Lose_ea14a475:
 translate schinese Scene_Goat_Lose_d3724201:
 
     # "The pleasure never subsides for you, you can still feel the shape of his cock inside you even when he pulls out."
-    "被操射的快感仍未消退。你蜜穴大张，内壁全然塑造成了羊鞭的形状，这感觉像是他还插着你。"
+    "被肏射的快感仍未消退。你蜜穴大张，内壁全然塑造成了羊鞭的形状，这感觉像是他还插着你。"
 
 translate schinese Scene_Goat_Lose_ab68be70:
 
@@ -1081,340 +1081,344 @@ translate schinese Scene_Goat_Lose_90428d54:
     # "He leaps around you to pick up his weapon. You vision goes blurry as he leaves you alone in the forest, covered in his semen."
     "山羊猎人绑好遮裆布，跃过你，拾起他的武器后便离开了。你望着他渐行渐远的背影，视野逐渐模糊。"
 
-# translate schinese Scene_Goat_Win_37b8cc4d:
+translate schinese Scene_Goat_Win_37b8cc4d:
 
-#     # "You casually grope and fondle your balls even if your loincloth is there, while you seductively wink at the huntsman."
-#     ""
+    # "You casually grope and fondle your balls even if your loincloth is there, while you seductively wink at the huntsman."
+    "你隔着遮裆布随意抚弄自己的卵蛋，朝山羊猎人抛了个媚眼。"
 
-# translate schinese Scene_Goat_Win_3e9a583d:
+translate schinese Scene_Goat_Win_3e9a583d:
 
-#     # "The goat huntsman is surprised at your tactic, even if his cock twitches underneath his loincloth."
-#     ""
+    # "The goat huntsman is surprised at your tactic, even if his cock twitches underneath his loincloth."
+    "跳脱的战术令山羊猎人大吃一惊，而他被布料遮盖的鸡巴正在兴奋地搏动。"
 
-# translate schinese Scene_Goat_Win_ae0c540f:
+translate schinese Scene_Goat_Win_ae0c540f:
 
-#     # "You slowly take off your bag and tunic, revealing your muscular torso to the huntsman."
-#     ""
+    # "You slowly take off your bag and tunic, revealing your muscular torso to the huntsman."
+    "你不紧不慢地取下挎包褪去外衣，展露肌肉发达的躯体。"
 
-# translate schinese Scene_Goat_Win_15e96f61:
+translate schinese Scene_Goat_Win_15e96f61:
 
-#     # "The huntsman gasps, clearly not expecting you taking off your shirt."
-#     ""
+    # "The huntsman gasps, clearly not expecting you taking off your shirt."
+    "山羊猎人深吸一口气，显然没料到你要脱个精光。"
 
-# translate schinese Scene_Goat_Win_0159c7d1:
+translate schinese Scene_Goat_Win_0159c7d1:
 
-#     # "The exhausted huntsman fondles his cock and balls even with his loincloth in the way, looking you directly in the eyes as he does."
-#     ""
+    # "The exhausted huntsman fondles his cock and balls even with his loincloth in the way, looking you directly in the eyes as he does."
+    "他直勾勾地与你相视，尽管累极了，但还是忍不住伸手握住自己的性器蹭着遮裆布。"
 
-# translate schinese Scene_Goat_Win_bad0796b:
+translate schinese Scene_Goat_Win_bad0796b:
 
-#     # "You smirk and start rolling your hips as if you're already inside the huntsman, winking seductively as you do."
-#     ""
+    # "You smirk and start rolling your hips as if you're already inside the huntsman, winking seductively as you do."
+    "你露出得意的笑容，开始挺胯假意抽插，像是已经插入了他体内一样。同时还不忘诱惑地眨眼。"
 
-# translate schinese Scene_Goat_Win_d36e1ae7:
+translate schinese Scene_Goat_Win_d36e1ae7:
 
-#     # "The huntsman whimpers, his lust taking over him entirely at this point."
-#     ""
+    # "The huntsman whimpers, his lust taking over him entirely at this point."
+    "色欲充满了山羊猎人的脑海，他渴求地闷哼着。"
 
-# translate schinese Scene_Goat_Win_6e13cc8e:
+translate schinese Scene_Goat_Win_6e13cc8e:
 
-#     # "Removing your loincloth, you stroke your hardening cock bringing it to full erection in just a few minutes."
-#     ""
+    # "Removing your loincloth, you stroke your hardening cock bringing it to full erection in just a few minutes."
+    "你应景脱掉下身最后的衣物，直接握住肉棒撸动，没几分钟便完全勃起了。"
 
-# translate schinese Scene_Goat_Win_2ee6e44d:
+translate schinese Scene_Goat_Win_2ee6e44d:
 
-#     # "Removing his loincloth, the huntsman starts stroking himself slowly."
-#     ""
+    # "Removing his loincloth, the huntsman starts stroking himself slowly."
+    "而他也解开了他的遮裆布，开始缓缓套弄自己的阳物。"
 
-# translate schinese Scene_Goat_Win_80eb0dae:
+translate schinese Scene_Goat_Win_80eb0dae:
 
-#     # gt "You want a piece of this, huh?"
-#     gt ""
+    # gt "You want a piece of this, huh?"
+    gt "想要我的大屌吗，嗯？"
 
-# translate schinese Scene_Goat_Win_372e1a64:
+translate schinese Scene_Goat_Win_372e1a64:
 
-#     # "The huntsman says, before you run over to him and push him against a tree."
-#     ""
+    # "The huntsman says, before you run over to him and push him against a tree."
+    "山羊猎人说罢，你冲上前将他摁在树下，除掉了他身上的装备。"
 
-# translate schinese Scene_Goat_Win_9d263961:
+translate schinese Scene_Goat_Win_9d263961:
 
-#     # "Stripping him of his clothing, you can feel both of your cocks rubbing against one another."
-#     ""
+    # "Stripping him of his clothing, you can feel both of your cocks rubbing against one another."
+    "你们炽热的坚挺顶到了一起，相互摩擦。"
 
-# translate schinese Scene_Goat_Win_a4b85678:
+translate schinese Scene_Goat_Win_a4b85678:
 
-#     # e "I'm getting a piece of this and you'll do what I say."
-#     e ""
+    # e "I'm getting a piece of this and you'll do what I say."
+    e "是我的大屌想要你，束手就擒吧。"
 
-# translate schinese Scene_Goat_Win_ad02d6f1:
+translate schinese Scene_Goat_Win_ad02d6f1:
 
-#     # "You say to him, grinding your hips against his while your cocks rub together."
-#     ""
+    # "You say to him, grinding your hips against his while your cocks rub together."
+    "你边说边继续与他的鸡巴互拼。"
 
-# translate schinese Scene_Goat_Win_8530bc66:
+translate schinese Scene_Goat_Win_8530bc66:
 
-#     # gt "You may have won...but I won't give in so easily...!"
-#     gt ""
+    # gt "You may have won...but I won't give in so easily...!"
+    gt "你不过赢了一时……我才不会这么轻易认输……！"
 
-# translate schinese Scene_Goat_Win_69994bb5:
+translate schinese Scene_Goat_Win_69994bb5:
 
-#     # "The huntsman says, moaning from the friction of your cocks rubbing together."
-#     ""
+    # "The huntsman says, moaning from the friction of your cocks rubbing together."
+    "山羊猎人说是这么说，却被蹭得发出愉快的呻吟。"
 
-# translate schinese Scene_Goat_Win_4893a21f:
+translate schinese Scene_Goat_Win_4893a21f:
 
-#     # e "You've lost...just shut up and take it...!"
-#     e ""
+    # e "You've lost...just shut up and take it...!"
+    e "别废话……输了的人就该乖乖挨肏！"
 
-# translate schinese Scene_Goat_Win_38be9881:
+translate schinese Scene_Goat_Win_38be9881:
 
-#     # "The huntsman tries to resist by trying to push you off of him."
-#     ""
+    # "The huntsman tries to resist by trying to push you off of him."
+    "败者试图反抗，四肢发力想要将你推开。"
 
-# translate schinese Scene_Goat_Win_94b05632:
+translate schinese Scene_Goat_Win_94b05632:
 
-#     # "You hold on, using your tail to stroke his cock a few times, his will to fight back slowly starts to slip away."
-#     ""
+    # "You hold on, using your tail to stroke his cock a few times, his will to fight back slowly starts to slip away."
+    "你定住身子，卷起尾巴抚弄他的鸡巴，渐渐消磨掉他的反抗意志。"
 
-# translate schinese Scene_Goat_Win_00fb5969:
+translate schinese Scene_Goat_Win_00fb5969:
 
-#     # e "You want this just as much as I do, you just won't admit and accept it yet."
-#     e ""
+    # e "You want this just as much as I do, you just won't admit and accept it yet."
+    e "你不过是嘴硬罢了，其实你也很想做吧。"
 
-# translate schinese Scene_Goat_Win_a4e456e4:
+translate schinese Scene_Goat_Win_a4e456e4:
 
-#     # gt "What makes you think...that you'll get to claim me? Outsiders like you...are nothing but insolent!"
-#     gt ""
+    # gt "What makes you think...that you'll get to claim me? Outsiders like you...are nothing but insolent!"
+    gt "你凭什么觉得我会……情愿让你得逞？像你这样的穿越者……不过就是群没开化的野兽！"
 
-# translate schinese Scene_Goat_Win_c47cf47c:
+translate schinese Scene_Goat_Win_c47cf47c:
 
-#     # e "Shut up, not all of us are! The fact that your cock is hard...and the way you've been moaning...and whimpering says otherwise."
-#     e ""
+    # e "Shut up, not all of us are! The fact that your cock is hard...and the way you've been moaning...and whimpering says otherwise."
+    e "闭嘴，穿越来的不只有怪兽！瞧瞧你自己……已经硬成什么样了。"
+    e "还叫得这么骚……身体反而很诚实嘛。"
 
-# translate schinese Scene_Goat_Win_21c7d0aa:
+translate schinese Scene_Goat_Win_21c7d0aa:
 
-#     # gt "You'll pay for this you insolent outsider...I'll track you down myself and make sure!"
-#     gt ""
+    # gt "You'll pay for this you insolent outsider...I'll track you down myself and make sure!"
+    gt "你会付出代价的，獠奴……不管你逃到哪里，我都会追上你！"
 
-# translate schinese Scene_Goat_Win_3829dba6:
+translate schinese Scene_Goat_Win_3829dba6:
 
-#     # e "Aww look at the tough huntsman, trying to put up a tough front...even when you've lost."
-#     e ""
+    # e "Aww look at the tough huntsman, trying to put up a tough front...even when you've lost."
+    e "哼哼，好勇猛的猎人唷……就算成了别人的手下败将也要逞能。"
 
-# translate schinese Scene_Goat_Win_9ab0184e:
+translate schinese Scene_Goat_Win_9ab0184e:
 
-#     # "Both of you are horny and the huntsman resists your advances, clearly not wanting to be on bottom while threatening you."
-#     ""
+    # "Both of you are horny and the huntsman resists your advances, clearly not wanting to be on bottom while threatening you."
+    "山羊猎人还在抵抗你的进攻。他发出威胁，显然不想做下面那个。"
 
-# translate schinese Scene_Goat_Win_06b49941:
+translate schinese Scene_Goat_Win_06b49941:
 
-#     # "Both of you are naked, your cocks both hard and throbbing just begging for release."
-#     ""
+    # "Both of you are naked, your cocks both hard and throbbing just begging for release."
+    "但现在全裸的你们已经饥渴难耐，两根淫棍跃跃欲“释”。"
 
-# translate schinese Scene_Goat_Win_f37ac2ac:
+translate schinese Scene_Goat_Win_f37ac2ac:
 
-#     # "You line up your cock with the huntsman's hole before spitting on it, slowly you push your cock inside of him even if his anal ring resists at first."
-#     ""
+    # "You line up your cock with the huntsman's hole before spitting on it, slowly you push your cock inside of him even if his anal ring resists at first."
+    "你扳下肉棒对准山羊猎人的后穴，朝交合处吐了口口水，对抗他紧闭的洞口慢慢推入。"
 
-# translate schinese Scene_Goat_Win_15d2337a:
+translate schinese Scene_Goat_Win_15d2337a:
 
-#     # gt "Aggggh..F-F-Fuck..! P-P-Please stop...don't do that! H-Hnnngh!"
-#     gt ""
+    # gt "Aggggh..F-F-Fuck..! P-P-Please stop...don't do that! H-Hnnngh!"
+    gt "啊啊……肏、肏……！拔、拔出来……不要！呃啊啊啊！"
 
-# translate schinese Scene_Goat_Win_248d0c24:
+translate schinese Scene_Goat_Win_248d0c24:
 
-#     # "The huntsman begs before he moans, your cock finally slipped inside his tight hole causing you to moan too."
-#     ""
+    # "The huntsman begs before he moans, your cock finally slipped inside his tight hole causing you to moan too."
+    "他的哀求很快转为呻吟。你总算插入了大半，窄小的肠壁挤压着肉棒，令你也舒服得叫出声。"
 
-# translate schinese Scene_Goat_Win_f4271e58:
+translate schinese Scene_Goat_Win_f4271e58:
 
-#     # e "You're so tight...first time in a while I bet...! Don't worry I'll gentle until I don't have to be~"
-#     e ""
+    # e "You're so tight...first time in a while I bet...! Don't worry I'll gentle until I don't have to be~"
+    e "真紧……很久没被开发了吧！放心，我会慢慢来，直到你受得了更猛的。"
 
-# translate schinese Scene_Goat_Win_1ad761f7:
+translate schinese Scene_Goat_Win_1ad761f7:
 
-#     # "Slowly but gently you thrust your hips forward causing your cock to go in deeper, the huntsman moans and whimpers as you do this."
-#     ""
+    # "Slowly but gently you thrust your hips forward causing your cock to go in deeper, the huntsman moans and whimpers as you do this."
+    "你发力将龙根一点点捅入肉穴更深处，撑得山羊猎人哼哼直叫。"
 
-# translate schinese Scene_Goat_Win_522ca525:
+translate schinese Scene_Goat_Win_522ca525:
 
-#     # gt "Agggh...F-F-Fuck...so good! Please...give me more...!"
-#     gt ""
+    # gt "Agggh...F-F-Fuck...so good! Please...give me more...!"
+    gt "啊……好、好舒服！继……继续……！"
 
-# translate schinese Scene_Goat_Win_b3950f2e:
+translate schinese Scene_Goat_Win_b3950f2e:
 
-#     # "The huntsman moans while begging for you to do more, his lust has finally broken his will to fight back."
-#     ""
+    # "The huntsman moans while begging for you to do more, his lust has finally broken his will to fight back."
+    "山羊猎人央求你更粗暴地对待他，色欲累积终于突破了他的心理防线。"
 
-# translate schinese Scene_Goat_Win_7b11c665:
+translate schinese Scene_Goat_Win_7b11c665:
 
-#     # "You thrust forward gently but slowly, the huntsman's tight anal walls massaging your cock with each thrust causing you to moan."
-#     ""
+    # "You thrust forward gently but slowly, the huntsman's tight anal walls massaging your cock with each thrust causing you to moan."
+    "但你还是主动控制着速度，温柔地做着往复运动。"
 
-# translate schinese Scene_Goat_Win_2806d6e0:
+translate schinese Scene_Goat_Win_2806d6e0:
 
-#     # "Your thrusting makes the huntsman moan, while you slowly fuck him at the bottom of a tree."
-#     ""
+    # "Your thrusting makes the huntsman moan, while you slowly fuck him at the bottom of a tree."
+    "树下你俩的浪叫此起彼伏，每一次抽插你都能感受到括约肌的全方位按摩。"
 
-# translate schinese Scene_Goat_Win_e2c68282:
+translate schinese Scene_Goat_Win_e2c68282:
 
-#     # gt "Fuck yes...faster...I need more...harder...Insolent one!"
-#     gt ""
+    # gt "Fuck yes...faster...I need more...harder...Insolent one!"
+    gt "哈啊……好厉害……再猛再大力些，野蛮人！"
 
-# translate schinese Scene_Goat_Win_0a1e0ef8:
+translate schinese Scene_Goat_Win_0a1e0ef8:
 
-#     # "Hearing the huntsman beg you to fuck him harder turns you on, you don't oblige yet though since that would be too easy."
-#     ""
+    # "Hearing the huntsman beg you to fuck him harder turns you on, you don't oblige yet though since that would be too easy."
+    "身下壮汉卑贱求肏的样子惹得你性奋极了，但你并不打算就这么便宜他。"
 
-# translate schinese Scene_Goat_Win_9f593084:
+translate schinese Scene_Goat_Win_9f593084:
 
-#     # e "Not yet, you don't want to end that soon...do you huntsman?~"
-#     e ""
+    # e "Not yet, you don't want to end that soon...do you huntsman?~"
+    e "还早着呢，山羊，你不想这么快结束吧。"
 
-# translate schinese Scene_Goat_Win_4d10b6c6:
+translate schinese Scene_Goat_Win_4d10b6c6:
 
-#     # "The huntsman moans before whimpering again, he craves harder thrusts but you won't give them to him."
-#     ""
+    # "The huntsman moans before whimpering again, he craves harder thrusts but you won't give them to him."
+    "对方的呻吟开始夹带着点呜咽，他渴望你更猛烈地征服他，而你却在吊他的胃口。"
 
-# translate schinese Scene_Goat_Win_cc37166f:
+translate schinese Scene_Goat_Win_cc37166f:
 
-#     # e "Don't worry though, you'll get harder thrusting soon...!~"
-#     e ""
+    # e "Don't worry though, you'll get harder thrusting soon...!~"
+    e "别担心，你很快就会得到你想要的……"
 
-# translate schinese Scene_Goat_Win_1a44d7e4:
+translate schinese Scene_Goat_Win_1a44d7e4:
 
-#     # "You reply continuing to fuck him slowly, even though you can feel his hole loosening up you won't thrust harder yet."
-#     ""
+    # "You reply continuing to fuck him slowly, even though you can feel his hole loosening up you won't thrust harder yet."
+    "你接着用粗壮坚挺的肉棒阔开山羊猎人的后穴，他紧绷的洞口渐渐放松——是时候加速了。"
 
-# translate schinese Scene_Goat_Win_ea7b6e5b:
+translate schinese Scene_Goat_Win_ea7b6e5b:
 
-#     # "Huntsman's hole is now loosened up enough for you to accelerate your thrusting, pulling almost all the way out before you slam your cock back inside of him hitting his prostate which in turn makes the goat huntsman moan even louder while you increase your thrusting speed."
-#     ""
+    # "Huntsman's hole is now loosened up enough for you to accelerate your thrusting, pulling almost all the way out before you slam your cock back inside of him hitting his prostate which in turn makes the goat huntsman moan even louder while you increase your thrusting speed."
+    "你先抽出大半截，再一杆进洞，精准命中前列腺。成倍速度的抽插令他放声大叫。"
 
-# translate schinese Scene_Goat_Win_78a5d339:
+translate schinese Scene_Goat_Win_78a5d339:
 
-#     # gt "F-Fuck yes! This is...what I wanted... harder...faster...rougher!~"
-#     gt ""
+    # gt "F-Fuck yes! This is...what I wanted... harder...faster...rougher!~"
+    gt "啊、啊！就是这里……快……快肏烂我！"
 
-# translate schinese Scene_Goat_Win_d3f365f7:
+translate schinese Scene_Goat_Win_d3f365f7:
 
-#     # e "Good, you're learning your place for the moment, don't worry you'll get all of that!~"
-#     e ""
+    # e "Good, you're learning your place for the moment, don't worry you'll get all of that!~"
+    e "很好，你已经认清自己的地位了。耐心点，我会让你更爽的。"
 
-# translate schinese Scene_Goat_Win_e81ec858:
+translate schinese Scene_Goat_Win_e81ec858:
 
-#     # "Thrusting harder, faster and rougher you moan loudly, which in turn make the huntsman moan even louder your cock repeatedly hitting his prostate."
-#     ""
+    # "Thrusting harder, faster and rougher you moan loudly, which in turn make the huntsman moan even louder your cock repeatedly hitting his prostate."
+    "你打桩的速度越来越快，力度越来越大，每下都能撞上山羊猎人最敏感的神经点。"
 
-# translate schinese Scene_Goat_Win_fd703854:
+translate schinese Scene_Goat_Win_fd703854:
 
-#     # "You're thankful to have such good stamina otherwise you would have cum by now, the huntsman moans and matches your rhythm making you both moan louder every time that you hit his prostate."
-#     ""
+    # "You're thankful to have such good stamina otherwise you would have cum by now, the huntsman moans and matches your rhythm making you both moan louder every time that you hit his prostate."
+    "彼时逞能的勇士此时已经被完全肏开，下身主动配合肉棒进出的节奏，上身则在淫荡地欢叫，声音越来越大。"
+    "你暗暗庆幸自己耐力了得，不然现在早就一泻千里了。"
 
-# translate schinese Scene_Goat_Win_cfeb6614:
+translate schinese Scene_Goat_Win_cfeb6614:
 
-#     # gt "Fuuuuck yeeees!~ Harder, make me your bitch!~ Let everyone hear what a slut I am!~"
-#     gt ""
+    # gt "Fuuuuck yeeees!~ Harder, make me your bitch!~ Let everyone hear what a slut I am!~"
+    gt "啊……好爽！啊……不用顾忌我，把我肏成你的骚屄！肏到所有人都听到我叫得有多贱！"
 
-# translate schinese Scene_Goat_Win_39725a28:
+translate schinese Scene_Goat_Win_39725a28:
 
-#     # e "Well would you look at that...you're enjoying this way too much...aren't you, huntsman?~"
-#     e ""
+    # e "Well would you look at that...you're enjoying this way too much...aren't you, huntsman?~"
+    e "呵呵，瞧你欲仙欲死的……比谁都享受……是不是啊，獠奴？"
 
-# translate schinese Scene_Goat_Win_f311c830:
+translate schinese Scene_Goat_Win_f311c830:
 
-#     # gt "Y-Y-Yes I am!~ P-P-Please fuck me more, insolent one!~"
-#     gt ""
+    # gt "Y-Y-Yes I am!~ P-P-Please fuck me more, insolent one!~"
+    gt "是——是，我才是獠奴！肏死我吧，主人！"
 
-# translate schinese Scene_Goat_Win_146b7fb5:
+translate schinese Scene_Goat_Win_146b7fb5:
 
-#     # "You keep on fucking the huntsman granting his wish, now he's squeezing his anal walls around your cock trying to get you to cum faster."
-#     ""
+    # "You keep on fucking the huntsman granting his wish, now he's squeezing his anal walls around your cock trying to get you to cum faster."
+    "你压着这个发情的骚货继续输出，满足他被奸淫的愿望。但他却突然绷紧了后庭，期望快点得到你的精液。"
 
-# translate schinese Scene_Goat_Win_04708565:
+translate schinese Scene_Goat_Win_04708565:
 
-#     # e "Don't squeeze your anal walls around my cock. I don't want to cum just yet, loosen them or I'll pull out and walk away.~"
-#     e ""
+    # e "Don't squeeze your anal walls around my cock. I don't want to cum just yet, loosen them or I'll pull out and walk away.~"
+    e "别夹这么紧，我还不想射。放松，不然我可要拔出来走人了。"
 
-# translate schinese Scene_Goat_Win_1c90cd6a:
+translate schinese Scene_Goat_Win_1c90cd6a:
 
-#     # "The huntsman complies and loosens his anal walls with a whimper, he wants your cum so badly but you won't actually pull out and walk away. He didn't need need to know that though.~"
-#     ""
+    # "The huntsman complies and loosens his anal walls with a whimper, he wants your cum so badly but you won't actually pull out and walk away. He didn't need need to know that though.~"
+    "山羊猎人哀嚎一声，顺从地放松下来，他实在太想品尝你的精华了。当然，你不会真的拔屌走人，但他不必知道。"
 
-# translate schinese Scene_Goat_Win_9c908939:
+translate schinese Scene_Goat_Win_9c908939:
 
-#     # "You continue pulling almost all the way out before ramming your cock back in, each time it hits huntsman's prostate is rougher, harder and faster."
-#     ""
+    # "You continue pulling almost all the way out before ramming your cock back in, each time it hits huntsman's prostate is rougher, harder and faster."
+    "你重复着之前大幅度的抽插，动作逐渐凶残起来，一遍又一遍撞击羊肠小道的花心。"
 
-# translate schinese Scene_Goat_Win_644686c6:
+translate schinese Scene_Goat_Win_644686c6:
 
-#     # "The huntsman moaned louder continuing to match your thrust's rhythm, he needed your cum as much as he himself needed to cum as well."
-#     ""
+    # "The huntsman moaned louder continuing to match your thrust's rhythm, he needed your cum as much as he himself needed to cum as well."
+    "山羊猎人全心全意迎合着你，乞求你射给他，也乞求你让他射。高亢的呻吟声大到十里开外都能听得到。"
 
-# translate schinese Scene_Goat_Win_7f696d52:
+translate schinese Scene_Goat_Win_7f696d52:
 
-#     # "You grab the huntsman's legs and use them as handles, which allow you to fuck him the hardest, fastest and roughest that you can."
-#     ""
+    # "You grab the huntsman's legs and use them as handles, which allow you to fuck him the hardest, fastest and roughest that you can."
+    "你趁势抓住他的小腿当作把手稳定身体，以最野蛮、最霸道的方式发起决胜进攻。"
 
-# translate schinese Scene_Goat_Win_46da772c:
+translate schinese Scene_Goat_Win_46da772c:
 
-#     # "Both of you moan louder from all of the ecstacy flooding both of your bodies, soon you would both cum but not yet...not now that both of you were so horny and filled with so much lust."
-#     ""
+    # "Both of you moan louder from all of the ecstacy flooding both of your bodies, soon you would both cum but not yet...not now that both of you were so horny and filled with so much lust."
+    "极乐的浪潮冲刷着你们的肉体，将你们送上高潮的边缘……此刻你们性奋到了极点。"
 
-# translate schinese Scene_Goat_Win_e90fd303:
+translate schinese Scene_Goat_Win_e90fd303:
 
-#     # gt "Fuck...I'm going to...cum!~"
-#     gt ""
+    # gt "Fuck...I'm going to...cum!~"
+    gt "唔嗯……我……我要射了！"
 
-# translate schinese Scene_Goat_Win_ef9b8b87:
+translate schinese Scene_Goat_Win_ef9b8b87:
 
-#     # "The huntsman moans, before he shoots his load all over his chest, pecs, stomach and some of his snout with a lustful scream."
-#     ""
+    # "The huntsman moans, before he shoots his load all over his chest, pecs, stomach and some of his snout with a lustful scream."
+    "山羊猎人放荡地尖叫着，精液射到了鼻头和胸膛上，喷得满肚子都是。"
 
-# translate schinese Scene_Goat_Win_883ed827:
+translate schinese Scene_Goat_Win_883ed827:
 
-#     # "You feel his anal walls convulsing around your cock squeezing it, the pressure is too much as you feel your balls tingle signaling you're close to cumming."
-#     ""
+    # "You feel his anal walls convulsing around your cock squeezing it, the pressure is too much as you feel your balls tingle signaling you're close to cumming."
+    "包裹淫棍的肉壁随之紧缩，巨大的压力令你的卵蛋颤抖不已，预示着里面的弹药即将发射。"
 
-# translate schinese Scene_Goat_Win_1ee14d69:
+translate schinese Scene_Goat_Win_1ee14d69:
 
-#     # e "Good boy...now it's...my turn!~"
-#     e ""
+    # e "Good boy...now it's...my turn!~"
+    e "肏……该我了！"
 
-# translate schinese Scene_Goat_Win_8c98e984:
+translate schinese Scene_Goat_Win_8c98e984:
 
-#     # "You reply pulling almost all the way out before ramming your cock back inside his ass one last time with all of your strength."
-#     ""
+    # "You reply pulling almost all the way out before ramming your cock back inside his ass one last time with all of your strength."
+    "你拔出龙根只留龟头在洞口，随即用尽全力捅入山羊猎人的骚穴。"
 
-# translate schinese Scene_Goat_Win_5d6771a6:
+translate schinese Scene_Goat_Win_5d6771a6:
 
-#     # "Roaring, you shoot your load deep inside of the huntsman painting his anal walls a pearly white."
-#     ""
+    # "Roaring, you shoot your load deep inside of the huntsman painting his anal walls a pearly white."
+    "伴随一连串的嘶吼，你将滚烫的精华深深撒播进羊族勇士体内，为羊肠浇注浓稠的白浆。"
 
-# translate schinese Scene_Goat_Win_cfe0342d:
+translate schinese Scene_Goat_Win_cfe0342d:
 
-#     # "Both of you collapse, the huntsman on the ground, yourself on top of him with your cock still buried inside of his ass."
-#     ""
+    # "Both of you collapse, the huntsman on the ground, yourself on top of him with your cock still buried inside of his ass."
+    "激射过后你们都累倒了。你瘫在他身上，肉棒依然塞着他的后庭，待到精库掏空你才退了出去。"
 
-# translate schinese Scene_Goat_Win_83fa7484:
+translate schinese Scene_Goat_Win_83fa7484:
 
-#     # "You wait until your balls are completely drained before pulling out, a stream of cum leaks out of the huntsman's ruined hole, leaking down into his tail fur."
-#     ""
+    # "You wait until your balls are completely drained before pulling out, a stream of cum leaks out of the huntsman's ruined hole, leaking down into his tail fur."
+    "你的精液从他合不拢的洞口中涌出，渗进尾巴的毛里。"
 
-# translate schinese Scene_Goat_Win_c4b917d2:
+translate schinese Scene_Goat_Win_c4b917d2:
 
-#     # gt "Fuuuuck yeeees...that was great...my ass hurts a lot...I thought I would be angry...but I'm not angry...you're still...an insolent outsider though!~"
-#     gt ""
+    # gt "Fuuuuck yeeees...that was great...my ass hurts a lot...I thought I would be angry...but I'm not angry...you're still...an insolent outsider though!~"
+    gt "肏……太爽了，虽然屁股好疼……我以为我会很生气，但我没有。"
+    gt "到头来……你还是个野蛮的海外人！"
 
-# translate schinese Scene_Goat_Win_469e4b7c:
+translate schinese Scene_Goat_Win_469e4b7c:
 
-#     # e "I'm so glad that you...enjoyed yourself, oh shut up you loved it and you know it!~ It's time for me take my leave, you know what to do for this to happen again see ya!~"
-#     e ""
+    # e "I'm so glad that you...enjoyed yourself, oh shut up you loved it and you know it!~ It's time for me take my leave, you know what to do for this to happen again see ya!~"
+    e "你有爽到我也很高兴。哼哼，既然你这么享受……一开始就别嘴硬！"
+    e "我得走了，相信你知道下次见到我要怎么做。"
 
-# translate schinese Scene_Goat_Win_8b2ecaed:
+translate schinese Scene_Goat_Win_8b2ecaed:
 
-#     # "You gather your things before getting dressed, leaving the cum filled goat huntsman behind."
-#     ""
+    # "You gather your things before getting dressed, leaving the cum filled goat huntsman behind."
+    "你收拾好自己的东西，穿上衣服离开了这片绿地，将后穴流精的山羊留在身后。"
 
 # translate schinese scene_buggbear_lose_0e4abf44:
 

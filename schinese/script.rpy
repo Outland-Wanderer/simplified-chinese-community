@@ -948,7 +948,7 @@ translate schinese name_done_9753a10b:
 translate schinese name_done_9a996251:
 
     # e "Oh... fuck, then why am I here."
-    e "噢……操，那我岂不是白来一趟。"
+    e "噢……肏，那我岂不是白来一趟。"
 
 translate schinese name_done_43c9395c:
 

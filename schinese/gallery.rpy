@@ -1,5 +1,8 @@
 translate schinese strings:
 
+    old "{color=#000}Return{/color}"
+    new "{color=#000}返回{/color}"
+
     old "{color=#000}Losing in Slime Battle{/color}"
     new "{color=#000}战败史莱姆{/color}"
 
@@ -13,10 +16,10 @@ translate schinese strings:
     new "{color=#000}给塞巴斯口交{/color}"
 
     old "{color=#000}Losing in Goat Battle{/color}"
-    new "{color=#000}战败山羊战士{/color}"
+    new "{color=#000}战败山羊猎人{/color}"
 
-    # old "{color=#000}Winning in Goat Battle{/color}"
-    # new "{color=#000}战胜山羊战士{/color}"
+    old "{color=#000}Winning in Goat Battle{/color}"
+    new "{color=#000}战胜山羊猎人{/color}"
 
     # old "{color=#000}Losing in Buggbear Battle{/color}"
     # new "{color=#000}战败熊地精{/color}"

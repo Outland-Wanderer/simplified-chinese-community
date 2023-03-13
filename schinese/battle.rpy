@@ -386,7 +386,7 @@ translate schinese goat_battle_loop_18302ba4:
 translate schinese goat_battle_loop_4e97572b:
 
     # gt "Aggghh.... W-what the... You little furry lizard, I'll strike you down without mercy!"
-    gt "啊啊啊……操……别期望我会放过你，长毛蜥蜴！"
+    gt "啊啊啊……肏……别期望我会放过你，长毛蜥蜴！"
 
 translate schinese goat_battle_loop_8787f4c7:
 
@@ -1013,7 +1013,7 @@ translate schinese buggbear_sedated_a20cefa7_1:
 translate schinese buggbear_sedated_ed06d27d:
 
     # e "fuck..."
-    e "操……"
+    e "肏……"
 
 translate schinese buggbear_sedated_ae821e5b:
 
