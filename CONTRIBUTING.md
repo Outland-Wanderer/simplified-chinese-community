@@ -77,6 +77,7 @@ Dark Forest | 幽暗森林 |
 Forest Nightwatch | 幽暗森林哨站 | 
 Forgotten Sanctuary | 被遗弃的圣所 | 
 Hawkaita | 霍克埃塔 | 
+Kechioeren | 凯奇奥伦 | 山羊部落的别称
 Lusterfield | 乐斯民菲尔德 | 
 Gloomy Mountainside | 阴郁山腹 | 
 Green Forest | 叠翠森林 | 

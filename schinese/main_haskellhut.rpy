@@ -1143,95 +1143,95 @@ translate schinese Haskell_Buggbear_Quest_3cbb205f:
 #     # "Your face burns."
 #     ""
 
-# translate schinese Haskell_Ask_Lusterfield_e61b03eb:
+translate schinese Haskell_Ask_Lusterfield_e61b03eb:
 
-#     # e "Haskell, how's your business with Lusterfield?"
-#     e ""
+    # e "Haskell, how's your business with Lusterfield?"
+    e "比如你在乐村和谁做生意？"
 
-# translate schinese Haskell_Ask_Lusterfield_8fbd58f1:
+translate schinese Haskell_Ask_Lusterfield_8fbd58f1:
 
-#     # h "I only do business with King's Pawn, Seb's little shop."
-#     h ""
+    # h "I only do business with King's Pawn, Seb's little shop."
+    h "我只和君临典当做生意，阿塞那家店。"
 
-# translate schinese Haskell_Ask_Lusterfield_6e21c086:
+translate schinese Haskell_Ask_Lusterfield_6e21c086:
 
-#     # e "Oh, you're supplying them the potions?"
-#     e ""
+    # e "Oh, you're supplying them the potions?"
+    e "噢，所以典当里的药水都是从你这进货的？"
 
-# translate schinese Haskell_Ask_Lusterfield_4c5daef3:
+translate schinese Haskell_Ask_Lusterfield_4c5daef3:
 
-#     # h "It's not business per se, I just gift them the potions."
-#     h ""
+    # h "It's not business per se, I just gift them the potions."
+    h "其实他们没有买，那些是我免费送给他们的。"
 
-# translate schinese Haskell_Ask_Lusterfield_a087ce2a:
+translate schinese Haskell_Ask_Lusterfield_a087ce2a:
 
-#     # e "Why are you doing this?"
-#     e ""
+    # e "Why are you doing this?"
+    e "还有这种好事？"
 
-# translate schinese Haskell_Ask_Lusterfield_dd98e3a1:
+translate schinese Haskell_Ask_Lusterfield_dd98e3a1:
 
-#     # h "It's their most popular products, every adventurer needs a few potions in their pocket."
-#     h ""
+    # h "It's their most popular products, every adventurer needs a few potions in their pocket."
+    h "我做的药水是他们当铺最畅销的商品，哪个冒险家不会在口袋里揣几瓶。"
 
-# translate schinese Haskell_Ask_Lusterfield_ffd6dfb7:
+translate schinese Haskell_Ask_Lusterfield_ffd6dfb7:
 
-#     # h "Just don't tell other I give them potions for free, it'll drag their prices down a lot."
-#     h ""
+    # h "Just don't tell other I give them potions for free, it'll drag their prices down a lot."
+    h "你可别告诉别人这件事，不然君临典当的利润就要跳水了。"
 
-# translate schinese Haskell_Ask_Lusterfield_0c6bb309:
+translate schinese Haskell_Ask_Lusterfield_0c6bb309:
 
-#     # e "You seem really protective of them."
-#     e ""
+    # e "You seem really protective of them."
+    e "你对奥利和阿塞真是关照有加呢。"
 
-# translate schinese Haskell_Ask_Lusterfield_42e58abf:
+translate schinese Haskell_Ask_Lusterfield_42e58abf:
 
-#     # h "Ole and I, had a really long history. He didn't really like me talking about it. One of the reason he left the hut."
-#     h ""
+    # h "Ole and I, had a really long history. He didn't really like me talking about it. One of the reason he left the hut."
+    h "奥利和我是老相识了。不过他非常反感我提起往事，这也是他搬走的原因。"
 
-# translate schinese Haskell_Ask_Lusterfield_1b418615:
+translate schinese Haskell_Ask_Lusterfield_1b418615:
 
-#     # e "He used to live here?"
-#     e ""
+    # e "He used to live here?"
+    e "他以前住在这里？"
 
-# translate schinese Haskell_Ask_Lusterfield_979e6d52:
+translate schinese Haskell_Ask_Lusterfield_979e6d52:
 
-#     # h "Yeah, did you know about the nomads?"
-#     h ""
+    # h "Yeah, did you know about the nomads?"
+    h "是的，你知道游牧族吗？"
 
-# translate schinese Haskell_Ask_Lusterfield_f2aa73e3:
+translate schinese Haskell_Ask_Lusterfield_f2aa73e3:
 
-#     # e "Hmm... what?"
-#     e ""
+    # e "Hmm... what?"
+    e "呃……啊？"
 
-# translate schinese Haskell_Ask_Lusterfield_61025db7:
+translate schinese Haskell_Ask_Lusterfield_61025db7:
 
-#     # h "Lizard nomads?"
-#     h ""
+    # h "Lizard nomads?"
+    h "蜥蜴游牧族？"
 
-# translate schinese Haskell_Ask_Lusterfield_4d837f46:
+translate schinese Haskell_Ask_Lusterfield_4d837f46:
 
-#     # e "I've never heard about it before."
-#     e ""
+    # e "I've never heard about it before."
+    e "从来没有听说过。"
 
-# translate schinese Haskell_Ask_Lusterfield_d6ca0033:
+translate schinese Haskell_Ask_Lusterfield_d6ca0033:
 
-#     # h "Makes sense for an outsider. Then I best not to tell you anything further."
-#     h ""
+    # h "Makes sense for an outsider. Then I best not to tell you anything further."
+    h "你一个穿越者没听说过倒也正常。那我最好别说下去了。"
 
-# translate schinese Haskell_Ask_Lusterfield_bb77350a:
+translate schinese Haskell_Ask_Lusterfield_bb77350a:
 
-#     # e "Why not?"
-#     e ""
+    # e "Why not?"
+    e "为什么？"
 
-# translate schinese Haskell_Ask_Lusterfield_ec7bf8dc:
+translate schinese Haskell_Ask_Lusterfield_ec7bf8dc:
 
-#     # h "Didn't I tell you? Ole doesn't talk about it, I don't talk about it."
-#     h ""
+    # h "Didn't I tell you? Ole doesn't talk about it, I don't talk about it."
+    h "我刚刚不是才告诉你？既然奥利不喜欢谈起这些事，我也不能透露这些事。"
 
-# translate schinese Haskell_Ask_Lusterfield_7115ea73:
+translate schinese Haskell_Ask_Lusterfield_7115ea73:
 
-#     # e "A-alright."
-#     e ""
+    # e "A-alright."
+    e "好、好吧。"
 
 # translate schinese Haskell_Potion_Order_Finish_2584984e:
 
@@ -1568,325 +1568,325 @@ translate schinese Haskell_Buggbear_Quest_3cbb205f:
 #     # h "Have a nice day then."
 #     h ""
 
-# translate schinese Haskell_Ask_Goat_Tribe_aa4177eb:
+translate schinese Haskell_Ask_Goat_Tribe_aa4177eb:
 
-#     # e "Haskell, what's your relationship with the Goat Tribe?"
-#     e ""
+    # e "Haskell, what's your relationship with the Goat Tribe?"
+    e "比如你和山羊部落关系怎么样？"
 
-# translate schinese Haskell_Ask_Goat_Tribe_b10d2a73:
+translate schinese Haskell_Ask_Goat_Tribe_b10d2a73:
 
-#     # h "Yeah I know them, they're called Kechioeren."
-#     h ""
+    # h "Yeah I know them, they're called Kechioeren."
+    h "噢你说凯奇奥伦啊。"
 
-# translate schinese Haskell_Ask_Goat_Tribe_e4f667b2:
+translate schinese Haskell_Ask_Goat_Tribe_e4f667b2:
 
-#     # e "Uh... Ke-K-eso... Kechieoeo-"
-#     e ""
+    # e "Uh... Ke-K-eso... Kechieoeo-"
+    e "呃……珂-凯七……凯奇欧——"
 
-# translate schinese Haskell_Ask_Goat_Tribe_d1748bd5:
+translate schinese Haskell_Ask_Goat_Tribe_d1748bd5:
 
-#     # h "Alright just call them Goat Tribe like the rest of us do."
-#     h ""
+    # h "Alright just call them Goat Tribe like the rest of us do."
+    h "和大家一样称呼他们山羊部落就好。"
 
-# translate schinese Haskell_Ask_Goat_Tribe_8b053b59:
+translate schinese Haskell_Ask_Goat_Tribe_8b053b59:
 
-#     # e "Hmmm... Kechi-kechiren?"
-#     e ""
+    # e "Hmmm... Kechi-kechiren?"
+    e "嗯……凯奇——凯奇人？"
 
-# translate schinese Haskell_Ask_Goat_Tribe_4c5fe460:
+translate schinese Haskell_Ask_Goat_Tribe_4c5fe460:
 
-#     # h "Kechioeren."
-#     h ""
+    # h "Kechioeren."
+    h "凯奇奥伦。"
 
-# translate schinese Haskell_Ask_Goat_Tribe_7b08356f:
+translate schinese Haskell_Ask_Goat_Tribe_7b08356f:
 
-#     # e "What does it mean?"
-#     e ""
+    # e "What does it mean?"
+    e "这个名字的意思是？"
 
-# translate schinese Haskell_Ask_Goat_Tribe_f64c23c4:
+translate schinese Haskell_Ask_Goat_Tribe_f64c23c4:
 
-#     # h "Goat Tribe."
-#     h ""
+    # h "Goat Tribe."
+    h "山羊部落。"
 
-# translate schinese Haskell_Ask_Goat_Tribe_3388a208:
+translate schinese Haskell_Ask_Goat_Tribe_3388a208:
 
-#     # e "Oh..."
-#     e ""
+    # e "Oh..."
+    e "哦……"
 
-# translate schinese Haskell_Ask_Goat_Tribe_399e4d51:
+translate schinese Haskell_Ask_Goat_Tribe_399e4d51:
 
-#     # e "So what's your relationship with them?"
-#     e ""
+    # e "So what's your relationship with them?"
+    e "那你和他们有什么往来吗？"
 
-# translate schinese Haskell_Ask_Goat_Tribe_38f63c1d:
+translate schinese Haskell_Ask_Goat_Tribe_38f63c1d:
 
-#     # h "Business relationship, I just give them potion, usually they need a lot of magic potions."
-#     h ""
+    # h "Business relationship, I just give them potion, usually they need a lot of magic potions."
+    h "商业往来，我卖药水给他们，他们付钱给我。山羊部落经常需要大量的魔力药水。"
 
-# translate schinese Haskell_Ask_Goat_Tribe_0ad2acf8:
+translate schinese Haskell_Ask_Goat_Tribe_0ad2acf8:
 
-#     # e "Didn't you say they work on the Primordial Runes? The Spell... energy it gives them?"
-#     e ""
+    # e "Didn't you say they work on the Primordial Runes? The Spell... energy it gives them?"
+    e "你不是说他们从上古符石那获取魔力？"
 
-# translate schinese Haskell_Ask_Goat_Tribe_508ea55c:
+translate schinese Haskell_Ask_Goat_Tribe_508ea55c:
 
-#     # h "Yeah, but you still need potion if you go outside of the runes' influence."
-#     h ""
+    # h "Yeah, but you still need potion if you go outside of the runes' influence."
+    h "没错，但出了符石的辐射圈还是需要药水供给魔力。"
 
-# translate schinese Haskell_Ask_Goat_Tribe_d4dce121:
+translate schinese Haskell_Ask_Goat_Tribe_d4dce121:
 
-#     # e "O-oh... that makes sense. I think."
-#     e ""
+    # e "O-oh... that makes sense. I think."
+    e "噢、噢……我明白了，大概。"
 
-# translate schinese Haskell_Ask_Goat_Tribe_8e339bbe:
+translate schinese Haskell_Ask_Goat_Tribe_8e339bbe:
 
-#     # h "They're sending some folks to guard their huge tree though, it's the only few remnants of the rune's influence left there."
-#     h ""
+    # h "They're sending some folks to guard their huge tree though, it's the only few remnants of the rune's influence left there."
+    h "山羊部落最近在派人看守他们的大古树，那是为数不多还残留着符石魔力的地方。"
 
-# translate schinese Haskell_Ask_Goat_Tribe_5aabcf69:
+translate schinese Haskell_Ask_Goat_Tribe_5aabcf69:
 
-#     # h "They can't really extract the energy from there. I asked Furkan about this, but he insisted he should protect it."
-#     h ""
+    # h "They can't really extract the energy from there. I asked Furkan about this, but he insisted he should protect it."
+    h "其实他们并不能从古树中提取魔力，这点我已经向弗坎说明过了，但他还是坚持要分兵保护古树。"
 
-# translate schinese Haskell_Ask_Goat_Tribe_987c058b:
+translate schinese Haskell_Ask_Goat_Tribe_987c058b:
 
-#     # h "But you know, they're in a really vulnerable place."
-#     h ""
+    # h "But you know, they're in a really vulnerable place."
+    h "毕竟，你也知道，他们现在的状况岌岌可危。"
 
-# translate schinese Haskell_Ask_Goat_Tribe_7360881a:
+translate schinese Haskell_Ask_Goat_Tribe_7360881a:
 
-#     # e "Did you tell Sebas and Ole about it?"
-#     e ""
+    # e "Did you tell Sebas and Ole about it?"
+    e "你有和阿塞、奥利谈过这件事吗？"
 
-# translate schinese Haskell_Ask_Goat_Tribe_9f1e5856:
+translate schinese Haskell_Ask_Goat_Tribe_9f1e5856:
 
-#     # h "Yeah, I don't know if the rest of the village noticed though."
-#     h ""
+    # h "Yeah, I don't know if the rest of the village noticed though."
+    h "有，但我不知道其他村民有没有注意到山羊部落的异动。"
 
-# translate schinese Haskell_Ask_Goat_Tribe_7d439665:
+translate schinese Haskell_Ask_Goat_Tribe_7d439665:
 
-#     # e "A-alright. Then, you're helping the goats?"
-#     e ""
+    # e "A-alright. Then, you're helping the goats?"
+    e "好、好的。所以你在帮助山羊部落？"
 
-# translate schinese Haskell_Ask_Goat_Tribe_498967f1:
+translate schinese Haskell_Ask_Goat_Tribe_498967f1:
 
-#     # h "I advised Furkan to stay calm, nothing else."
-#     h ""
+    # h "I advised Furkan to stay calm, nothing else."
+    h "我只是建议弗坎保持冷静，除此之外我什么也没做。"
 
-# translate schinese Haskell_Ask_Goat_Tribe_b8cf40b8:
+translate schinese Haskell_Ask_Goat_Tribe_b8cf40b8:
 
-#     # e "Ok, thank you so much for letting me know."
-#     e ""
+    # e "Ok, thank you so much for letting me know."
+    e "这样啊，谢谢你告诉我这些。"
 
-# translate schinese Haskell_Ask_Goat_Tribe_d533d724:
+translate schinese Haskell_Ask_Goat_Tribe_d533d724:
 
-#     # h "Sure, Sure."
-#     h ""
+    # h "Sure, Sure."
+    h "嗯哼。"
 
-# translate schinese Haskell_Ask_Other_Business_8b15fd23:
+translate schinese Haskell_Ask_Other_Business_8b15fd23:
 
-#     # e "Haskell, do you have any other business?"
-#     e ""
+    # e "Haskell, do you have any other business?"
+    e "比如你还和哪些人做生意？"
 
-# translate schinese Haskell_Ask_Other_Business_c23e0151:
+translate schinese Haskell_Ask_Other_Business_c23e0151:
 
-#     # h "Lusterfield and Goat Tribe is the closest to me, other places were too far away."
-#     h ""
+    # h "Lusterfield and Goat Tribe is the closest to me, other places were too far away."
+    h "我通常只和乐村和山羊部落有生意往来，其他地方都太远了。"
 
-# translate schinese Haskell_Ask_Other_Business_e72b423e:
+translate schinese Haskell_Ask_Other_Business_e72b423e:
 
-#     # h "The bears... barely come here. It's very far away."
-#     h ""
+    # h "The bears... barely come here. It's very far away."
+    h "比如熊族……他们就很少来。"
 
-# translate schinese Haskell_Ask_Other_Business_a28fd805:
+translate schinese Haskell_Ask_Other_Business_a28fd805:
 
-#     # h "And wandering merchants from the town need refill sometimes."
-#     h ""
+    # h "And wandering merchants from the town need refill sometimes."
+    h "偶尔会有镇上的商人经过我这购买补给。"
 
-# translate schinese Haskell_Ask_Other_Business_5e29ca59:
+translate schinese Haskell_Ask_Other_Business_5e29ca59:
 
-#     # h "But I usually charge them higher than Ole's shop."
-#     h ""
+    # h "But I usually charge them higher than Ole's shop."
+    h "但我一般都会开给他们比君临典当更高的价钱。"
 
-# translate schinese Haskell_Ask_Other_Business_c83f1b7f:
+translate schinese Haskell_Ask_Other_Business_c83f1b7f:
 
-#     # e "Oh... Alright."
-#     e ""
+    # e "Oh... Alright."
+    e "噢噢……了解。"
 
-# translate schinese Haskell_Ask_Apothecary_597b226f:
+translate schinese Haskell_Ask_Apothecary_597b226f:
 
-#     # e "Haskell, what's with your deal with potion making?"
-#     e ""
+    # e "Haskell, what's with your deal with potion making?"
+    e "我想制作药水应该挺不容易的吧？"
 
-# translate schinese Haskell_Ask_Apothecary_338eb79e:
+translate schinese Haskell_Ask_Apothecary_338eb79e:
 
-#     # h "Common Potion making is actually really easy, but you won't get specific effects very easily without me."
-#     h ""
+    # h "Common Potion making is actually really easy, but you won't get specific effects very easily without me."
+    h "常见的那几种药剂做起来其实非常简单，但如果不经我手你很难做出特定的药效。"
 
-# translate schinese Haskell_Ask_Apothecary_b0fbef07:
+translate schinese Haskell_Ask_Apothecary_b0fbef07:
 
-#     # h "I'm not bluffing, it takes years to learn to be adaptive and creative with your potion invention."
-#     h ""
+    # h "I'm not bluffing, it takes years to learn to be adaptive and creative with your potion invention."
+    h "不是我吹，发明新药剂需要像我这样——有长年累月养成的变通能力和创意思维。"
 
-# translate schinese Haskell_Ask_Apothecary_0147538b:
+translate schinese Haskell_Ask_Apothecary_0147538b:
 
-#     # h "But I just make them for a living, buying myself herbs and stuff so I can afford to make myself some tea."
-#     h ""
+    # h "But I just make them for a living, buying myself herbs and stuff so I can afford to make myself some tea."
+    h "但我做药水只是为了谋生，赚钱来买药材和其他辅料泡茶。"
 
-# translate schinese Haskell_Ask_Apothecary_3e3a3aad:
+translate schinese Haskell_Ask_Apothecary_3e3a3aad:
 
-#     # e "Tea?"
-#     e ""
+    # e "Tea?"
+    e "泡茶？"
 
-# translate schinese Haskell_Ask_Apothecary_5ba4a29a:
+translate schinese Haskell_Ask_Apothecary_5ba4a29a:
 
-#     # h "Tea. I make tea in my free time, it's refreshing, much tastier than those nasty ass potion."
-#     h ""
+    # h "Tea. I make tea in my free time, it's refreshing, much tastier than those nasty ass potion."
+    h "没错，泡茶。我空闲的时候就会泡茶，清爽的茶水可比恶心的药水好喝多了。"
 
-# translate schinese Haskell_Ask_Apothecary_3388a208:
+translate schinese Haskell_Ask_Apothecary_3388a208:
 
-#     # e "Oh..."
-#     e ""
+    # e "Oh..."
+    e "噢……"
 
-# translate schinese Haskell_Ask_Apothecary_16b6427c:
+translate schinese Haskell_Ask_Apothecary_16b6427c:
 
-#     # h "I used to make tisana, it's not really that good."
-#     h ""
+    # h "I used to make tisana, it's not really that good."
+    h "我以前会泡凉茶，但味道的确不咋样。"
 
-# translate schinese Haskell_Ask_Apothecary_8d0db2d7:
+translate schinese Haskell_Ask_Apothecary_8d0db2d7:
 
-#     # h "I've grown Kapor, Chamomile. My favourite is Oolong."
-#     h ""
+    # h "I've grown Kapor, Chamomile. My favourite is Oolong."
+    h "我还种过柳兰和甘菊。现在我最喜欢的是乌龙茶。"
 
-# translate schinese Haskell_Ask_Apothecary_83e1dfe6:
+translate schinese Haskell_Ask_Apothecary_83e1dfe6:
 
-#     # e "Uhh... Oolong?"
-#     e ""
+    # e "Uhh... Oolong?"
+    e "呃……乌龙茶？"
 
-# translate schinese Haskell_Ask_Apothecary_9cb45f86:
+translate schinese Haskell_Ask_Apothecary_9cb45f86:
 
-#     # h "It takes some time to make, you usually have to wait for the plant to wither first, under strong sunlight out there."
-#     h ""
+    # h "It takes some time to make, you usually have to wait for the plant to wither first, under strong sunlight out there."
+    h "制取乌龙茶的茶叶就要花不少时间。你通常得待到采摘下的鲜叶萎凋，然后利用强烈的阳光晒青。"
 
-# translate schinese Haskell_Ask_Apothecary_a2bd5b3b:
+translate schinese Haskell_Ask_Apothecary_a2bd5b3b:
 
-#     # h "After the process of oxidation, the leaves would twist and curl. You really need a lot of attention to its timing and temperature."
-#     h ""
+    # h "After the process of oxidation, the leaves would twist and curl. You really need a lot of attention to its timing and temperature."
+    h "在阳光的作用下茶叶会变得卷曲，里面的成分也会发生变化。期间你需要密切观察控制时间和温度。"
 
-# translate schinese Haskell_Ask_Apothecary_a738f513:
+translate schinese Haskell_Ask_Apothecary_a738f513:
 
-#     # e "Oh... that sounds, interesting."
-#     e ""
+    # e "Oh... that sounds, interesting."
+    e "噢……听起来，挺有意思的。"
 
-# translate schinese Haskell_Ask_Apothecary_ffee101b:
+translate schinese Haskell_Ask_Apothecary_ffee101b:
 
-#     # h "I'll let you taste it once they're ready, but you need to be here for it though."
-#     h ""
+    # h "I'll let you taste it once they're ready, but you need to be here for it though."
+    h "等我烘好茶叶你可以来尝尝，但你要亲自到我这。"
 
-# translate schinese Haskell_Ask_Apothecary_11358271:
+translate schinese Haskell_Ask_Apothecary_11358271:
 
-#     # e "It's a deal then."
-#     e ""
+    # e "It's a deal then."
+    e "那说定咯。"
 
-# translate schinese Haskell_Ask_Apothecary_435c9e56:
+translate schinese Haskell_Ask_Apothecary_435c9e56:
 
-#     # h "Good, Good. You'll know about it soon."
-#     h ""
+    # h "Good, Good. You'll know about it soon."
+    h "嗯嗯，很快你就可以尝到了。"
 
-# translate schinese Haskell_How_Doing_04158c57:
+translate schinese Haskell_How_Doing_04158c57:
 
-#     # e "How are you doing, Haskell?"
-#     e ""
+    # e "How are you doing, Haskell?"
+    e "我还想问你最近怎么样呢？"
 
-# translate schinese Haskell_How_Doing_ca2ac6a0:
+translate schinese Haskell_How_Doing_ca2ac6a0:
 
-#     # h "Mmmh drinking tea. You want some?"
-#     h ""
+    # h "Mmmh drinking tea. You want some?"
+    h "嗯……品茶总是很愉快。来一口？"
 
-# translate schinese Haskell_How_Doing_501846ce:
+translate schinese Haskell_How_Doing_501846ce:
 
-#     # e "You know... your mug seems usually big."
-#     e ""
+    # e "You know... your mug seems usually big."
+    e "你的杯子看起来……不是一般的大。"
 
-# translate schinese Haskell_How_Doing_51f7cdeb:
+translate schinese Haskell_How_Doing_51f7cdeb:
 
-#     # h "I need to drink much more of them to get its effect."
-#     h ""
+    # h "I need to drink much more of them to get its effect."
+    h "我要喝得够多才能有效果。"
 
-# translate schinese Haskell_How_Doing_96f0dedc:
+translate schinese Haskell_How_Doing_96f0dedc:
 
-#     # e "Ohh..."
-#     e ""
+    # e "Ohh..."
+    e "噢……"
 
-# translate schinese Haskell_How_Doing_d9c0146c:
+translate schinese Haskell_How_Doing_d9c0146c:
 
-#     # h "You want the tea or not."
-#     h ""
+    # h "You want the tea or not."
+    h "你到底想喝不想喝。"
 
-# translate schinese Haskell_How_Doing_e3b3bad1:
+translate schinese Haskell_How_Doing_e3b3bad1:
 
-#     # e "Yeah, why not?"
-#     e ""
+    # e "Yeah, why not?"
+    e "想喝，不想喝才怪。"
 
-# translate schinese Haskell_How_Doing_c6771f71:
+translate schinese Haskell_How_Doing_c6771f71:
 
-#     # h "Come on, open your mouth."
-#     h ""
+    # h "Come on, open your mouth."
+    h "过来张开你的嘴。"
 
-# translate schinese Haskell_How_Doing_c26e8a63:
+translate schinese Haskell_How_Doing_c26e8a63:
 
-#     # e "Wait- I can take the mug from you..."
-#     e ""
+    # e "Wait- I can take the mug from you..."
+    e "为什么——我可以自己拿杯子喝……"
 
-# translate schinese Haskell_How_Doing_33b7e786:
+translate schinese Haskell_How_Doing_33b7e786:
 
-#     # h "I can't trust you slurping up all my drink can't I."
-#     h ""
+    # h "I can't trust you slurping up all my drink can't I."
+    h "我怕你又忍不住喝光了，你能保证不会吗？"
 
-# translate schinese Haskell_How_Doing_33380855:
+translate schinese Haskell_How_Doing_33380855:
 
-#     # e "...Alright."
-#     e ""
+    # e "...Alright."
+    e "……好吧，不能。"
 
-# translate schinese Haskell_How_Doing_446b8f38:
+translate schinese Haskell_How_Doing_446b8f38:
 
-#     # "Haskell holds the back of your head gently, he pours down a few drops onto your tongue."
-#     ""
+    # "Haskell holds the back of your head gently, he pours down a few drops onto your tongue."
+    "哈斯克尔温柔地抬着你的后脑勺，先倒了几滴在你舌头上。"
 
-# translate schinese Haskell_How_Doing_d3c13fc8:
+translate schinese Haskell_How_Doing_d3c13fc8:
 
-#     # "Then he tilts his mug to spill more into your throat, almost drowning you with his drink."
-#     ""
+    # "Then he tilts his mug to spill more into your throat, almost drowning you with his drink."
+    "他紧接着倾斜茶杯将更多茶水倒进你的喉咙，令你来不及下咽近乎窒息。"
 
-# translate schinese Haskell_How_Doing_30899c6d:
+translate schinese Haskell_How_Doing_30899c6d:
 
-#     # e "A-coff- cof..."
-#     e ""
+    # e "A-coff- cof..."
+    e "咳——咳咳……"
 
-# translate schinese Haskell_How_Doing_033fcb38:
+translate schinese Haskell_How_Doing_033fcb38:
 
-#     # "You choke a little, only see Haskell sitting there and watching your reaction."
-#     ""
+    # "You choke a little, only see Haskell sitting there and watching your reaction."
+    "哈斯克尔只是静静地坐在椅子上，看着你被呛得捶胸顿足。"
 
-# translate schinese Haskell_How_Doing_ff7daf55:
+translate schinese Haskell_How_Doing_ff7daf55:
 
-#     # e "Fuck, you made me cough, Haskell."
-#     e ""
+    # e "Fuck, you made me cough, Haskell."
+    e "靠，呛死我了。哈斯克尔！"
 
-# translate schinese Haskell_How_Doing_5554bd44:
+translate schinese Haskell_How_Doing_5554bd44:
 
-#     # h "Ha, Sorry about that. Like it?"
-#     h ""
+    # h "Ha, Sorry about that. Like it?"
+    h "哈哈哈，抱歉。喜欢吗？"
 
-# translate schinese Haskell_How_Doing_e39ed0d7:
+translate schinese Haskell_How_Doing_e39ed0d7:
 
-#     # e "You mean the tea. Yeah, it's pretty good."
-#     e ""
+    # e "You mean the tea. Yeah, it's pretty good."
+    e "如果你是指茶的话。嗯，味道不错。"
 
-# translate schinese Haskell_How_Doing_97ed5f1b:
+translate schinese Haskell_How_Doing_97ed5f1b:
 
-#     # h "Good, good. Now let me drink my tea in peace."
-#     h ""
+    # h "Good, good. Now let me drink my tea in peace."
+    h "那就好，现在该我独享这杯了。"
 
 translate schinese Haskell_Dialogues_End_66502dd7:
 
@@ -1947,7 +1947,7 @@ translate schinese Haskell_Meet_Hut_fd9996f9:
 translate schinese Haskell_Meet_Hut_8de9c05d:
 
     # e "F-fuck!"
-    e "操！"
+    e "肏！"
 
 translate schinese Haskell_Meet_Hut_a24e4789:
 
@@ -2042,7 +2042,7 @@ translate schinese Haskell_Meet_Hut_fd9996f9_1:
 translate schinese Haskell_Meet_Hut_8de9c05d_1:
 
     # e "F-fuck!"
-    e "操！"
+    e "肏！"
 
 translate schinese Haskell_Meet_Hut_a24e4789_1:
 
