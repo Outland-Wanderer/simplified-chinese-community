@@ -229,6 +229,9 @@ translate schinese strings:
     old "Skipping"
     new "正在快进"
 
+    old "Hide"
+    new "隐藏"
+
     old "Menu"
     new "菜单"
 

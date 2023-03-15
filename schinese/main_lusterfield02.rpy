@@ -4778,10 +4778,10 @@ translate schinese Cane_First_d2df1bbe:
     # "A scent of alcohol and yeast infiltrates your nose as soon as you open the door, you try to pinch your nose under the strong alcohol as a purple figure emerges in front of you."
     "你推门而入，酒精与酒糟发酵的气味扑面而来，你立马捏住鼻子抵御这双重刺激。不经意间，一位紫荧荧的人物横在了你面前。"
 
-translate schinese Cane_First_f56b47ff:
+translate schinese Cane_First_d9102cad:
 
-    # m "Welcome to the Nocturnal Trunk, Outsider."
-    m "欢迎光临夜夜椿，外乡仔[e]。"
+    # m "Welcome to the Nocturnal Trunk, [e]."
+    m "欢迎光临夜夜椿，[e]。"
 
 translate schinese Cane_First_54d14e14:
 
@@ -7361,9 +7361,6 @@ translate schinese Cane_NoMoney_No_7ad9c6e8:
     # c "Aye, remember to call ya lizard friend to come here often."
     c "诶，记得让你的蜥蜴朋友多来光顾啊。"
 
-#洛萨尔
-##初次见面
-
 translate schinese Lothar_First_d191b8fe:
 
     # m "You are the outsider everyone has been talking about."
@@ -7411,8 +7408,6 @@ translate schinese Lothar_First_6027e02a:
     m "对，外乡龙。你的事情奥利已经交代过了。他和另一只笨猫想请我——乐村的超级英雄，将你训练成一名合格的邮递员。"
     m "现在看你样子，应该多少有点过人之处。"
 
-#被问认不认识他的名字
-
 translate schinese Lothar_First_e3ce02ee:
 
     # m "So, I suppose you know who I am?" nointeract
@@ -7428,8 +7423,6 @@ translate schinese strings:
 
     old "Are you Lothar?"
     new "猜测他是洛萨尔"
-
-#说出名字
 
 translate schinese Lothar_Correct_4064657b:
 
@@ -7455,8 +7448,6 @@ translate schinese Lothar_Correct_c8156c81:
 
     # l "Don't get bogged down into the details, shall we? You should be remembering my name for sure, let's move on."
     l "不要在意这些细节好吗？反正我的大名人尽皆知，你也不能例外。行了，下面该谈正事了。"
-
-#准确说出名字后
 
 translate schinese Lothar_Correct2_aba21d07:
 
@@ -7527,8 +7518,6 @@ translate schinese Lothar_Correct2_a86ebcc4:
 
     # "You see Lothar breezes away, whistling slowly while crossing his arm. You glance at him until he walks upstairs and disappear into the room."
     "洛萨尔轻轻吹着口哨转身离去，大摇大摆的，不忘保持那副抱胸的姿态。你看着他登上街对面的木梯，走进了屋里。"
-
-#问他是谁
 
 translate schinese Lothar_Who_61ba7d89:
 
@@ -8411,8 +8400,6 @@ translate schinese strings:
 #     # "With that, Lothar leaves you alone, returning to his usual spot, a dark look creasing his features."
 #     ""
 
-#好态度
-
 translate schinese Lothar_Who_Smile_b77af144:
 
     # e "Thank... you? Lothar..."
@@ -8457,8 +8444,6 @@ translate schinese Lothar_Who_Smile_74db1a7f:
 
     # e "Yes..."
     e "想……"
-
-#坏态度
 
 translate schinese Lothar_Who_Angry_ec000328:
 
@@ -8530,8 +8515,6 @@ translate schinese Lothar_Who_Angry_93c2a728:
 
     # l "Hmmmph."
     l "哼。"
-
-#猜错名字
 
 translate schinese Lothar_Wrong_2a743721:
 
@@ -8618,8 +8601,6 @@ translate schinese Lothar_Wrong_6c60186f:
     # e "Y-yes..."
     e "是……我明白了……"
 
-#猜错名字后
-
 translate schinese Lothar_First_End_4c53de91:
 
     # "Lothar now satisfied with your performance, backs off slowly and gives you room to breath properly. He crosses his arms more tightly now, almost squishing his chest further."
@@ -8679,8 +8660,6 @@ translate schinese Lothar_First_End_5ae63efe:
 
     # l "You're goddamn right. Ok. Good. Now that lizard owes me a huge favour to take care of his little outsider friend."
     l "对，太他妈对了。很好、很好，为了训练你个外乡仔，这回那只蜥蜴可非要欠我一份大人情不可。"
-
-#结束第一次见面
 
 translate schinese Lothar_First_Ending_9140b7d0:
 
@@ -8772,8 +8751,6 @@ translate schinese Lothar_First_Ending_ed3b0d65:
     # "Lothar frowns upon you as he walks away towards the stairs on the other side of the road. You sigh heavily, finally getting out of the sticky situation."
     "灰狼皱皱眉，转身过街回到木梯底下。你长舒一口气，庆幸自己摆脱了这胶着的局面。"
 
-#与洛萨尔的小对话
-
 # translate schinese Lothar_Dialogue_08fa49ce:
 
 #     # e "Heyyyy, Lothar."
@@ -8838,8 +8815,6 @@ translate schinese Lothar_First_Ending_ed3b0d65:
 
 #     # l "Now, get back to training. You've been making good progress, but you're not a hero yet!"
 #     l ""
-
-##酒馆内
 
 translate schinese Lothar_Dialogue_fba13052:
 
@@ -8946,8 +8921,6 @@ translate schinese Lothar_Dialogue_ea033421:
     # e "Hello... Lothar?"
     e "嗨……洛萨尔？"
 
-##酒馆外
-
 translate schinese Lothar_Dialogue_6df2c243:
 
     # l "Greetings. [e]."
@@ -8967,8 +8940,6 @@ translate schinese Lothar_Dialogue_3e8b7ecc_1:
 
     # e "Hello Lothar."
     e "嗨，洛萨尔。"
-
-##洛萨尔通用对话
 
 translate schinese Lothar_Normal_Talk_ff55d21c:
 
@@ -13440,8 +13411,6 @@ translate schinese strings:
 #     # l "Don't let me down, Disciple."
 #     l ""
 
-#酒馆遇见洛萨尔
-
 translate schinese Lothar_Night_Greet_06ccd779:
 
     # l "Hmm... Ahoy! Little disciple, Don't see you often in the tavern. Down to drink a few beer?"
@@ -13461,8 +13430,6 @@ translate schinese Lothar_Night_Greet_119f8b57:
 
     # l "Hey, Cane. Get some beer, for this little guy here."
     l "嘿，凯恩，给我徒弟满上。"
-
-##当过服务员
 
 translate schinese Lothar_Night_Greet_05643719:
 
@@ -13552,8 +13519,6 @@ translate schinese Lothar_Night_Greet_faa7d97b:
     # e "Hmm..."
     e "呃……"
 
-##没当过服务员
-
 translate schinese Lothar_Night_Greet_a725761e:
 
     # c "Aye, Lot. Here's yer beer. And here's one for our new proper lad, [e]."
@@ -13629,10 +13594,10 @@ translate schinese Lothar_Night_Greet_1abf65ea:
     # "As you look behind, you see two beefy dudes at the tavern door, walking toward you and Lothar. Lothar waves at them in excitement."
     "你回头朝酒馆门口望去，恰好此时有两人踏进酒馆，一高一矮。洛萨尔向他们兴奋地挥手。"
 
-translate schinese Lothar_Night_Greet_50773e72:
+translate schinese Lothar_Night_Greet_b15b28db:
 
-    # "One of them is a Coyote, and the other a Raccoon. They both hold a few meat in their hands, throwing them on the table."
-    "熊和鬣狗手中各提着一捆肉，径直向你和洛萨尔走来，将肉扔到了吧台上。"
+    # "One of them seems like a red bear, and the other a hyena. They both hold a few meat in their hands, throwing them on the table."
+    "红熊和鬣狗手中各提着一捆肉，径直向你和洛萨尔走来，将肉扔到了吧台上。"
 
 translate schinese Lothar_Night_Greet_bdc6a726:
 
@@ -14462,8 +14427,6 @@ translate schinese Lothar_After_River_Trip_d015f1d1:
     # e "Ok... Lothar."
     e "好的……洛萨尔。"
 
-#任务5
-
 translate schinese Lothar_Mossy_Artifact_05ce4aa0:
 
     # e "Lothar, what are you holding... on your hand?"
@@ -14683,8 +14646,6 @@ translate schinese strings:
     old "Do not let him kick Lothar"
     new "出手制止"
 
-#不踢
-
 translate schinese Lothar_Sebas_Kick_No_ae0bd0e2:
 
     # e "No... I think Lothar's had enough."
@@ -14809,8 +14770,6 @@ translate schinese Lothar_Sebas_Kick_No_4437d14e:
 
     # s "Alrighty, then we'll get ready for tomorrow! I'll see you two here."
     s "行，我们明天出发！先在这里集合。"
-
-#踢
 
 translate schinese Lothar_Sebas_Kick_Yes_655355ea:
 
@@ -15118,8 +15077,6 @@ translate schinese Lothar_Sebas_Kick_Yes_bcc41471:
     # s "Hehe. Maybe after my work, you impatient little guy."
     s "嘿嘿，等我下班再说吧，心急的小老弟。"
 
-#任务4
-
 translate schinese Lothar_Postal_Training_bc86c150:
 
     # e "Lothar! I'm ready for the training!"
@@ -15326,8 +15283,6 @@ translate schinese Lothar_Postal_Training_0dfa31be:
     # e "O-Okay, Lothar."
     e "好、好的，洛萨尔。"
 
-#完成任务4
-
 translate schinese Lothar_Postal_Finish_3e4287a4:
 
     # e "Lothar, I'm back from the practice."
@@ -15433,8 +15388,6 @@ translate schinese Lothar_Postal_Finish_b097527c:
     # e "Okay, thanks. See you Lothar."
     e "嗯……谢谢你带我训练。回头见。"
 
-##未完成
-
 translate schinese Lothar_Postal_Finish_2dd9edd6:
 
     # "Lothar walks into the alleyway, a few seconds later he came back with a strange look on his face."
@@ -15507,8 +15460,6 @@ translate schinese Lothar_Postal_Finish_74db1a7f:
 
     # e "Yes..."
     e "是……"
-
-#问关于村子的事
 
 translate schinese Lothar_Ask_Lusterfield_06b17b2b:
 
@@ -15599,8 +15550,6 @@ translate schinese Lothar_Ask_Lusterfield_0d715947:
 
     # l "Not really. No."
     l "应该没有了。嗯。"
-
-#问职业
 
 translate schinese Lothar_Ask_Hero_ebbb2876:
 
@@ -15767,8 +15716,6 @@ translate schinese Lothar_Ask_Hero_f8813d0a:
     # e "...Ok, Lothar."
     e "好……的。"
 
-#问洛萨尔自己
-
 translate schinese Lothar_Ask_Himself_a2faa6df:
 
     # e "How are you doing, Lothar?"
@@ -15809,8 +15756,6 @@ translate schinese Lothar_Ask_Himself_9ec597c5:
     # l "Good. Whatever."
     l "嗯嗯。"
 
-##不在酒馆
-
 translate schinese Lothar_Ask_Himself_d8a8fa62:
 
     # e "How are you doing, Lothar."
@@ -15836,8 +15781,6 @@ translate schinese Lothar_Ask_Himself_bd9e9f2e:
     # e "Ok, Lothar."
     e "好的。"
 
-#结束对话
-
 translate schinese Lothar_Dialogue_End_4c28f542:
 
     # e "That's all I need, thank you, Lothar."
@@ -15857,8 +15800,6 @@ translate schinese Lothar_Dialogue_End_8b8ddf1b:
 
     # l "Good, stay safe out there, disciple."
     l "好，注意安全小徒弟。"
-
-#酒馆顾客1
 
 translate schinese Patron1_Dialogue_58d8197c:
 
@@ -15895,8 +15836,6 @@ translate schinese Patron1_Dialogue_8dd2ff0d:
     # e "Alright. Have fun!"
     e "行，不打扰了！"
 
-#酒馆顾客2
-
 translate schinese Patron2_Dialogue_ec05c2fe:
 
     # patron "You see, the stars in the skies are actually monsters, and the sun is probably the most fierce one, that's why my eyes hurt when I look at him."
@@ -15930,9 +15869,7 @@ translate schinese Patron2_Dialogue_81c9d756:
 translate schinese Patron2_Dialogue_082fccfa:
 
     # e "'I think I should leave these two alone...'"
-    e "我还是让他们继续二人世界吧……"
-
-#酒馆顾客3
+    e "我还是让他们继续过二人世界吧……"
 
 translate schinese Patron3_Dialogue_da1a7a72:
 

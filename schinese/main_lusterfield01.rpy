@@ -1773,7 +1773,7 @@ translate schinese Sebas_Expedition_7f26a7b6:
 translate schinese Sebas_Expedition_46b0350f:
 
     # s "Aren't you? We first met here, on the grass bed. And the forest too! It's so green here."
-    s "你不兴奋吗？我们第一次相见就是在片森林的草地。而且你看，周围绿油油的多美呀！"
+    s "你不兴奋吗？我们第一次相见就在这片森林、这片草地。而且你看，周围绿油油的多美呀！"
 
 translate schinese Sebas_Expedition_8be3324c:
 
@@ -2005,9 +2005,9 @@ translate schinese Sebas_Ask_Lusterfield_People_2073e362:
     # s "If you see him later, tell him Sebas' got the hardest fist in the whole Lusterfield and he should watch out for his own nuts."
     s "要是你待会碰见洛萨尔，告诉他，我乐村铁拳塞巴斯名头可不是盖的，叫他保护好他的蛋蛋，别哪天碎了。"
 
-translate schinese Sebas_Ask_Lusterfield_People_5083db61:
+translate schinese Sebas_Ask_Lusterfield_People_85e86bb4:
 
-    # s "...Also You can visit the Fluttering Nocturnals, uhhh... the inn around Rahim's place. You can take some jobs from Cane..."
+    # s "...Also You can visit the Nocturnal Trunk, uhhh... the inn around Rahim's place. You can take some jobs from Cane..."
     s "……话说回来，夜夜椿酒馆也是个好去处，就挨着……雷希姆的店。酒馆老板凯恩那还有些活可以接……"
 
 translate schinese Sebas_Ask_Lusterfield_People_81551c7a:
