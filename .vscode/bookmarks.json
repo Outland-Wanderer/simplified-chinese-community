@@ -1,52 +1,667 @@
 {
 	"files": [
 		{
-			"path": "schinese/main_scene01.rpy",
+			"path": "schinese/battle.rpy",
+			"bookmarks": [
+				{
+					"line": 6,
+					"column": 0,
+					"label": "slime_battle"
+				},
+				{
+					"line": 101,
+					"column": 0,
+					"label": "slime_win"
+				},
+				{
+					"line": 131,
+					"column": 0,
+					"label": "slime_lose"
+				},
+				{
+					"line": 169,
+					"column": 0,
+					"label": "dummy_battle"
+				},
+				{
+					"line": 249,
+					"column": 0,
+					"label": "dummy_win"
+				},
+				{
+					"line": 274,
+					"column": 0,
+					"label": "dummy_lose"
+				},
+				{
+					"line": 285,
+					"column": 0,
+					"label": "goat_battle"
+				},
+				{
+					"line": 295,
+					"column": 0,
+					"label": "goat_battle_loop"
+				},
+				{
+					"line": 625,
+					"column": 0,
+					"label": "goat_win"
+				},
+				{
+					"line": 716,
+					"column": 0,
+					"label": "goat_lose"
+				},
+				{
+					"line": 762,
+					"column": 0,
+					"label": "buggbear_battle"
+				},
+				{
+					"line": 767,
+					"column": 0,
+					"label": "buggbear_battle_loop"
+				},
+				{
+					"line": 947,
+					"column": 0,
+					"label": "buggbear_sedated"
+				},
+				{
+					"line": 1043,
+					"column": 0,
+					"label": "buggbear_win2"
+				},
+				{
+					"line": 1068,
+					"column": 0,
+					"label": "buggbear_lose"
+				},
+				{
+					"line": 1099,
+					"column": 0,
+					"label": "mossgolem_battle"
+				},
+				{
+					"line": 1119,
+					"column": 0,
+					"label": "mossgolem_battle_loop"
+				},
+				{
+					"line": 1314,
+					"column": 0,
+					"label": "mossgolem_lose"
+				},
+				{
+					"line": 1400,
+					"column": 0,
+					"label": "mossgolem_win"
+				}
+			]
+		},
+		{
+			"path": "schinese/battle02.rpy",
 			"bookmarks": [
 				{
 					"line": 0,
 					"column": 0,
-					"label": "scene_masturbation"
+					"label": "Ability_Item"
 				},
 				{
-					"line": 253,
+					"line": 5,
 					"column": 0,
-					"label": "Scene_Sebas_Under_Counter"
+					"label": "Use_Green_Ointment"
 				},
 				{
-					"line": 743,
+					"line": 15,
 					"column": 0,
-					"label": "Scene_Goat_Lose"
+					"label": "Use_Small_HP"
 				},
 				{
-					"line": 1083,
+					"line": 25,
 					"column": 0,
-					"label": "Scene_Goat_Win"
+					"label": "Use_Strength"
 				},
 				{
-					"line": 1422,
+					"line": 30,
 					"column": 0,
-					"label": "scene_buggbear_lose"
+					"label": "Ability_Self_Heal"
 				},
 				{
-					"line": 1822,
+					"line": 35,
 					"column": 0,
-					"label": "Scene_Tavern_Meet_01"
+					"label": "Ability_Fiery_Charge"
 				},
 				{
-					"line": 2552,
+					"line": 55,
 					"column": 0,
-					"label": "Scene_Tavern_Meet_02"
+					"label": "Ability_Fortify"
 				},
 				{
-					"line": 3572,
+					"line": 60,
 					"column": 0,
-					"label": "Scene_Tavern_Meet_03"
+					"label": "Ability_Alluring_Lust"
 				},
 				{
-					"line": 4302,
+					"line": 65,
 					"column": 0,
-					"label": "scene_buggbear_win"
+					"label": "Ability_Camouflage"
+				},
+				{
+					"line": 70,
+					"column": 0,
+					"label": "Ability_CoreStrike"
+				},
+				{
+					"line": 85,
+					"column": 0,
+					"label": "Ability_Resolution"
+				},
+				{
+					"line": 90,
+					"column": 0,
+					"label": "Battle_End_Check"
+				},
+				{
+					"line": 105,
+					"column": 0,
+					"label": "Battle_Mid_Check"
+				},
+				{
+					"line": 110,
+					"column": 0,
+					"label": "Battle_Kari"
+				},
+				{
+					"line": 140,
+					"column": 0,
+					"label": "Battle_ASF"
+				},
+				{
+					"line": 145,
+					"column": 0,
+					"label": "goat_guard_battle"
+				},
+				{
+					"line": 170,
+					"column": 0,
+					"label": "goat_guard_battle_loop"
+				},
+				{
+					"line": 760,
+					"column": 0,
+					"label": "goat_general_battle"
+				},
+				{
+					"line": 770,
+					"column": 0,
+					"label": "goat_general_battle_loop"
+				},
+				{
+					"line": 1015,
+					"column": 0,
+					"label": "goat_general_win"
+				},
+				{
+					"line": 1380,
+					"column": 0,
+					"label": "goat_general_lose"
+				},
+				{
+					"line": 1610,
+					"column": 0,
+					"label": "lothar_battle"
+				},
+				{
+					"line": 1630,
+					"column": 0,
+					"label": "lothar_battle_loop"
+				},
+				{
+					"line": 1870,
+					"column": 0,
+					"label": "lothar_battle_loop2"
+				},
+				{
+					"line": 1990,
+					"column": 0,
+					"label": "lothar_battle_lose"
+				},
+				{
+					"line": 2280,
+					"column": 0,
+					"label": "lothar_battle_win"
+				}
+			]
+		},
+		{
+			"path": "schinese/battle03.rpy",
+			"bookmarks": [
+				{
+					"line": 0,
+					"column": 0,
+					"label": "mimic_battle"
+				},
+				{
+					"line": 165,
+					"column": 0,
+					"label": "stoneward_battle"
+				},
+				{
+					"line": 175,
+					"column": 0,
+					"label": "stoneward_battle_loop"
+				},
+				{
+					"line": 320,
+					"column": 0,
+					"label": "stoneward_win"
+				},
+				{
+					"line": 350,
+					"column": 0,
+					"label": "mimic_win"
+				},
+				{
+					"line": 375,
+					"column": 0,
+					"label": "stoneward_lose"
+				},
+				{
+					"line": 475,
+					"column": 0,
+					"label": "mimic_lose"
+				},
+				{
+					"line": 576,
+					"column": 0,
+					"label": "runeguardian_battle"
+				},
+				{
+					"line": 596,
+					"column": 0,
+					"label": "runeguardian_battle_loop"
+				},
+				{
+					"line": 791,
+					"column": 0,
+					"label": "runeguardian_win"
+				},
+				{
+					"line": 907,
+					"column": 0,
+					"label": "Bandit_Den_End"
+				},
+				{
+					"line": 1468,
+					"column": 0,
+					"label": "runeguardian_lose"
+				},
+				{
+					"line": 1593,
+					"column": 0,
+					"label": "minostatue_battle"
+				},
+				{
+					"line": 1633,
+					"column": 0,
+					"label": "minostatue_win"
+				},
+				{
+					"line": 1653,
+					"column": 0,
+					"label": "minostatue_lose"
+				},
+				{
+					"line": 1663,
+					"column": 0,
+					"label": "mino_battle"
+				},
+				{
+					"line": 1683,
+					"column": 0,
+					"label": "mino_battle_loop"
+				},
+				{
+					"line": 1943,
+					"column": 0,
+					"label": "mino_win"
+				},
+				{
+					"line": 1973,
+					"column": 0,
+					"label": "mino_lose"
+				}
+			]
+		},
+		{
+			"path": "schinese/dungeon_map.rpy",
+			"bookmarks": [
+				{
+					"line": 0,
+					"column": 0,
+					"label": "Bandit_Den"
+				},
+				{
+					"line": 160,
+					"column": 0,
+					"label": "Bandit_Den_Loop"
+				},
+				{
+					"line": 303,
+					"column": 0,
+					"label": "Bandit_Den_Ward"
+				},
+				{
+					"line": 329,
+					"column": 0,
+					"label": "Bandit_Den_Mimic"
+				},
+				{
+					"line": 364,
+					"column": 0,
+					"label": "Bandit_Den_Puddle"
+				},
+				{
+					"line": 425,
+					"column": 0,
+					"label": "Bandit_Den_Hole"
+				},
+				{
+					"line": 459,
+					"column": 0,
+					"label": "Bandit_Den_Shelf"
+				},
+				{
+					"line": 599,
+					"column": 1,
+					"label": "Bandit_Den_Hole_Filled"
+				},
+				{
+					"line": 615,
+					"column": 0,
+					"label": "Bandit_Den_Hole_Stucked"
+				},
+				{
+					"line": 631,
+					"column": 0,
+					"label": "Bandit_Den_Chest"
+				}
+			]
+		},
+		{
+			"path": "schinese/main_forest_01.rpy",
+			"bookmarks": [
+				{
+					"line": 0,
+					"column": 0,
+					"label": "main_woodland_outpost"
+				},
+				{
+					"line": 85,
+					"column": 0,
+					"label": "ancient_tree_chop"
+				},
+				{
+					"line": 100,
+					"column": 0,
+					"label": "sparkling_lagoon_drink"
+				},
+				{
+					"line": 157,
+					"column": 0,
+					"label": "green_forest_loop"
+				},
+				{
+					"line": 237,
+					"column": 0,
+					"label": "summery_farmland_loop"
+				},
+				{
+					"line": 298,
+					"column": 0,
+					"label": "ancient_tree_loop"
+				},
+				{
+					"line": 383,
+					"column": 0,
+					"label": "sparkling_lagoon_loop"
+				},
+				{
+					"line": 453,
+					"column": 0,
+					"label": "mossy_freshwater_loop"
+				},
+				{
+					"line": 633,
+					"column": 0,
+					"label": "woodland_outpost_loop"
+				},
+				{
+					"line": 929,
+					"column": 0,
+					"label": "damp_cave_loop"
+				},
+				{
+					"line": 954,
+					"column": 0,
+					"label": "alchemists_cabin_loop"
+				},
+				{
+					"line": 1019,
+					"column": 0,
+					"label": "scene_slime_sex"
+				}
+			]
+		},
+		{
+			"path": "schinese/main_goattribe_01.rpy",
+			"bookmarks": [
+				{
+					"line": 0,
+					"column": 0,
+					"label": "Kari_Dialogue"
+				},
+				{
+					"line": 140,
+					"column": 0,
+					"label": "Kari_Normal_Talk"
+				},
+				{
+					"line": 150,
+					"column": 0,
+					"label": "Kari_Ask_Goat_Tribe"
+				},
+				{
+					"line": 215,
+					"column": 0,
+					"label": "Kari_Ask_Warrior_Practice"
+				},
+				{
+					"line": 365,
+					"column": 0,
+					"label": "Kari_Warrior_Practice_Start"
+				},
+				{
+					"line": 415,
+					"column": 0,
+					"label": "Kari_Goat_Practice_Lose"
+				},
+				{
+					"line": 490,
+					"column": 0,
+					"label": "Kari_Goat_Practice_Win"
+				},
+				{
+					"line": 1325,
+					"column": 0,
+					"label": "Kari_Ask_General"
+				},
+				{
+					"line": 1380,
+					"column": 0,
+					"label": "Kari_Ask_How_Doing"
+				},
+				{
+					"line": 1445,
+					"column": 0,
+					"label": "Kari_Dialogue_End"
+				},
+				{
+					"line": 1455,
+					"column": 0,
+					"label": "Kechioeren_Enter"
+				},
+				{
+					"line": 2299,
+					"column": 0,
+					"label": "Kechioeren_Enter_Artifact"
+				},
+				{
+					"line": 2576,
+					"column": 0,
+					"label": "Kari_Trusty"
+				},
+				{
+					"line": 3551,
+					"column": 0,
+					"label": "Kari_Adventure"
+				},
+				{
+					"line": 4257,
+					"column": 0,
+					"label": "Furkan_First_Meet"
+				},
+				{
+					"line": 4524,
+					"column": 0,
+					"label": "Furkan_Second_Meet"
+				}
+			]
+		},
+		{
+			"path": "schinese/main_haskellhut.rpy",
+			"bookmarks": [
+				{
+					"line": 11,
+					"column": 0,
+					"label": "Haskell_Dialogues"
+				},
+				{
+					"line": 46,
+					"column": 0,
+					"label": "Haskell_Normal_Talk"
+				},
+				{
+					"line": 89,
+					"column": 0,
+					"label": "Haskell_Ask_Clients"
+				},
+				{
+					"line": 116,
+					"column": 0,
+					"label": "Haskell_Ask_Gwyddyon"
+				},
+				{
+					"line": 186,
+					"column": 0,
+					"label": "Haskell_Report_Wuldon_Curse"
+				},
+				{
+					"line": 581,
+					"column": 0,
+					"label": "Haskell_Buggbear_Wait"
+				},
+				{
+					"line": 874,
+					"column": 0,
+					"label": "Haskell_Buggbear_Quest"
+				},
+				{
+					"line": 1025,
+					"column": 0,
+					"label": "Haskell_Outfit_03"
+				},
+				{
+					"line": 1145,
+					"column": 0,
+					"label": "Haskell_Ask_Lusterfield"
+				},
+				{
+					"line": 1235,
+					"column": 0,
+					"label": "Haskell_Potion_Order_Finish"
+				},
+				{
+					"line": 1290,
+					"column": 0,
+					"label": "Haskell_Potion_Order"
+				},
+				{
+					"line": 1570,
+					"column": 0,
+					"label": "Haskell_Ask_Goat_Tribe"
+				},
+				{
+					"line": 1685,
+					"column": 0,
+					"label": "Haskell_Ask_Other_Business"
+				},
+				{
+					"line": 1715,
+					"column": 0,
+					"label": "Haskell_Ask_Apothecary"
+				},
+				{
+					"line": 1795,
+					"column": 0,
+					"label": "Haskell_How_Doing"
+				},
+				{
+					"line": 1890,
+					"column": 0,
+					"label": "Haskell_Dialogues_End"
+				},
+				{
+					"line": 1900,
+					"column": 0,
+					"label": "Haskell_Meet_Hut"
+				},
+				{
+					"line": 2466,
+					"column": 0,
+					"label": "Haskell_First_Meet"
+				},
+				{
+					"line": 2942,
+					"column": 0,
+					"label": "Haskell_Minotaur_Dungeon"
+				},
+				{
+					"line": 3152,
+					"column": 0,
+					"label": "Haskell_Sick_Quest"
+				},
+				{
+					"line": 3242,
+					"column": 0,
+					"label": "Haskell_Report_Minotaur_Dungeon"
+				},
+				{
+					"line": 3347,
+					"column": 0,
+					"label": "Haskell_After_Sick_Quest"
+				},
+				{
+					"line": 3402,
+					"column": 0,
+					"label": "Haskell_Trinket_Quest"
+				},
+				{
+					"line": 3712,
+					"column": 0,
+					"label": "Haskell_Report_Trinket_Quest"
 				}
 			]
 		},
@@ -699,404 +1314,164 @@
 					"label": "Lothar_Ask_Invasion"
 				},
 				{
-					"line": 12278,
+					"line": 12297,
 					"column": 0,
 					"label": "Lothar_Report_Goat"
 				},
 				{
-					"line": 12383,
+					"line": 12410,
 					"column": 0,
 					"label": "Lothar_Outfit_01"
 				},
 				{
-					"line": 12418,
+					"line": 12445,
 					"column": 0,
 					"label": "Lothar_Outfit_02"
 				},
 				{
-					"line": 12463,
+					"line": 12490,
 					"column": 0,
 					"label": "Lothar_Outfit_03"
 				},
 				{
-					"line": 12503,
+					"line": 12530,
 					"column": 0,
 					"label": "Lothar_Invasion_Quest"
 				},
 				{
-					"line": 12943,
+					"line": 12983,
 					"column": 0,
 					"label": "Lothar_Report_Amble_Jog"
 				},
 				{
-					"line": 13293,
+					"line": 13333,
 					"column": 0,
 					"label": "Lothar_Ask_Amble_Jog"
 				},
 				{
-					"line": 13413,
+					"line": 13453,
 					"column": 0,
 					"label": "Lothar_Night_Greet"
 				},
 				{
-					"line": 14109,
+					"line": 14149,
 					"column": 0,
 					"label": "Lothar_Ask_Goat_Tribe"
 				},
 				{
-					"line": 14174,
+					"line": 14214,
 					"column": 0,
 					"label": "Lothar_After_River_Trip"
 				},
 				{
-					"line": 14429,
+					"line": 14469,
 					"column": 0,
 					"label": "Lothar_Mossy_Artifact"
 				},
 				{
-					"line": 14648,
+					"line": 14688,
 					"column": 0,
 					"label": "Lothar_Sebas_Kick_No"
 				},
 				{
-					"line": 14773,
+					"line": 14813,
 					"column": 0,
 					"label": "Lothar_Sebas_Kick_Yes"
 				},
 				{
-					"line": 15079,
+					"line": 15119,
 					"column": 0,
 					"label": "Lothar_Postal_Training"
 				},
 				{
-					"line": 15285,
+					"line": 15325,
 					"column": 0,
 					"label": "Lothar_Postal_Finish"
 				},
 				{
-					"line": 15463,
+					"line": 15503,
 					"column": 0,
 					"label": "Lothar_Ask_Lusterfield"
 				},
 				{
-					"line": 15553,
+					"line": 15593,
 					"column": 0,
 					"label": "Lothar_Ask_Hero"
 				},
 				{
-					"line": 15718,
+					"line": 15758,
 					"column": 0,
 					"label": "Lothar_Ask_Himself"
 				},
 				{
-					"line": 15783,
+					"line": 15823,
 					"column": 0,
 					"label": "Lothar_Dialogue_End"
 				},
 				{
-					"line": 15803,
+					"line": 15843,
 					"column": 0,
 					"label": "Patron1_Dialogue"
 				},
 				{
-					"line": 15838,
+					"line": 15878,
 					"column": 0,
 					"label": "Patron2_Dialogue"
 				},
 				{
-					"line": 15873,
+					"line": 15913,
 					"column": 0,
 					"label": "Patron3_Dialogue"
 				}
 			]
 		},
 		{
-			"path": "schinese/main_haskellhut.rpy",
-			"bookmarks": [
-				{
-					"line": 11,
-					"column": 0,
-					"label": "Haskell_Dialogues"
-				},
-				{
-					"line": 46,
-					"column": 0,
-					"label": "Haskell_Normal_Talk"
-				},
-				{
-					"line": 89,
-					"column": 0,
-					"label": "Haskell_Ask_Clients"
-				},
-				{
-					"line": 116,
-					"column": 0,
-					"label": "Haskell_Ask_Gwyddyon"
-				},
-				{
-					"line": 186,
-					"column": 0,
-					"label": "Haskell_Report_Wuldon_Curse"
-				},
-				{
-					"line": 581,
-					"column": 0,
-					"label": "Haskell_Buggbear_Wait"
-				},
-				{
-					"line": 874,
-					"column": 0,
-					"label": "Haskell_Buggbear_Quest"
-				},
-				{
-					"line": 1025,
-					"column": 0,
-					"label": "Haskell_Outfit_03"
-				},
-				{
-					"line": 1145,
-					"column": 0,
-					"label": "Haskell_Ask_Lusterfield"
-				},
-				{
-					"line": 1235,
-					"column": 0,
-					"label": "Haskell_Potion_Order_Finish"
-				},
-				{
-					"line": 1290,
-					"column": 0,
-					"label": "Haskell_Potion_Order"
-				},
-				{
-					"line": 1570,
-					"column": 0,
-					"label": "Haskell_Ask_Goat_Tribe"
-				},
-				{
-					"line": 1685,
-					"column": 0,
-					"label": "Haskell_Ask_Other_Business"
-				},
-				{
-					"line": 1715,
-					"column": 0,
-					"label": "Haskell_Ask_Apothecary"
-				},
-				{
-					"line": 1795,
-					"column": 0,
-					"label": "Haskell_How_Doing"
-				},
-				{
-					"line": 1890,
-					"column": 0,
-					"label": "Haskell_Dialogues_End"
-				},
-				{
-					"line": 1900,
-					"column": 0,
-					"label": "Haskell_Meet_Hut"
-				},
-				{
-					"line": 2466,
-					"column": 0,
-					"label": "Haskell_First_Meet"
-				},
-				{
-					"line": 2942,
-					"column": 0,
-					"label": "Haskell_Minotaur_Dungeon"
-				},
-				{
-					"line": 3152,
-					"column": 0,
-					"label": "Haskell_Sick_Quest"
-				},
-				{
-					"line": 3242,
-					"column": 0,
-					"label": "Haskell_Report_Minotaur_Dungeon"
-				},
-				{
-					"line": 3347,
-					"column": 0,
-					"label": "Haskell_After_Sick_Quest"
-				},
-				{
-					"line": 3402,
-					"column": 0,
-					"label": "Haskell_Trinket_Quest"
-				},
-				{
-					"line": 3712,
-					"column": 0,
-					"label": "Haskell_Report_Trinket_Quest"
-				}
-			]
-		},
-		{
-			"path": "schinese/main_forest_01.rpy",
+			"path": "schinese/main_scene01.rpy",
 			"bookmarks": [
 				{
 					"line": 0,
 					"column": 0,
-					"label": "main_woodland_outpost"
+					"label": "scene_masturbation"
 				},
 				{
-					"line": 85,
+					"line": 253,
 					"column": 0,
-					"label": "ancient_tree_chop"
+					"label": "Scene_Sebas_Under_Counter"
 				},
 				{
-					"line": 100,
+					"line": 743,
 					"column": 0,
-					"label": "sparkling_lagoon_drink"
+					"label": "Scene_Goat_Lose"
 				},
 				{
-					"line": 157,
+					"line": 1083,
 					"column": 0,
-					"label": "green_forest_loop"
+					"label": "Scene_Goat_Win"
 				},
 				{
-					"line": 237,
+					"line": 1422,
 					"column": 0,
-					"label": "summery_farmland_loop"
+					"label": "scene_buggbear_lose"
 				},
 				{
-					"line": 298,
+					"line": 1822,
 					"column": 0,
-					"label": "ancient_tree_loop"
+					"label": "Scene_Tavern_Meet_01"
 				},
 				{
-					"line": 383,
+					"line": 2552,
 					"column": 0,
-					"label": "sparkling_lagoon_loop"
+					"label": "Scene_Tavern_Meet_02"
 				},
 				{
-					"line": 453,
+					"line": 3572,
 					"column": 0,
-					"label": "mossy_freshwater_loop"
+					"label": "Scene_Tavern_Meet_03"
 				},
 				{
-					"line": 633,
+					"line": 4302,
 					"column": 0,
-					"label": "woodland_outpost_loop"
-				},
-				{
-					"line": 928,
-					"column": 0,
-					"label": "damp_cave_loop"
-				},
-				{
-					"line": 953,
-					"column": 0,
-					"label": "alchemists_cabin_loop"
-				},
-				{
-					"line": 1018,
-					"column": 0,
-					"label": "scene_slime_sex"
-				}
-			]
-		},
-		{
-			"path": "schinese/battle.rpy",
-			"bookmarks": [
-				{
-					"line": 6,
-					"column": 0,
-					"label": "slime_battle"
-				},
-				{
-					"line": 101,
-					"column": 0,
-					"label": "slime_win"
-				},
-				{
-					"line": 131,
-					"column": 0,
-					"label": "slime_lose"
-				},
-				{
-					"line": 169,
-					"column": 0,
-					"label": "dummy_battle"
-				},
-				{
-					"line": 249,
-					"column": 0,
-					"label": "dummy_win"
-				},
-				{
-					"line": 274,
-					"column": 0,
-					"label": "dummy_lose"
-				},
-				{
-					"line": 285,
-					"column": 0,
-					"label": "goat_battle"
-				},
-				{
-					"line": 295,
-					"column": 0,
-					"label": "goat_battle_loop"
-				},
-				{
-					"line": 625,
-					"column": 0,
-					"label": "goat_win"
-				},
-				{
-					"line": 716,
-					"column": 0,
-					"label": "goat_lose"
-				},
-				{
-					"line": 762,
-					"column": 0,
-					"label": "buggbear_battle"
-				},
-				{
-					"line": 767,
-					"column": 0,
-					"label": "buggbear_battle_loop"
-				},
-				{
-					"line": 947,
-					"column": 0,
-					"label": "buggbear_sedated"
-				},
-				{
-					"line": 1043,
-					"column": 0,
-					"label": "buggbear_win2"
-				},
-				{
-					"line": 1068,
-					"column": 0,
-					"label": "buggbear_lose"
-				},
-				{
-					"line": 1099,
-					"column": 0,
-					"label": "mossgolem_battle"
-				},
-				{
-					"line": 1119,
-					"column": 0,
-					"label": "mossgolem_battle_loop"
-				},
-				{
-					"line": 1314,
-					"column": 0,
-					"label": "mossgolem_lose"
-				},
-				{
-					"line": 1400,
-					"column": 0,
-					"label": "mossgolem_win"
+					"label": "scene_buggbear_win"
 				}
 			]
 		}

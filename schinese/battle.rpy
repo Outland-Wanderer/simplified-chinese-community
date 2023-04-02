@@ -1150,7 +1150,7 @@ translate schinese mossgolem_battle_loop_bc5738de:
 translate schinese mossgolem_battle_loop_5d3cbdb2:
 
     # "You slam your [pc.weapon.name!t] at the arm of the moss golem, your blade crashes against the stone with a harsh, grating sound. Chunks of his arm crumble under the force of the blow."
-    "你抡动[pc.weapon.name!t]劈向石魔像的手臂，"
+    "你抡动[pc.weapon.name!t]劈向石魔像的手臂，刀刃与石块摩擦的声音尖锐刺耳。你这一下直接碎掉了他手臂的一部分。"
 
 translate schinese mossgolem_battle_loop_d4dec8d4:
 
@@ -1160,7 +1160,7 @@ translate schinese mossgolem_battle_loop_d4dec8d4:
 translate schinese mossgolem_battle_loop_5017cd51:
 
     # "You aim and shoot your [pc.weapon.name!t] at the moss golem, the arrow hits him right in the arm, reducing a chunk of the limb to rubble."
-    "你找准时机拉动[pc.weapon.name!t]，飞箭正中石魔像的右臂。他由土石组成的手臂碎成了一片瓦砾。"
+    "你找准时机拉动[pc.weapon.name!t]，飞箭正中石魔像的右臂。他由土石组成的手臂碎了一大块。"
 
 translate schinese mossgolem_battle_loop_f70613a1:
 

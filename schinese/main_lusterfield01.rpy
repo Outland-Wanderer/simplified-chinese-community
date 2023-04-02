@@ -7335,7 +7335,7 @@ translate schinese Rahim_Dialogue_8adbd44e:
 translate schinese Rahim_Dialogue_e1065ae8:
 
     # e "Uhh- I'll try...{size=15} if only you aren't looking that hot... {/size}"
-    e "呃——我会努力的……{size=15}前提是你别那么性感……{/size}"
+    e "呃——我会努力的……{size=-16}前提是你别那么性感……{/size}"
 
 translate schinese Rahim_Dialogue_19fcb7b1:
 

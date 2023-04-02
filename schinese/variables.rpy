@@ -670,10 +670,10 @@ translate schinese strings:
     new "山羊猎人"
 
     old "Goat Guard"
-    new "山羊守卫"
+    new "山羊士兵"
 
     old "Goat General"
-    new "山羊部落将军"
+    new "羊族将军"
 
     old "Wild Buggbear"
     new "野生熊地精"
@@ -685,7 +685,10 @@ translate schinese strings:
     new "宝箱怪"
 
     old "Stone Ward"
-    new "巨石护卫"
+    new "石魔像"
+
+    old "Rune Guardian"
+    new "符石护卫"
 
     old "Minotaur Statue"
     new "弥诺陶洛斯雕像"
@@ -954,17 +957,17 @@ translate schinese strings:
     # old "Rahim is testing his new clothing design, he needs someone to become his model."
     # new "雷希姆设计了几套新衣服，需要有人当模特试穿。"
 
-    # old "Suspicious Activity"
-    # new "可疑的动向"
+    old "Suspicious Activity"
+    new "可疑的动向"
 
-    # old "Lothar wanted me to get inside the Goat Tribe for information, I need to decide whether I should follow his plan."
-    # new "洛萨尔想让我进到山羊部落刺探情况，我得决定要不要加入他的计划。"
+    old "Lothar wanted me to get inside the Goat Tribe for information, I need to decide whether I should follow his plan."
+    new "洛萨尔想让我进到山羊部落刺探情况，我得决定要不要加入他的计划。"
 
-    # old "Guardian"
-    # new "守护者"
+    old "Guardian"
+    new "符石护卫"
 
-    # old "Kari asked me to help save Furkan. He told me the chief went to the Damp Cave for the lost guardian."
-    # new "卡里恳求我救出弗坎。他说弗坎为了找回失踪的守护者独自前往了潮湿山洞。"
+    old "Kari asked me to help save Furkan. He told me the chief went to the Damp Cave for the lost guardian."
+    new "卡里恳求我救出弗坎。他说弗坎为了找回失踪的符石护卫独自前往了潮湿山洞。"
 
     # old "Advanced Battle Practice"
     # new "高级作战教学"

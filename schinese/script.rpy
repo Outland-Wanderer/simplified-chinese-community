@@ -1281,7 +1281,7 @@ translate schinese name_done_cb97f0c7:
 translate schinese name_done_fa38a6b5:
 
     # s "Here it is! The magnificent sign, {size=-10}made by me by the way{/size}. Isn't it beautiful?"
-    s "我们到咯！看这显眼的大招牌，{size=-10}我画的{/size}，霸气不？"
+    s "我们到咯！看这显眼的大招牌，{size=-8}我画的{/size}，霸气不？"
 
 translate schinese name_done_e86936fd:
 
@@ -1306,7 +1306,7 @@ translate schinese name_done_4420625b:
 translate schinese name_done_27bf0577:
 
     # s "[e], hey. This weirdo lizard here is only 27. Don't get fooled by his croaky voice."
-    s "{size=-10}嘿，[e]。这个怪大叔今年才27岁。别被他低沉沙哑的声音骗了。{/size}"
+    s "{size=-16}嘿，[e]。这个怪大叔今年才27岁。别被他低沉沙哑的声音骗了。{/size}"
 
 translate schinese name_done_e9de62d4:
 
@@ -1832,7 +1832,7 @@ translate schinese strings:
     new "乔格和安布"
 
     old "Guard"
-    new "守卫"
+    new "山羊卫兵"
 
     old "Buggbear"
     new "熊地精"

@@ -1453,1060 +1453,1126 @@
 #     # k "See you... Courier."
 #     k ""
 
-# translate schinese Kechioeren_Enter_af5d99c3:
+translate schinese Kechioeren_Enter_af5d99c3:
 
-#     # "You cautiously walk towards the direction Lothar sent you..."
-#     ""
+    # "You cautiously walk towards the direction Lothar sent you..."
+    "你小心翼翼地朝洛萨尔标记的方位走去……"
 
-# translate schinese Kechioeren_Enter_96a44609:
+translate schinese Kechioeren_Enter_96a44609:
 
-#     # "Soon, you discover the huge tribe area."
-#     ""
+    # "Soon, you discover the huge tribe area."
+    "很快，成片的大型聚落映入眼帘，各式建筑成百上千分布在整条山脉上。"
 
-# translate schinese Kechioeren_Enter_be9fb4f4:
+translate schinese Kechioeren_Enter_be9fb4f4:
 
-#     # "The tribe is lined with almost hundreds of huts, spread throughout the mountains."
-#     ""
+    # "The tribe is lined with almost hundreds of huts, spread throughout the mountains."
+    pass
 
-# translate schinese Kechioeren_Enter_90c44898:
+translate schinese Kechioeren_Enter_90c44898:
 
-#     # "You see two guards at the entrance of the goat tribe, standing carelessly."
-#     ""
+    # "You see two guards at the entrance of the goat tribe, standing carelessly."
+    "你向着大门口继续前进。两个士兵正值守在那，漫不经心地站着。"
 
-# translate schinese Kechioeren_Enter_9e6c75c1:
+translate schinese Kechioeren_Enter_9e6c75c1:
 
-#     # e "Ahem... Hey!! Hey!!"
-#     e ""
+    # e "Ahem... Hey!! Hey!!"
+    e "嘿！！嘿……两位大哥！！"
 
-# translate schinese Kechioeren_Enter_b52bc581:
+translate schinese Kechioeren_Enter_b52bc581:
 
-#     # goatguard "..."
-#     goatguard ""
+    # goatguard "..."
+    goatguard "……"
 
-# translate schinese Kechioeren_Enter_143e4c4b:
+translate schinese Kechioeren_Enter_143e4c4b:
 
-#     # goatguard "Who are you?"
-#     goatguard ""
+    # goatguard "Who are you?"
+    goatguard "站住，你要干什么？"
 
-# translate schinese Kechioeren_Enter_8d8f6003:
+translate schinese Kechioeren_Enter_8d8f6003:
 
-#     # e "I- I- uhh... I'm lost."
-#     e ""
+    # e "I- I- uhh... I'm lost."
+    e "我——我、呃……我迷路了。"
 
-# translate schinese Kechioeren_Enter_d2ed2a42:
+translate schinese Kechioeren_Enter_d2ed2a42:
 
-#     # goatguard "I haven't seen you kind here... Where're you from?"
-#     goatguard ""
+    # goatguard "I haven't seen you kind here... Where're you from?"
+    goatguard "没见过哪个种族长得像你这样……你从哪里来？"
 
-# translate schinese Kechioeren_Enter_a1df5ddf:
+translate schinese Kechioeren_Enter_a1df5ddf:
 
-#     # e "Uhm... I'm from..." nointeract
-#     e "" nointeract
+    # e "Uhm... I'm from..." nointeract
+    e "呃嗯……我从……" nointeract
 
-# translate schinese Kechioeren_Enter_f28e0830:
+translate schinese strings:
 
-#     # e "I'm... from... Hawkaita. Have you heard?"
-#     e ""
+    old "Hawkaita"
+    new "霍克埃塔部落"
+#TODO
+    # old "Lusterfield"
+    # new "乐斯民菲尔德村"
 
-# translate schinese Kechioeren_Enter_d2edbc61:
+    old "The Town"
+    new "镇子"
 
-#     # goatguard "No...?"
-#     goatguard ""
+translate schinese Kechioeren_Enter_f28e0830:
 
-# translate schinese Kechioeren_Enter_1ed158c9:
+    # e "I'm... from... Hawkaita. Have you heard?"
+    e "我从霍克埃塔来……你有听说过吗？"
 
-#     # e "Really, I thought there's a dragon who looked like me?"
-#     e ""
+translate schinese Kechioeren_Enter_d2edbc61:
 
-# translate schinese Kechioeren_Enter_5ea46a05:
+    # goatguard "No...?"
+    goatguard "没有……"
 
-#     # goatguard "Look I don't know where you're from... maybe I can ask when our huntsmen come back."
-#     goatguard ""
+translate schinese Kechioeren_Enter_1ed158c9:
 
-# translate schinese Kechioeren_Enter_d747d448:
+    # e "Really, I thought there's a dragon who looked like me?"
+    e "啊？不是有个像我这样的龙来过你们这里吗？"
 
-#     # e "H-hey I just need a direction... and I'll go."
-#     e ""
+translate schinese Kechioeren_Enter_5ea46a05:
 
-# translate schinese Kechioeren_Enter_d5ecfce0:
+    # goatguard "Look I don't know where you're from... maybe I can ask when our huntsmen come back."
+    goatguard "你说的地方我真没听过……等我们的猎人回来之后我可以帮你问问他们。"
 
-#     # goatguard "Alright."
-#     goatguard ""
+translate schinese Kechioeren_Enter_d747d448:
 
-# translate schinese Kechioeren_Enter_43f07b61:
+    # e "H-hey I just need a direction... and I'll go."
+    e "不用了不用了……大哥你只用给我指个路我就走。"
 
-#     # e "I'm from... Lusterfield. I'm a courier. Look."
-#     e ""
+translate schinese Kechioeren_Enter_d5ecfce0:
 
-# translate schinese Kechioeren_Enter_dca3ca57:
+    # goatguard "Alright."
+    goatguard "那你想去哪里？"
 
-#     # goatguard "Ugh, fucking Lusterfolks."
-#     goatguard ""
+translate schinese Kechioeren_Enter_43f07b61:
 
-# translate schinese Kechioeren_Enter_5956abe5:
+    # e "I'm from... Lusterfield. I'm a courier. Look."
+    e "我从乐斯民菲尔德来，我是那的邮递员。这是我的证明。"
 
-#     # goatguard "What do you want, you can't enter the tribe, I've warned you."
-#     goatguard ""
+translate schinese Kechioeren_Enter_dca3ca57:
 
-# translate schinese Kechioeren_Enter_a5aac5dc:
+    # goatguard "Ugh, fucking Lusterfolks."
+    goatguard "啧，乐村的獠奴。"
 
-#     # e "Alright- you don't need to. I just need a direction... and I'll go."
-#     e ""
+translate schinese Kechioeren_Enter_5956abe5:
 
-# translate schinese Kechioeren_Enter_a69ee3a4:
+    # goatguard "What do you want, you can't enter the tribe, I've warned you."
+    goatguard "你到底想干什么？擅入我村后果自负，我先警告你。"
 
-#     # goatguard "Ok, where do you want to go?"
-#     goatguard ""
+translate schinese Kechioeren_Enter_a5aac5dc:
 
-# translate schinese Kechioeren_Enter_24d70927:
+    # e "Alright- you don't need to. I just need a direction... and I'll go."
+    e "不会不会，大哥你放心……我问个路就走。"
 
-#     # e "I'm from the town..? I just got lost in the forest here."
-#     e ""
+translate schinese Kechioeren_Enter_a69ee3a4:
 
-# translate schinese Kechioeren_Enter_c1964b7f:
+    # goatguard "Ok, where do you want to go?"
+    goatguard "你想去哪里？"
 
-#     # goatguard "Really...? From that far away?"
-#     goatguard ""
+translate schinese Kechioeren_Enter_24d70927:
 
-# translate schinese Kechioeren_Enter_cefc349b:
+    # e "I'm from the town..? I just got lost in the forest here."
+    e "我从镇上来……？我不小心在森林里绕迷路了。"
 
-#     # e "Yes... I just need a direction... and then I'll go."
-#     e ""
+translate schinese Kechioeren_Enter_c1964b7f:
 
-# translate schinese Kechioeren_Enter_2034511c:
+    # goatguard "Really...? From that far away?"
+    goatguard "真的吗……？你迷路能迷这么远？"
 
-#     # goatguard "Alright, sure."
-#     goatguard ""
+translate schinese Kechioeren_Enter_cefc349b:
 
-# translate schinese Kechioeren_Enter_b042a0c1:
+    # e "Yes... I just need a direction... and then I'll go."
+    e "真的，不骗你……大哥你只用帮我指个路我就走。"
 
-#     # e "Mhmm...I want to go to..." nointeract
-#     e "" nointeract
+translate schinese Kechioeren_Enter_2034511c:
 
-# translate schinese Kechioeren_Enter_2db7b312:
+    # goatguard "Alright, sure."
+    goatguard "那你想去哪里？"
 
-#     # e "...Lusterfield?"
-#     e ""
+translate schinese Kechioeren_Enter_b042a0c1:
 
-# translate schinese Kechioeren_Enter_7ebdd3b8:
+    # e "Mhmm...I want to go to..." nointeract
+    e "嗯呣……我想要去……" nointeract
 
-#     # goatguard "Really...? Ehrm..."
-#     goatguard ""
+translate schinese strings:
+#TODO
+    # old "Haskell's Hut"
+    # new "炼金术士的小屋"
 
-# translate schinese Kechioeren_Enter_64a39b57:
+    old "the Town"
+    new "镇子"
 
-#     # goatguard "And you said you're from... Lusterfield."
-#     goatguard ""
+translate schinese Kechioeren_Enter_2db7b312:
 
-# translate schinese Kechioeren_Enter_758e43d4:
+    # e "...Lusterfield?"
+    e "……乐村？"
 
-#     # e "Yeah but I didn't know... where I am."
-#     e ""
+translate schinese Kechioeren_Enter_7ebdd3b8:
 
-# translate schinese Kechioeren_Enter_65600742:
+    # goatguard "Really...? Ehrm..."
+    goatguard "乐村……？喂……"
 
-#     # goatguard "Lusterfield... Why are you heading there..."
-#     goatguard ""
+translate schinese Kechioeren_Enter_64a39b57:
 
-# translate schinese Kechioeren_Enter_ce1a4a90:
+    # goatguard "And you said you're from... Lusterfield."
+    goatguard "你刚刚不是才说你从乐斯民菲尔德来的吗？"
 
-#     # e "Just for trading with the lion merchant."
-#     e ""
+translate schinese Kechioeren_Enter_758e43d4:
 
-# translate schinese Kechioeren_Enter_01f08b8f:
+    # e "Yeah but I didn't know... where I am."
+    e "是的，但我现在……不知道该往哪边回去。"
 
-#     # e "Haskell's place?"
-#     e ""
+translate schinese Kechioeren_Enter_65600742:
 
-# translate schinese Kechioeren_Enter_ebc37301:
+    # goatguard "Lusterfield... Why are you heading there..."
+    goatguard "你为什么要去那里……"
 
-#     # goatguard "It's just over there..."
-#     goatguard ""
+translate schinese Kechioeren_Enter_ce1a4a90:
 
-# translate schinese Kechioeren_Enter_6b70fcfd:
+    # e "Just for trading with the lion merchant."
+    e "我想要和那里的狮子商人做笔买卖。"
 
-#     # e "Uhmm..."
-#     e ""
+translate schinese Kechioeren_Enter_01f08b8f:
 
-# translate schinese Kechioeren_Enter_155de2e5:
+    # e "Haskell's place?"
+    e "炼金术士的小屋？"
 
-#     # goatguard "Just walk until you see the cabin."
-#     goatguard ""
+translate schinese Kechioeren_Enter_ebc37301:
 
-# translate schinese Kechioeren_Enter_6de39d69:
+    # goatguard "It's just over there..."
+    goatguard "那边……"
 
-#     # e "I don't know... I need a map at least so I won't get lost again... Please?"
-#     e ""
+translate schinese Kechioeren_Enter_6b70fcfd:
 
-# translate schinese Kechioeren_Enter_9e9dc0b8:
+    # e "Uhmm..."
+    e "嗯……"
 
-#     # e "the Town?"
-#     e ""
+translate schinese Kechioeren_Enter_155de2e5:
 
-# translate schinese Kechioeren_Enter_6cbf1d91:
+    # goatguard "Just walk until you see the cabin."
+    goatguard "直直走过去就是。"
 
-#     # goatguard "Didn't you say you lived in the town."
-#     goatguard ""
+translate schinese Kechioeren_Enter_6de39d69:
 
-# translate schinese Kechioeren_Enter_16e0f583:
+    # e "I don't know... I need a map at least so I won't get lost again... Please?"
+    e "我……大哥可以行行好给我一份地图吗，这样我就不会再迷路了……拜托？"
 
-#     # e "Yes, but I don't know where I am... Please?"
-#     e ""
+translate schinese Kechioeren_Enter_9e9dc0b8:
 
-# translate schinese Kechioeren_Enter_fe0ce0ac:
+    # e "the Town?"
+    e "镇子？"
 
-#     # goatguard "The town? It's really far away..."
-#     goatguard ""
+translate schinese Kechioeren_Enter_6cbf1d91:
 
-# translate schinese Kechioeren_Enter_f18b5235:
+    # goatguard "Didn't you say you lived in the town."
+    goatguard "你刚刚不是才说你从镇上来吗？"
 
-#     # e "I don't know where it is, I just got lost in this forest."
-#     e ""
+translate schinese Kechioeren_Enter_16e0f583:
 
-# translate schinese Kechioeren_Enter_555cd8c3:
+    # e "Yes, but I don't know where I am... Please?"
+    e "是的，但现在我找不到回去的路了……拜托？"
 
-#     # goatguard "Ughh... alright... I'll call the general to make you a map..."
-#     goatguard ""
+translate schinese Kechioeren_Enter_fe0ce0ac:
 
-# translate schinese Kechioeren_Enter_66fc3a5a:
+    # goatguard "The town? It's really far away..."
+    goatguard "镇子？那里离这可不是一般的远……"
 
-#     # e "Thanks!"
-#     e ""
+translate schinese Kechioeren_Enter_f18b5235:
 
-# translate schinese Kechioeren_Enter_2005007e:
+    # e "I don't know where it is, I just got lost in this forest."
+    e "我真的不知道现在该往哪里走，我已经迷路好久了。"
 
-#     # "The guard leaves you at the entrance of the goat tribe, you try to peek inside but the other guard keeps staring at you."
-#     ""
+translate schinese Kechioeren_Enter_555cd8c3:
 
-# translate schinese Kechioeren_Enter_0698a6d1:
+    # goatguard "Ughh... alright... I'll call the general to make you a map..."
+    goatguard "呃啊……好吧……我去请将军帮你画张地图。"
 
-#     # "He is staring at you intensely, almost like he secretly knows about your plan."
-#     ""
+translate schinese Kechioeren_Enter_66fc3a5a:
 
-# translate schinese Kechioeren_Enter_cac05fff:
+    # e "Thanks!"
+    e "谢谢大哥！"
 
-#     # "You stand solemnly in place, ignoring the piercing gaze of the guard."
-#     ""
+translate schinese Kechioeren_Enter_2005007e:
 
-# translate schinese Kechioeren_Enter_8c448491:
+    # "The guard leaves you at the entrance of the goat tribe, you try to peek inside but the other guard keeps staring at you."
+    "与你交谈的卫兵走进村内，而另一个卫兵此时仍在盯着你。"
 
-#     # "Yet, you feel he is looking at you up and down... he goes around you and searches your bag."
-#     ""
+translate schinese Kechioeren_Enter_0698a6d1:
 
-# translate schinese Kechioeren_Enter_14d261a7:
+    # "He is staring at you intensely, almost like he secretly knows about your plan."
+    "他的目光锐利而冷峻，像是已经料到了你的计划。"
 
-#     # e "Hey, what are you doing..."
-#     e ""
+translate schinese strings:
 
-# translate schinese Kechioeren_Enter_6e532246:
+    old "You might need to do something... here."
+    new "你想着要不要做些什么……"
 
-#     # goatguard2 "Searching..."
-#     goatguard2 ""
+    old "Stand in place"
+    new "站在原地不动"
 
-# translate schinese Kechioeren_Enter_58432b52:
+    old "Pretend to Faint"
+    new "假装晕倒"
 
-#     # goatguard2 "What t-the..."
-#     goatguard2 ""
+translate schinese Kechioeren_Enter_cac05fff:
 
-# translate schinese Kechioeren_Enter_bd9a3065:
+    # "You stand solemnly in place, ignoring the piercing gaze of the guard."
+    "你俨然站定，无视疑心渐重的卫兵。"
 
-#     # goatguard2 "It's... meat. someone elses..."
-#     goatguard2 ""
+translate schinese Kechioeren_Enter_8c448491:
 
-# translate schinese Kechioeren_Enter_7c73e931:
+    # "Yet, you feel he is looking at you up and down... he goes around you and searches your bag."
+    "但你还是能感受到他的视线在自己身上游走……他大步上前，手直接伸进了你的包里。"
 
-#     # e "Oh, what? No no no, I just took it from... the buggbears!"
-#     e ""
+translate schinese Kechioeren_Enter_14d261a7:
 
-# translate schinese Kechioeren_Enter_624644d6:
+    # e "Hey, what are you doing..."
+    e "嘿……你在干什么……"
 
-#     # goatguard2 "Why would you take it... if not for eating the meat for yourself..."
-#     goatguard2 ""
+translate schinese Kechioeren_Enter_6e532246:
 
-# translate schinese Kechioeren_Enter_666e5935:
+    # goatguard2 "Searching..."
+    goatguard2 "搜身……"
 
-#     # goatguard2 "What kind of sick being are you."
-#     goatguard2 ""
+translate schinese Kechioeren_Enter_58432b52:
 
-# translate schinese Kechioeren_Enter_5c342823:
+    # goatguard2 "What t-the..."
+    goatguard2 "天、天啊——"
 
-#     # goatguard2 "And you said you're from the Lusterfield huh..."
-#     goatguard2 ""
+translate schinese Kechioeren_Enter_bd9a3065:
 
-# translate schinese Kechioeren_Enter_70599fdb:
+    # goatguard2 "It's... meat. someone elses..."
+    goatguard2 "你包里怎么有块……生肉。看起来还像从活人……"
 
-#     # goatguard2 "Insolent being, you are all insolence..."
-#     goatguard2 ""
+translate schinese Kechioeren_Enter_7c73e931:
 
-# translate schinese Kechioeren_Enter_5428d5a5:
+    # e "Oh, what? No no no, I just took it from... the buggbears!"
+    e "噢，这个。不不不，不是你想的那样。这是……这是我从熊地精身上搜到的！"
 
-#     # e "No-no... It's not what you think..."
-#     e ""
+translate schinese Kechioeren_Enter_624644d6:
 
-# translate schinese Kechioeren_Enter_c0c41e6e:
+    # goatguard2 "Why would you take it... if not for eating the meat for yourself..."
+    goatguard2 "你为什么要拿走……难道你要吃了这块肉吗？"
 
-#     # "The guard violently rings his bell on his chest, instantly you can see him holding his spear."
-#     ""
+translate schinese Kechioeren_Enter_666e5935:
 
-# translate schinese Kechioeren_Enter_d3ed6533:
+    # goatguard2 "What kind of sick being are you."
+    goatguard2 "恶心至极！"
 
-#     # "You can see someone else coming from a distance too."
-#     ""
+translate schinese Kechioeren_Enter_5c342823:
 
-# translate schinese Kechioeren_Enter_5a5bce3a:
+    # goatguard2 "And you said you're from the Lusterfield huh..."
+    goatguard2 "你说你从乐斯民菲尔德来的哼？"
 
-#     # "You might need to prepare for a battle..."
-#     ""
+translate schinese Kechioeren_Enter_70599fdb:
 
-# translate schinese Kechioeren_Enter_dab0aca2:
+    # goatguard2 "Insolent being, you are all insolence..."
+    goatguard2 "果然你们都是群没开化的野兽……"
 
-#     # e "Hey I helped you defeat the buggbears that plagued your outpost over there..."
-#     e ""
+translate schinese Kechioeren_Enter_5428d5a5:
 
-# translate schinese Kechioeren_Enter_3eca3147:
+    # e "No-no... It's not what you think..."
+    e "大哥……真不是你想的那样……"
 
-#     # goatguard2 "Watch your mouth... stranger."
-#     goatguard2 ""
+translate schinese Kechioeren_Enter_c0c41e6e:
 
-# translate schinese Kechioeren_Enter_b69a3fce:
+    # "The guard violently rings his bell on his chest, instantly you can see him holding his spear."
+    "卫兵没有理会你的辩解，一手用力摇动胸前的铃铛，一手架起长矛。"
 
-#     # e "Whatever..."
-#     e ""
+translate schinese Kechioeren_Enter_d3ed6533:
 
-# translate schinese Kechioeren_Enter_8bb50e6b:
+    # "You can see someone else coming from a distance too."
+    "村内的增援即将到来，看来一场恶战在所难免……"
 
-#     # goatguard2 "Nothing suspicious..."
-#     goatguard2 ""
+translate schinese Kechioeren_Enter_5a5bce3a:
 
-# translate schinese Kechioeren_Enter_defcbf26:
+    # "You might need to prepare for a battle..."
+    pass
 
-#     # e "Now may you get your hand off me?"
-#     e ""
+translate schinese Kechioeren_Enter_dab0aca2:
 
-# translate schinese Kechioeren_Enter_9a3c6615:
+    # e "Hey I helped you defeat the buggbears that plagued your outpost over there..."
+    e "嘿，我可是帮你们赶走了侵扰哨站的怪兽……"
 
-#     # goatguard2 "Not if you're so fluffy under there..."
-#     goatguard2 ""
+translate schinese Kechioeren_Enter_3eca3147:
 
-# translate schinese Kechioeren_Enter_af31fb7b:
+    # goatguard2 "Watch your mouth... stranger."
+    goatguard2 "我劝你措辞小心点……外族人。"
 
-#     # "You can feel the guard's hand running up and down from the back to your stomach..."
-#     ""
+translate schinese Kechioeren_Enter_b69a3fce:
 
-# translate schinese Kechioeren_Enter_a652f41f:
+    # e "Whatever..."
+    e "啐……"
 
-#     # "His fingers tracing deeper and deeper into your crotch..."
-#     ""
+translate schinese Kechioeren_Enter_8bb50e6b:
 
-# translate schinese Kechioeren_Enter_95729aef:
+    # goatguard2 "Nothing suspicious..."
+    if LookForItem("Raw Meat", inventory) or LookForItem("Raw Mutton", inventory):
+        goatguard2 "倒没有其他可疑的东西……"
+    else:
+        goatguard2 "倒没有可疑的东西……"
 
-#     # goatguard2 "Is this why you run around the forest... naked. Just for us to grope a feel..."
-#     goatguard2 ""
+translate schinese Kechioeren_Enter_defcbf26:
 
-# translate schinese Kechioeren_Enter_dfd17dc0:
+    # e "Now may you get your hand off me?"
+    e "现在可以请你把手拿开了吗？"
 
-#     # e "Get... off..."
-#     e ""
+translate schinese Kechioeren_Enter_9a3c6615:
 
-# translate schinese Kechioeren_Enter_185d7695:
+    # goatguard2 "Not if you're so fluffy under there..."
+    goatguard2 "下面还有块毛蓬蓬的地方没搜完呢……"
 
-#     # goatguard2 "Alright... I'll leave you be... but I see you showing off your body again here... I can't promise I'll let you go."
-#     goatguard2 ""
+translate schinese Kechioeren_Enter_af31fb7b:
 
-# translate schinese Kechioeren_Enter_274daa9f:
+    # "You can feel the guard's hand running up and down from the back to your stomach..."
+    "卫兵左手穿进你后背的毛从，上下拨弄，五指逐渐游向腹部……"
 
-#     # e "Hmmm..."
-#     e ""
+translate schinese Kechioeren_Enter_a652f41f:
 
-# translate schinese Kechioeren_Enter_7f4f8d77:
+    # "His fingers tracing deeper and deeper into your crotch..."
+    "并越来越往私处深入……"
 
-#     # "The goat guard walks back to his guarding duty, while you patiently wait for the other guard to come back..."
-#     ""
+translate schinese Kechioeren_Enter_95729aef:
 
-# translate schinese Kechioeren_Enter_342ef9b5:
+    # goatguard2 "Is this why you run around the forest... naked. Just for us to grope a feel..."
+    goatguard2 "你就是为了方便别人玩你……才光着身子在森林里裸奔吧……"
 
-#     # "Soon the other guard comes back with another figure, he is wearing a short cowl around his shoulder, and holding a scepter with a bell on top of it."
-#     ""
+translate schinese Kechioeren_Enter_dfd17dc0:
 
-# translate schinese Kechioeren_Enter_4d4e2656:
+    # e "Get... off..."
+    e "住……住手……"
 
-#     # "The figure has a deer horn... he is wearing a skull mask, much like the one you saw in the forest before you were sent to this world..."
-#     ""
+translate schinese Kechioeren_Enter_185d7695:
 
-# translate schinese Kechioeren_Enter_32636830:
+    # goatguard2 "Alright... I'll leave you be... but I see you showing off your body again here... I can't promise I'll let you go."
+    goatguard2 "好吧……既然你这么不情愿……"
+    goatguard2 "但要是再让我碰见你在附近搔首弄姿的……我可不敢保证我还能这么克制。"
 
-#     # "He doesn't speak much, only staggering towards you while holding his scepter for balance."
-#     ""
+translate schinese Kechioeren_Enter_274daa9f:
 
-# translate schinese Kechioeren_Enter_66c99cf4:
+    # e "Hmmm..."
+    e "唔……"
 
-#     # m "Who- is this you say?"
-#     m ""
+translate schinese Kechioeren_Enter_7f4f8d77:
 
-# translate schinese Kechioeren_Enter_e6a163e8:
+    # "The goat guard walks back to his guarding duty, while you patiently wait for the other guard to come back..."
+    "山羊卫兵站回原位继续履行他的职责。此时你只能耐心等候另一个卫兵回来……"
 
-#     # goatguard "General, he's from Lusterfield."
-#     goatguard ""
+translate schinese Kechioeren_Enter_342ef9b5:
 
-# translate schinese Kechioeren_Enter_3497f1f2:
+    # "Soon the other guard comes back with another figure, he is wearing a short cowl around his shoulder, and holding a scepter with a bell on top of it."
+    "片刻过后，那个卫兵带着一个你不认识的人回来了。这个人手持权杖，肩披短篷，胸前同样系着金黄的铃铛。"
 
-#     # goatguard "General, he said he's from Hawk...."
-#     goatguard ""
+translate schinese Kechioeren_Enter_4d4e2656:
 
-# translate schinese Kechioeren_Enter_bd923825:
+    # "The figure has a deer horn... he is wearing a skull mask, much like the one you saw in the forest before you were sent to this world..."
+    "他还长着一对鹿角……戴着骷髅面具的样子像极了将你传送来这个世界的神秘人……"
 
-#     # goatguard "General... I think he's from the town..."
-#     goatguard ""
+translate schinese Kechioeren_Enter_32636830:
 
-# translate schinese Kechioeren_Enter_0f01869e:
+    # "He doesn't speak much, only staggering towards you while holding his scepter for balance."
+    "他踉踉跄跄地朝你走来，依靠权杖保持平衡，一路上并没有怎么与卫兵交谈。"
 
-#     # e "Hmm... ye-"
-#     e ""
+translate schinese Kechioeren_Enter_66c99cf4:
 
-# translate schinese Kechioeren_Enter_666ed75e:
+    # m "Who- is this you say?"
+    m "这——你说他是哪里人？"
 
-#     # gg "And... why is he here?"
-#     gg ""
+translate schinese Kechioeren_Enter_e6a163e8:
 
-# translate schinese Kechioeren_Enter_90bfe7aa:
+    # goatguard "General, he's from Lusterfield."
+    goatguard "报告将军，他从乐斯民菲尔德来。"
 
-#     # goatguard "He said he got lost in the forest, and he asked me for directions, general."
-#     goatguard ""
+translate schinese Kechioeren_Enter_3497f1f2:
 
-# translate schinese Kechioeren_Enter_77926953:
+    # goatguard "General, he said he's from Hawk...."
+    goatguard "报告将军，他从霍克……什么部落来。"
 
-#     # gg "Huh... Directions."
-#     gg ""
+translate schinese Kechioeren_Enter_bd923825:
 
-# translate schinese Kechioeren_Enter_5c8c907c:
+    # goatguard "General... I think he's from the town..."
+    goatguard "报告将军，他好像是从镇上来的……"
 
-#     # e "Can I sa-"
-#     e ""
+translate schinese Kechioeren_Enter_0f01869e:
 
-# translate schinese Kechioeren_Enter_ca831d89:
+    # e "Hmm... ye-"
+    e "嗯嗯……我是——"
 
-#     # "The masked figure turns towards you and stare at your eyes intensely, you can feel the wrath behind his mask..."
-#     ""
+translate schinese Kechioeren_Enter_666ed75e:
 
-# translate schinese Kechioeren_Enter_191f25ff:
+    # gg "And... why is he here?"
+    gg "那么，他来我们村干什么？"
 
-#     # gg "You know something about Furkan don't you."
-#     gg ""
+translate schinese Kechioeren_Enter_90bfe7aa:
 
-# translate schinese Kechioeren_Enter_064ddd59:
+    # goatguard "He said he got lost in the forest, and he asked me for directions, general."
+    goatguard "他说他在森林里迷路了，想让我们给他指路。"
 
-#     # e "Hmm? Furkan?"
-#     e ""
+translate schinese Kechioeren_Enter_77926953:
 
-# translate schinese Kechioeren_Enter_fd9d31b0:
+    # gg "Huh... Directions."
+    gg "哼……指路。"
 
-#     # gg "Furkan. Our Chief. You know where he is, don't you."
-#     gg ""
+translate schinese Kechioeren_Enter_5c8c907c:
 
-# translate schinese Kechioeren_Enter_7edfef42:
+    # e "Can I sa-"
+    e "我能插——"
 
-#     # e "I- uhh... I don't know? I thought your chief would be in the tribe?"
-#     e ""
+translate schinese Kechioeren_Enter_ca831d89:
 
-# translate schinese Kechioeren_Enter_79d59b52:
+    # "The masked figure turns towards you and stare at your eyes intensely, you can feel the wrath behind his mask..."
+    "蒙面将军转而恶狠狠地瞪着你，连他的面具都好像变得狰狞了起来……"
 
-#     # "The news surprised you for a moment, you thought Furkan would be in the Tribe, and... it would be somewhat safer to see a familiar face."
-#     ""
+translate schinese Kechioeren_Enter_191f25ff:
 
-# translate schinese Kechioeren_Enter_82262834:
+    # gg "You know something about Furkan don't you."
+    gg "你肯定知道弗坎的事情，对吧。"
 
-#     # "But now he's gone, and you are not sure if there's anyone you can actually trust here."
-#     ""
+translate schinese Kechioeren_Enter_064ddd59:
 
-# translate schinese Kechioeren_Enter_96e7d9b8:
+    # e "Hmm? Furkan?"
+    e "嗯？付款？"
 
-#     # "Not mentioning the person in front of you seem to be suspicious towards you."
-#     ""
+translate schinese Kechioeren_Enter_fd9d31b0:
 
-# translate schinese Kechioeren_Enter_5f213138:
+    # gg "Furkan. Our Chief. You know where he is, don't you."
+    gg "弗坎。我们的族长。他在哪，快说！"
 
-#     # "If you say nothing, maybe you can leave this place alive, at least."
-#     ""
+translate schinese Kechioeren_Enter_7edfef42:
 
-# translate schinese Kechioeren_Enter_4259f957:
+    # e "I- uhh... I don't know? I thought your chief would be in the tribe?"
+    e "我——呃……我不知道啊？你们的族长不是应该待在部落里吗？"
 
-#     # "But if you say you know Furkan, the general must want more information, that you don't know about."
-#     ""
+translate schinese Kechioeren_Enter_79d59b52:
 
-# translate schinese Kechioeren_Enter_088082ce:
+    # "The news surprised you for a moment, you thought Furkan would be in the Tribe, and... it would be somewhat safer to see a familiar face."
+    "这个消息令你大吃一惊。你以为会在部落里见到弗坎……有个认识的人在，心里终归踏实些。"
 
-#     # e "Look, look, I don't know anything... I'm just a passerby."
-#     e ""
+translate schinese Kechioeren_Enter_82262834:
 
-# translate schinese Kechioeren_Enter_ca84bd2d:
+    # "But now he's gone, and you are not sure if there's anyone you can actually trust here."
+    "但他竟然失踪了，整个羊村你还有谁可以信任呢。"
 
-#     # gg "Bullshit, I know Furkan said he met a courier from Lusterfield, you seem to fit his description very nicely."
-#     gg ""
+translate schinese Kechioeren_Enter_96e7d9b8:
 
-# translate schinese Kechioeren_Enter_5ce011df:
+    # "Not mentioning the person in front of you seem to be suspicious towards you."
+    "更别提你面前的蒙面将军现在就很不信任你。"
 
-#     # gg "And you say you don't know about him?"
-#     gg ""
+translate schinese Kechioeren_Enter_5f213138:
 
-# translate schinese Kechioeren_Enter_46ce843b:
+    # "If you say nothing, maybe you can leave this place alive, at least."
+    "如果你保持对弗坎只字不提，至少可以活着离开这里。"
 
-#     # gg "You must have a serious case of dementia, don't you..."
-#     gg ""
+translate schinese Kechioeren_Enter_4259f957:
 
-# translate schinese Kechioeren_Enter_63944000:
+    # "But if you say you know Furkan, the general must want more information, that you don't know about."
+    "但如果让这个将军知道你和弗坎有过交集，他肯定会逼问更多事情，那些你压根就不知道的事情。"
 
-#     # e "Uh... I don't know... I swear."
-#     e ""
+translate schinese strings:
 
-# translate schinese Kechioeren_Enter_4f16f873:
+    old "You need to say... something."
+    new "你决定……"
 
-#     # gg "I gave you a chance, and now you've wasted it."
-#     gg ""
+    old "I don't know anything"
+    new "辩称不知道任何事情"
 
-# translate schinese Kechioeren_Enter_16ec2160:
+    old "I knew about Furkan, but I don't know where he is"
+    new "表明认识弗坎，但不知道他的去向"
 
-#     # e "Look, I know about him, alright."
-#     e ""
+    old "I am sent by Lothar"
+    new "坦白自己是洛萨尔派来的"
 
-# translate schinese Kechioeren_Enter_8ad190d2:
+translate schinese Kechioeren_Enter_088082ce:
 
-#     # e "I'm a courier from Lusterfield, and he asked me to give a letter to Rahim earlier."
-#     e ""
+    # e "Look, look, I don't know anything... I'm just a passerby."
+    e "喂喂喂，我不认识什么弗坎……我只是单纯路过。"
 
-# translate schinese Kechioeren_Enter_5f2abe47:
+translate schinese Kechioeren_Enter_ca84bd2d:
 
-#     # gg "Yes, I know about that. You're lucky that you came forward yourself."
-#     gg ""
+    # gg "Bullshit, I know Furkan said he met a courier from Lusterfield, you seem to fit his description very nicely."
+    gg "胡说，族长说他见过一个乐斯民菲尔德的邮差，你和他描述的样子一模一样。"
 
-# translate schinese Kechioeren_Enter_8f06006a:
+translate schinese Kechioeren_Enter_5ce011df:
 
-#     # gg "So... why are you here if not for collecting ransom for Furkan..."
-#     gg ""
+    # gg "And you say you don't know about him?"
+    gg "现在你却说你不认识他？"
 
-# translate schinese Kechioeren_Enter_096d5c0b:
+translate schinese Kechioeren_Enter_46ce843b:
 
-#     # e "I don't know where he is now, I swear. Alright, I made an excuse just to see him here."
-#     e ""
+    # gg "You must have a serious case of dementia, don't you..."
+    gg "失忆失得真是时候啊，不是吗……"
 
-# translate schinese Kechioeren_Enter_64163f75:
+translate schinese Kechioeren_Enter_63944000:
 
-#     # gg "Why do you want to see him...?"
-#     gg ""
+    # e "Uh... I don't know... I swear."
+    e "呃……我真的不认识你们的族长……我发誓。"
 
-# translate schinese Kechioeren_Enter_7d6cae60:
+translate schinese Kechioeren_Enter_4f16f873:
 
-#     # e "Uhh... "
-#     e ""
+    # gg "I gave you a chance, and now you've wasted it."
+    gg "敬酒不吃吃罚酒。"
 
-# translate schinese Kechioeren_Enter_50d8701a:
+translate schinese Kechioeren_Enter_16ec2160:
 
-#     # e "Alright... you caught me."
-#     e ""
+    # e "Look, I know about him, alright."
+    e "嘿，我的确认识弗坎。"
 
-# translate schinese Kechioeren_Enter_e68957ac:
+translate schinese Kechioeren_Enter_8ad190d2:
 
-#     # e "I'm here to scout any information I can get..."
-#     e ""
+    # e "I'm a courier from Lusterfield, and he asked me to give a letter to Rahim earlier."
+    e "我是乐村的邮差，弗坎之前委托我送信给雷希姆。"
 
-# translate schinese Kechioeren_Enter_c1492e9d:
+translate schinese Kechioeren_Enter_5f2abe47:
 
-#     # gg "And you dared to tell me about this?"
-#     gg ""
+    # gg "Yes, I know about that. You're lucky that you came forward yourself."
+    gg "嗯，我知道。现在坦白算你识相。"
 
-# translate schinese Kechioeren_Enter_6ea96692:
+translate schinese Kechioeren_Enter_8f06006a:
 
-#     # e "I don't know... alright. I don't know about anything."
-#     e ""
+    # gg "So... why are you here if not for collecting ransom for Furkan..."
+    gg "既然你不是来收赎金的……那你来我们部落做什么？"
 
-# translate schinese Kechioeren_Enter_dfb970ef:
+translate schinese Kechioeren_Enter_096d5c0b:
 
-#     # e "Except that I'm just a courier..."
-#     e ""
+    # e "I don't know where he is now, I swear. Alright, I made an excuse just to see him here."
+    e "首先我真的不知道弗坎在哪，我发誓。我来只是为了当面见他。"
 
-# translate schinese Kechioeren_Enter_4c06e445:
+translate schinese Kechioeren_Enter_64163f75:
 
-#     # gg "Wh-who sent you?"
-#     gg ""
+    # gg "Why do you want to see him...?"
+    gg "当面见他做什么……？"
 
-# translate schinese Kechioeren_Enter_5df0e7a8:
+translate schinese Kechioeren_Enter_7d6cae60:
 
-#     # e "Lothar, he told me to. Now can I go...?"
-#     e ""
+    # e "Uhh... "
+    e "我……"
 
-# translate schinese Kechioeren_Enter_e57963f7:
+translate schinese Kechioeren_Enter_50d8701a:
 
-#     # gg "That monster... I'll kill him myself... once I get my magic back."
-#     gg ""
+    # e "Alright... you caught me."
+    e "好吧……被识破了。"
 
-# translate schinese Kechioeren_Enter_cdb0cd91:
+translate schinese Kechioeren_Enter_e68957ac:
 
-#     # gg "And don't you dare try to escape now..."
-#     gg ""
+    # e "I'm here to scout any information I can get..."
+    e "我是来收集情报的……"
 
-# translate schinese Kechioeren_Enter_30cc8a6f:
+translate schinese Kechioeren_Enter_c1492e9d:
 
-#     # e "I've told you everything, I don't know where Furkan is."
-#     e ""
+    # gg "And you dared to tell me about this?"
+    gg "胆大包天的间谍，竟然还敢明说？"
 
-# translate schinese Kechioeren_Enter_8e1461ec:
+translate schinese Kechioeren_Enter_6ea96692:
 
-#     # gg "I know..."
-#     gg ""
+    # e "I don't know... alright. I don't know about anything."
+    e "我……拜托，我什么都不知道。"
 
-# translate schinese Kechioeren_Enter_2d18f501:
+translate schinese Kechioeren_Enter_dfb970ef:
 
-#     # gg "Guards, seize him."
-#     gg ""
+    # e "Except that I'm just a courier..."
+    e "我只是一个小小的邮差……"
 
-# translate schinese Kechioeren_Enter_c2b212f8:
+translate schinese Kechioeren_Enter_4c06e445:
 
-#     # e "Ugh... I'm not... feeling so good."
-#     e ""
+    # gg "Wh-who sent you?"
+    gg "谁派你来的？"
 
-# translate schinese Kechioeren_Enter_e7dfb5ce:
+translate schinese Kechioeren_Enter_5df0e7a8:
 
-#     # goatguard2 "w-what?"
-#     goatguard2 ""
+    # e "Lothar, he told me to. Now can I go...?"
+    e "洛萨尔。现在可以放我走了吗……？"
 
-# translate schinese Kechioeren_Enter_5d40c8da:
+translate schinese Kechioeren_Enter_e57963f7:
 
-#     # e "I... haven't eaten for a long time..."
-#     e ""
+    # gg "That monster... I'll kill him myself... once I get my magic back."
+    gg "那个恶魔……我要亲手杀了他……要是我的魔力能快点恢复。"
 
-# translate schinese Kechioeren_Enter_77811d73:
+translate schinese Kechioeren_Enter_cdb0cd91:
 
-#     # "You soon falls backwards on to the ground, luckily it's all grass but you can feel a concussion on your butt."
-#     ""
+    # gg "And don't you dare try to escape now..."
+    gg "而你，别以为自己能逃之夭夭……"
 
-# translate schinese Kechioeren_Enter_5bb87b15:
+translate schinese Kechioeren_Enter_30cc8a6f:
 
-#     # "The guard stares at you, not knowing what to do, he then rings his bell on the chest for exactly three times before calling for help."
-#     ""
+    # e "I've told you everything, I don't know where Furkan is."
+    e "我已经什么都交代了，我真的不知道你们的族长在哪。"
 
-# translate schinese Kechioeren_Enter_2ddf64c2:
+translate schinese Kechioeren_Enter_8e1461ec:
 
-#     # goatguard2 "This guy... he fell! Anyone here to help..."
-#     goatguard2 ""
+    # gg "I know..."
+    gg "不识好歹的家伙……"
 
-# translate schinese Kechioeren_Enter_b295be86:
+translate schinese Kechioeren_Enter_2d18f501:
 
-#     # "Soon, the other guard and a masked figure runs towards your reclined form."
-#     ""
+    # gg "Guards, seize him."
+    gg "卫兵，抓住他。"
 
-# translate schinese Kechioeren_Enter_d8abe7e4:
+translate schinese Kechioeren_Enter_c2b212f8:
 
-#     # goatguard "Hey... w-what? What did you do to him?"
-#     goatguard ""
+    # e "Ugh... I'm not... feeling so good."
+    e "哈啊……我……我快不行了。"
 
-# translate schinese Kechioeren_Enter_85ba0921:
+translate schinese Kechioeren_Enter_e7dfb5ce:
 
-#     # goatguard2 "He said he didn't eat anything and then fainted... how do I know?"
-#     goatguard2 ""
+    # goatguard2 "w-what?"
+    goatguard2 "你、你怎么了？"
 
-# translate schinese Kechioeren_Enter_10d46fb0:
+translate schinese Kechioeren_Enter_5d40c8da:
 
-#     # goatguard "Fuck, did you just give him the dirty hand?"
-#     goatguard ""
+    # e "I... haven't eaten for a long time..."
+    e "我……我已经很久没吃东西了……"
 
-# translate schinese Kechioeren_Enter_b108a553:
+translate schinese Kechioeren_Enter_77811d73:
 
-#     # goatguard2 "I didn't even do it... yet."
-#     goatguard2 ""
+    # "You soon falls backwards on to the ground, luckily it's all grass but you can feel a concussion on your butt."
+    "你随即往后倒去佯装晕厥，所幸这是一块草地，但你的屁股还是摔得生疼。"
 
-# translate schinese Kechioeren_Enter_39a6c3b5:
+translate schinese Kechioeren_Enter_5bb87b15:
 
-#     # goatguard "You fucker..."
-#     goatguard ""
+    # "The guard stares at you, not knowing what to do, he then rings his bell on the chest for exactly three times before calling for help."
+    "卫兵手足无措地盯着你，摇了三声铃铛呼叫增援。"
 
-# translate schinese Kechioeren_Enter_6d1d2d28:
+translate schinese Kechioeren_Enter_2ddf64c2:
 
-#     # m "Hmm..."
-#     m ""
+    # goatguard2 "This guy... he fell! Anyone here to help..."
+    goatguard2 "来人啊……这个家伙晕倒了！谁来帮帮忙……"
 
-# translate schinese Kechioeren_Enter_139b65f7:
+translate schinese Kechioeren_Enter_b295be86:
 
-#     # m "Let's bring him back to our place..."
-#     m ""
+    # "Soon, the other guard and a masked figure runs towards your reclined form."
+    "很快，另一个卫兵和一个戴着面具的人一路小跑赶过来，围在瘫倒的你身边。"
 
-# translate schinese Kechioeren_Enter_16095f90:
+translate schinese Kechioeren_Enter_d8abe7e4:
 
-#     # goatguard "Wait... are you sure, general? I don't know if chief would like a stranger in our tribe."
-#     goatguard ""
+    # goatguard "Hey... w-what? What did you do to him?"
+    goatguard "喂……什么情况？你把他怎么了？"
 
-# translate schinese Kechioeren_Enter_e44bfaa0:
+translate schinese Kechioeren_Enter_85ba0921:
 
-#     # gg "Yes, I'm sure... Or are you willing to just let him die here?"
-#     gg ""
+    # goatguard2 "He said he didn't eat anything and then fainted... how do I know?"
+    goatguard2 "我怎么知道？他说他没吃东西然后就……"
 
-# translate schinese Kechioeren_Enter_7ea088b6:
+translate schinese Kechioeren_Enter_10d46fb0:
 
-#     # goatguard "General, but he's from Lusterfield."
-#     goatguard ""
+    # goatguard "Fuck, did you just give him the dirty hand?"
+    goatguard "屌，你刚刚是不是对他毛手毛脚了？"
 
-# translate schinese Kechioeren_Enter_3497f1f2_1:
+translate schinese Kechioeren_Enter_b108a553:
 
-#     # goatguard "General, he said he's from Hawk...."
-#     goatguard ""
+    # goatguard2 "I didn't even do it... yet."
+    goatguard2 "我都还没来得及上手呢……"
 
-# translate schinese Kechioeren_Enter_bd923825_1:
+translate schinese Kechioeren_Enter_39a6c3b5:
 
-#     # goatguard "General... I think he's from the town..."
-#     goatguard ""
+    # goatguard "You fucker..."
+    goatguard "色鬼……"
 
-# translate schinese Kechioeren_Enter_50518e08:
+translate schinese Kechioeren_Enter_6d1d2d28:
 
-#     # gg "I know... We should just wake him up first..."
-#     gg ""
+    # m "Hmm..."
+    m "哎……"
 
-# translate schinese Kechioeren_Enter_3e27ab2d:
+translate schinese Kechioeren_Enter_139b65f7:
 
-#     # gg "I'll have to lock him up later and make him spill out any information about Furk, if he has any."
-#     gg ""
+    # m "Let's bring him back to our place..."
+    m "带他进来吧……"
 
-# translate schinese Kechioeren_Enter_14dd2330:
+translate schinese Kechioeren_Enter_16095f90:
 
-#     # goatguard2 "Oh... General, that's a good idea."
-#     goatguard2 ""
+    # goatguard "Wait... are you sure, general? I don't know if chief would like a stranger in our tribe."
+    goatguard "将军且慢……族长可能不乐意我们带外族人进来。您确定吗？"
 
-# translate schinese Kechioeren_Enter_f371b960:
+translate schinese Kechioeren_Enter_e44bfaa0:
 
-#     # "Your heart stops for a moment here, you're not supposed to be locked up in the Goat Tribe."
-#     ""
+    # gg "Yes, I'm sure... Or are you willing to just let him die here?"
+    gg "我确定……难道你想让他死在自家门口吗？"
 
-# translate schinese Kechioeren_Enter_fe85bf6e:
+translate schinese Kechioeren_Enter_7ea088b6:
 
-#     # "And you thought, at least Furkan would be in the Tribe."
-#     ""
+    # goatguard "General, but he's from Lusterfield."
+    goatguard "可他是从乐斯民菲尔德来的。"
 
-# translate schinese Kechioeren_Enter_6fd78894:
+translate schinese Kechioeren_Enter_3497f1f2_1:
 
-#     # "Not this... general with a delicate voice."
-#     ""
+    # goatguard "General, he said he's from Hawk...."
+    goatguard "可他说他是从霍克什么地方来的……"
 
-# translate schinese Kechioeren_Enter_0f714086:
+translate schinese Kechioeren_Enter_bd923825_1:
 
-#     # "You feel like you need to do something..."
-#     ""
+    # goatguard "General... I think he's from the town..."
+    goatguard "可他……是从镇上来的……"
 
-# translate schinese Kechioeren_Enter_0f8b9b57:
+translate schinese Kechioeren_Enter_50518e08:
 
-#     # "You are not ready to get locked up as a prisoner for no reason at all..."
-#     ""
+    # gg "I know... We should just wake him up first..."
+    gg "我知道了……但先让他快点醒来会更好……"
 
-# translate schinese Kechioeren_Enter_3beff7cc:
+translate schinese Kechioeren_Enter_3e27ab2d:
 
-#     # gg "W-wait... what's that."
-#     gg ""
+    # gg "I'll have to lock him up later and make him spill out any information about Furk, if he has any."
+    gg "把他关起来，待会我再来问话，直到他吐出族长的下落。"
 
-# translate schinese Kechioeren_Enter_14850225:
+translate schinese Kechioeren_Enter_14dd2330:
 
-#     # "The general seems to notice you furrowing your brows. He stares at you for a second."
-#     ""
+    # goatguard2 "Oh... General, that's a good idea."
+    goatguard2 "噢……将军英明。"
 
-# translate schinese Kechioeren_Enter_8170d42d:
+translate schinese Kechioeren_Enter_f371b960:
 
-#     # e "OUCH! W-what are you doing..."
-#     e ""
+    # "Your heart stops for a moment here, you're not supposed to be locked up in the Goat Tribe."
+    "你惊得心脏停跳半拍，你的计划里可没包括被抓起来拷问。"
 
-# translate schinese Kechioeren_Enter_dde00613:
+translate schinese Kechioeren_Enter_fe85bf6e:
 
-#     # gg "Seeing if you just... faint."
-#     gg ""
+    # "And you thought, at least Furkan would be in the Tribe."
+    "你以为你会见到族长弗坎，而不是这个……嗓音稚嫩的将军。"
 
-# translate schinese Kechioeren_Enter_0cdb0afd:
+translate schinese Kechioeren_Enter_6fd78894:
 
-#     # "You screamed as soon as the general touches somewhere near your groin..."
-#     ""
+    # "Not this... general with a delicate voice."
+    pass
 
-# translate schinese Kechioeren_Enter_5909654f:
+translate schinese Kechioeren_Enter_0f714086:
 
-#     # e "Y-you could have chosen somewhere not there..."
-#     e ""
+    # "You feel like you need to do something..."
+    "要是现在再不做些什么，你就要被无缘无故关进监狱了。"
 
-# translate schinese Kechioeren_Enter_6dbb872e:
+translate schinese Kechioeren_Enter_0f8b9b57:
 
-#     # gg "Uh... Do I look like I care..."
-#     gg ""
+    # "You are not ready to get locked up as a prisoner for no reason at all..."
+    pass
 
-# translate schinese Kechioeren_Enter_e863a31c:
+translate schinese Kechioeren_Enter_3beff7cc:
 
-#     # goatguard2 "Didn't he just faint...?"
-#     goatguard2 ""
+    # gg "W-wait... what's that."
+    gg "等等……"
 
-# translate schinese Kechioeren_Enter_dbc54696:
+translate schinese Kechioeren_Enter_14850225:
 
-#     # gg "He faked it. Look at this guy, healthy as a hors-... fit like a fiddle."
-#     gg ""
+    # "The general seems to notice you furrowing your brows. He stares at you for a second."
+    "蒙面将军好像注意到你皱眉的动作，盯着你看了好一会儿。"
 
-# translate schinese Kechioeren_Enter_6b70fcfd_1:
+translate schinese Kechioeren_Enter_8170d42d:
 
-#     # e "Uhmm..."
-#     e ""
+    # e "OUCH! W-what are you doing..."
+    e "啊！你、你干什么……"
+    "他伸手朝你大腿内侧戳去，成功让你大声尖叫。"
 
-# translate schinese Kechioeren_Enter_7cb29c68:
+translate schinese Kechioeren_Enter_dde00613:
 
-#     # gg "Who are you... answer now."
-#     gg ""
+    # gg "Seeing if you just... faint."
+    gg "试你是不是……真晕倒了。"
 
-# translate schinese Kechioeren_Enter_Artifact_31913608:
+translate schinese Kechioeren_Enter_0cdb0afd:
 
-#     # e "My Friend and I discovered... a golem hand."
-#     e ""
+    # "You screamed as soon as the general touches somewhere near your groin..."
+    pass
 
-# translate schinese Kechioeren_Enter_Artifact_c0c16a63:
+translate schinese Kechioeren_Enter_5909654f:
 
-#     # e "And they suggested... we should look for Furkan because... it's symbol looks like something from yours."
-#     e ""
+    # e "Y-you could have chosen somewhere not there..."
+    e "又、又不止那一个地方可以试。"
 
-# translate schinese Kechioeren_Enter_Artifact_c29390cb:
+translate schinese Kechioeren_Enter_6dbb872e:
 
-#     # gg "Ugh... let me see."
-#     gg ""
+    # gg "Uh... Do I look like I care..."
+    gg "哼……我要动你，与你何干。"
 
-# translate schinese Kechioeren_Enter_Artifact_4b9f89b6:
+translate schinese Kechioeren_Enter_e863a31c:
 
-#     # "The deer yanks the stone off your hand, and he shudders for a moment, like coming to a realisation somehow."
-#     ""
+    # goatguard2 "Didn't he just faint...?"
+    goatguard2 "他刚刚不是昏迷了吗……？"
 
-# translate schinese Kechioeren_Enter_Artifact_ebe2e9da:
+translate schinese Kechioeren_Enter_dbc54696:
 
-#     # gg "Oh."
-#     gg ""
+    # gg "He faked it. Look at this guy, healthy as a hors-... fit like a fiddle."
+    gg "他装的。看看他，牛高马——生龙活虎的，哪像饿了几天的样子。"
 
-# translate schinese Kechioeren_Enter_Artifact_7e5be565:
+translate schinese Kechioeren_Enter_6b70fcfd_1:
 
-#     # e "What?"
-#     e ""
+    # e "Uhmm..."
+    e "哎呀……"
 
-# translate schinese Kechioeren_Enter_Artifact_b70da06b:
+translate schinese Kechioeren_Enter_7cb29c68:
 
-#     # gg "He's with the Golem."
-#     gg ""
+    # gg "Who are you... answer now."
+    gg "你到底是谁，从实招来。"
 
-# translate schinese Kechioeren_Enter_Artifact_1d78f46e:
+translate schinese strings:
 
-#     # e "But we... killed it."
-#     e ""
+    old "What should I tell him..."
+    new "你该怎么回应他……"
 
-# translate schinese Kechioeren_Enter_Artifact_221eecd8:
+    old "Show him the Golem Hand"
+    new "展示苔藓石魔像的残臂"
 
-#     # gg "The other one. We have two rune guardians."
-#     gg ""
+    old "{s}Show him the Golem Hand{/s}"
+    new "{s}展示苔藓石魔像的残臂{/s}"
 
-# translate schinese Kechioeren_Enter_Artifact_d819a6db:
+    old "Lie about a Truce between Lusterfield and the Goats"
+    new "谎称自己被派来与山羊部落议和"
 
-#     # e "W-what happened to them?"
-#     e ""
+    old "Stay Silent"
+    new "保持沉默"
 
-# translate schinese Kechioeren_Enter_Artifact_75a7abf5:
+translate schinese Kechioeren_Enter_Artifact_31913608:
 
-#     # gg "I don't know, they went rogue after our runes stopped supplying spell energy..."
-#     gg ""
+    # e "My Friend and I discovered... a golem hand."
+    e "我和我的朋友发现了这块……石魔像的手臂。"
 
-# translate schinese Kechioeren_Enter_Artifact_903f3071:
+translate schinese Kechioeren_Enter_Artifact_c0c16a63:
 
-#     # goatguard "Uhmm... general, is it wise to share information... to a Lusterfolk?"
-#     goatguard ""
+    # e "And they suggested... we should look for Furkan because... it's symbol looks like something from yours."
+    e "他们建议……我们应该来问问弗坎……因为这上面的符号很像你们的符号。"
 
-# translate schinese Kechioeren_Enter_Artifact_22e6966c:
+translate schinese Kechioeren_Enter_Artifact_c29390cb:
 
-#     # gg "No... I need to save Furk-"
-#     gg ""
+    # gg "Ugh... let me see."
+    gg "嗯……给我看看。"
 
-# translate schinese Kechioeren_Enter_Artifact_7939c399:
+translate schinese Kechioeren_Enter_Artifact_4b9f89b6:
 
-#     # gg "He's in the cave..."
-#     gg ""
+    # "The deer yanks the stone off your hand, and he shudders for a moment, like coming to a realisation somehow."
+    "蒙面将军一把从你手中夺过石块，激动地浑身颤抖，他好像确信了什么事情。"
 
-# translate schinese Kechioeren_Enter_Artifact_720f7c79:
+translate schinese Kechioeren_Enter_Artifact_ebe2e9da:
 
-#     # e "W-what? Cave?"
-#     e ""
+    # gg "Oh."
+    gg "不妙。"
 
-# translate schinese Kechioeren_Enter_Artifact_60c57f65:
+translate schinese Kechioeren_Enter_Artifact_7e5be565:
 
-#     # gg "The one near sparkling lagoon."
-#     gg ""
+    # e "What?"
+    e "怎么样？"
 
-# translate schinese Kechioeren_Enter_Artifact_60ebced8:
+translate schinese Kechioeren_Enter_Artifact_b70da06b:
 
-#     # e "Are you sure?"
-#     e ""
+    # gg "He's with the Golem."
+    gg "族长肯定去找符石护卫了。"
 
-# translate schinese Kechioeren_Enter_Artifact_07ff461c:
+translate schinese Kechioeren_Enter_Artifact_1d78f46e:
 
-#     # gg "I can't leave... the tribe-"
-#     gg ""
+    # e "But we... killed it."
+    e "可是我们那天已经……干掉这个石像了。"
 
-# translate schinese Kechioeren_Enter_Artifact_e4602e46:
+translate schinese Kechioeren_Enter_Artifact_221eecd8:
 
-#     # gg "Nono nonono..."
-#     gg ""
+    # gg "The other one. We have two rune guardians."
+    gg "那只是其中一尊，我们有两尊石像守卫符石。"
 
-# translate schinese Kechioeren_Enter_Artifact_f8d80fcf:
+translate schinese Kechioeren_Enter_Artifact_d819a6db:
 
-#     # gg "Come with me, courier."
-#     gg ""
+    # e "W-what happened to them?"
+    e "他们怎么会跑出来？"
 
-# translate schinese Kechioeren_Enter_Artifact_cc23a045:
+translate schinese Kechioeren_Enter_Artifact_75a7abf5:
 
-#     # e "Wait... I don't understand..."
-#     e ""
+    # gg "I don't know, they went rogue after our runes stopped supplying spell energy..."
+    gg "我也不清楚，失去符石的能量后，他们便失去了控制……"
 
-# translate schinese Kechioeren_Enter_Artifact_6ea27c72:
+translate schinese Kechioeren_Enter_Artifact_903f3071:
 
-#     # gg "He's in the cave, he must be going there alone trying to get those golems back."
-#     gg ""
+    # goatguard "Uhmm... general, is it wise to share information... to a Lusterfolk?"
+    goatguard "将军……向乐村的野蛮人透露这些信息不太好吧……"
 
-# translate schinese Kechioeren_Enter_Artifact_42be0c3c:
+translate schinese Kechioeren_Enter_Artifact_22e6966c:
 
-#     # e "We had already killed one... when we got attacked by it."
-#     e ""
+    # gg "No... I need to save Furk-"
+    gg "可恶……弗坎——他在那个山洞里。"
 
-# translate schinese Kechioeren_Enter_Artifact_56e353a4:
+translate schinese Kechioeren_Enter_Artifact_7939c399:
 
-#     # gg "I told him not to, but... he's been gone for a day."
-#     gg ""
+    # gg "He's in the cave..."
+    gg "我得救他出来……"
 
-# translate schinese Kechioeren_Enter_Artifact_a788e1f1:
+translate schinese Kechioeren_Enter_Artifact_720f7c79:
 
-#     # gg "I can't leave him there."
-#     gg ""
+    # e "W-what? Cave?"
+    e "啊？山洞？"
 
-# translate schinese Kechioeren_Enter_Artifact_7a17f7e5:
+translate schinese Kechioeren_Enter_Artifact_60c57f65:
 
-#     # gg "Cev... and Hakki... stay here until I come back."
-#     gg ""
+    # gg "The one near sparkling lagoon."
+    gg "靠近苍耀湖的山洞。"
 
-# translate schinese Kechioeren_Enter_Artifact_a05b105e:
+translate schinese Kechioeren_Enter_Artifact_60ebced8:
 
-#     # goatguard2 "Yes, General."
-#     goatguard2 ""
+    # e "Are you sure?"
+    e "你确定？"
 
-# translate schinese Kechioeren_Enter_Artifact_9d3ced98:
+translate schinese Kechioeren_Enter_Artifact_07ff461c:
 
-#     # gg "Courier, it's time to go..."
-#     gg ""
+    # gg "I can't leave... the tribe-"
+    gg "部落还需要我坐镇……"
 
-# translate schinese Kechioeren_Enter_Artifact_04643117:
+translate schinese Kechioeren_Enter_Artifact_e4602e46:
 
-#     # e "Uh... W-what, us?"
-#     e ""
+    # gg "Nono nonono..."
+    gg "但要是再拖下去……"
 
-# translate schinese Kechioeren_Enter_Artifact_cc6ce8b0:
+translate schinese Kechioeren_Enter_Artifact_f8d80fcf:
 
-#     # gg "I need to use you as a meat shield."
-#     gg ""
+    # gg "Come with me, courier."
+    gg "跟我走，乐村来的邮差。"
 
-# translate schinese Kechioeren_Enter_Artifact_b2ec944b:
+translate schinese Kechioeren_Enter_Artifact_cc23a045:
 
-#     # e "Uhm... ok I guess."
-#     e ""
+    # e "Wait... I don't understand..."
+    e "等等……你要干什么。"
 
-# translate schinese Kechioeren_Enter_Artifact_7e7c5257:
+translate schinese Kechioeren_Enter_Artifact_6ea27c72:
 
-#     # "You do not have the Golem Hand..."
-#     ""
+    # gg "He's in the cave, he must be going there alone trying to get those golems back."
+    gg "弗坎肯定是一个人去了那个山洞，想要追回符石护卫。"
 
-# translate schinese Kechioeren_Enter_Artifact_16fffe5c:
+translate schinese Kechioeren_Enter_Artifact_42be0c3c:
 
-#     # e "I...came here to talk with Furkan about potential reconciliation of Lusterfield... and the Goats."
-#     e ""
+    # e "We had already killed one... when we got attacked by it."
+    e "可你们的符石护卫很危险啊喂……"
 
-# translate schinese Kechioeren_Enter_Artifact_be84d560:
+translate schinese Kechioeren_Enter_Artifact_56e353a4:
 
-#     # gg "W-what? Reconciliation..."
-#     gg ""
+    # gg "I told him not to, but... he's been gone for a day."
+    gg "所以我警告过弗坎，但他……现在已经失踪一整天了。"
 
-# translate schinese Kechioeren_Enter_Artifact_81e9a3d9:
+translate schinese Kechioeren_Enter_Artifact_a788e1f1:
 
-#     # e "A Truce. Actually."
-#     e ""
+    # gg "I can't leave him there."
+    gg "我怎么可能再干等着。"
 
-# translate schinese Kechioeren_Enter_Artifact_f4ca578b:
+translate schinese Kechioeren_Enter_Artifact_7a17f7e5:
 
-#     # gg "Why?"
-#     gg ""
+    # gg "Cev... and Hakki... stay here until I come back."
+    gg "切夫、哈克……我不在的时候看好大门。"
 
-# translate schinese Kechioeren_Enter_Artifact_647cc411:
+translate schinese Kechioeren_Enter_Artifact_a05b105e:
 
-#     # e "Look, Rahim rejected Furkan's idea... but we actually were pretty happy to... you know."
-#     e ""
+    # goatguard2 "Yes, General."
+    goatguard2 "遵命，将军。"
 
-# translate schinese Kechioeren_Enter_Artifact_d819fd7d:
+translate schinese Kechioeren_Enter_Artifact_9d3ced98:
 
-#     # e "Become friends with the Goats again."
-#     e ""
+    # gg "Courier, it's time to go..."
+    gg "邮差，跟我来。"
 
-# translate schinese Kechioeren_Enter_Artifact_4c14f566:
+translate schinese Kechioeren_Enter_Artifact_04643117:
 
-#     # e "But we're scared... that you'll shoot us on sight, so I came to represent them."
-#     e ""
+    # e "Uh... W-what, us?"
+    e "啊……真的要我一起去吗？"
 
-# translate schinese Kechioeren_Enter_Artifact_215e622d:
+translate schinese Kechioeren_Enter_Artifact_cc6ce8b0:
 
-#     # gg "You're brave to come here."
-#     gg ""
+    # gg "I need to use you as a meat shield."
+    gg "我需要你做我的肉盾。"
 
-# translate schinese Kechioeren_Enter_Artifact_8ae6eae5:
+translate schinese Kechioeren_Enter_Artifact_b2ec944b:
 
-#     # gg "But, hmmm...no."
-#     gg ""
+    # e "Uhm... ok I guess."
+    e "呃……好的吧。"
 
-# translate schinese Kechioeren_Enter_Artifact_2d18f501:
+translate schinese Kechioeren_Enter_Artifact_7e7c5257:
 
-#     # gg "Guards, seize him."
-#     gg ""
+    # "You do not have the Golem Hand..."
+    "你包里没有这个东西……"
 
-# translate schinese Kechioeren_Enter_Artifact_c18eb48e:
+translate schinese Kechioeren_Enter_Artifact_16fffe5c:
 
-#     # e "W-what?"
-#     e ""
+    # e "I...came here to talk with Furkan about potential reconciliation of Lusterfield... and the Goats."
+    e "我是来和贵族族长商议恢复邦交的……乐斯民菲尔德和山羊部落。"
 
-# translate schinese Kechioeren_Enter_Artifact_a05b105e_1:
+translate schinese Kechioeren_Enter_Artifact_be84d560:
 
-#     # goatguard2 "Yes, General."
-#     goatguard2 ""
+    # gg "W-what? Reconciliation..."
+    gg "你说什么？恢复邦交……"
 
-# translate schinese Kechioeren_Enter_Artifact_72a33094:
+translate schinese Kechioeren_Enter_Artifact_81e9a3d9:
 
-#     # e "..."
-#     e ""
+    # e "A Truce. Actually."
+    e "换句话说，是休战协定。"
 
-# translate schinese Kechioeren_Enter_Artifact_9d24105f:
+translate schinese Kechioeren_Enter_Artifact_f4ca578b:
 
-#     # gg "W-what?"
-#     gg ""
+    # gg "Why?"
+    gg "为什么？"
 
-# translate schinese Kechioeren_Enter_Artifact_06f09a0f:
+translate schinese Kechioeren_Enter_Artifact_647cc411:
 
-#     # e "I didn't say anything."
-#     e ""
+    # e "Look, Rahim rejected Furkan's idea... but we actually were pretty happy to... you know."
+    e "虽然雷希姆拒绝了弗坎族长的提议……但其实我们其他人还是很乐意……呃——"
 
-# translate schinese Kechioeren_Enter_Artifact_0ab97a52:
+translate schinese Kechioeren_Enter_Artifact_d819fd7d:
 
-#     # gg "No, you have nothing to say?"
-#     gg ""
+    # e "Become friends with the Goats again."
+    e "很乐意重新和羊族成为朋友的。"
 
-# translate schinese Kechioeren_Enter_Artifact_72a33094_1:
+translate schinese Kechioeren_Enter_Artifact_4c14f566:
 
-#     # e "..."
-#     e ""
+    # e "But we're scared... that you'll shoot us on sight, so I came to represent them."
+    e "我们本来想大家一起过来请愿，但又怕你们误会……所以我就作为代表过来了。"
 
-# translate schinese Kechioeren_Enter_Artifact_2d18f501_1:
+translate schinese Kechioeren_Enter_Artifact_215e622d:
 
-#     # gg "Guards, seize him."
-#     gg ""
+    # gg "You're brave to come here."
+    gg "黄口孺子，你敢孤赴敌营谈判，勇气可嘉。"
 
-# translate schinese Kechioeren_Enter_Artifact_c18eb48e_1:
+translate schinese Kechioeren_Enter_Artifact_8ae6eae5:
 
-#     # e "W-what?"
-#     e ""
+    # gg "But, hmmm...no."
+    gg "但议和……是不可能的。"
 
-# translate schinese Kechioeren_Enter_Artifact_a05b105e_2:
+translate schinese Kechioeren_Enter_Artifact_2d18f501:
 
-#     # goatguard2 "Yes, General."
-#     goatguard2 ""
+    # gg "Guards, seize him."
+    gg "卫兵，抓住他。"
+
+translate schinese Kechioeren_Enter_Artifact_c18eb48e:
+
+    # e "W-what?"
+    e "喂——喂！"
+
+translate schinese Kechioeren_Enter_Artifact_a05b105e_1:
+
+    # goatguard2 "Yes, General."
+    goatguard2 "是，将军。"
+
+translate schinese Kechioeren_Enter_Artifact_72a33094:
+
+    # e "..."
+    e "……"
+
+translate schinese Kechioeren_Enter_Artifact_9d24105f:
+
+    # gg "W-what?"
+    gg "什么？"
+
+translate schinese Kechioeren_Enter_Artifact_06f09a0f:
+
+    # e "I didn't say anything."
+    e "我没讲话啊。"
+
+translate schinese Kechioeren_Enter_Artifact_0ab97a52:
+
+    # gg "No, you have nothing to say?"
+    gg "不，你没有什么要说的吗？"
+
+translate schinese Kechioeren_Enter_Artifact_72a33094_1:
+
+    # e "..."
+    e "……"
+
+translate schinese Kechioeren_Enter_Artifact_2d18f501_1:
+
+    # gg "Guards, seize him."
+    gg "卫兵，把他抓了。"
+
+translate schinese Kechioeren_Enter_Artifact_c18eb48e_1:
+
+    # e "W-what?"
+    e "喂——喂！"
+
+translate schinese Kechioeren_Enter_Artifact_a05b105e_2:
+
+    # goatguard2 "Yes, General."
+    goatguard2 "是，将军。"
 
 # translate schinese Kari_Trusty_c0bccace:
 
@@ -3483,685 +3549,711 @@
 #     # e "I will."
 #     e ""
 
-# translate schinese Kari_Adventure_f57dc55c:
+translate schinese Kari_Adventure_f57dc55c:
 
-#     # "The General leads you to the path towards the cave, you follow his direction and walks across the forest."
-#     ""
+    # "The General leads you to the path towards the cave, you follow his direction and walks across the forest."
+    "你跟在羊族将军身后，穿越丛林朝山洞前去。"
 
-# translate schinese Kari_Adventure_8b0b3bc3:
+translate schinese Kari_Adventure_8b0b3bc3:
 
-#     # "You stare at the General, he seems so mysterious under the mask of his."
-#     ""
+    # "You stare at the General, he seems so mysterious under the mask of his."
+    "抬头仰望这位陌生人，面具之下的他竟是如此神秘。"
 
-# translate schinese Kari_Adventure_c414462a:
+translate schinese Kari_Adventure_c414462a:
 
-#     # gg "Over there."
-#     gg ""
+    # gg "Over there."
+    gg "这边。"
 
-# translate schinese Kari_Adventure_97be41ae:
+translate schinese Kari_Adventure_97be41ae:
 
-#     # "You are still not used to his... young voice. You look at his strong back from behind... and you feel like you want to strike a conversation."
-#     ""
+    # "You are still not used to his... young voice. You look at his strong back from behind... and you feel like you want to strike a conversation."
+    "你凝视着他宽阔雄壮的后背……内心难以将这么稚嫩的声音与一族之帅对上号。"
+    "你感觉自己该说些什么。"
 
-# translate schinese Kari_Adventure_1a9ab8dd:
+translate schinese Kari_Adventure_1a9ab8dd:
 
-#     # e "Hey... General, Can I ask your name?"
-#     e ""
+    # e "Hey... General, Can I ask your name?"
+    e "嘿……将军，我能问问你的名字吗？"
 
-# translate schinese Kari_Adventure_9d24105f:
+translate schinese Kari_Adventure_9d24105f:
 
-#     # gg "W-what?"
-#     gg ""
+    # gg "W-what?"
+    gg "什、什么？"
 
-# translate schinese Kari_Adventure_0842ba3c:
+translate schinese Kari_Adventure_0842ba3c:
 
-#     # e "U-hm... your name?"
-#     e ""
+    # e "U-hm... your name?"
+    e "呃，我还不知道……你的名字。"
 
-# translate schinese Kari_Adventure_ee5c3564:
+translate schinese Kari_Adventure_ee5c3564:
 
-#     # k "Kari."
-#     k ""
+    # k "Kari."
+    k "卡里。"
 
-# translate schinese Kari_Adventure_52993db8:
+translate schinese Kari_Adventure_52993db8:
 
-#     # e "That's an unusual name."
-#     e ""
+    # e "That's an unusual name."
+    e "很少见的名字呢。"
 
-# translate schinese Kari_Adventure_aa2fe93e:
+translate schinese Kari_Adventure_aa2fe93e:
 
-#     # k "Furkan's dad gave me this name..."
-#     k ""
+    # k "Furkan's dad gave me this name..."
+    k "弗坎他爸给我取的……"
 
-# translate schinese Kari_Adventure_4974211e:
+translate schinese Kari_Adventure_4974211e:
 
-#     # e "You seemed like a mage... or shaman."
-#     e ""
+    # e "You seemed like a mage... or shaman."
+    e "听起来像个法师……或者祭司。"
 
-# translate schinese Kari_Adventure_0d2fd413:
+translate schinese Kari_Adventure_0d2fd413:
 
-#     # k "It's a long story. His father, Tevfik... he was a great man."
-#     k ""
+    # k "It's a long story. His father, Tevfik... he was a great man."
+    k "说来话长。泰夫菲克，弗坎的父亲……他是位伟大的领袖。"
 
-# translate schinese Kari_Adventure_b1c71fe6:
+translate schinese Kari_Adventure_b1c71fe6:
 
-#     # k "And he had always wanted me to be the protector of the tribe."
-#     k ""
+    # k "And he had always wanted me to be the protector of the tribe."
+    k "他一直期望我能担起保卫部族的重任。"
 
-# translate schinese Kari_Adventure_c84fe3ed:
+translate schinese Kari_Adventure_c84fe3ed:
 
-#     # e "You two are not related?"
-#     e ""
+    # e "You two are not related?"
+    e "你们不是亲戚？"
 
-# translate schinese Kari_Adventure_d42dc7c1:
+translate schinese Kari_Adventure_d42dc7c1:
 
-#     # k "No, but I've been with the family since I have my first memory."
-#     k ""
+    # k "No, but I've been with the family since I have my first memory."
+    k "不是，但我从记事起就是弗坎家的一分子。"
 
-# translate schinese Kari_Adventure_63187049:
+translate schinese Kari_Adventure_63187049:
 
-#     # k "Now... that Furkan's brother and father's gone... I don't want to lose him too."
-#     k ""
+    # k "Now... that Furkan's brother and father's gone... I don't want to lose him too."
+    k "如今……弗坎的亲兄弟和父亲已然离世……我不能再失去他。"
 
-# translate schinese Kari_Adventure_137c64cf:
+translate schinese Kari_Adventure_137c64cf:
 
-#     # e "Hey, I think Furkan will be alright."
-#     e ""
+    # e "Hey, I think Furkan will be alright."
+    e "嘿，我相信弗坎肯定没事。"
 
-# translate schinese Kari_Adventure_a01e5023:
+translate schinese Kari_Adventure_a01e5023:
 
-#     # "Kari turns and stares at you, you feel very uneasy seeing him under the eerie mask."
-#     ""
+    # "Kari turns and stares at you, you feel very uneasy seeing him under the eerie mask."
+    "卡里突然转身盯着你，骇人的颅骨面具压迫感十足。"
 
-# translate schinese Kari_Adventure_2752b772:
+translate schinese Kari_Adventure_2752b772:
 
-#     # k "What about you?"
-#     k ""
+    # k "What about you?"
+    k "你呢？"
 
-# translate schinese Kari_Adventure_9732ea9d:
+translate schinese Kari_Adventure_9732ea9d:
 
-#     # e "Me...?"
-#     e ""
+    # e "Me...?"
+    e "我……？"
 
-# translate schinese Kari_Adventure_4bc4b2e5:
+translate schinese Kari_Adventure_4bc4b2e5:
 
-#     # k "Hmm?"
-#     k ""
+    # k "Hmm?"
+    k "说说你的家人。"
 
-# translate schinese Kari_Adventure_9b0475d6:
+translate schinese Kari_Adventure_9b0475d6:
 
-#     # e "No one actually asked me this..."
-#     e ""
+    # e "No one actually asked me this..."
+    e "还没谁问过我这个……"
 
-# translate schinese Kari_Adventure_c659b2b4:
+translate schinese Kari_Adventure_c659b2b4:
 
-#     # e "I... uhh... come from another place. You know about that right?"
-#     e ""
+    # e "I... uhh... come from another place. You know about that right?"
+    e "我……呃……我是从别的地方穿越来的，你知道吧？"
 
-# translate schinese Kari_Adventure_bc98dfd0:
+translate schinese Kari_Adventure_bc98dfd0:
 
-#     # k "Yeah, Hawkaita."
-#     k ""
+    # k "Yeah, Hawkaita."
+    k "嗯，霍克埃塔。"
 
-# translate schinese Kari_Adventure_8352d24d:
+translate schinese Kari_Adventure_8352d24d:
 
-#     # e "Do you know about Chime?"
-#     e ""
+    # e "Do you know about Chime?"
+    e "那你认识齐门吗？"
 
-# translate schinese Kari_Adventure_e5a34791:
+translate schinese Kari_Adventure_e5a34791:
 
-#     # k "I've seen him around here, but I'm not the one handling him."
-#     k ""
+    # k "I've seen him around here, but I'm not the one handling him."
+    k "我在村里见过他，但我没和他说过话。"
 
-# translate schinese Kari_Adventure_cb89d39c:
+translate schinese Kari_Adventure_cb89d39c:
 
-#     # e "He's my best friend in my own tribe to be honest."
-#     e ""
+    # e "He's my best friend in my own tribe to be honest."
+    e "他是我最好最好的朋友。"
 
-# translate schinese Kari_Adventure_8993e1c8:
+translate schinese Kari_Adventure_8993e1c8:
 
-#     # e "And... if it's not him, I wouldn't have searched so hard that I got into this place."
-#     e ""
+    # e "And... if it's not him, I wouldn't have searched so hard that I got into this place."
+    e "所以我才找他找得这么辛苦……搞到自己也来了异世界。"
 
-# translate schinese Kari_Adventure_b422a18f:
+translate schinese Kari_Adventure_b422a18f:
 
-#     # k "Your Chime, he didn't tell anyone anything... left the tribe just as Furkan was about to ask him about the magic."
-#     k ""
+    # k "Your Chime, he didn't tell anyone anything... left the tribe just as Furkan was about to ask him about the magic."
+    k "弗坎正准备问你朋友关于穿越的事情，他便一声不吭地离开了我们部落……没有和谁透露过自己的事情。"
 
-# translate schinese Kari_Adventure_e3dc4b01:
+translate schinese Kari_Adventure_e3dc4b01:
 
-#     # k "Didn't strike Furkan as someone like you though... I have to say."
-#     k ""
+    # k "Didn't strike Furkan as someone like you though... I have to say."
+    k "你……和齐门很不一样，想必弗坎也是这么觉得的。"
 
-# translate schinese Kari_Adventure_b78ab980:
+translate schinese Kari_Adventure_b78ab980:
 
-#     # k "Luckily now that Furkan is handling it pretty well."
-#     k ""
+    # k "Luckily now that Furkan is handling it pretty well."
+    k "所幸我们有他做族长，能把一切事情都安排妥当。"
 
-# translate schinese Kari_Adventure_35675f62:
+translate schinese Kari_Adventure_35675f62:
 
-#     # e "Huh...?"
-#     e ""
+    # e "Huh...?"
+    e "啊……？"
 
-# translate schinese Kari_Adventure_47d24c9f:
+translate schinese Kari_Adventure_47d24c9f:
 
-#     # k "He is as strong as his father."
-#     k ""
+    # k "He is as strong as his father."
+    k "他和他父亲都是顶天立地的大丈夫。"
 
-# translate schinese Kari_Adventure_3dbd690b:
+translate schinese Kari_Adventure_3dbd690b:
 
-#     # e "But your rune thing... it's still gone, and Furkan is... in this cave captured by his... guardian?"
-#     e ""
+    # e "But your rune thing... it's still gone, and Furkan is... in this cave captured by his... guardian?"
+    e "但现在你们符石不见了……族长还被失控的护卫……困在山洞里。"
 
-# translate schinese Kari_Adventure_4c21c1c9:
+translate schinese Kari_Adventure_4c21c1c9:
 
-#     # e "I don't think that's a sign of handling very well."
-#     e ""
+    # e "I don't think that's a sign of handling very well."
+    e "这好像不是很妥当的样子啊。"
 
-# translate schinese Kari_Adventure_da5ea9f9:
+translate schinese Kari_Adventure_da5ea9f9:
 
-#     # k "You outsiders don't understand. He has his plan, I trust his judgement will bring prosper to the tribe."
-#     k ""
+    # k "You outsiders don't understand. He has his plan, I trust his judgement will bring prosper to the tribe."
+    k "你们外族人是不会理解的。族长有他自己的想法，我相信他一定会带领部族走向繁荣。"
 
-# translate schinese Kari_Adventure_b6956043:
+translate schinese Kari_Adventure_b6956043:
 
-#     # e "OK... but we still need to save him..."
-#     e ""
+    # e "OK... but we still need to save him..."
+    e "好吧……不过前提是我们能把他救出来……"
 
-# translate schinese Kari_Adventure_82091822:
+translate schinese Kari_Adventure_82091822:
 
-#     # k "..."
-#     k ""
+    # k "..."
+    k "……"
 
-# translate schinese Kari_Adventure_bf9bbb7c:
+translate schinese Kari_Adventure_bf9bbb7c:
 
-#     # "Kari doesn't speak, he just continues on his walk to the lagoon."
-#     ""
+    # "Kari doesn't speak, he just continues on his walk to the lagoon."
+    "卡里转身继续朝苍耀湖方向前进，没有再发话。"
 
-# translate schinese Kari_Adventure_afa5ac88:
+translate schinese Kari_Adventure_afa5ac88:
 
-#     # "After a while, you walk up to catch up with him."
-#     ""
+    # "After a while, you walk up to catch up with him."
+    "你在原地思索了一会，跟了上去。"
 
-# translate schinese Kari_Adventure_6b90839e:
+translate schinese strings:
 
-#     # e "You know what you reminded me of?"
-#     e ""
+    old "What do you want to talk with Kari?"
+    new "这回你想问他什么？"
 
-# translate schinese Kari_Adventure_ddbc5ca2:
+    old "The monster you saw at that night"
+    new "问起那晚的神秘人"
 
-#     # k "W-what?"
-#     k ""
+    old "What is under his mask"
+    new "好奇他面具下的模样"
 
-# translate schinese Kari_Adventure_07d940a5:
+    old "What is the relationship between him and Furkan"
+    new "询问他与弗坎的关系"
 
-#     # e "That monster, with the cape."
-#     e ""
+translate schinese Kari_Adventure_6b90839e:
 
-# translate schinese Kari_Adventure_52e42c66:
+    # e "You know what you reminded me of?"
+    e "你让我想起了一个人。"
 
-#     # k "I'm not wearing a cape."
-#     k ""
+translate schinese Kari_Adventure_ddbc5ca2:
 
-# translate schinese Kari_Adventure_d7a7cea5:
+    # k "W-what?"
+    k "谁？"
 
-#     # e "Alright, but you both have a skull mask, a horn. and the X-shaped strap around you..."
-#     e ""
+translate schinese Kari_Adventure_07d940a5:
 
-# translate schinese Kari_Adventure_1c092980:
+    # e "That monster, with the cape."
+    e "一个穿斗篷的神秘人。"
 
-#     # e "You know he brought me to this place for some sick reason, right?"
-#     e ""
+translate schinese Kari_Adventure_52e42c66:
 
-# translate schinese Kari_Adventure_0c213088:
+    # k "I'm not wearing a cape."
+    k "我不穿斗篷。"
 
-#     # k "Look, I told you, I'm not him."
-#     k ""
+translate schinese Kari_Adventure_d7a7cea5:
 
-# translate schinese Kari_Adventure_b910416c:
+    # e "Alright, but you both have a skull mask, a horn. and the X-shaped strap around you..."
+    e "确实，但你们都戴着颅骨面具，都长着鹿角，胸口还都绑着交叉的束带……"
 
-#     # e "Alright... I thought so..."
-#     e ""
+translate schinese Kari_Adventure_1c092980:
 
-# translate schinese Kari_Adventure_9b005be7:
+    # e "You know he brought me to this place for some sick reason, right?"
+    e "就是他把我无缘无故地传送来了这个世界。"
 
-#     # e "So... what's under your mask?"
-#     e ""
+translate schinese Kari_Adventure_0c213088:
 
-# translate schinese Kari_Adventure_ddbc5ca2_1:
+    # k "Look, I told you, I'm not him."
+    k "我不是你说的那个人。"
 
-#     # k "W-what?"
-#     k ""
+translate schinese Kari_Adventure_b910416c:
 
-# translate schinese Kari_Adventure_ecfb288d:
+    # e "Alright... I thought so..."
+    e "哦……"
 
-#     # e "Can you put down your mask?"
-#     e ""
+translate schinese Kari_Adventure_9b005be7:
 
-# translate schinese Kari_Adventure_7c2bde7e:
+    # e "So... what's under your mask?"
+    e "嗯呣……你可以摘一下你的面具吗？"
 
-#     # k "Why?"
-#     k ""
+translate schinese Kari_Adventure_ddbc5ca2_1:
 
-# translate schinese Kari_Adventure_c926b024:
+    # k "W-what?"
+    k "啊？"
 
-#     # e "Cause... uhh... I'm curious?"
-#     e ""
+translate schinese Kari_Adventure_ecfb288d:
 
-# translate schinese Kari_Adventure_a03b677d:
+    # e "Can you put down your mask?"
+    e "就一会会。"
 
-#     # "Kari takes off his mask for a second, before putting it back on."
-#     ""
+translate schinese Kari_Adventure_7c2bde7e:
 
-# translate schinese Kari_Adventure_5149571a:
+    # k "Why?"
+    k "为什么？"
 
-#     # "The face behind his mask is a surprisingly young face, "
-#     ""
+translate schinese Kari_Adventure_c926b024:
 
-# translate schinese Kari_Adventure_ae3d1075:
+    # e "Cause... uhh... I'm curious?"
+    e "因为……呃……因为我好奇你的样子嘛。"
 
-#     # e "You... look cute."
-#     e ""
+translate schinese Kari_Adventure_a03b677d:
 
-# translate schinese Kari_Adventure_b7ee8f63:
+    # "Kari takes off his mask for a second, before putting it back on."
+    "卡里干脆地摘下面具，很快又戴了回去。"
 
-#     # k "Fuck you."
-#     k ""
+translate schinese Kari_Adventure_5149571a:
 
-# translate schinese Kari_Adventure_f838afe9:
+    # "The face behind his mask is a surprisingly young face, "
+    "面具下的脸孔年轻得令你难以置信。"
 
-#     # e "Can you put it down one more time so I can see more clearly."
-#     e ""
+translate schinese Kari_Adventure_ae3d1075:
 
-# translate schinese Kari_Adventure_3426a587:
+    # e "You... look cute."
+    e "你……好可爱。"
 
-#     # k "I know what you're doing, [e]."
-#     k ""
+translate schinese Kari_Adventure_b7ee8f63:
 
-# translate schinese Kari_Adventure_5f76e41e:
+    # k "Fuck you."
+    k "闭嘴。"
 
-#     # k "And don't let me see you looking at me that way again."
-#     k ""
+translate schinese Kari_Adventure_f838afe9:
 
-# translate schinese Kari_Adventure_6ca2f432:
+    # e "Can you put it down one more time so I can see more clearly."
+    e "可以再摘一次吗，我想看得更清楚一点。"
 
-#     # e "Al-alright..."
-#     e ""
+translate schinese Kari_Adventure_3426a587:
 
-# translate schinese Kari_Adventure_ccada736:
+    # k "I know what you're doing, [e]."
+    k "[e]，别以为我不知道你在打什么算盘。"
 
-#     # e "What's the relationship between you and the chief?"
-#     e ""
+translate schinese Kari_Adventure_5f76e41e:
 
-# translate schinese Kari_Adventure_8c5c38bc:
+    # k "And don't let me see you looking at me that way again."
+    k "要是再让我看见你用那种表情看我，你就死定了。"
 
-#     # k "Furk? I've been with him since the day I had memory."
-#     k ""
+translate schinese Kari_Adventure_6ca2f432:
 
-# translate schinese Kari_Adventure_edd73060:
+    # e "Al-alright..."
+    e "好、好吧……"
 
-#     # k "He, he's like a brother to me."
-#     k ""
+translate schinese Kari_Adventure_ccada736:
 
-# translate schinese Kari_Adventure_6970e002:
+    # e "What's the relationship between you and the chief?"
+    e "你和弗坎"
 
-#     # e "Hmm... just brother?"
-#     e ""
+translate schinese Kari_Adventure_8c5c38bc:
 
-# translate schinese Kari_Adventure_ddbc5ca2_2:
+    # k "Furk? I've been with him since the day I had memory."
+    k "我和他从小就在一起生活。"
 
-#     # k "W-what?"
-#     k ""
+translate schinese Kari_Adventure_edd73060:
 
-# translate schinese Kari_Adventure_d3c1de01:
+    # k "He, he's like a brother to me."
+    k "他，他就像是我的亲兄弟。"
 
-#     # k "Look, he's my friend and we've been through a lot."
-#     k ""
+translate schinese Kari_Adventure_6970e002:
 
-# translate schinese Kari_Adventure_4ea96cc7:
+    # e "Hmm... just brother?"
+    e "唔……就只是兄弟吗？"
 
-#     # e "I mean... do you two...share the bed?"
-#     e ""
+translate schinese Kari_Adventure_ddbc5ca2_2:
 
-# translate schinese Kari_Adventure_4217208f:
+    # k "W-what?"
+    k "什——什么？"
 
-#     # k "w-what no. Why would I want to get into bed with another man."
-#     k ""
+translate schinese Kari_Adventure_d3c1de01:
 
-# translate schinese Kari_Adventure_82091822_1:
+    # k "Look, he's my friend and we've been through a lot."
+    k "他是我的挚友，我们一同经历过许多风雨。"
 
-#     # k "..."
-#     k ""
+translate schinese Kari_Adventure_4ea96cc7:
 
-# translate schinese Kari_Adventure_b8662407:
+    # e "I mean... do you two...share the bed?"
+    e "我是说……你们平常……会睡一张床吗？"
 
-#     # k "w-hat?"
-#     k ""
+translate schinese Kari_Adventure_4217208f:
 
-# translate schinese Kari_Adventure_7e5be565:
+    # k "w-what no. Why would I want to get into bed with another man."
+    k "当、当然不会。和其他男人同床共枕，你凭什么觉得我会做出这种——"
 
-#     # e "What?"
-#     e ""
+translate schinese Kari_Adventure_82091822_1:
 
-# translate schinese Kari_Adventure_5aeb1edb:
+    # k "..."
+    k "……"
 
-#     # k "No. I wouldn't. and I shouldn't... but... n-nooo."
-#     k ""
+translate schinese Kari_Adventure_b8662407:
 
-# translate schinese Kari_Adventure_efcc792f:
+    # k "w-hat?"
+    k "看什么看？"
 
-#     # "Kari continues shaking his head, muttering something under his breath."
-#     ""
+translate schinese Kari_Adventure_7e5be565:
 
-# translate schinese Kari_Adventure_334e60b1:
+    # e "What?"
+    e "啊？"
 
-#     # "You decide to let him be with his thought for a while."
-#     ""
+translate schinese Kari_Adventure_5aeb1edb:
 
-# translate schinese Kari_Adventure_a7092e0a:
+    # k "No. I wouldn't. and I shouldn't... but... n-nooo."
+    k "我都说了我不会，而且我也不该……可是……呃啊——"
 
-#     # "You and Kari reached the Lagoon, he motions you to drink from it to heal yourself."
-#     ""
+translate schinese Kari_Adventure_efcc792f:
 
-# translate schinese Kari_Adventure_797c0ccb:
+    # "Kari continues shaking his head, muttering something under his breath."
+    "卡里不停地摇头，自言自语不知在说些什么。"
 
-#     # k "Drink?"
-#     k ""
+translate schinese Kari_Adventure_334e60b1:
 
-# translate schinese Kari_Adventure_e53c6fed:
+    # "You decide to let him be with his thought for a while."
+    "你决定先让他继续沉浸在自己的小世界里。"
 
-#     # e "Alright..."
-#     e ""
+translate schinese Kari_Adventure_a7092e0a:
 
-# translate schinese Kari_Adventure_c1bbe4c5:
+    # "You and Kari reached the Lagoon, he motions you to drink from it to heal yourself."
+    "随后，你们来到了苍耀湖，卡里侧头示意你喝些湖水。"
 
-#     # "You drink from the lagoon and feel instantly revitatlised."
-#     ""
+translate schinese Kari_Adventure_797c0ccb:
 
-# translate schinese Kari_Adventure_8bb248f7:
+    # k "Drink?"
+    k "补充点水分？"
 
-#     # e "I... don't have a bucket."
-#     e ""
+translate schinese Kari_Adventure_e53c6fed:
 
-# translate schinese Kari_Adventure_d55918f6:
+    # e "Alright..."
+    e "好……"
 
-#     # k "Alright, courier..."
-#     k ""
+translate schinese Kari_Adventure_c1bbe4c5:
 
-# translate schinese Kari_Adventure_095cae1e:
+    # "You drink from the lagoon and feel instantly revitatlised."
+    "你用小木桶舀起湖水一饮而下，马上感觉精神多了。"
 
-#     # "The general takes out his woodle bottle and scoop up some water before handing it to you."
-#     ""
+translate schinese Kari_Adventure_8bb248f7:
 
-# translate schinese Kari_Adventure_a827517e:
+    # e "I... don't have a bucket."
+    e "我……没有带打水的东西来。"
 
-#     # e "Can... you help me?"
-#     e ""
+translate schinese Kari_Adventure_d55918f6:
 
-# translate schinese Kari_Adventure_6c70c717:
+    # k "Alright, courier..."
+    k "哎……"
 
-#     # k "...Why are you like this."
-#     k ""
+translate schinese Kari_Adventure_095cae1e:
 
-# translate schinese Kari_Adventure_33532784:
+    # "The general takes out his woodle bottle and scoop up some water before handing it to you."
+    "卡里拿出了他木头做的杯子，盛起一杯水递给你。"
 
-#     # e "I don't know, maybe because I just lost a battle."
-#     e ""
+translate schinese Kari_Adventure_a827517e:
 
-# translate schinese Kari_Adventure_eef0655e:
+    # e "Can... you help me?"
+    e "可以请你……喂我吗？"
 
-#     # k "... whatever. Open your mouth."
-#     k ""
+translate schinese Kari_Adventure_6c70c717:
 
-# translate schinese Kari_Adventure_bd11123f:
+    # k "...Why are you like this."
+    k "你……为什么非得这样。"
 
-#     # "He slowly pours the water into your mouth, you can smell his sweating palm holding the bottle."
-#     ""
+translate schinese Kari_Adventure_33532784:
 
-# translate schinese Kari_Adventure_34f010a7:
+    # e "I don't know, maybe because I just lost a battle."
+    e "现在我可是伤员。"
 
-#     # "You stick your tongue out and lick his finger. He instantly gets startled and drops his bottle on your face."
-#     ""
+translate schinese Kari_Adventure_eef0655e:
 
-# translate schinese Kari_Adventure_8d68e49b:
+    # k "... whatever. Open your mouth."
+    k "……算了，张嘴。"
 
-#     # e "Ouch..."
-#     e ""
+translate schinese Kari_Adventure_bd11123f:
 
-# translate schinese Kari_Adventure_d4c5e83d:
+    # "He slowly pours the water into your mouth, you can smell his sweating palm holding the bottle."
+    "卡里握住杯身慢慢地喂你喝水。他的手近在嘴边，你甚至可以闻到手汗的味道。"
 
-#     # k "What touched me..."
-#     k ""
+translate schinese Kari_Adventure_34f010a7:
 
-# translate schinese Kari_Adventure_243016fb:
+    # "You stick your tongue out and lick his finger. He instantly gets startled and drops his bottle on your face."
+    "你见机伸出舌头舔了一下他的手指。卡里被吓得松开手，手中的水杯砸到了你的脸上。"
 
-#     # e "My tongue?"
-#     e ""
+translate schinese Kari_Adventure_8d68e49b:
 
-# translate schinese Kari_Adventure_55baca04:
+    # e "Ouch..."
+    e "啊！"
 
-#     # k "W-what? Why. Why would you do that."
-#     k ""
+translate schinese Kari_Adventure_d4c5e83d:
 
-# translate schinese Kari_Adventure_9ac0ba11:
+    # k "What touched me..."
+    k "什么东西……"
 
-#     # e "Sorry, just wanted to... taste you."
-#     e ""
+translate schinese Kari_Adventure_243016fb:
 
-# translate schinese Kari_Adventure_b7ee8f63_1:
+    # e "My tongue?"
+    e "我的舌头。"
 
-#     # k "Fuck you."
-#     k ""
+translate schinese Kari_Adventure_55baca04:
 
-# translate schinese Kari_Adventure_cc1ce21b:
+    # k "W-what? Why. Why would you do that."
+    k "什么？你——你到底想干什么。"
 
-#     # e "Alright. I'm sorry, can you help me... please?"
-#     e ""
+translate schinese Kari_Adventure_9ac0ba11:
 
-# translate schinese Kari_Adventure_a5462bb4:
+    # e "Sorry, just wanted to... taste you."
+    e "不好意思啊……我只是想尝尝……你的味道。"
 
-#     # k "No, no. take my bottle and drink it yourself."
-#     k ""
+translate schinese Kari_Adventure_b7ee8f63_1:
 
-# translate schinese Kari_Adventure_72a33094:
+    # k "Fuck you."
+    k "肏你妈。"
 
-#     # e "..."
-#     e ""
+translate schinese Kari_Adventure_cc1ce21b:
 
-# translate schinese Kari_Adventure_c0523535:
+    # e "Alright. I'm sorry, can you help me... please?"
+    e "好啦好啦，对不起，可以请你……接着喂我吗？"
 
-#     # "You drink a few bottle of it and feel instantly revitalised."
-#     ""
+translate schinese Kari_Adventure_a5462bb4:
 
-# translate schinese Kari_Adventure_25e90c62:
+    # k "No, no. take my bottle and drink it yourself."
+    k "想都别想。拿我杯子自己喝去。"
 
-#     # "Kari waits for you to stand up and continue on your journey."
-#     ""
+translate schinese Kari_Adventure_72a33094:
 
-# translate schinese Kari_Adventure_a20cefa7:
+    # e "..."
+    e "……"
 
-#     # "..."
-#     ""
+translate schinese Kari_Adventure_c0523535:
 
-# translate schinese Kari_Adventure_d476048f:
+    # "You drink a few bottle of it and feel instantly revitalised."
+    "你喝了几杯湖水，马上感觉精神多了。"
 
-#     # "After a while, you feel like you should chat with Kari again..."
-#     ""
+translate schinese Kari_Adventure_25e90c62:
 
-# translate schinese Kari_Adventure_e2b9a76f:
+    # "Kari waits for you to stand up and continue on your journey."
+    "待你喝完水起身，卡里便继续带头领你前往山洞。"
 
-#     # e "This, this forest, it's pretty nice to walk, right?"
-#     e ""
+translate schinese Kari_Adventure_a20cefa7:
 
-# translate schinese Kari_Adventure_bf832a13:
+    # "..."
+    "……"
 
-#     # k "No."
-#     k ""
+translate schinese Kari_Adventure_d476048f:
 
-# translate schinese Kari_Adventure_8f90b8ec:
+    # "After a while, you feel like you should chat with Kari again..."
+    "过了一会，你又有些问题想问他……"
 
-#     # e "Al-alright."
-#     e ""
+translate schinese strings:
 
-# translate schinese Kari_Adventure_bd819583:
+    old "About the forest"
+    new "聊起这片森林"
 
-#     # k "I liked it but my antler often gets stuck in the branches..."
-#     k ""
+    old "About his general status"
+    new "聊起他的地位"
 
-# translate schinese Kari_Adventure_95b1395d:
+    old "About his tribe"
+    new "聊起山羊部落"
 
-#     # e "W-wait, really?"
-#     e ""
+translate schinese Kari_Adventure_e2b9a76f:
 
-# translate schinese Kari_Adventure_b06df41b:
+    # e "This, this forest, it's pretty nice to walk, right?"
+    e "这片林子真是个散步的好地方，你觉得呢？"
 
-#     # "You chuckles a bit from his unfortune, he doesn't seem to mind, though."
-#     ""
+translate schinese Kari_Adventure_bf832a13:
 
-# translate schinese Kari_Adventure_6468e48d:
+    # k "No."
+    k "我不那么觉得。"
 
-#     # k "You're lucky that your horn isn't forked."
-#     k ""
+translate schinese Kari_Adventure_8f90b8ec:
 
-# translate schinese Kari_Adventure_e2ea7baa:
+    # e "Al-alright."
+    e "好——吧。"
 
-#     # e "Yeah... I feel very lucky now haha."
-#     e ""
+translate schinese Kari_Adventure_bd819583:
 
-# translate schinese Kari_Adventure_82091822_2:
+    # k "I liked it but my antler often gets stuck in the branches..."
+    k "这里风景是不错，但我的角总会被路边的树枝卡住……"
 
-#     # k "..."
-#     k ""
+translate schinese Kari_Adventure_95b1395d:
 
-# translate schinese Kari_Adventure_e12b06fe:
+    # e "W-wait, really?"
+    e "真的假的？"
 
-#     # e "So... how did you become a general in the tribe?"
-#     e ""
+translate schinese Kari_Adventure_b06df41b:
 
-# translate schinese Kari_Adventure_ddbc5ca2_3:
+    # "You chuckles a bit from his unfortune, he doesn't seem to mind, though."
+    "你轻轻笑出声，但他好像并不介意。"
 
-#     # k "W-what?"
-#     k ""
+translate schinese Kari_Adventure_6468e48d:
 
-# translate schinese Kari_Adventure_982535f0:
+    # k "You're lucky that your horn isn't forked."
+    k "你很幸运，角不分岔。"
 
-#     # k "One day Tevfik, Furkan's father just told me."
-#     k ""
+translate schinese Kari_Adventure_e2ea7baa:
 
-# translate schinese Kari_Adventure_bfc8979a:
+    # e "Yeah... I feel very lucky now haha."
+    e "没错……我现在就感觉很幸运哈哈哈。"
 
-#     # k "Hmm... that I should protect the tribe for him when he's gone."
-#     k ""
+translate schinese Kari_Adventure_82091822_2:
 
-# translate schinese Kari_Adventure_47b7e14c:
+    # k "..."
+    k "……"
 
-#     # e "O-oh..."
-#     e ""
+translate schinese Kari_Adventure_e12b06fe:
 
-# translate schinese Kari_Adventure_a0e56ad2:
+    # e "So... how did you become a general in the tribe?"
+    e "你是怎么当上将军的呢？"
 
-#     # k "So... there's that."
-#     k ""
+translate schinese Kari_Adventure_ddbc5ca2_3:
 
-# translate schinese Kari_Adventure_19fae5c5:
+    # k "W-what?"
+    k "嗯？"
 
-#     # e "I see."
-#     e ""
+translate schinese Kari_Adventure_982535f0:
 
-# translate schinese Kari_Adventure_077f005e:
+    # k "One day Tevfik, Furkan's father just told me."
+    k "上一任族长直接任命。"
 
-#     # e "What's your tribe like?"
-#     e ""
+translate schinese Kari_Adventure_bfc8979a:
 
-# translate schinese Kari_Adventure_ddbc5ca2_4:
+    # k "Hmm... that I should protect the tribe for him when he's gone."
+    k "他说……假如有一天他去世了，请我替他继续保卫部族。"
 
-#     # k "W-what?"
-#     k ""
+translate schinese Kari_Adventure_47b7e14c:
 
-# translate schinese Kari_Adventure_5b71e183:
+    # e "O-oh..."
+    e "噢……"
 
-#     # e "Do you people believe in any...?"
-#     e ""
+translate schinese Kari_Adventure_a0e56ad2:
 
-# translate schinese Kari_Adventure_c77c661f:
+    # k "So... there's that."
+    k "就是……这样。"
 
-#     # k "We... did. The god of intelligence... Coeshkun. Like any other Tribes."
-#     k ""
+translate schinese Kari_Adventure_19fae5c5:
 
-# translate schinese Kari_Adventure_aaa657f3:
+    # e "I see."
+    e "原来如此。"
 
-#     # k "We didn't have a huge belief and ritual after, Tevfik, Furkan's father is gone."
-#     k ""
+translate schinese Kari_Adventure_077f005e:
 
-# translate schinese Kari_Adventure_787a7122:
+    # e "What's your tribe like?"
+    e "可以给我介绍一下你们部落吗？"
 
-#     # k "Furkan is handling everything well, even without worshipping our god."
-#     k ""
+translate schinese Kari_Adventure_ddbc5ca2_4:
 
-# translate schinese Kari_Adventure_5c4d7933:
+    # k "W-what?"
+    k "嗯？"
 
-#     # k "I believe in him."
-#     k ""
+translate schinese Kari_Adventure_5b71e183:
 
-# translate schinese Kari_Adventure_52355c6e:
+    # e "Do you people believe in any...?"
+    e "比如你们有没有信仰什么……？"
 
-#     # e "Alright, that's... good to know."
-#     e ""
+translate schinese Kari_Adventure_c77c661f:
 
-# translate schinese Kari_Adventure_61bd546f:
+    # k "We... did. The god of intelligence... Coeshkun. Like any other Tribes."
+    k "我们和其他部族一样也有信仰。我们信仰的是智慧之神……窍舍{font=LXGWWenKaiLite-Bold.ttf}{size=-2}堃{/size}{/font}。"
 
-#     # e "(I should probably stay silent for now...)"
-#     e ""
+translate schinese Kari_Adventure_aaa657f3:
 
-# translate schinese Kari_Adventure_9b5bb3ec:
+    # k "We didn't have a huge belief and ritual after, Tevfik, Furkan's father is gone."
+    k "自从泰夫菲克族长牺牲后，我们没有再举办过任何大型的仪式。"
 
-#     # "At last, you and Kari reach the cave. It seems almost dark, luckily Kari stands beside you."
-#     ""
+translate schinese Kari_Adventure_787a7122:
 
-# translate schinese Kari_Adventure_8c0cbb7c:
+    # k "Furkan is handling everything well, even without worshipping our god."
+    k "但就算没有祈求神明保佑，弗坎也能把部族治理好。"
 
-#     # "He is way taller than you, not mentioning his antler sticking out of his head."
-#     ""
+translate schinese Kari_Adventure_5c4d7933:
 
-# translate schinese Kari_Adventure_102e3efa:
+    # k "I believe in him."
+    k "我相信他。"
 
-#     # "You try to grasp into his hand for comfort but he instantly flinches."
-#     ""
+translate schinese Kari_Adventure_52355c6e:
 
-# translate schinese Kari_Adventure_30fa8481:
+    # e "Alright, that's... good to know."
+    e "这……挺好的。"
 
-#     # k "What are you doing?"
-#     k ""
+translate schinese Kari_Adventure_61bd546f:
 
-# translate schinese Kari_Adventure_965e542a:
+    # e "(I should probably stay silent for now...)"
+    "你决定不再多言，默默走完这段路。"
 
-#     # e "Uhmmm, sorry, I was a little scared."
-#     e ""
+translate schinese Kari_Adventure_9b5bb3ec:
 
-# translate schinese Kari_Adventure_4bdf677e:
+    # "At last, you and Kari reach the cave. It seems almost dark, luckily Kari stands beside you."
+    "最终，你们来到了弗坎所在的洞口前，里面黑漆漆的令你心里发毛，好在身边有卡里可以依靠。"
 
-#     # "The general holds onto your arm for a moment, his palm is very warm, it almost melts your heart with his little actions."
-#     ""
+translate schinese Kari_Adventure_8c0cbb7c:
 
-# translate schinese Kari_Adventure_0f16cedf:
+    # "He is way taller than you, not mentioning his antler sticking out of his head."
+    "他比你高得多，即使不算上鹿角的高度。"
 
-#     # k "Stay Alert, courier."
-#     k ""
+translate schinese Kari_Adventure_102e3efa:
 
-# translate schinese Kari_Adventure_5b25efa0:
+    # "You try to grasp into his hand for comfort but he instantly flinches."
+    "你想握住他的手寻求安慰，但他马上躲开了。"
 
-#     # e "I will... Kari."
-#     e ""
+translate schinese Kari_Adventure_30fa8481:
 
-# translate schinese Kari_Adventure_60648222:
+    # k "What are you doing?"
+    k "你干什么？"
 
-#     # k "Call me General."
-#     k ""
+translate schinese Kari_Adventure_965e542a:
 
-# translate schinese Kari_Adventure_268188c5:
+    # e "Uhmmm, sorry, I was a little scared."
+    e "呃呵呵呵，不好意思，我有点紧张。"
 
-#     # e "Alright... General."
-#     e ""
+translate schinese Kari_Adventure_4bdf677e:
+
+    # "The general holds onto your arm for a moment, his palm is very warm, it almost melts your heart with his little actions."
+    "没想到卡里转而握住了你的手臂。你感受着来自他手心的温暖，心都要化了。"
+
+translate schinese Kari_Adventure_0f16cedf:
+
+    # k "Stay Alert, courier."
+    k "保持警惕，邮差。"
+
+translate schinese Kari_Adventure_5b25efa0:
+
+    # e "I will... Kari."
+    e "我会的……卡里。"
+
+translate schinese Kari_Adventure_60648222:
+
+    # k "Call me General."
+    k "不要直呼我的名字。"
+
+translate schinese Kari_Adventure_268188c5:
+
+    # e "Alright... General."
+    e "遵命……将军。"
 
 translate schinese Furkan_First_Meet_0e69ad46:
 
@@ -4191,7 +4283,7 @@ translate schinese Furkan_First_Meet_69e760f4:
 translate schinese Furkan_First_Meet_a7948122:
 
     # "The bell ringing is getting louder and louder with each seconds passing, you are completely stunned looking at the arrow, unaware of the mysterious figure approaching you."
-    "你呆呆盯着箭，脑子一片空白，无从留心越来越响亮的铃声，无从留心正向你袭来的神秘身影。"
+    "你呆呆盯着箭，脑子一片空白，无从留心越来越响亮的铃声，和正向你袭来的神秘身影。"
 
 translate schinese Furkan_First_Meet_14bffc05:
 
@@ -4338,7 +4430,7 @@ translate schinese Furkan_First_Meet_36fda691:
 translate schinese Furkan_First_Meet_52ffac59:
 
     # f "A reconciliation. I suppose."
-    f "更准确地说，是联合协定。"
+    f "更准确地说，是恢复邦交的意向书。"
 
 translate schinese Furkan_First_Meet_3cc49d8d:
 
@@ -4538,7 +4630,7 @@ translate schinese Furkan_Second_Meet_05f2db9b:
 translate schinese Furkan_Second_Meet_6aa19a40:
 
     # e "I don't think he wanted to reconcile..."
-    e "我觉得他不想两村联合……"
+    e "我觉得他不想两村恢复往来……"
 
 translate schinese Furkan_Second_Meet_c1ffdbf0:
 

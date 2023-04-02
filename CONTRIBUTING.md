@@ -50,7 +50,7 @@ Buggbear | 熊地精 |
 Caproot | 萝卜怪 | 
 Dummy | 人偶 | 
 Feral Werewolf | 狂野狼人 | 
-Goat Guard | 山羊守卫 | 
+Goat Guard | 山羊卫兵 | 
 Goat Huntsman | 山羊猎人 | 
 Goat Ranger | 山羊弓弩手 | 
 Landshark | 陆鲨 | 
@@ -59,7 +59,7 @@ Minotaur | 弥诺陶洛斯 |
 Mossy Golem | 苔藓石魔像 | 
 Scarecrow | 稻草人 | 
 Slime | 史莱姆 | 
-Stone Ward | 巨石护卫 | 
+Stone Ward | 石魔像 | 
 
 
 ## 地名翻译

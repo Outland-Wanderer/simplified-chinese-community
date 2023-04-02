@@ -8989,8 +8989,8 @@ translate schinese strings:
     # old "Ask Lothar about Trainings from Ole"
     # new "征得向安布和乔格请教的许可"
 
-    # old "About sneaking into the Goat Tribe"
-    # new "询问潜入山羊部落的计划"
+    old "About sneaking into the Goat Tribe"
+    new "讨论潜入山羊部落的计划"
 
     old "Ask about the trip to the river"
     new "聊起之前在招藓河的经历"
@@ -11931,455 +11931,482 @@ translate schinese strings:
 #     # l "Yes, you can go now... I'll just be waiting..."
 #     l ""
 
-# translate schinese Lothar_Ask_Invasion_e9fc7cea:
+translate schinese Lothar_Ask_Invasion_e9fc7cea:
 
-#     # e "Lothar, can you tell me again about your plan?"
-#     e ""
+    # e "Lothar, can you tell me again about your plan?"
+    e "你能再讲讲你的计划吗？"
 
-# translate schinese Lothar_Ask_Invasion_ec398aec:
+translate schinese Lothar_Ask_Invasion_ec398aec:
 
-#     # l "You dare to ask me this? After you outright told Ole about our secret plan?"
-#     l ""
+    # l "You dare to ask me this? After you outright told Ole about our secret plan?"
+    l "[e]，你竟然还敢问我这个？以为我忘了你告发我的时候有多干脆吗？"
 
-# translate schinese Lothar_Ask_Invasion_0aba5798:
+translate schinese Lothar_Ask_Invasion_0aba5798:
 
-#     # l "...Are you ever on my side."
-#     l ""
+    # l "...Are you ever on my side."
+    l "……你从来就没站过我这边。"
 
-# translate schinese Lothar_Ask_Invasion_cff509a4:
+translate schinese Lothar_Ask_Invasion_cff509a4:
 
-#     # e "Uhm... What?"
-#     e ""
+    # e "Uhm... What?"
+    e "啊……？"
 
-# translate schinese Lothar_Ask_Invasion_fe81c907:
+translate schinese Lothar_Ask_Invasion_fe81c907:
 
-#     # l "Stop pretending you're innocent in every fucking matter, I trained you, made you an adventurer..."
-#     l ""
+    # l "Stop pretending you're innocent in every fucking matter, I trained you, made you an adventurer..."
+    l "少他妈每次都在那装无辜。我煞费苦心训练你，将你培养成一个冒险家……"
 
-# translate schinese Lothar_Ask_Invasion_8d7be70a:
+translate schinese Lothar_Ask_Invasion_8d7be70a:
 
-#     # l "And this is how you repaid me?"
-#     l ""
+    # l "And this is how you repaid me?"
+    l "而这就是你报答恩师的方式？"
 
-# translate schinese Lothar_Ask_Invasion_c9778233:
+translate schinese Lothar_Ask_Invasion_c9778233:
 
-#     # l "Fucking stab me in the back?"
-#     l ""
+    # l "Fucking stab me in the back?"
+    l "吃里爬外，朝我背后捅刀？"
 
-# translate schinese Lothar_Ask_Invasion_5da9276f:
+translate schinese Lothar_Ask_Invasion_5da9276f:
 
-#     # e "I just think Ole deserves to know the truth, I didn't have the heart to lie to him."
-#     e ""
+    # e "I just think Ole deserves to know the truth, I didn't have the heart to lie to him."
+    e "我只是觉得奥利于情于理都该知道真相，我不忍心对他撒谎。"
 
-# translate schinese Lothar_Ask_Invasion_2924dde1:
+translate schinese Lothar_Ask_Invasion_2924dde1:
 
-#     # l "Fuck off."
-#     l ""
+    # l "Fuck off."
+    l "滚开。"
 
-# translate schinese Lothar_Ask_Invasion_3f00c726:
+translate schinese Lothar_Ask_Invasion_3f00c726:
 
-#     # "Lothar leans on the brick wall, he gives you a side eye before looking away..."
-#     ""
+    # "Lothar leans on the brick wall, he gives you a side eye before looking away..."
+    "洛萨尔双臂交叉背靠墙面，只朝你瞟了一眼便撇过头去……"
 
-# translate schinese Lothar_Ask_Invasion_8a9e4785:
+translate schinese Lothar_Ask_Invasion_8a9e4785:
 
-#     # "The air becomes frozen for a moment as both of you stay silent."
-#     ""
+    # "The air becomes frozen for a moment as both of you stay silent."
+    "周围的空气瞬间凝固，两人都保持着沉默。"
 
-# translate schinese Lothar_Ask_Invasion_86b3bd22:
+translate schinese strings:
 
-#     # e "I'm sorry, Lothar."
-#     e ""
+    old "You feel like you need to say something..."
+    new "你感觉自己应该先开口……"
 
-# translate schinese Lothar_Ask_Invasion_cd7111fc:
+    old "Apologise"
+    new "道歉"
 
-#     # l "You all are like this, taking my kindness for granted..."
-#     l ""
+    old "Protest"
+    new "反驳"
 
-# translate schinese Lothar_Ask_Invasion_f28bfc83:
+translate schinese Lothar_Ask_Invasion_86b3bd22:
 
-#     # e "I'm... really sorry, Lothar."
-#     e ""
+    # e "I'm sorry, Lothar."
+    e "洛萨尔，对不起。"
 
-# translate schinese Lothar_Ask_Invasion_82822a0c:
+translate schinese Lothar_Ask_Invasion_cd7111fc:
 
-#     # l "..."
-#     l ""
+    # l "You all are like this, taking my kindness for granted..."
+    l "你们一个两个，总拿我的好心当白饭……"
 
-# translate schinese Lothar_Ask_Invasion_d823286f:
+translate schinese Lothar_Ask_Invasion_f28bfc83:
 
-#     # "Lothar continues looking away, but his expression seems to soften a bit."
-#     ""
+    # e "I'm... really sorry, Lothar."
+    e "真的……真的对不起。"
 
-# translate schinese Lothar_Ask_Invasion_3ae156a1:
+translate schinese Lothar_Ask_Invasion_82822a0c:
 
-#     # e "I'm sorrrrry."
-#     e ""
+    # l "..."
+    l "……"
 
-# translate schinese Lothar_Ask_Invasion_365539d0:
+translate schinese Lothar_Ask_Invasion_d823286f:
 
-#     # "You grasp at Lothar's paw, slowly nudges at the fur on the back of his hand."
-#     ""
+    # "Lothar continues looking away, but his expression seems to soften a bit."
+    "洛萨尔依然没有正眼瞧你，但他的表情好像缓和了一点点。"
 
-# translate schinese Lothar_Ask_Invasion_5fdf179d:
+translate schinese Lothar_Ask_Invasion_3ae156a1:
 
-#     # e "Hey, Sorry."
-#     e ""
+    # e "I'm sorrrrry."
+    e "对不起起起起——"
 
-# translate schinese Lothar_Ask_Invasion_5f9042aa:
+translate schinese Lothar_Ask_Invasion_365539d0:
 
-#     # l "You need to do much better than that..."
-#     l ""
+    # "You grasp at Lothar's paw, slowly nudges at the fur on the back of his hand."
+    "你牵起洛萨尔的爪子，大拇指温柔地蹭着他手背的毫毛。"
 
-# translate schinese Lothar_Ask_Invasion_c016b05d:
+translate schinese Lothar_Ask_Invasion_5fdf179d:
 
-#     # e "W-what do I need to do? My boss."
-#     e ""
+    # e "Hey, Sorry."
+    e "我错了，洛哥。"
 
-# translate schinese Lothar_Ask_Invasion_82822a0c_1:
+translate schinese Lothar_Ask_Invasion_5f9042aa:
 
-#     # l "..."
-#     l ""
+    # l "You need to do much better than that..."
+    l "不行，差远了……"
 
-# translate schinese Lothar_Ask_Invasion_dd94c74d:
+translate schinese Lothar_Ask_Invasion_c016b05d:
 
-#     # l "Since when did you learn talking like this..."
-#     l ""
+    # e "W-what do I need to do? My boss."
+    e "呜呜，徒儿要怎么做才能让师傅原谅我嘛~"
 
-# translate schinese Lothar_Ask_Invasion_7b5bb3da:
+translate schinese Lothar_Ask_Invasion_82822a0c_1:
 
-#     # e "When I feel like I'm really really sorry, I guess."
-#     e ""
+    # l "..."
+    l "……"
 
-# translate schinese Lothar_Ask_Invasion_11d6aff0:
+translate schinese Lothar_Ask_Invasion_dd94c74d:
 
-#     # l "Huh... Well I'm not impressed, yet, disciple."
-#     l ""
+    # l "Since when did you learn talking like this..."
+    l "这招你从哪学来的……"
 
-# translate schinese Lothar_Ask_Invasion_8c6a6bdf:
+translate schinese Lothar_Ask_Invasion_7b5bb3da:
 
-#     # l "And don't you think you can seduce a hero with your big..."
-#     l ""
+    # e "When I feel like I'm really really sorry, I guess."
+    e "真心实意的道歉不需要学来。"
 
-# translate schinese Lothar_Ask_Invasion_c0463696:
+translate schinese Lothar_Ask_Invasion_11d6aff0:
 
-#     # e "Big what?"
-#     e ""
+    # l "Huh... Well I'm not impressed, yet, disciple."
+    l "哼……雕虫小技罢了，青涩的学徒。"
 
-# translate schinese Lothar_Ask_Invasion_7b2f5349:
+translate schinese Lothar_Ask_Invasion_8c6a6bdf:
 
-#     # l "Ahem- No. Back to the topic. The plan."
-#     l ""
+    # l "And don't you think you can seduce a hero with your big..."
+    l "还有，别想得寸进尺用你的大……{size=-16}诱惑我{/size}。"
 
-# translate schinese Lothar_Ask_Invasion_478a7ee9:
+translate schinese Lothar_Ask_Invasion_c0463696:
 
-#     # e "Do you accept my apology...?"
-#     e ""
+    # e "Big what?"
+    e "大什么？"
 
-# translate schinese Lothar_Ask_Invasion_ce432d18:
+translate schinese Lothar_Ask_Invasion_7b2f5349:
 
-#     # l "Y-yes, but watch your back..."
-#     l ""
+    # l "Ahem- No. Back to the topic. The plan."
+    l "呃啊——当我没说。回到正题，潜入羊村的计划。"
 
-# translate schinese Lothar_Ask_Invasion_8cdf0324:
+translate schinese Lothar_Ask_Invasion_478a7ee9:
 
-#     # l "Anyways, the plan. Ask for direction, pretend you're fainting. Get inside, and ask around."
-#     l ""
+    # e "Do you accept my apology...?"
+    e "师傅你是原谅徒儿了吗……？"
 
-# translate schinese Lothar_Ask_Invasion_0cf425bf:
+translate schinese Lothar_Ask_Invasion_ce432d18:
 
-#     # e "Alright... I'll think about it."
-#     e ""
+    # l "Y-yes, but watch your back..."
+    l "嗯——嗯，但事不过三啊……"
 
-# translate schinese Lothar_Ask_Invasion_71ead04e:
+translate schinese Lothar_Ask_Invasion_8cdf0324:
 
-#     # l "Don't think for too long. Else, I'll be angry... again."
-#     l ""
+    # l "Anyways, the plan. Ask for direction, pretend you're fainting. Get inside, and ask around."
+    l "咳咳，计划。你要做的就是向他们问路，然后假装晕倒，混进去套取情报。"
 
-# translate schinese Lothar_Ask_Invasion_96b64e6e:
+translate schinese Lothar_Ask_Invasion_0cf425bf:
 
-#     # e "Look Lothar, I don't know what you want, but that wasn't my fault."
-#     e ""
+    # e "Alright... I'll think about it."
+    e "好……我会尽快决定的。"
 
-# translate schinese Lothar_Ask_Invasion_82822a0c_2:
+translate schinese Lothar_Ask_Invasion_71ead04e:
 
-#     # l "..."
-#     l ""
+    # l "Don't think for too long. Else, I'll be angry... again."
+    l "别拖太久，不然……我可又要生气了啊。"
 
-# translate schinese Lothar_Ask_Invasion_64e4d862:
+translate schinese Lothar_Ask_Invasion_96b64e6e:
 
-#     # e "You shouldn't even try that at the first place."
-#     e ""
+    # e "Look Lothar, I don't know what you want, but that wasn't my fault."
+    e "洛萨尔，我不知道你到底想干什么，但你不能怪在我头上。"
 
-# translate schinese Lothar_Ask_Invasion_a1fdfcd1:
+translate schinese Lothar_Ask_Invasion_82822a0c_2:
 
-#     # l "Y-you say what? Fuck you and your fucking tactics."
-#     l ""
+    # l "..."
+    l "……"
 
-# translate schinese Lothar_Ask_Invasion_c8b30ac3:
+translate schinese Lothar_Ask_Invasion_64e4d862:
 
-#     # l "I shouldn't have listened to that lizard, teaching you, mentoring you."
-#     l ""
+    # e "You shouldn't even try that at the first place."
+    e "要怪就怪你硬要派我去山羊部落。"
 
-# translate schinese Lothar_Ask_Invasion_d46c1cd9:
+translate schinese Lothar_Ask_Invasion_a1fdfcd1:
 
-#     # l "And now you stab me in the back and say I'm wrong?"
-#     l ""
+    # l "Y-you say what? Fuck you and your fucking tactics."
+    l "你——你说什么？你个出尔反尔的杂种羊。"
 
-# translate schinese Lothar_Ask_Invasion_72a33094:
+translate schinese Lothar_Ask_Invasion_c8b30ac3:
 
-#     # e "..."
-#     e ""
+    # l "I shouldn't have listened to that lizard, teaching you, mentoring you."
+    l "当初我就不该答应那只蜥蜴，掏心掏肺地教导你。"
 
-# translate schinese Lothar_Ask_Invasion_6a112c24:
+translate schinese Lothar_Ask_Invasion_d46c1cd9:
 
-#     # e "I was saying, you are a big dumb wolf!"
-#     e ""
+    # l "And now you stab me in the back and say I'm wrong?"
+    l "现在你反而恶人先告状？"
 
-# translate schinese Lothar_Ask_Invasion_73f0fb90:
+translate schinese Lothar_Ask_Invasion_72a33094:
 
-#     # "You feel as if you are tired of being a pushover for such a long time."
-#     ""
+    # e "..."
+    e "……"
 
-# translate schinese Lothar_Ask_Invasion_fcf694db:
+translate schinese Lothar_Ask_Invasion_6a112c24:
 
-#     # "And it somehow feels good. Almost... a relieve."
-#     ""
+    # e "I was saying, you are a big dumb wolf!"
+    e "要我说，你就是头不会反省自己的大笨狼！"
 
-# translate schinese Lothar_Ask_Invasion_857962f5:
+translate schinese Lothar_Ask_Invasion_73f0fb90:
 
-#     # "But the excitement fades soon when you snap back to reality and see Lothar staring at you..."
-#     ""
+    # "You feel as if you are tired of being a pushover for such a long time."
+    "你再也忍不了一直被洛萨尔当挡箭牌，积压已久的憋屈今天总算得到释放。"
 
-# translate schinese Lothar_Ask_Invasion_9af00f01:
+translate schinese Lothar_Ask_Invasion_fcf694db:
 
-#     # l "Y-"
-#     l ""
+    # "And it somehow feels good. Almost... a relieve."
+    "你感觉……舒坦极了。"
 
-# translate schinese Lothar_Ask_Invasion_da755a8c:
+translate schinese Lothar_Ask_Invasion_857962f5:
 
-#     # l "Fuck the fuck off before I fucking stomp you into a pile of useless dragon pulp."
-#     l ""
+    # "But the excitement fades soon when you snap back to reality and see Lothar staring at you..."
+    "但这阵兴奋劲过后你回到了现实，面前怒目圆睁的灰狼逐渐清晰起来……"
 
-# translate schinese Lothar_Ask_Invasion_240cb39e:
+translate schinese Lothar_Ask_Invasion_9af00f01:
 
-#     # "You retreat immediately as your moment of courage fades out... the wolf doesn't seem to appreciate it."
-#     ""
+    # l "Y-"
+    l "你——"
 
-# translate schinese Lothar_Ask_Invasion_e9fc7cea_1:
+translate schinese Lothar_Ask_Invasion_da755a8c:
 
-#     # e "Lothar, can you tell me again about your plan?"
-#     e ""
+    # l "Fuck the fuck off before I fucking stomp you into a pile of useless dragon pulp."
+    l "马上给老子滚！不然老子现在就把你揍成稀巴烂！"
 
-# translate schinese Lothar_Ask_Invasion_58fe2069:
+translate schinese Lothar_Ask_Invasion_240cb39e:
 
-#     # l "Yes, it's very simple actually. Ask for direction... somewhere, then pretend you're going to faint."
-#     l ""
+    # "You retreat immediately as your moment of courage fades out... the wolf doesn't seem to appreciate it."
+    "你泄了气，飞快逃离原地。自己刚刚的胆量并不是他会钦佩的勇气。"
 
-# translate schinese Lothar_Ask_Invasion_687031d0:
+translate schinese Lothar_Ask_Invasion_e9fc7cea_1:
 
-#     # l "Then get inside, ask around. They'll be easy on you because of your badge."
-#     l ""
+    # e "Lothar, can you tell me again about your plan?"
+    e "你能再讲讲你的计划吗？"
 
-# translate schinese Lothar_Ask_Invasion_33380855:
+translate schinese Lothar_Ask_Invasion_58fe2069:
 
-#     # e "...Alright."
-#     e ""
+    # l "Yes, it's very simple actually. Ask for direction... somewhere, then pretend you're going to faint."
+    l "当然可以，计划其实非常简单。首先你以问路为借口接近他们，然后假装自己快晕倒了。"
 
-# translate schinese Lothar_Ask_Invasion_8d5e9cf8:
+translate schinese Lothar_Ask_Invasion_687031d0:
 
-#     # l "So, what do you say, disciple. Are you going to do me a favour?"
-#     l ""
+    # l "Then get inside, ask around. They'll be easy on you because of your badge."
+    l "接着趁机混进去，向周围人打探情报。"
 
-# translate schinese Lothar_Ask_Invasion_84f0c0c3:
+translate schinese Lothar_Ask_Invasion_33380855:
 
-#     # l "Maybe considering I saved your ass from that stone golem?"
-#     l ""
+    # e "...Alright."
+    e "……好的。"
 
-# translate schinese Lothar_Ask_Invasion_9e3eae0b:
+translate schinese Lothar_Ask_Invasion_8d5e9cf8:
 
-#     # l "I don't usually owe someone a favour, though. If you are curious." nointeract
-#     l "" nointeract
+    # l "So, what do you say, disciple. Are you going to do me a favour?"
+    l "所以，怎么说，好徒儿。当我欠你个人情？"
 
-# translate schinese Lothar_Ask_Invasion_0fddf809:
+translate schinese Lothar_Ask_Invasion_84f0c0c3:
 
-#     # e "I'll get into it."
-#     e ""
+    # l "Maybe considering I saved your ass from that stone golem?"
+    l "还有看在我从石魔像重锤下救了你的份上？"
 
-# translate schinese Lothar_Ask_Invasion_b1f58e7b:
+translate schinese Lothar_Ask_Invasion_9e3eae0b:
 
-#     # l "Hmmm... Good."
-#     l ""
+    # l "I don't usually owe someone a favour, though. If you are curious." nointeract
+    l "你可要知道我的人情有多稀罕。" nointeract
 
-# translate schinese Lothar_Ask_Invasion_0176c746:
+translate schinese strings:
 
-#     # l "Just remember what I told you, because getting caught might be a little dangerous for you."
-#     l ""
+    old "I'll get into it"
+    new "同意帮助洛萨尔"
 
-# translate schinese Lothar_Ask_Invasion_c18eb48e:
+    old "Maybe Later"
+    new "改日再做决定"
 
-#     # e "W-what?"
-#     e ""
+translate schinese Lothar_Ask_Invasion_0fddf809:
 
-# translate schinese Lothar_Ask_Invasion_1ee8127a:
+    # e "I'll get into it."
+    e "行，我帮你。"
 
-#     # l "I mean surely you wouldn't get caught right?"
-#     l ""
+translate schinese Lothar_Ask_Invasion_b1f58e7b:
 
-# translate schinese Lothar_Ask_Invasion_c0fa5750:
+    # l "Hmmm... Good."
+    l "嗯……非常好。"
 
-#     # l "It's like fighting a slime and lose, that's impossible."
-#     l ""
+translate schinese Lothar_Ask_Invasion_0176c746:
 
-# translate schinese Lothar_Ask_Invasion_863c7354:
+    # l "Just remember what I told you, because getting caught might be a little dangerous for you."
+    l "别忘了我们的计划，不然你被抓包就有点难办了。"
 
-#     # l "But if you do, well... they probably won't kill a courier."
-#     l ""
+translate schinese Lothar_Ask_Invasion_c18eb48e:
 
-# translate schinese Lothar_Ask_Invasion_72a33094_1:
+    # e "W-what?"
+    e "什——什么意思？"
 
-#     # e "..."
-#     e ""
+translate schinese Lothar_Ask_Invasion_1ee8127a:
 
-# translate schinese Lothar_Ask_Invasion_e53c6fed:
+    # l "I mean surely you wouldn't get caught right?"
+    l "别担心，凭你的嘴皮子肯定不会被抓包。"
 
-#     # e "Alright..."
-#     e ""
+translate schinese Lothar_Ask_Invasion_c0fa5750:
 
-# translate schinese Lothar_Ask_Invasion_1f2ea34f:
+    # l "It's like fighting a slime and lose, that's impossible."
+    l "就像你不可能输给一坨史莱姆一样。"
 
-#     # l "Here's the location. Goat Tribe. Let me mark it on your map."
-#     l ""
+translate schinese Lothar_Ask_Invasion_863c7354:
 
-# translate schinese Lothar_Ask_Invasion_ae95b06d:
+    # l "But if you do, well... they probably won't kill a courier."
+    l "但假如，我是说假如你露馅了的话……他们也应该不会对一个小邮差下杀手。"
 
-#     # l "West to the Outpost..."
-#     l ""
+translate schinese Lothar_Ask_Invasion_72a33094_1:
 
-# translate schinese Lothar_Ask_Invasion_b5cff9c2:
+    # e "..."
+    e "……"
 
-#     # e "Got it. Thanks Lothar. I'll be back soon."
-#     e ""
+translate schinese Lothar_Ask_Invasion_e53c6fed:
 
-# translate schinese Lothar_Ask_Invasion_b79eb010:
+    # e "Alright..."
+    e "啊这……"
 
-#     # e "Maybe... Later?"
-#     e ""
+translate schinese Lothar_Ask_Invasion_1f2ea34f:
 
-# translate schinese Lothar_Ask_Invasion_27d26753:
+    # l "Here's the location. Goat Tribe. Let me mark it on your map."
+    l "拿出你的地图，我把山羊部落的具体方位标给你。"
 
-#     # e "I need to think about it."
-#     e ""
+translate schinese Lothar_Ask_Invasion_ae95b06d:
 
-# translate schinese Lothar_Ask_Invasion_175e28ba:
+    # l "West to the Outpost..."
+    l "就在哨站的西边……"
 
-#     # l "Okay then."
-#     l ""
+translate schinese Lothar_Ask_Invasion_b5cff9c2:
 
-# translate schinese Lothar_Report_Goat_3c27e3e8:
+    # e "Got it. Thanks Lothar. I'll be back soon."
+    e "好，我去去就回。"
 
-#     # e "Lothar... I'm back from the goats."
-#     e ""
+translate schinese Lothar_Ask_Invasion_b79eb010:
 
-# translate schinese Lothar_Report_Goat_eb6c705e:
+    # e "Maybe... Later?"
+    e "我……再考虑一下？"
 
-#     # l "Oh...?"
-#     l ""
+translate schinese Lothar_Ask_Invasion_27d26753:
 
-# translate schinese Lothar_Report_Goat_2a904cc9:
+    # e "I need to think about it."
+    pass
 
-#     # l "So what did you find?" nointeract
-#     l "" nointeract
+translate schinese Lothar_Ask_Invasion_175e28ba:
 
-# translate schinese Lothar_Report_Goat_ee1aa985:
+    # l "Okay then."
+    l "行吧。"
 
-#     # e "Uhh... I think they were... looking for their guardians..."
-#     e ""
+translate schinese Lothar_Report_Goat_3c27e3e8:
 
-# translate schinese Lothar_Report_Goat_579ab600:
+    # e "Lothar... I'm back from the goats."
+    e "我从山羊部落那回来了。"
 
-#     # l "Hmm?"
-#     l ""
+translate schinese Lothar_Report_Goat_eb6c705e:
 
-# translate schinese Lothar_Report_Goat_3558d346:
+    # l "Oh...?"
+    l "噢……？"
 
-#     # e "The Golem we met, it's their Guardian that got lost somewhere."
-#     e ""
+translate schinese Lothar_Report_Goat_2a904cc9:
 
-# translate schinese Lothar_Report_Goat_8e4c10bc:
+    # l "So what did you find?" nointeract
+    l "那你都打听到什么消息了？" nointeract
 
-#     # l "Ah... Their guardian..."
-#     l ""
+translate schinese strings:
 
-# translate schinese Lothar_Report_Goat_491644e4:
+    old "Tell everything you know"
+    new "全盘托出"
 
-#     # l "Alright then."
-#     l ""
+    old "Conceal your knowledge"
+    new "糊弄过去"
 
-# translate schinese Lothar_Report_Goat_42428af5:
+translate schinese Lothar_Report_Goat_ee1aa985:
 
-#     # l "I'll have to see it for myself."
-#     l ""
+    # e "Uhh... I think they were... looking for their guardians..."
+    e "呃……他们在寻找失踪的符石护卫……"
 
-# translate schinese Lothar_Report_Goat_464e9757:
+translate schinese Lothar_Report_Goat_579ab600:
 
-#     # e "Uhm... I didn't find much."
-#     e ""
+    # l "Hmm?"
+    l "失踪的什么？"
 
-# translate schinese Lothar_Report_Goat_d80db94b:
+translate schinese Lothar_Report_Goat_3558d346:
 
-#     # l "Really?"
-#     l ""
+    # e "The Golem we met, it's their Guardian that got lost somewhere."
+    e "就是我们之前遇到的石魔像。"
 
-# translate schinese Lothar_Report_Goat_234fe019:
+translate schinese Lothar_Report_Goat_8e4c10bc:
 
-#     # e "Yeah, I just get inside and they seem pretty normal."
-#     e ""
+    # l "Ah... Their guardian..."
+    l "啊……原来就是他们在保护符石……"
 
-# translate schinese Lothar_Report_Goat_3778efe1:
+translate schinese Lothar_Report_Goat_491644e4:
 
-#     # l "Meh... Alright."
-#     l ""
+    # l "Alright then."
+    l "我知道了。"
 
-# translate schinese Lothar_Report_Goat_d4a433de:
+translate schinese Lothar_Report_Goat_42428af5:
 
-#     # e "So... that's it?"
-#     e ""
+    # l "I'll have to see it for myself."
+    l "我会亲自去看看的。"
 
-# translate schinese Lothar_Report_Goat_42055667:
+translate schinese Lothar_Report_Goat_464e9757:
 
-#     # l "I guess so."
-#     l ""
+    # e "Uhm... I didn't find much."
+    e "呃……我没发现什么特别的事情。"
 
-# translate schinese Lothar_Report_Goat_d1aa3b6b:
+translate schinese Lothar_Report_Goat_d80db94b:
 
-#     # l "If they aren't planning anything, I wouldn't be the one that attacks."
-#     l ""
+    # l "Really?"
+    l "真的吗？"
 
-# translate schinese Lothar_Report_Goat_a9516177:
+translate schinese Lothar_Report_Goat_234fe019:
 
-#     # l "Did you learn anything about your little friend?"
-#     l ""
+    # e "Yeah, I just get inside and they seem pretty normal."
+    e "真的，羊村里面看起来一切正常。"
 
-# translate schinese Lothar_Report_Goat_4221f3ab:
+translate schinese Lothar_Report_Goat_3778efe1:
 
-#     # e "I don't know..."
-#     e ""
+    # l "Meh... Alright."
+    l "哼……好吧。"
 
-# translate schinese Lothar_Report_Goat_816204f9:
+translate schinese Lothar_Report_Goat_d4a433de:
 
-#     # l "Alright."
-#     l ""
+    # e "So... that's it?"
+    e "所以……这件事算完了？"
 
-# translate schinese Lothar_Report_Goat_34b77199:
+translate schinese Lothar_Report_Goat_42055667:
 
-#     # l "I'll meet you another time then, disciple."
-#     l ""
+    # l "I guess so."
+    l "大概。"
 
-# translate schinese Lothar_Report_Goat_0b9ce1a9:
+translate schinese Lothar_Report_Goat_d1aa3b6b:
 
-#     # e "See you, Lothar."
-#     e ""
+    # l "If they aren't planning anything, I wouldn't be the one that attacks."
+    l "师出必先有名，要是他们没有动作，我也不能轻举妄动。"
+
+translate schinese Lothar_Report_Goat_a9516177:
+
+    # l "Did you learn anything about your little friend?"
+    l "你的小伙伴呢？有他的下落吗？"
+
+translate schinese Lothar_Report_Goat_4221f3ab:
+
+    # e "I don't know..."
+    e "没有……"
+
+translate schinese Lothar_Report_Goat_816204f9:
+
+    # l "Alright."
+    l "真可惜。"
+
+translate schinese Lothar_Report_Goat_34b77199:
+
+    # l "I'll meet you another time then, disciple."
+    l "那行，回头见，我的徒儿。"
+
+translate schinese Lothar_Report_Goat_0b9ce1a9:
+
+    # e "See you, Lothar."
+    e "回头见。"
 
 # translate schinese Lothar_Outfit_01_63265da8:
 
@@ -12501,445 +12528,458 @@ translate schinese strings:
 #     # l "Endurance training. For if I see that outfit one more second."
 #     l ""
 
-# translate schinese Lothar_Invasion_Quest_a00f4662:
+translate schinese Lothar_Invasion_Quest_a00f4662:
 
-#     # l "Disciple, sounds like you've been trying to meddle with the goat business a lot."
-#     l ""
+    # l "Disciple, sounds like you've been trying to meddle with the goat business a lot."
+    l "徒儿，我看你最近经常插手山羊部落的事情嘛。"
 
-# translate schinese Lothar_Invasion_Quest_bc67ac26:
+translate schinese Lothar_Invasion_Quest_bc67ac26:
 
-#     # e "Lothar. What do you mean?"
-#     e ""
+    # e "Lothar. What do you mean?"
+    e "洛萨尔。你想说什么？"
 
-# translate schinese Lothar_Invasion_Quest_0dccfd08:
+translate schinese Lothar_Invasion_Quest_0dccfd08:
 
-#     # l "There's something wrong with the goats. I can sense that they're plotting something against our village..."
-#     l ""
+    # l "There's something wrong with the goats. I can sense that they're plotting something against our village..."
+    l "那群山羊最近有些不对劲。我的直觉告诉我他们正在密谋侵略乐村……"
 
-# translate schinese Lothar_Invasion_Quest_5619019c:
+translate schinese Lothar_Invasion_Quest_5619019c:
 
-#     # l "And that goat leader. Doesn't he look a bit suspicious...?"
-#     l ""
+    # l "And that goat leader. Doesn't he look a bit suspicious...?"
+    l "还有他们的首领，你不觉得他看起来很可疑吗……？"
 
-# translate schinese Lothar_Invasion_Quest_367e8d46:
+translate schinese Lothar_Invasion_Quest_367e8d46:
 
-#     # e "Uhhh... What?"
-#     e ""
+    # e "Uhhh... What?"
+    e "呃……？"
 
-# translate schinese Lothar_Invasion_Quest_c1236433:
+translate schinese Lothar_Invasion_Quest_c1236433:
 
-#     # l "I need some information, before I decide on my action against the goats as the hero of Lusterfield."
-#     l ""
+    # l "I need some information, before I decide on my action against the goats as the hero of Lusterfield."
+    l "但在我——乐斯民菲尔德的大英雄出手对付他们之前，我需要更多情报。"
 
-# translate schinese Lothar_Invasion_Quest_ab81d4b6:
+translate schinese Lothar_Invasion_Quest_ab81d4b6:
 
-#     # l "It's best we talk about this in the alley."
-#     l ""
+    # l "It's best we talk about this in the alley."
+    l "天机不可泄露，我们去巷子里继续谈。"
 
-# translate schinese Lothar_Invasion_Quest_e53c6fed:
+translate schinese Lothar_Invasion_Quest_e53c6fed:
 
-#     # e "Alright..."
-#     e ""
+    # e "Alright..."
+    e "好吧……"
 
-# translate schinese Lothar_Invasion_Quest_2903783f:
+translate schinese Lothar_Invasion_Quest_2903783f:
 
-#     # e "So, you want me to go to the goat village?"
-#     e ""
+    # e "So, you want me to go to the goat village?"
+    e "所以，你想让我去羊村收集情报？"
 
-# translate schinese Lothar_Invasion_Quest_a1d6418a:
+translate schinese Lothar_Invasion_Quest_a1d6418a:
 
-#     # l "Yes. Don't talk too loud, disciple, the lizard might be eavesdropping somewhere..."
-#     l ""
+    # l "Yes. Don't talk too loud, disciple, the lizard might be eavesdropping somewhere..."
+    l "没错。别这么大声，徒儿，那只蜥蜴可能就在附近偷听……"
 
-# translate schinese Lothar_Invasion_Quest_9c8db1d0:
+translate schinese Lothar_Invasion_Quest_9c8db1d0:
 
-#     # e "Uhm, why me? Why don't you ask one of your friend..."
-#     e ""
+    # e "Uhm, why me? Why don't you ask one of your friend..."
+    e "呃，为什么要我去？找你其他朋友不行么……"
 
-# translate schinese Lothar_Invasion_Quest_31a8bb4f:
+translate schinese Lothar_Invasion_Quest_31a8bb4f:
 
-#     # l "Look, they already recognise most of us hero squad. But you're the courier... I think they won't try to kill you."
-#     l ""
+    # l "Look, they already recognise most of us hero squad. But you're the courier... I think they won't try to kill you."
+    l "听着，我英雄团的成员都有谁，那群山羊几乎认得一清二楚。"
+    l "但你不一样……你是新来的邮差，他们应该不会袭击你。"
 
-# translate schinese Lothar_Invasion_Quest_31157a0e:
+translate schinese Lothar_Invasion_Quest_31157a0e:
 
-#     # e "But... uhh... the goats already tried to kill me, the huntsmen."
-#     e ""
+    # e "But... uhh... the goats already tried to kill me, the huntsmen."
+    e "可是……呃……他们的猎人就袭击过我。"
 
-# translate schinese Lothar_Invasion_Quest_bb7723f2:
+translate schinese Lothar_Invasion_Quest_bb7723f2:
 
-#     # l "Uh no..."
-#     l ""
+    # l "Uh no..."
+    pass
 
-# translate schinese Lothar_Invasion_Quest_2a2feb78:
+translate schinese Lothar_Invasion_Quest_2a2feb78:
 
-#     # l "I see you and those huntsmen had a lot of fun in the forest, didn't you?"
-#     l ""
+    # l "I see you and those huntsmen had a lot of fun in the forest, didn't you?"
+    l "放心……你不是和他们在小树林玩得很开心吗？"
 
-# translate schinese Lothar_Invasion_Quest_11210b23:
+translate schinese Lothar_Invasion_Quest_11210b23:
 
-#     # l "Not necessarily trying to kill you in anyway..."
-#     l ""
+    # l "Not necessarily trying to kill you in anyway..."
+    l "他们完全没有必要杀掉你……"
 
-# translate schinese Lothar_Invasion_Quest_4ba09d77:
+translate schinese Lothar_Invasion_Quest_4ba09d77:
 
-#     # e "...How did you know?"
-#     e ""
+    # e "...How did you know?"
+    e "……你怎么知道的？"
 
-# translate schinese Lothar_Invasion_Quest_88ea027a:
+translate schinese Lothar_Invasion_Quest_88ea027a:
 
-#     # l "Plus, you owed me last time when you sided with the lion."
-#     l ""
+    # l "Plus, you owed me last time when you sided with the lion."
+    l "还有，上回你顺着笨猫，这回该顺着我了。"
 
-# translate schinese Lothar_Invasion_Quest_eaa5441d:
+translate schinese Lothar_Invasion_Quest_eaa5441d:
 
-#     # l "I just need to know what's going on, the golem hand, and the whole riverside. They're hiding some secrets..."
-#     l ""
+    # l "I just need to know what's going on, the golem hand, and the whole riverside. They're hiding some secrets..."
+    l "我必须了解清楚这群山羊在搞什么鬼——石魔像的断手，还有河边发生的事情。他们肯定隐藏着什么秘密……"
 
-# translate schinese Lothar_Invasion_Quest_d0a62b32:
+translate schinese Lothar_Invasion_Quest_d0a62b32:
 
-#     # l "And if they're planning for an attack, we need to at least be prepared."
-#     l ""
+    # l "And if they're planning for an attack, we need to at least be prepared."
+    l "要是他们真的要打仗，我们至少要先做好准备。"
 
-# translate schinese Lothar_Invasion_Quest_ad369d27:
+translate schinese Lothar_Invasion_Quest_ad369d27:
 
-#     # e "Lothar, Furkan told me he's not going for a war."
-#     e ""
+    # e "Lothar, Furkan told me he's not going for a war."
+    e "洛萨尔，弗坎和我说过他不会发动战争的。"
 
-# translate schinese Lothar_Invasion_Quest_4a0a5618:
+translate schinese Lothar_Invasion_Quest_4a0a5618:
 
-#     # l "Hey, maybe he still holds a grudge after I killed his little father."
-#     l ""
+    # l "Hey, maybe he still holds a grudge after I killed his little father."
+    l "嘿，我灭了他老爸，说不定他现在还怀恨在心。"
 
-# translate schinese Lothar_Invasion_Quest_50afd1d4:
+translate schinese Lothar_Invasion_Quest_50afd1d4:
 
-#     # e "Uhm..."
-#     e ""
+    # e "Uhm..."
+    e "呃呃呃……"
 
-# translate schinese Lothar_Invasion_Quest_20263385:
+translate schinese Lothar_Invasion_Quest_20263385:
 
-#     # l "Disciple."
-#     l ""
+    # l "Disciple."
+    l "徒儿——"
 
-# translate schinese Lothar_Invasion_Quest_9e08f8cd:
+translate schinese Lothar_Invasion_Quest_9e08f8cd:
 
-#     # l "You know I, a hero, saved you from the golem, right?"
-#     l ""
+    # l "You know I, a hero, saved you from the golem, right?"
+    l "还记得我——你的大英雄洛萨尔，从石魔像手中救你了一命吗？"
 
-# translate schinese Lothar_Invasion_Quest_aff331a0:
+translate schinese Lothar_Invasion_Quest_aff331a0:
 
-#     # l "It's time you prove yourself as a decent adventurer, you won't be the hero, of course, but an adventurer for sure."
-#     l ""
+    # l "It's time you prove yourself as a decent adventurer, you won't be the hero, of course, but an adventurer for sure."
+    if golem_lothar:
+        l "虽然你企及不到为师这种高度，但并不影响你立志成为一个合格的冒险家。现在正是你还我人情，证明自己的好机会。"
+    else:
+        l "虽然你不会成为像我这样的大英雄，但你可以成为一个合格的冒险家。现在正是你证明自己的好机会。"
 
-# translate schinese Lothar_Invasion_Quest_df6c6489:
+translate schinese Lothar_Invasion_Quest_df6c6489:
 
-#     # l "And I've heard your little buddy, Chime? He dwelled with the goats and left?"
-#     l ""
+    # l "And I've heard your little buddy, Chime? He dwelled with the goats and left?"
+    l "而且，我听说你的小伙伴——齐门？在山羊部落待过，不过又离开了。"
 
-# translate schinese Lothar_Invasion_Quest_72a33094:
+translate schinese Lothar_Invasion_Quest_72a33094:
 
-#     # e "..."
-#     e ""
+    # e "..."
+    e "……"
 
-# translate schinese Lothar_Invasion_Quest_f7b5d53d:
+translate schinese Lothar_Invasion_Quest_f7b5d53d:
 
-#     # e "What's your plan...?"
-#     e ""
+    # e "What's your plan...?"
+    e "你有什么计划……？"
 
-# translate schinese Lothar_Invasion_Quest_6fcbabd3:
+translate schinese Lothar_Invasion_Quest_6fcbabd3:
 
-#     # l "Just get near the tribe, tell them you are lost or something."
-#     l ""
+    # l "Just get near the tribe, tell them you are lost or something."
+    l "你先走到他们村子附近，告诉他们你迷路了或怎样。"
 
-# translate schinese Lothar_Invasion_Quest_a2a0ce1a:
+translate schinese Lothar_Invasion_Quest_a2a0ce1a:
 
-#     # l "And then pretend you are almost going to faint, just ask for some food, or something."
-#     l ""
+    # l "And then pretend you are almost going to faint, just ask for some food, or something."
+    l "然后假装自己快要晕倒，比如饿晕，问他们要吃的或者其他帮助。"
 
-# translate schinese Lothar_Invasion_Quest_350030fc:
+translate schinese Lothar_Invasion_Quest_350030fc:
 
-#     # e "Ehm... should I bring anything there?"
-#     e ""
+    # e "Ehm... should I bring anything there?"
+    e "呃……我要带什么东西过去吗？"
 
-# translate schinese Lothar_Invasion_Quest_fc109675:
+translate schinese Lothar_Invasion_Quest_fc109675:
 
-#     # l "Well, of course you're not bringing your food there, it wouldn't make sense actually."
-#     l ""
+    # l "Well, of course you're not bringing your food there, it wouldn't make sense actually."
+    l "你的包里当然不能有吃的，不然就露馅了。"
 
-# translate schinese Lothar_Invasion_Quest_635639be:
+translate schinese Lothar_Invasion_Quest_635639be:
 
-#     # l "Just get inside, ask around... And that'll do, ask what happened to their magical stone."
-#     l ""
+    # l "Just get inside, ask around... And that'll do, ask what happened to their magical stone."
+    l "反正想办法混进去，套取他们的情报……问问他们符石的状况。"
 
-# translate schinese Lothar_Invasion_Quest_fe8a7c39:
+translate schinese Lothar_Invasion_Quest_fe8a7c39:
 
-#     # l "Or peek into the ram's room if you can. Of course, you'll have to be sneaky enough."
-#     l ""
+    # l "Or peek into the ram's room if you can. Of course, you'll have to be sneaky enough."
+    l "最好还能潜入他们首领的房间看看，但这非常考验你的潜行能力。"
 
-# translate schinese Lothar_Invasion_Quest_c475020e:
+translate schinese Lothar_Invasion_Quest_c475020e:
 
-#     # l "But generally, a quick tour would suffic-"
-#     l ""
+    # l "But generally, a quick tour would suffic-"
+    l "总之，你快去快回转一圈就够——"
 
-# translate schinese Lothar_Invasion_Quest_bd0d91fb:
+translate schinese Lothar_Invasion_Quest_bd0d91fb:
 
-#     # "You senses a figure overshadows you and Lothar from behind, it's Ole. The wolf instantly turns away from you."
-#     ""
+    # "You senses a figure overshadows you and Lothar from behind, it's Ole. The wolf instantly turns away from you."
+    "巷口突然投来一团黑影笼罩在你俩身上——是奥利。洛萨尔立即转身面向他。"
 
-# translate schinese Lothar_Invasion_Quest_645bc351:
+translate schinese Lothar_Invasion_Quest_645bc351:
 
-#     # o "What the hell do you think you are doing, Lot."
-#     o ""
+    # o "What the hell do you think you are doing, Lot."
+    o "洛萨尔，你他妈的想干什么勾当。"
 
-# translate schinese Lothar_Invasion_Quest_4adbfc47:
+translate schinese Lothar_Invasion_Quest_4adbfc47:
 
-#     # l "Fuck... Hey, Lizard."
-#     l ""
+    # l "Fuck... Hey, Lizard."
+    l "肏……嘿，蜥蜴。"
 
-# translate schinese Lothar_Invasion_Quest_d4dba864:
+translate schinese Lothar_Invasion_Quest_d4dba864:
 
-#     # o "Lothar?"
-#     o ""
+    # o "Lothar?"
+    o "回答我的问题。"
 
-# translate schinese Lothar_Invasion_Quest_938a8651:
+translate schinese Lothar_Invasion_Quest_938a8651:
 
-#     # l "We're talking about training... advanced sword fighting skills- tactics."
-#     l ""
+    # l "We're talking about training... advanced sword fighting skills- tactics."
+    l "我们刚刚在讨论训练的事情……我准备教他更高级的剑术技巧——还有策略。"
 
-# translate schinese Lothar_Invasion_Quest_86bb6a4b:
+translate schinese Lothar_Invasion_Quest_86bb6a4b:
 
-#     # o "No. I've heard you say peek inside something... And a tour?"
-#     o ""
+    # o "No. I've heard you say peek inside something... And a tour?"
+    o "不对，我听到你说要潜入……还有什么，转一圈？"
 
-# translate schinese Lothar_Invasion_Quest_0e709bc8:
+translate schinese Lothar_Invasion_Quest_0e709bc8:
 
-#     # l "Ahem...Disciple?"
-#     l ""
+    # l "Ahem...Disciple?"
+    l "呃……乖徒儿？"
 
-# translate schinese Lothar_Invasion_Quest_546704a4:
+translate schinese Lothar_Invasion_Quest_546704a4:
 
-#     # o "What did the wolf say... [e]." nointeract
-#     o "" nointeract
+    # o "What did the wolf say... [e]." nointeract
+    o "[e]，洛萨尔说了什么……" nointeract
 
-# translate schinese Lothar_Invasion_Quest_95493788:
+translate schinese strings:
 
-#     # e "Uhm... Lothar asked me to get inside the goat tribe."
-#     e ""
+    old "Tell Ole about Lothar's plan"
+    new "坦白洛萨尔的计划"
 
-# translate schinese Lothar_Invasion_Quest_a4fd08d1:
+    old "Lie to Ole"
+    new "隐瞒刚才的对话"
 
-#     # l "No... not again."
-#     l ""
+translate schinese Lothar_Invasion_Quest_95493788:
 
-# translate schinese Lothar_Invasion_Quest_99992238:
+    # e "Uhm... Lothar asked me to get inside the goat tribe."
+    e "呃……他想让我进去山羊部落。"
 
-#     # l "Look, Ole, it's not what you think."
-#     l ""
+translate schinese Lothar_Invasion_Quest_a4fd08d1:
 
-# translate schinese Lothar_Invasion_Quest_2baea66b:
+    # l "No... not again."
+    l "你……竟然又——"
 
-#     # o "What do you mean, getting inside the goat Tribe?"
-#     o ""
+translate schinese Lothar_Invasion_Quest_99992238:
 
-# translate schinese Lothar_Invasion_Quest_9e8ef008:
+    # l "Look, Ole, it's not what you think."
+    l "事情不是你想的那样，奥利，我可以解释。"
 
-#     # o "Why would you... Lothar."
-#     o ""
+translate schinese Lothar_Invasion_Quest_2baea66b:
 
-# translate schinese Lothar_Invasion_Quest_149f4d9f:
+    # o "What do you mean, getting inside the goat Tribe?"
+    o "进去山羊部落？什么意思？"
 
-#     # o "Did you just ask [e] to do this stuff for you?"
-#     o ""
+translate schinese Lothar_Invasion_Quest_9e8ef008:
 
-# translate schinese Lothar_Invasion_Quest_f6d9aabe:
+    # o "Why would you... Lothar."
+    o "……你怎么能——洛萨尔。"
 
-#     # l "It was an offer, a consensual offer."
-#     l ""
+translate schinese Lothar_Invasion_Quest_149f4d9f:
 
-# translate schinese Lothar_Invasion_Quest_b9a69c6e:
+    # o "Did you just ask [e] to do this stuff for you?"
+    o "你刚刚是不是要求[e]替你做这么危险的事情？"
 
-#     # o "...You're lying again."
-#     o ""
+translate schinese Lothar_Invasion_Quest_f6d9aabe:
 
-# translate schinese Lothar_Invasion_Quest_ac102a3f:
+    # l "It was an offer, a consensual offer."
+    l "我只是向[e]提议，平等而友好的提议。"
 
-#     # o "Don't you ask him the same thing again... you hear me? Now go."
-#     o ""
+translate schinese Lothar_Invasion_Quest_b9a69c6e:
 
-# translate schinese Lothar_Invasion_Quest_cfcacba8:
+    # o "...You're lying again."
+    o "……你又在撒谎。"
 
-#     # l "What... I go?"
-#     l ""
+translate schinese Lothar_Invasion_Quest_ac102a3f:
 
-# translate schinese Lothar_Invasion_Quest_01d7ea3a:
+    # o "Don't you ask him the same thing again... you hear me? Now go."
+    o "听好了，以后再也不许向[e]提议这种事……明白吗？明白就给我走开。"
 
-#     # o "Go back to live out your pretend hero fantasy, Lothar. Don't make me tell you twice."
-#     o ""
+translate schinese Lothar_Invasion_Quest_cfcacba8:
 
-# translate schinese Lothar_Invasion_Quest_0ad5bfe4:
+    # l "What... I go?"
+    l "你……叫我走开？"
 
-#     # l "Huh..."
-#     l ""
+translate schinese Lothar_Invasion_Quest_01d7ea3a:
 
-# translate schinese Lothar_Invasion_Quest_6c68d9d9:
+    # o "Go back to live out your pretend hero fantasy, Lothar. Don't make me tell you twice."
+    o "我不想再说第二遍，换个地方做你自导自演的英雄梦去。"
 
-#     # o "[e]... don't listen to that wolf's bullshit excuse, he's trying to sway you into doing cheap labour for him."
-#     o ""
+translate schinese Lothar_Invasion_Quest_0ad5bfe4:
 
-# translate schinese Lothar_Invasion_Quest_ebbf17cf:
+    # l "Huh..."
+    l "哼……"
 
-#     # e "I am not sure, I wanted to ask the goats about my friend."
-#     e ""
+translate schinese Lothar_Invasion_Quest_6c68d9d9:
 
-# translate schinese Lothar_Invasion_Quest_090beca5:
+    # o "[e]... don't listen to that wolf's bullshit excuse, he's trying to sway you into doing cheap labour for him."
+    o "[e]……不要听那个孬种胡说八道，他只想拉拢你做他的廉价劳动力。"
 
-#     # o "Look, the goat tribe is too dangerous, we don't know what they'll do to you if you get too close."
-#     o ""
+translate schinese Lothar_Invasion_Quest_ebbf17cf:
 
-# translate schinese Lothar_Invasion_Quest_fc66d641:
+    # e "I am not sure, I wanted to ask the goats about my friend."
+    e "可是，我想去问山羊关于我朋友的下落。"
 
-#     # o "So, just stay, go out and do your usual stuff. I suspect Lothar will ask you the same offer again."
-#     o ""
+translate schinese Lothar_Invasion_Quest_090beca5:
 
-# translate schinese Lothar_Invasion_Quest_ee10a53b:
+    # o "Look, the goat tribe is too dangerous, we don't know what they'll do to you if you get too close."
+    o "贸然接近山羊部落太危险了，谁也说不准他们会对你做什么。"
 
-#     # o "Come on. We'll think of a much safer way for you to look for your friend."
-#     o ""
+translate schinese Lothar_Invasion_Quest_fc66d641:
 
-# translate schinese Lothar_Invasion_Quest_cd4ce2bd:
+    # o "So, just stay, go out and do your usual stuff. I suspect Lothar will ask you the same offer again."
+    o "所以你就安安分分地，去你平常去的地方，做你平常做的工作吧。我感觉洛萨尔大概又会找你谈起这件事。"
 
-#     # e "Yeah, I don't know."
-#     e ""
+translate schinese Lothar_Invasion_Quest_ee10a53b:
 
-# translate schinese Lothar_Invasion_Quest_07abc845:
+    # o "Come on. We'll think of a much safer way for you to look for your friend."
+    o "放心，我们一定能琢磨出找到你朋友的方法，比潜入羊村更安全的方法。"
 
-#     # o "..."
-#     o ""
+translate schinese Lothar_Invasion_Quest_cd4ce2bd:
 
-# translate schinese Lothar_Invasion_Quest_298503a2:
+    # e "Yeah, I don't know."
+    e "我知道，但我还是很纠结。"
 
-#     # o "Trust me, [e]. It's a road you never want to go."
-#     o ""
+translate schinese Lothar_Invasion_Quest_07abc845:
 
-# translate schinese Lothar_Invasion_Quest_c9baa047:
+    # o "..."
+    o "……"
 
-#     # e "I have to think about it."
-#     e ""
+translate schinese Lothar_Invasion_Quest_298503a2:
 
-# translate schinese Lothar_Invasion_Quest_eed3837e:
+    # o "Trust me, [e]. It's a road you never want to go."
+    o "相信我，[e]。这是一条你永远也不想踏上的不归路。"
 
-#     # o "Look, opportunity will come and you will see your friend soon, just don't take shortcut and get into Lothar's stupid hero business."
-#     o ""
+translate schinese Lothar_Invasion_Quest_c9baa047:
 
-# translate schinese Lothar_Invasion_Quest_72a33094_1:
+    # e "I have to think about it."
+    e "我一定会好好考虑的。"
 
-#     # e "..."
-#     e ""
+translate schinese Lothar_Invasion_Quest_eed3837e:
 
-# translate schinese Lothar_Invasion_Quest_5ac7bc35:
+    # o "Look, opportunity will come and you will see your friend soon, just don't take shortcut and get into Lothar's stupid hero business."
+    o "车到山前必有路，船到桥头自然直。我相信你很快就能见到你的朋友。"
+    o "我只希望你不要走那些歪门邪道贪快，不要陪洛萨尔玩弱智的英雄过家家。"
 
-#     # e "Alright, thanks again, Ole."
-#     e ""
+translate schinese Lothar_Invasion_Quest_72a33094_1:
 
-# translate schinese Lothar_Invasion_Quest_dddee161:
+    # e "..."
+    e "……"
 
-#     # o "Yeah. I'll be here."
-#     o ""
+translate schinese Lothar_Invasion_Quest_5ac7bc35:
 
-# translate schinese Lothar_Invasion_Quest_df4af617:
+    # e "Alright, thanks again, Ole."
+    e "我明白，谢谢你，奥利。"
 
-#     # e "Ole, Lothar just told me to peek inside his pants, or something."
-#     e ""
+translate schinese Lothar_Invasion_Quest_dddee161:
 
-# translate schinese Lothar_Invasion_Quest_631312d6:
+    # o "Yeah. I'll be here."
+    o "嗯，有什么事都可以来找我。"
 
-#     # e "And the tour is metaphorical, you know, enormou-"
-#     e ""
+translate schinese Lothar_Invasion_Quest_df4af617:
 
-# translate schinese Lothar_Invasion_Quest_f7c6f553:
+    # e "Ole, Lothar just told me to peek inside his pants, or something."
+    e "洛萨尔想让我潜入到他的内裤里，用手转一圈。"
 
-#     # o "Ah Fuck, [e]. Why do you have to fuck everyone in the village..."
-#     o ""
+translate schinese Lothar_Invasion_Quest_631312d6:
 
-# translate schinese Lothar_Invasion_Quest_ff634259:
+    # e "And the tour is metaphorical, you know, enormou-"
+    e "就是那个，你懂的，感受一下他的大——"
 
-#     # e "Hey, he asked me."
-#     e ""
+translate schinese Lothar_Invasion_Quest_f7c6f553:
 
-# translate schinese Lothar_Invasion_Quest_852e1d44:
+    # o "Ah Fuck, [e]. Why do you have to fuck everyone in the village..."
+    o "天啊，[e]，你非得把全村男人都勾搭上床才肯罢休吗……"
 
-#     # e "Plus, I didn't even fuck Seb... yet, I promise."
-#     e ""
+translate schinese Lothar_Invasion_Quest_ff634259:
 
-# translate schinese Lothar_Invasion_Quest_9b02e620:
+    # e "Hey, he asked me."
+    e "嘿，是洛萨尔要我摸的。"
 
-#     # l "Wait you fucked the lion?"
-#     l ""
+translate schinese Lothar_Invasion_Quest_852e1d44:
 
-# translate schinese Lothar_Invasion_Quest_257b5385:
+    # e "Plus, I didn't even fuck Seb... yet, I promise."
+    e "而且我连第一个认识的阿塞都没有上过……暂时，我发誓。"
 
-#     # o "What? Why didn't you tell me you two have been... fucking."
-#     o ""
+translate schinese Lothar_Invasion_Quest_9b02e620:
 
-# translate schinese Lothar_Invasion_Quest_4a3766e0:
+    # l "Wait you fucked the lion?"
+    l "什么，你已经和他发展到要那个的关系了？"
 
-#     # e "We're... uhh... just checking."
-#     e ""
+translate schinese Lothar_Invasion_Quest_257b5385:
 
-# translate schinese Lothar_Invasion_Quest_70b3ea66:
+    # o "What? Why didn't you tell me you two have been... fucking."
+    o "什么？我都不知道你们已经是……这种关系。"
 
-#     # o "You- Alright. I don't want to know. Don't tell me, don't make me think."
-#     o ""
+translate schinese Lothar_Invasion_Quest_4a3766e0:
 
-# translate schinese Lothar_Invasion_Quest_da6d7dee:
+    # e "We're... uhh... just checking."
+    e "我们……呃……就随便玩玩。"
 
-#     # l "Well, lizard, asked and answered."
-#     l ""
+translate schinese Lothar_Invasion_Quest_70b3ea66:
 
-# translate schinese Lothar_Invasion_Quest_3d7cb759:
+    # o "You- Alright. I don't want to know. Don't tell me, don't make me think."
+    o "你——算了，不用解释了，我不想知道，不要勾起我任何想象。"
 
-#     # o "Fuck. I gotta go."
-#     o ""
+translate schinese Lothar_Invasion_Quest_da6d7dee:
 
-# translate schinese Lothar_Invasion_Quest_50fe6e24:
+    # l "Well, lizard, asked and answered."
+    l "哼哼，要我们回答的是你，要我们住嘴的也是你。"
 
-#     # o "Have fun, you two."
-#     o ""
+translate schinese Lothar_Invasion_Quest_3d7cb759:
 
-# translate schinese Lothar_Invasion_Quest_5e7238f3:
+    # o "Fuck. I gotta go."
+    o "肏，我走，你们快活吧。"
 
-#     # l "Ahem... so, good job, disciple."
-#     l ""
+translate schinese Lothar_Invasion_Quest_50fe6e24:
 
-# translate schinese Lothar_Invasion_Quest_5799a298:
+    # o "Have fun, you two."
+    pass
 
-#     # l "Impressive almost, if we count the one time that lowly lion dared to ask you to kick me."
-#     l ""
+translate schinese Lothar_Invasion_Quest_5e7238f3:
 
-# translate schinese Lothar_Invasion_Quest_a5337e5a:
+    # l "Ahem... so, good job, disciple."
+    l "呼……干得漂亮，徒儿。"
 
-#     # e "Look, Lothar... I'm still not sure about whole getting into the goat Tribe thing..."
-#     e ""
+translate schinese Lothar_Invasion_Quest_5799a298:
 
-# translate schinese Lothar_Invasion_Quest_158ff825:
+    # l "Impressive almost, if we count the one time that lowly lion dared to ask you to kick me."
+    l "简直令为师刮目相看，上次黄毛想要踢我卵蛋也多亏有你帮我解围。"
 
-#     # e "I'll think about it, later."
-#     e ""
+translate schinese Lothar_Invasion_Quest_a5337e5a:
 
-# translate schinese Lothar_Invasion_Quest_b4800b6e:
+    # e "Look, Lothar... I'm still not sure about whole getting into the goat Tribe thing..."
+    e "洛萨尔……关于进山羊部落的事，我还有些纠结……"
 
-#     # l "Hey, disciple, it's your only chance to prove yourself."
-#     l ""
+translate schinese Lothar_Invasion_Quest_158ff825:
 
-# translate schinese Lothar_Invasion_Quest_cd3bbc9d:
+    # e "I'll think about it, later."
+    e "再给我些时间好好考虑一下。"
 
-#     # e "Alright...Lothar, you're pushing me too hard."
-#     e ""
+translate schinese Lothar_Invasion_Quest_b4800b6e:
 
-# translate schinese Lothar_Invasion_Quest_30666182:
+    # l "Hey, disciple, it's your only chance to prove yourself."
+    l "证明自己的机会就摆在你面前，机不可失失不再来，我的好徒弟。"
 
-#     # l "So, let me know if you're read-... when you're ready."
-#     l ""
+translate schinese Lothar_Invasion_Quest_cd3bbc9d:
+
+    # e "Alright...Lothar, you're pushing me too hard."
+    e "知道了……你别逼我。"
+
+translate schinese Lothar_Invasion_Quest_30666182:
+
+    # l "So, let me know if you're read-... when you're ready."
+    l "嗯，如果你想——要是你准备好出发了就和我说。"
 
 # translate schinese Lothar_Report_Amble_Jog_ecfd17f1:
 
@@ -14190,7 +14230,7 @@ translate schinese Lothar_After_River_Trip_260b94a7:
 translate schinese Lothar_After_River_Trip_fd9cfa84:
 
     # l "Yeah, and I didn't believe you would side with the lion."
-    l "那你当初怎么没想过呢。难以置信你竟然站黄毛狮子那边。"
+    l "那你当初怎么没想过呢。难以置信你竟然站黄毛那边。"
 
 translate schinese Lothar_After_River_Trip_895c452e:
 
@@ -14694,7 +14734,7 @@ translate schinese Lothar_Sebas_Kick_No_e1554201:
 translate schinese Lothar_Sebas_Kick_No_dfc4bbcd:
 
     # l "Here's the stone, lion."
-    l "帮我看看这块石头吧，黄毛狮子。"
+    l "帮我看看这块石头，黄毛。"
 
 translate schinese Lothar_Sebas_Kick_No_1dd30a8e:
 

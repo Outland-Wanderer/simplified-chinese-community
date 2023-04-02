@@ -39,3 +39,6 @@
     使用字体： Adobe Garamond Pro、Adobe Chaparral Pro、文鼎ＰＬ简中楷、文鼎ＰＬ中楷、霞鹜文楷、千图雪花体
 
     """)
+
+translate schinese python:
+    preferences.text_cps = 40

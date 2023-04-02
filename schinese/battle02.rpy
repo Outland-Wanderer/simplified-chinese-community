@@ -108,90 +108,90 @@ translate schinese Battle_Mid_Check_5eb35099:
     # "You healed [healing] HP from your attack."
     "你从刚才的攻击中回复了 [healing] 点体力。"
 
-# translate schinese Battle_Kari_1f398792:
+translate schinese Battle_Kari_1f398792:
 
-#     # "After your turn, Kari steps forward and strikes the mimic with his scepter, dealing [kari_damage] to the mimic."
-#     ""
+    # "After your turn, Kari steps forward and strikes the mimic with his scepter, dealing [kari_damage] to the mimic."
+    "待你出招后，卡里随即冲上前挥杖出击，令对方损失了 [kari_damage] 点体力。"
 
-# translate schinese Battle_Kari_06b08059:
+translate schinese Battle_Kari_06b08059:
 
-#     # k "Evil Chest, now it's the time for you to die!"
-#     k ""
+    # k "Evil Chest, now it's the time for you to die!"
+    k "孽种，受死吧！"
 
-# translate schinese Battle_Kari_af74caa2:
+translate schinese Battle_Kari_af74caa2:
 
-#     # e "H-hey... it can't hear you."
-#     e ""
+    # e "H-hey... it can't hear you."
+    e "那个……其实它听不见你在说什么。"
 
-# translate schinese Battle_Kari_188e5f4f:
+translate schinese Battle_Kari_188e5f4f:
 
-#     # "After your turn, Kari uses the power of the flowing water to heal your wound, your HP increases by [kari_healing]."
-#     ""
+    # "After your turn, Kari uses the power of the flowing water to heal your wound, your HP increases by [kari_healing]."
+    "趁这剑拔弩张的间隙，卡里汇聚周围蓝水的魔力为你治疗伤口，助你回复了 [kari_healing] 点体力。"
 
-# translate schinese Battle_Kari_e16dd3fd:
+translate schinese Battle_Kari_e16dd3fd:
 
-#     # k "Hmm... finally get to use my spell, guess it's for you, courier."
-#     k ""
+    # k "Hmm... finally get to use my spell, guess it's for you, courier."
+    k "呵……终于有机会施法了，提起精神，邮差。"
 
-# translate schinese Battle_Kari_1aa8b32d:
+translate schinese Battle_Kari_1aa8b32d:
 
-#     # e "Thanks, Kari. You've been a great help."
-#     e ""
+    # e "Thanks, Kari. You've been a great help."
+    e "帮大忙，谢啦卡里。"
 
-# translate schinese Battle_ASF_28c0b179:
+translate schinese Battle_ASF_28c0b179:
 
-#     # "You break free from the [enemy.name]'s grip."
-#     ""
+    # "You break free from the [enemy.name]'s grip."
+    "你挣脱了[enemy.name]的束缚。"
 
 # translate schinese goat_guard_battle_85602d3b:
 
 #     # "You are facing two goat warriors, they are waving their spear in arrogance, gesturing you to come closer. You hold and clench your fist."
-#     ""
+#     "山羊士兵气焰嚣张，挥舞着长矛试问你敢不敢靠近。你握紧双拳与他相视，摆好了格斗姿态。"
 
 # translate schinese goat_guard_battle_69dd20cd:
 
 #     # "You are facing two goat warriors, they are waving their spear in arrogance, gesturing you to come closer. You hold your [pc.weapon.name!t] in defence."
-#     ""
+#     "山羊士兵气焰嚣张，挥舞着长矛试问你敢不敢靠近。你手握[pc.weapon.name!t]架好了战斗姿态。"
 
-# translate schinese goat_guard_battle_d3e0f705:
+translate schinese goat_guard_battle_d3e0f705:
 
-#     # "You are facing two goat guards, they are waving their spear in arrogance, gesturing you to come closer. You hold and clench your fist."
-#     ""
+    # "You are facing two goat guards, they are waving their spear in arrogance, gesturing you to come closer. You hold and clench your fist."
+    "山羊士兵气焰嚣张，挥舞着长矛试问你敢不敢靠近。你握紧双拳与他相视，摆好了格斗姿态。"
 
-# translate schinese goat_guard_battle_a4a73ada:
+translate schinese goat_guard_battle_a4a73ada:
 
-#     # "You are facing two goat guards, they are waving their spear in arrogance, gesturing you to come closer. You hold your [pc.weapon.name!t] in defence."
-#     ""
+    # "You are facing two goat guards, they are waving their spear in arrogance, gesturing you to come closer. You hold your [pc.weapon.name!t] in defence."
+    "山羊士兵气焰嚣张，挥舞着长矛试问你敢不敢靠近。你手握[pc.weapon.name!t]架好了战斗姿态。"
 
-# translate schinese goat_guard_battle_5c7bc106:
+translate schinese goat_guard_battle_5c7bc106:
 
-#     # msg "Press the Target button to change your attack target!"
-#     msg ""
+    # msg "Press the Target button to change your attack target!"
+    msg "点击“目标”按钮切换攻击对象！"
 
 # translate schinese goat_guard_battle_loop_01724707:
 
 #     # k "W-well... I guess it was already remarkable that you made it thus far."
 #     k ""
 
-# translate schinese goat_guard_battle_loop_34d2c3e5:
+translate schinese goat_guard_battle_loop_34d2c3e5:
 
-#     # "You slash your [pc.weapon.name!t] at the arm of the goat, but he leaps back and avoid the blow by inches."
-#     ""
+    # "You slash your [pc.weapon.name!t] at the arm of the goat, but he leaps back and avoid the blow by inches."
+    "你挥动[pc.weapon.name!t]划向山羊士兵的手臂，但他往后一跳，于寸尺之外躲过了你的攻击。"
 
-# translate schinese goat_guard_battle_loop_6114fbbe:
+translate schinese goat_guard_battle_loop_6114fbbe:
 
-#     # "You slam your [pc.weapon.name!t] at the goat's head, but he leaps back and avoid the blow by inches."
-#     ""
+    # "You slam your [pc.weapon.name!t] at the goat's head, but he leaps back and avoid the blow by inches."
+    "你挥动[pc.weapon.name!t]劈向山羊士兵的头颅，但他往后一跳，于寸尺之外躲过了你的攻击。"
 
-# translate schinese goat_guard_battle_loop_363f2684:
+translate schinese goat_guard_battle_loop_363f2684:
 
-#     # "You aim and shoot your [pc.weapon.name!t] at the goat, but he leaps back and avoid the arrow by inches."
-#     ""
+    # "You aim and shoot your [pc.weapon.name!t] at the goat, but he leaps back and avoid the arrow by inches."
+    "你架设[pc.weapon.name!t]飞箭射向山羊士兵，但他往后一跳，于寸尺之外躲过了你这一箭。"
 
-# translate schinese goat_guard_battle_loop_cdd88893:
+translate schinese goat_guard_battle_loop_cdd88893:
 
-#     # "You throw your fist at the goat, but he leaps back and avoid the blow by inches."
-#     ""
+    # "You throw your fist at the goat, but he leaps back and avoid the blow by inches."
+    "你举拳奋力捶向山羊士兵，但他往后一跳，于寸尺之外躲过了你这一拳。"
 
 # translate schinese goat_guard_battle_loop_2f0365c7:
 
@@ -203,65 +203,65 @@ translate schinese Battle_Mid_Check_5eb35099:
 #     # goatguard2 "That was a bummer, go on and try again, Lusterfolk."
 #     goatguard2 ""
 
-# translate schinese goat_guard_battle_loop_8761d974:
+translate schinese goat_guard_battle_loop_8761d974:
 
-#     # goatguard "By the order of our general, I won't let you come any closer!"
-#     goatguard ""
+    # goatguard "By the order of our general, I won't let you come any closer!"
+    goatguard "奉将军之令，休想再逾越半步！"
 
-# translate schinese goat_guard_battle_loop_8f8a1381:
+translate schinese goat_guard_battle_loop_8f8a1381:
 
-#     # goatguard2 "By the order of our general, I won't let you come any closer!"
-#     goatguard2 ""
+    # goatguard2 "By the order of our general, I won't let you come any closer!"
+    goatguard2 "奉将军之令，休想再逾越半步！"
 
-# translate schinese goat_guard_battle_loop_c57f57d0:
+translate schinese goat_guard_battle_loop_c57f57d0:
 
-#     # "You slash your [pc.weapon.name!t] at the arm of the goat, your blade grazes through the goat's stomach. Drops of blood drips through his body."
-#     ""
+    # "You slash your [pc.weapon.name!t] at the arm of the goat, your blade grazes through the goat's stomach. Drops of blood drips through his body."
+    "你挥动[pc.weapon.name!t]划向山羊士兵的手臂。虽然他挡下了这一击，但还是被刀刃擦到了腹部，鲜血从伤口渗出、滴落。"
 
-# translate schinese goat_guard_battle_loop_3f05fc52:
+translate schinese goat_guard_battle_loop_3f05fc52:
 
-#     # "You slash your [pc.weapon.name!t] at the arm of the goat, knocking him on the ground. He growls at you before getting up, albeit disheveled."
-#     ""
+    # "You slash your [pc.weapon.name!t] at the arm of the goat, knocking him on the ground. He growls at you before getting up, albeit disheveled."
+    "你挥动[pc.weapon.name!t]劈向山羊士兵的手臂，将他砍倒在地。他即使蓬头垢面也不示弱，朝你发出咆哮，从地上爬了起来。"
 
-# translate schinese goat_guard_battle_loop_f0148189:
+translate schinese goat_guard_battle_loop_f0148189:
 
-#     # "You slam your [pc.weapon.name!t] at the goat's head, your blade grazes through the goat's stomach. Drops of blood drips through his body."
-#     ""
+    # "You slam your [pc.weapon.name!t] at the goat's head, your blade grazes through the goat's stomach. Drops of blood drips through his body."
+    "你舞动[pc.weapon.name!t]劈向山羊士兵的头颅。虽然他挡下了这一击，但还是被刀刃擦到了腹部，鲜血从伤口渗出、滴落。"
 
-# translate schinese goat_guard_battle_loop_b0ba93ae:
+translate schinese goat_guard_battle_loop_b0ba93ae:
 
-#     # "You slam your [pc.weapon.name!t] at the goat's head, knocking him on the ground. He growls at you before getting up, albeit disheveled."
-#     ""
+    # "You slam your [pc.weapon.name!t] at the goat's head, knocking him on the ground. He growls at you before getting up, albeit disheveled."
+    "你抡动[pc.weapon.name!t]的柄托砸向山羊士兵的头，将他击倒在地。他即使蓬头垢面也不示弱，朝你发出咆哮，从地上爬了起来。"
 
-# translate schinese goat_guard_battle_loop_4518a86c:
+translate schinese goat_guard_battle_loop_4518a86c:
 
-#     # "You aim and shoot your [pc.weapon.name!t] at the goat, the arrow hit right into his shoulder."
-#     ""
+    # "You aim and shoot your [pc.weapon.name!t] at the goat, the arrow hit right into his shoulder."
+    "你架设[pc.weapon.name!t]飞箭射向山羊士兵，这一箭正中他的肩膀。"
 
-# translate schinese goat_guard_battle_loop_94870dd3:
+translate schinese goat_guard_battle_loop_94870dd3:
 
-#     # "You run while shooting your [pc.weapon.name!t] at the goat, knocking him on the ground. He growls at you before getting up, albeit disheveled."
-#     ""
+    # "You run while shooting your [pc.weapon.name!t] at the goat, knocking him on the ground. He growls at you before getting up, albeit disheveled."
+    "你一边变换方位，一边架设[pc.weapon.name!t]飞箭射向山羊士兵。这一箭将他击倒在地，而他即使蓬头垢面也不示弱，朝你发出咆哮，从地上爬了起来。"
 
-# translate schinese goat_guard_battle_loop_edffacb3:
+translate schinese goat_guard_battle_loop_edffacb3:
 
-#     # "You throw your fist at the goat, hitting him right across his face, the sheer impact knocks him on the ground."
-#     ""
+    # "You throw your fist at the goat, hitting him right across his face, the sheer impact knocks him on the ground."
+    "你一拳挥向山羊士兵，正中脸部。巨大的冲击力使得他应声倒地。"
 
-# translate schinese goat_guard_battle_loop_e02a18ea:
+translate schinese goat_guard_battle_loop_e02a18ea:
 
-#     # "You punch into the goat's stomach, grabbing him and slam him on the ground hard."
-#     ""
+    # "You punch into the goat's stomach, grabbing him and slam him on the ground hard."
+    "你一拳挥向山羊士兵的腹部，并顺势抓住他，将他狠狠地摔在地上。"
 
-# translate schinese goat_guard_battle_loop_24bcc736:
+translate schinese goat_guard_battle_loop_24bcc736:
 
-#     # "His health decreases by [oa[4]] HP."
-#     ""
+    # "His health decreases by [oa[4]] HP."
+    "对方的体力损失了 [oa[4]] 点。"
 
-# translate schinese goat_guard_battle_loop_18302ba4:
+translate schinese goat_guard_battle_loop_18302ba4:
 
-#     # "It seems you've hit the goat critically, dealing [oa[4]] HP!"
-#     ""
+    # "It seems you've hit the goat critically, dealing [oa[4]] HP!"
+    "暴击！对方失去了 [oa[4]] 点体力！"
 
 # translate schinese goat_guard_battle_loop_697ea8f5:
 
@@ -283,45 +283,45 @@ translate schinese Battle_Mid_Check_5eb35099:
 #     # goatguard2 "Hnnnngh....that was n-nothing."
 #     goatguard2 ""
 
-# translate schinese goat_guard_battle_loop_362ddce1:
+translate schinese goat_guard_battle_loop_362ddce1:
 
-#     # goatguard "Aggghh.... W-what the... You little fur lizard intruder, I'll strike you down without mercy!"
-#     goatguard ""
+    # goatguard "Aggghh.... W-what the... You little fur lizard intruder, I'll strike you down without mercy!"
+    goatguard "啊啊啊……肏……别期望我会放过你，长毛蜥蜴！"
 
-# translate schinese goat_guard_battle_loop_bc578498:
+translate schinese goat_guard_battle_loop_bc578498:
 
-#     # goatguard2 "Grrrrr! L-lucky hit... Let me teach you how to fight properly!"
-#     goatguard2 ""
+    # goatguard2 "Grrrrr! L-lucky hit... Let me teach you how to fight properly!"
+    goatguard2 "呃啊啊啊！算、算你走运……让我教你什么才叫实打实的战斗！"
 
-# translate schinese goat_guard_battle_loop_f59a01ab:
+translate schinese goat_guard_battle_loop_f59a01ab:
 
-#     # goatguard "Ummmph.. How... I-I can't. General, we need... back-up!"
-#     goatguard ""
+    # goatguard "Ummmph.. How... I-I can't. General, we need... back-up!"
+    goatguard "呃啊……我……我撑不住了。将军，快叫增援！"
 
-# translate schinese goat_guard_battle_loop_13e2c19d:
+translate schinese goat_guard_battle_loop_13e2c19d:
 
-#     # goatguard2 "Hnnnngh....I'm going... to...pass out."
-#     goatguard2 ""
+    # goatguard2 "Hnnnngh....I'm going... to...pass out."
+    goatguard2 "哼嗯嗯嗯……我……我不行了。"
 
-# translate schinese goat_guard_battle_loop_fdf9de27:
+translate schinese goat_guard_battle_loop_fdf9de27:
 
-#     # "You turn around and rub your hand all over your own burly cheeks, feeling and brushing against your ass while you shake your hip."
-#     ""
+    # "You turn around and rub your hand all over your own burly cheeks, feeling and brushing against your ass while you shake your hip."
+    "你慢腾腾背向山羊士兵，双手盖上饱满的臀部，把玩着、抚摸着，不时左右摇摆。"
 
-# translate schinese goat_guard_battle_loop_fb834191:
+translate schinese goat_guard_battle_loop_fb834191:
 
-#     # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at the goat seductively."
-#     ""
+    # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at the goat seductively."
+    "你深情地盯着山羊士兵，伸爪轻轻爱抚自己的下体，慢慢从大腿根滑向阴囊，紧紧箍着诱人的鼓包。"
 
-# translate schinese goat_guard_battle_loop_c7da2682:
+translate schinese goat_guard_battle_loop_c7da2682:
 
-#     # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the goat while your chest bounce up and down slightly."
-#     ""
+    # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the goat while your chest bounce up and down slightly."
+    "你双手捧持鼓起的胸肌，手指在乳头周围画着圆圈。一边对着山羊士兵微笑，一边轻轻掂量自己的厚物。"
 
-# translate schinese goat_guard_battle_loop_7229a95f:
+translate schinese goat_guard_battle_loop_7229a95f:
 
-#     # "You continue your act for about a minute, but the guard doesn't even flinch."
-#     ""
+    # "You continue your act for about a minute, but the guard doesn't even flinch."
+    "你自导自演了快一分钟，但对方仍不动声色。"
 
 # translate schinese goat_guard_battle_loop_2f15fbab:
 
@@ -333,15 +333,15 @@ translate schinese Battle_Mid_Check_5eb35099:
 #     # goatguard2 "Now this is a real bummer, I should let you finish it yourself."
 #     goatguard2 ""
 
-# translate schinese goat_guard_battle_loop_6d447c00:
+translate schinese goat_guard_battle_loop_6d447c00:
 
-#     # goatguard "No... I'm not going to fall for this."
-#     goatguard ""
+    # goatguard "No... I'm not going to fall for this."
+    goatguard "可笑……你以为我会中你这招？"
 
-# translate schinese goat_guard_battle_loop_0cdfd227:
+translate schinese goat_guard_battle_loop_0cdfd227:
 
-#     # goatguard2 "I closed my eyes..."
-#     goatguard2 ""
+    # goatguard2 "I closed my eyes..."
+    goatguard2 "眼不见为净……"
 
 # translate schinese goat_guard_battle_loop_6c790980:
 
@@ -363,25 +363,25 @@ translate schinese Battle_Mid_Check_5eb35099:
 #     # goatguard2 "You are w-wasting your time. I'm n-not... I'm not... I- uhh... nooo..."
 #     goatguard2 ""
 
-# translate schinese goat_guard_battle_loop_6c790980_1:
+translate schinese goat_guard_battle_loop_6c790980_1:
 
-#     # "Within a few seconds you can already see some movements under the goat's loincloth. He doesn't say anything, except for licking his lips. His lust is increased by [player_flirt]."
-#     ""
+    # "Within a few seconds you can already see some movements under the goat's loincloth. He doesn't say anything, except for licking his lips. His lust is increased by [player_flirt]."
+    "不过几秒钟，山羊士兵的遮裆布下就有了些许动静。尽管他只是舔了舔嘴唇，什么也没说，他的性欲还是增加了 [player_flirt] 点。"
 
-# translate schinese goat_guard_battle_loop_30524ab3:
+translate schinese goat_guard_battle_loop_30524ab3:
 
-#     # goatguard "I'm not sure...what I'm seeing but I got a boner..."
-#     goatguard ""
+    # goatguard "I'm not sure...what I'm seeing but I got a boner..."
+    goatguard "什么诡计……竟然搞得我硬了……"
 
-# translate schinese goat_guard_battle_loop_02192b96_1:
+translate schinese goat_guard_battle_loop_02192b96_1:
 
-#     # "You notice the goat is floundering, trying his best not to get aroused by your seduction, but it is evident that his flushed face tells it all. His lust is increased by [player_flirt]."
-#     ""
+    # "You notice the goat is floundering, trying his best not to get aroused by your seduction, but it is evident that his flushed face tells it all. His lust is increased by [player_flirt]."
+    "山羊士兵极力抵御你的勾引，但他通红的脸颊和鼓胀的下体已经宣告了一切。他的性欲增加了 [player_flirt] 点。"
 
-# translate schinese goat_guard_battle_loop_5c9d5d6b:
+translate schinese goat_guard_battle_loop_5c9d5d6b:
 
-#     # goatguard2 "Argh...Fuck, I knew it, you're too hot for battle practice."
-#     goatguard2 ""
+    # goatguard2 "Argh...Fuck, I knew it, you're too hot for battle practice."
+    goatguard2 "哼啊……肏，我就知道不能轻视你这种尤物。"
 
 # translate schinese goat_guard_battle_loop_e389baf6:
 
@@ -403,60 +403,60 @@ translate schinese Battle_Mid_Check_5eb35099:
 #     # goatguard2 "Hnnnngh... I want to say meet me after the session but general is here..."
 #     goatguard2 ""
 
-# translate schinese goat_guard_battle_loop_e389baf6_1:
+translate schinese goat_guard_battle_loop_e389baf6_1:
 
-#     # "The goat guard is squirming in reaction to your advance. You can already hear his rapid breathing and grunting, holding his spear tightly. His lust is increased by [player_flirt]."
-#     ""
+    # "The goat guard is squirming in reaction to your advance. You can already hear his rapid breathing and grunting, holding his spear tightly. His lust is increased by [player_flirt]."
+    "山羊士兵不安地扭动着身体，将长矛握得更紧了。你听见他呼吸变得急促，还带着哼哼呻吟。对方的性欲增加了 [player_flirt] 点。"
 
-# translate schinese goat_guard_battle_loop_3302771d:
+translate schinese goat_guard_battle_loop_3302771d:
 
-#     # goatguard "N-noooo. I c-can't control... my mind. Please..."
-#     goatguard ""
+    # goatguard "N-noooo. I c-can't control... my mind. Please..."
+    goatguard "哈啊。我要控制不住了……停下……"
 
-# translate schinese goat_guard_battle_loop_31e631a3_1:
+translate schinese goat_guard_battle_loop_31e631a3_1:
 
-#     # "You can tell the guard is already playing with himself when his hand goes under his loincloth, staring at your ass intently. His lust is increased by [player_flirt]."
-#     ""
+    # "You can tell the guard is already playing with himself when his hand goes under his loincloth, staring at your ass intently. His lust is increased by [player_flirt]."
+    "山羊士兵紧盯着你肥美的臀部，将伸手套弄自己裤裆内的勃起。他的性欲增加了 [player_flirt] 点。"
 
-# translate schinese goat_guard_battle_loop_03761556:
+translate schinese goat_guard_battle_loop_03761556:
 
-#     # goatguard2 "Hnnnngh... I n-need to... come."
-#     goatguard2 ""
+    # goatguard2 "Hnnnngh... I n-need to... come."
+    goatguard2 "嗯啊啊啊……好想射……"
 
 # translate schinese goat_guard_battle_loop_d4aa607a:
 
 #     # "You tries to escape from the situation, but the warriors doesn't let you go..."
 #     ""
 
-# translate schinese goat_guard_battle_loop_1e19c0fe:
+translate schinese goat_guard_battle_loop_1e19c0fe:
 
-#     # "You tries to escape from the situation, but the guards doesn't let you go..."
-#     ""
+    # "You tries to escape from the situation, but the guards doesn't let you go..."
+    "你想逃离这敌众我寡的战局，但士兵们堵住了你的去路……"
 
 # translate schinese goat_guard_battle_loop_01724707_1:
 
 #     # k "W-well... I guess it was already remarkable that you made it thus far."
 #     k ""
 
-# translate schinese goat_guard_battle_loop_90c1f545:
+translate schinese goat_guard_battle_loop_90c1f545:
 
-#     # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the guards."
-#     ""
+    # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the guards."
+    "你耗尽了所有气力，双膝一软跪倒在地。你躺在地上大口喘息，宣告投降。"
 
-# translate schinese goat_guard_battle_loop_58d25237:
+translate schinese goat_guard_battle_loop_58d25237:
 
-#     # goatguard "Ha... We got him... General. He didn't even have the courage to fight us."
-#     goatguard ""
+    # goatguard "Ha... We got him... General. He didn't even have the courage to fight us."
+    goatguard "哈……我们抓到他了……将军。他甚至不敢抵抗。"
 
-# translate schinese goat_guard_battle_loop_d9b22e54:
+translate schinese goat_guard_battle_loop_d9b22e54:
 
-#     # "The general looks you up and down while the guards sits besides you. Thinking carefully about his next step..."
-#     ""
+    # "The general looks you up and down while the guards sits besides you. Thinking carefully about his next step..."
+    "山羊士兵围坐在你身边，蒙面将军则仔细打量着你，思考着接下来要拿你怎么办……"
 
-# translate schinese goat_guard_battle_loop_d9cbf4f7:
+translate schinese goat_guard_battle_loop_d9cbf4f7:
 
-#     # "As the battle ends, you can see both guards falls unconscious, they're still breathing... luckily."
-#     ""
+    # "As the battle ends, you can see both guards falls unconscious, they're still breathing... luckily."
+    "战斗结束，两个山羊士兵双双不省人事，但他们还算幸运……保住了性命。"
 
 # translate schinese goat_guard_battle_loop_b023ddfd:
 
@@ -473,1140 +473,1140 @@ translate schinese Battle_Mid_Check_5eb35099:
 #     # k "He is agile and can dodge a lot of attacks, probably will give you more of a hard time."
 #     k ""
 
-# translate schinese goat_guard_battle_loop_c85dd39f:
+translate schinese goat_guard_battle_loop_c85dd39f:
 
-#     # gg "Useless guards..."
-#     gg ""
+    # gg "Useless guards..."
+    gg "没用的家伙……"
 
-# translate schinese goat_guard_battle_loop_c20265d4:
+translate schinese goat_guard_battle_loop_c20265d4:
 
-#     # gg "It's you and me now, courier."
-#     gg ""
+    # gg "It's you and me now, courier."
+    gg "轮到你和我的对决了，邮差。"
 
-# translate schinese goat_guard_battle_loop_ce14cfb6:
+translate schinese goat_guard_battle_loop_ce14cfb6:
 
-#     # e "We... don't have to fight... General. We can find Furkan together..."
-#     e ""
+    # e "We... don't have to fight... General. We can find Furkan together..."
+    e "等等——我们可以一起找到弗坎，用不着非得拼个你死我活……"
 
-# translate schinese goat_guard_battle_loop_b5c5c350:
+translate schinese goat_guard_battle_loop_b5c5c350:
 
-#     # gg "N-no... nooo.. I can't..."
-#     gg ""
+    # gg "N-no... nooo.. I can't..."
+    gg "不……不行……"
 
-# translate schinese goat_guard_battle_loop_563d9ca6:
+translate schinese goat_guard_battle_loop_563d9ca6:
 
-#     # e "Do you not want to find him?"
-#     e ""
+    # e "Do you not want to find him?"
+    e "难道你不想找到他吗？"
 
-# translate schinese goat_guard_battle_loop_5d9934a4:
+translate schinese goat_guard_battle_loop_5d9934a4:
 
-#     # gg "You don't even know who you're talking to."
-#     gg ""
+    # gg "You don't even know who you're talking to."
+    gg "放肆，你连我是谁都不知道。"
 
-# translate schinese goat_guard_battle_loop_a5df473c:
+translate schinese goat_guard_battle_loop_a5df473c:
 
-#     # e "You... can introduce yourself."
-#     e ""
+    # e "You... can introduce yourself."
+    e "你……你可以先自我介绍嘛。"
 
-# translate schinese goat_guard_battle_loop_752b8262:
+translate schinese goat_guard_battle_loop_752b8262:
 
-#     # gg "..."
-#     gg ""
+    # gg "..."
+    gg "……"
 
-# translate schinese goat_guard_battle_loop_7f962afd:
+translate schinese goat_guard_battle_loop_7f962afd:
 
-#     # gg "Shut up and fight me now!!"
-#     gg ""
+    # gg "Shut up and fight me now!!"
+    gg "闭嘴，来之则战！！"
 
-# translate schinese goat_guard_battle_loop_e77564d2:
+translate schinese goat_guard_battle_loop_e77564d2:
 
-#     # "The General is extremely angry at you... you still don't understand his wrath but it seems you have no choice but to raise your weapon..."
-#     ""
+    # "The General is extremely angry at you... you still don't understand his wrath but it seems you have no choice but to raise your weapon..."
+    "你注视着羊族将军怒不可遏的样子……不知道自己到底哪里招惹他了，你没有选择，只能举起你的武器……"
 
-# translate schinese goat_guard_battle_loop_b8cdc3c8:
+translate schinese goat_guard_battle_loop_b8cdc3c8:
 
-#     # "The Guard slumps on the ground from exhaustion."
-#     ""
+    # "The Guard slumps on the ground from exhaustion."
+    "其中一个卫兵累倒在地。"
 
-# translate schinese goat_guard_battle_loop_b66bb6b3:
+translate schinese goat_guard_battle_loop_b66bb6b3:
 
-#     # goatguard "G-general... I... I-I think I'm going to p-pass out..."
-#     goatguard ""
+    # goatguard "G-general... I... I-I think I'm going to p-pass out..."
+    goatguard "将军……我……我撑不住了……"
 
-# translate schinese goat_guard_battle_loop_505e7236:
+translate schinese goat_guard_battle_loop_505e7236:
 
-#     # "The othar Guard slumps on the ground from exhaustion."
-#     ""
+    # "The othar Guard slumps on the ground from exhaustion."
+    "另一个卫兵相继累倒。"
 
-# translate schinese goat_guard_battle_loop_6fc18177:
+translate schinese goat_guard_battle_loop_6fc18177:
 
-#     # goatguard "Sorry... I... I can't take him... G-general."
-#     goatguard ""
+    # goatguard "Sorry... I... I can't take him... G-general."
+    goatguard "对不起，将军……我……我实在没力气了。"
 
-# translate schinese goat_guard_battle_loop_7af3bcae:
+translate schinese goat_guard_battle_loop_7af3bcae:
 
-#     # "The goat guard swings his spear towards you, you are not quick enough to dodge his blow. Your health decreases by [enemy_damage] HP."
-#     ""
+    # "The goat guard swings his spear towards you, you are not quick enough to dodge his blow. Your health decreases by [enemy_damage] HP."
+    "山羊士兵挥矛刺向你，你来不及躲闪挨了他一枪。你损失了 [enemy_damage] 点体力。"
 
-# translate schinese goat_guard_battle_loop_43de825b:
+translate schinese goat_guard_battle_loop_43de825b:
 
-#     # "The goat charges at you, hitting you with a kick to the chest. Your health decreases by [enemy_damage] HP."
-#     ""
+    # "The goat charges at you, hitting you with a kick to the chest. Your health decreases by [enemy_damage] HP."
+    "山羊士兵冲向你，给你胸膛一记飞踢。你损失了 [enemy_damage] 点体力。"
 
-# translate schinese goat_guard_battle_loop_bbad9b53:
+translate schinese goat_guard_battle_loop_bbad9b53:
 
-#     # "The goat guard swings his spear towards you, you managed to deflect his spear and dodge the attack."
-#     ""
+    # "The goat guard swings his spear towards you, you managed to deflect his spear and dodge the attack."
+    "山羊士兵挥矛刺向你，而你成功挡住他这一枪，闪到了旁边。"
 
-# translate schinese goat_guard_battle_loop_38bb1c99:
+translate schinese goat_guard_battle_loop_38bb1c99:
 
-#     # "The goat charges at you, trying to kick at your chest but you block the blow and push him back."
-#     ""
+    # "The goat charges at you, trying to kick at your chest but you block the blow and push him back."
+    "山羊士兵冲向你，给你胸膛一记飞踢。好在你及时锁住了他的脚，再发力给他送了回去。"
 
-# translate schinese goat_guard_battle_loop_4a801cc0:
+translate schinese goat_guard_battle_loop_4a801cc0:
 
-#     # "The goat scratches at his loincloth, he put two of his fingers across his crotch, tracing the shape of his cock in front of you."
-#     ""
+    # "The goat scratches at his loincloth, he put two of his fingers across his crotch, tracing the shape of his cock in front of you."
+    "山羊士兵扯了扯遮裆布，两根手指骑上小腹前的突起，透过布料勾勒出阳具的形状。"
 
 # translate schinese goat_guard_battle_loop_a882aa33:
 
 #     # goatguard "You thristy? Surrender to our general and maybe you'll have the best time of your life."
-#     goatguard ""
+#     goatguard "想尝尝吗？只要你现在投降，我们兴许会让你体验这一生最美好的感觉。"
 
-# translate schinese goat_guard_battle_loop_e67ad9d2:
+translate schinese goat_guard_battle_loop_e67ad9d2:
 
-#     # goatguard "Well, come and get some of this."
-#     goatguard ""
+    # goatguard "Well, come and get some of this."
+    goatguard "不来尝尝看吗，哼？"
 
-# translate schinese goat_guard_battle_loop_7f93d5f0:
+translate schinese goat_guard_battle_loop_7f93d5f0:
 
-#     # "You gulp at his attempt at seduction."
-#     ""
+    # "You gulp at his attempt at seduction."
+    "你咽了咽口水，无可否认他的提议诱人极了。你不禁开始幻想他的鸡巴会是什么味道。性欲随之增加了 [enemy_flirt] 点。"
 
-# translate schinese goat_guard_battle_loop_8be1349f:
+translate schinese goat_guard_battle_loop_8be1349f:
 
-#     # "Admittedly you are extremely aroused, drooling at the thought of how his cock would taste like."
-#     ""
+    # "Admittedly you are extremely aroused, drooling at the thought of how his cock would taste like."
+    pass
 
-# translate schinese goat_guard_battle_loop_45a9fad8:
+translate schinese goat_guard_battle_loop_45a9fad8:
 
-#     # "Your lust increased by [enemy_flirt]."
-#     ""
+    # "Your lust increased by [enemy_flirt]."
+    pass
 
-# translate schinese goat_guard_battle_loop_ae5d2f04:
+translate schinese goat_guard_battle_loop_ae5d2f04:
 
-#     # "The guard stretches his body, flaunting his muscular physiques, you can tell his soft chest is almost bulging in front of you."
-#     ""
+    # "The guard stretches his body, flaunting his muscular physiques, you can tell his soft chest is almost bulging in front of you."
+    "山羊士兵伸展四肢，炫耀着自己傲人的体格。他故意隆起那柔软的胸肌，想要霸占你的视线。"
 
 # translate schinese goat_guard_battle_loop_9ca75501:
 
 #     # goatguard "You see how strong of a specimen I am. Come closer to get a better look!"
-#     goatguard ""
+#     goatguard "看到我有多强壮了吗，不妨再走近些看个够！"
 
-# translate schinese goat_guard_battle_loop_f5195904:
+translate schinese goat_guard_battle_loop_f5195904:
 
-#     # goatguard "See? This is what I'm talking about, we won a lot of battle with this down here."
-#     goatguard ""
+    # goatguard "See? This is what I'm talking about, we won a lot of battle with this down here."
+    goatguard "怎么样？继续往下看，我们这里的大钢炮可把不少敌人都干得服服帖帖过。"
 
-# translate schinese goat_guard_battle_loop_21bad776:
+translate schinese goat_guard_battle_loop_21bad776:
 
-#     # "You are stunned by his gorgeous muscles, you mind wanders through scenarios of him being inside your body. Your lust increased by [enemy_flirt]."
-#     ""
+    # "You are stunned by his gorgeous muscles, you mind wanders through scenarios of him being inside your body. Your lust increased by [enemy_flirt]."
+    "山羊士兵壮硕的肌肉令你痴迷，你想象着他猛烈耕耘自己的模样。性欲随之增加了 [enemy_flirt] 点。"
 
-# translate schinese goat_guard_battle_loop_4a801cc0_1:
+translate schinese goat_guard_battle_loop_4a801cc0_1:
 
-#     # "The goat scratches at his loincloth, he put two of his fingers across his crotch, tracing the shape of his cock in front of you."
-#     ""
+    # "The goat scratches at his loincloth, he put two of his fingers across his crotch, tracing the shape of his cock in front of you."
+    "山羊士兵扯了扯遮裆布，两根手指骑上小腹前的突起，透过布料勾勒出阳具的形状。"
 
 # translate schinese goat_guard_battle_loop_a882aa33_1:
 
 #     # goatguard "You thristy? Surrender to our general and maybe you'll have the best time of your life."
-#     goatguard ""
+#     goatguard "想尝尝吗？只要你现在投降，我们兴许会让你体验这一生最美好的感觉。"
 
-# translate schinese goat_guard_battle_loop_e67ad9d2_1:
+translate schinese goat_guard_battle_loop_e67ad9d2_1:
 
-#     # goatguard "Well, come and get some of this."
-#     goatguard ""
+    # goatguard "Well, come and get some of this."
+    goatguard "不来尝尝看吗，哼？"
 
-# translate schinese goat_guard_battle_loop_017c663f:
+translate schinese goat_guard_battle_loop_017c663f:
 
-#     # "You stare at him, giving him weird side eyes. You have evaded his attempt at seduction. And the goat seems to feel a little dejected."
-#     ""
+    # "You stare at him, giving him weird side eyes. You have evaded his attempt at seduction. And the goat seems to feel a little dejected."
+    "他这招对你不管用。你盯着山羊士兵，给了他个轻蔑的眼神。后者看起来有点失望。"
 
-# translate schinese goat_guard_battle_loop_ae5d2f04_1:
+translate schinese goat_guard_battle_loop_ae5d2f04_1:
 
-#     # "The guard stretches his body, flaunting his muscular physiques, you can tell his soft chest is almost bulging in front of you."
-#     ""
+    # "The guard stretches his body, flaunting his muscular physiques, you can tell his soft chest is almost bulging in front of you."
+    "山羊士兵伸展四肢，炫耀着自己傲人的体格。他故意隆起那柔软的胸肌，想要霸占你的视线。"
 
 # translate schinese goat_guard_battle_loop_9ca75501_1:
 
 #     # goatguard "You see how strong of a specimen I am. Come closer to get a better look!"
-#     goatguard ""
+#     goatguard "看到我有多强壮了吗，不妨再走近些看个够！"
 
-# translate schinese goat_guard_battle_loop_f5195904_1:
+translate schinese goat_guard_battle_loop_f5195904_1:
 
-#     # goatguard "See? This is what I'm talking about, we won a lot of battle with this down here."
-#     goatguard ""
+    # goatguard "See? This is what I'm talking about, we won a lot of battle with this down here."
+    goatguard "怎么样？继续往下看，我们这里的大钢炮可把不少敌人都干得服服帖帖过。"
 
-# translate schinese goat_guard_battle_loop_969a6d77:
+translate schinese goat_guard_battle_loop_969a6d77:
 
-#     # "His attack at your lust seems to have failed as you stand there and wait for him to finish his taunt. Both of you would never speak about it again."
-#     ""
+    # "His attack at your lust seems to have failed as you stand there and wait for him to finish his taunt. Both of you would never speak about it again."
+    "山羊士兵的勾引显然对你不起作用。你站在原地，等待他独自演完这场戏。你们绝不会再提起这么尴尬的场面。"
 
-# translate schinese goat_guard_battle_loop_9df6c842:
+translate schinese goat_guard_battle_loop_9df6c842:
 
-#     # "The second goat guard swings his spear towards you, you are not quick enough to dodge his blow. Your health decreases by [enemy_damage] HP."
-#     ""
+    # "The second goat guard swings his spear towards you, you are not quick enough to dodge his blow. Your health decreases by [enemy_damage] HP."
+    "另一个山羊士兵挥矛刺向你，你来不及躲闪挨了他一枪。你损失了 [enemy_damage] 点体力。"
 
-# translate schinese goat_guard_battle_loop_96c66f8a:
+translate schinese goat_guard_battle_loop_96c66f8a:
 
-#     # "The second goat charges at you, hitting you with a kick to the chest. Your health decreases by [enemy_damage] HP."
-#     ""
+    # "The second goat charges at you, hitting you with a kick to the chest. Your health decreases by [enemy_damage] HP."
+    "另一个山羊士兵冲向你，给你胸膛一记飞踢。你损失了 [enemy_damage] 点体力。"
 
-# translate schinese goat_guard_battle_loop_ebe6c349:
+translate schinese goat_guard_battle_loop_ebe6c349:
 
-#     # "The second goat guard swings his spear towards you, you managed to deflect his spear and dodge the attack."
-#     ""
+    # "The second goat guard swings his spear towards you, you managed to deflect his spear and dodge the attack."
+    "另一个山羊士兵挥矛刺向你，而你成功挡住他这一枪，闪到了旁边。"
 
-# translate schinese goat_guard_battle_loop_fa424f8a:
+translate schinese goat_guard_battle_loop_fa424f8a:
 
-#     # "The second goat charges at you, trying to kick at your chest but you block the blow and push him back."
-#     ""
+    # "The second goat charges at you, trying to kick at your chest but you block the blow and push him back."
+    "另一个山羊士兵冲向你，给你胸膛一记飞踢。好在你及时锁住了他的脚，再发力给他送了回去。"
 
-# translate schinese goat_guard_battle_loop_99a4ba86:
+translate schinese goat_guard_battle_loop_99a4ba86:
 
-#     # "While you are calculating your next move, you fall into his trap, your dodges are now reduced by half for 3 rounds."
-#     ""
+    # "While you are calculating your next move, you fall into his trap, your dodges are now reduced by half for 3 rounds."
+    "你边思考着接下来的行动，边与山羊士兵周旋，却不巧踩中了他的陷阱。令你的闪避能力降低了一半，持续 3 回合。"
 
-# translate schinese goat_guard_battle_loop_adabcc96:
+translate schinese goat_guard_battle_loop_adabcc96:
 
-#     # "The second goat scratches at his loincloth, he put two of his fingers across his crotch, tracing the shape of his cock in front of you."
-#     ""
+    # "The second goat scratches at his loincloth, he put two of his fingers across his crotch, tracing the shape of his cock in front of you."
+    "另一个山羊士兵扯了扯遮裆布，两根手指骑上小腹前的突起，透过布料勾勒出阳具的形状。"
 
 # translate schinese goat_guard_battle_loop_39060b0b:
 
 #     # goatguard2 "You thristy? Surrender to our general and maybe you'll have the best time of your life."
-#     goatguard2 ""
+#     goatguard2 "想尝尝吗？只要你现在投降，我们兴许会让你体验这一生最美好的感觉。"
 
-# translate schinese goat_guard_battle_loop_b3825bb5:
+translate schinese goat_guard_battle_loop_b3825bb5:
 
-#     # goatguard2 "Well, come and get some of this."
-#     goatguard2 ""
+    # goatguard2 "Well, come and get some of this."
+    goatguard2 "不来尝尝看吗，哼？"
 
-# translate schinese goat_guard_battle_loop_71755195:
+translate schinese goat_guard_battle_loop_71755195:
 
-#     # "You gulp at his attempt at seduction. Admittedly you are extremely aroused, thinking about how his cock would taste like. Your lust increased by [enemy_flirt]."
-#     ""
+    # "You gulp at his attempt at seduction. Admittedly you are extremely aroused, thinking about how his cock would taste like. Your lust increased by [enemy_flirt]."
+    "你咽了咽口水，无可否认他的提议诱人极了。你不禁开始幻想他的鸡巴会是什么味道。性欲随之增加了 [enemy_flirt] 点。"
 
-# translate schinese goat_guard_battle_loop_241c2a06:
+translate schinese goat_guard_battle_loop_241c2a06:
 
-#     # "The second guard stretches his body, flaunting his muscular physiques, you can tell his soft chest is almost bulging in front of you."
-#     ""
+    # "The second guard stretches his body, flaunting his muscular physiques, you can tell his soft chest is almost bulging in front of you."
+    "另一个山羊士兵伸展四肢，炫耀着自己傲人的体格。他故意隆起那柔软的胸肌，想要霸占你的视线。"
 
 # translate schinese goat_guard_battle_loop_6a5c8cd4:
 
 #     # goatguard2 "You see how strong of a specimen I am. Come closer to get a better look!"
 #     goatguard2 ""
 
-# translate schinese goat_guard_battle_loop_c86ce829:
+translate schinese goat_guard_battle_loop_c86ce829:
 
-#     # goatguard2 "See? This is what I'm talking about, we won a lot of battle with this down here."
-#     goatguard2 ""
+    # goatguard2 "See? This is what I'm talking about, we won a lot of battle with this down here."
+    goatguard2 "怎么样？继续往下看，我们这里的大钢炮可把不少敌人都干得服服帖帖过。"
 
-# translate schinese goat_guard_battle_loop_21bad776_1:
+translate schinese goat_guard_battle_loop_21bad776_1:
 
-#     # "You are stunned by his gorgeous muscles, you mind wanders through scenarios of him being inside your body. Your lust increased by [enemy_flirt]."
-#     ""
+    # "You are stunned by his gorgeous muscles, you mind wanders through scenarios of him being inside your body. Your lust increased by [enemy_flirt]."
+    "山羊士兵壮硕的肌肉令你痴迷，你想象着他猛烈耕耘自己的模样。性欲随之增加了 [enemy_flirt] 点。"
 
-# translate schinese goat_guard_battle_loop_adabcc96_1:
+translate schinese goat_guard_battle_loop_adabcc96_1:
 
-#     # "The second goat scratches at his loincloth, he put two of his fingers across his crotch, tracing the shape of his cock in front of you."
-#     ""
+    # "The second goat scratches at his loincloth, he put two of his fingers across his crotch, tracing the shape of his cock in front of you."
+    "另一个山羊士兵扯了扯遮裆布，两根手指骑上小腹前的突起，透过布料勾勒出阳具的形状。"
 
 # translate schinese goat_guard_battle_loop_39060b0b_1:
 
 #     # goatguard2 "You thristy? Surrender to our general and maybe you'll have the best time of your life."
-#     goatguard2 ""
+#     goatguard2 "想尝尝吗？只要你现在投降，我们兴许会让你体验这一生最美好的感觉。"
 
-# translate schinese goat_guard_battle_loop_b3825bb5_1:
+translate schinese goat_guard_battle_loop_b3825bb5_1:
 
-#     # goatguard2 "Well, come and get some of this."
-#     goatguard2 ""
+    # goatguard2 "Well, come and get some of this."
+    goatguard2 "不来尝尝看吗，哼？"
 
-# translate schinese goat_guard_battle_loop_017c663f_1:
+translate schinese goat_guard_battle_loop_017c663f_1:
 
-#     # "You stare at him, giving him weird side eyes. You have evaded his attempt at seduction. And the goat seems to feel a little dejected."
-#     ""
+    # "You stare at him, giving him weird side eyes. You have evaded his attempt at seduction. And the goat seems to feel a little dejected."
+    "他这招对你不管用。你盯着山羊士兵，给了他个轻蔑的眼神。后者看起来有点失望。"
 
-# translate schinese goat_guard_battle_loop_241c2a06_1:
+translate schinese goat_guard_battle_loop_241c2a06_1:
 
-#     # "The second guard stretches his body, flaunting his muscular physiques, you can tell his soft chest is almost bulging in front of you."
-#     ""
+    # "The second guard stretches his body, flaunting his muscular physiques, you can tell his soft chest is almost bulging in front of you."
+    "另一个山羊士兵伸展四肢，炫耀着自己傲人的体格。他故意隆起那柔软的胸肌，想要霸占你的视线。"
 
 # translate schinese goat_guard_battle_loop_6a5c8cd4_1:
 
 #     # goatguard2 "You see how strong of a specimen I am. Come closer to get a better look!"
-#     goatguard2 ""
+#     goatguard2 "看到我有多强壮了吗，不妨再走近些看个够！"
 
-# translate schinese goat_guard_battle_loop_c86ce829_1:
+translate schinese goat_guard_battle_loop_c86ce829_1:
 
-#     # goatguard2 "See? This is what I'm talking about, we won a lot of battle with this down here."
-#     goatguard2 ""
+    # goatguard2 "See? This is what I'm talking about, we won a lot of battle with this down here."
+    goatguard2 "怎么样？继续往下看，我们这里的大钢炮可把不少敌人都干得服服帖帖过。"
 
-# translate schinese goat_guard_battle_loop_969a6d77_1:
+translate schinese goat_guard_battle_loop_969a6d77_1:
 
-#     # "His attack at your lust seems to have failed as you stand there and wait for him to finish his taunt. Both of you would never speak about it again."
-#     ""
+    # "His attack at your lust seems to have failed as you stand there and wait for him to finish his taunt. Both of you would never speak about it again."
+    "山羊士兵的勾引显然对你不起作用。你站在原地，等待他独自演完这场戏。你们绝不会再提起这么尴尬的场面。"
 
-# translate schinese goat_general_battle_828f5742:
+translate schinese goat_general_battle_828f5742:
 
-#     # "You are facing the General of the Goat Tribe, luckily he seems to be weakened without his magic in the scepter. You hold and clench your fist."
-#     ""
+    # "You are facing the General of the Goat Tribe, luckily he seems to be weakened without his magic in the scepter. You hold and clench your fist."
+    "将军杀气十足，但幸好他权杖中的魔力已经空了，所以他的力量应该被削弱了不少。你握紧双拳摆好了格斗姿态。"
 
-# translate schinese goat_general_battle_58680fd1:
+translate schinese goat_general_battle_58680fd1:
 
-#     # "You are facing the General of the Goat Tribe, luckily he seems to be weakened without his magic in the scepter. You hold your [pc.weapon.name!t] in defence."
-#     ""
+    # "You are facing the General of the Goat Tribe, luckily he seems to be weakened without his magic in the scepter. You hold your [pc.weapon.name!t] in defence."
+    "将军杀气十足，但幸好他权杖中的魔力已经空了，所以他的力量应该被削弱了不少。你手握[pc.weapon.name!t]架好了战斗姿态。"
 
-# translate schinese goat_general_battle_loop_f5212b33:
+translate schinese goat_general_battle_loop_f5212b33:
 
-#     # "You slash your [pc.weapon.name!t] at the arm of the general, but he leaps back and avoid the blow by inches."
-#     ""
+    # "You slash your [pc.weapon.name!t] at the arm of the general, but he leaps back and avoid the blow by inches."
+    "你挥动[pc.weapon.name!t]划向羊族将军的手臂，但他往后一跳，于寸尺之外躲过了你的攻击。"
 
-# translate schinese goat_general_battle_loop_a6080ef8:
+translate schinese goat_general_battle_loop_a6080ef8:
 
-#     # "You slam your [pc.weapon.name!t] at the general's head, but he leaps back and avoid the blow by inches."
-#     ""
+    # "You slam your [pc.weapon.name!t] at the general's head, but he leaps back and avoid the blow by inches."
+    "你舞动[pc.weapon.name!t]劈向羊族将军的头颅，但他往后一跳，于寸尺之外躲过了你的攻击。"
 
-# translate schinese goat_general_battle_loop_f03ea2d9:
+translate schinese goat_general_battle_loop_f03ea2d9:
 
-#     # "You aim and shoot your [pc.weapon.name!t] at the general, but he leaps back and avoid the arrow by inches."
-#     ""
+    # "You aim and shoot your [pc.weapon.name!t] at the general, but he leaps back and avoid the arrow by inches."
+    "你架设[pc.weapon.name!t]飞箭射向羊族将军，但他往后一跳，于寸尺之外躲过了你这一箭。"
 
-# translate schinese goat_general_battle_loop_66552cc3:
+translate schinese goat_general_battle_loop_66552cc3:
 
-#     # "You throw your fist at the general, but he leaps back and avoid the blow by inches."
-#     ""
+    # "You throw your fist at the general, but he leaps back and avoid the blow by inches."
+    "你举拳奋力捶向羊族将军，但他往后一跳，于寸尺之外躲过了你这一拳。"
 
-# translate schinese goat_general_battle_loop_9ea31955:
+translate schinese goat_general_battle_loop_9ea31955:
 
-#     # gg "Give up now, and you may live. Dare to battle me... and you die!"
-#     gg ""
+    # gg "Give up now, and you may live. Dare to battle me... and you die!"
+    gg "立马投降！顺我者昌……逆我者亡！"
 
-# translate schinese goat_general_battle_loop_ffdba7d8:
+translate schinese goat_general_battle_loop_ffdba7d8:
 
-#     # "You slam your [pc.weapon.name!t] at the General's head, your blade grazes through the General's stomach. Drops of blood drips through his body. "
-#     ""
+    # "You slam your [pc.weapon.name!t] at the General's head, your blade grazes through the General's stomach. Drops of blood drips through his body. "
+    "你舞动[pc.weapon.name!t]劈向羊族将军的头颅。虽然他挡下了这一击，但还是被刀刃擦到了腹部，鲜血从伤口渗出、滴落。"
 
-# translate schinese goat_general_battle_loop_b8532161:
+translate schinese goat_general_battle_loop_b8532161:
 
-#     # "You slam your [pc.weapon.name!t] at the General's head, knocking him on the ground. He growls at you before getting up, albeit disheveled."
-#     ""
+    # "You slam your [pc.weapon.name!t] at the General's head, knocking him on the ground. He growls at you before getting up, albeit disheveled."
+    "你挥动[pc.weapon.name!t]砍向羊族将军的头颅，将他击倒在地。他即使蓬头垢面也不示弱，朝你发出咆哮，从地上爬了起来。"
 
-# translate schinese goat_general_battle_loop_b1f2b86b:
+translate schinese goat_general_battle_loop_b1f2b86b:
 
-#     # "You aim and shoot your [pc.weapon.name!t] at the General, the arrow hit right into his shoulder."
-#     ""
+    # "You aim and shoot your [pc.weapon.name!t] at the General, the arrow hit right into his shoulder."
+    "你架设[pc.weapon.name!t]飞箭射向羊族将军，这一箭正中他的肩膀。"
 
-# translate schinese goat_general_battle_loop_9d5d70ed:
+translate schinese goat_general_battle_loop_9d5d70ed:
 
-#     # "You run while shooting your [pc.weapon.name!t] at the General, knocking him on the ground.He growls at you before getting up, albeit disheveled."
-#     ""
+    # "You run while shooting your [pc.weapon.name!t] at the General, knocking him on the ground.He growls at you before getting up, albeit disheveled."
+    "你一边变换方位，一边架设[pc.weapon.name!t]飞箭射向羊族将军。这一箭将他击倒在地，而他即使蓬头垢面也不示弱，朝你发出咆哮，从地上爬了起来。"
 
-# translate schinese goat_general_battle_loop_04ca2b6f:
+translate schinese goat_general_battle_loop_04ca2b6f:
 
-#     # "You throw your fist at the General, hitting him right across his face. The sheer impact knocks him on the ground."
-#     ""
+    # "You throw your fist at the General, hitting him right across his face. The sheer impact knocks him on the ground."
+    "你一拳挥向羊族将军，正中脸部。巨大的冲击力使得他应声倒地。"
 
-# translate schinese goat_general_battle_loop_6a910eef:
+translate schinese goat_general_battle_loop_6a910eef:
 
-#     # "You punch into the General's stomach, grabbing him and slam him on the ground hard."
-#     ""
+    # "You punch into the General's stomach, grabbing him and slam him on the ground hard."
+    "你一拳挥向羊族将军的腹部，并顺势抓住他，将他狠狠地摔在地上。"
 
-# translate schinese goat_general_battle_loop_24bcc736:
+translate schinese goat_general_battle_loop_24bcc736:
 
-#     # "His health decreases by [oa[4]] HP."
-#     ""
+    # "His health decreases by [oa[4]] HP."
+    "对方的体力损失了 [oa[4]] 点。"
 
-# translate schinese goat_general_battle_loop_805ef890:
+translate schinese goat_general_battle_loop_805ef890:
 
-#     # "It seems you've hit the general critically, dealing [oa[4]] HP!"
-#     ""
+    # "It seems you've hit the general critically, dealing [oa[4]] HP!"
+    "暴击！对方失去了 [oa[4]] 点体力！"
 
-# translate schinese goat_general_battle_loop_700af80c:
+translate schinese goat_general_battle_loop_700af80c:
 
-#     # gg "F-fuck... No."
-#     gg ""
+    # gg "F-fuck... No."
+    gg "肏……怎么会。"
 
-# translate schinese goat_general_battle_loop_826892d5:
+translate schinese goat_general_battle_loop_826892d5:
 
-#     # gg "Y-you... are a formidable courier, only because I lost my magic..."
-#     gg ""
+    # gg "Y-you... are a formidable courier, only because I lost my magic..."
+    gg "有……有两下子，要不是我没了法力……"
 
-# translate schinese goat_general_battle_loop_f3e82eea:
+translate schinese goat_general_battle_loop_f3e82eea:
 
-#     # gg "...F-furk... I-I have to w-win this one for him..."
-#     gg ""
+    # gg "...F-furk... I-I have to w-win this one for him..."
+    gg "……弗坎……为了你我不能输……"
 
-# translate schinese goat_general_battle_loop_e69610cb:
+translate schinese goat_general_battle_loop_e69610cb:
 
-#     # gg "Come at me! You Insolence!"
-#     gg ""
+    # gg "Come at me! You Insolence!"
+    gg "放马过来！獠奴！"
 
-# translate schinese goat_general_battle_loop_c3cee1d4:
+translate schinese goat_general_battle_loop_c3cee1d4:
 
-#     # gg "I-I can't lose here. N-no... I can't let you win..."
-#     gg ""
+    # gg "I-I can't lose here. N-no... I can't let you win..."
+    gg "不……我不能现在倒下，我一定要赢……"
 
-# translate schinese goat_general_battle_loop_fdf9de27:
+translate schinese goat_general_battle_loop_fdf9de27:
 
-#     # "You turn around and rub your hand all over your own burly cheeks, feeling and brushing against your ass while you shake your hip."
-#     ""
+    # "You turn around and rub your hand all over your own burly cheeks, feeling and brushing against your ass while you shake your hip."
+    "你慢腾腾背向羊族将军，双手盖上饱满的臀部，把玩着、抚摸着，不时左右摇摆。"
 
-# translate schinese goat_general_battle_loop_fb834191:
+translate schinese goat_general_battle_loop_fb834191:
 
-#     # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at the goat seductively."
-#     ""
+    # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at the goat seductively."
+    "你深情地盯着羊族将军，伸爪轻轻爱抚自己的下体，慢慢从大腿根滑向阴囊，紧紧箍着诱人的鼓包。"
 
-# translate schinese goat_general_battle_loop_88cd26f8:
+translate schinese goat_general_battle_loop_88cd26f8:
 
-#     # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the General while your chest bounce up and down slightly."
-#     ""
+    # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the General while your chest bounce up and down slightly."
+    "你双手捧持鼓起的胸肌，手指在乳头周围画着圆圈。一边对着羊族将军微笑，一边轻轻掂量自己的厚物。"
 
-# translate schinese goat_general_battle_loop_2a83334c:
+translate schinese goat_general_battle_loop_2a83334c:
 
-#     # "You continue your act for about a minute, but the General doesn't even flinch."
-#     ""
+    # "You continue your act for about a minute, but the General doesn't even flinch."
+    "你自导自演了快一分钟，但对方仍不动声色。"
 
-# translate schinese goat_general_battle_loop_74e6a40c:
+translate schinese goat_general_battle_loop_74e6a40c:
 
-#     # gg "No... You are not teasing me while we fight..."
-#     gg ""
+    # gg "No... You are not teasing me while we fight..."
+    gg "休想用这种下流的手段魅惑我……"
 
-# translate schinese goat_general_battle_loop_9a610acb:
+translate schinese goat_general_battle_loop_9a610acb:
 
-#     # "Within a few seconds you can already see some movements under the General's loincloth."
-#     ""
+    # "Within a few seconds you can already see some movements under the General's loincloth."
+    "不过几秒钟，羊族将军的遮裆布下就有了些许动静。尽管他只是舔了舔嘴唇，什么也没说，他的性欲还是增加了 [player_flirt] 点。"
 
-# translate schinese goat_general_battle_loop_5364ff16:
+translate schinese goat_general_battle_loop_5364ff16:
 
-#     # "He doesn't say anything, except licking his lips. His lust is increased by [player_flirt]."
-#     ""
+    # "He doesn't say anything, except licking his lips. His lust is increased by [player_flirt]."
+    pass
 
-# translate schinese goat_general_battle_loop_bae7f0b0:
+translate schinese goat_general_battle_loop_bae7f0b0:
 
-#     # gg "..hnnnn...ngh..."
-#     gg ""
+    # gg "..hnnnn...ngh..."
+    gg "……嗯哼……啊……"
 
-# translate schinese goat_general_battle_loop_3ad677f5:
+translate schinese goat_general_battle_loop_3ad677f5:
 
-#     # "You notice the goat is floundering, trying his best not to get aroused by your seduction."
-#     ""
+    # "You notice the goat is floundering, trying his best not to get aroused by your seduction."
+    "羊族将军极力抵御你的勾引，但他通红的脸颊和鼓胀的下体已经宣告了一切。他的性欲增加了 [player_flirt] 点。"
 
-# translate schinese goat_general_battle_loop_31d7e065:
+translate schinese goat_general_battle_loop_31d7e065:
 
-#     # "But it is evident that his flushed face tells it all. His lust is increased by [player_flirt]."
-#     ""
+    # "But it is evident that his flushed face tells it all. His lust is increased by [player_flirt]."
+    pass
 
-# translate schinese goat_general_battle_loop_c03e618b:
+translate schinese goat_general_battle_loop_c03e618b:
 
-#     # gg "...no..."
-#     gg ""
+    # gg "...no..."
+    gg "停下……"
 
-# translate schinese goat_general_battle_loop_ba0632b4:
+translate schinese goat_general_battle_loop_ba0632b4:
 
-#     # "The General is squirming in reaction to your advance."
-#     ""
+    # "The General is squirming in reaction to your advance."
+    "羊族将军不安地扭动着身体，将长矛握得更紧了。你听见他呼吸变得急促，还带着哼哼呻吟。对方的性欲增加了 [player_flirt] 点。"
 
-# translate schinese goat_general_battle_loop_ef6e23e3:
+translate schinese goat_general_battle_loop_ef6e23e3:
 
-#     # "You can already hear his rapid breathing and grunting, holding his scepter tightly. His lust is increased by [player_flirt]."
-#     ""
+    # "You can already hear his rapid breathing and grunting, holding his scepter tightly. His lust is increased by [player_flirt]."
+    pass
 
-# translate schinese goat_general_battle_loop_12e91d44:
+translate schinese goat_general_battle_loop_12e91d44:
 
-#     # gg "...f-fuck..."
-#     gg ""
+    # gg "...f-fuck..."
+    gg "干……"
 
-# translate schinese goat_general_battle_loop_39b4517c:
+translate schinese goat_general_battle_loop_39b4517c:
 
-#     # "You can tell the general is already playing with himself when his hand goes under his loincloth, staring at your ass intently. His lust is increased by [player_flirt]."
-#     ""
+    # "You can tell the general is already playing with himself when his hand goes under his loincloth, staring at your ass intently. His lust is increased by [player_flirt]."
+    "羊族将军紧盯着你肥美的臀部，将伸手套弄自己裤裆内的勃起。他的性欲增加了 [player_flirt] 点。"
 
-# translate schinese goat_general_battle_loop_b7452928:
+translate schinese goat_general_battle_loop_b7452928:
 
-#     # gg "...s-stop..."
-#     gg ""
+    # gg "...s-stop..."
+    gg "可恶……"
 
-# translate schinese goat_general_battle_loop_f03dbf88:
+translate schinese goat_general_battle_loop_f03dbf88:
 
-#     # "You can't get away from the Tribe..."
-#     ""
+    # "You can't get away from the Tribe..."
+    "你不可能逃出羊村的包围圈……"
 
-# translate schinese goat_general_battle_loop_38578e02:
+translate schinese goat_general_battle_loop_38578e02:
 
-#     # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the Goat General."
-#     ""
+    # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the Goat General."
+    "你耗尽了所有气力，双膝一软跪倒在地。你躺在地上大口喘息，将自己完全暴露给了羊族将军。"
 
-# translate schinese goat_general_battle_loop_9e47aef3:
+translate schinese goat_general_battle_loop_9e47aef3:
 
-#     # gg "I thought you were weak, didn't even expect you'd surrender so easily, Huh."
-#     gg ""
+    # gg "I thought you were weak, didn't even expect you'd surrender so easily, Huh."
+    gg "我知道你很软弱，但没想到你竟然软弱到这种程度，呵。"
 
-# translate schinese goat_general_battle_loop_3b0daf3e:
+translate schinese goat_general_battle_loop_3b0daf3e:
 
-#     # "He walks around your weakened form, thinking carefully about his next step..."
-#     ""
+    # "He walks around your weakened form, thinking carefully about his next step..."
+    "他在你瘫倒的躯体旁踱步，细细思索着接下来要拿你怎么办……"
 
-# translate schinese goat_general_battle_loop_e94645e2:
+translate schinese goat_general_battle_loop_e94645e2:
 
-#     # "The General swings his scepter across your body. Your health decreases by [enemy_damage] HP."
-#     ""
+    # "The General swings his scepter across your body. Your health decreases by [enemy_damage] HP."
+    "羊族将军挥杖捅向你，你来不及躲闪挨了他一枪。你损失了 [enemy_damage] 点体力。"
 
-# translate schinese goat_general_battle_loop_bd1c1e3d:
+translate schinese goat_general_battle_loop_bd1c1e3d:
 
-#     # "The General charges at you, hitting you with a kick to the chest. Your health decreases by [enemy_damage] HP."
-#     ""
+    # "The General charges at you, hitting you with a kick to the chest. Your health decreases by [enemy_damage] HP."
+    "羊族将军冲向你，给你胸膛一记飞踢。你损失了 [enemy_damage] 点体力。"
 
-# translate schinese goat_general_battle_loop_2c9f3312:
+translate schinese goat_general_battle_loop_2c9f3312:
 
-#     # "The General swings his scepter across your body, but you managed to deflect and dodge the attack."
-#     ""
+    # "The General swings his scepter across your body, but you managed to deflect and dodge the attack."
+    "羊族将军挥杖捅向你，而你成功挡住他这一枪，闪到了旁边。"
 
-# translate schinese goat_general_battle_loop_b3c648e4:
+translate schinese goat_general_battle_loop_b3c648e4:
 
-#     # "The General charges at you, trying to kick at your chest but you block the blow and push him back."
-#     ""
+    # "The General charges at you, trying to kick at your chest but you block the blow and push him back."
+    "羊族将军冲向你，给你胸膛一记飞踢。好在你及时锁住了他的脚，再发力给他送了回去。"
 
-# translate schinese goat_general_battle_loop_8ce04978:
+translate schinese goat_general_battle_loop_8ce04978:
 
-#     # "The General uses his scepter to unleash the power of all his spell orbs around him. The magical aura knocks you off on the ground. Your health decreases by [spell_damage]."
-#     ""
+    # "The General uses his scepter to unleash the power of all his spell orbs around him. The magical aura knocks you off on the ground. Your health decreases by [spell_damage]."
+    "羊族将军挥动权杖，将伴身咒术丸中的能量尽数释放。魔法光晕将你轰倒，令你损失了 [spell_damage] 点体力。"
 
-# translate schinese goat_general_battle_loop_d800629e:
+translate schinese goat_general_battle_loop_d800629e:
 
-#     # "The strange aura causes you to have a tingly feeling in the crotch as well. Your lust increases by [spell_amount]."
-#     ""
+    # "The strange aura causes you to have a tingly feeling in the crotch as well. Your lust increases by [spell_amount]."
+    "这波诡异的魔法光晕还让你下体涌起了一阵触电般的快感。你的性欲增加了 [spell_amount] 点。"
 
-# translate schinese goat_general_battle_loop_b5cec46e:
+translate schinese goat_general_battle_loop_b5cec46e:
 
-#     # "The charge consumes 1 spell orb from the General. He now has [spell_orb] spell orbs."
-#     ""
+    # "The charge consumes 1 spell orb from the General. He now has [spell_orb] spell orbs."
+    "为此对方消耗了 1 个咒术丸。他现在还有 [spell_orb] 个咒术丸。"
 
-# translate schinese goat_general_battle_loop_2e7cca8a:
+translate schinese goat_general_battle_loop_2e7cca8a:
 
-#     # gg "Taste my orbs, courier. I'll make sure you- Wait... {size=15}I didn't mean my orbs...{/size}"
-#     gg ""
+    # gg "Taste my orbs, courier. I'll make sure you- Wait... {size=15}I didn't mean my orbs...{/size}"
+    gg "尝尝我丸子们的厉害吧。等等……{size=-16}我指的不是我的……{/size}"
 
-# translate schinese goat_general_battle_loop_3418263c:
+translate schinese goat_general_battle_loop_3418263c:
 
-#     # "The General drains your mana energy and conjures a spell orb on his side."
-#     ""
+    # "The General drains your mana energy and conjures a spell orb on his side."
+    "羊族将军抽取了你的魔力，将其化成了一个球状的咒术丸环绕在他身边。"
 
-# translate schinese goat_general_battle_loop_fe789702:
+translate schinese goat_general_battle_loop_fe789702:
 
-#     # "he is ready to unleash the power any time from now. He now has [spell_orb] spell orbs."
-#     ""
+    # "he is ready to unleash the power any time from now. He now has [spell_orb] spell orbs."
+    "他随时可以使出包括这一个在内的 [spell_orb] 个咒术丸。"
 
-# translate schinese goat_general_battle_loop_551b79d0:
+translate schinese goat_general_battle_loop_551b79d0:
 
-#     # gg "Finally, someone who I can drain your magic from..."
-#     gg ""
+    # gg "Finally, someone who I can drain your magic from..."
+    gg "终于，有人主动送上魔力给我……"
 
-# translate schinese goat_general_win_ca507d39:
+translate schinese goat_general_win_ca507d39:
 
-#     # "The General falls on the ground... breathlessly panting..."
-#     ""
+    # "The General falls on the ground... breathlessly panting..."
+    "羊族将军扑倒在地……仍在艰难地喘气……"
 
-# translate schinese goat_general_win_0cab4732:
+translate schinese goat_general_win_0cab4732:
 
-#     # "You've received 300 gold from the general. 1000 Exp and 1 extra level point."
-#     ""
+    # "You've received 300 gold from the general. 1000 Exp and 1 extra level point."
+    "先前的战斗使你收获了 300 金币、1000 经验值、1 额外等级点。"
 
-# translate schinese goat_general_win_91f1d522:
+translate schinese goat_general_win_91f1d522:
 
-#     # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
-#     msg ""
+    # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
+    msg "你的等级已升至 [pc.level] 级！请进入背包界面分配新增属性点。"
 
-# translate schinese goat_general_win_4d991611:
+translate schinese goat_general_win_4d991611:
 
-#     # gg "No... n-nonono... I can't breath..."
-#     gg ""
+    # gg "No... n-nonono... I can't breath..."
+    gg "妈的……喘不过气了……"
 
-# translate schinese goat_general_win_15c0333f:
+translate schinese goat_general_win_15c0333f:
 
-#     # "The General takes off his mask to gasp for air... he looks at you in exhaustion, seems to be waiting for you to do something."
-#     ""
+    # "The General takes off his mask to gasp for air... he looks at you in exhaustion, seems to be waiting for you to do something."
+    "羊族将军摘下他的面罩大口呼吸……他望着你满面涣然，像在等候你做什么一样。"
 
-# translate schinese goat_general_win_604cbf96:
+translate schinese goat_general_win_604cbf96:
 
-#     # "You stare at his youthful face, you've never imagined a general would be this... soft and cuddly."
-#     ""
+    # "You stare at his youthful face, you've never imagined a general would be this... soft and cuddly."
+    "你盯着他少年般的脸庞，没想到一族之帅竟会如此……稚气可爱。"
 
-# translate schinese goat_general_win_752b8262:
+translate schinese goat_general_win_752b8262:
 
-#     # gg "..."
-#     gg ""
+    # gg "..."
+    gg "……"
 
-# translate schinese goat_general_win_9d24105f:
+translate schinese goat_general_win_9d24105f:
 
-#     # gg "W-what?"
-#     gg ""
+    # gg "W-what?"
+    gg "看什么看？"
 
-# translate schinese goat_general_win_ae3d1075:
+translate schinese goat_general_win_ae3d1075:
 
-#     # e "You... look cute."
-#     e ""
+    # e "You... look cute."
+    e "你……好可爱。"
 
-# translate schinese goat_general_win_1c528fcd:
+translate schinese goat_general_win_1c528fcd:
 
-#     # gg "F-fuck you."
-#     gg ""
+    # gg "F-fuck you."
+    gg "肏你妈。"
 
-# translate schinese goat_general_win_908a2b6f:
+translate schinese goat_general_win_908a2b6f:
 
-#     # e "S-sorry... You alright?"
-#     e ""
+    # e "S-sorry... You alright?"
+    e "对、对不起……你没事吧？"
 
-# translate schinese goat_general_win_93e978ea:
+translate schinese goat_general_win_93e978ea:
 
-#     # gg "No..."
-#     gg ""
+    # gg "No..."
+    gg "别再假惺惺的……"
 
-# translate schinese goat_general_win_569bed2f:
+translate schinese goat_general_win_569bed2f:
 
-#     # gg "Be a man and finish me right here, courier."
-#     gg ""
+    # gg "Be a man and finish me right here, courier."
+    gg "像个男人了结掉我吧，乐村来的邮差。"
 
-# translate schinese goat_general_win_a88a3c39:
+translate schinese goat_general_win_a88a3c39:
 
-#     # "His words shocked you a little, you try to sit besides him and give him a little more comfort."
-#     ""
+    # "His words shocked you a little, you try to sit besides him and give him a little more comfort."
+    "他这番话让你有些惊讶，你在他身边找了块地方坐下，尝试平复他的情绪。"
 
-# translate schinese goat_general_win_4e986f5c:
+translate schinese goat_general_win_4e986f5c:
 
-#     # e "Stop being so dramatic..."
-#     e ""
+    # e "Stop being so dramatic..."
+    e "你才别再自以为是了……"
 
-# translate schinese goat_general_win_752b8262_1:
+translate schinese goat_general_win_752b8262_1:
 
-#     # gg "..."
-#     gg ""
+    # gg "..."
+    gg "……"
 
-# translate schinese goat_general_win_05dce57b:
+translate schinese goat_general_win_05dce57b:
 
-#     # gg "What else do you want..."
-#     gg ""
+    # gg "What else do you want..."
+    gg "你到底想干什么……"
 
-# translate schinese goat_general_win_b0167696:
+translate schinese goat_general_win_b0167696:
 
-#     # "The general is still panting, staring down at the floor in frustration, he is sweating profusing after the battle."
-#     ""
+    # "The general is still panting, staring down at the floor in frustration, he is sweating profusing after the battle."
+    "你眼见羊族将军依然不停喘着粗气。他生无可恋地盯着地面，汗流浃背，遍体鳞伤。"
 
-# translate schinese goat_general_win_90834d48:
+translate schinese goat_general_win_90834d48:
 
-#     # "And you see bruises all over his body."
-#     ""
+    # "And you see bruises all over his body."
+    pass
 
-# translate schinese goat_general_win_bd7ad4aa:
+translate schinese goat_general_win_bd7ad4aa:
 
-#     # e "I'm sorry I hit you that hard."
-#     e ""
+    # e "I'm sorry I hit you that hard."
+    e "抱歉让你受了这么重的伤。"
 
-# translate schinese goat_general_win_e9332d35:
+translate schinese goat_general_win_e9332d35:
 
-#     # e "I just want to not get seized by you and your guards I guess..."
-#     e ""
+    # e "I just want to not get seized by you and your guards I guess..."
+    e "我只是不想被你和你的士兵抓住……"
 
-# translate schinese goat_general_win_14e3a418:
+translate schinese goat_general_win_14e3a418:
 
-#     # goatguard2 "G-general! General! I just woke up... are you alright...?"
-#     goatguard2 ""
+    # goatguard2 "G-general! General! I just woke up... are you alright...?"
+    goatguard2 "将军！将军！我醒了……您有无大碍？"
 
-# translate schinese goat_general_win_f2a566ea:
+translate schinese goat_general_win_f2a566ea:
 
-#     # gg "Y-yes."
-#     gg ""
+    # gg "Y-yes."
+    gg "咳、嗯，没有。"
 
-# translate schinese goat_general_win_db703a71:
+translate schinese goat_general_win_db703a71:
 
-#     # goatguard2 "I think I'm gonna pass out again after making sure you're fine now... g-general."
-#     goatguard2 ""
+    # goatguard2 "I think I'm gonna pass out again after making sure you're fine now... g-general."
+    goatguard2 "您没事我就放心去了……"
 
-# translate schinese goat_general_win_6ee72055:
+translate schinese goat_general_win_6ee72055:
 
-#     # "The guard falls asleep again near the general. He scoffs for a moment before looking back at you."
-#     ""
+    # "The guard falls asleep again near the general. He scoffs for a moment before looking back at you."
+    "这名士兵随即又昏了过去，倒在将军身边。后者清了清嗓子，重新看向你。"
 
-# translate schinese goat_general_win_3cca4312:
+translate schinese goat_general_win_3cca4312:
 
-#     # e "So... Can I ask about your name?"
-#     e ""
+    # e "So... Can I ask about your name?"
+    e "所以……你能告诉我你的名字吗？"
 
-# translate schinese goat_general_win_9d24105f_1:
+translate schinese goat_general_win_9d24105f_1:
 
-#     # gg "W-what?"
-#     gg ""
+    # gg "W-what?"
+    gg "什么？"
 
-# translate schinese goat_general_win_6f6d3a40:
+translate schinese goat_general_win_6f6d3a40:
 
-#     # e "Y-your name?"
-#     e ""
+    # e "Y-your name?"
+    e "你的名字是？"
 
-# translate schinese goat_general_win_ee5c3564:
+translate schinese goat_general_win_ee5c3564:
 
-#     # k "Kari."
-#     k ""
+    # k "Kari."
+    k "卡里。"
 
-# translate schinese goat_general_win_f5403384:
+translate schinese goat_general_win_f5403384:
 
-#     # e "Oh...Hey, Kari. So, what's the matter with Furkan?"
-#     e ""
+    # e "Oh...Hey, Kari. So, what's the matter with Furkan?"
+    e "好的……嗨，卡里，请问你们的族长出了什么事吗？"
 
-# translate schinese goat_general_win_e11d5000:
+translate schinese goat_general_win_e11d5000:
 
-#     # k "He went missing..."
-#     k ""
+    # k "He went missing..."
+    k "他失踪了……"
 
-# translate schinese goat_general_win_96fbb4db:
+translate schinese goat_general_win_96fbb4db:
 
-#     # e "So where is he?"
-#     e ""
+    # e "So where is he?"
+    e "之前族长去了哪里呢？"
 
-# translate schinese goat_general_win_a1e966df:
+translate schinese goat_general_win_a1e966df:
 
-#     # k "He didn't tell me. Usually he told me where he'd go."
-#     k ""
+    # k "He didn't tell me. Usually he told me where he'd go."
+    k "他没有告诉我……可他平常都会的。"
 
-# translate schinese goat_general_win_0e707dba:
+translate schinese goat_general_win_0e707dba:
 
-#     # k "But no, this time. If he's not kidnapped by someone, I don't know where he is."
-#     k ""
+    # k "But no, this time. If he's not kidnapped by someone, I don't know where he is."
+    k "要是他被谁绑架，我就更不知道他在哪里了。"
 
-# translate schinese goat_general_win_23ace091:
+translate schinese goat_general_win_23ace091:
 
-#     # k "That's why I needed to ask you..."
-#     k ""
+    # k "That's why I needed to ask you..."
+    k "所以我才要问你……"
 
-# translate schinese goat_general_win_b49fea37:
+translate schinese goat_general_win_b49fea37:
 
-#     # e "O-oh."
-#     e ""
+    # e "O-oh."
+    e "这、这样啊。"
 
-# translate schinese goat_general_win_29e6b75c:
+translate schinese goat_general_win_29e6b75c:
 
-#     # e "I haven't seen him anywhere near here."
-#     e ""
+    # e "I haven't seen him anywhere near here."
+    e "我来的时候没有在附近看到他。"
 
-# translate schinese goat_general_win_b46baf42:
+translate schinese goat_general_win_b46baf42:
 
-#     # e "But talking about weird... there's one thing I thought about..."
-#     e ""
+    # e "But talking about weird... there's one thing I thought about..."
+    e "但说起怪事……我这里有一块石魔像的手臂，那个石魔像长满了苔藓。"
 
-# translate schinese goat_general_win_ecb1ed82:
+translate schinese goat_general_win_ecb1ed82:
 
-#     # e "The Moss Golem's hand."
-#     e ""
+    # e "The Moss Golem's hand."
+    pass
 
-# translate schinese goat_general_win_ae61d713:
+translate schinese goat_general_win_ae61d713:
 
-#     # k "Golem...?"
-#     k ""
+    # k "Golem...?"
+    k "石魔像……？"
 
-# translate schinese goat_general_win_82091822:
+translate schinese goat_general_win_82091822:
 
-#     # k "..."
-#     k ""
+    # k "..."
+    k "……"
 
-# translate schinese goat_general_win_2e9bd230:
+translate schinese goat_general_win_2e9bd230:
 
-#     # k "Oh..."
-#     k ""
+    # k "Oh..."
+    k "啊……"
 
-# translate schinese goat_general_win_ea99caca:
+translate schinese goat_general_win_ea99caca:
 
-#     # k "I think I know where he might be..."
-#     k ""
+    # k "I think I know where he might be..."
+    k "我大概知道他在哪里了……"
 
-# translate schinese goat_general_win_9a97b240:
+translate schinese goat_general_win_9a97b240:
 
-#     # e "W-wait... where?"
-#     e ""
+    # e "W-wait... where?"
+    e "真的吗？"
 
-# translate schinese goat_general_win_13fc5a82:
+translate schinese goat_general_win_13fc5a82:
 
-#     # k "The Damp Cave... near the lagoon..."
-#     k ""
+    # k "The Damp Cave... near the lagoon..."
+    k "靠近苍耀湖的地方有个山洞……"
 
-# translate schinese goat_general_win_7958ba69:
+translate schinese goat_general_win_7958ba69:
 
-#     # k "We had two guardians protecting our runes, they went rogue after the rune disappeared."
-#     k ""
+    # k "We had two guardians protecting our runes, they went rogue after the rune disappeared."
+    k "我们部落曾经有两个护卫看守符石，但自从符石失窃后，这两个符石护卫便失去了控制。"
 
-# translate schinese goat_general_win_5803ab9a:
+translate schinese goat_general_win_5803ab9a:
 
-#     # k "We know one of them is in the damp cave."
-#     k ""
+    # k "We know one of them is in the damp cave."
+    k "我们知道其中一尊跑去了那个山洞。"
 
-# translate schinese goat_general_win_cb6d0ef5:
+translate schinese goat_general_win_cb6d0ef5:
 
-#     # e "I met one golem when I was exploring the river down there... but it got hostile and I had to put it down."
-#     e ""
+    # e "I met one golem when I was exploring the river down there... but it got hostile and I had to put it down."
+    e "这么说……我在河边遇见了一尊，但他主动攻击我，我只能把他放倒了。"
 
-# translate schinese goat_general_win_ccabd4b9:
+translate schinese goat_general_win_ccabd4b9:
 
-#     # k "You're lucky it didn't kill you..."
-#     k ""
+    # k "You're lucky it didn't kill you..."
+    k "没被他杀掉……算你走运。"
 
-# translate schinese goat_general_win_952cd0cb:
+translate schinese goat_general_win_952cd0cb:
 
-#     # e "Uhm, it's actually weakened a bit... its hand is gone."
-#     e ""
+    # e "Uhm, it's actually weakened a bit... its hand is gone."
+    e "呃，我想……他残了半边手还是对我有利的。"
 
-# translate schinese goat_general_win_e80f1822:
+translate schinese goat_general_win_e80f1822:
 
-#     # k "No..."
-#     k ""
+    # k "No..."
+    k "不妙……"
 
-# translate schinese goat_general_win_b9b199ff:
+translate schinese goat_general_win_b9b199ff:
 
-#     # k "Then the one in the damp cave must be the left one."
-#     k ""
+    # k "Then the one in the damp cave must be the left one."
+    k "现在在山洞里的是另外一尊。"
 
-# translate schinese goat_general_win_dbb9a4c8:
+translate schinese goat_general_win_dbb9a4c8:
 
-#     # k "I told Furkan not to get them back... b-but maybe he has another idea."
-#     k ""
+    # k "I told Furkan not to get them back... b-but maybe he has another idea."
+    k "我都劝弗坎先别去了……但他应该没听劝。"
 
-# translate schinese goat_general_win_5ae5350d:
+translate schinese goat_general_win_5ae5350d:
 
-#     # k "I just needed to s-save him..."
-#     k ""
+    # k "I just needed to s-save him..."
+    k "不行，我要去救他……"
 
-# translate schinese goat_general_win_d682fd6f:
+translate schinese goat_general_win_d682fd6f:
 
-#     # k "Ah---argh..."
-#     k ""
+    # k "Ah---argh..."
+    k "呃啊——啊……"
 
-# translate schinese goat_general_win_005d3fba:
+translate schinese goat_general_win_005d3fba:
 
-#     # "Kari tries to stand up, but he quickly slump forwards with his injuries in the legs."
-#     ""
+    # "Kari tries to stand up, but he quickly slump forwards with his injuries in the legs."
+    "卡里艰难地试着起身，但很快便由于腿伤而扑倒在地。"
 
-# translate schinese goat_general_win_b7f8cdc1:
+translate schinese goat_general_win_b7f8cdc1:
 
-#     # e "H-hey... hey... you alright..?"
-#     e ""
+    # e "H-hey... hey... you alright..?"
+    e "嘿——嘿……你的伤……"
 
-# translate schinese goat_general_win_924022b2:
+translate schinese goat_general_win_924022b2:
 
-#     # k "I... have to go..."
-#     k ""
+    # k "I... have to go..."
+    k "不用管我……"
 
-# translate schinese goat_general_win_9996ccea:
+translate schinese goat_general_win_9996ccea:
 
-#     # "He tries to stand up again, you grabs his arm to lift him up but he lost his balance and falls again."
-#     ""
+    # "He tries to stand up again, you grabs his arm to lift him up but he lost his balance and falls again."
+    "他又撑起上半身想要起来，你抓住他的胳膊拉起他。但他自己先失去了平衡，再一次摔了下去。"
 
-# translate schinese goat_general_win_82091822_1:
+translate schinese goat_general_win_82091822_1:
 
-#     # k "..."
-#     k ""
+    # k "..."
+    k "……"
 
-# translate schinese goat_general_win_ae16f56b:
+translate schinese goat_general_win_ae16f56b:
 
-#     # e "I can help you find Furkan."
-#     e ""
+    # e "I can help you find Furkan."
+    e "我可以帮你找到弗坎。"
 
-# translate schinese goat_general_win_3b77324e:
+translate schinese goat_general_win_3b77324e:
 
-#     # k "Y-you?"
-#     k ""
+    # k "Y-you?"
+    k "你——你？"
 
-# translate schinese goat_general_win_118adec5:
+translate schinese goat_general_win_118adec5:
 
-#     # e "Yes."
-#     e ""
+    # e "Yes."
+    e "是的。"
 
-# translate schinese goat_general_win_4902476e:
+translate schinese goat_general_win_4902476e:
 
-#     # k "W-why? Aren't you on the Lusterfield's side...?"
-#     k ""
+    # k "W-why? Aren't you on the Lusterfield's side...?"
+    k "为什么？你不是乐斯民菲尔德人吗……？"
 
-# translate schinese goat_general_win_48fd52c3:
+translate schinese goat_general_win_48fd52c3:
 
-#     # e "I'm simply a courier, I just wanted to save him."
-#     e ""
+    # e "I'm simply a courier, I just wanted to save him."
+    e "我只是个暂住在乐村的小邮差，我也想救出弗坎。"
 
-# translate schinese goat_general_win_eb14f9d1:
+translate schinese goat_general_win_eb14f9d1:
 
-#     # e "And I'm sorry again, for your injuries..."
-#     e ""
+    # e "And I'm sorry again, for your injuries..."
+    e "还有，把你伤成这样我真的非常、非常抱歉。"
 
-# translate schinese goat_general_win_c34e105e:
+translate schinese goat_general_win_c34e105e:
 
-#     # k "N-no..nono... Leave me alone."
-#     k ""
+    # k "N-no..nono... Leave me alone."
+    k "不……不必……别管我。"
 
-# translate schinese goat_general_win_82091822_2:
+translate schinese goat_general_win_82091822_2:
 
-#     # k "..."
-#     k ""
+    # k "..."
+    k "……"
 
-# translate schinese goat_general_win_fe11abf8:
+translate schinese goat_general_win_fe11abf8:
 
-#     # k "But please bring Furkan back..."
-#     k ""
+    # k "But please bring Furkan back..."
+    k "但拜托你了，带弗坎回家……"
 
-# translate schinese goat_general_win_1865ed33:
+translate schinese goat_general_win_1865ed33:
 
-#     # e "Yes, should I take you and the guards back to your house?"
-#     e ""
+    # e "Yes, should I take you and the guards back to your house?"
+    e "包在我身上。需要我扶你和其他人进屋疗伤吗？"
 
-# translate schinese goat_general_win_e80f1822_1:
+translate schinese goat_general_win_e80f1822_1:
 
-#     # k "No..."
-#     k ""
+    # k "No..."
+    k "不用……"
 
-# translate schinese goat_general_win_4cce8ba2:
+translate schinese goat_general_win_4cce8ba2:
 
-#     # k "The other guards will kill you after seeing me like that. Just leave us here..."
-#     k ""
+    # k "The other guards will kill you after seeing me like that. Just leave us here..."
+    k "其他士兵要是看到我这副样子，肯定会不由分说地攻击你。快去救弗坎吧……"
 
-# translate schinese goat_general_win_bf6f0d3d:
+translate schinese goat_general_win_bf6f0d3d:
 
-#     # e "A-alright..."
-#     e ""
+    # e "A-alright..."
+    e "好……"
 
-# translate schinese goat_general_lose_9b13cb52:
+translate schinese goat_general_lose_9b13cb52:
 
-#     # "You slump back against the ground. Waiting for the general to decide your fate."
-#     ""
+    # "You slump back against the ground. Waiting for the general to decide your fate."
+    "你颓然地望着羊族将军，等待他来决定你的命运。"
 
-# translate schinese goat_general_lose_4f6ee551:
+translate schinese goat_general_lose_4f6ee551:
 
-#     # e "S-sorry, can I go now?"
-#     e ""
+    # e "S-sorry, can I go now?"
+    e "我错了，放我走吧。"
 
-# translate schinese goat_general_lose_f9e711ed:
+translate schinese goat_general_lose_f9e711ed:
 
-#     # gg "First, we need to find Furkan."
-#     gg ""
+    # gg "First, we need to find Furkan."
+    gg "没找到族长，你哪也别想去。"
 
-# translate schinese goat_general_lose_633b6042:
+translate schinese goat_general_lose_633b6042:
 
-#     # gg "Guards, get his bag."
-#     gg ""
+    # gg "Guards, get his bag."
+    gg "来人，搜他包。"
 
-# translate schinese goat_general_lose_36f494ff:
+translate schinese goat_general_lose_36f494ff:
 
-#     # goatguard "Yes, General."
-#     goatguard ""
+    # goatguard "Yes, General."
+    goatguard "是，将军。"
 
-# translate schinese goat_general_lose_1b4a03b0:
+translate schinese goat_general_lose_1b4a03b0:
 
-#     # "He grabs your bag from his guard and kneels down in front of you."
-#     ""
+    # "He grabs your bag from his guard and kneels down in front of you."
+    "山羊士兵将你的挎包递给将军，开始翻检你的随身物品。"
 
-# translate schinese goat_general_lose_862f526d:
+translate schinese goat_general_lose_862f526d:
 
-#     # gg "...Hmm..."
-#     gg ""
+    # gg "...Hmm..."
+    gg "嗯……"
 
-# translate schinese goat_general_lose_81229a0c:
+translate schinese goat_general_lose_81229a0c:
 
-#     # gg "W-what's this..."
-#     gg ""
+    # gg "W-what's this..."
+    gg "这是什么……"
 
-# translate schinese goat_general_lose_38dc2792:
+translate schinese goat_general_lose_38dc2792:
 
-#     # e "U-uhh... the golem's hand."
-#     e ""
+    # e "U-uhh... the golem's hand."
+    e "呃呃……这是石魔像的手。"
 
-# translate schinese goat_general_lose_3fe89f30:
+translate schinese goat_general_lose_3fe89f30:
 
-#     # gg "Where did you find this?"
-#     gg ""
+    # gg "Where did you find this?"
+    gg "在哪找到的？"
 
-# translate schinese goat_general_lose_7eab1774:
+translate schinese goat_general_lose_7eab1774:
 
-#     # e "From the river, I killed it."
-#     e ""
+    # e "From the river, I killed it."
+    e "河边，我干掉了那个石魔像。"
 
-# translate schinese goat_general_lose_206c30d8:
+translate schinese goat_general_lose_206c30d8:
 
-#     # gg "You killed it?"
-#     gg ""
+    # gg "You killed it?"
+    gg "就凭你？"
 
-# translate schinese goat_general_lose_6c60186f:
+translate schinese goat_general_lose_6c60186f:
 
-#     # e "Y-yes..."
-#     e ""
+    # e "Y-yes..."
+    e "对……"
 
-# translate schinese goat_general_lose_017040c3:
+translate schinese goat_general_lose_017040c3:
 
-#     # gg "Nothing useful."
-#     gg ""
+    # gg "Nothing useful."
+    gg "没什么有用的。"
 
-# translate schinese goat_general_lose_3a40d6a5:
+translate schinese goat_general_lose_3a40d6a5:
 
-#     # e "I... uhhh... I think I know... something."
-#     e ""
+    # e "I... uhhh... I think I know... something."
+    e "我……呃……我想起一件事。"
 
-# translate schinese goat_general_lose_9d24105f:
+translate schinese goat_general_lose_9d24105f:
 
-#     # gg "W-what?"
-#     gg ""
+    # gg "W-what?"
+    gg "说。"
 
-# translate schinese goat_general_lose_12c2565c:
+translate schinese goat_general_lose_12c2565c:
 
-#     # e "I was in the river some time before... and I saw a golem."
-#     e ""
+    # e "I was in the river some time before... and I saw a golem."
+    e "之前我在河边……看见了一个石魔像。"
 
-# translate schinese goat_general_lose_a12e3a29:
+translate schinese goat_general_lose_a12e3a29:
 
-#     # e "It's really big and it's ready to kill me there, but I defeated it."
-#     e ""
+    # e "It's really big and it's ready to kill me there, but I defeated it."
+    e "那个石魔像超级大，还主动攻击我，所以我把他放倒了。"
 
-# translate schinese goat_general_lose_836e3bd6:
+translate schinese goat_general_lose_836e3bd6:
 
-#     # gg "You-... killed it?"
-#     gg ""
+    # gg "You-... killed it?"
+    gg "你——干掉了那尊符石护卫？"
 
-# translate schinese goat_general_lose_6c60186f_1:
+translate schinese goat_general_lose_6c60186f_1:
 
-#     # e "Y-yes..."
-#     e ""
+    # e "Y-yes..."
+    e "是的……"
 
-# translate schinese goat_general_lose_752b8262:
+translate schinese goat_general_lose_752b8262:
 
-#     # gg "..."
-#     gg ""
+    # gg "..."
+    gg "……"
 
-# translate schinese goat_general_lose_dd45b4dd:
+translate schinese goat_general_lose_dd45b4dd:
 
-#     # gg "He's there."
-#     gg ""
+    # gg "He's there."
+    gg "我知道了。"
 
-# translate schinese goat_general_lose_c18eb48e:
+translate schinese goat_general_lose_c18eb48e:
 
-#     # e "W-what?"
-#     e ""
+    # e "W-what?"
+    e "啊？"
 
-# translate schinese goat_general_lose_b70da06b:
+translate schinese goat_general_lose_b70da06b:
 
-#     # gg "He's with the Golem."
-#     gg ""
+    # gg "He's with the Golem."
+    gg "族长肯定去找符石护卫了。"
 
-# translate schinese goat_general_lose_1d78f46e:
+translate schinese goat_general_lose_1d78f46e:
 
-#     # e "But we... killed it."
-#     e ""
+    # e "But we... killed it."
+    e "可是我们那天已经……干掉这个石像了。"
 
-# translate schinese goat_general_lose_221eecd8:
+translate schinese goat_general_lose_221eecd8:
 
-#     # gg "The other one. We have two rune guardians."
-#     gg ""
+    # gg "The other one. We have two rune guardians."
+    gg "那只是其中一尊，我们有两尊石像守卫符石。"
 
-# translate schinese goat_general_lose_d819a6db:
+translate schinese goat_general_lose_d819a6db:
 
-#     # e "W-what happened to them?"
-#     e ""
+    # e "W-what happened to them?"
+    e "他们怎么会跑出来？"
 
-# translate schinese goat_general_lose_75a7abf5:
+translate schinese goat_general_lose_75a7abf5:
 
-#     # gg "I don't know, they went rogue after our runes stopped supplying spell energy..."
-#     gg ""
+    # gg "I don't know, they went rogue after our runes stopped supplying spell energy..."
+    gg "我也不清楚，失去符石的能量后，他们便失去了控制……"
 
-# translate schinese goat_general_lose_903f3071:
+translate schinese goat_general_lose_903f3071:
 
-#     # goatguard "Uhmm... general, is it wise to share information... to a Lusterfolk?"
-#     goatguard ""
+    # goatguard "Uhmm... general, is it wise to share information... to a Lusterfolk?"
+    goatguard "将军……向乐村的野蛮人透露这些信息不太好吧……"
 
-# translate schinese goat_general_lose_22e6966c:
+translate schinese goat_general_lose_22e6966c:
 
-#     # gg "No... I need to save Furk-"
-#     gg ""
+    # gg "No... I need to save Furk-"
+    gg "可恶……弗坎——"
 
-# translate schinese goat_general_lose_80dd3f40:
+translate schinese goat_general_lose_80dd3f40:
 
-#     # gg "I'll tell you, he's in the cave..."
-#     gg ""
+    # gg "I'll tell you, he's in the cave..."
+    gg "我得把他从山洞里救出来……"
 
-# translate schinese goat_general_lose_720f7c79:
+translate schinese goat_general_lose_720f7c79:
 
-#     # e "W-what? Cave?"
-#     e ""
+    # e "W-what? Cave?"
+    e "啊？山洞？"
 
-# translate schinese goat_general_lose_60c57f65:
+translate schinese goat_general_lose_60c57f65:
 
-#     # gg "The one near sparkling lagoon."
-#     gg ""
+    # gg "The one near sparkling lagoon."
+    gg "靠近苍耀湖的山洞。"
 
-# translate schinese goat_general_lose_60ebced8:
+translate schinese goat_general_lose_60ebced8:
 
-#     # e "Are you sure?"
-#     e ""
+    # e "Are you sure?"
+    e "你确定？"
 
-# translate schinese goat_general_lose_5b3beb15:
+translate schinese goat_general_lose_5b3beb15:
 
-#     # gg "I need to find him first, after that... I'll take care of you."
-#     gg ""
+    # gg "I need to find him first, after that... I'll take care of you."
+    gg "我先救族长出来……之后再想办法处理你。"
 
-# translate schinese goat_general_lose_a3e82478:
+translate schinese goat_general_lose_a3e82478:
 
-#     # e "H-hey... I can help you."
-#     e ""
+    # e "H-hey... I can help you."
+    e "嘿——嘿，我可以帮忙。"
 
-# translate schinese goat_general_lose_27ee07f3:
+translate schinese goat_general_lose_27ee07f3:
 
-#     # gg "Y-you?"
-#     gg ""
+    # gg "Y-you?"
+    gg "你？"
 
-# translate schinese goat_general_lose_4ceb4dbf:
+translate schinese goat_general_lose_4ceb4dbf:
 
-#     # gg "You're barely breathing right now..."
-#     gg ""
+    # gg "You're barely breathing right now..."
+    gg "你弱到现在连气都喘不上来。"
 
-# translate schinese goat_general_lose_74db1a7f:
+translate schinese goat_general_lose_74db1a7f:
 
-#     # e "Yes..."
-#     e ""
+    # e "Yes..."
+    e "你说的没错……"
 
-# translate schinese goat_general_lose_eba666e0:
+translate schinese goat_general_lose_eba666e0:
 
-#     # e "Let me help, alright. You don't need to lock me up here..."
-#     e ""
+    # e "Let me help, alright. You don't need to lock me up here..."
+    e "但拜托，让我替你去那个山洞吧，不要把我关在这……"
 
-# translate schinese goat_general_lose_752b8262_1:
+translate schinese goat_general_lose_752b8262_1:
 
-#     # gg "..."
-#     gg ""
+    # gg "..."
+    gg "……"
 
-# translate schinese goat_general_lose_e49cf38d:
+translate schinese goat_general_lose_e49cf38d:
 
-#     # gg "Ok, if you prove yourself useful..."
-#     gg ""
+    # gg "Ok, if you prove yourself useful..."
+    gg "行，如果你能证明自己可以派上用场……"
 
-# translate schinese goat_general_lose_ff4a58eb:
+translate schinese goat_general_lose_ff4a58eb:
 
-#     # gg "I'll lead you to the lagoon and heal you..."
-#     gg ""
+    # gg "I'll lead you to the lagoon and heal you..."
+    gg "我就带你去苍耀湖疗伤。"
 
-# translate schinese goat_general_lose_1c3741a1:
+translate schinese goat_general_lose_1c3741a1:
 
-#     # e "Thanks."
-#     e ""
+    # e "Thanks."
+    e "谢谢。"
 
-# translate schinese goat_general_lose_7a17f7e5:
+translate schinese goat_general_lose_7a17f7e5:
 
-#     # gg "Cev... and Hakki... stay here until I come back."
-#     gg ""
+    # gg "Cev... and Hakki... stay here until I come back."
+    gg "切夫、哈克……我不在的时候看好大门。"
 
-# translate schinese goat_general_lose_a05b105e:
+translate schinese goat_general_lose_a05b105e:
 
-#     # goatguard2 "Yes, General."
-#     goatguard2 ""
+    # goatguard2 "Yes, General."
+    goatguard2 "遵命，将军。"
 
 # translate schinese lothar_battle_1e517a6d:
 
