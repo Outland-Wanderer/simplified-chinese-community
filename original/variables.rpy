@@ -42,6 +42,12 @@
     old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP"
     new ""
 
+    old "Piercing Blow"
+    new ""
+
+    old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI. Costs 35 MP"
+    new ""
+
     old "Lindbloom"
     new ""
 
@@ -97,6 +103,18 @@
     new ""
 
     old "The new addition of beer in Nocturnal Trunk, it recoveres 40 HP and 40 MP, but increases Lust by 20 as well."
+    new ""
+
+    old "Accuracy Potion"
+    new ""
+
+    old "A Potion that can increase drinker's Accuracy by 20 for 2 rounds."
+    new ""
+
+    old "Tenacity Potion"
+    new ""
+
+    old "A Potion that can increase drinker's both defenses by 40 for 2 rounds."
     new ""
 
     old "Iron Axe"
@@ -372,9 +390,6 @@
     old "Some wood that I chopped around the ancient tree. Surely doing it will not anger some unknown tree god."
     new ""
 
-    old "Cashmere"
-    new ""
-
     old "A kind of wool collected from goat huntsman in a legal, non-harmful way. It is the main materials for most clothes in Lusterfield."
     new ""
 
@@ -418,9 +433,6 @@
     new ""
 
     old "A slimy bone, probably from those who are unlucky enough to get stuck in the slime."
-    new ""
-
-    old "Raw Meat"
     new ""
 
     old "The meat of an unfortunate prey... But I am not sure if I should... eat it."
@@ -576,6 +588,30 @@
     old "A fairly rare vegetation grown in the summery farmland. It closes any non-lethal wounds and gives consumer a pick-me-up, according to the farmer"
     new ""
 
+    old "A red fruit that looks pretty tasty, can be mistaken for a juicy plum."
+    new ""
+
+    old "A flower with red petal that sometimes symbolise romance."
+    new ""
+
+    old "Hawthorn"
+    new ""
+
+    old "A smaller red berry that's more rock-like. It's commonly eaten with bread and it's said to strengthen the user."
+    new ""
+
+    old "Hydrangea"
+    new ""
+
+    old "A colourful flowering plant that the lizard folks sometimes pick up for decoration, or as an ingredient for sweet tea."
+    new ""
+
+    old "Horehound"
+    new ""
+
+    old "A plant with leaves that has strong scent that is said to repel canine folks, it also helps treat other user's common sicknesses."
+    new ""
+
     old "Slime"
     new ""
 
@@ -616,6 +652,12 @@
     new ""
 
     old "Nosferat"
+    new ""
+
+    old "Rat Bandit"
+    new ""
+
+    old "Shark Bandit"
     new ""
 
     old "A humble village in Mokken. {p} A village that is best known for its beer from the Nocturnal Trunk tavern. {p} And an all-time merchant-favourite pawn shop named King's Pawn."
@@ -697,6 +739,12 @@
     new ""
 
     old "The large barn in the middle of corn and wheat field, owned by an odd... Shepherd."
+    new ""
+
+    old "Grove of Harvest"
+    new ""
+
+    old "The garden area in the farm that grows a variety of fruit and greens."
     new ""
 
     old "Forest Nightwatch"
@@ -966,6 +1014,12 @@
     old "Sebas invited me to have dinner in the tavern with Ole today, I should meet them there at night."
     new ""
 
+    old "Plum for the Troubled"
+    new ""
+
+    old "Plums has been mysteriously disappearing lately, Jog asked me to track down the thief in the farm."
+    new ""
+
     old "Potion Order"
     new ""
 
@@ -988,6 +1042,12 @@
     new ""
 
     old "Rahim wants me to make clothes for him, maybe I'll get to know him more after this."
+    new ""
+
+    old "Herbs and Harvests"
+    new ""
+
+    old "Haskell asked me to fetch some herbs for his garden, I should get 10 of those herbs and bring them to him."
     new ""
 
     old "Trapped"

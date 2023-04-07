@@ -2903,9 +2903,9 @@ translate schinese Sebas_Night_Out_8cc0eb0c:
     # o "Yeah, I think so. He's just sleeping."
     o ""
 
-translate schinese Sebas_Night_Out_04d23a7a:
+translate schinese Sebas_Night_Out_b28fbf16:
 
-    # l "And he's not listening to me. Hey, dumbass lion. Frick you, stupid ass lion. Say nothing if you love dicks."
+    # l "And he's not listening to me. Hey, dumbass lion. Stupid ass lion. Say nothing if you love dicks."
     l ""
 
 translate schinese Sebas_Night_Out_8d12f8e6:
@@ -3243,9 +3243,9 @@ translate schinese Sebas_Night_Out_f459ebf9:
     # e "Mhmm... Ole, how do we carry him?"
     e ""
 
-translate schinese Sebas_Night_Out_afa7fa78:
+translate schinese Sebas_Night_Out_18df4208:
 
-    # o "Usually I'd have you taking his arms and me taking his legs. But I've prepared a cart just to carry him home."
+    # o "Usually I'd have you taking his arms and myself holding his legs. But I've prepared a cart just to carry him home."
     o ""
 
 translate schinese Sebas_Night_Out_37af04bc:
@@ -15516,6 +15516,9 @@ translate schinese strings:
     old "Ask for his opinion on Goat Tribe"
     new ""
 
+    old "Ask about Lusterfield{#SebAAL}"
+    new ""
+
     old "Ask about the shop"
     new ""
 
@@ -15672,6 +15675,9 @@ translate schinese strings:
     old "Ask about the Shop"
     new ""
 
+    old "Ask about Lusterfield{#OleAAL}"
+    new ""
+
     old "Ask about the people in Lusterfield"
     new ""
 
@@ -15739,6 +15745,9 @@ translate schinese strings:
     new ""
 
     old "Deliver the Letter from Furkan"
+    new ""
+
+    old "Ask about Lusterfield{#RahimAAL}"
     new ""
 
     old "Ask about his Tailor job"

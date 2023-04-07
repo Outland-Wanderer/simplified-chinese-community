@@ -118,9 +118,9 @@ translate schinese Arthur_Wear_Collar_0017711e:
     # ar "So, you ready to accept the collar and be mine, pup?"
     ar ""
 
-translate schinese Arthur_Wear_Collar_84eff791:
+translate schinese Arthur_Wear_Collar_cc373dcf:
 
-    # e "No, sorry. I was wondering if you'd like to mess around anyways…?"
+    # e "No, sorry. I was wondering if you'd like to mess around anyways...?"
     e ""
 
 translate schinese Arthur_Wear_Collar_22cc50da:
@@ -168,9 +168,9 @@ translate schinese Arthur_Wear_Collar_dd0d1fcd:
     # "Hesitantly, you bring each side of the collar up to your neck, your breath shaking. You somehow manage to loop the buckle despite your nerves, and finish standing there in nothing but a harness and collar, leaky cock twitching and throbbing."
     ""
 
-translate schinese Arthur_Ask_Another_Round_d67e583b:
+translate schinese Arthur_Ask_Another_Round_1dcfa47a:
 
-    # e "Hello, sir. I hope you're doing well…?"
+    # e "Hello, sir. I hope you're doing well...?"
     e ""
 
 translate schinese Arthur_Ask_Another_Round_ca3efad7:
@@ -188,9 +188,9 @@ translate schinese Arthur_Ask_Another_Round_c25c179c:
     # "You feel a bit embarrassed when he mentions it so casually, but that is why you're here after all."
     ""
 
-translate schinese Arthur_Ask_Another_Round_2056e01d:
+translate schinese Arthur_Ask_Another_Round_da6a91de:
 
-    # e "About that… I was wondering if you'd like to go another round, sir?"
+    # e "About that... I was wondering if you'd like to go another round, sir?"
     e ""
 
 translate schinese Arthur_Ask_Another_Round_cceb839d:
@@ -1238,9 +1238,9 @@ translate schinese Arthur_Second_Scene_994a0438:
     # "As soon as he reaches you, he begins to put the harness on you - a red flat-fabricked thing - with complete confidence, but with little enough force that you know you could stop him if you wanted to."
     ""
 
-translate schinese Arthur_Second_Scene_678acea8:
+translate schinese Arthur_Second_Scene_0a2d5a27:
 
-    # "The thing is… he was right. You don't want to push him away. This is new to you, but it's making your heart race with excitement."
+    # "The thing is... he was right. You don't want to push him away. This is new to you, but it's making your heart race with excitement."
     ""
 
 translate schinese Arthur_Second_Scene_2787049a:
@@ -1273,9 +1273,9 @@ translate schinese Arthur_Second_Scene_f421673c:
     # "Arty gives you an approving look."
     ""
 
-translate schinese Arthur_Second_Scene_08f017a6:
+translate schinese Arthur_Second_Scene_6a043c8f:
 
-    # ar "Yes, you can. You can keep adventuring and meeting people, having relationships… everything. A part of you will always belong to me, but never will that inhibit the rest of your life."
+    # ar "Yes, you can. You can keep adventuring and meeting people, having relationships... everything. A part of you will always belong to me, but never will that inhibit the rest of your life."
     ar ""
 
 translate schinese Arthur_Second_Scene_a8cde58b:
@@ -1393,9 +1393,9 @@ translate schinese Arthur_Second_Scene_Yes_5ebb1009:
     # "Arty says this as he marches down the steps, and begins leading behind the house, into the barn proper."
     ""
 
-translate schinese Arthur_Second_Scene_Yes_b1006542:
+translate schinese Arthur_Second_Scene_Yes_492fdb69:
 
-    # e "I… have a question."
+    # e "I... have a question."
     e ""
 
 translate schinese Arthur_Second_Scene_Yes_6439347b:
@@ -1413,9 +1413,9 @@ translate schinese Arthur_Second_Scene_Yes_44325b1e:
     # "A relief, at least. Learning the rules will be a difficult, but rewarding task."
     ""
 
-translate schinese Arthur_Second_Scene_Yes_6b2dbe75:
+translate schinese Arthur_Second_Scene_Yes_6a737df3:
 
-    # e "Should I still call you sir? Or should I call you master now…?"
+    # e "Should I still call you sir? Or should I call you master now...?"
     e ""
 
 translate schinese Arthur_Second_Scene_Yes_4237418c:
@@ -1853,9 +1853,9 @@ translate schinese Arthur_Second_Scene_Yes_3329214a:
     # "This time, it takes a while for him to respond, though that may be because he wants to savor the sandwich in his mouth."
     ""
 
-translate schinese Arthur_Second_Scene_Yes_636c02e1:
+translate schinese Arthur_Second_Scene_Yes_44097a88:
 
-    # ar "I watch the plants, read, fuck, sleep, watch the plants again… boring, maybe, but it makes money."
+    # ar "I watch the plants, read, fuck, sleep, watch the plants again... boring, maybe, but it makes money."
     ar ""
 
 translate schinese Arthur_Second_Scene_Yes_5215a56b:
@@ -1918,9 +1918,9 @@ translate schinese Arthur_Second_Scene_Yes_defe5a17:
     # "You sit on the counter to wait for your master after you finish your sandwich."
     ""
 
-translate schinese Arthur_Second_Scene_Yes_e0673c1e:
+translate schinese Arthur_Second_Scene_Yes_fe6dc2bf:
 
-    # "Before long, he's back with a… purple vegetable in his hands? It looks like a radish, but much smaller, and purple."
+    # "Before long, he's back with a... purple vegetable in his hands? It looks like a radish, but much smaller, and purple."
     ""
 
 translate schinese Arthur_Second_Scene_Yes_72d27381:
@@ -2023,9 +2023,9 @@ translate schinese Arthur_Second_Scene_Yes_bc389991:
     # ar "I told you I'd take care of you if you did well, pup."
     ar ""
 
-translate schinese Arthur_Second_Scene_Yes_a98643d5:
+translate schinese Arthur_Second_Scene_Yes_8c4f82ad:
 
-    # ar "This is my main cash crop, and I grow quite a few every year. It's the reason I'm this strong, and have to keep such a close watch on my fields. Monsters, animals, bandits… lots of things want 'em."
+    # ar "This is my main cash crop, and I grow quite a few every year. It's the reason I'm this strong, and have to keep such a close watch on my fields. Monsters, animals, bandits... lots of things want 'em."
     ar ""
 
 translate schinese Arthur_Second_Scene_Yes_6ad54fea:
@@ -2323,9 +2323,9 @@ translate schinese Arthur_Second_Scene_NoNo_cd808fb6:
     # "Soon after, Arty comes over with your clothes, and a canteen of water."
     ""
 
-translate schinese Arthur_Second_Scene_NoNo_40c34dc1:
+translate schinese Arthur_Second_Scene_NoNo_251a9754:
 
-    # ar "I'm sorry about what happened. I know that no apology will really make up for it, but… I didn't mean to hurt you in a way you didn't like."
+    # ar "I'm sorry about what happened. I know that no apology will really make up for it, but... I didn't mean to hurt you in a way you didn't like."
     ar ""
 
 translate schinese Arthur_Second_Scene_NoNo_921d4eca:
@@ -2338,9 +2338,9 @@ translate schinese Arthur_Second_Scene_NoNo_0314f7cc:
     # "Then again, choking is a fairly common kink within certain communities."
     ""
 
-translate schinese Arthur_Second_Scene_NoNo_043a12e2:
+translate schinese Arthur_Second_Scene_NoNo_4fc3875f:
 
-    # e "I forgive you. Just… don't do that again."
+    # e "I forgive you. Just... don't do that again."
     e ""
 
 translate schinese Arthur_Second_Scene_NoNo_86212265:
@@ -2399,6 +2399,9 @@ translate schinese Arthur_Second_Scene_NoNo_0b8a7a21:
     ""
 
 translate schinese strings:
+
+    old "Ask about the Plum Plunderer"
+    new ""
 
     old "Wear the Collar"
     new ""

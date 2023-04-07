@@ -38,9 +38,9 @@ translate schinese Jog_Dialogue_d7bf05f9:
     # e "Hmm?"
     e ""
 
-translate schinese Jog_Dialogue_e8a6fc1c:
+translate schinese Jog_Dialogue_cea61cd1:
 
-    # j "Just don't break anything here, Boss' order."
+    # j "Just don't break anything here, Lot's order."
     j ""
 
 translate schinese Jog_Dialogue_a71007f0:
@@ -83,9 +83,9 @@ translate schinese Jog_Lothar_Training_d608835b:
     # j "Courier, are you sure you can handle this?"
     j ""
 
-translate schinese Jog_Lothar_Training_e1881147:
+translate schinese Jog_Lothar_Training_314eca71:
 
-    # j "Boss told us that you can't even beat the training dummy."
+    # j "Lot told us that you can't even beat the training dummy."
     j ""
 
 translate schinese Jog_Lothar_Training_5ebadbf1:
@@ -93,9 +93,9 @@ translate schinese Jog_Lothar_Training_5ebadbf1:
     # e "That is not true."
     e ""
 
-translate schinese Jog_Lothar_Training_fade5310:
+translate schinese Jog_Lothar_Training_27bc135c:
 
-    # j "Now why would Boss lie about that?"
+    # j "Now why would Lot lie about that?"
     j ""
 
 translate schinese Jog_Lothar_Training_772a9682:
@@ -103,9 +103,9 @@ translate schinese Jog_Lothar_Training_772a9682:
     # "You don't know what to say..."
     ""
 
-translate schinese Jog_Lothar_Training_c6cde5b1:
+translate schinese Jog_Lothar_Training_4c0a8685:
 
-    # j "It doesn't matter. Because I actually have a mission from Boss and I figure this is the perfect training opportunity for you."
+    # j "It doesn't matter. Because I actually have a mission from him and I figure this is the perfect training opportunity for you."
     j ""
 
 translate schinese Jog_Lothar_Training_924d27d3:
@@ -133,9 +133,9 @@ translate schinese Jog_Lothar_Training_39182b12:
     # j "But you are too trusting. We have to check if the goats are lying. I won't be surprised if they are."
     j ""
 
-translate schinese Jog_Lothar_Training_0d9a3e8e:
+translate schinese Jog_Lothar_Training_2a03d930:
 
-    # j "Boss said you don't have the balls to go face the goats."
+    # j "He said you don't have the balls to go face the goats."
     j ""
 
 translate schinese Jog_Lothar_Training_9c54f0e2:
@@ -143,9 +143,9 @@ translate schinese Jog_Lothar_Training_9c54f0e2:
     # j "So this will be your training. Don't worry. I'll be there to watch over your ass, figuratively and maybe literally too."
     j ""
 
-translate schinese Jog_Lothar_Training_2591ec4b:
+translate schinese Jog_Lothar_Training_e4c0c14f:
 
-    # j "Boss said that you got nothing even though you've successfully gained access into their tribe."
+    # j "He said that you got nothing even though you've successfully gained access into their tribe."
     j ""
 
 translate schinese Jog_Lothar_Training_15f0701e:
@@ -163,80 +163,85 @@ translate schinese Jog_Lothar_Training_607b1c0c:
     # e "So..."
     e ""
 
-translate schinese Jog_Lothar_Training_af5349df:
+translate schinese Jog_Lothar_Training_e1a8650b:
 
-    # e "Are we being too suspicious?"
+    # e "What do you think they're up to?"
     e ""
 
-translate schinese Jog_Lothar_Training_0043fb2c:
+translate schinese Jog_Lothar_Training_1e310360:
 
-    # j "Have you forgotten what they did? They slaughtered our townspeople right in front of my eyes. I will never trust them."
+    # j "I don't know, based on their recent activity it seems they're searching for something."
     j ""
 
-translate schinese Jog_Lothar_Training_850d8c84:
+translate schinese Jog_Lothar_Training_87107475:
 
-    # "Jog's eyes glow darkly."
-    ""
+    # j "Not like I'd be interested unless they're taking their pants off in the middle of the forest."
+    j ""
 
-translate schinese Jog_Lothar_Training_93b0c2f9:
+translate schinese Jog_Lothar_Training_47e7942f:
 
-    # "To break the tension, you ask something that has been bothering you."
-    ""
-
-translate schinese Jog_Lothar_Training_c28e2a5b:
-
-    # e "Jog, since you're the scout of the group, how come Lothar approached me to enter the Goat Tribe and not you?"
+    # e "Have they?"
     e ""
 
-translate schinese Jog_Lothar_Training_ed583072:
+translate schinese Jog_Lothar_Training_1501d0e9:
 
-    # "Jog's eyes soften instantly. He smiles ruefully at you."
-    ""
-
-translate schinese Jog_Lothar_Training_54f0a4cd:
-
-    # j "To be honest, I was confused at first too. I thought Lot had lost faith in me."
+    # j "Maybe they have. That's the perks of being a scout, you get to see all sorts of thing."
     j ""
 
-translate schinese Jog_Lothar_Training_4326f695:
+translate schinese Jog_Lothar_Training_bf825c4a:
 
-    # j "But... well. It doesn't really matter now. Seems like he was right about you."
-    j ""
-
-translate schinese Jog_Lothar_Training_d1c607b0:
-
-    # "Jog shakes his head."
-    ""
-
-translate schinese Jog_Lothar_Training_6269ee13:
-
-    # j "Anyway, enough dawdling. We better focus on the mission."
-    j ""
-
-translate schinese Jog_Lothar_Training_5cb74426:
-
-    # e "But are you sure you can take on the mission now?"
+    # e "Huh, what does a scout do?"
     e ""
 
-translate schinese Jog_Lothar_Training_915c1343:
+translate schinese Jog_Lothar_Training_cc082576:
 
-    # e "We're still going to go deep into the goat tribe..."
+    # j "Watching out for danger, being the first to explore a new area, and all."
+    j ""
+
+translate schinese Jog_Lothar_Training_1a58be18:
+
+    # j "Sometimes I do see people pulling pants off, and that's why I like what I'm doing."
+    j ""
+
+translate schinese Jog_Lothar_Training_d255c973:
+
+    # e "Wouldn't you rather be the one that's... pulling their pants off?"
     e ""
 
-translate schinese Jog_Lothar_Training_a1b0ef5c:
+translate schinese Jog_Lothar_Training_497e4581:
 
-    # j "I'll be fine. I can't say that I have it all under control but I want to be a true scout and I will not let my personal feelings interrupt my mission."
+    # j "What? Your brain is filled with lewd stuff much more than I do, and I won't tolerate being the second horniest person here."
     j ""
 
-translate schinese Jog_Lothar_Training_5282f13c:
+translate schinese Jog_Lothar_Training_100baa4b:
 
-    # j "So this is a training for you and me both."
+    # e "I mean, do you enjoy watching people from afar more than engaging with people?"
+    e ""
+
+translate schinese Jog_Lothar_Training_bed7e178:
+
+    # j "I don't see anything wrong with that. If it's what I'm good at then it's what it is."
     j ""
 
-translate schinese Jog_Lothar_Training_1a32ed93:
+translate schinese Jog_Lothar_Training_54d4952d:
 
-    # j "Plus, Boss has given me this mission and I don't want to fail him."
+    # e "Fair enough."
+    e ""
+
+translate schinese Jog_Lothar_Training_f1effd07:
+
+    # j "Plus, if I needed any sex I'd come to you first since you're all up for this, aren't you."
     j ""
+
+translate schinese Jog_Lothar_Training_2a31ed0c:
+
+    # e "M-maybe?"
+    e ""
+
+translate schinese Jog_Lothar_Training_24e28dbc:
+
+    # "Jog chuckles slightly."
+    ""
 
 translate schinese Jog_Lothar_Training_2b28d25c:
 
@@ -253,19 +258,19 @@ translate schinese Jog_Lothar_Training_ec0a65b5:
     # e "Uhmm... what do you think?"
     e ""
 
-translate schinese Jog_Lothar_Training_165cc83e:
+translate schinese Jog_Lothar_Training_80f17ee8:
 
-    # j "We can try to go for Distraction or Agility."
+    # j "I can see there's two ways we can approach."
     j ""
 
-translate schinese Jog_Lothar_Training_56de161d:
+translate schinese Jog_Lothar_Training_f0ad2a79:
 
-    # j "For agility, there's a rock wall near the outer wall of the goat tribe. We can hike the rock and leap over the walls."
+    # j "First way, I see there's a rock wall near the outer wall of the goat tribe. We can hike the rock and leap over the walls."
     j ""
 
-translate schinese Jog_Lothar_Training_5cd2aeca:
+translate schinese Jog_Lothar_Training_9145174a:
 
-    # j "For distraction, I'll fire an arrow and lead the two guards away from the entrance. Then, we'll sneak in."
+    # j "Or, I can fire an arrow and distract the two guards away from the entrance. Then, we'll sneak in."
     j ""
 
 translate schinese Jog_Lothar_Training_5e733535:
@@ -1018,9 +1023,9 @@ translate schinese Jog_Lothar_Training_9bb99280:
     # "Jog chuckles as your cheeks flush red. You thought you had suppressed that moan but apparently you didn't."
     ""
 
-translate schinese Jog_Lothar_Training_d2ad47e0:
+translate schinese Jog_Lothar_Training_59b016e6:
 
-    # j "Thank you for showing me many things today. Overall you did help me complete the mission. I'll report that to Boss."
+    # j "Thank you for showing me many things today. Overall you did help me complete the mission. I'll report that to Lothar."
     j ""
 
 translate schinese Jog_Lothar_Training_8233b00a:
@@ -1047,6 +1052,2371 @@ translate schinese Jog_Lothar_Training_5c591fd1:
 
     # "Jogs chuckles and disappears into the woods as your face flames with embarrassment."
     ""
+
+translate schinese Arthur_Bandit_Meet_Quest_0e4c8860:
+
+    # e "M-master, I was looking for the plum trees, would you point me where it is?"
+    e ""
+
+translate schinese Arthur_Bandit_Meet_Quest_6dc0a3cf:
+
+    # e "Arty, I was looking for the plum trees, would you point me where it is?"
+    e ""
+
+translate schinese Arthur_Bandit_Meet_Quest_4098e5a8:
+
+    # ar "Plum... you must be doing chores for that cheeky Jog, ain't you pup?"
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_8bbfef47:
+
+    # e "Y-yeah, Amble told me you gave him some apples instead, is there no plum left in the entire farm?"
+    e ""
+
+translate schinese Arthur_Bandit_Meet_Quest_6ab2a945:
+
+    # ar "Look, someone stole these juicy little bastards, they were right there in the grove of harvest."
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_8f856c94:
+
+    # ar "You'd expect them to sneak over to my place late at night like a proper thief but no, that one took my harvests in the broad daylight."
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_7ddb0dd2:
+
+    # e "Did no one ever see them?"
+    e ""
+
+translate schinese Arthur_Bandit_Meet_Quest_780e3020:
+
+    # ar "Listen, pup, these are thieves, they come in pattern. They knew where our scarecrows patrolled and they sneaked up on the plums like a proper pest."
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_d704713e:
+
+    # ar "They've planted the seed for a while, they knew when we sleep, when we work, when we're away from our lands."
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_16ad629c:
+
+    # e "Then, maybe you can catch these thieves if you just catch them out of guard, right?"
+    e ""
+
+translate schinese Arthur_Bandit_Meet_Quest_97b29b80:
+
+    # ar "No, I need to tend to my crops, not catching plum thieves like a grumpy old hound."
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_e1a5405e:
+
+    # "Arthur pauses for a second."
+    ""
+
+translate schinese Arthur_Bandit_Meet_Quest_ec2b9166:
+
+    # ar "What I'm saying is, these scumbags are sneaky, but if a pup wishes to help with pest extermination just like what you did with the landsharks, there's no one to stop you."
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_7d807496:
+
+    # e "Do I... get a reward for this?"
+    e ""
+
+translate schinese Arthur_Bandit_Meet_Quest_5f7a7c8a:
+
+    # ar "You already had one with another fella, pup."
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_eb5f2d46:
+
+    # "Arthur points in the general direction somewhere towards Lusterfield."
+    ""
+
+translate schinese Arthur_Bandit_Meet_Quest_57064ab4:
+
+    # ar "If you want to help, I know something that might deem useful to you. I counted 3 occasions where my plums went missing."
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_a68f52a7:
+
+    # ar "I checked the grove garden every eight in the morning, the first day I saw them missing was, 2pm. The second, well- four. And the third, it was at around 12."
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_1e4d7261:
+
+    # e "Do they come at a specific time?"
+    e ""
+
+translate schinese Arthur_Bandit_Meet_Quest_0c8f4ddd:
+
+    # ar "They came in a pattern, was what I was saying. Perhaps if you wait in the farmland around that time you'd catch the thief red-handed."
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_e69a7083:
+
+    # ar "It's all predictions, pup. Once you've been working on the farm for a couple of decades. You've sort of seen it all."
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_6eadaf0a:
+
+    # "Arthur sighs, looking over the endless field."
+    ""
+
+translate schinese Arthur_Bandit_Meet_Quest_44960d48:
+
+    # ar "Welp, time to work."
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_cc6111a7:
+
+    # ar "Good luck looking for the thief, pup, but stay inside the farm, that way I can actually protect you from any threats."
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_c7f4b7b8:
+
+    # e "Thanks, M-master."
+    e ""
+
+translate schinese Arthur_Bandit_Meet_Quest_05376674:
+
+    # e "Thanks, Arty."
+    e ""
+
+translate schinese Arthur_Bandit_Meet_Quest_Inquire_3f030f5d:
+
+    # e "Master, may I ask again what I should do to catch the thief?"
+    e ""
+
+translate schinese Arthur_Bandit_Meet_Quest_Inquire_43e23dc8:
+
+    # e "Arty, what should I do to catch the thief again?"
+    e ""
+
+translate schinese Arthur_Bandit_Meet_Quest_Inquire_9219fe18:
+
+    # ar "It's easy, when it's morning, walk around right back there in the grove of harvest where the plums are at."
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_Inquire_354646fc:
+
+    # ar "If they're greedy for more of the juicy plums, you'll see them there."
+    ar ""
+
+translate schinese Arthur_Bandit_Meet_Quest_Inquire_2e0e5329:
+
+    # e "Oh! Thank you again!"
+    e ""
+
+translate schinese Arthur_Bandit_Meet_Quest_Inquire_deef2f01:
+
+    # ar "Good, good pup."
+    ar ""
+
+translate schinese Bandit_Meet_Quest_d8da8960:
+
+    # "You hear wheat ruffling from afar, it sounds like it was from the plum tree..."
+    ""
+
+translate schinese Bandit_Meet_Quest_2b276959:
+
+    # e "The thief must be here... right now."
+    e ""
+
+translate schinese Bandit_Meet_Quest_2f386a40:
+
+    # "There's no doubt someone's here."
+    ""
+
+translate schinese Bandit_Meet_Quest_ad5a8517:
+
+    # "Immediately, You race through the grasses back to the plum trees. All the ripe plums you saw just a moment ago are gone. The thief has already taken them all."
+    ""
+
+translate schinese Bandit_Meet_Quest_16b77fa2:
+
+    # e "F-fuck, I have to catch him..."
+    e ""
+
+translate schinese Bandit_Meet_Quest_7a23f3a4:
+
+    # "You can still hear the muffled sound coming from your left, but you see another trail on the right, freshly stomped by someone."
+    ""
+
+translate schinese Bandit_Meet_Quest_4d379e98:
+
+    # "You follow the shuffling noise, raising your ears to detect the source of the sound."
+    ""
+
+translate schinese Bandit_Meet_Quest_ca7d6487:
+
+    # "The sound doesn't fade away, instead it's kept constant as you approach."
+    ""
+
+translate schinese Bandit_Meet_Quest_d7e3edf9:
+
+    # "You try to stay as quiet as possible, for the thief to not notice you."
+    ""
+
+translate schinese Bandit_Meet_Quest_def47a4b:
+
+    # "Jog had taught you about stealth in one of your training, but you're not sure if you are ever experienced enough to tail a thief who's probably more skilful than you are."
+    ""
+
+translate schinese Bandit_Meet_Quest_b0eacb23:
+
+    # "But still, it had helped you figure out how to muffle your own noise."
+    ""
+
+translate schinese Bandit_Meet_Quest_afcb5cbf:
+
+    # "You crouch, sneaking just below the small grass while the sound somewhere near you continues walking away from the farm."
+    ""
+
+translate schinese Bandit_Meet_Quest_eb8969ba:
+
+    # "Suddenly, you hear a loud cracking sound just below your right foot."
+    ""
+
+translate schinese Bandit_Meet_Quest_ae90c3b4:
+
+    # "C-CRACK!"
+    ""
+
+translate schinese Bandit_Meet_Quest_feebc0da:
+
+    # "Without further glance, you accidentally step on a flail twig. And for a second, your heart sinks."
+    ""
+
+translate schinese Bandit_Meet_Quest_77e63caa:
+
+    # "The pacing noise stops, perhaps someone has noticed your presence."
+    ""
+
+translate schinese Bandit_Meet_Quest_c264b283:
+
+    # "You are unsure if he has noticed you, but if he does, you'd think you're ready for a fight."
+    ""
+
+translate schinese Bandit_Meet_Quest_35b5e4b5:
+
+    # "Something is awry, he might have already seen you and is thinking of the fastest way to escape."
+    ""
+
+translate schinese Bandit_Meet_Quest_0ccc1edd:
+
+    # "You know which direction he is in, and with certain agility, you might as well be able to catch him."
+    ""
+
+translate schinese Bandit_Meet_Quest_715f03f6:
+
+    # "Perhaps the thief was the one that stepped on the stalks, you choose to follow the trails."
+    ""
+
+translate schinese Bandit_Meet_Quest_a20cefa7:
+
+    # "..."
+    ""
+
+translate schinese Bandit_Meet_Quest_d43ec6ff:
+
+    # "Taking the faint footstep by the flattened plants, you walked for a while that the ruffled sound from the other side stopped."
+    ""
+
+translate schinese Bandit_Meet_Quest_934b159f:
+
+    # "You are still figuring out which direction it leads to, before noticing that as you go forwards, the trail seems to get more and more obscure, until it disappears at one point."
+    ""
+
+translate schinese Bandit_Meet_Quest_8592c8be:
+
+    # "It leads to a muddy footstep that's facing your direction."
+    ""
+
+translate schinese Bandit_Meet_Quest_7af317a5:
+
+    # "It was a dead end."
+    ""
+
+translate schinese Bandit_Meet_Quest_085aa496:
+
+    # "You look around one last time, just to make sure the thief is not nearby."
+    ""
+
+translate schinese Bandit_Meet_Quest_56d8e85e:
+
+    # "But eventually, you return to the farm empty handed, knowing that the plums are gone, again."
+    ""
+
+translate schinese Bandit_Meet_Quest_7662cee2:
+
+    # "You run after the thief, solely based on the direction of the sound."
+    ""
+
+translate schinese Bandit_Meet_Quest_2a70c8df:
+
+    # "The rash movement you've made immediately reveals your presence to him. Now standing tall, you can see a gray figure hidden in grass and flowers."
+    ""
+
+translate schinese Bandit_Meet_Quest_63b28fc2:
+
+    # rbd "S-shit."
+    rbd ""
+
+translate schinese Bandit_Meet_Quest_c300f281:
+
+    # "You hear a hushed voice just in front of you."
+    ""
+
+translate schinese Bandit_Meet_Quest_55fb5705:
+
+    # "The thief starts running away, he looks relatively small in size, and it seems he runs swiftly just like Jog does."
+    ""
+
+translate schinese Bandit_Meet_Quest_09c227f0:
+
+    # "You speed up, draining all your energy just to catch a glimpse of the thief. but he doesn't slow down as well."
+    ""
+
+translate schinese Bandit_Meet_Quest_5aaee271:
+
+    # "You try to run as fast as you can, and you manage to keep a constant distance between you and the thief."
+    ""
+
+translate schinese Bandit_Meet_Quest_3b31daee:
+
+    # "And eventually, he loses stamina pretty quickly, and you closes distance with him bit by bit."
+    ""
+
+translate schinese Bandit_Meet_Quest_e5fa3b4b:
+
+    # "Suddenly, you lose sight of him."
+    ""
+
+translate schinese Bandit_Meet_Quest_66be56f1:
+
+    # "Did he just, escaped? There's no way as he was just here seconds ago."
+    ""
+
+translate schinese Bandit_Meet_Quest_a20cefa7_1:
+
+    # "..."
+    ""
+
+translate schinese Bandit_Meet_Quest_3fba7c31:
+
+    # "There's no sigh of the thief, anywhere."
+    ""
+
+translate schinese Bandit_Meet_Quest_a20cefa7_2:
+
+    # "..."
+    ""
+
+translate schinese Bandit_Meet_Quest_1b88f674:
+
+    # "SMACK!"
+    ""
+
+translate schinese Bandit_Meet_Quest_2a43808c:
+
+    # "Suddenly, an enraged rat just jumps in front of you."
+    ""
+
+translate schinese Bandit_Meet_Quest_4ddfa7fc:
+
+    # "There's no plum on his hands, instead you see daggers pointing towards you."
+    ""
+
+translate schinese Bandit_Meet_Quest_d15e028b:
+
+    # rbd "Let's get over with it, fool."
+    rbd ""
+
+translate schinese Bandit_Meet_Quest_0437b980:
+
+    # "You try to run as fast as you can, but... he is faster."
+    ""
+
+translate schinese Bandit_Meet_Quest_8b181bd7:
+
+    # "It doesn't take long before you lose sight of the thief."
+    ""
+
+translate schinese Bandit_Meet_Quest_085aa496_1:
+
+    # "You look around one last time, just to make sure the thief is not nearby."
+    ""
+
+translate schinese Bandit_Meet_Quest_56d8e85e_1:
+
+    # "But eventually, you return to the farm empty handed, knowing that the plums are gone, again."
+    ""
+
+translate schinese Bandit_Meet_Quest_ab2483f5:
+
+    # "You decide to stand still, not moving a single muscle or making a single sound."
+    ""
+
+translate schinese Bandit_Meet_Quest_cac58dec:
+
+    # "Somehow, the farm is weirdly quiet for a few seconds. You know the thief is looking around, and you can only hope that he doesn't see you."
+    ""
+
+translate schinese Bandit_Meet_Quest_ddc74e25:
+
+    # "The twig underneath your foot is still making faint noise from any minor movement."
+    ""
+
+translate schinese Bandit_Meet_Quest_0c47fdcd:
+
+    # "You can only lay your weight onto the other foot, waiting for the thief to continue on their way."
+    ""
+
+translate schinese Bandit_Meet_Quest_39ad214a:
+
+    # "Something moved, you are sure that the thief has started moving around, perhaps he continues on his path, or perhaps he's trying to search for you."
+    ""
+
+translate schinese Bandit_Meet_Quest_cc3705a0:
+
+    # "You are not coping with the nervousness very well, sweat pours from the side of your head, moistens your fluffy beard."
+    ""
+
+translate schinese Bandit_Meet_Quest_e7202fe8:
+
+    # "And now that even a drop of sweat has become so noticeable in such a quiet place, there's really nowhere to hide."
+    ""
+
+translate schinese Bandit_Meet_Quest_2ad49062:
+
+    # rbd "Must have been the... scarecrows."
+    rbd ""
+
+translate schinese Bandit_Meet_Quest_0b356b44:
+
+    # "The thief mutters softly to himself, you are sort of surprised how pleasant his voice sounds, even if you haven't seen his face yet, you still can't imagine the look of a thief with such a high-pitched cadence."
+    ""
+
+translate schinese Bandit_Meet_Quest_1a2d8ee1:
+
+    # "You are more certain that the thief has continued on his way now, you sigh a breath of relief silently, and you continue following the man."
+    ""
+
+translate schinese Bandit_Meet_Quest_25116a59:
+
+    # "This time you are a hundred percent careful, and certain that no twigs can make you fumble the mission now, so you ready your items and weapons, in case the target confronts you any time soon."
+    ""
+
+translate schinese Bandit_Meet_Quest_cedec611:
+
+    # "Luckily, he doesn't, he doesn't even seem to notice your presence, just walking forward, towards somewhere outside of the farm."
+    ""
+
+translate schinese Bandit_Meet_Quest_3fbc407b:
+
+    # "You wish to continue, but he's walking further and further away from Jog and Arthur's territories. There's just too much uncertainty."
+    ""
+
+translate schinese Bandit_Meet_Quest_9e72999d:
+
+    # "You figured out that Jog and Arthur were right, there's no reason for you to venture outside the farm."
+    ""
+
+translate schinese Bandit_Meet_Quest_a08d91d3:
+
+    # "Plus, you may get caught out there, and no one could have helped you."
+    ""
+
+translate schinese Bandit_Meet_Quest_bfd33d72:
+
+    # "The thief doesn't even know he's being followed, perhaps another time you'll just catch him red-handed."
+    ""
+
+translate schinese Bandit_Meet_Quest_7650dd0e:
+
+    # "Regardless, you give up your pursuit and return to Lusterfield."
+    ""
+
+translate schinese Bandit_Meet_Quest_a2ee38f0:
+
+    # "You decide to follow him out of the farm, he still doesn't notice your presence in the farm, and by the way you sneak past the grass, you might be able to confront him when he takes a rest."
+    ""
+
+translate schinese Bandit_Meet_Quest_5b1313b2:
+
+    # "He walks out of the field very quickly, and you peek over, just to see who this grey figure really is."
+    ""
+
+translate schinese Bandit_Meet_Quest_b5115812:
+
+    # "You raise your head, from the back of the thief, he looks like... a rat, with a pair of round ears and thin tails."
+    ""
+
+translate schinese Bandit_Meet_Quest_69abd296:
+
+    # "He is covered in fur clothing, a leather mask and hard fabric covering his face."
+    ""
+
+translate schinese Bandit_Meet_Quest_fb170082:
+
+    # "Definitely someone that walks sneakily, just like Jog usually does."
+    ""
+
+translate schinese Bandit_Meet_Quest_4e49b14a:
+
+    # "Leaving the field, your means of camouflage is rendered obsolete, he is walking towards the green plains, and there's no way you can hide in plain sight..."
+    ""
+
+translate schinese Bandit_Meet_Quest_cfbd084a:
+
+    # "You decide to wait it out, just for the rat thief to walk far away from you, and you tails him loosely, often taking advantage of small hills as cover."
+    ""
+
+translate schinese Bandit_Meet_Quest_6703dc96:
+
+    # "And luckily, he doesn't ever turn back, just tossing his stolen plums around like a circus show."
+    ""
+
+translate schinese Bandit_Meet_Quest_46ac16a3:
+
+    # "You continue walking for a long time..."
+    ""
+
+translate schinese Bandit_Meet_Quest_a552d4cb:
+
+    # "Soon, the thief arrives at a large hideout. He casually moves inside, looks around and closes the door."
+    ""
+
+translate schinese Bandit_Meet_Quest_bb6f064f:
+
+    # "There're flags just floating around the stone building, with dried red paint all over the cloth."
+    ""
+
+translate schinese Bandit_Meet_Quest_6da93bea:
+
+    # "No one's watching the door..."
+    ""
+
+translate schinese Bandit_Meet_Quest_9b345628:
+
+    # "You try to get close, listening in on whatever is happening inside."
+    ""
+
+translate schinese Bandit_Meet_Quest_a20cefa7_3:
+
+    # "..."
+    ""
+
+translate schinese Bandit_Meet_Quest_fdab432e:
+
+    # sbd "Got the plums?"
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_d2c9e120:
+
+    # "You hear a gruff voice from the other side of the wall. It is certainly not from the thief you were following."
+    ""
+
+translate schinese Bandit_Meet_Quest_e67370e4:
+
+    # rbd "Here are the plums, boss."
+    rbd ""
+
+translate schinese Bandit_Meet_Quest_c2ef9b75:
+
+    # rbd "Almost got eaten alive by that scarecrow."
+    rbd ""
+
+translate schinese Bandit_Meet_Quest_d5125083:
+
+    # rbd "I think the farmers noticed, I've heard footsteps coming back, maybe we shouldn't go there again."
+    rbd ""
+
+translate schinese Bandit_Meet_Quest_a1983bcd:
+
+    # sbd "Who cares what they think- The hyena's got our back."
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_6786a57e:
+
+    # "The hyena...? Was he talking about Jog?"
+    ""
+
+translate schinese Bandit_Meet_Quest_2a859e1d:
+
+    # sbd "I'm gonna beat your ass hard if you don't come back with a handful of plums next time."
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_9bf1ec71:
+
+    # rbd "Yes, boss."
+    rbd ""
+
+translate schinese Bandit_Meet_Quest_1c76f4ef:
+
+    # "The bandit with a gruff noise begins chomping on the plums, making loud noises across the room."
+    ""
+
+translate schinese Bandit_Meet_Quest_c763195c:
+
+    # rbd "Where are the others?"
+    rbd ""
+
+translate schinese Bandit_Meet_Quest_4ca31baa:
+
+    # sbd "We've got some drifters out there, they're handling them."
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_59245112:
+
+    # rbd "Are they all gone? I didn't know we are on patrol today."
+    rbd ""
+
+translate schinese Bandit_Meet_Quest_938f7c15:
+
+    # sbd "Everyone else all knew, I just told you to get plums for me, clodhopper."
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_256cc3de:
+
+    # sbd "Maybe if you stayed quiet and didn't spoil our plan last time I'd trust you with our shit."
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_ff612c87:
+
+    # rbd "Boss! Last time was a mistake, I won't disappoint you again."
+    rbd ""
+
+translate schinese Bandit_Meet_Quest_8e61fb37:
+
+    # rbd "I promise!"
+    rbd ""
+
+translate schinese Bandit_Meet_Quest_25ef101a:
+
+    # "You can hear a loud sigh."
+    ""
+
+translate schinese Bandit_Meet_Quest_226a1387:
+
+    # sbd "It's still early, you should join them."
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_ea2bbaa5:
+
+    # rbd "Do I get to keep my share of the gold?"
+    rbd ""
+
+translate schinese Bandit_Meet_Quest_2a8f6f04:
+
+    # sbd "Half the share."
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_9bf1ec71_1:
+
+    # rbd "Yes, boss."
+    rbd ""
+
+translate schinese Bandit_Meet_Quest_9dbd49e3:
+
+    # "You hear the sound of the thief promptly leaving the hideout, and you quickly hide behind another wall before he sees you."
+    ""
+
+translate schinese Bandit_Meet_Quest_01cd8aab:
+
+    # "You sigh a breath of relief, and remember what his boss talked about... Jog. He wouldn't betray the farm's interest for them, right?"
+    ""
+
+translate schinese Bandit_Meet_Quest_9e121e14:
+
+    # "And Jog was the one that got his plums stolen, he was the one that sends you on this mission in the first place."
+    ""
+
+translate schinese Bandit_Meet_Quest_14fe1d5b:
+
+    # "There's no way he is complicit with a group of bandits."
+    ""
+
+translate schinese Bandit_Meet_Quest_688ed111:
+
+    # "But it does explain why he was so hesitant to share his information with you."
+    ""
+
+translate schinese Bandit_Meet_Quest_46bfc09e:
+
+    # "But, what if Sebas was right about him?"
+    ""
+
+translate schinese Bandit_Meet_Quest_97d04ca4:
+
+    # "You're still pondering the possibility, but a window flying in your face snaps you out of the train of thoughts completely."
+    ""
+
+translate schinese Bandit_Meet_Quest_d026e418:
+
+    # "SMACK-"
+    ""
+
+translate schinese Bandit_Meet_Quest_87f71252:
+
+    # "The window pane slaps you pretty hard, and you are not quick enough to react before the bandit boss peeks out of it."
+    ""
+
+translate schinese Bandit_Meet_Quest_38505796:
+
+    # "A shark's face comes staring right at you, he is covered in leather armor, giving you a weird glance."
+    ""
+
+translate schinese Bandit_Meet_Quest_8d39d845:
+
+    # sbd "Who the hell are you?"
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_61d6eaff:
+
+    # "It takes a few seconds for you to process that you've been caught, you are still pressing on the back of your head."
+    ""
+
+translate schinese Bandit_Meet_Quest_6b6aa51f:
+
+    # e "I'm just passing by this place, taking off now."
+    e ""
+
+translate schinese Bandit_Meet_Quest_3e49f9b6:
+
+    # sbd "Not so easy."
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_71abbefe:
+
+    # e "Well, you caught me... "
+    e ""
+
+translate schinese Bandit_Meet_Quest_bc8850bd:
+
+    # sbd "I did."
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_c9ab8aa0:
+
+    # e "I... uh... am new, bandit recruit, boss."
+    e ""
+
+translate schinese Bandit_Meet_Quest_dcfe58a8:
+
+    # sbd "New? We haven't had any new recruits for a while."
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_a8882e4e:
+
+    # e "Did the others not tell you about me? I'm really good at taking... people's things, boss."
+    e ""
+
+translate schinese Bandit_Meet_Quest_762beba4:
+
+    # "The shark looks at you with a face full of confusion."
+    ""
+
+translate schinese Bandit_Meet_Quest_add45ee7:
+
+    # sbd "I don't recall any goats being a new recruit... well, you know what you should bring me... right?"
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_1a1a0268:
+
+    # e "Bring you?"
+    e ""
+
+translate schinese Bandit_Meet_Quest_50f35578:
+
+    # "He points at his belly, and the surroundings."
+    ""
+
+translate schinese Bandit_Meet_Quest_bd165e37:
+
+    # sbd "Everyone of us know."
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_2bbad634:
+
+    # "You prepare to run away from the bandit, but the shark just jumps across the window."
+    ""
+
+translate schinese Bandit_Meet_Quest_e07e7663:
+
+    # "He lands right next to you, holding an axe over his shoulder."
+    ""
+
+translate schinese Bandit_Meet_Quest_8b432430:
+
+    # "You walk a few steps backwards, your body is trembling, the shark bandit is extremely bulky as compared to you."
+    ""
+
+translate schinese Bandit_Meet_Quest_fc7e010e:
+
+    # sbd "A walking bag of gold, huh?"
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_d586b4b0:
+
+    # sbd "Now, hand over everything, traveler."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_1f7a14c1:
+
+    # e "Here's your... rose, boss."
+    e ""
+
+translate schinese Bandit_Recruit_Shark_8e2d60da:
+
+    # sbd "The fuck is this?"
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_de8a833e:
+
+    # sbd "You wanna propose or something?"
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_13e46657:
+
+    # e "Here's your meat, boss."
+    e ""
+
+translate schinese Bandit_Recruit_Shark_c6468503:
+
+    # sbd "Ugh, meat?"
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_7daeb877:
+
+    # e "Here's the blue berry you need."
+    e ""
+
+translate schinese Bandit_Recruit_Shark_15f4af97:
+
+    # sbd "What?"
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_7e5be565:
+
+    # e "What?"
+    e ""
+
+translate schinese Bandit_Recruit_Shark_512ab907:
+
+    # sbd "You're kidding."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_f9e2f36d:
+
+    # e "Here's the apple."
+    e ""
+
+translate schinese Bandit_Recruit_Shark_96bc7f03:
+
+    # sbd "That looks like the plums I have here."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_8a91b2c4:
+
+    # e "Here's your iron, boss."
+    e ""
+
+translate schinese Bandit_Recruit_Shark_e5ed05bb:
+
+    # sbd "What's this, you think I'm a smither?"
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_e5742a86:
+
+    # e "Here's the gold, I have 100 of them, boss."
+    e ""
+
+translate schinese Bandit_Recruit_Shark_d1016510:
+
+    # sbd "T-that's a pathetic amount of gold."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_8462dda4:
+
+    # e "Here's the cashmere you need, boss."
+    e ""
+
+translate schinese Bandit_Recruit_Shark_786db37a:
+
+    # sbd "What the fuck is the use of these."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_5bd3d78f:
+
+    # e "It's for knitting, boss."
+    e ""
+
+translate schinese Bandit_Recruit_Shark_d0acf6f5:
+
+    # sbd "You think I'm here to fucking knit a sweater for you like an old grandma?"
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_f29dc1e6:
+
+    # e "Uh... Sorry B-boss... I do not have anything ready, yet."
+    e ""
+
+translate schinese Bandit_Recruit_Shark_9028e2d4:
+
+    # sbd "Nothing?"
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_ebe65b0e:
+
+    # "The shark scratches his chin, his impatient look is beginning to worry you."
+    ""
+
+translate schinese Bandit_Recruit_Shark_b8fea578:
+
+    # sbd "Well that means you don't know shit about us then."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_e07e7663:
+
+    # "He lands right next to you, holding an axe over his shoulder."
+    ""
+
+translate schinese Bandit_Recruit_Shark_8b432430:
+
+    # "You walk a few steps backwards, your body is trembling, the shark bandit is extremely bulky as compared to you."
+    ""
+
+translate schinese Bandit_Recruit_Shark_fc7e010e:
+
+    # sbd "A walking bag of gold, huh?"
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_d586b4b0:
+
+    # sbd "Now, hand over everything, traveler."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_ff3b5c9f:
+
+    # sbd "Whatever, it looks fresh red, that's good enough."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_d9e25c51:
+
+    # e "Fresh red?"
+    e ""
+
+translate schinese Bandit_Recruit_Shark_a01e09a4:
+
+    # sbd "Yeah, red food. Did you not know what you were bringing?"
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_2a20d799:
+
+    # e "Uh... yes of course, red food, right. I love blood, and stealing people's hard-earned food!"
+    e ""
+
+translate schinese Bandit_Recruit_Shark_c2ebdbab:
+
+    # e "May I ask whose are the blood on the flags outside?"
+    e ""
+
+translate schinese Bandit_Recruit_Shark_5c93c78d:
+
+    # sbd "Blood? We don't do blood here."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_050072d0:
+
+    # sbd "It's food paint, we're not killing travelers left and right just to paint these fucking flags."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_8e1f59ef:
+
+    # sbd "But they do scare off a few of those pesky local heroes trying to prove their worth."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_45c3dd6f:
+
+    # sbd "Also, why are you asking?"
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_7567a411:
+
+    # e "Uh, just curious, boss."
+    e ""
+
+translate schinese Bandit_Recruit_Shark_14895990:
+
+    # sbd "Suspicious, but well. You've passed my test, which is the official one, not the riddles those goons been doing."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_337d2d60:
+
+    # e "Thank you, boss."
+    e ""
+
+translate schinese Bandit_Recruit_Shark_81310a5e:
+
+    # sbd "Now, go out and patrol, or whatever you were doing."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_e2a62376:
+
+    # sbd "Don't stand here again. Next time I open the window it's gonna smash your face in."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_c140f559:
+
+    # sbd "And bring me some red food when you get them."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_8b6587d6:
+
+    # e "Got it, boss."
+    e ""
+
+translate schinese Bandit_Recruit_Shark_024429c4:
+
+    # "The shark returns back inside the hideout, he casually sits on the table with the newly acquired plums and other food."
+    ""
+
+translate schinese Bandit_Recruit_Shark_cb25db42:
+
+    # "You stare at the bandit boss, he's just munching down on the food like you're not here."
+    ""
+
+translate schinese Bandit_Recruit_Shark_6e23df8b:
+
+    # "But he quickly picks up on your glare."
+    ""
+
+translate schinese Bandit_Recruit_Shark_83ffded4:
+
+    # sbd "Get lost, meathead."
+    sbd ""
+
+translate schinese Bandit_Recruit_Shark_b4120b98:
+
+    # "You take your leave, and run away as fast as you can. The shark doesn't seem to mind that though."
+    ""
+
+translate schinese Bandit_Recruit_Shark_a20cefa7:
+
+    # "..."
+    ""
+
+translate schinese Bandit_Recruit_Shark_82e16557:
+
+    # "What just happened...? Everything happened so quickly..."
+    ""
+
+translate schinese Bandit_Recruit_Shark_2922413b:
+
+    # "Are you a bandit now? That doesn't sound like a proper bandit initiation, but to be honest, you aren't sure how bandits are recruited either."
+    ""
+
+translate schinese Bandit_Recruit_Shark_2639284c:
+
+    # "He does seem to believe you are a bandit..."
+    ""
+
+translate schinese Bandit_Recruit_Shark_be70da55:
+
+    # "Perhaps you can return here later to see if the shark recognised you..."
+    ""
+
+translate schinese Bandit_Recruit_Shark_80051a5f:
+
+    # "It... would be extremely unlikely that you'd willingly return here though."
+    ""
+
+translate schinese Bandit_Recruit_Shark_ccc46f4b:
+
+    # "...and."
+    ""
+
+translate schinese Bandit_Recruit_Shark_72fd962f:
+
+    # "Plums. You still haven't stopped the thief, yet. Perhaps you'd have to catch him red-handed later."
+    ""
+
+translate schinese Bandit_Recruit_Shark_a20cefa7_1:
+
+    # "..."
+    ""
+
+translate schinese Bandit_Recruit_Shark_b7ab094e:
+
+    # "You return to the farm with thoughts about the bandits along the way."
+    ""
+
+translate schinese Bandit_Recruit_Fail_3c02012e:
+
+    # e "B-boss n-no...I-"
+    e ""
+
+translate schinese Bandit_Recruit_Fail_19727bee:
+
+    # sbd "You're clearly either deaf or aren't my bandit."
+    sbd ""
+
+translate schinese Bandit_Recruit_Fail_0a3d2a8c:
+
+    # sbd "In both case you're dead!"
+    sbd ""
+
+translate schinese Bandit_Recruit_Fail_72a33094:
+
+    # e "..."
+    e ""
+
+translate schinese Bandit_Recruit_Fail_5fd8e39d:
+
+    # sbd "Dead-f..."
+    sbd ""
+
+translate schinese Jog_Bandit_Meet_Quest_b3d216a9:
+
+    # e "Jog, is there something wrong?"
+    e ""
+
+translate schinese Jog_Bandit_Meet_Quest_59945ea0:
+
+    # j "What do you mean, something on my face? Amble broke the bucket again?"
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_3e7c581c:
+
+    # e "No, I mean generally, but what happened to the bucket...?"
+    e ""
+
+translate schinese Jog_Bandit_Meet_Quest_76789085:
+
+    # j "Ah, go ask Amb if you wanna know. But I do have something else on my hand at the moment."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_9c18a15c:
+
+    # a "Hey, puny friend. Good to see you here."
+    a ""
+
+translate schinese Jog_Bandit_Meet_Quest_3fb1cb68:
+
+    # "A familiar red coloured bear walks inadvertently, with a few similarly coloured apples on his hands."
+    ""
+
+translate schinese Jog_Bandit_Meet_Quest_e0f2125c:
+
+    # j "Amb, you've got those precious red plums?"
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_df0f5fb0:
+
+    # a "Oh, about that. I saw only a few rotten ones in the trees, but Arty gave me these healthy looking ones instead-"
+    a ""
+
+translate schinese Jog_Bandit_Meet_Quest_749cfd80:
+
+    # j "You idiot, these are apples! Not plums. Did that old dog tell you it's even more tastier than the real ones?"
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_bffee593:
+
+    # a "Wait, were you following me? How did you know..."
+    a ""
+
+translate schinese Jog_Bandit_Meet_Quest_e3c9ac92:
+
+    # j "You oaf."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_b8b67533:
+
+    # "The snarky hyena grins at the dumbfounded Amble."
+    ""
+
+translate schinese Jog_Bandit_Meet_Quest_14117f2e:
+
+    # j "And I asked for a basket, what happened?"
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_b1f3a375:
+
+    # a "The last time I checked they were fine, but today the plums all disappeared, and I could only see some red juice stains on the grass."
+    a ""
+
+translate schinese Jog_Bandit_Meet_Quest_ba16a4b4:
+
+    # e "Did someone steal from the farm? I didn't see anyone doing that in broad daylight."
+    e ""
+
+translate schinese Jog_Bandit_Meet_Quest_05a4fd30:
+
+    # j "And what I see, is someone getting hungry for these juicy babies. I'll miss them."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_6c1b7787:
+
+    # "You notice Jog grabbing the apples from Amble, before munching down onto one of the red fruits."
+    ""
+
+translate schinese Jog_Bandit_Meet_Quest_753797d9:
+
+    # e "You aren't going to find out who took the plums?"
+    e ""
+
+translate schinese Jog_Bandit_Meet_Quest_1f431793:
+
+    # j "No, Amble and I already know who did it."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_999bd7db:
+
+    # a "W-wait, I don't know who stole your plums."
+    a ""
+
+translate schinese Jog_Bandit_Meet_Quest_5bb80a41:
+
+    # e "Me neither."
+    e ""
+
+translate schinese Jog_Bandit_Meet_Quest_9866ae96:
+
+    # "Jog takes another bite out of the apple, making loud crunch noises after another."
+    ""
+
+translate schinese Jog_Bandit_Meet_Quest_3671e98f:
+
+    # j "Well, if you want to find out what's out there, be my guest, go ask Arthur about the area and follow that trail or whatever Amble was talking about."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_fe8b36bc:
+
+    # j "Amble and I have been out here scouting and fixing roads for a while, but you should still be cautious."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_cd75e2f3:
+
+    # j "If it's safe for you to walk on it, it's safer for them to walk as well."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_14e9b6d5:
+
+    # a "Puny friend, I should go with you for extra safety."
+    a ""
+
+translate schinese Jog_Bandit_Meet_Quest_db90bb99:
+
+    # "You feel warmer upon hearing Amble, but it soon dissipates as Jog yanks on the bear's hand hard to drag Amble towards him."
+    ""
+
+translate schinese Jog_Bandit_Meet_Quest_0c9cf0a8:
+
+    # j "You stay! I'm not done with your abs."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_95d7112e:
+
+    # j "Sorry, [e]. Amble's too busy, he can't go with you."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_8a93bdbd:
+
+    # e "It's ok, I can handle myself."
+    e ""
+
+translate schinese Jog_Bandit_Meet_Quest_1d0fc1e2:
+
+    # "Amble gives you an awkward smile as he sits on the hay piles."
+    ""
+
+translate schinese Jog_Bandit_Meet_Quest_23ac6cc2:
+
+    # j "But, anyway, if you can get me some of those plums back. I'll teach you how to perform a piercing blow."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_7bfb4651:
+
+    # e "Is... that it?"
+    e ""
+
+translate schinese Jog_Bandit_Meet_Quest_33dd65c9:
+
+    # "Jog gives you a side glance, and then chuckles."
+    ""
+
+translate schinese Jog_Bandit_Meet_Quest_30a614b7:
+
+    # j "Since when did you learn to talk like this?"
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_73420d35:
+
+    # j "Alright, Amble will give you 400 gold as well, enough for your greedy ass?"
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_ac7f43e9:
+
+    # e "I guess that's enough for my greedy ass."
+    e ""
+
+translate schinese Jog_Bandit_Meet_Quest_f13d36d7:
+
+    # j "Good, now get your ass out there and bring me back the plums before I get a hold of it."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_79114e0b:
+
+    # e "Maybe I'll check it out later."
+    e ""
+
+translate schinese Jog_Bandit_Meet_Quest_b2e57b61:
+
+    # j "Plums don't wait, but I'll be eating my apples until your lazy ass comes back."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_3d65667c:
+
+    # "The two wave you goodbye, before talking among themselves."
+    ""
+
+translate schinese Jog_Bandit_Meet_Quest_0e97eca1:
+
+    # "Unable to hear their conversation, you take your leave swiftly."
+    ""
+
+translate schinese Jog_Bandit_Meet_Quest_Inquire_e7cda083:
+
+    # e "Jog, I think I will look for your plums, what should I do again?"
+    e ""
+
+translate schinese Jog_Bandit_Meet_Quest_Inquire_7c71b49a:
+
+    # j "Good, you can't let these juicy devils go to waste in somebody else's belly, much like cum."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_Inquire_d94c27a1:
+
+    # "Jog gives you an evil grin and licks his lip intently."
+    ""
+
+translate schinese Jog_Bandit_Meet_Quest_Inquire_553298f9:
+
+    # j "Just go to the old farmer's place, he'll tell you about the problem, stop the thief, and perhaps get me back the plums, if they're not already in someone else's belly."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_Inquire_24ccf0c3:
+
+    # e "Is there anything I need to be careful of?"
+    e ""
+
+translate schinese Jog_Bandit_Meet_Quest_Inquire_27c841c5:
+
+    # "The hyena stares at you for a moment, before taking another bite out of his apple."
+    ""
+
+translate schinese Jog_Bandit_Meet_Quest_Inquire_2c405ba7:
+
+    # j "Just don't wander off the farm, you know. Stranger danger."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_Inquire_d44e5b62:
+
+    # j "Someone might take your money, and probably get your ass eaten, figuratively."
+    j ""
+
+translate schinese Jog_Bandit_Meet_Quest_Inquire_7115ea73:
+
+    # e "A-alright."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_56fdbe7a:
+
+    # e "About the plums..."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_1b2d8036:
+
+    # "Jog glances at you, his face immediately turns serious."
+    ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_de1c3315:
+
+    # j "You've caught the thief?"
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_92f16cc0:
+
+    # e "Yeah."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_54c0be6e:
+
+    # e "It was a rat, he said he is a bandit or something."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_cf6b48e3:
+
+    # j "What happened to him?"
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_c05d3456:
+
+    # e "Uh... I let him take the plums and leave."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_b00f9d2e:
+
+    # e "But he's not coming back, which's the most important thing, right?"
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_2b635f62:
+
+    # j "Maybe, why did he come here?"
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_398bcdfa:
+
+    # e "He, uh. uh. H-he thought he was safe, because of hyena."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_81aa04ff:
+
+    # "Jog raises his brows, you're certain his glare isn't a kind one."
+    ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_49246578:
+
+    # j "Something about me?"
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_ed9d0ede:
+
+    # e "Yeah, he said something along the line of the hyena will keep him safe."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_28a29dd3:
+
+    # e "Well, I've got the plums, right here."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_23c60c13:
+
+    # j "W-well, and I was starting to get used to the taste of these apples."
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_cf1167ef:
+
+    # e "I beat him up pretty badly. Doesn't seem like he's coming back."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_9773434e:
+
+    # e "I don't think so either. He begged to keep the plums though. I didn't give him back."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_2de3a988:
+
+    # j "Good, now I can finally enjoy these plums without these pesky varmints getting in the way."
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_f0a0a70c:
+
+    # "Jog sounds disinterested. Almost void of any emotion despite getting the plums back."
+    ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_912927ea:
+
+    # e "You know about him?"
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_b4fa3fc0:
+
+    # j "..."
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_e4cb7ac5:
+
+    # e "He talked about a hyena before, I thought it was talking ab-."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_213afb95:
+
+    # j "What do you think?"
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_6535c757:
+
+    # e "Ah?"
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_d215981f:
+
+    # e "Well, I followed him outside the farm."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_b4fa3fc0_1:
+
+    # j "..."
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_fc4f2e72:
+
+    # j "Did I not tell you to not go outside."
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_b1fb7d4c:
+
+    # e "Ye-yes, but I wanted to see who he was."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_6cabd9d9:
+
+    # j "You don't really listen, do you?"
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_14261e80:
+
+    # "Jog sighs."
+    ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_cbdbf618:
+
+    # j "I knew you were reckless as hell when you chose to distract those goats back then."
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_da622ac7:
+
+    # j "What did you find out, then."
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_30bc96f5:
+
+    # e "He was a rat and I followed him to their hideout."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_6ab4687b:
+
+    # e "I saw a shark, I think he is probably from the bandits."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_16c0650b:
+
+    # e "And... I got caught there."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_01cc306b:
+
+    # e "I didn't know what to do, so I just lied, saying I was a recruit, just to get out."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_27ddaf2a:
+
+    # j "O-ok."
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_c8e615f4:
+
+    # j "You knew about the red food thing?"
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_f781326f:
+
+    # e "I didn't know, I just guessed, I guess."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_c0eebb2d:
+
+    # j "S-so what. You're a bandit now?"
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_5f435be0:
+
+    # e "They think I am, but not really."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_30bc0c54:
+
+    # j "Are you joking right now? Did that shark just let you go like that?"
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_b0b48626:
+
+    # e "Y-yeah."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_9f37517e:
+
+    # j "...Boring."
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_5a2b0c40:
+
+    # j "Did they say something... about a hyena?"
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_92f16cc0_1:
+
+    # e "Yeah."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_d494d9b3:
+
+    # e "I just won against him, he said he wouldn't come again."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_426e5ab5:
+
+    # j "And you trust him?"
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_84e7f73f:
+
+    # e "Yeah, I do."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_c1fe543f:
+
+    # j "You'd trust a bandit?"
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_3a14a5ef:
+
+    # e "I trust a bandit that's just been beaten up."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_3b37cfc7:
+
+    # e "Not really, but I'll have to take his word for now."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_1adc08d8:
+
+    # j "If you piss him off you'll have a whole band of bandits storming Lusterfield, you know."
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_9ab19e39:
+
+    # e "...Uh. I didn't think that part through."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_12f4457a:
+
+    # e "He did mention a hyena in Lusterfield, though."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_a5a6fa0b:
+
+    # e "And I limped back to Lusterfield."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_8d76519e:
+
+    # j "You can't be too careless."
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_1adc08d8_1:
+
+    # j "If you piss him off you'll have a whole band of bandits storming Lusterfield, you know."
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_9ab19e39_1:
+
+    # e "...Uh. I didn't think that part through."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_12f4457a_1:
+
+    # e "He did mention a hyena in Lusterfield, though."
+    e ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_70ae7c5d:
+
+    # j "And hyena, huh."
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_213afb95_1:
+
+    # j "What do you think?"
+    j ""
+
+translate schinese Jog_Return_Bandit_Meet_Quest_6535c757_1:
+
+    # e "Ah?"
+    e ""
+
+translate schinese Jog_Bandit_Ask_End_d84c5efc:
+
+    # j "He was talking about me, what do you think?" nointeract
+    j "" nointeract
+
+translate schinese Jog_Bandit_Ask_End_26de6fe0:
+
+    # e "I think he was talking about another hyena? Maybe he recognised a hyena from another place."
+    e ""
+
+translate schinese Jog_Bandit_Ask_End_2d4618b3:
+
+    # j "N-no I'm pretty sure he's talking about me."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_67e6ee5b:
+
+    # j "Now, am I the one that helped those guys?"
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_900d1dda:
+
+    # e "I was just thinking, maybe you... knew him?"
+    e ""
+
+translate schinese Jog_Bandit_Ask_End_3b259224:
+
+    # j "Do you think I helped those guys take advantage of the village?"
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_de54dc83:
+
+    # e "Of course not, I look fondly of you, Jog."
+    e ""
+
+translate schinese Jog_Bandit_Ask_End_1f66d807:
+
+    # e "You're not like them at all."
+    e ""
+
+translate schinese Jog_Bandit_Ask_End_cde5a5ec:
+
+    # "Jog unclenches his fist, he stares at you."
+    ""
+
+translate schinese Jog_Bandit_Ask_End_1d32c660:
+
+    # j "Why do you think that?"
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_48dc4429:
+
+    # e "Well, I think you're pretty witty and funny, and you treat your friends really well."
+    e ""
+
+translate schinese Jog_Bandit_Ask_End_18ed5aef:
+
+    # e "That, I don't see in any of them."
+    e ""
+
+translate schinese Jog_Bandit_Ask_End_b4fa3fc0:
+
+    # j "..."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_68894f63:
+
+    # "Jog looks away, his face filled with bewilderment."
+    ""
+
+translate schinese Jog_Bandit_Ask_End_75b24aca:
+
+    # j "Huh."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_c07d1989:
+
+    # j "Did Sebas not warn you about me?"
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_16831bc7:
+
+    # e "I don't think that matters at all, really."
+    e ""
+
+translate schinese Jog_Bandit_Ask_End_a2da7475:
+
+    # e "I can see it with my own eyes, and you're a good friend."
+    e ""
+
+translate schinese Jog_Bandit_Ask_End_b4fa3fc0_1:
+
+    # j "..."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_3327a0de:
+
+    # j "A-alright."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_c3fc3d96:
+
+    # j "W-Who taught you to talk with butter in your mouth, was it Arthur?"
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_3dd6a59e:
+
+    # e "No, not really, I really mean it well, Jog."
+    e ""
+
+translate schinese Jog_Bandit_Ask_End_956be20e:
+
+    # "The hyena ponders for a minute."
+    ""
+
+translate schinese Jog_Bandit_Ask_End_6ab089c5:
+
+    # j "...S-shit."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_e7e3fee3:
+
+    # j "You know, I had been thinking of a way to know what you would think about me for a long time, and I didn't once expect that answer at all."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_ca93db12:
+
+    # j "Usually I wouldn't ask you to get the plums for me, if not for seeing how you'd react."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_fd652b7c:
+
+    # e "Well you could've just asked me directly."
+    e ""
+
+translate schinese Jog_Bandit_Ask_End_3e9e6629:
+
+    # j "Yeah, but that wouldn't be fun."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_c6a1cf8b:
+
+    # "Jog chuckles."
+    ""
+
+translate schinese Jog_Bandit_Ask_End_4a977777:
+
+    # j "I know them, the bandits, I had been one of them a long time ago."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_a76f081c:
+
+    # j "I really thought I'd be a bandit for the rest of my life, I thought it became a part of me."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_44e56039:
+
+    # j "But I got kicked out, for not being fierce enough."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_a01f5f59:
+
+    # j "The fun part is, after I returned to Lusterfield, Sebas took me in, and they too kicked me out, because of something I didn't do."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_bfe6a121:
+
+    # j "Because, there was no other thief in the house other than me."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_cc31ec5d:
+
+    # j "It was fun, I loved that."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_5681eb4e:
+
+    # "It doesn't look like Jog is having fun saying it, and you stare at him with concern."
+    ""
+
+translate schinese Jog_Bandit_Ask_End_039446e9:
+
+    # j "Amble was the only one stupid enough to let me sleep in his place. he said I was good at scouting, hiding and warning people of monsters."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_5f2588ba:
+
+    # j "He's the oaf that doesn't really see the worst in people."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_69b1ea80:
+
+    # j "Perhaps you're an oaf too."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_f2f2dd62:
+
+    # e "I am?"
+    e ""
+
+translate schinese Jog_Bandit_Ask_End_9396e944:
+
+    # j "Ha, you're a sexy oaf, I'll give you that. But Amble's got that cake I can eat for all day."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_e19eeae9:
+
+    # "He smirks."
+    ""
+
+translate schinese Jog_Bandit_Ask_End_edbbe909:
+
+    # j "And Lot, for a village hero he's another kind of oaf that protects his friends at all cost, regardless of right and wrong."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_e572e1b3:
+
+    # j "You're really lucky to be his disciple, you know that."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_b846c3e7:
+
+    # j "And- if I was like Ole, I'd be scolding you for a whole year for not listing to me and sneaking out to the bandits."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_169a8da3:
+
+    # e "He would. But he'd mean it well."
+    e ""
+
+translate schinese Jog_Bandit_Ask_End_43783ae1:
+
+    # j "I know. He is a good lizard overall."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_920f7c52:
+
+    # j "It's not like he did me anything wrong. Sometimes I was just paranoid."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_434160a3:
+
+    # j "I hate that feeling, but it keeps coming back and I never know what to do."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_1fa9872d:
+
+    # j "It was there all the time when I saw you, like when I see everyone else."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_57157362:
+
+    # j "And that feeling, it makes me do something I'd regret, which makes me just much more scared."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_7f8629fd:
+
+    # j "I don't ever want to feel like that again."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_a8587b60:
+
+    # e "I wouldn't let that happen, Jog."
+    e ""
+
+translate schinese Jog_Bandit_Ask_End_b4fa3fc0_2:
+
+    # j "..."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_18192d59:
+
+    # "The hyena looks up for the first time in a while."
+    ""
+
+translate schinese Jog_Bandit_Ask_End_ee9d2cd5:
+
+    # j "I guess I'll trust you, for whatever's worth."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_f6115226:
+
+    # j "But... yeah. I'm gonna stop with the downer talk."
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_4e593c82:
+
+    # j "Well, what's the thing I promised I'd reward you again?"
+    j ""
+
+translate schinese Jog_Bandit_Ask_End_70007cd8:
+
+    # e "You promised to teach me a skill?"
+    e ""
+
+translate schinese Jog_Bandit_Ask_End_b9cdc77a:
+
+    # j "Oh."
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_d84c5efc:
+
+    # j "He was talking about me, what do you think?" nointeract
+    j "" nointeract
+
+translate schinese Jog_Bandit_Accuse_End_d6ad2897:
+
+    # e "I think he was talking about another hyena? Mayb-"
+    e ""
+
+translate schinese Jog_Bandit_Accuse_End_724c769b:
+
+    # j "Oh? What a conincidence, well I'm letting you know now, he is talking about me."
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_5b41a77f:
+
+    # j "He knew me."
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_2c803b14:
+
+    # j "Now, am I the one that helped them?"
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_900d1dda:
+
+    # e "I was just thinking, maybe you... knew him?"
+    e ""
+
+translate schinese Jog_Bandit_Accuse_End_3b1aef58:
+
+    # j "Got it, now do you think I helped them get advantage of the village?"
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_b6169c96:
+
+    # e "Of course not, I look fondl-"
+    e ""
+
+translate schinese Jog_Bandit_Accuse_End_e9cbd11b:
+
+    # "Jog looks impatient, he clenches his fist tightly."
+    ""
+
+translate schinese Jog_Bandit_Accuse_End_cadff56e:
+
+    # j "You all are the same, what did Sebas tell you exactly back then, huh? That I was a backstabbing liar and thief?"
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_275c4199:
+
+    # e "Can I-"
+    e ""
+
+translate schinese Jog_Bandit_Accuse_End_e5c080d9:
+
+    # j "That I was born a thief and always a thief and I'm nothing but troubles always?"
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_553468e1:
+
+    # j "Why don't you say what you've been thinking the first second you see me for the first time?"
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_5bfaa31d:
+
+    # "You pause."
+    ""
+
+translate schinese Jog_Bandit_Accuse_End_2b3b28c3:
+
+    # j "Now I see why they like you so much. His favourite new roommate, ha."
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_f0aa1917:
+
+    # e "Jog, I don't think that was fair-."
+    e ""
+
+translate schinese Jog_Bandit_Accuse_End_df0f15c8:
+
+    # j "Fair? Fair like everytime time something goes wrong and it's always my problem?"
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_fc322f5d:
+
+    # j "Or talking like I was always scheming, taking advantage of his wealth like a hemoworm sucking blood out of its host."
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_930479f8:
+
+    # e "Jog, I was just talking about what the rat thief said, nothing else."
+    e ""
+
+translate schinese Jog_Bandit_Accuse_End_96c26c67:
+
+    # "You try to calm Jog down a little, but he is still staring right into you."
+    ""
+
+translate schinese Jog_Bandit_Accuse_End_82fac779:
+
+    # j "Am I a rat too?"
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_86f5c891:
+
+    # e "No, Jog. You're not."
+    e ""
+
+translate schinese Jog_Bandit_Accuse_End_b4fa3fc0:
+
+    # j "..."
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_a06df48d:
+
+    # "He freezes, suddenly."
+    ""
+
+translate schinese Jog_Bandit_Accuse_End_9e6c091b:
+
+    # e "You're not a thief, you're not a bandit, you're my friend, Jog."
+    e ""
+
+translate schinese Jog_Bandit_Accuse_End_4cb2f65e:
+
+    # e "And I, really see you as one, no matter what those bandits said."
+    e ""
+
+translate schinese Jog_Bandit_Accuse_End_68b570c3:
+
+    # "The hyena takes a few seconds to calm himself down, he is avoiding your concerned gaze."
+    ""
+
+translate schinese Jog_Bandit_Accuse_End_c9b014d2:
+
+    # e "I just trust you, the first time I saw you and Amble in the Tavern."
+    e ""
+
+translate schinese Jog_Bandit_Accuse_End_b205335d:
+
+    # e "You are a good folk."
+    e ""
+
+translate schinese Jog_Bandit_Accuse_End_b4fa3fc0_1:
+
+    # j "..."
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_d8a5e1a5:
+
+    # "He was almost at the verge of tears, a few gurgles and coughs away from a full on cry."
+    ""
+
+translate schinese Jog_Bandit_Accuse_End_6dcde1b0:
+
+    # e "Whatever happened in the past, doesn't mean anything to who you are right now."
+    e ""
+
+translate schinese Jog_Bandit_Accuse_End_fb4e3321:
+
+    # e "And I believe in you, Jog."
+    e ""
+
+translate schinese Jog_Bandit_Accuse_End_13da5ec9:
+
+    # "Jog stares at you, bewildered. His eyes are watery, but it looks like he is holding back."
+    ""
+
+translate schinese Jog_Bandit_Accuse_End_e0264660:
+
+    # e "I think Amble and Lot believe in you too."
+    e ""
+
+translate schinese Jog_Bandit_Accuse_End_b4fa3fc0_2:
+
+    # j "..."
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_bef66ed7:
+
+    # j "W-would you please buzz off?"
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_9240fc72:
+
+    # "You don't dare to look at Jog's face, he hides himself pretty far away from you as well."
+    ""
+
+translate schinese Jog_Bandit_Accuse_End_97b88a39:
+
+    # j "We'll talk later."
+    j ""
+
+translate schinese Jog_Bandit_Accuse_End_5e88868a:
+
+    # "By his own accord, he probably was once a part of the bandit. But it mustn't be easy to be accused of something he didn't do."
+    ""
+
+translate schinese Jog_Bandit_Accuse_End_62dd8021:
+
+    # "But you eventually oblige, leaving him alone to his own thoughts."
+    ""
+
+translate schinese Jog_Bandit_Accuse_End_04e6ebfe:
+
+    # "You see Amble walking straight towards him, he doesn't even greet you normally as he does."
+    ""
+
+translate schinese Jog_Bandit_Accuse_End_c43b2bee:
+
+    # "You can only hope some time later he will return to his normal jovial self."
+    ""
+
+translate schinese Jog_Return_Bandit_End_c73fa029:
+
+    # j "Hey."
+    j ""
+
+translate schinese Jog_Return_Bandit_End_f66a4f49:
+
+    # "Jog walks towards you, with a sluggish pace."
+    ""
+
+translate schinese Jog_Return_Bandit_End_f5130342:
+
+    # e "Hello, Jog."
+    e ""
+
+translate schinese Jog_Return_Bandit_End_23c0170f:
+
+    # "You two both doesn't talk, resorting into a contest of awkward gaze."
+    ""
+
+translate schinese Jog_Return_Bandit_End_3eaf962a:
+
+    # j "Last time, I wasn't myself."
+    j ""
+
+translate schinese Jog_Return_Bandit_End_7b21da20:
+
+    # j "Thanks for not leaving me, well, until I tell you so, but."
+    j ""
+
+translate schinese Jog_Return_Bandit_End_fcf8c0dc:
+
+    # j "Uh."
+    j ""
+
+translate schinese Jog_Return_Bandit_End_d606e5c5:
+
+    # j "Thanks for your words."
+    j ""
+
+translate schinese Jog_Return_Bandit_End_1de57cfc:
+
+    # j "Amble talked with me after, I wasn't being a good friend to you, putting you through all that."
+    j ""
+
+translate schinese Jog_Return_Bandit_End_cf926f23:
+
+    # e "It really wasn't your fault, Jog."
+    e ""
+
+translate schinese Jog_Return_Bandit_End_fbadbfc3:
+
+    # e "We all have moments of outbursts like that sometimes."
+    e ""
+
+translate schinese Jog_Return_Bandit_End_4d5a8698:
+
+    # j "It just felt weird what you were doing, I didn't expect that."
+    j ""
+
+translate schinese Jog_Return_Bandit_End_8dbb424d:
+
+    # "He pauses for a moment again, giving you a slight grin."
+    ""
+
+translate schinese Jog_Return_Bandit_End_6f17c344:
+
+    # j "I cried really uglily there, weren't I?"
+    j ""
+
+translate schinese Jog_Return_Bandit_End_68988311:
+
+    # j "That wasn't hot at all. On a matter of fact, pretty boner-killing."
+    j ""
+
+translate schinese Jog_Return_Bandit_End_063c5c0b:
+
+    # j "But, yeah. I promised you a reward, so let's get this over with."
+    j ""
+
+translate schinese Jog_Teach_Critical_Skill_5d54ff17:
+
+    # j "This is what I call, Piercing Blow."
+    j ""
+
+translate schinese Jog_Teach_Critical_Skill_63669387:
+
+    # j "It's not about blowing your enemy's cock, by the way."
+    j ""
+
+translate schinese Jog_Teach_Critical_Skill_3cb61074:
+
+    # "Jog points at his squinting eyes."
+    ""
+
+translate schinese Jog_Teach_Critical_Skill_7e9f71be:
+
+    # j "Here, you just take your time for a moment to look at their weakspot."
+    j ""
+
+translate schinese Jog_Teach_Critical_Skill_3d54de6b:
+
+    # j "And when you attack, you guarantee to hit them really hard."
+    j ""
+
+translate schinese Jog_Teach_Critical_Skill_9d6b492a:
+
+    # j "One thing is that, when you look at them closely, you expose your vulnerable self to their attacks."
+    j ""
+
+translate schinese Jog_Teach_Critical_Skill_cd80767d:
+
+    # e "Can I just, not look at them as closely?"
+    e ""
+
+translate schinese Jog_Teach_Critical_Skill_c864c818:
+
+    # j "Then you can't find their weakspots, you oaf."
+    j ""
+
+translate schinese Jog_Teach_Critical_Skill_cdde08af:
+
+    # j "So, knowing when to use them is a huge skill you need to learn to become a master."
+    j ""
+
+translate schinese Jog_Teach_Critical_Skill_6186867a:
+
+    # "You nod."
+    ""
+
+translate schinese Jog_Teach_Critical_Skill_e57fdf58:
+
+    # j "That's it, it's not much but I suppose you'll learn that really quickly."
+    j ""
+
+translate schinese Jog_Teach_Critical_Skill_6f0d9a97:
+
+    # j "And I'm lazy so I gotta take my leave now, here's the gold I promised. See you later, [e]."
+    j ""
+
+translate schinese Jog_Teach_Critical_Skill_8333c200:
+
+    # e "See you."
+    e ""
+
+translate schinese Jog_Teach_Critical_Skill_48a0e297:
+
+    # msg "You learned the skill 'Piercing Blow'."
+    msg ""
+
+translate schinese Jog_Teach_Critical_Skill_3e48f566:
+
+    # msg "You received 250 experience points."
+    msg ""
 
 translate schinese Jog_Wuldon_Quest_5d3a34ab:
 
@@ -1123,9 +3493,9 @@ translate schinese Jog_Wuldon_Quest_7695b917:
     # "This time it's Amble's time to step in."
     ""
 
-translate schinese Jog_Wuldon_Quest_8bbc0e2d:
+translate schinese Jog_Wuldon_Quest_363760c0:
 
-    # a "No… not as far as we can tell, but it's got the farmers on edge."
+    # a "No... not as far as we can tell, but it's got the farmers on edge."
     a ""
 
 translate schinese Jog_Wuldon_Quest_cc863ce7:
@@ -1133,9 +3503,9 @@ translate schinese Jog_Wuldon_Quest_cc863ce7:
     # a "Nothing like a big bad wolf right outside your home to scare you senseless."
     a ""
 
-translate schinese Jog_Wuldon_Quest_8398f064:
+translate schinese Jog_Wuldon_Quest_214b3a22:
 
-    # "That… doesn't really sound like any of the regular werewolves you know. They'd have attacked the farmers immediately."
+    # "That... doesn't really sound like any of the regular werewolves you know. They'd have attacked the farmers immediately."
     ""
 
 translate schinese Jog_Wuldon_Quest_4896c26c:
@@ -1223,9 +3593,9 @@ translate schinese Jog_Wuldon_Quest_44a9a229:
     # e "He's just gathering medicine for a very sick friend of his."
     e ""
 
-translate schinese Jog_Wuldon_Quest_8c077d74:
+translate schinese Jog_Wuldon_Quest_48ed2b12:
 
-    # a "Oh. Good. We were pretty sure he meant no harm, but…"
+    # a "Oh. Good. We were pretty sure he meant no harm, but..."
     a ""
 
 translate schinese Jog_Wuldon_Quest_afbdf4b1:
@@ -1718,14 +4088,14 @@ translate schinese Jog_Ask_Lothar_00be9f9e:
     # e "Ehm..."
     e ""
 
-translate schinese Jog_Ask_Lothar_4aeccf24:
+translate schinese Jog_Ask_Lothar_b457b0f4:
 
-    # j "You might not have the best impression of Boss."
+    # j "You might not have the best impression of Lot."
     j ""
 
-translate schinese Jog_Ask_Lothar_c2b4b09e:
+translate schinese Jog_Ask_Lothar_8f6a0f8e:
 
-    # j "I know how the boss might come across sometimes."
+    # j "I know how he might come across sometimes."
     j ""
 
 translate schinese Jog_Ask_Lothar_5c8419e3:
@@ -1808,9 +4178,9 @@ translate schinese Jog_Ask_Lusterfield_d6f478a9:
     # j "At least he doesn't kick us out when Amble is making chaos in his tavern."
     j ""
 
-translate schinese Jog_Ask_Lusterfield_8008e8e0:
+translate schinese Jog_Ask_Lusterfield_25c7ac3b:
 
-    # j "Rahim makes Boss' armor."
+    # j "Rahim makes Lot's armor."
     j ""
 
 translate schinese Jog_Ask_Lusterfield_2ed36206:
@@ -1853,9 +4223,9 @@ translate schinese Jog_Amble_Outfit_01_91452208:
     # "Both of them spot you. Jog nods to acknowledge your presence. Amble waves and greets you."
     ""
 
-translate schinese Jog_Amble_Outfit_01_344ce528:
+translate schinese Jog_Amble_Outfit_01_19e2fd3e:
 
-    # a "Hey. It's Boss' follower. What are you doing here today and what is it that you're wearing?"
+    # a "Hey. It's Lot's follower. What are you doing here today and what is it that you're wearing?"
     a ""
 
 translate schinese Jog_Amble_Outfit_01_ec0ac84a:
@@ -1868,9 +4238,9 @@ translate schinese Jog_Amble_Outfit_01_0533eebe:
     # e "This is an adventurer's outfit made by Rahim. I'm here to get your opinions on it."
     e ""
 
-translate schinese Jog_Amble_Outfit_01_f18343f2:
+translate schinese Jog_Amble_Outfit_01_5fe6030f:
 
-    # j "master Rahim made that for you? It looks like you're not just Boss' favorite."
+    # j "master Rahim made that for you? It looks like you're not just Lot's favorite."
     j ""
 
 translate schinese Jog_Amble_Outfit_01_72524946:
@@ -2253,9 +4623,9 @@ translate schinese Amble_Ole_Training_ebb2afb6:
     # a "Sure."
     a ""
 
-translate schinese Amble_Ole_Training_5cc59759:
+translate schinese Amble_Ole_Training_a09ee073:
 
-    # e "You and Jog have been couriers much longer than I am."
+    # e "You and Jog have been travelling much longer than I am."
     e ""
 
 translate schinese Amble_Ole_Training_b760ddd9:
@@ -2318,9 +4688,9 @@ translate schinese Amble_Ole_Training_6db0516e:
     # "You and Amble turn around to see Jog tapping his feet and staring at you."
     ""
 
-translate schinese Amble_Ole_Training_b63f4975:
+translate schinese Amble_Ole_Training_c32ee83b:
 
-    # j "Are you here on Boss' behest?"
+    # j "Are you here on Lot's behest?"
     j ""
 
 translate schinese Amble_Ole_Training_a817dd70:
@@ -2333,9 +4703,9 @@ translate schinese Amble_Ole_Training_92965c87:
     # "Jog interrupts you."
     ""
 
-translate schinese Amble_Ole_Training_49a38135:
+translate schinese Amble_Ole_Training_801288ab:
 
-    # j "Sorry, friend. Can't help you there. All courier training in Lusterfield is supervised by Boss."
+    # j "Sorry, friend. Can't help you there. Our training in Lusterfield is supervised by Lot."
     j ""
 
 translate schinese Amble_Ole_Training_3643c182:
@@ -2383,14 +4753,14 @@ translate schinese Amble_Ole_Training_Lothar_d0e7ea2d:
     # e "Alright. I got the permission from Lothar. He says the training is a go."
     e ""
 
-translate schinese Amble_Ole_Training_Lothar_04aa81af:
+translate schinese Amble_Ole_Training_Lothar_db60e514:
 
-    # a "Awesome. I knew Boss would agree. He's such a nice person."
+    # a "Awesome. I knew he would agree. He's such a nice person."
     a ""
 
-translate schinese Amble_Ole_Training_Lothar_941a23d1:
+translate schinese Amble_Ole_Training_Lothar_3f7c5517:
 
-    # j "Color me surprised. I was a bit 50-50 on the result. I guess Boss does like you."
+    # j "Color me surprised. I was a bit 50-50 on the result. I guess he does like you."
     j ""
 
 translate schinese Amble_Ole_Training_Lothar_546aaac0:
@@ -2478,9 +4848,9 @@ translate schinese Amble_Lothar_Training_a39ae20a:
     # a "A training? Are you sure you can handle it, puny thing?"
     a ""
 
-translate schinese Amble_Lothar_Training_345c5e2e:
+translate schinese Amble_Lothar_Training_33fa59ca:
 
-    # a "We heard from Boss that you can barely handle yourself against a slime."
+    # a "We heard from Lot that you can barely handle yourself against a slime."
     a ""
 
 translate schinese Amble_Lothar_Training_89eee3c7:
@@ -2488,9 +4858,9 @@ translate schinese Amble_Lothar_Training_89eee3c7:
     # e "That is not true. I've beaten many slimes on my journey."
     e ""
 
-translate schinese Amble_Lothar_Training_4132eac4:
+translate schinese Amble_Lothar_Training_01894521:
 
-    # a "That's not what Boss said."
+    # a "That's not what he said."
     a ""
 
 translate schinese Amble_Lothar_Training_c08d8386:
@@ -2503,9 +4873,9 @@ translate schinese Amble_Lothar_Training_84b16e0b:
     # "Amble sizes you up and down."
     ""
 
-translate schinese Amble_Lothar_Training_0f8c9d31:
+translate schinese Amble_Lothar_Training_cc759cb6:
 
-    # a "Regardless, Boss did say that you are to go on a training with me."
+    # a "Regardless, he did say that you are to go on a training with me."
     a ""
 
 translate schinese Amble_Lothar_Training_37d399ce:
@@ -2548,9 +4918,9 @@ translate schinese Amble_Lothar_Training_92796454:
     # "Amble pauses and looks at you with confusion."
     ""
 
-translate schinese Amble_Lothar_Training_d0383c0d:
+translate schinese Amble_Lothar_Training_9aedd728:
 
-    # a "Of course. This is how I normally train my strength. Boss wants you to get stronger like him, right?"
+    # a "Of course. This is how I normally train my strength. Lot wants you to get stronger like him, right?"
     a ""
 
 translate schinese Amble_Lothar_Training_121d1a20:
@@ -2763,9 +5133,9 @@ translate schinese Amble_Lothar_Training_c5a262fd:
     # a "Courier, that was not bad. Keep this up and I'm sure you'll be stronger soon."
     a ""
 
-translate schinese Amble_Lothar_Training_a101ae7e:
+translate schinese Amble_Lothar_Training_faaa1496:
 
-    # a "You'll never be as strong as Boss but it'll still be an improvement."
+    # a "You'll never be as strong as him but it'll still be an improvement."
     a ""
 
 translate schinese Amble_Lothar_Training_d8a184b8:
@@ -3103,9 +5473,9 @@ translate schinese Amble_Lothar_Training_a1c8554c:
     # e "Amble, perhaps you can go back on your own first. I feel like soaking here a little longer."
     e ""
 
-translate schinese Amble_Lothar_Training_abec4116:
+translate schinese Amble_Lothar_Training_cc9e8aa3:
 
-    # a "Alright, puny courier. I'll tell Boss that you've finished your training with me. See you back in town."
+    # a "Alright, puny friend. I'll tell Lot that you've finished your training with me. See you back in town."
     a ""
 
 translate schinese Amble_Lothar_Training_d351a918:
@@ -3888,44 +6258,64 @@ translate schinese Amble_Ask_Lothar_2097b8f6:
     # e "How about Lothar?"
     e ""
 
-translate schinese Amble_Ask_Lothar_150cea4f:
+translate schinese Amble_Ask_Lothar_a1c5eca7:
 
-    # a "He's my idol and he should be yours too."
+    # a "He's my role model and he should be yours too."
     a ""
 
-translate schinese Amble_Ask_Lothar_ec266d38:
+translate schinese Amble_Ask_Lothar_6b2c2279:
 
-    # a "Both Jog and I lost a lot..."
+    # a "Jog and I weren't in the best shape when Lot found us."
     a ""
 
-translate schinese Amble_Ask_Lothar_4022dc25:
+translate schinese Amble_Ask_Lothar_3e55750b:
 
-    # a "It was Boss who picked up us from the streets and taught us many survival skills."
+    # a "He was the one who helped us get clean clothes, food. After what went down with the goats."
     a ""
 
-translate schinese Amble_Ask_Lothar_c9d8857c:
+translate schinese Amble_Ask_Lothar_8186b1fc:
 
-    # a "It was also Boss who suggested we joined the couriers."
+    # a "We owed him a lot."
     a ""
 
-translate schinese Amble_Ask_Lothar_13b9099e:
+translate schinese Amble_Ask_Lothar_aa474a85:
 
-    # a "We usually patrol the space around Lusterfield to take down pesky monsters."
-    a ""
-
-translate schinese Amble_Ask_Lothar_9f9bafc6:
-
-    # e "You and Jog are couriers?"
+    # e "Why do you like him so much?"
     e ""
 
-translate schinese Amble_Ask_Lothar_0099b2e2:
+translate schinese Amble_Ask_Lothar_6b56ea75:
 
-    # a "No, we're still patrolling the road, after the incident with the goat's wagon, we thought we needed a better road protection."
+    # a "He is a simple man, if you treat him well, you'll be treated the same way."
     a ""
 
-translate schinese Amble_Ask_Lothar_767d9d5c:
+translate schinese Amble_Ask_Lothar_b4e4aed5:
 
-    # a "We are responsible to keep the area around Lusterfield safe for other couriers like you."
+    # a "And I love simple stuff. Life doesn't have to be all complicated if you'd just take it easy."
+    a ""
+
+translate schinese Amble_Ask_Lothar_c49f352b:
+
+    # a "That's how I see things."
+    a ""
+
+translate schinese Amble_Ask_Lothar_815bfb88:
+
+    # e "Was it Lothar's idea that you two are taking care of the road?"
+    e ""
+
+translate schinese Amble_Ask_Lothar_5ba5a265:
+
+    # a "After that incident with the goat's wagon, we thought we needed a better road protection."
+    a ""
+
+translate schinese Amble_Ask_Lothar_f687201f:
+
+    # a "Plus, Lot got a lot of gold from his reputation in the village, he just gifted them to us to help killing monsters."
+    a ""
+
+translate schinese Amble_Ask_Lothar_8a876d19:
+
+    # a "We just wanted to keep the area around Lusterfield safe for travellers like you."
     a ""
 
 translate schinese Amble_Ask_Jog_192662ed:
@@ -3938,9 +6328,9 @@ translate schinese Amble_Ask_Jog_dcb06a63:
     # a "We're complete opposites but that's probably why we work so good together."
     a ""
 
-translate schinese Amble_Ask_Jog_700a8fc4:
+translate schinese Amble_Ask_Jog_099a6a6e:
 
-    # a "Boss keeps telling me that I have the tendency to charge into the battle. It's a bad habit I have to kick. Have no idea how."
+    # a "Lot keeps telling me that I have the tendency to charge into the battle. It's a bad habit I have to kick. Have no idea how."
     a ""
 
 translate schinese Amble_Ask_Jog_da076756:
@@ -5488,9 +7878,9 @@ translate schinese Amble_Ask_Patrol_Task_4e9cb60b:
     # "It's a great feeling, except that all the air in your lungs has been forcefully pushed out"
     ""
 
-translate schinese Amble_Ask_Patrol_Task_618b2c1e:
+translate schinese Amble_Ask_Patrol_Task_5ba17e85:
 
-    # e "...Amble… please… I can't breathe."
+    # e "...Amble... please... I can't breathe."
     e ""
 
 translate schinese Amble_Ask_Patrol_Task_94357036:
@@ -5578,9 +7968,9 @@ translate schinese Amble_Ask_Patrol_Task_4a55765d:
     # "Amble grins a bit, getting out of his military impression to his more casual and cuddly self."
     ""
 
-translate schinese Amble_Ask_Patrol_Task_c3d6de26:
+translate schinese Amble_Ask_Patrol_Task_f558aa5a:
 
-    # a "I normally go there and do some guard duty in my free time…"
+    # a "I normally go there and do some guard duty in my free time..."
     a ""
 
 translate schinese Amble_Ask_Patrol_Task_2834983e:
@@ -5628,9 +8018,9 @@ translate schinese Amble_Ask_Patrol_Task_f12e1d39:
     # e "Yeah, you got it."
     e ""
 
-translate schinese Amble_Ask_Patrol_Task_ec897cd9:
+translate schinese Amble_Ask_Patrol_Task_1b1d1073:
 
-    # e "But, umm… How many sharks am I supposed to deal with for you?"
+    # e "But, umm... How many sharks am I supposed to deal with for you?"
     e ""
 
 translate schinese Amble_Ask_Patrol_Task_dc7986bd:
@@ -5663,9 +8053,9 @@ translate schinese Amble_Ask_Patrol_Task_ff7d9dac:
     # e "How will you know that I've actually defeated them?"
     e ""
 
-translate schinese Amble_Ask_Patrol_Task_15b2a125:
+translate schinese Amble_Ask_Patrol_Task_34a64cf9:
 
-    # a "Well, I trust you, but… I'll know. Comes with knowing one of the best information sources in town."
+    # a "Well, I trust you, but... I'll know. Comes with knowing one of the best information sources in town."
     a ""
 
 translate schinese Amble_Ask_Patrol_Task_8a05b5b9:
@@ -5753,9 +8143,9 @@ translate schinese Amble_Report_Patrol_Task_13e9fc02:
     # a "Someone kept me updated on your progress the entire time."
     a ""
 
-translate schinese Amble_Report_Patrol_Task_1a0cc18b:
+translate schinese Amble_Report_Patrol_Task_a7013467:
 
-    # "You… aren't going to think about the implications of that."
+    # "You... aren't going to think about the implications of that."
     ""
 
 translate schinese Amble_Report_Patrol_Task_fff2b4ae:
@@ -5788,9 +8178,9 @@ translate schinese Amble_Report_Patrol_Task_dbc79649:
     # a "Lot also stopped by to see if we knew where you were."
     a ""
 
-translate schinese Amble_Report_Patrol_Task_8a2cb6d1:
+translate schinese Amble_Report_Patrol_Task_3ebafa45:
 
-    # e "What did you tell him…?"
+    # e "What did you tell him...?"
     e ""
 
 translate schinese Amble_Report_Patrol_Task_c4d7c3d4:
@@ -5833,9 +8223,9 @@ translate schinese Amble_Report_Patrol_Task_6300879a:
     # a "But, if anyone asks, I said nothing."
     a ""
 
-translate schinese Amble_Report_Patrol_Task_a55e874e:
+translate schinese Amble_Report_Patrol_Task_88f0a92c:
 
-    # e "Amble… Jog is right there…"
+    # e "Amble... Jog is right there..."
     e ""
 
 translate schinese Amble_Report_Patrol_Task_bd7e5fed:
@@ -5878,9 +8268,9 @@ translate schinese Amble_Report_Patrol_Task_c6b5ba0e:
     # a "But sometimes that's just how it is for an adventurer."
     a ""
 
-translate schinese Amble_Report_Patrol_Task_36f88dfe:
+translate schinese Amble_Report_Patrol_Task_30f0ec79:
 
-    # "Out of anyone else, especially Cane, you'd think this was them trying to get out of paying you, but…"
+    # "Out of anyone else, especially Cane, you'd think this was them trying to get out of paying you, but..."
     ""
 
 translate schinese Amble_Report_Patrol_Task_25de6e38:
@@ -5955,6 +8345,12 @@ translate schinese Amble_Dialogue_End_849b2aab:
 
 translate schinese strings:
 
+    old "Report to Jog about the plums"
+    new ""
+
+    old "Ask about Lusterfield{#JogAAL}"
+    new ""
+
     old "Ask about Training from Lothar"
     new ""
 
@@ -5962,6 +8358,12 @@ translate schinese strings:
     new ""
 
     old "Ask about the team"
+    new ""
+
+    old "What's going on?"
+    new ""
+
+    old "Ask about the Plum Thief"
     new ""
 
     old "Ask How is he doing"
@@ -5974,6 +8376,105 @@ translate schinese strings:
     new ""
 
     old "Sneak through with agility"
+    new ""
+
+    old "Where did the thief go?"
+    new ""
+
+    old "Towards Left"
+    new ""
+
+    old "Towards Right"
+    new ""
+
+    old "Chase after"
+    new ""
+
+    old "Stay Still"
+    new ""
+
+    old "Or. perhaps you should stay on the farm, and confront him next time he's stealing the plums again."
+    new ""
+
+    old "Stay in the farm"
+    new ""
+
+    old "Follow the thief"
+    new ""
+
+    old "What should you say...?"
+    new ""
+
+    old "I'm just passing by"
+    new ""
+
+    old "You caught me"
+    new ""
+
+    old "I'm the new bandit recruit"
+    new ""
+
+    old "What should you bring to the shark?"
+    new ""
+
+    old "Red Rose"
+    new ""
+
+    old "{s}Red Rose{/s}"
+    new ""
+
+    old "Raw Meat"
+    new ""
+
+    old "{s}Raw Meat{/s}"
+    new ""
+
+    old "{s}Blue Berry{/s}"
+    new ""
+
+    old "Apple"
+    new ""
+
+    old "{s}Apple{/s}"
+    new ""
+
+    old "Iron"
+    new ""
+
+    old "{s}Iron{/s}"
+    new ""
+
+    old "100 Gold"
+    new ""
+
+    old "{s}100 Gold{/s}"
+    new ""
+
+    old "Cashmere"
+    new ""
+
+    old "{s}Cashmere{/s}"
+    new ""
+
+    old "Nothing"
+    new ""
+
+    old "Accept Jog's Quest"
+    new ""
+
+    old "I trust the shark"
+    new ""
+
+    old "I don't trust him"
+    new ""
+
+    old "The bandit has mistaken"
+    new ""
+
+    old "Maybe Jog was one of them"
+    new ""
+
+    old "Ask about Lusterfield{#AmbleAAL}"
     new ""
 
     old "Ask for Training"

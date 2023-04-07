@@ -1943,9 +1943,9 @@ translate schinese Event_Party01_61943e79:
     # l "But... what if you're just from somewhere far far away...?"
     l ""
 
-translate schinese Event_Party01_460d80f0:
+translate schinese Event_Party01_5f5eb8e2:
 
-    # e "I don't know. The trees… they look so similar to the ones I saw when I met that monster."
+    # e "I don't know. The trees... they look so similar to the ones I saw when I met that monster."
     e ""
 
 translate schinese Event_Party01_d379a158:
@@ -1968,9 +1968,9 @@ translate schinese Event_Party01_bcc53366:
     # j "By the way, everything’s been freaking out since you and your friend came along."
     j ""
 
-translate schinese Event_Party01_c8ee2a20:
+translate schinese Event_Party01_324b8eb3:
 
-    # j "The goats and their stolen runes, and the bears… I heard from Amble that they started acting weird around the same time as well."
+    # j "The goats and their stolen runes, and the bears... I heard from Amble that they started acting weird around the same time as well."
     j ""
 
 translate schinese Event_Party01_4e8a9bd4:
@@ -2703,9 +2703,9 @@ translate schinese Event_Party01_Cane_711f1159:
     # c "Tryin' ta imitate my accent now lad?"
     c ""
 
-translate schinese Event_Party01_Cane_1bf57d38:
+translate schinese Event_Party01_Cane_9c3b55d6:
 
-    # c "I appreciate the sentiment, ‘specially since it’s such a cute lad who’s tryin’ ta be like this old bat."
+    # c "I appreciate the sentiment, 'specially since it’s such a cute lad who’s tryin’ ta be like this old bat."
     c ""
 
 translate schinese Event_Party01_Cane_ba9e5178:
@@ -2818,9 +2818,9 @@ translate schinese Event_Party01_Cane_5802764b:
     # "Cane turns to look at you."
     ""
 
-translate schinese Event_Party01_Cane_a49455eb:
+translate schinese Event_Party01_Cane_3e3b3fa7:
 
-    # c "Rather like ya. But I'd rather he's out there adventuring like ya do. Instead of doin’ whatever it is ‘e does."
+    # c "Rather like ya. But I'd rather he's out there adventuring like ya do. Instead of doin’ whatever it is 'e does."
     c ""
 
 translate schinese Event_Party01_Cane_001a3234:
@@ -2968,9 +2968,9 @@ translate schinese Event_Party01_Cane_8b8d2de2:
     # "Just as quickly as it started, the bat ends the embrace, giving your butt a light squeeze and a slap as he pulls away."
     ""
 
-translate schinese Event_Party01_Cane_8ae667a5:
+translate schinese Event_Party01_Cane_8969667d:
 
-    # c "Now get back out there and enjoy yerself, lad. Everyone’s ‘ere to celebrate ya, and ya deserve the break."
+    # c "Now get back out there and enjoy yerself, lad. Everyone’s 'ere to celebrate ya, and ya deserve the break."
     c ""
 
 translate schinese Event_Party01_Lothar_4edcddd1:

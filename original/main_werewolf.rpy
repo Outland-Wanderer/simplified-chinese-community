@@ -8,9 +8,9 @@ translate schinese Wuldon_First_Meet_f6ec2964:
     # "If you hadn't happened to stumble into it by chance, you never would have found it."
     ""
 
-translate schinese Wuldon_First_Meet_aaa21abd:
+translate schinese Wuldon_First_Meet_614805c4:
 
-    # "At first, it seems like the area is completely abandoned, but… looking closely, you can see a well."
+    # "At first, it seems like the area is completely abandoned, but... looking closely, you can see a well."
     ""
 
 translate schinese Wuldon_First_Meet_be67821d:
@@ -118,9 +118,9 @@ translate schinese Wuldon_First_Meet_e20cf9bb:
     # w "So, what are you doing this far away from civilization, [e]."
     w ""
 
-translate schinese Wuldon_First_Meet_81da45f5:
+translate schinese Wuldon_First_Meet_734e37bd:
 
-    # e "Well, I was originally sent in this direction to find out what was going on with this magic stone…"
+    # e "Well, I was originally sent in this direction to find out what was going on with this magic stone..."
     e ""
 
 translate schinese Wuldon_First_Meet_3e097055:
@@ -363,9 +363,9 @@ translate schinese Wuldon_First_Meet_86bfa5c4:
     # "Having gotten his hatred of Uffe out of his system, his face returns to its neutral, somber state."
     ""
 
-translate schinese Wuldon_First_Meet_026c7d35:
+translate schinese Wuldon_First_Meet_86928f5e:
 
-    # e "Yeah… I can see what you mean."
+    # e "Yeah... I can see what you mean."
     e ""
 
 translate schinese Wuldon_First_Meet_0cb8a352:
@@ -398,9 +398,9 @@ translate schinese Wuldon_First_Meet_5d0b2774:
     # e "I understand, I'll let you continue."
     e ""
 
-translate schinese Wuldon_First_Meet_c31db0d8:
+translate schinese Wuldon_First_Meet_5550ce65:
 
-    # "Wuldon looks like he wants to chuckle… but as he recalls the story, he cannot seem to bring himself to."
+    # "Wuldon looks like he wants to chuckle... but as he recalls the story, he cannot seem to bring himself to."
     ""
 
 translate schinese Wuldon_First_Meet_b74f8263:
@@ -413,9 +413,9 @@ translate schinese Wuldon_First_Meet_00d68bb3:
     # w "Wooden beams set up between us brothers as we moved deeper and deeper."
     w ""
 
-translate schinese Wuldon_First_Meet_2cbc9f4d:
+translate schinese Wuldon_First_Meet_e901a1e2:
 
-    # w "But, before we even got down to the ore…"
+    # w "But, before we even got down to the ore..."
     w ""
 
 translate schinese Wuldon_First_Meet_db0f4725:
@@ -483,9 +483,9 @@ translate schinese Wuldon_First_Meet_e2c91b9f:
     # w "As the last of us escaped, the cave's mouth shrunk, smaller than even a werewolf runt could fit through."
     w ""
 
-translate schinese Wuldon_First_Meet_29985625:
+translate schinese Wuldon_First_Meet_cca2e7e3:
 
-    # w "We could hear our brothers screaming, saw their faces as they tried to make it out, as we tried to pull them out…"
+    # w "We could hear our brothers screaming, saw their faces as they tried to make it out, as we tried to pull them out..."
     w ""
 
 translate schinese Wuldon_First_Meet_1757695f:
@@ -513,9 +513,9 @@ translate schinese Wuldon_First_Meet_54f48265:
     # e "We fought, and I knocked him unconscious."
     e ""
 
-translate schinese Wuldon_First_Meet_62aaa6d7:
+translate schinese Wuldon_First_Meet_87bf6300:
 
-    # e "Unfortunately, our fight caused the cave to collapse. I managed to rescue him, but…"
+    # e "Unfortunately, our fight caused the cave to collapse. I managed to rescue him, but..."
     e ""
 
 translate schinese Wuldon_First_Meet_c0f6b8f0:
@@ -543,9 +543,9 @@ translate schinese Wuldon_First_Meet_ff1460b1:
     # w "You're not going to return him to Uffe, are you?"
     w ""
 
-translate schinese Wuldon_First_Meet_950d623c:
+translate schinese Wuldon_First_Meet_c76d5c89:
 
-    # e "No, probably not, but… he is a feral animal at this point."
+    # e "No, probably not, but... he is a feral animal at this point."
     e ""
 
 translate schinese Wuldon_First_Meet_0d04128e:
@@ -778,9 +778,9 @@ translate schinese Wuldon_First_Meet_86bfa5c4_1:
     # "Having gotten his hatred of Uffe out of his system, his face returns to its neutral, somber state."
     ""
 
-translate schinese Wuldon_First_Meet_026c7d35_1:
+translate schinese Wuldon_First_Meet_86928f5e_1:
 
-    # e "Yeah… I can see what you mean."
+    # e "Yeah... I can see what you mean."
     e ""
 
 translate schinese Wuldon_First_Meet_0cb8a352_1:
@@ -823,9 +823,9 @@ translate schinese Wuldon_First_Meet_00d68bb3_1:
     # w "Wooden beams set up between us brothers as we moved deeper and deeper."
     w ""
 
-translate schinese Wuldon_First_Meet_2cbc9f4d_1:
+translate schinese Wuldon_First_Meet_e901a1e2_1:
 
-    # w "But, before we even got down to the ore…"
+    # w "But, before we even got down to the ore..."
     w ""
 
 translate schinese Wuldon_First_Meet_db0f4725_1:
@@ -903,9 +903,9 @@ translate schinese Wuldon_First_Meet_e2c91b9f_1:
     # w "As the last of us escaped, the cave's mouth shrunk, smaller than even a werewolf runt could fit through."
     w ""
 
-translate schinese Wuldon_First_Meet_29985625_1:
+translate schinese Wuldon_First_Meet_cca2e7e3_1:
 
-    # w "We could hear our brothers screaming, saw their faces as they tried to make it out, as we tried to pull them out…"
+    # w "We could hear our brothers screaming, saw their faces as they tried to make it out, as we tried to pull them out..."
     w ""
 
 translate schinese Wuldon_First_Meet_1757695f_1:
@@ -923,9 +923,9 @@ translate schinese Wuldon_First_Meet_0e4693ec_1:
     # "Wuldon is simply looking at you, face locked into the grim features you first spied on him when you arrived."
     ""
 
-translate schinese Wuldon_First_Meet_23cf8f3d:
+translate schinese Wuldon_First_Meet_9484e513:
 
-    # e "Well… I killed him."
+    # e "Well... I killed him."
     e ""
 
 translate schinese Wuldon_First_Meet_2c173a44:
@@ -953,9 +953,9 @@ translate schinese Wuldon_First_Meet_2a7e25f8:
     # "Wuldon sits down. His eyes are filled with grief"
     ""
 
-translate schinese Wuldon_First_Meet_923024a9:
+translate schinese Wuldon_First_Meet_7017f3fd:
 
-    # w "Vurro…"
+    # w "Vurro..."
     w ""
 
 translate schinese Wuldon_First_Meet_7565e124:
@@ -1013,14 +1013,14 @@ translate schinese Wuldon_First_Meet_6a79af39:
     # "There is a long stretch of silence in the conversation."
     ""
 
-translate schinese Wuldon_First_Meet_76dd6195:
+translate schinese Wuldon_First_Meet_68cfa84f:
 
-    # "You are both just… looking at the floor, before Wuldon looks up at you."
+    # "You are both just... looking at the floor, before Wuldon looks up at you."
     ""
 
-translate schinese Wuldon_First_Meet_816fc9b6:
+translate schinese Wuldon_First_Meet_6e487166:
 
-    # w "You know… I don't really blame you for his death."
+    # w "You know... I don't really blame you for his death."
     w ""
 
 translate schinese Wuldon_First_Meet_2c9b233f:
@@ -1028,9 +1028,9 @@ translate schinese Wuldon_First_Meet_2c9b233f:
     # w "It's that rat Uffe that I hate more than ever for this."
     w ""
 
-translate schinese Wuldon_First_Meet_fd606f42:
+translate schinese Wuldon_First_Meet_143b80ad:
 
-    # e "Well, from what he was saying, he just wanted to make sure the disease didn't spread…"
+    # e "Well, from what he was saying, he just wanted to make sure the disease didn't spread..."
     e ""
 
 translate schinese Wuldon_First_Meet_a0279f66:
@@ -1263,9 +1263,9 @@ translate schinese Wuldon_First_Meet_3dc76aae_2:
     # w "Yes. I didn't. But I knew Uffe, and I knew he would become alpha."
     w ""
 
-translate schinese Wuldon_First_Meet_026c7d35_2:
+translate schinese Wuldon_First_Meet_86928f5e_2:
 
-    # e "Yeah… I can see what you mean."
+    # e "Yeah... I can see what you mean."
     e ""
 
 translate schinese Wuldon_First_Meet_0cb8a352_2:
@@ -1293,9 +1293,9 @@ translate schinese Wuldon_First_Meet_00d68bb3_2:
     # w "Wooden beams set up between us brothers as we moved deeper and deeper."
     w ""
 
-translate schinese Wuldon_First_Meet_2cbc9f4d_2:
+translate schinese Wuldon_First_Meet_e901a1e2_2:
 
-    # w "But, before we even got down to the ore…"
+    # w "But, before we even got down to the ore..."
     w ""
 
 translate schinese Wuldon_First_Meet_db0f4725_2:
@@ -1373,9 +1373,9 @@ translate schinese Wuldon_First_Meet_e2c91b9f_2:
     # w "As the last of us escaped, the cave's mouth shrunk, smaller than even a werewolf runt could fit through."
     w ""
 
-translate schinese Wuldon_First_Meet_29985625_2:
+translate schinese Wuldon_First_Meet_cca2e7e3_2:
 
-    # w "We could hear our brothers screaming, saw their faces as they tried to make it out, as we tried to pull them out…"
+    # w "We could hear our brothers screaming, saw their faces as they tried to make it out, as we tried to pull them out..."
     w ""
 
 translate schinese Wuldon_First_Meet_1757695f_2:
@@ -1393,9 +1393,9 @@ translate schinese Wuldon_First_Meet_0e4693ec_2:
     # "Wuldon is simply looking at you, face locked into the grim features you first spied on him when you arrived."
     ""
 
-translate schinese Wuldon_First_Meet_ce37835c:
+translate schinese Wuldon_First_Meet_dfaa372c:
 
-    # e "I… take it Uffe was the hunting brother, wasn't he."
+    # e "I... take it Uffe was the hunting brother, wasn't he."
     e ""
 
 translate schinese Wuldon_First_Meet_77f9b3bf:
@@ -1408,9 +1408,9 @@ translate schinese Wuldon_First_Meet_ade8d9e0:
     # w "Is Uffe. He has not changed."
     w ""
 
-translate schinese Wuldon_First_Meet_fafbc07a:
+translate schinese Wuldon_First_Meet_61f6beb8:
 
-    # e "And… you were among those in the mines, with…"
+    # e "And... you were among those in the mines, with..."
     e ""
 
 translate schinese Wuldon_First_Meet_06ebdd12:
@@ -1423,9 +1423,9 @@ translate schinese Wuldon_First_Meet_d4320832:
     # w "Vurro. Our leader, the mercantile brother Vurro."
     w ""
 
-translate schinese Wuldon_First_Meet_4ceede35:
+translate schinese Wuldon_First_Meet_4b5f10bc:
 
-    # e "So. He is…"
+    # e "So. He is..."
     e ""
 
 translate schinese Wuldon_First_Meet_7aa4d5dc:
@@ -1463,24 +1463,24 @@ translate schinese Wuldon_First_Meet_ad4191f5:
     # w "It is the kind of thing a creature like him would do."
     w ""
 
-translate schinese Wuldon_First_Meet_ecf1672e:
+translate schinese Wuldon_First_Meet_ea00b63e:
 
-    # e "Well… fine. We don't know what happened to him, but…"
+    # e "Well... fine. We don't know what happened to him, but..."
     e ""
 
-translate schinese Wuldon_First_Meet_5bb0fa77:
+translate schinese Wuldon_First_Meet_9ec52c5f:
 
-    # e "Is there no way we can… you know… save him?"
+    # e "Is there no way we can... you know... save him?"
     e ""
 
-translate schinese Wuldon_First_Meet_fbfdfa8b:
+translate schinese Wuldon_First_Meet_7dce02f5:
 
-    # w "Perhaps there is, but… I cannot reach him, nor do I have the expertise in medicines to find the cure."
+    # w "Perhaps there is, but... I cannot reach him, nor do I have the expertise in medicines to find the cure."
     w ""
 
-translate schinese Wuldon_First_Meet_fb0461cb:
+translate schinese Wuldon_First_Meet_572c7d96:
 
-    # e "Should I… kill him…?"
+    # e "Should I... kill him...?"
     e ""
 
 translate schinese Wuldon_First_Meet_1c884221:
@@ -1518,9 +1518,9 @@ translate schinese Wuldon_First_Meet_fe4115d0:
     # w "I appreciate it, little one. You seem to be as kind as you are handsome."
     w ""
 
-translate schinese Wuldon_First_Meet_5e50de78:
+translate schinese Wuldon_First_Meet_6f0f21b2:
 
-    # "The entirely serious tone he took when saying that feels at odds with his words, but… you suppose he means it."
+    # "The entirely serious tone he took when saying that feels at odds with his words, but... you suppose he means it."
     ""
 
 translate schinese Wuldon_First_Meet_e4941e3b:
@@ -1533,9 +1533,9 @@ translate schinese Wuldon_First_Meet_048133d4:
     # w "And do tell me what happens with Vurro."
     w ""
 
-translate schinese Wuldon_First_Meet_ce37835c_1:
+translate schinese Wuldon_First_Meet_dfaa372c_1:
 
-    # e "I… take it Uffe was the hunting brother, wasn't he."
+    # e "I... take it Uffe was the hunting brother, wasn't he."
     e ""
 
 translate schinese Wuldon_First_Meet_77f9b3bf_1:
@@ -1548,9 +1548,9 @@ translate schinese Wuldon_First_Meet_ade8d9e0_1:
     # w "Is Uffe. He has not changed."
     w ""
 
-translate schinese Wuldon_First_Meet_fafbc07a_1:
+translate schinese Wuldon_First_Meet_61f6beb8_1:
 
-    # e "And… you were among those in the mines, with…"
+    # e "And... you were among those in the mines, with..."
     e ""
 
 translate schinese Wuldon_First_Meet_06ebdd12_1:
@@ -1563,9 +1563,9 @@ translate schinese Wuldon_First_Meet_d4320832_1:
     # w "Vurro. Our leader, the mercantile brother Vurro."
     w ""
 
-translate schinese Wuldon_First_Meet_4ceede35_1:
+translate schinese Wuldon_First_Meet_4b5f10bc_1:
 
-    # e "So. He is…"
+    # e "So. He is..."
     e ""
 
 translate schinese Wuldon_First_Meet_35540968:
@@ -1603,19 +1603,19 @@ translate schinese Wuldon_First_Meet_ad4191f5_1:
     # w "It is the kind of thing a creature like him would do."
     w ""
 
-translate schinese Wuldon_First_Meet_ecf1672e_1:
+translate schinese Wuldon_First_Meet_ea00b63e_1:
 
-    # e "Well… fine. We don't know what happened to him, but…"
+    # e "Well... fine. We don't know what happened to him, but..."
     e ""
 
-translate schinese Wuldon_First_Meet_5bb0fa77_1:
+translate schinese Wuldon_First_Meet_9ec52c5f_1:
 
-    # e "Is there no way we can… you know… save him?"
+    # e "Is there no way we can... you know... save him?"
     e ""
 
-translate schinese Wuldon_First_Meet_58768d36:
+translate schinese Wuldon_First_Meet_c5922e65:
 
-    # w "There might be…"
+    # w "There might be..."
     w ""
 
 translate schinese Wuldon_First_Meet_4f21c884:
@@ -1653,9 +1653,9 @@ translate schinese Wuldon_First_Meet_ad430e96:
     # w "I know a few herbs that might be able to help. I will need to trial and error them."
     w ""
 
-translate schinese Wuldon_First_Meet_3a8f6806:
+translate schinese Wuldon_First_Meet_9b3991ec:
 
-    # w "This would of course be faster with an alchemist, but…"
+    # w "This would of course be faster with an alchemist, but..."
     w ""
 
 translate schinese Wuldon_First_Meet_f02fdbe8:
@@ -1713,9 +1713,9 @@ translate schinese Wuldon_First_Meet_20f315d4:
     # e "See you later!"
     e ""
 
-translate schinese Wuldon_First_Meet_ce37835c_2:
+translate schinese Wuldon_First_Meet_dfaa372c_2:
 
-    # e "I… take it Uffe was the hunting brother, wasn't he."
+    # e "I... take it Uffe was the hunting brother, wasn't he."
     e ""
 
 translate schinese Wuldon_First_Meet_77f9b3bf_2:
@@ -1728,9 +1728,9 @@ translate schinese Wuldon_First_Meet_ade8d9e0_2:
     # w "Is Uffe. He has not changed."
     w ""
 
-translate schinese Wuldon_First_Meet_fafbc07a_2:
+translate schinese Wuldon_First_Meet_61f6beb8_2:
 
-    # e "And… you were among those in the mines, with…"
+    # e "And... you were among those in the mines, with..."
     e ""
 
 translate schinese Wuldon_First_Meet_ec4e9e3a:
@@ -1743,9 +1743,9 @@ translate schinese Wuldon_First_Meet_d4320832_2:
     # w "Vurro. Our leader, the mercantile brother Vurro."
     w ""
 
-translate schinese Wuldon_First_Meet_4ceede35_2:
+translate schinese Wuldon_First_Meet_4b5f10bc_2:
 
-    # e "So. He is…"
+    # e "So. He is..."
     e ""
 
 translate schinese Wuldon_First_Meet_35540968_1:
@@ -1783,9 +1783,9 @@ translate schinese Wuldon_First_Meet_ad4191f5_2:
     # w "It is the kind of thing a creature like him would do."
     w ""
 
-translate schinese Wuldon_First_Meet_ecf1672e_2:
+translate schinese Wuldon_First_Meet_ea00b63e_2:
 
-    # e "Well… fine. We don't know what happened to him, but…"
+    # e "Well... fine. We don't know what happened to him, but..."
     e ""
 
 translate schinese Wuldon_First_Meet_6a67dcc0:
@@ -1793,9 +1793,9 @@ translate schinese Wuldon_First_Meet_6a67dcc0:
     # e "Is there some way we can find out?"
     e ""
 
-translate schinese Wuldon_First_Meet_c9640a45:
+translate schinese Wuldon_First_Meet_5715a3f8:
 
-    # w "There might be, but… I don't really care."
+    # w "There might be, but... I don't really care."
     w ""
 
 translate schinese Wuldon_First_Meet_c8bbb7c0:
@@ -1808,9 +1808,9 @@ translate schinese Wuldon_First_Meet_1dc467a7:
     # "There is a long silence."
     ""
 
-translate schinese Wuldon_First_Meet_1b3fc9ac:
+translate schinese Wuldon_First_Meet_0b3d1fea:
 
-    # e "So… what will you do now?"
+    # e "So... what will you do now?"
     e ""
 
 translate schinese Wuldon_First_Meet_6111a711:
@@ -1823,9 +1823,9 @@ translate schinese Wuldon_First_Meet_a474c916:
     # w "For now, live out here. Think about things for a while."
     w ""
 
-translate schinese Wuldon_First_Meet_444f4572:
+translate schinese Wuldon_First_Meet_7b49bfdc:
 
-    # w "After that…?"
+    # w "After that...?"
     w ""
 
 translate schinese Wuldon_First_Meet_4bb18011:
@@ -1853,9 +1853,9 @@ translate schinese Wuldon_First_Meet_f899c20d:
     # e "Oh."
     e ""
 
-translate schinese Wuldon_First_Meet_33444da0:
+translate schinese Wuldon_First_Meet_cc74bd52:
 
-    # e "Well, I'll… leave you to that. I'm sorry about Vurro."
+    # e "Well, I'll... leave you to that. I'm sorry about Vurro."
     e ""
 
 translate schinese Wuldon_First_Meet_dc5bbb48:
@@ -2018,9 +2018,9 @@ translate schinese Wuldon_After_Vurro_Death_30037af1:
     # "Again, there is no intonation. Despite that, you get the feeling ,Wuldon isn't quite asking."
     ""
 
-translate schinese Wuldon_After_Vurro_Death_53c78ae4:
+translate schinese Wuldon_After_Vurro_Death_c705e55f:
 
-    # "Not that he'd harm you if you said no… you think. It's more that he understands how guilty you feel about the death of his friend."
+    # "Not that he'd harm you if you said no... you think. It's more that he understands how guilty you feel about the death of his friend."
     ""
 
 translate schinese Wuldon_After_Vurro_Death_780c7d9d:
@@ -2063,9 +2063,9 @@ translate schinese Wuldon_After_Vurro_Death_a18991a2:
     # "While at first you can't realize why he placed the flowers where he did, soon you see the small splotches of red underneath each of the stones with flowers on them."
     ""
 
-translate schinese Wuldon_After_Vurro_Death_47bdc205:
+translate schinese Wuldon_After_Vurro_Death_aca51e48:
 
-    # e "He… he was much smaller than that. What happened?"
+    # e "He... he was much smaller than that. What happened?"
     e ""
 
 translate schinese Wuldon_After_Vurro_Death_593d172e:
@@ -2283,9 +2283,9 @@ translate schinese Wuldon_After_Vurro_Death_7b341a8e:
     # h "With what? I might consider it if it's not a potion."
     h ""
 
-translate schinese Wuldon_After_Vurro_Death_eb4f79f1:
+translate schinese Wuldon_After_Vurro_Death_d5c7bd07:
 
-    # e "Well…"
+    # e "Well..."
     e ""
 
 translate schinese Wuldon_After_Vurro_Death_fb59833d:
@@ -2553,9 +2553,9 @@ translate schinese Wuldon_Slime_Country_Curse_0a73a10d:
     # "So saying, the werewolf turns around and enters the structure through an absurdly large, imposing archway through the front."
     ""
 
-translate schinese Wuldon_Slime_Country_Curse_d6ecbf51:
+translate schinese Wuldon_Slime_Country_Curse_0600a4a8:
 
-    # "Once again, you have to wonder who could have built this. Only a giant would need a gate like this, but those are only myths and fables. At least… in your world."
+    # "Once again, you have to wonder who could have built this. Only a giant would need a gate like this, but those are only myths and fables. At least... in your world."
     ""
 
 translate schinese Wuldon_Slime_Country_Curse_14b66634:
@@ -2568,9 +2568,9 @@ translate schinese Wuldon_Slime_Country_Curse_6770b93b:
     # "The circle forms a bowl on the inside - a bowl with a flat bottom of marble coated in ooze."
     ""
 
-translate schinese Wuldon_Slime_Country_Curse_31893e57:
+translate schinese Wuldon_Slime_Country_Curse_3c3f72f7:
 
-    # "The sides of the bowl are covered in stairs, where you can see hundreds of slimes… watching? The floor."
+    # "The sides of the bowl are covered in stairs, where you can see hundreds of slimes... watching? The floor."
     ""
 
 translate schinese Wuldon_Slime_Country_Curse_e2db8781:
@@ -3243,9 +3243,9 @@ translate schinese Wuldon_Slime_Country_Curse_End_6baac445:
     # "The disgusting elements swirl together and become exponentially worse in the others presence."
     ""
 
-translate schinese Wuldon_Slime_Country_Curse_End_25b29829:
+translate schinese Wuldon_Slime_Country_Curse_End_4e7ae058:
 
-    # "The vomit and sludge meld to become some form of bright brown, with yellow globs of… something, floating around in it."
+    # "The vomit and sludge meld to become some form of bright brown, with yellow globs of... something, floating around in it."
     ""
 
 translate schinese Wuldon_Slime_Country_Curse_End_43ef0739:
@@ -3688,9 +3688,9 @@ translate schinese Wuldon_Vurro_Cavern_ea60da14:
     # v "We can talk about your daydreams later, anyways."
     v ""
 
-translate schinese Wuldon_Vurro_Cavern_a9e4b09f:
+translate schinese Wuldon_Vurro_Cavern_ec9b5b19:
 
-    # e "I… don't know if we should, but please, carry on."
+    # e "I... don't know if we should, but please, carry on."
     e ""
 
 translate schinese Wuldon_Vurro_Cavern_8ed05974:
@@ -3698,9 +3698,9 @@ translate schinese Wuldon_Vurro_Cavern_8ed05974:
     # v "Alright."
     v ""
 
-translate schinese Wuldon_Vurro_Cavern_ef384cec:
+translate schinese Wuldon_Vurro_Cavern_fb75194d:
 
-    # v "We started out when we were very young. Wuldon was never a particularly sociable werewolf, always going off on his own, listening to the peace and quiet of the forest…"
+    # v "We started out when we were very young. Wuldon was never a particularly sociable werewolf, always going off on his own, listening to the peace and quiet of the forest..."
     v ""
 
 translate schinese Wuldon_Vurro_Cavern_249aeaed:
@@ -3733,9 +3733,9 @@ translate schinese Wuldon_Vurro_Cavern_8c3f3839:
     # v "That was how we first became friends. Fishing together by the creek."
     v ""
 
-translate schinese Wuldon_Vurro_Cavern_46100e73:
+translate schinese Wuldon_Vurro_Cavern_0dc477a3:
 
-    # v "Eventually I became bored of that spot, and asked him if he wanted to find another, which led us to a clearing of beautiful flowers…"
+    # v "Eventually I became bored of that spot, and asked him if he wanted to find another, which led us to a clearing of beautiful flowers..."
     v ""
 
 translate schinese Wuldon_Vurro_Cavern_836cca1c:
@@ -3908,14 +3908,14 @@ translate schinese Wuldon_Vurro_Cavern_80a6cb7e:
     # "You sigh. It's a melancholy sort of question you've been asked."
     ""
 
-translate schinese Wuldon_Vurro_Cavern_c9271a7e:
+translate schinese Wuldon_Vurro_Cavern_98bcef37:
 
-    # e "I… I don't know right now."
+    # e "I... I don't know right now."
     e ""
 
-translate schinese Wuldon_Vurro_Cavern_a9118d35:
+translate schinese Wuldon_Vurro_Cavern_68493827:
 
-    # e "Maybe I'll be able to decide someday… maybe I'll have to decide."
+    # e "Maybe I'll be able to decide someday... maybe I'll have to decide."
     e ""
 
 translate schinese Wuldon_Vurro_Cavern_76e54586:
@@ -3963,9 +3963,9 @@ translate schinese Wuldon_Vurro_Cavern_7e4ceb60:
     # "Vurro shakes his head, snapping himself back to reality to look over to you."
     ""
 
-translate schinese Wuldon_Vurro_Cavern_94bbcdfa:
+translate schinese Wuldon_Vurro_Cavern_b7d2480a:
 
-    # v "Sorry, I shouldn't have said that. To answer your question, though… I don't really mind dying."
+    # v "Sorry, I shouldn't have said that. To answer your question, though... I don't really mind dying."
     v ""
 
 translate schinese Wuldon_Vurro_Cavern_f018a6d1:
@@ -4158,9 +4158,9 @@ translate schinese Wuldon_Vurro_Cavern_63c011e4:
     # "You shake your head, simultaneously impressed and frustrated by how easily Wuldon shrugs off the danger in this."
     ""
 
-translate schinese Wuldon_Vurro_Cavern_621be71b:
+translate schinese Wuldon_Vurro_Cavern_1e695567:
 
-    # e "I'll trust the two of you on this one. If I start getting short of breath… I'll come back here."
+    # e "I'll trust the two of you on this one. If I start getting short of breath... I'll come back here."
     e ""
 
 translate schinese Wuldon_Vurro_Cavern_b7e4691b:
@@ -4178,9 +4178,9 @@ translate schinese Wuldon_Vurro_Cavern_4996f244:
     # w "Making an air vent is part of why we're here. I'm glad you thought of it before diving in though."
     w ""
 
-translate schinese Wuldon_Vurro_Cavern_3341084a:
+translate schinese Wuldon_Vurro_Cavern_158b6739:
 
-    # w "Speaking of…"
+    # w "Speaking of..."
     w ""
 
 translate schinese Wuldon_Vurro_Cavern_26808d90:
@@ -4363,14 +4363,14 @@ translate schinese Wuldon_Cure_Vurro_26a0cb27:
     # "Ever so gently, he hands it over to you."
     ""
 
-translate schinese Wuldon_Cure_Vurro_38b2b3e7:
+translate schinese Wuldon_Cure_Vurro_b2ca21dd:
 
-    # w "I could make the mixture myself, but… I feel it'd only be right if you did, seeing as you got all of the ingredients."
+    # w "I could make the mixture myself, but... I feel it'd only be right if you did, seeing as you got all of the ingredients."
     w ""
 
-translate schinese Wuldon_Cure_Vurro_8ca374ee:
+translate schinese Wuldon_Cure_Vurro_0bbb7c71:
 
-    # e "But… okay. I'll make sure it comes out okay."
+    # e "But... okay. I'll make sure it comes out okay."
     e ""
 
 translate schinese Wuldon_Cure_Vurro_e0e55876:
@@ -4398,9 +4398,9 @@ translate schinese Wuldon_Cure_Vurro_cece15a6:
     # "Nodding, you grab it from him, before popping open the vial of teratoid mucus and pouring it in."
     ""
 
-translate schinese Wuldon_Cure_Vurro_0386f9ff:
+translate schinese Wuldon_Cure_Vurro_c69a92c4:
 
-    # "You follow that up by opening the jar of flagitous ooze, which… refuses to follow gravity."
+    # "You follow that up by opening the jar of flagitous ooze, which... refuses to follow gravity."
     ""
 
 translate schinese Wuldon_Cure_Vurro_2e03a588:
@@ -4658,9 +4658,9 @@ translate schinese Wuldon_Cure_Vurro_59671c20:
     # w "And now we wait."
     w ""
 
-translate schinese Wuldon_Cure_Vurro_8a35b9c2:
+translate schinese Wuldon_Cure_Vurro_6361c8c3:
 
-    # e "Yeah…"
+    # e "Yeah..."
     e ""
 
 translate schinese Wuldon_Cure_Vurro_688c6e8e:
@@ -4713,9 +4713,9 @@ translate schinese Wuldon_Cure_Vurro_1d008735:
     # "It is a little book, worn and ragged - Brown from end to end, with thick pages of what appear to be vellum."
     ""
 
-translate schinese Wuldon_Cure_Vurro_1dbc20dc:
+translate schinese Wuldon_Cure_Vurro_9ba4d7d9:
 
-    # "You could ignore it and do what Wuldon said, but… something about it looks so inviting."
+    # "You could ignore it and do what Wuldon said, but... something about it looks so inviting."
     ""
 
 translate schinese Wuldon_Cure_Vurro_d6f0bcf7:
@@ -4738,9 +4738,9 @@ translate schinese Wuldon_Cure_Vurro_b70c8aad:
     # "The contents towards the beginning are all about the changes to the dark forest, and the days after the mine collapse."
     ""
 
-translate schinese Wuldon_Cure_Vurro_8a709207:
+translate schinese Wuldon_Cure_Vurro_603bc1ac:
 
-    # "There appears to be a long time gap after that, where the author gave up on writing, only for it to be picked up later…"
+    # "There appears to be a long time gap after that, where the author gave up on writing, only for it to be picked up later..."
     ""
 
 translate schinese Wuldon_Cure_Vurro_d59b8c7d:
@@ -4898,9 +4898,9 @@ translate schinese Wuldon_Cure_Vurro_5424f730:
     # w "As you know, that is a bit complicated for me - I fear I may have to break tradition, and in doing so, put others in peril for my selfishness."
     w ""
 
-translate schinese Wuldon_Cure_Vurro_8542f147:
+translate schinese Wuldon_Cure_Vurro_1c232622:
 
-    # w "I have one in mind, but… unless I find a way around the obvious, it is a choice that puts the future in danger."
+    # w "I have one in mind, but... unless I find a way around the obvious, it is a choice that puts the future in danger."
     w ""
 
 translate schinese Wuldon_Cure_Vurro_84f35e6a:
@@ -4908,9 +4908,9 @@ translate schinese Wuldon_Cure_Vurro_84f35e6a:
     # "The journal ends there."
     ""
 
-translate schinese Wuldon_Cure_Vurro_cee6bf36:
+translate schinese Wuldon_Cure_Vurro_e097b64c:
 
-    # "Maybe you shouldn't have read it, but… there was something about how the book was placed that made it clear he wanted somebody to find it."
+    # "Maybe you shouldn't have read it, but... there was something about how the book was placed that made it clear he wanted somebody to find it."
     ""
 
 translate schinese Wuldon_Cure_Vurro_6232be2d:
@@ -4953,9 +4953,9 @@ translate schinese Wuldon_Cure_Vurro_d63d46d4:
     # "Wuldon nods."
     ""
 
-translate schinese Wuldon_Cure_Vurro_d87631e0:
+translate schinese Wuldon_Cure_Vurro_5ece5c3b:
 
-    # "You both sort of just… stand there for a bit."
+    # "You both sort of just... stand there for a bit."
     ""
 
 translate schinese Wuldon_Cure_Vurro_dd622c7e:
@@ -4988,9 +4988,9 @@ translate schinese Wuldon_Cure_Vurro_7e9928a0:
     # "You blush a little."
     ""
 
-translate schinese Wuldon_Cure_Vurro_43f7fd59:
+translate schinese Wuldon_Cure_Vurro_ad238e03:
 
-    # e "I guess…"
+    # e "I guess..."
     e ""
 
 translate schinese Wuldon_Cure_Vurro_a3d6a5e1:
@@ -5013,9 +5013,9 @@ translate schinese Wuldon_Cure_Vurro_d0acf181:
     # "The wind caresses your cheek, bringing with it the smell of verdure. Everything is as it should be - not a single thing out of place."
     ""
 
-translate schinese Wuldon_Cure_Vurro_d2bb0117:
+translate schinese Wuldon_Cure_Vurro_09179f9f:
 
-    # "You think you can understand why Wuldon likes it here. It's kind of… making you…… sleepy."
+    # "You think you can understand why Wuldon likes it here. It's kind of... making you...... sleepy."
     ""
 
 translate schinese Wuldon_Cure_Vurro_a20cefa7:
@@ -5028,9 +5028,9 @@ translate schinese Wuldon_Cure_Vurro_00df5543:
     # my "... -e!"
     my ""
 
-translate schinese Wuldon_Cure_Vurro_83e1b6c2:
+translate schinese Wuldon_Cure_Vurro_af6c783e:
 
-    # "Mrgg… is this a dream?"
+    # "Mrgg... is this a dream?"
     ""
 
 translate schinese Wuldon_Cure_Vurro_8bcbbd54:
@@ -5128,9 +5128,9 @@ translate schinese Wuldon_Cure_Vurro_b7979384:
     # "Once again heading inside, you make your way over to where you last left the book."
     ""
 
-translate schinese Wuldon_Cure_Vurro_a37dcaf8:
+translate schinese Wuldon_Cure_Vurro_b0ede5e0:
 
-    # "It's… on the floor. Not where you left it."
+    # "It's... on the floor. Not where you left it."
     ""
 
 translate schinese Wuldon_Cure_Vurro_1eb1286d:
@@ -5198,9 +5198,9 @@ translate schinese Wuldon_Cure_Vurro_6e84d08f:
     # "It's blank again."
     ""
 
-translate schinese Wuldon_Cure_Vurro_6415a967:
+translate schinese Wuldon_Cure_Vurro_777b3371:
 
-    # e "I… I know I'm not that tired. Something's going on here."
+    # e "I... I know I'm not that tired. Something's going on here."
     e ""
 
 translate schinese Wuldon_Cure_Vurro_15606a6f:
@@ -5258,9 +5258,9 @@ translate schinese Wuldon_Cure_Vurro_259cbf94:
     # "His nose twitches, confused."
     ""
 
-translate schinese Wuldon_Cure_Vurro_77640c10:
+translate schinese Wuldon_Cure_Vurro_8f77466e:
 
-    # w "Did you spill blood on this? It… reeks of the stuff."
+    # w "Did you spill blood on this? It... reeks of the stuff."
     w ""
 
 translate schinese Wuldon_Cure_Vurro_812e87eb:
@@ -5313,9 +5313,9 @@ translate schinese Wuldon_Cure_Vurro_474320ef:
     # w "If they dare lay a finger on you, they'll lose the whole fucking arm. I don't care if they're magic, or if they're hiding - I will leave nothing of them but the smell left on this book."
     w ""
 
-translate schinese Wuldon_Cure_Vurro_567e57cd:
+translate schinese Wuldon_Cure_Vurro_fb39c8ba:
 
-    # "He means that. You can see it in his body. His teeth are bared, claws flexed to rip and tear… you've never seen Wuldon like this."
+    # "He means that. You can see it in his body. His teeth are bared, claws flexed to rip and tear... you've never seen Wuldon like this."
     ""
 
 translate schinese Wuldon_Cure_Vurro_3e88ae4e:
@@ -5408,9 +5408,9 @@ translate schinese Wuldon_Cure_Vurro_f70bdc65:
     # "Wuldon holds out the journal to Vurro, who slowly reaches out and takes it."
     ""
 
-translate schinese Wuldon_Cure_Vurro_2fda0b8f:
+translate schinese Wuldon_Cure_Vurro_fa6e4934:
 
-    # v "So… I've been gone for a while?"
+    # v "So... I've been gone for a while?"
     v ""
 
 translate schinese Wuldon_Cure_Vurro_095fd3ab:
@@ -5438,9 +5438,9 @@ translate schinese Wuldon_Cure_Vurro_31af851f:
     # "Ouch. He is {i}really{/i} going to hate reading that journal."
     ""
 
-translate schinese Wuldon_Cure_Vurro_a9ad3566:
+translate schinese Wuldon_Cure_Vurro_0e71d511:
 
-    # w "No, we… we're even more isolated than before."
+    # w "No, we... we're even more isolated than before."
     w ""
 
 translate schinese Wuldon_Cure_Vurro_cb287531:
@@ -5573,9 +5573,9 @@ translate schinese Wuldon_Cure_Vurro_1170b619:
     # "In there he sees long dried blood - a reminder of the time that has passed."
     ""
 
-translate schinese Wuldon_Cure_Vurro_7b254b30:
+translate schinese Wuldon_Cure_Vurro_01c4ca6f:
 
-    # v "I don't mean to be rude, but… I just woke up from whatever this was."
+    # v "I don't mean to be rude, but... I just woke up from whatever this was."
     v ""
 
 translate schinese Wuldon_Cure_Vurro_c3957b9c:
@@ -5673,9 +5673,9 @@ translate schinese Wuldon_Cure_Vurro_d27721dd:
     # w "Stay safe. Come back and talk to me when Vurro's done catching up, okay?"
     w ""
 
-translate schinese Wuldon_Cure_Vurro_f3a740a1:
+translate schinese Wuldon_Cure_Vurro_3a2b0180:
 
-    # "You were already planning to, but…"
+    # "You were already planning to, but..."
     ""
 
 translate schinese Wuldon_Cure_Vurro_91462881:
@@ -5988,9 +5988,9 @@ translate schinese Wuldon_Meeting_Shop_6186867a:
     # "You nod."
     ""
 
-translate schinese Wuldon_Meeting_Shop_217d5648:
+translate schinese Wuldon_Meeting_Shop_c61d6dbf:
 
-    # e "Sort of. It's mainly that his friend got cursed… which is why we're here actually."
+    # e "Sort of. It's mainly that his friend got cursed... which is why we're here actually."
     e ""
 
 translate schinese Wuldon_Meeting_Shop_240c26ba:
@@ -6028,9 +6028,9 @@ translate schinese Wuldon_Meeting_Shop_7917fa28:
     # e "He's someone I trust a great deal."
     e ""
 
-translate schinese Wuldon_Meeting_Shop_4e4da231:
+translate schinese Wuldon_Meeting_Shop_9401095c:
 
-    # e "He's strong, kind, and dependable… we've spent a lot of time together recently because of something he's been going through."
+    # e "He's strong, kind, and dependable... we've spent a lot of time together recently because of something he's been going through."
     e ""
 
 translate schinese Wuldon_Meeting_Shop_bc447bde:
@@ -6058,9 +6058,9 @@ translate schinese Wuldon_Meeting_Shop_e4f23c5b:
     # "Seb is struggling to contain himself, quietly fuming in the background."
     ""
 
-translate schinese Wuldon_Meeting_Shop_d84ad44d:
+translate schinese Wuldon_Meeting_Shop_5166fffe:
 
-    # e "I was hired to do a certain job by the werewolves, and I met Wuldon on the way there. He told me not to do the job, because it would hurt his friend, which is…"
+    # e "I was hired to do a certain job by the werewolves, and I met Wuldon on the way there. He told me not to do the job, because it would hurt his friend, which is..."
     e ""
 
 translate schinese Wuldon_Meeting_Shop_6e355f5a:
@@ -6118,9 +6118,9 @@ translate schinese Wuldon_Meeting_Shop_e4f23c5b_1:
     # "Seb is struggling to contain himself, quietly fuming in the background."
     ""
 
-translate schinese Wuldon_Meeting_Shop_151634f3:
+translate schinese Wuldon_Meeting_Shop_12ffa35f:
 
-    # e "Oh, umm…"
+    # e "Oh, umm..."
     e ""
 
 translate schinese Wuldon_Meeting_Shop_6549d1b3:
@@ -6148,9 +6148,9 @@ translate schinese Wuldon_Meeting_Shop_f3209e91:
     # "Regardless of how they felt previously, Seb and Ole grow sympathetic to Wuldon's plight - both of them disgusted by the idea of a curse."
     ""
 
-translate schinese Wuldon_Meeting_Shop_42daa649:
+translate schinese Wuldon_Meeting_Shop_aa20ab05:
 
-    # o "Oh dear, a curse… I haven't heard of one of those in a long time."
+    # o "Oh dear, a curse... I haven't heard of one of those in a long time."
     o ""
 
 translate schinese Wuldon_Meeting_Shop_87cfddd7:
@@ -6213,9 +6213,9 @@ translate schinese Wuldon_Meeting_Shop_1bc776a2:
     # "This entire situation is overwhelming, but Wuldon appears to be completely shell-shocked."
     ""
 
-translate schinese Wuldon_Meeting_Shop_f6f4c1ad:
+translate schinese Wuldon_Meeting_Shop_be6fa833:
 
-    # w "I… appreciate the well wishes for both [e] and I, but…"
+    # w "I... appreciate the well wishes for both [e] and I, but..."
     w ""
 
 translate schinese Wuldon_Meeting_Shop_85e3fc80:
@@ -6238,9 +6238,9 @@ translate schinese Wuldon_Meeting_Shop_0c32c591:
     # "Wuldon's ears go flat against his head in dismay."
     ""
 
-translate schinese Wuldon_Meeting_Shop_d54c3948:
+translate schinese Wuldon_Meeting_Shop_5e39a6a3:
 
-    # w "I can't just… not pay you, right?"
+    # w "I can't just... not pay you, right?"
     w ""
 
 translate schinese Wuldon_Meeting_Shop_cb35961f:
@@ -6263,9 +6263,9 @@ translate schinese Wuldon_Meeting_Shop_022f205f:
     # "Taking their words to heart, Wuldon gently nudges you towards the door."
     ""
 
-translate schinese Wuldon_Meeting_Shop_861248f2:
+translate schinese Wuldon_Meeting_Shop_59e1df62:
 
-    # w "I know you said you wanted to come with me, so… I'm heading there now. If you'd like to come, do so now."
+    # w "I know you said you wanted to come with me, so... I'm heading there now. If you'd like to come, do so now."
     w ""
 
 translate schinese Wuldon_Meeting_Shop_c7ad506d:
@@ -6373,9 +6373,9 @@ translate schinese Wuldon_Meeting_Shop_1320a7a3:
     # "Wuldon slashes his Khopesh at an inconspicuous patch of grass, piercing through a translucent slime you hadn't realized was there."
     ""
 
-translate schinese Wuldon_Meeting_Shop_6c0368dd:
+translate schinese Wuldon_Meeting_Shop_bf20efb3:
 
-    # e "Yeah… I think I'm better suited for the clearing anyways. I'm not sure if you can fit through the gap."
+    # e "Yeah... I think I'm better suited for the clearing anyways. I'm not sure if you can fit through the gap."
     e ""
 
 translate schinese Wuldon_Meeting_Shop_f47cf443:
@@ -6383,9 +6383,9 @@ translate schinese Wuldon_Meeting_Shop_f47cf443:
     # "You point at the hole between the trees."
     ""
 
-translate schinese Wuldon_Meeting_Shop_ca154b68:
+translate schinese Wuldon_Meeting_Shop_356f242c:
 
-    # w "I'm pretty sure I could if I tried, but… it would be unpleasant."
+    # w "I'm pretty sure I could if I tried, but... it would be unpleasant."
     w ""
 
 translate schinese Wuldon_Meeting_Shop_dcb07571:
@@ -6393,9 +6393,9 @@ translate schinese Wuldon_Meeting_Shop_dcb07571:
     # "Wuldon lets out a deep sigh."
     ""
 
-translate schinese Wuldon_Meeting_Shop_9e447582:
+translate schinese Wuldon_Meeting_Shop_e3ec0464:
 
-    # w "Wait, wait… I almost forgot to explain how these slimes behave."
+    # w "Wait, wait... I almost forgot to explain how these slimes behave."
     w ""
 
 translate schinese Wuldon_Meeting_Shop_e2090283:
@@ -6513,9 +6513,9 @@ translate schinese Wuldon_Vurro_Mine_Quest_7b6eaa5a:
     # "Wuldon's rumbling voice comes from right behind you. His warm breath tickles your ear as you dangle just above the ground, held only by his embrace. He seems to be teasing you."
     ""
 
-translate schinese Wuldon_Vurro_Mine_Quest_0d978451:
+translate schinese Wuldon_Vurro_Mine_Quest_0673bed7:
 
-    # e "I thought I was safe…"
+    # e "I thought I was safe..."
     e ""
 
 translate schinese Wuldon_Vurro_Mine_Quest_1d527267:
@@ -6543,14 +6543,14 @@ translate schinese Wuldon_Vurro_Mine_Quest_bbae1685:
     # "Wuldon raises an eyebrow at you, trying to look skeptical. It fails to hide the content look on his face."
     ""
 
-translate schinese Wuldon_Vurro_Mine_Quest_f10249b2:
+translate schinese Wuldon_Vurro_Mine_Quest_f8e0e008:
 
-    # w "Well, I'm glad you trust me that much. Can't promise I can keep you safe from everything, but…"
+    # w "Well, I'm glad you trust me that much. Can't promise I can keep you safe from everything, but..."
     w ""
 
-translate schinese Wuldon_Vurro_Mine_Quest_679ada8d:
+translate schinese Wuldon_Vurro_Mine_Quest_c962eab4:
 
-    # "Wuldon's ear wiggles slightly. He seems… embarrassed? It's a bit hard to tell, as he turns around and starts heading home."
+    # "Wuldon's ear wiggles slightly. He seems... embarrassed? It's a bit hard to tell, as he turns around and starts heading home."
     ""
 
 translate schinese Wuldon_Vurro_Mine_Quest_52d67375:
@@ -6743,9 +6743,9 @@ translate schinese Wuldon_Vurro_Mine_Quest_dc4cb853:
     # w "Awake now?"
     w ""
 
-translate schinese Wuldon_Vurro_Mine_Quest_93bc0cfd:
+translate schinese Wuldon_Vurro_Mine_Quest_f236a040:
 
-    # "His voice is teasing, but also… sad?"
+    # "His voice is teasing, but also... sad?"
     ""
 
 translate schinese Wuldon_Vurro_Mine_Quest_6266cb5e:
@@ -6978,9 +6978,9 @@ translate schinese Wuldon_Vurro_Mine_Quest_8789cc3c:
     # v "Plus, I have some plans for doing it that involve you."
     v ""
 
-translate schinese Wuldon_Vurro_Mine_Quest_db0408e2:
+translate schinese Wuldon_Vurro_Mine_Quest_82b54921:
 
-    # "Uffe is pretty awful, but does he really deserve to die? Your potential role in making it come to pass feels… guilty."
+    # "Uffe is pretty awful, but does he really deserve to die? Your potential role in making it come to pass feels... guilty."
     ""
 
 translate schinese Wuldon_Vurro_Mine_Quest_c1d6b5e5:
@@ -7008,9 +7008,9 @@ translate schinese Wuldon_Vurro_Mine_Quest_4ad8c020:
     # "A shiver crawls down your spine."
     ""
 
-translate schinese Wuldon_Vurro_Mine_Quest_b45d92d9:
+translate schinese Wuldon_Vurro_Mine_Quest_64e6d457:
 
-    # e "Still… that's your own brother, no?"
+    # e "Still... that's your own brother, no?"
     e ""
 
 translate schinese Wuldon_Vurro_Mine_Quest_13239d7a:
@@ -7033,14 +7033,14 @@ translate schinese Wuldon_Vurro_Mine_Quest_2dd145a5:
     # "You feel pretty uncomfortable after hearing that. It seems everyone else is in a similar mood, Vurro not looking you in the eyes, and Wuldon turned around, organizing medicine jars."
     ""
 
-translate schinese Wuldon_Vurro_Mine_Quest_e2cee58d:
+translate schinese Wuldon_Vurro_Mine_Quest_64c39b7a:
 
-    # e "Well… I trust that killing Uffe is not a decision you would reach easily."
+    # e "Well... I trust that killing Uffe is not a decision you would reach easily."
     e ""
 
-translate schinese Wuldon_Vurro_Mine_Quest_74bf0c4b:
+translate schinese Wuldon_Vurro_Mine_Quest_a1352d39:
 
-    # e "I'll help you with both of the things you've mentioned… better to do them while you're still around to see it."
+    # e "I'll help you with both of the things you've mentioned... better to do them while you're still around to see it."
     e ""
 
 translate schinese Wuldon_Vurro_Mine_Quest_277a42ed:
@@ -7193,9 +7193,9 @@ translate schinese Wuldon_Vurro_Mine_Quest_277b1569:
     # v "Well, you heard the man. Please hurry."
     v ""
 
-translate schinese Wuldon_Vurro_Mine_Quest_0b3f2546:
+translate schinese Wuldon_Vurro_Mine_Quest_128d81c7:
 
-    # e "I don't really know if I have the time to help with either of those things…"
+    # e "I don't really know if I have the time to help with either of those things..."
     e ""
 
 translate schinese Wuldon_Vurro_Mine_Quest_063d3473:
@@ -7258,9 +7258,9 @@ translate schinese Wuldon_Vurro_Mine_Quest_a3fe8c32:
     # w "And also that I've heard him boast about how he'll gut you to his lieutenants."
     w ""
 
-translate schinese Wuldon_Vurro_Mine_Quest_7bf5f28a:
+translate schinese Wuldon_Vurro_Mine_Quest_43dc9c51:
 
-    # "That's… well, it's not entirely unexpected, but it's certainly disturbing."
+    # "That's... well, it's not entirely unexpected, but it's certainly disturbing."
     ""
 
 translate schinese Wuldon_Vurro_Mine_Quest_7d36b523:
@@ -7343,9 +7343,9 @@ translate schinese Wuldon_Vurro_Mine_Quest_e8aa321f:
     # v "Wuldon and I are probably going to try and scout out a little bit on our own, though not nearly as far as we'd go otherwise."
     v ""
 
-translate schinese Wuldon_Vurro_Mine_Quest_957a274c:
+translate schinese Wuldon_Vurro_Mine_Quest_d4b2fc81:
 
-    # v "We need to plan for that though, so… please come back and talk to us about our plan for taking down Uffe in a few days, alright?"
+    # v "We need to plan for that though, so... please come back and talk to us about our plan for taking down Uffe in a few days, alright?"
     v ""
 
 translate schinese Wuldon_Vurro_Mine_Quest_e8949abc:
@@ -7363,14 +7363,14 @@ translate schinese Wuldon_Vurro_Mine_Quest_a5e322bc:
     # "Sighing, you turn to face Vurro."
     ""
 
-translate schinese Wuldon_Vurro_Mine_Quest_e2cee58d_1:
+translate schinese Wuldon_Vurro_Mine_Quest_64c39b7a_1:
 
-    # e "Well… I trust that killing Uffe is not a decision you would reach easily."
+    # e "Well... I trust that killing Uffe is not a decision you would reach easily."
     e ""
 
-translate schinese Wuldon_Vurro_Mine_Quest_74bf0c4b_1:
+translate schinese Wuldon_Vurro_Mine_Quest_a1352d39_1:
 
-    # e "I'll help you with both of the things you've mentioned… better to do them while you're still around to see it."
+    # e "I'll help you with both of the things you've mentioned... better to do them while you're still around to see it."
     e ""
 
 translate schinese Wuldon_Vurro_Mine_Quest_63f2fb15:
@@ -7603,9 +7603,9 @@ translate schinese Wuldon_Enter_Cure_Transition_133c67de:
     # "Wuldon once again has a complicated expression on his face."
     ""
 
-translate schinese Wuldon_Enter_Cure_Transition_13fd588c:
+translate schinese Wuldon_Enter_Cure_Transition_d01eb253:
 
-    # w "You've done a lot to help him, and… we don't know how long the cure will last."
+    # w "You've done a lot to help him, and... we don't know how long the cure will last."
     w ""
 
 translate schinese Wuldon_Enter_Cure_Transition_fb39060a:
@@ -7823,14 +7823,14 @@ translate schinese Wuldon_Meeting_Field_4da839df:
     # "Wuldon gives you a shrug."
     ""
 
-translate schinese Wuldon_Meeting_Field_45ae4bb2:
+translate schinese Wuldon_Meeting_Field_d945d392:
 
-    # w "No idea. All I know is that some werewolves are just… born different - often with unnatural strength, intelligence, charisma, and so on."
+    # w "No idea. All I know is that some werewolves are just... born different - often with unnatural strength, intelligence, charisma, and so on."
     w ""
 
-translate schinese Wuldon_Meeting_Field_ddcb6410:
+translate schinese Wuldon_Meeting_Field_d4cb1943:
 
-    # w "Some people… hm. {i}people{/i} is a strong word."
+    # w "Some people... hm. {i}people{/i} is a strong word."
     w ""
 
 translate schinese Wuldon_Meeting_Field_07645f71:
@@ -7843,9 +7843,9 @@ translate schinese Wuldon_Meeting_Field_7b99dadf:
     # "Considering the other werewolves, Uffe might not be entirely wrong for once."
     ""
 
-translate schinese Wuldon_Meeting_Field_8c6cd71a:
+translate schinese Wuldon_Meeting_Field_1dec82cc:
 
-    # e "I get what you're saying, but… the rest of the pack isn't particularly bright, no?"
+    # e "I get what you're saying, but... the rest of the pack isn't particularly bright, no?"
     e ""
 
 translate schinese Wuldon_Meeting_Field_e4320b61:
@@ -7988,9 +7988,9 @@ translate schinese Wuldon_Meeting_Field_a162e114:
     # "He sighs, turning away from you to bend down and look through the grass underfoot."
     ""
 
-translate schinese Wuldon_Meeting_Field_94565b8c:
+translate schinese Wuldon_Meeting_Field_118a21a4:
 
-    # "You stand there for a while, watching him sift through the grass… expecting him to do something special or something."
+    # "You stand there for a while, watching him sift through the grass... expecting him to do something special or something."
     ""
 
 translate schinese Wuldon_Meeting_Field_063325cd:
@@ -7998,9 +7998,9 @@ translate schinese Wuldon_Meeting_Field_063325cd:
     # "Instead, he just keeps checking plant by plant for something, occasionally moving slightly forwards to get to a new patch of turf."
     ""
 
-translate schinese Wuldon_Meeting_Field_7359eac1:
+translate schinese Wuldon_Meeting_Field_784c47c4:
 
-    # e "Is… is that it?"
+    # e "Is... is that it?"
     e ""
 
 translate schinese Wuldon_Meeting_Field_549460fc:
@@ -8168,9 +8168,9 @@ translate schinese Wuldon_Meeting_Field_917b6c8d:
     # "His body language shifts to show that he is paying attention to you, despite continuing his work at the exact same pace as before."
     ""
 
-translate schinese Wuldon_Meeting_Field_e1735e36:
+translate schinese Wuldon_Meeting_Field_0f108792:
 
-    # "Being with Wuldon like this sort of gives you time to think before you speak… he seems to take life at a somewhat slower pace, doing things at a slow but steady rhythm."
+    # "Being with Wuldon like this sort of gives you time to think before you speak... he seems to take life at a somewhat slower pace, doing things at a slow but steady rhythm."
     ""
 
 translate schinese Wuldon_Meeting_Field_4d835fb9:
@@ -8178,9 +8178,9 @@ translate schinese Wuldon_Meeting_Field_4d835fb9:
     # "Because of that, it takes a bit before you speak."
     ""
 
-translate schinese Wuldon_Meeting_Field_5ad78f60:
+translate schinese Wuldon_Meeting_Field_693eb049:
 
-    # e "Was he like you? Like…"
+    # e "Was he like you? Like..."
     e ""
 
 translate schinese Wuldon_Meeting_Field_8e52631a:
@@ -8238,9 +8238,9 @@ translate schinese Wuldon_Meeting_Field_0f25240c:
     # w "Yup. I only learned about the plants he told me stories about - regrettably little now that I have to treat Vurro."
     w ""
 
-translate schinese Wuldon_Meeting_Field_8a35b9c2:
+translate schinese Wuldon_Meeting_Field_6361c8c3:
 
-    # e "Yeah…"
+    # e "Yeah..."
     e ""
 
 translate schinese Wuldon_Meeting_Field_5fa06c6e:
@@ -8378,9 +8378,9 @@ translate schinese Wuldon_Meeting_Field_27205c67:
     # "He's smiling, but it's a rather unhappily."
     ""
 
-translate schinese Wuldon_Meeting_Field_eef6b537:
+translate schinese Wuldon_Meeting_Field_fc467d26:
 
-    # e "Are… are you lonely, Wuldon?"
+    # e "Are... are you lonely, Wuldon?"
     e ""
 
 translate schinese Wuldon_Meeting_Field_d57ba398:
@@ -8388,9 +8388,9 @@ translate schinese Wuldon_Meeting_Field_d57ba398:
     # w "No, little one. I'm not lonely."
     w ""
 
-translate schinese Wuldon_Meeting_Field_270baad0:
+translate schinese Wuldon_Meeting_Field_8139541d:
 
-    # w "I am happiest when I am alone, in the quiet, but…"
+    # w "I am happiest when I am alone, in the quiet, but..."
     w ""
 
 translate schinese Wuldon_Meeting_Field_1939486d:
@@ -8433,9 +8433,9 @@ translate schinese Wuldon_Meeting_Field_87aa5048:
     # "You don't know how he said all of that without a hint of embarrassment, but it's good to know you're on the werewolf's good side."
     ""
 
-translate schinese Wuldon_Meeting_Field_4b969de8:
+translate schinese Wuldon_Meeting_Field_044ec4ae:
 
-    # e "That's… good to know. Thanks, Wuldon."
+    # e "That's... good to know. Thanks, Wuldon."
     e ""
 
 translate schinese Wuldon_Meeting_Field_d729cc55:
@@ -8483,9 +8483,9 @@ translate schinese Wuldon_Meeting_River_acb1034c:
     # "You wander around for a while, eyes roaming fairly aimlessly around the area."
     ""
 
-translate schinese Wuldon_Meeting_River_8ca9decc:
+translate schinese Wuldon_Meeting_River_366c7734:
 
-    # "The fields were much harder for him to hide in, but this area shares many of his colors… he's probably just going to find you again anyway."
+    # "The fields were much harder for him to hide in, but this area shares many of his colors... he's probably just going to find you again anyway."
     ""
 
 translate schinese Wuldon_Meeting_River_4f5d03c0:
@@ -8588,9 +8588,9 @@ translate schinese Wuldon_Meeting_River_35955570:
     # "Neither of you even look in the direction of the crash from the trees this time."
     ""
 
-translate schinese Wuldon_Meeting_River_ce85c814:
+translate schinese Wuldon_Meeting_River_d77a1ceb:
 
-    # e "So… the milkweed didn't work?"
+    # e "So... the milkweed didn't work?"
     e ""
 
 translate schinese Wuldon_Meeting_River_2498b49b:
@@ -8598,9 +8598,9 @@ translate schinese Wuldon_Meeting_River_2498b49b:
     # "A brief flash of pain."
     ""
 
-translate schinese Wuldon_Meeting_River_2754b54e:
+translate schinese Wuldon_Meeting_River_d8c04e0e:
 
-    # w "No… not even a little bit."
+    # w "No... not even a little bit."
     w ""
 
 translate schinese Wuldon_Meeting_River_620efea1:
@@ -8618,9 +8618,9 @@ translate schinese Wuldon_Meeting_River_f458d617:
     # "Wuldon shakes his head."
     ""
 
-translate schinese Wuldon_Meeting_River_5fd6a67c:
+translate schinese Wuldon_Meeting_River_2918ad2e:
 
-    # w "No, not this time… I'm close to being done, and I am in an actual hurry this time. Vurro is growing restless."
+    # w "No, not this time... I'm close to being done, and I am in an actual hurry this time. Vurro is growing restless."
     w ""
 
 translate schinese Wuldon_Meeting_River_d58734eb:
@@ -8638,9 +8638,9 @@ translate schinese Wuldon_Meeting_River_98f81678:
     # w "Yes. But before then, I want to see if this doesn't work."
     w ""
 
-translate schinese Wuldon_Meeting_River_28ae9762:
+translate schinese Wuldon_Meeting_River_8c4eba0a:
 
-    # e "So then, if it doesn't work, you'll come find me? Or…"
+    # e "So then, if it doesn't work, you'll come find me? Or..."
     e ""
 
 translate schinese Wuldon_Meeting_River_b35f8aef:
@@ -8663,9 +8663,9 @@ translate schinese Wuldon_Meeting_River_fc96c4df:
     # "Wuldon lets out a sigh."
     ""
 
-translate schinese Wuldon_Meeting_River_cb20b294:
+translate schinese Wuldon_Meeting_River_d828fffc:
 
-    # w "Yeah… for Vurro, if nothing else."
+    # w "Yeah... for Vurro, if nothing else."
     w ""
 
 translate schinese Wuldon_Meeting_River_34f6cefd:
@@ -8748,9 +8748,9 @@ translate schinese Wuldon_Meeting_Haskell_8b303fc7:
     # "You can't see Wuldon at the front of the house, so you decide to circle around and see if he's in the back."
     ""
 
-translate schinese Wuldon_Meeting_Haskell_bef0f269:
+translate schinese Wuldon_Meeting_Haskell_d3f2051a:
 
-    # "This is the first time you get a good look of this place… it's definitely bigger than you expected, but it's well within the bounds of reason."
+    # "This is the first time you get a good look of this place... it's definitely bigger than you expected, but it's well within the bounds of reason."
     ""
 
 translate schinese Wuldon_Meeting_Haskell_a4461d66:
@@ -8783,14 +8783,14 @@ translate schinese Wuldon_Meeting_Haskell_f458d617:
     # "Wuldon shakes his head."
     ""
 
-translate schinese Wuldon_Meeting_Haskell_fdf1cdcd:
+translate schinese Wuldon_Meeting_Haskell_67ab8935:
 
-    # w "No such luck. He's calmed down a bit because some of the herbs were sedatives, but… it moves me no closer to the solution."
+    # w "No such luck. He's calmed down a bit because some of the herbs were sedatives, but... it moves me no closer to the solution."
     w ""
 
-translate schinese Wuldon_Meeting_Haskell_d4a541f0:
+translate schinese Wuldon_Meeting_Haskell_101b4a4e:
 
-    # e "Ah…"
+    # e "Ah..."
     e ""
 
 translate schinese Wuldon_Meeting_Haskell_88124008:
@@ -8808,9 +8808,9 @@ translate schinese Wuldon_Meeting_Haskell_14a69de1:
     # w "Unless you've got any tricks up your sleeve like you were suggesting, I think this is going for the long haul."
     w ""
 
-translate schinese Wuldon_Meeting_Haskell_919e6991:
+translate schinese Wuldon_Meeting_Haskell_e6859600:
 
-    # "Sighing, Wilson begins harvesting small cuts of Haskell's herbs - rosemary, myrtle, rhubarb, and more."
+    # "Sighing, Wuldon begins harvesting small cuts of Haskell's herbs - rosemary, myrtle, rhubarb, and more."
     ""
 
 translate schinese Wuldon_Meeting_Haskell_f119e050:
@@ -8818,9 +8818,9 @@ translate schinese Wuldon_Meeting_Haskell_f119e050:
     # e "I do have a couple ideas, but they all involve going to other people for help."
     e ""
 
-translate schinese Wuldon_Meeting_Haskell_957cc329:
+translate schinese Wuldon_Meeting_Haskell_aef45d02:
 
-    # w "What kinds of people…"
+    # w "What kinds of people..."
     w ""
 
 translate schinese Wuldon_Meeting_Haskell_3f4a1d19:
@@ -9148,9 +9148,9 @@ translate schinese Wuldon_Meeting_Haskell_f1de0722:
     # "Wuldon looks slightly annoyed at how Haskell is treating you, but you're honestly pretty used to the dragon being a big whiny baby at this point."
     ""
 
-translate schinese Wuldon_Meeting_Haskell_78845074:
+translate schinese Wuldon_Meeting_Haskell_15343350:
 
-    # e "Well… I've been over with the werewolves recently, trying to figure out a couple things, and on the way I met Wuldon here."
+    # e "Well... I've been over with the werewolves recently, trying to figure out a couple things, and on the way I met Wuldon here."
     e ""
 
 translate schinese Wuldon_Meeting_Haskell_9f71c0dc:
@@ -9178,9 +9178,9 @@ translate schinese Wuldon_Meeting_Haskell_0dfcabd2:
     # "Your eyebrow twitches."
     ""
 
-translate schinese Wuldon_Meeting_Haskell_ec4c22ba:
+translate schinese Wuldon_Meeting_Haskell_82f5dd02:
 
-    # e "Yes. Regardless, said friend is…"
+    # e "Yes. Regardless, said friend is..."
     e ""
 
 translate schinese Wuldon_Meeting_Haskell_614dc3ef:
@@ -9208,9 +9208,9 @@ translate schinese Wuldon_Meeting_Haskell_c8b29fdb:
     # w "Yes, something like that."
     w ""
 
-translate schinese Wuldon_Meeting_Haskell_c94117c2:
+translate schinese Wuldon_Meeting_Haskell_40f20ed7:
 
-    # w "Vurro doesn't deserve to be someone like that though, and I've been trying to find a cure for a while now… nothing's worked."
+    # w "Vurro doesn't deserve to be someone like that though, and I've been trying to find a cure for a while now... nothing's worked."
     w ""
 
 translate schinese Wuldon_Meeting_Haskell_e9af1185:
@@ -9378,9 +9378,9 @@ translate schinese Wuldon_Meeting_Haskell_485ef90f:
     # "You look over to Wuldon, pleadingly. He shrugs."
     ""
 
-translate schinese Wuldon_Meeting_Haskell_1bbad485:
+translate schinese Wuldon_Meeting_Haskell_6b9f8311:
 
-    # e "Okay, fine…"
+    # e "Okay, fine..."
     e ""
 
 translate schinese Wuldon_Meeting_Haskell_d2c91510:
@@ -9488,9 +9488,9 @@ translate schinese Wuldon_Meeting_Haskell_b1f6fccc:
     # "Wuldon doesn't even have a barb in response to that."
     ""
 
-translate schinese Wuldon_Meeting_Haskell_957aea37:
+translate schinese Wuldon_Meeting_Haskell_e00fb0a3:
 
-    # e "Okay, fine, I'll go get you your tea, just… please get on to the important bit."
+    # e "Okay, fine, I'll go get you your tea, just... please get on to the important bit."
     e ""
 
 translate schinese Wuldon_Meeting_Haskell_ba2f5079:
@@ -9513,9 +9513,9 @@ translate schinese Wuldon_Meeting_Haskell_43604de8:
     # "The werewolf to your side shakes his head and begins getting up, only to be stopped by you putting a hand on his shoulder."
     ""
 
-translate schinese Wuldon_Meeting_Haskell_c1c6424f:
+translate schinese Wuldon_Meeting_Haskell_db5abeac:
 
-    # e "Please, just… I'll be fine. I'm not mad at him or anything, just getting a headache."
+    # e "Please, just... I'll be fine. I'm not mad at him or anything, just getting a headache."
     e ""
 
 translate schinese Wuldon_Meeting_Haskell_f8a675aa:
@@ -9883,9 +9883,9 @@ translate schinese Wuldon_Meeting_Haskell_93767c3a:
     # "Wuldon looks over to you with some consternation. Haskell on the other hand is looking at {i}both{/i} of you with resigned concern."
     ""
 
-translate schinese Wuldon_Meeting_Haskell_97d88cdb:
+translate schinese Wuldon_Meeting_Haskell_cea91710:
 
-    # h "Okay, well… first things first: You'll need to go into town and buy some hexroot from Ole and Sebas."
+    # h "Okay, well... first things first: You'll need to go into town and buy some hexroot from Ole and Sebas."
     h ""
 
 translate schinese Wuldon_Meeting_Haskell_8bf8a2c6:
@@ -9993,9 +9993,9 @@ translate schinese Wuldon_Meeting_Haskell_d568ef75:
     # h "I do know their goo behaves radically differently after death, so even if you don't know what kind of slime you're fighting, you'll know if they were different or not."
     h ""
 
-translate schinese Wuldon_Meeting_Haskell_9c1b4cd4:
+translate schinese Wuldon_Meeting_Haskell_9a1b54e3:
 
-    # "That's… unfortunate, honestly. It's frustrating to hear that you'll have to fight multiple different slimes just to have a chance at getting the right ingredients."
+    # "That's... unfortunate, honestly. It's frustrating to hear that you'll have to fight multiple different slimes just to have a chance at getting the right ingredients."
     ""
 
 translate schinese Wuldon_Meeting_Haskell_3c1bf451:
@@ -10383,9 +10383,9 @@ translate schinese Wuldon_After_Cavern_Talk_0f021517:
     # w "Please leave."
     w ""
 
-translate schinese Wuldon_After_Cavern_Talk_598449f8:
+translate schinese Wuldon_After_Cavern_Talk_c38c7c54:
 
-    # "He said please, but… you can tell that he is ordering you to leave him alone."
+    # "He said please, but... you can tell that he is ordering you to leave him alone."
     ""
 
 translate schinese Wuldon_After_Cavern_Talk_b58754e7:
@@ -10403,9 +10403,9 @@ translate schinese Wuldon_Cavern_Return_Early_0468418a:
     # w "Back already?"
     w ""
 
-translate schinese Wuldon_Cavern_Return_Early_bb2c6a5f:
+translate schinese Wuldon_Cavern_Return_Early_74db1a7f:
 
-    # e "Yes…"
+    # e "Yes..."
     e ""
 
 translate schinese Wuldon_Cavern_Return_Early_3f81be61:
@@ -10448,9 +10448,9 @@ translate schinese Vurro_Battle_Win_With_Wuldon_dfbf44ac:
     # "The Feral Werewolf finally falls unconscious."
     ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_cb05bb7a:
+translate schinese Vurro_Battle_Win_With_Wuldon_3d352c7c:
 
-    # e "That… that was… way harder than expected."
+    # e "That... that was... way harder than expected."
     e ""
 
 translate schinese Vurro_Battle_Win_With_Wuldon_fcaf4b54:
@@ -10493,9 +10493,9 @@ translate schinese Vurro_Battle_Win_With_Wuldon_430b2b5e:
     # "You rush to get up, but look back at the pitiful, defeated clump of fur behind you."
     ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_df6681e2:
+translate schinese Vurro_Battle_Win_With_Wuldon_11f0ad08:
 
-    # "He might be feral, but… you can still remember Wuldon's story. Should someone like him really be left here to die?"
+    # "He might be feral, but... you can still remember Wuldon's story. Should someone like him really be left here to die?"
     ""
 
 translate schinese Vurro_Battle_Win_With_Wuldon_8d79ca09:
@@ -10608,9 +10608,9 @@ translate schinese Vurro_Battle_Win_With_Wuldon_ba55c959:
     # "With that, the cave collapses. For the next 3 minutes, the world is incomprehensible to you."
     ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_67d38efb:
+translate schinese Vurro_Battle_Win_With_Wuldon_d53b1d7d:
 
-    # "There is only brown dust. It fills the air, coats the trees, the dirt…"
+    # "There is only brown dust. It fills the air, coats the trees, the dirt..."
     ""
 
 translate schinese Vurro_Battle_Win_With_Wuldon_f21a52ae:
@@ -10713,9 +10713,9 @@ translate schinese Vurro_Battle_Win_With_Wuldon_db7abf94:
     # w "Well well well! Look at what we have here."
     w ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_e875676c:
+translate schinese Vurro_Battle_Win_With_Wuldon_f4a9579a:
 
-    # "Wuldon is shirtless. This should have been obvious due to his cloak being on you, but…"
+    # "Wuldon is shirtless. This should have been obvious due to his cloak being on you, but..."
     ""
 
 translate schinese Vurro_Battle_Win_With_Wuldon_eb117efa:
@@ -10798,14 +10798,14 @@ translate schinese Vurro_Battle_Win_With_Wuldon_e7195e79:
     # w "You're going to have to pay me rent for the night, and I don't want to have to take that from a dead man."
     w ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_78bdaca0:
+translate schinese Vurro_Battle_Win_With_Wuldon_a4fdc952:
 
-    # "Wuldon's shit-eating smirk made you pretty sure that he was kidding, but…"
+    # "Wuldon's shit-eating smirk made you pretty sure that he was kidding, but..."
     ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_7adcf6ab:
+translate schinese Vurro_Battle_Win_With_Wuldon_ad8bb37e:
 
-    # e "You're kidding… right?"
+    # e "You're kidding... right?"
     e ""
 
 translate schinese Vurro_Battle_Win_With_Wuldon_8225d91f:
@@ -10838,9 +10838,9 @@ translate schinese Vurro_Battle_Win_With_Wuldon_eb3f466f:
     # e "...How is he?"
     e ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_251c6e0e:
+translate schinese Vurro_Battle_Win_With_Wuldon_efe3d0eb:
 
-    # "Actually… you sit up in alarm, cloak slipping into your lap."
+    # "Actually... you sit up in alarm, cloak slipping into your lap."
     ""
 
 translate schinese Vurro_Battle_Win_With_Wuldon_45e00406:
@@ -10858,9 +10858,9 @@ translate schinese Vurro_Battle_Win_With_Wuldon_6ef33389:
     # w "Well, I currently have him outside."
     w ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_8a66296d:
+translate schinese Vurro_Battle_Win_With_Wuldon_c61022b5:
 
-    # w "He's… well, he's definitely still feral, but. He's alive and in stable condition."
+    # w "He's... well, he's definitely still feral, but. He's alive and in stable condition."
     w ""
 
 translate schinese Vurro_Battle_Win_With_Wuldon_e80f5281:
@@ -10868,9 +10868,9 @@ translate schinese Vurro_Battle_Win_With_Wuldon_e80f5281:
     # "He sighs."
     ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_8fe23008:
+translate schinese Vurro_Battle_Win_With_Wuldon_c2fcd985:
 
-    # w "I'm glad to finally have him back, but… I'll need to find a way to save him."
+    # w "I'm glad to finally have him back, but... I'll need to find a way to save him."
     w ""
 
 translate schinese Vurro_Battle_Win_With_Wuldon_c320fa1f:
@@ -10918,9 +10918,9 @@ translate schinese Vurro_Battle_Win_With_Wuldon_81596232:
     # w "Yeah, that's one way to put it. And even if it hadn't been, I'd have put two and two together when I saw a massive dust-cloud kick up from over there."
     w ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_dc02890e:
+translate schinese Vurro_Battle_Win_With_Wuldon_ce498c89:
 
-    # w "Regardless, I ran over to check on you, and sure enough…"
+    # w "Regardless, I ran over to check on you, and sure enough..."
     w ""
 
 translate schinese Vurro_Battle_Win_With_Wuldon_6cb9172b:
@@ -10933,14 +10933,14 @@ translate schinese Vurro_Battle_Win_With_Wuldon_36451584:
     # "You guess you were pretty pathetic right now. You can't even imagine how you must have looked when he found you."
     ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_8e320f65:
+translate schinese Vurro_Battle_Win_With_Wuldon_e81efaa7:
 
-    # "Wait…"
+    # "Wait..."
     ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_734c5fd4:
+translate schinese Vurro_Battle_Win_With_Wuldon_d330365a:
 
-    # e "Hey, Wuldon… why aren't I covered in dust?"
+    # e "Hey, Wuldon... why aren't I covered in dust?"
     e ""
 
 translate schinese Vurro_Battle_Win_With_Wuldon_952cdb00:
@@ -11128,14 +11128,14 @@ translate schinese Vurro_Battle_Win_With_Wuldon_a2fcecb2:
     # "Moments after, you see an enormous plume of dust erupt from the direction of the cave."
     ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_e945198f:
+translate schinese Vurro_Battle_Win_With_Wuldon_9dbae2ca:
 
-    # "Well… that confirms what you feared."
+    # "Well... that confirms what you feared."
     ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_1076cee4:
+translate schinese Vurro_Battle_Win_With_Wuldon_7832c7ca:
 
-    # "You're glad you made it out alive, but… you can't help but think about Vurro, dead and alone in that cave."
+    # "You're glad you made it out alive, but... you can't help but think about Vurro, dead and alone in that cave."
     ""
 
 translate schinese Vurro_Battle_Win_With_Wuldon_215994d5:
@@ -11173,9 +11173,9 @@ translate schinese Vurro_Battle_Win_With_Wuldon_cf6752ab:
     # e "Yup."
     e ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_504b73e2:
+translate schinese Vurro_Battle_Win_With_Wuldon_c37beb18:
 
-    # e "I went into the cave to fight Vurro, and, well…"
+    # e "I went into the cave to fight Vurro, and, well..."
     e ""
 
 translate schinese Vurro_Battle_Win_With_Wuldon_5171613d:
@@ -11183,9 +11183,9 @@ translate schinese Vurro_Battle_Win_With_Wuldon_5171613d:
     # "You gesture vaguely to the giant plume of dust still drifting down from the sky."
     ""
 
-translate schinese Vurro_Battle_Win_With_Wuldon_2efad543:
+translate schinese Vurro_Battle_Win_With_Wuldon_940e2c31:
 
-    # "Wuldon looks… sad. Sad, but not surprised."
+    # "Wuldon looks... sad. Sad, but not surprised."
     ""
 
 translate schinese Vurro_Battle_Win_With_Wuldon_884494e2:
@@ -11253,9 +11253,9 @@ translate schinese Vurro_Battle_Win_Without_Wuldon_dfbf44ac:
     # "The Feral Werewolf finally falls unconscious."
     ""
 
-translate schinese Vurro_Battle_Win_Without_Wuldon_cb05bb7a:
+translate schinese Vurro_Battle_Win_Without_Wuldon_3d352c7c:
 
-    # e "That… that was… way harder than expected."
+    # e "That... that was... way harder than expected."
     e ""
 
 translate schinese Vurro_Battle_Win_Without_Wuldon_fcaf4b54:
@@ -11298,9 +11298,9 @@ translate schinese Vurro_Battle_Win_Without_Wuldon_430b2b5e:
     # "You rush to get up, but look back at the pitiful, defeated clump of fur behind you."
     ""
 
-translate schinese Vurro_Battle_Win_Without_Wuldon_f07a0608:
+translate schinese Vurro_Battle_Win_Without_Wuldon_279401b7:
 
-    # "He might be feral, but… he spoke. Should he really be left here to die?"
+    # "He might be feral, but... he spoke. Should he really be left here to die?"
     ""
 
 translate schinese Vurro_Battle_Win_Without_Wuldon_65e085d5:
@@ -11408,9 +11408,9 @@ translate schinese Vurro_Battle_Win_Without_Wuldon_ba55c959:
     # "With that, the cave collapses. For the next 3 minutes, the world is incomprehensible to you."
     ""
 
-translate schinese Vurro_Battle_Win_Without_Wuldon_67d38efb:
+translate schinese Vurro_Battle_Win_Without_Wuldon_d53b1d7d:
 
-    # "There is only brown dust. It fills the air, coats the trees, the dirt…"
+    # "There is only brown dust. It fills the air, coats the trees, the dirt..."
     ""
 
 translate schinese Vurro_Battle_Win_Without_Wuldon_f21a52ae:
@@ -11473,14 +11473,14 @@ translate schinese Vurro_Battle_Win_Without_Wuldon_f5b99eed:
     # "Looking to your side, you see the still unconscious form of the feral werewolf."
     ""
 
-translate schinese Vurro_Battle_Win_Without_Wuldon_eaf6bed8:
+translate schinese Vurro_Battle_Win_Without_Wuldon_aadcc1d6:
 
-    # "You hadn't really thought this far, but… what do you do with this guy."
+    # "You hadn't really thought this far, but... what do you do with this guy."
     ""
 
-translate schinese Vurro_Battle_Win_Without_Wuldon_11d119b5:
+translate schinese Vurro_Battle_Win_Without_Wuldon_2d82d741:
 
-    # "He seems immune to starvation, which is nice, as it means you don't have to take care of him, but…"
+    # "He seems immune to starvation, which is nice, as it means you don't have to take care of him, but..."
     ""
 
 translate schinese Vurro_Battle_Win_Without_Wuldon_7bc0329f:
@@ -11533,9 +11533,9 @@ translate schinese Vurro_Battle_Win_Without_Wuldon_b342614b:
     # "But now that you almost died trying to save him, you might as well keep him alive. Try to find a cure or something."
     ""
 
-translate schinese Vurro_Battle_Win_Without_Wuldon_fd031180:
+translate schinese Vurro_Battle_Win_Without_Wuldon_2ab348f9:
 
-    # "You probably shouldn't tell Uffe about him if you want to do that, but… you'll cross that bridge later, you suppose."
+    # "You probably shouldn't tell Uffe about him if you want to do that, but... you'll cross that bridge later, you suppose."
     ""
 
 translate schinese Vurro_Battle_Win_Without_Wuldon_f71fb20d:
@@ -11563,9 +11563,9 @@ translate schinese Vurro_Battle_Win_Without_Wuldon_6f76fc5b:
     # "Not only that, what with him being bigger than you, you cannot possibly hope to carry him without being caught."
     ""
 
-translate schinese Vurro_Battle_Win_Without_Wuldon_f5eeb424:
+translate schinese Vurro_Battle_Win_Without_Wuldon_bf5b173d:
 
-    # "So… you resolve to leave him behind, and either try and find a cure, or tell Uffe about him."
+    # "So... you resolve to leave him behind, and either try and find a cure, or tell Uffe about him."
     ""
 
 translate schinese Vurro_Battle_Win_Without_Wuldon_cd0022e1:
@@ -11653,9 +11653,9 @@ translate schinese Vurro_Battle_Win_Without_Wuldon_a2fcecb2:
     # "Moments after, you see an enormous plume of dust erupt from the direction of the cave."
     ""
 
-translate schinese Vurro_Battle_Win_Without_Wuldon_534c54d8:
+translate schinese Vurro_Battle_Win_Without_Wuldon_c42df555:
 
-    # "Well… that confirms what you had feared."
+    # "Well... that confirms what you had feared."
     ""
 
 translate schinese Vurro_Battle_Win_Without_Wuldon_b4318913:
@@ -11668,9 +11668,9 @@ translate schinese Vurro_Battle_Win_Without_Wuldon_ae5412ad:
     # "You're glad you made it out alive."
     ""
 
-translate schinese Vurro_Battle_Win_Without_Wuldon_e2bbced1:
+translate schinese Vurro_Battle_Win_Without_Wuldon_26ca375e:
 
-    # "The feral werewolf's death was what you were asked for, and… however unintentionally, it's what you brought about."
+    # "The feral werewolf's death was what you were asked for, and... however unintentionally, it's what you brought about."
     ""
 
 translate schinese Vurro_Battle_Win_Without_Wuldon_d03109e2:

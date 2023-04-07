@@ -1033,6 +1033,186 @@ translate schinese Gwyddyon_Ask_History_Cauldron_48916b18:
     # "Disheartened, you leave the sheep alone."
     ""
 
+translate schinese Gwyddyon_Mining_Task_59ca023c:
+
+    # e "What's up with the rocks."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_59066480:
+
+    # g "They're minerals! Wanderer."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_5684891d:
+
+    # g "I know you've been living with that dimwit of a lion, but please do not mistake my life-long invention just as another rock."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_d71a69f9:
+
+    # e "Oh... Is that why Seb has a weird rock collection in his shop?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_1e6bd3c6:
+
+    # g "Those are rocks, I taught him when he first started with the shop with his lizard friend."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_d5539639:
+
+    # g "But instead of getting fascinated by the amazing properties of magical crystals like a normal person would, he went to look at normal rocks!"
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_dac7d11f:
+
+    # g "Like this one."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_bd5ee5c8:
+
+    # "Gwyddyon takes out a crumbly rock from his counter, it's coarse with patches of moss on top."
+    ""
+
+translate schinese Gwyddyon_Mining_Task_d05a96aa:
+
+    # "You stare at it for a while, it looks just like what Sebas has in his rock collection."
+    ""
+
+translate schinese Gwyddyon_Mining_Task_77689845:
+
+    # e "Is this one magical?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_2d1b86a7:
+
+    # g "NO! It's a normal rock I picked up from the road!"
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_a113fe33:
+
+    # e "A-ah... alright. Seb would happily take it home and frame this thing along with the other rocks."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_92aae5ef:
+
+    # g "Yes, and don't get me started with his unwillingness of learning basic rock classifying."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_69582d41:
+
+    # e "But I think he knows what he's doing, if not for his study on the guardian's hand, I wouldn't have known about your Chief's situation."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_8fdd04e3:
+
+    # g "You're talking like I cared about the chief."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_f8897f3a:
+
+    # "Admittedly, he sounds convincing enough. Yet you raise your brow when he crosses his arms, still looking at you."
+    ""
+
+translate schinese Gwyddyon_Mining_Task_3b46024a:
+
+    # g ""
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_edcb25a5:
+
+    # g "W-welcome to the Ardent Cauldron, we're almost closed-"
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_309bf759:
+
+    # "You hear the usual accosting, only this time it's in a raspy voice."
+    ""
+
+translate schinese Gwyddyon_Research_Quest_9178ee15:
+
+    # "The magic shopkeeper looks up, and he is greeted by your dumbfounded face."
+    ""
+
+translate schinese Gwyddyon_Research_Quest_d4b54357:
+
+    # g "Wanderer, you're just in time, look at this thing."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_5aa671f5:
+
+    # e "H-hey Gwyd, what's that?"
+    e ""
+
+translate schinese Gwyddyon_Research_Quest_2f3c68ce:
+
+    # g "A crystal I found in my stash. It was from near the primordial runes."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_c8e29bf1:
+
+    # g "I collected the crystal back before it was gone, I never got to learn of its true power."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_e792ce59:
+
+    # g "I just happened to remember it when you just arrived to my shop."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_673088e5:
+
+    # g "But I gotta say, the dust on that thing is going to give me hack of a cough no magic is going to cure."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_781b834b:
+
+    # "Gwyddyon points to his throat, you can still hear the croaky breathing as he speaks."
+    ""
+
+translate schinese Gwyddyon_Research_Quest_e752f764:
+
+    # e "Uh... I hope you recover soon?"
+    e ""
+
+translate schinese Gwyddyon_Research_Quest_5b976537:
+
+    # g "Yeah. We're talking crystal here, don't distract yourself from my sore throat."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_5f7743c9:
+
+    # g "Nothing is going to fit inside this for a while- I mean food, eating."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_41e9c065:
+
+    # "You give him a concerned glance, only to for him to ignore you entirely and stare back at the crystal."
+    ""
+
+translate schinese Gwyddyon_Research_Quest_6f071556:
+
+    # g "C-crystal. Don't you ever fiddle with this one, my friend. It can only be handled with a professional hand."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_74fc1d88:
+
+    # g "Especially when there's not many evidence or research ever done on the subject matter."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_673f7554:
+
+    # g "We shall be extra careful, regardless of how many times you helped me deliver the minerals, or the discount I spared you."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_ee6fb589:
+
+    # e "What discount?"
+    e ""
+
+translate schinese Gwyddyon_Research_Quest_89b7a043:
+
+    # g "That's the spirit, you need to forget they have ever existed."
+    g ""
+
 translate schinese strings:
 
     old "Why did you ask the reason I am still here?"

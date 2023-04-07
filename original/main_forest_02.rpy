@@ -703,9 +703,9 @@ translate schinese Uffe_Normal_Talk_90d8f76d_1:
     # "His body language shows pure, unadulterated greed."
     ""
 
-translate schinese Uffe_Normal_Talk_ab47cafd:
+translate schinese Uffe_Normal_Talk_a45d2a6d:
 
-    # e "Yes… I have."
+    # e "Yes... I have."
     e ""
 
 translate schinese Uffe_Normal_Talk_3f045fa3_1:
@@ -768,9 +768,9 @@ translate schinese Uffe_Normal_Talk_14b6b5e2_1:
     # e "The one where you tell me about the stone in return for me killing the feral?"
     e ""
 
-translate schinese Uffe_Normal_Talk_6cbd4c5d:
+translate schinese Uffe_Normal_Talk_9e8354ae:
 
-    # "You did cheat your part of the bargain, but… he doesn't need to know that."
+    # "You did cheat your part of the bargain, but... he doesn't need to know that."
     ""
 
 translate schinese Uffe_Normal_Talk_175677df_1:

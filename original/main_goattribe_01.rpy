@@ -3,24 +3,24 @@
     # e "Hey, General."
     e ""
 
-translate schinese Kari_Dialogue_57d7ba71:
+translate schinese Kari_Dialogue_b21ba27b:
 
-    # k "Courier...? Did Chief approved you to enter the tribe...?"
+    # k "Courier? Had Chief given you the approval to enter the tribe?"
     k ""
 
-translate schinese Kari_Dialogue_74db1a7f:
+translate schinese Kari_Dialogue_118adec5:
 
-    # e "Yes..."
+    # e "Yes."
     e ""
 
-translate schinese Kari_Dialogue_7cfca27d:
+translate schinese Kari_Dialogue_b4dba52f:
 
-    # k "Al-right... another face I'll have to remember well."
+    # k "...so, another face I'll have to remember well."
     k ""
 
-translate schinese Kari_Dialogue_b4ca1665:
+translate schinese Kari_Dialogue_6cbcb53b:
 
-    # e "Are you ok...?"
+    # e "Are you ok?"
     e ""
 
 translate schinese Kari_Dialogue_2d0406aa:
@@ -33,14 +33,9 @@ translate schinese Kari_Dialogue_43360f76:
     # e "Stop... I didn't mean any harm."
     e ""
 
-translate schinese Kari_Dialogue_14a3750b:
+translate schinese Kari_Dialogue_35153737:
 
-    # k "Whatever. I still have to recover somehow..."
-    k ""
-
-translate schinese Kari_Dialogue_82091822:
-
-    # k "..."
+    # k "Whatever, I'm not arguing with you, I still have to recover somehow."
     k ""
 
 translate schinese Kari_Dialogue_4723c323:
@@ -48,9 +43,9 @@ translate schinese Kari_Dialogue_4723c323:
     # k "Thanks for saving Furkan anyway."
     k ""
 
-translate schinese Kari_Dialogue_24d7d16a:
+translate schinese Kari_Dialogue_ee60c608:
 
-    # e "So... How are you doing..."
+    # e "So, how are you doing."
     e ""
 
 translate schinese Kari_Dialogue_f9a9c39c:
@@ -68,14 +63,14 @@ translate schinese Kari_Dialogue_bf90dd40:
     # e "How did it go... after saving Furkan in the cave."
     e ""
 
-translate schinese Kari_Dialogue_7157179f:
+translate schinese Kari_Dialogue_c394473b:
 
-    # k "Meh... It's fine."
+    # k "It's fine."
     k ""
 
-translate schinese Kari_Dialogue_21c6e519:
+translate schinese Kari_Dialogue_17622bbc:
 
-    # e "I mean... did anything happened between you two...?"
+    # e "I mean, did anything happened between you two?"
     e ""
 
 translate schinese Kari_Dialogue_ddbc5ca2:
@@ -83,9 +78,9 @@ translate schinese Kari_Dialogue_ddbc5ca2:
     # k "W-what?"
     k ""
 
-translate schinese Kari_Dialogue_2b83c863:
+translate schinese Kari_Dialogue_df829dbc:
 
-    # k "No...?"
+    # k "No?"
     k ""
 
 translate schinese Kari_Dialogue_76067fa4:
@@ -93,9 +88,9 @@ translate schinese Kari_Dialogue_76067fa4:
     # e "Alright alright."
     e ""
 
-translate schinese Kari_Dialogue_25e3877d:
+translate schinese Kari_Dialogue_74e18e83:
 
-    # k "But, I have to say..."
+    # k "But, I have to say."
     k ""
 
 translate schinese Kari_Dialogue_2920f717:
@@ -107,11 +102,6 @@ translate schinese Kari_Dialogue_fab4eaf3:
 
     # e "No problem."
     e ""
-
-translate schinese Kari_Dialogue_82091822_1:
-
-    # k "..."
-    k ""
 
 translate schinese Kari_Dialogue_751b2954:
 
@@ -133,9 +123,9 @@ translate schinese Kari_Dialogue_af07a39f:
     # e "S-sorry."
     e ""
 
-translate schinese Kari_Dialogue_ac71b508:
+translate schinese Kari_Dialogue_79ebf5db:
 
-    # k "...Now, speak your words, the sooner we end this, the better."
+    # k "Now, speak your words, the sooner we end this, the better."
     k ""
 
 translate schinese Kari_Normal_Talk_77aaa495:
@@ -148,9 +138,9 @@ translate schinese Kari_Normal_Talk_29bfd31b:
     # e "Hey, Kari, I'm ready for the practice."
     e ""
 
-translate schinese Kari_Ask_Goat_Tribe_d9ab1284:
+translate schinese Kari_Ask_Goat_Tribe_853e1c1c:
 
-    # e "So, how's the tribe going...?"
+    # e "So, how's the tribe going?"
     e ""
 
 translate schinese Kari_Ask_Goat_Tribe_b55f0994:
@@ -208,10 +198,10 @@ translate schinese Kari_Ask_Goat_Tribe_ecf32af2:
     # e "Mmmmhm..."
     e ""
 
-translate schinese Kari_Ask_Goat_Tribe_82091822:
+translate schinese Kari_Ask_Goat_Tribe_6d56629d:
 
-    # k "..."
-    k ""
+    # "Kari silently stares at you, you g"
+    ""
 
 translate schinese Kari_Ask_Warrior_Practice_a4091800:
 
@@ -248,9 +238,9 @@ translate schinese Kari_Ask_Warrior_Practice_a6c04dae:
     # e "That makes sense. So, what do you want me to do?"
     e ""
 
-translate schinese Kari_Ask_Warrior_Practice_161df810:
+translate schinese Kari_Ask_Warrior_Practice_36f6c5a6:
 
-    # k "Well, as you know, we’ve been running out of rune power."
+    # k "Well, as you know, we've been running out of rune power."
     k ""
 
 translate schinese Kari_Ask_Warrior_Practice_b9cf077e:
@@ -278,9 +268,9 @@ translate schinese Kari_Ask_Warrior_Practice_c5309407:
     # k "Yes. Specifically, I want you to spar them."
     k ""
 
-translate schinese Kari_Ask_Warrior_Practice_5b5a23cb:
+translate schinese Kari_Ask_Warrior_Practice_c6a78926:
 
-    # k "I hate to say it, but being beaten so soundly by someone they’ve never met will likely motivate them."
+    # k "I hate to say it, but being beaten so soundly by someone they've never met will likely motivate them."
     k ""
 
 translate schinese Kari_Ask_Warrior_Practice_78dfb780:
@@ -298,9 +288,9 @@ translate schinese Kari_Ask_Warrior_Practice_5e084a48:
     # k "But after your performance in the cave, I must acknowledge your strength as a warrior."
     k ""
 
-translate schinese Kari_Ask_Warrior_Practice_ae8722af:
+translate schinese Kari_Ask_Warrior_Practice_e5309eb7:
 
-    # e "You know, it’s kind of cute to hear you compliment me like that."
+    # e "You know, it's kind of cute to hear you compliment me like that."
     e ""
 
 translate schinese Kari_Ask_Warrior_Practice_e7cb8780:
@@ -313,9 +303,9 @@ translate schinese Kari_Ask_Warrior_Practice_52cc48a1:
     # e "Still cute."
     e ""
 
-translate schinese Kari_Ask_Warrior_Practice_eac173d9:
+translate schinese Kari_Ask_Warrior_Practice_e9c215c4:
 
-    # "A murderous smile is creeping across Kari’s face at this point."
+    # "A murderous smile is creeping across Kari's face at this point."
     ""
 
 translate schinese Kari_Ask_Warrior_Practice_c915a93c:
@@ -323,9 +313,9 @@ translate schinese Kari_Ask_Warrior_Practice_c915a93c:
     # "You fear you may have gone a bit too far."
     ""
 
-translate schinese Kari_Ask_Warrior_Practice_5bf51a0d:
+translate schinese Kari_Ask_Warrior_Practice_ff5f744b:
 
-    # k "Call me cute one more time, and we’ll see how cute you think I am after you have this rod shoved 5 feet up your ass."
+    # k "Call me cute one more time, and we'll see how cute you think I am after you have this rod shoved 5 feet up your ass."
     k ""
 
 translate schinese Kari_Ask_Warrior_Practice_dea99fd3:
@@ -338,9 +328,9 @@ translate schinese Kari_Ask_Warrior_Practice_36859729:
     # e "So, how do I start?"
     e ""
 
-translate schinese Kari_Ask_Warrior_Practice_7cd2b234:
+translate schinese Kari_Ask_Warrior_Practice_ff00c4aa:
 
-    # k "I’m going to assume you mean sparring. Well."
+    # k "I'm going to assume you mean sparring. Well."
     k ""
 
 translate schinese Kari_Ask_Warrior_Practice_63908825:
@@ -373,9 +363,9 @@ translate schinese Kari_Warrior_Practice_Start_afddffad:
     # k "ATTENTION."
     k ""
 
-translate schinese Kari_Warrior_Practice_Start_0b53ee18:
+translate schinese Kari_Warrior_Practice_Start_aea7f2d8:
 
-    # "Despite being in a wide open space, Kari’s booming voice manages to echo from sheer volume alone."
+    # "Despite being in a wide open space, Kari's booming voice manages to echo from sheer volume alone."
     ""
 
 translate schinese Kari_Warrior_Practice_Start_030dbe77:
@@ -393,9 +383,9 @@ translate schinese Kari_Warrior_Practice_Start_1e681ace:
     # k "HE WILL BE YOUR SPARRING PARTNER. DO YOUR BEST TO BEAT HIM WITHOUT USING MAGIC."
     k ""
 
-translate schinese Kari_Warrior_Practice_Start_3979b1eb:
+translate schinese Kari_Warrior_Practice_Start_3ba4e488:
 
-    # "Any hopeful sounds coming from the assembled goats turn to groans at the words ‘without using magic’."
+    # "Any hopeful sounds coming from the assembled goats turn to groans at the words 'without using magic'."
     ""
 
 translate schinese Kari_Warrior_Practice_Start_82499a1d:
@@ -413,34 +403,34 @@ translate schinese Kari_Warrior_Practice_Start_68a7ef99:
     # "The first goat in that line approaches."
     ""
 
-translate schinese Kari_Goat_Practice_Lose_c95eeaf6:
+translate schinese Kari_Goat_Practice_Lose_e9ff3f0d:
 
-    # k "I’m surprised you lost to them."
+    # k "I'm surprised you lost to them."
     k ""
 
-translate schinese Kari_Goat_Practice_Lose_fb3f0190:
+translate schinese Kari_Goat_Practice_Lose_9a6549cb:
 
-    # e "Maybe they’re stronger than you think?"
+    # e "Maybe they're stronger than you think?"
     e ""
 
-translate schinese Kari_Goat_Practice_Lose_95fd5d81:
+translate schinese Kari_Goat_Practice_Lose_b5ddd391:
 
-    # k "No, you’re just weaker than I thought."
+    # k "No, you're just weaker than I thought."
     k ""
 
-translate schinese Kari_Goat_Practice_Lose_3fa4b412:
+translate schinese Kari_Goat_Practice_Lose_72f735b3:
 
-    # k "That or you didn’t really try."
+    # k "That or you didn't really try."
     k ""
 
-translate schinese Kari_Goat_Practice_Lose_e2b44eaf:
+translate schinese Kari_Goat_Practice_Lose_c99914ed:
 
-    # "The assembled goats look like they’ve eaten a particularly sour lemon."
+    # "The assembled goats look like they've eaten a particularly sour lemon."
     ""
 
-translate schinese Kari_Goat_Practice_Lose_3e8c8bc4:
+translate schinese Kari_Goat_Practice_Lose_fa72849d:
 
-    # gtr "Why can’t you just believe that we’re strong?"
+    # gtr "Why can't you just believe that we're strong?"
     gtr ""
 
 translate schinese Kari_Goat_Practice_Lose_4c68da1a:
@@ -458,9 +448,9 @@ translate schinese Kari_Goat_Practice_Lose_4305ad19:
     # k "If we want to be able to protect the tree, and find the one who stole the rune, we have to be stronger than this."
     k ""
 
-translate schinese Kari_Goat_Practice_Lose_e23bc48a:
+translate schinese Kari_Goat_Practice_Lose_e2c12b54:
 
-    # "It’s unclear if Kari is trying to convince the recruits or himself at this point."
+    # "It's unclear if Kari is trying to convince the recruits or himself at this point."
     ""
 
 translate schinese Kari_Goat_Practice_Lose_72ef96ae:
@@ -603,14 +593,14 @@ translate schinese Kari_Goat_Practice_Win_71bcc4e0:
     # "There is a collective groan at this declaration, though nobody can quite disagree."
     ""
 
-translate schinese Kari_Goat_Practice_Win_d261715e:
+translate schinese Kari_Goat_Practice_Win_9f621173:
 
-    # k "I think it’s clear that you all need to work on your non-magical combat."
+    # k "I think it's clear that you all need to work on your non-magical combat."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_e139dac5:
+translate schinese Kari_Goat_Practice_Win_083a1caa:
 
-    # gt "Why can’t we just keep using magic! We still have the tree!"
+    # gt "Why can't we just keep using magic! We still have the tree!"
     gt ""
 
 translate schinese Kari_Goat_Practice_Win_25a013b2:
@@ -638,29 +628,29 @@ translate schinese Kari_Goat_Practice_Win_a51c44c6:
     # "Just as Kari finishes his lecture, Furkan appears from the center of the tribe."
     ""
 
-translate schinese Kari_Goat_Practice_Win_5c70c622:
+translate schinese Kari_Goat_Practice_Win_591ebd01:
 
-    # f "Oh, hello there [e]! I couldn’t help but overhear our general talking about the situation with the tree."
+    # f "Oh, hello there [e]! I couldn't help but overhear our general talking about the situation with the tree."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_2b07c6f9:
+translate schinese Kari_Goat_Practice_Win_a8e0f45e:
 
-    # k "We’ve already talked about this chieftain…"
+    # k "We've already talked about this chieftain..."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_2777aaea:
+translate schinese Kari_Goat_Practice_Win_325a327e:
 
-    # f "Yes, but we’ve never agreed on it."
+    # f "Yes, but we've never agreed on it."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_5914ada0:
+translate schinese Kari_Goat_Practice_Win_3a2b502f:
 
-    # "Kari looks a bit unhappy about that, but can’t quite disagree."
+    # "Kari looks a bit unhappy about that, but can't quite disagree."
     ""
 
-translate schinese Kari_Goat_Practice_Win_be781aef:
+translate schinese Kari_Goat_Practice_Win_087e7315:
 
-    # k "Yes… but should we not talk about this in private, chieftain?"
+    # k "Yes... but should we not talk about this in private, chieftain?"
     k ""
 
 translate schinese Kari_Goat_Practice_Win_92d14db7:
@@ -668,9 +658,9 @@ translate schinese Kari_Goat_Practice_Win_92d14db7:
     # k "It involves quite confidential information."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_2a0a211b:
+translate schinese Kari_Goat_Practice_Win_52b68439:
 
-    # f "Perhaps, but I wanted to get [e]’s opinion on the matter."
+    # f "Perhaps, but I wanted to get [e]'s opinion on the matter."
     f ""
 
 translate schinese Kari_Goat_Practice_Win_506e2f46:
@@ -678,9 +668,9 @@ translate schinese Kari_Goat_Practice_Win_506e2f46:
     # "Kari looks surprised, and a bit tired, but still nods his head in assent."
     ""
 
-translate schinese Kari_Goat_Practice_Win_7a7a3bbb:
+translate schinese Kari_Goat_Practice_Win_c58e4881:
 
-    # k "Well, if it’s alright with you then, I will order everyone else to clear out."
+    # k "Well, if it's alright with you then, I will order everyone else to clear out."
     k ""
 
 translate schinese Kari_Goat_Practice_Win_76a07bb8:
@@ -708,9 +698,9 @@ translate schinese Kari_Goat_Practice_Win_aea116d9:
     # "With a chorus of unhappy grumbles, the surrounding goats clear out, returning to their normal activities."
     ""
 
-translate schinese Kari_Goat_Practice_Win_322c5ffc:
+translate schinese Kari_Goat_Practice_Win_e96ef95d:
 
-    # e "If I can ask… why do you want my opinion?"
+    # e "If I can ask... why do you want my opinion?"
     e ""
 
 translate schinese Kari_Goat_Practice_Win_0d9c3c74:
@@ -718,29 +708,29 @@ translate schinese Kari_Goat_Practice_Win_0d9c3c74:
     # k "Not to be rude or doubt you, chieftain, but I was wondering the same."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_9577c3d5:
+translate schinese Kari_Goat_Practice_Win_78669e6b:
 
-    # f "Well, you saved me… I can’t think of something that should make me trust you more."
+    # f "Well, you saved me... I can't think of something that should make me trust you more."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_28ba7279:
+translate schinese Kari_Goat_Practice_Win_3f9edfba:
 
-    # "Furkan’s face is completely genuine and trusting as he says this."
+    # "Furkan's face is completely genuine and trusting as he says this."
     ""
 
-translate schinese Kari_Goat_Practice_Win_81bab075:
+translate schinese Kari_Goat_Practice_Win_70b51dee:
 
-    # "He really does believe that you’ll pick the right thing."
+    # "He really does believe that you'll pick the right thing."
     ""
 
-translate schinese Kari_Goat_Practice_Win_2f6dc79a:
+translate schinese Kari_Goat_Practice_Win_7f54bea7:
 
-    # k "I don’t trust you as much as the chieftain does, but… I trust him on any decision he makes."
+    # k "I don't trust you as much as the chieftain does, but... I trust him on any decision he makes."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_bb789778:
+translate schinese Kari_Goat_Practice_Win_32e417b5:
 
-    # e "Well, I don’t really know what I’m supposed to be choosing between."
+    # e "Well, I don't really know what I'm supposed to be choosing between."
     e ""
 
 translate schinese Kari_Goat_Practice_Win_cb01c37a:
@@ -748,9 +738,9 @@ translate schinese Kari_Goat_Practice_Win_cb01c37a:
     # f "Right, was getting to that."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_b9059a1b:
+translate schinese Kari_Goat_Practice_Win_f9a9641d:
 
-    # f "You’ve already heard most of Kari’s thoughts, but I’ll let him elaborate."
+    # f "You've already heard most of Kari's thoughts, but I'll let him elaborate."
     f ""
 
 translate schinese Kari_Goat_Practice_Win_84f0fb0c:
@@ -758,9 +748,9 @@ translate schinese Kari_Goat_Practice_Win_84f0fb0c:
     # "Furkan turns to Kari, nodding his head to signal him to explain."
     ""
 
-translate schinese Kari_Goat_Practice_Win_10990f5b:
+translate schinese Kari_Goat_Practice_Win_23112146:
 
-    # k "As he said, you’ve heard most of it, but."
+    # k "As he said, you've heard most of it, but."
     k ""
 
 translate schinese Kari_Goat_Practice_Win_03b7e878:
@@ -783,14 +773,14 @@ translate schinese Kari_Goat_Practice_Win_bea49471:
     # "He then turns to face Furkan, bowing slightly."
     ""
 
-translate schinese Kari_Goat_Practice_Win_7e5b5b1e:
+translate schinese Kari_Goat_Practice_Win_d831a93f:
 
-    # f "You know you don’t have to do that, Kari."
+    # f "You know you don't have to do that, Kari."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_409e0d82:
+translate schinese Kari_Goat_Practice_Win_b007bf71:
 
-    # "Kari gets out of his bow, as if he hadn’t heard that."
+    # "Kari gets out of his bow, as if he hadn't heard that."
     ""
 
 translate schinese Kari_Goat_Practice_Win_e40234ba:
@@ -813,9 +803,9 @@ translate schinese Kari_Goat_Practice_Win_6713e3e8:
     # f "However, I believe the correct choice of action is to withdraw our troops from the tree."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_88a36847:
+translate schinese Kari_Goat_Practice_Win_f2d76711:
 
-    # e "Wait, why?! Isn’t it literally holding your village together with its magic?"
+    # e "Wait, why?! Isn't it literally holding your village together with its magic?"
     e ""
 
 translate schinese Kari_Goat_Practice_Win_541f49e2:
@@ -868,19 +858,19 @@ translate schinese Kari_Goat_Practice_Win_34a48164:
     # f "I believe whoever stole the rune is either in or nearby the village."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_f3f0d27b:
+translate schinese Kari_Goat_Practice_Win_8c1954a5:
 
-    # k "The thought hurts me deeply, as I know it hurts our chieftain, but…"
+    # k "The thought hurts me deeply, as I know it hurts our chieftain, but..."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_1f192f7b:
+translate schinese Kari_Goat_Practice_Win_9477a4e3:
 
-    # k "Nobody outside of the village knew where the rune was, so, it’s what would make sense."
+    # k "Nobody outside of the village knew where the rune was, so, it's what would make sense."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_404f290e:
+translate schinese Kari_Goat_Practice_Win_1b3456e2:
 
-    # e "Couldn’t somebody have just followed you up to where the rune was?"
+    # e "Couldn't somebody have just followed you up to where the rune was?"
     e ""
 
 translate schinese Kari_Goat_Practice_Win_8f419e88:
@@ -888,9 +878,9 @@ translate schinese Kari_Goat_Practice_Win_8f419e88:
     # f "It is extremely unlikely, as we rarely visited."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_97c0e0c9:
+translate schinese Kari_Goat_Practice_Win_03ef5aa3:
 
-    # f "Additionally, the guardians would have reacted and attacked anyone who wasn’t of our tribe."
+    # f "Additionally, the guardians would have reacted and attacked anyone who wasn't of our tribe."
     f ""
 
 translate schinese Kari_Goat_Practice_Win_ac866a08:
@@ -933,9 +923,9 @@ translate schinese Kari_Goat_Practice_Win_7192ffbc:
     # k "Thank you for helping the chieftain and I reach an agreement on this."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_a9662998:
+translate schinese Kari_Goat_Practice_Win_670fde36:
 
-    # "You have a feeling Kari is mainly thankful that he doesn’t have to leave the tree unguarded."
+    # "You have a feeling Kari is mainly thankful that he doesn't have to leave the tree unguarded."
     ""
 
 translate schinese Kari_Goat_Practice_Win_05de4eec:
@@ -963,14 +953,14 @@ translate schinese Kari_Goat_Practice_Win_73cff794:
     # "Furkan sighs sadly."
     ""
 
-translate schinese Kari_Goat_Practice_Win_6a4dc095:
+translate schinese Kari_Goat_Practice_Win_944eb4ea:
 
-    # f "Now there is only the question of how else we could patch up relationships with Lusterfield…"
+    # f "Now there is only the question of how else we could patch up relationships with Lusterfield..."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_52cb3caf:
+translate schinese Kari_Goat_Practice_Win_4abdaa0c:
 
-    # f "Both groups have yet to recover… the wounds cut deep, and scarred into prejudice and distrust."
+    # f "Both groups have yet to recover... the wounds cut deep, and scarred into prejudice and distrust."
     f ""
 
 translate schinese Kari_Goat_Practice_Win_afb937ed:
@@ -1018,24 +1008,24 @@ translate schinese Kari_Goat_Practice_Win_c8fc4cd6:
     # e "Kari, you look like you want to say something, what is it?"
     e ""
 
-translate schinese Kari_Goat_Practice_Win_4d107982:
+translate schinese Kari_Goat_Practice_Win_8e758ae7:
 
-    # "Furkan’s head whips back up, seemingly jolted out of his pensive haze."
+    # "Furkan's head whips back up, seemingly jolted out of his pensive haze."
     ""
 
-translate schinese Kari_Goat_Practice_Win_205fa6e3:
+translate schinese Kari_Goat_Practice_Win_28859260:
 
-    # k "Well, I didn’t want to say anything, as it wasn’t something I had the right to tell my chieftain."
+    # k "Well, I didn't want to say anything, as it wasn't something I had the right to tell my chieftain."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_07af9c90:
+translate schinese Kari_Goat_Practice_Win_13bff1a2:
 
-    # f "Okay, then don’t tell your chieftain."
+    # f "Okay, then don't tell your chieftain."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_ffab8ca2:
+translate schinese Kari_Goat_Practice_Win_62261545:
 
-    # f "Tell a fellow tribesman, Kari. I haven’t always been chieftain, nor you my general."
+    # f "Tell a fellow tribesman, Kari. I haven't always been chieftain, nor you my general."
     f ""
 
 translate schinese Kari_Goat_Practice_Win_d48ddbb0:
@@ -1043,29 +1033,29 @@ translate schinese Kari_Goat_Practice_Win_d48ddbb0:
     # f "I value your opinion as an equal, even if we are not so, politically."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_838d8108:
+translate schinese Kari_Goat_Practice_Win_4d75b5b4:
 
-    # k "I just wanted to say thank you for listening to me. Even if it wasn’t how I thought it would go…"
+    # k "I just wanted to say thank you for listening to me. Even if it wasn't how I thought it would go..."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_fa0f573e:
+translate schinese Kari_Goat_Practice_Win_c7acb306:
 
-    # k "...You’re doing great."
+    # k "...You're doing great."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_eaa06553:
+translate schinese Kari_Goat_Practice_Win_df6855a3:
 
-    # f "I’m glad one of us thinks so."
+    # f "I'm glad one of us thinks so."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_6ef13c81:
+translate schinese Kari_Goat_Practice_Win_6084a5a3:
 
-    # f "I’ll keep trying my best."
+    # f "I'll keep trying my best."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_2203f55c:
+translate schinese Kari_Goat_Practice_Win_c81b2c93:
 
-    # "And with that, both goats flash each other quick smiles, radiating a warmth you hadn’t seen from them before."
+    # "And with that, both goats flash each other quick smiles, radiating a warmth you hadn't seen from them before."
     ""
 
 translate schinese Kari_Goat_Practice_Win_f3002751:
@@ -1073,9 +1063,9 @@ translate schinese Kari_Goat_Practice_Win_f3002751:
     # f "I should get back to work at the tent."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_f19a500e:
+translate schinese Kari_Goat_Practice_Win_184f0f85:
 
-    # k "I’ll see you there."
+    # k "I'll see you there."
     k ""
 
 translate schinese Kari_Goat_Practice_Win_ca3f157c:
@@ -1088,9 +1078,9 @@ translate schinese Kari_Goat_Practice_Win_4142e697:
     # k "Courier. I would not have trusted you with making this decision, but I cannot say I regret it."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_be0b874a:
+translate schinese Kari_Goat_Practice_Win_5a04e2c8:
 
-    # e "...you’re welcome?"
+    # e "...you're welcome?"
     e ""
 
 translate schinese Kari_Goat_Practice_Win_6e5fe1f5:
@@ -1103,9 +1093,9 @@ translate schinese Kari_Goat_Practice_Win_4d9602b7:
     # "Kari chuckles a bit at your clear confusion."
     ""
 
-translate schinese Kari_Goat_Practice_Win_17b8a276:
+translate schinese Kari_Goat_Practice_Win_ae07ce51:
 
-    # k "I’m off to go find where my recruits have run off to. Picking berries or something, surely."
+    # k "I'm off to go find where my recruits have run off to. Picking berries or something, surely."
     k ""
 
 translate schinese Kari_Goat_Practice_Win_dbee576e:
@@ -1123,9 +1113,9 @@ translate schinese Kari_Goat_Practice_Win_2dc7693d:
     # k "I hope you have the right reasons for making the decision you have, but, I see the wisdom in the position."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_a4facdd7:
+translate schinese Kari_Goat_Practice_Win_5c1afedb:
 
-    # "Kari doesn’t seem to be a sore loser going by his eyes. They are filled with distrust rather than frustration."
+    # "Kari doesn't seem to be a sore loser going by his eyes. They are filled with distrust rather than frustration."
     ""
 
 translate schinese Kari_Goat_Practice_Win_9792827d:
@@ -1138,9 +1128,9 @@ translate schinese Kari_Goat_Practice_Win_f96ec317:
     # k "I understand, I just want to protect you and our tribe, chieftain."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_d86496ee:
+translate schinese Kari_Goat_Practice_Win_63e92d27:
 
-    # "Furkan looks to be on the edge of saying something, but can’t quite bring himself to."
+    # "Furkan looks to be on the edge of saying something, but can't quite bring himself to."
     ""
 
 translate schinese Kari_Goat_Practice_Win_5a56cbaa:
@@ -1168,19 +1158,19 @@ translate schinese Kari_Goat_Practice_Win_58e5184a:
     # "With that, Kari walks out in the direction the majority of the goat warriors went."
     ""
 
-translate schinese Kari_Goat_Practice_Win_4d85394f:
+translate schinese Kari_Goat_Practice_Win_280d2c91:
 
-    # e "Furk, what’s wrong?"
+    # e "Furk, what's wrong?"
     e ""
 
-translate schinese Kari_Goat_Practice_Win_37153d0d:
+translate schinese Kari_Goat_Practice_Win_668ea3f8:
 
-    # f "Nothing is wrong, I just…"
+    # f "Nothing is wrong, I just..."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_19118757:
+translate schinese Kari_Goat_Practice_Win_d6aa7379:
 
-    # "You can see Furkan take in a deep breath, preparing to take the leap and say whatever it is he’s been thinking."
+    # "You can see Furkan take in a deep breath, preparing to take the leap and say whatever it is he's been thinking."
     ""
 
 translate schinese Kari_Goat_Practice_Win_16c0bf7e:
@@ -1223,14 +1213,14 @@ translate schinese Kari_Goat_Practice_Win_1064b379:
     # f "General of the goats or not."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_44a5f2da:
+translate schinese Kari_Goat_Practice_Win_e9609d4f:
 
-    # k "I… I trust you as well, chieftain – Furkan."
+    # k "I... I trust you as well, chieftain - Furkan."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_e3ed06db:
+translate schinese Kari_Goat_Practice_Win_c8c80c3f:
 
-    # "Kari’s cheeks are a bit flushed, clearly embarrassed by saying that."
+    # "Kari's cheeks are a bit flushed, clearly embarrassed by saying that."
     ""
 
 translate schinese Kari_Goat_Practice_Win_9838ff6b:
@@ -1263,9 +1253,9 @@ translate schinese Kari_Goat_Practice_Win_a93d4d94:
     # f "I know. You are a great friend to the tribe."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_6dd56267:
+translate schinese Kari_Goat_Practice_Win_bed95126:
 
-    # "You can’t help but think Furkan looks quite cute right now."
+    # "You can't help but think Furkan looks quite cute right now."
     ""
 
 translate schinese Kari_Goat_Practice_Win_fb13942b:
@@ -1288,24 +1278,24 @@ translate schinese Kari_Goat_Practice_Win_1102513e:
     # f "Well, simple courier, you have my thanks."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_0ef3c222:
+translate schinese Kari_Goat_Practice_Win_6f6abdca:
 
-    # f "I do need to return to work now, but… I hope to see you around soon."
+    # f "I do need to return to work now, but... I hope to see you around soon."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_2933d11a:
+translate schinese Kari_Goat_Practice_Win_cc677afc:
 
-    # f "It’s always a pleasant sight."
+    # f "It's always a pleasant sight."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_e3909c24:
+translate schinese Kari_Goat_Practice_Win_fe51fbe5:
 
-    # "You can’t help but blush at the implications of that statement."
+    # "You can't help but blush at the implications of that statement."
     ""
 
-translate schinese Kari_Goat_Practice_Win_76ae61d4:
+translate schinese Kari_Goat_Practice_Win_62a18040:
 
-    # e "Hehe… Thank you Furkan. See you soon!"
+    # e "Hehe... Thank you Furkan. See you soon!"
     e ""
 
 translate schinese Kari_Goat_Practice_Win_d11cac61:
@@ -1328,14 +1318,14 @@ translate schinese Kari_Ask_General_3ba645f8:
     # e "How did you become the general...?"
     e ""
 
-translate schinese Kari_Ask_General_064e055e:
+translate schinese Kari_Ask_General_d095e658:
 
-    # k "Furkan's father, Tevfik trained me... to become the protector of the tribe."
+    # k "Furkan's father, Tevfik trained me to become the protector of the tribe."
     k ""
 
-translate schinese Kari_Ask_General_ea4112bb:
+translate schinese Kari_Ask_General_84d6ccfb:
 
-    # k "I used to play with Furk... hang out... while his father was the chief."
+    # k "I used to play with Furk, hang out. while his father was the chief."
     k ""
 
 translate schinese Kari_Ask_General_30e8933c:
@@ -1343,14 +1333,14 @@ translate schinese Kari_Ask_General_30e8933c:
     # k "Those were the days, where we both do not need to care about anything."
     k ""
 
-translate schinese Kari_Ask_General_1a7e1f4a:
+translate schinese Kari_Ask_General_8b1caf28:
 
-    # e "But... do you like being the general...?"
+    # e "But do you like being the general?"
     e ""
 
-translate schinese Kari_Ask_General_8e17f492:
+translate schinese Kari_Ask_General_efdfb978:
 
-    # k "How can I not...? I have to protect the tribe, protect Furkan."
+    # k "How can I not? I have to protect the tribe, protect Furkan."
     k ""
 
 translate schinese Kari_Ask_General_a8dddcb1:
@@ -1373,9 +1363,9 @@ translate schinese Kari_Ask_General_a3f2d3bb:
     # k "What else to you think I'm doing."
     k ""
 
-translate schinese Kari_Ask_General_fde00462:
+translate schinese Kari_Ask_General_274daa9f:
 
-    # e "Hmmm...."
+    # e "Hmmm..."
     e ""
 
 translate schinese Kari_Ask_How_Doing_1f9ae8df:
@@ -1388,14 +1378,14 @@ translate schinese Kari_Ask_How_Doing_940e52f6:
     # k "I'm talking with Furkan."
     k ""
 
-translate schinese Kari_Ask_How_Doing_8ab4ee2c:
+translate schinese Kari_Ask_How_Doing_28d05d0f:
 
-    # e "I see... can I help you...?"
+    # e "I see, can I help you?"
     e ""
 
-translate schinese Kari_Ask_How_Doing_757d46cb:
+translate schinese Kari_Ask_How_Doing_bdf5339c:
 
-    # k "Help... w-what?"
+    # k "Help- w-what?"
     k ""
 
 translate schinese Kari_Ask_How_Doing_128bd630:
@@ -1453,9 +1443,9 @@ translate schinese Kari_Dialogue_End_361c6fec:
     # k "See you... Courier."
     k ""
 
-translate schinese Kechioeren_Enter_af5d99c3:
+translate schinese Kechioeren_Enter_5d8de010:
 
-    # "You cautiously walk towards the direction Lothar sent you..."
+    # "You cautiously walk towards the direction Lothar sent you."
     ""
 
 translate schinese Kechioeren_Enter_96a44609:
@@ -1473,9 +1463,9 @@ translate schinese Kechioeren_Enter_90c44898:
     # "You see two guards at the entrance of the goat tribe, standing carelessly."
     ""
 
-translate schinese Kechioeren_Enter_9e6c75c1:
+translate schinese Kechioeren_Enter_8d8227f0:
 
-    # e "Ahem... Hey!! Hey!!"
+    # e "Ahem- Hey!! Hey!!"
     e ""
 
 translate schinese Kechioeren_Enter_b52bc581:
@@ -1493,24 +1483,24 @@ translate schinese Kechioeren_Enter_8d8f6003:
     # e "I- I- uhh... I'm lost."
     e ""
 
-translate schinese Kechioeren_Enter_d2ed2a42:
+translate schinese Kechioeren_Enter_429febd3:
 
-    # goatguard "I haven't seen you kind here... Where're you from?"
+    # goatguard "I haven't seen you kind here, where're you from?"
     goatguard ""
 
-translate schinese Kechioeren_Enter_a1df5ddf:
+translate schinese Kechioeren_Enter_683ebfb2:
 
-    # e "Uhm... I'm from..." nointeract
+    # e "Uhm I'm from." nointeract
     e "" nointeract
 
-translate schinese Kechioeren_Enter_f28e0830:
+translate schinese Kechioeren_Enter_d3b43202:
 
-    # e "I'm... from... Hawkaita. Have you heard?"
+    # e "I'm from Hawkaita. Have you heard?"
     e ""
 
-translate schinese Kechioeren_Enter_d2edbc61:
+translate schinese Kechioeren_Enter_3a0ee0aa:
 
-    # goatguard "No...?"
+    # goatguard "No?"
     goatguard ""
 
 translate schinese Kechioeren_Enter_1ed158c9:
@@ -1523,9 +1513,9 @@ translate schinese Kechioeren_Enter_5ea46a05:
     # goatguard "Look I don't know where you're from... maybe I can ask when our huntsmen come back."
     goatguard ""
 
-translate schinese Kechioeren_Enter_d747d448:
+translate schinese Kechioeren_Enter_10a9f63c:
 
-    # e "H-hey I just need a direction... and I'll go."
+    # e "H-hey I just need a direction, and I'll go."
     e ""
 
 translate schinese Kechioeren_Enter_d5ecfce0:
@@ -1533,9 +1523,9 @@ translate schinese Kechioeren_Enter_d5ecfce0:
     # goatguard "Alright."
     goatguard ""
 
-translate schinese Kechioeren_Enter_43f07b61:
+translate schinese Kechioeren_Enter_717db05d:
 
-    # e "I'm from... Lusterfield. I'm a courier. Look."
+    # e "I'm from Lusterfield. I'm a courier. Look."
     e ""
 
 translate schinese Kechioeren_Enter_dca3ca57:
@@ -1548,9 +1538,9 @@ translate schinese Kechioeren_Enter_5956abe5:
     # goatguard "What do you want, you can't enter the tribe, I've warned you."
     goatguard ""
 
-translate schinese Kechioeren_Enter_a5aac5dc:
+translate schinese Kechioeren_Enter_d1025f4f:
 
-    # e "Alright- you don't need to. I just need a direction... and I'll go."
+    # e "Alright- you don't need to. I just need a direction, and I'll go."
     e ""
 
 translate schinese Kechioeren_Enter_a69ee3a4:
@@ -1563,14 +1553,14 @@ translate schinese Kechioeren_Enter_24d70927:
     # e "I'm from the town..? I just got lost in the forest here."
     e ""
 
-translate schinese Kechioeren_Enter_c1964b7f:
+translate schinese Kechioeren_Enter_7af3472d:
 
-    # goatguard "Really...? From that far away?"
+    # goatguard "Really? From that far away?"
     goatguard ""
 
-translate schinese Kechioeren_Enter_cefc349b:
+translate schinese Kechioeren_Enter_c11b20bb:
 
-    # e "Yes... I just need a direction... and then I'll go."
+    # e "Yes, I just need a direction, and then I'll go."
     e ""
 
 translate schinese Kechioeren_Enter_2034511c:
@@ -1578,19 +1568,19 @@ translate schinese Kechioeren_Enter_2034511c:
     # goatguard "Alright, sure."
     goatguard ""
 
-translate schinese Kechioeren_Enter_b042a0c1:
+translate schinese Kechioeren_Enter_e0848d29:
 
-    # e "Mhmm...I want to go to..." nointeract
+    # e "Mhmm I want to go to..." nointeract
     e "" nointeract
 
-translate schinese Kechioeren_Enter_2db7b312:
+translate schinese Kechioeren_Enter_675ebd1a:
 
-    # e "...Lusterfield?"
+    # e "Lusterfield?"
     e ""
 
-translate schinese Kechioeren_Enter_7ebdd3b8:
+translate schinese Kechioeren_Enter_88530ac9:
 
-    # goatguard "Really...? Ehrm..."
+    # goatguard "Really? Ehrm."
     goatguard ""
 
 translate schinese Kechioeren_Enter_64a39b57:
@@ -1598,14 +1588,14 @@ translate schinese Kechioeren_Enter_64a39b57:
     # goatguard "And you said you're from... Lusterfield."
     goatguard ""
 
-translate schinese Kechioeren_Enter_758e43d4:
+translate schinese Kechioeren_Enter_874b0b95:
 
-    # e "Yeah but I didn't know... where I am."
+    # e "Yeah but I didn't know where I am."
     e ""
 
-translate schinese Kechioeren_Enter_65600742:
+translate schinese Kechioeren_Enter_da65a6b2:
 
-    # goatguard "Lusterfield... Why are you heading there..."
+    # goatguard "Lusterfield- Why are you heading there?"
     goatguard ""
 
 translate schinese Kechioeren_Enter_ce1a4a90:
@@ -1618,14 +1608,14 @@ translate schinese Kechioeren_Enter_01f08b8f:
     # e "Haskell's place?"
     e ""
 
-translate schinese Kechioeren_Enter_ebc37301:
+translate schinese Kechioeren_Enter_c9b9a2e9:
 
-    # goatguard "It's just over there..."
+    # goatguard "It's just over there."
     goatguard ""
 
-translate schinese Kechioeren_Enter_6b70fcfd:
+translate schinese Kechioeren_Enter_b4105bbe:
 
-    # e "Uhmm..."
+    # e "Uhmm."
     e ""
 
 translate schinese Kechioeren_Enter_155de2e5:
@@ -1633,9 +1623,9 @@ translate schinese Kechioeren_Enter_155de2e5:
     # goatguard "Just walk until you see the cabin."
     goatguard ""
 
-translate schinese Kechioeren_Enter_6de39d69:
+translate schinese Kechioeren_Enter_d83e3f81:
 
-    # e "I don't know... I need a map at least so I won't get lost again... Please?"
+    # e "I don't know I need a map at least so I won't get lost again, Please?"
     e ""
 
 translate schinese Kechioeren_Enter_9e9dc0b8:
@@ -1653,9 +1643,9 @@ translate schinese Kechioeren_Enter_16e0f583:
     # e "Yes, but I don't know where I am... Please?"
     e ""
 
-translate schinese Kechioeren_Enter_fe0ce0ac:
+translate schinese Kechioeren_Enter_fa2c7940:
 
-    # goatguard "The town? It's really far away..."
+    # goatguard "The town? It's really far away."
     goatguard ""
 
 translate schinese Kechioeren_Enter_f18b5235:
@@ -1663,9 +1653,9 @@ translate schinese Kechioeren_Enter_f18b5235:
     # e "I don't know where it is, I just got lost in this forest."
     e ""
 
-translate schinese Kechioeren_Enter_555cd8c3:
+translate schinese Kechioeren_Enter_c8322ae7:
 
-    # goatguard "Ughh... alright... I'll call the general to make you a map..."
+    # goatguard "Ughh... alright. I'll call the general to make you a map..."
     goatguard ""
 
 translate schinese Kechioeren_Enter_66fc3a5a:
@@ -1688,39 +1678,39 @@ translate schinese Kechioeren_Enter_cac05fff:
     # "You stand solemnly in place, ignoring the piercing gaze of the guard."
     ""
 
-translate schinese Kechioeren_Enter_8c448491:
+translate schinese Kechioeren_Enter_a5fc74c4:
 
-    # "Yet, you feel he is looking at you up and down... he goes around you and searches your bag."
+    # "Yet, you feel he is looking at you up and down, he goes around you and searches your bag."
     ""
 
-translate schinese Kechioeren_Enter_14d261a7:
+translate schinese Kechioeren_Enter_e78bae6c:
 
-    # e "Hey, what are you doing..."
+    # e "Hey, what are you doing."
     e ""
 
-translate schinese Kechioeren_Enter_6e532246:
+translate schinese Kechioeren_Enter_f25c4f7a:
 
-    # goatguard2 "Searching..."
+    # goatguard2 "Searching."
     goatguard2 ""
 
-translate schinese Kechioeren_Enter_58432b52:
+translate schinese Kechioeren_Enter_9c143698:
 
-    # goatguard2 "What t-the..."
+    # goatguard2 "What t-the."
     goatguard2 ""
 
-translate schinese Kechioeren_Enter_bd9a3065:
+translate schinese Kechioeren_Enter_30b972c3:
 
-    # goatguard2 "It's... meat. someone elses..."
+    # goatguard2 "It's... meat. someone elses."
     goatguard2 ""
 
-translate schinese Kechioeren_Enter_7c73e931:
+translate schinese Kechioeren_Enter_cf9ad2ec:
 
-    # e "Oh, what? No no no, I just took it from... the buggbears!"
+    # e "Oh, what? No no no, I just took it from the buggbears!"
     e ""
 
-translate schinese Kechioeren_Enter_624644d6:
+translate schinese Kechioeren_Enter_0c4aed9d:
 
-    # goatguard2 "Why would you take it... if not for eating the meat for yourself..."
+    # goatguard2 "Why would you take it... if not for eating the meat for yourself."
     goatguard2 ""
 
 translate schinese Kechioeren_Enter_666e5935:
@@ -1728,49 +1718,19 @@ translate schinese Kechioeren_Enter_666e5935:
     # goatguard2 "What kind of sick being are you."
     goatguard2 ""
 
-translate schinese Kechioeren_Enter_5c342823:
-
-    # goatguard2 "And you said you're from the Lusterfield huh..."
-    goatguard2 ""
-
-translate schinese Kechioeren_Enter_70599fdb:
-
-    # goatguard2 "Insolent being, you are all insolence..."
-    goatguard2 ""
-
-translate schinese Kechioeren_Enter_5428d5a5:
-
-    # e "No-no... It's not what you think..."
-    e ""
-
-translate schinese Kechioeren_Enter_c0c41e6e:
-
-    # "The guard violently rings his bell on his chest, instantly you can see him holding his spear."
-    ""
-
-translate schinese Kechioeren_Enter_d3ed6533:
-
-    # "You can see someone else coming from a distance too."
-    ""
-
-translate schinese Kechioeren_Enter_5a5bce3a:
-
-    # "You might need to prepare for a battle..."
-    ""
-
 translate schinese Kechioeren_Enter_dab0aca2:
 
     # e "Hey I helped you defeat the buggbears that plagued your outpost over there..."
     e ""
 
-translate schinese Kechioeren_Enter_3eca3147:
+translate schinese Kechioeren_Enter_f986d744:
 
-    # goatguard2 "Watch your mouth... stranger."
+    # goatguard2 "Watch your mouth stranger."
     goatguard2 ""
 
-translate schinese Kechioeren_Enter_b69a3fce:
+translate schinese Kechioeren_Enter_6ae935e4:
 
-    # e "Whatever..."
+    # e "Whatever."
     e ""
 
 translate schinese Kechioeren_Enter_8bb50e6b:
@@ -1783,34 +1743,34 @@ translate schinese Kechioeren_Enter_defcbf26:
     # e "Now may you get your hand off me?"
     e ""
 
-translate schinese Kechioeren_Enter_9a3c6615:
+translate schinese Kechioeren_Enter_e1346f13:
 
-    # goatguard2 "Not if you're so fluffy under there..."
+    # goatguard2 "Not if you're so fluffy under there."
     goatguard2 ""
 
-translate schinese Kechioeren_Enter_af31fb7b:
+translate schinese Kechioeren_Enter_7952395f:
 
-    # "You can feel the guard's hand running up and down from the back to your stomach..."
+    # "You can feel the guard's hand running up and down from the back to your stomach."
     ""
 
-translate schinese Kechioeren_Enter_a652f41f:
+translate schinese Kechioeren_Enter_a9881667:
 
-    # "His fingers tracing deeper and deeper into your crotch..."
+    # "His fingers tracing deeper and deeper into your crotch."
     ""
 
-translate schinese Kechioeren_Enter_95729aef:
+translate schinese Kechioeren_Enter_4c04a5fb:
 
-    # goatguard2 "Is this why you run around the forest... naked. Just for us to grope a feel..."
+    # goatguard2 "Is this why you run around the forest... naked. Just for us to grope a feel."
     goatguard2 ""
 
-translate schinese Kechioeren_Enter_dfd17dc0:
+translate schinese Kechioeren_Enter_acd5c5d0:
 
-    # e "Get... off..."
+    # e "Get- off..."
     e ""
 
-translate schinese Kechioeren_Enter_185d7695:
+translate schinese Kechioeren_Enter_3840a523:
 
-    # goatguard2 "Alright... I'll leave you be... but I see you showing off your body again here... I can't promise I'll let you go."
+    # goatguard2 "Alright. I'll leave you be, but I see you showing off your body again here, I can't promise I'll let you go."
     goatguard2 ""
 
 translate schinese Kechioeren_Enter_274daa9f:
@@ -1818,9 +1778,9 @@ translate schinese Kechioeren_Enter_274daa9f:
     # e "Hmmm..."
     e ""
 
-translate schinese Kechioeren_Enter_7f4f8d77:
+translate schinese Kechioeren_Enter_13872303:
 
-    # "The goat guard walks back to his guarding duty, while you patiently wait for the other guard to come back..."
+    # "The goat guard walks back to his guarding duty, while you patiently wait for the other guard to come back."
     ""
 
 translate schinese Kechioeren_Enter_342ef9b5:
@@ -1828,9 +1788,9 @@ translate schinese Kechioeren_Enter_342ef9b5:
     # "Soon the other guard comes back with another figure, he is wearing a short cowl around his shoulder, and holding a scepter with a bell on top of it."
     ""
 
-translate schinese Kechioeren_Enter_4d4e2656:
+translate schinese Kechioeren_Enter_7900f928:
 
-    # "The figure has a deer horn... he is wearing a skull mask, much like the one you saw in the forest before you were sent to this world..."
+    # "The figure with a reindeer antler, he is wearing a skull mask, much like the one you saw in the forest before you were sent to this world..."
     ""
 
 translate schinese Kechioeren_Enter_32636830:
@@ -1848,24 +1808,24 @@ translate schinese Kechioeren_Enter_e6a163e8:
     # goatguard "General, he's from Lusterfield."
     goatguard ""
 
-translate schinese Kechioeren_Enter_3497f1f2:
+translate schinese Kechioeren_Enter_e6e8e397:
 
-    # goatguard "General, he said he's from Hawk...."
+    # goatguard "General, he said he's from Hawk-"
     goatguard ""
 
-translate schinese Kechioeren_Enter_bd923825:
+translate schinese Kechioeren_Enter_b7baeeb6:
 
-    # goatguard "General... I think he's from the town..."
+    # goatguard "General I think he's from the town."
     goatguard ""
 
-translate schinese Kechioeren_Enter_0f01869e:
+translate schinese Kechioeren_Enter_19c7ef00:
 
-    # e "Hmm... ye-"
+    # e "Hmm ye-"
     e ""
 
-translate schinese Kechioeren_Enter_666ed75e:
+translate schinese Kechioeren_Enter_70537852:
 
-    # gg "And... why is he here?"
+    # gg "And why is he here?"
     gg ""
 
 translate schinese Kechioeren_Enter_90bfe7aa:
@@ -1908,9 +1868,9 @@ translate schinese Kechioeren_Enter_7edfef42:
     # e "I- uhh... I don't know? I thought your chief would be in the tribe?"
     e ""
 
-translate schinese Kechioeren_Enter_79d59b52:
+translate schinese Kechioeren_Enter_659b650e:
 
-    # "The news surprised you for a moment, you thought Furkan would be in the Tribe, and... it would be somewhat safer to see a familiar face."
+    # "The news surprised you for a moment, you thought Furkan would be in the Tribe, and it would be somewhat safer to see a familiar face."
     ""
 
 translate schinese Kechioeren_Enter_82262834:
@@ -1933,9 +1893,9 @@ translate schinese Kechioeren_Enter_4259f957:
     # "But if you say you know Furkan, the general must want more information, that you don't know about."
     ""
 
-translate schinese Kechioeren_Enter_088082ce:
+translate schinese Kechioeren_Enter_1136f8a9:
 
-    # e "Look, look, I don't know anything... I'm just a passerby."
+    # e "Look, look, I don't know anything. I'm just a passerby."
     e ""
 
 translate schinese Kechioeren_Enter_ca84bd2d:
@@ -1948,14 +1908,14 @@ translate schinese Kechioeren_Enter_5ce011df:
     # gg "And you say you don't know about him?"
     gg ""
 
-translate schinese Kechioeren_Enter_46ce843b:
+translate schinese Kechioeren_Enter_47c6f14e:
 
-    # gg "You must have a serious case of dementia, don't you..."
+    # gg "You must have a serious case of dementia, don't you."
     gg ""
 
-translate schinese Kechioeren_Enter_63944000:
+translate schinese Kechioeren_Enter_31e6e3be:
 
-    # e "Uh... I don't know... I swear."
+    # e "Uh... I don't know, I swear."
     e ""
 
 translate schinese Kechioeren_Enter_4f16f873:
@@ -1978,9 +1938,9 @@ translate schinese Kechioeren_Enter_5f2abe47:
     # gg "Yes, I know about that. You're lucky that you came forward yourself."
     gg ""
 
-translate schinese Kechioeren_Enter_8f06006a:
+translate schinese Kechioeren_Enter_2efd475d:
 
-    # gg "So... why are you here if not for collecting ransom for Furkan..."
+    # gg "So, why are you here if not for collecting ransom."
     gg ""
 
 translate schinese Kechioeren_Enter_096d5c0b:
@@ -1988,19 +1948,19 @@ translate schinese Kechioeren_Enter_096d5c0b:
     # e "I don't know where he is now, I swear. Alright, I made an excuse just to see him here."
     e ""
 
-translate schinese Kechioeren_Enter_64163f75:
+translate schinese Kechioeren_Enter_4cbbf1cd:
 
-    # gg "Why do you want to see him...?"
+    # gg "Why do you want to see him?"
     gg ""
 
-translate schinese Kechioeren_Enter_7d6cae60:
+translate schinese Kechioeren_Enter_a0a4da04:
 
-    # e "Uhh... "
+    # e "Uhh..."
     e ""
 
-translate schinese Kechioeren_Enter_50d8701a:
+translate schinese Kechioeren_Enter_f51de8e0:
 
-    # e "Alright... you caught me."
+    # e "Alright you caught me."
     e ""
 
 translate schinese Kechioeren_Enter_e68957ac:
@@ -2018,9 +1978,9 @@ translate schinese Kechioeren_Enter_6ea96692:
     # e "I don't know... alright. I don't know about anything."
     e ""
 
-translate schinese Kechioeren_Enter_dfb970ef:
+translate schinese Kechioeren_Enter_94d95b26:
 
-    # e "Except that I'm just a courier..."
+    # e "Except that I'm just a courier."
     e ""
 
 translate schinese Kechioeren_Enter_4c06e445:
@@ -2028,14 +1988,14 @@ translate schinese Kechioeren_Enter_4c06e445:
     # gg "Wh-who sent you?"
     gg ""
 
-translate schinese Kechioeren_Enter_5df0e7a8:
+translate schinese Kechioeren_Enter_cfcce589:
 
-    # e "Lothar, he told me to. Now can I go...?"
+    # e "Lothar, he told me to. Now can I go?"
     e ""
 
-translate schinese Kechioeren_Enter_e57963f7:
+translate schinese Kechioeren_Enter_6ebc7109:
 
-    # gg "That monster... I'll kill him myself... once I get my magic back."
+    # gg "That monster. I'll kill him myself... once I get my magic back."
     gg ""
 
 translate schinese Kechioeren_Enter_cdb0cd91:
@@ -2048,9 +2008,9 @@ translate schinese Kechioeren_Enter_30cc8a6f:
     # e "I've told you everything, I don't know where Furkan is."
     e ""
 
-translate schinese Kechioeren_Enter_8e1461ec:
+translate schinese Kechioeren_Enter_c5fade14:
 
-    # gg "I know..."
+    # gg "I know."
     gg ""
 
 translate schinese Kechioeren_Enter_2d18f501:
@@ -2058,9 +2018,9 @@ translate schinese Kechioeren_Enter_2d18f501:
     # gg "Guards, seize him."
     gg ""
 
-translate schinese Kechioeren_Enter_c2b212f8:
+translate schinese Kechioeren_Enter_3d49a143:
 
-    # e "Ugh... I'm not... feeling so good."
+    # e "Ugh... I'm not feeling so good."
     e ""
 
 translate schinese Kechioeren_Enter_e7dfb5ce:
@@ -2068,9 +2028,9 @@ translate schinese Kechioeren_Enter_e7dfb5ce:
     # goatguard2 "w-what?"
     goatguard2 ""
 
-translate schinese Kechioeren_Enter_5d40c8da:
+translate schinese Kechioeren_Enter_fec51668:
 
-    # e "I... haven't eaten for a long time..."
+    # e "I- haven't eaten for a long time."
     e ""
 
 translate schinese Kechioeren_Enter_77811d73:
@@ -2083,9 +2043,9 @@ translate schinese Kechioeren_Enter_5bb87b15:
     # "The guard stares at you, not knowing what to do, he then rings his bell on the chest for exactly three times before calling for help."
     ""
 
-translate schinese Kechioeren_Enter_2ddf64c2:
+translate schinese Kechioeren_Enter_ae25d335:
 
-    # goatguard2 "This guy... he fell! Anyone here to help..."
+    # goatguard2 "This guy... he fell! Anyone here to help."
     goatguard2 ""
 
 translate schinese Kechioeren_Enter_b295be86:
@@ -2093,29 +2053,29 @@ translate schinese Kechioeren_Enter_b295be86:
     # "Soon, the other guard and a masked figure runs towards your reclined form."
     ""
 
-translate schinese Kechioeren_Enter_d8abe7e4:
+translate schinese Kechioeren_Enter_e4ff36a6:
 
-    # goatguard "Hey... w-what? What did you do to him?"
+    # goatguard "Hey w-what? What did you do to him?"
     goatguard ""
 
-translate schinese Kechioeren_Enter_85ba0921:
+translate schinese Kechioeren_Enter_7bacc4c0:
 
-    # goatguard2 "He said he didn't eat anything and then fainted... how do I know?"
+    # goatguard2 "He said he didn't eat anything and then fainted, how would I even know?"
     goatguard2 ""
 
-translate schinese Kechioeren_Enter_10d46fb0:
+translate schinese Kechioeren_Enter_c07c8910:
 
-    # goatguard "Fuck, did you just give him the dirty hand?"
+    # goatguard "Did you just give him that classic dirty hand?"
     goatguard ""
 
-translate schinese Kechioeren_Enter_b108a553:
+translate schinese Kechioeren_Enter_6a4b4922:
 
-    # goatguard2 "I didn't even do it... yet."
+    # goatguard2 "I didn't! But I... planned to."
     goatguard2 ""
 
-translate schinese Kechioeren_Enter_39a6c3b5:
+translate schinese Kechioeren_Enter_30af2a64:
 
-    # goatguard "You fucker..."
+    # goatguard "You moron."
     goatguard ""
 
 translate schinese Kechioeren_Enter_6d1d2d28:
@@ -2123,14 +2083,14 @@ translate schinese Kechioeren_Enter_6d1d2d28:
     # m "Hmm..."
     m ""
 
-translate schinese Kechioeren_Enter_139b65f7:
+translate schinese Kechioeren_Enter_bd8ab6e9:
 
-    # m "Let's bring him back to our place..."
+    # m "Let's bring him back to our place."
     m ""
 
-translate schinese Kechioeren_Enter_16095f90:
+translate schinese Kechioeren_Enter_799c699b:
 
-    # goatguard "Wait... are you sure, general? I don't know if chief would like a stranger in our tribe."
+    # goatguard "Wait, are you sure, general? I don't know if chief would like a stranger in our tribe."
     goatguard ""
 
 translate schinese Kechioeren_Enter_e44bfaa0:
@@ -2143,19 +2103,19 @@ translate schinese Kechioeren_Enter_7ea088b6:
     # goatguard "General, but he's from Lusterfield."
     goatguard ""
 
-translate schinese Kechioeren_Enter_3497f1f2_1:
+translate schinese Kechioeren_Enter_07bdba30:
 
-    # goatguard "General, he said he's from Hawk...."
+    # goatguard "General, he said he's from Hawk... something."
     goatguard ""
 
-translate schinese Kechioeren_Enter_bd923825_1:
+translate schinese Kechioeren_Enter_b7baeeb6_1:
 
-    # goatguard "General... I think he's from the town..."
+    # goatguard "General I think he's from the town."
     goatguard ""
 
-translate schinese Kechioeren_Enter_50518e08:
+translate schinese Kechioeren_Enter_c5fade14_1:
 
-    # gg "I know... We should just wake him up first..."
+    # gg "I know."
     gg ""
 
 translate schinese Kechioeren_Enter_3e27ab2d:
@@ -2163,9 +2123,9 @@ translate schinese Kechioeren_Enter_3e27ab2d:
     # gg "I'll have to lock him up later and make him spill out any information about Furk, if he has any."
     gg ""
 
-translate schinese Kechioeren_Enter_14dd2330:
+translate schinese Kechioeren_Enter_e2c84f84:
 
-    # goatguard2 "Oh... General, that's a good idea."
+    # goatguard2 "Oh General, that's a good idea."
     goatguard2 ""
 
 translate schinese Kechioeren_Enter_f371b960:
@@ -2178,24 +2138,19 @@ translate schinese Kechioeren_Enter_fe85bf6e:
     # "And you thought, at least Furkan would be in the Tribe."
     ""
 
-translate schinese Kechioeren_Enter_6fd78894:
+translate schinese Kechioeren_Enter_13bea361:
 
-    # "Not this... general with a delicate voice."
+    # "Not this grouchy general with a delicate voice."
     ""
 
-translate schinese Kechioeren_Enter_0f714086:
+translate schinese Kechioeren_Enter_748014cc:
 
-    # "You feel like you need to do something..."
+    # "You are not ready to get locked up as a prisoner for no reason at all."
     ""
 
-translate schinese Kechioeren_Enter_0f8b9b57:
+translate schinese Kechioeren_Enter_ece626b0:
 
-    # "You are not ready to get locked up as a prisoner for no reason at all..."
-    ""
-
-translate schinese Kechioeren_Enter_3beff7cc:
-
-    # gg "W-wait... what's that."
+    # gg "W-wait."
     gg ""
 
 translate schinese Kechioeren_Enter_14850225:
@@ -2203,34 +2158,39 @@ translate schinese Kechioeren_Enter_14850225:
     # "The general seems to notice you furrowing your brows. He stares at you for a second."
     ""
 
-translate schinese Kechioeren_Enter_8170d42d:
+translate schinese Kechioeren_Enter_7562598e:
 
-    # e "OUCH! W-what are you doing..."
+    # e "OUCH! W-what are you doing."
     e ""
 
-translate schinese Kechioeren_Enter_dde00613:
+translate schinese Kechioeren_Enter_7f453521:
 
-    # gg "Seeing if you just... faint."
+    # gg "Seeing if you are passed out."
     gg ""
 
-translate schinese Kechioeren_Enter_0cdb0afd:
+translate schinese Kechioeren_Enter_34fc0add:
 
-    # "You screamed as soon as the general touches somewhere near your groin..."
+    # "You screamed as soon as the general touches somewhere near your groin."
     ""
 
-translate schinese Kechioeren_Enter_5909654f:
+translate schinese Kechioeren_Enter_13caefad:
 
-    # e "Y-you could have chosen somewhere not there..."
+    # e "Y-you could have chosen somewhere else!"
     e ""
 
-translate schinese Kechioeren_Enter_6dbb872e:
+translate schinese Kechioeren_Enter_e76f52d5:
 
-    # gg "Uh... Do I look like I care..."
+    # gg "Uh... Do I look like I care."
     gg ""
 
-translate schinese Kechioeren_Enter_e863a31c:
+translate schinese Kechioeren_Enter_63d3ccc7:
 
-    # goatguard2 "Didn't he just faint...?"
+    # "The guards turns back at you, looking all dumbfounded."
+    ""
+
+translate schinese Kechioeren_Enter_d31a8ead:
+
+    # goatguard2 "Didn't he just faint.?"
     goatguard2 ""
 
 translate schinese Kechioeren_Enter_dbc54696:
@@ -2238,7 +2198,7 @@ translate schinese Kechioeren_Enter_dbc54696:
     # gg "He faked it. Look at this guy, healthy as a hors-... fit like a fiddle."
     gg ""
 
-translate schinese Kechioeren_Enter_6b70fcfd_1:
+translate schinese Kechioeren_Enter_6b70fcfd:
 
     # e "Uhmm..."
     e ""
@@ -2248,14 +2208,14 @@ translate schinese Kechioeren_Enter_7cb29c68:
     # gg "Who are you... answer now."
     gg ""
 
-translate schinese Kechioeren_Enter_Artifact_31913608:
+translate schinese Kechioeren_Enter_Artifact_2ea7a35e:
 
-    # e "My Friend and I discovered... a golem hand."
+    # e "My Friend and I discovered a golem hand."
     e ""
 
-translate schinese Kechioeren_Enter_Artifact_c0c16a63:
+translate schinese Kechioeren_Enter_Artifact_395c96d7:
 
-    # e "And they suggested... we should look for Furkan because... it's symbol looks like something from yours."
+    # e "And they suggested that we should look for Furkan because, it's symbol looks like something from yours."
     e ""
 
 translate schinese Kechioeren_Enter_Artifact_c29390cb:
@@ -2283,9 +2243,9 @@ translate schinese Kechioeren_Enter_Artifact_b70da06b:
     # gg "He's with the Golem."
     gg ""
 
-translate schinese Kechioeren_Enter_Artifact_1d78f46e:
+translate schinese Kechioeren_Enter_Artifact_21a76c7c:
 
-    # e "But we... killed it."
+    # e "But we killed it."
     e ""
 
 translate schinese Kechioeren_Enter_Artifact_221eecd8:
@@ -2298,29 +2258,39 @@ translate schinese Kechioeren_Enter_Artifact_d819a6db:
     # e "W-what happened to them?"
     e ""
 
-translate schinese Kechioeren_Enter_Artifact_75a7abf5:
+translate schinese Kechioeren_Enter_Artifact_df0f12a6:
 
-    # gg "I don't know, they went rogue after our runes stopped supplying spell energy..."
+    # gg "Our guardians went rogue after the primordial runes stopped supplying spell energy."
     gg ""
 
-translate schinese Kechioeren_Enter_Artifact_903f3071:
+translate schinese Kechioeren_Enter_Artifact_5291daa2:
 
-    # goatguard "Uhmm... general, is it wise to share information... to a Lusterfolk?"
+    # gg "They were summoned by Furkan's father with the basin, which went missing as well."
+    gg ""
+
+translate schinese Kechioeren_Enter_Artifact_1adf0e00:
+
+    # gg "And those guardians were supposed to be guarding the runes, right on top of our mountain."
+    gg ""
+
+translate schinese Kechioeren_Enter_Artifact_ff505267:
+
+    # goatguard "Uhmm... general, is it wise to share information to a Lusterfolk?"
     goatguard ""
 
-translate schinese Kechioeren_Enter_Artifact_22e6966c:
+translate schinese Kechioeren_Enter_Artifact_cb46e8f1:
 
-    # gg "No... I need to save Furk-"
+    # gg "No, but we need to save our chieftain."
     gg ""
 
-translate schinese Kechioeren_Enter_Artifact_7939c399:
+translate schinese Kechioeren_Enter_Artifact_cfa1e194:
 
-    # gg "He's in the cave..."
+    # gg "He's in the cave."
     gg ""
 
-translate schinese Kechioeren_Enter_Artifact_720f7c79:
+translate schinese Kechioeren_Enter_Artifact_d759c583:
 
-    # e "W-what? Cave?"
+    # e "W-what Cave?"
     e ""
 
 translate schinese Kechioeren_Enter_Artifact_60c57f65:
@@ -2333,75 +2303,55 @@ translate schinese Kechioeren_Enter_Artifact_60ebced8:
     # e "Are you sure?"
     e ""
 
-translate schinese Kechioeren_Enter_Artifact_07ff461c:
+translate schinese Kechioeren_Enter_Artifact_fa7974a8:
 
-    # gg "I can't leave... the tribe-"
+    # gg "Yes."
     gg ""
 
-translate schinese Kechioeren_Enter_Artifact_e4602e46:
+translate schinese Kechioeren_Enter_Artifact_33f16abb:
 
-    # gg "Nono nonono..."
+    # gg "But I can't leave the tribe unattended."
     gg ""
 
-translate schinese Kechioeren_Enter_Artifact_f8d80fcf:
+translate schinese Kechioeren_Enter_Artifact_9612631c:
 
-    # gg "Come with me, courier."
+    # "The general walks back and forth, trying to conjure up a plan to rescue his chief."
+    ""
+
+translate schinese Kechioeren_Enter_Artifact_d42bf877:
+
+    # gg "Come with me, courier. I need your help."
     gg ""
 
-translate schinese Kechioeren_Enter_Artifact_cc23a045:
+translate schinese Kechioeren_Enter_Artifact_6112b769:
 
-    # e "Wait... I don't understand..."
+    # "He points at you, not even waiting for your approval."
+    ""
+
+translate schinese Kechioeren_Enter_Artifact_94a86528:
+
+    # e "Uh... are you sure?"
     e ""
 
-translate schinese Kechioeren_Enter_Artifact_6ea27c72:
+translate schinese Kechioeren_Enter_Artifact_30a6d4fc:
 
-    # gg "He's in the cave, he must be going there alone trying to get those golems back."
+    # gg "Yes. I'll tell you anything I know on our way."
     gg ""
 
-translate schinese Kechioeren_Enter_Artifact_42be0c3c:
+translate schinese Kechioeren_Enter_Artifact_0e53b64a:
 
-    # e "We had already killed one... when we got attacked by it."
-    e ""
+    # "You feel the general drags your hand, and turns towards the guards."
+    ""
 
-translate schinese Kechioeren_Enter_Artifact_56e353a4:
+translate schinese Kechioeren_Enter_Artifact_72a89d6e:
 
-    # gg "I told him not to, but... he's been gone for a day."
-    gg ""
-
-translate schinese Kechioeren_Enter_Artifact_a788e1f1:
-
-    # gg "I can't leave him there."
-    gg ""
-
-translate schinese Kechioeren_Enter_Artifact_7a17f7e5:
-
-    # gg "Cev... and Hakki... stay here until I come back."
+    # gg "Cev and Hakki, stay here until I come back."
     gg ""
 
 translate schinese Kechioeren_Enter_Artifact_a05b105e:
 
     # goatguard2 "Yes, General."
     goatguard2 ""
-
-translate schinese Kechioeren_Enter_Artifact_9d3ced98:
-
-    # gg "Courier, it's time to go..."
-    gg ""
-
-translate schinese Kechioeren_Enter_Artifact_04643117:
-
-    # e "Uh... W-what, us?"
-    e ""
-
-translate schinese Kechioeren_Enter_Artifact_cc6ce8b0:
-
-    # gg "I need to use you as a meat shield."
-    gg ""
-
-translate schinese Kechioeren_Enter_Artifact_b2ec944b:
-
-    # e "Uhm... ok I guess."
-    e ""
 
 translate schinese Kechioeren_Enter_Artifact_7e7c5257:
 
@@ -2413,9 +2363,9 @@ translate schinese Kechioeren_Enter_Artifact_16fffe5c:
     # e "I...came here to talk with Furkan about potential reconciliation of Lusterfield... and the Goats."
     e ""
 
-translate schinese Kechioeren_Enter_Artifact_be84d560:
+translate schinese Kechioeren_Enter_Artifact_d08bbf91:
 
-    # gg "W-what? Reconciliation..."
+    # gg "W-what reconciliation."
     gg ""
 
 translate schinese Kechioeren_Enter_Artifact_81e9a3d9:
@@ -2428,9 +2378,9 @@ translate schinese Kechioeren_Enter_Artifact_f4ca578b:
     # gg "Why?"
     gg ""
 
-translate schinese Kechioeren_Enter_Artifact_647cc411:
+translate schinese Kechioeren_Enter_Artifact_e8e3c203:
 
-    # e "Look, Rahim rejected Furkan's idea... but we actually were pretty happy to... you know."
+    # e "Look, Rahim rejected Furkan's idea, but we actually were pretty happy to... you know."
     e ""
 
 translate schinese Kechioeren_Enter_Artifact_d819fd7d:
@@ -2448,9 +2398,14 @@ translate schinese Kechioeren_Enter_Artifact_215e622d:
     # gg "You're brave to come here."
     gg ""
 
-translate schinese Kechioeren_Enter_Artifact_8ae6eae5:
+translate schinese Kechioeren_Enter_Artifact_b223fe53:
 
-    # gg "But, hmmm...no."
+    # "The general ponders for merely a second, before he glances back at you again."
+    ""
+
+translate schinese Kechioeren_Enter_Artifact_16a0c4b6:
+
+    # gg "But no."
     gg ""
 
 translate schinese Kechioeren_Enter_Artifact_2d18f501:
@@ -2498,9 +2453,9 @@ translate schinese Kechioeren_Enter_Artifact_2d18f501_1:
     # gg "Guards, seize him."
     gg ""
 
-translate schinese Kechioeren_Enter_Artifact_c18eb48e_1:
+translate schinese Kechioeren_Enter_Artifact_50afd1d4:
 
-    # e "W-what?"
+    # e "Uhm..."
     e ""
 
 translate schinese Kechioeren_Enter_Artifact_a05b105e_2:
@@ -2698,9 +2653,9 @@ translate schinese Kari_Trusty_82091822:
     # k "..."
     k ""
 
-translate schinese Kari_Trusty_7a392e76:
+translate schinese Kari_Trusty_e28a7285:
 
-    # k "It is difficult to see you as a person when all you do is try and help. Anger like this helps make you feel… real, to me."
+    # k "It is difficult to see you as a person when all you do is try and help. Anger like this helps make you feel... real, to me."
     k ""
 
 translate schinese Kari_Trusty_c9e14c83:
@@ -3003,9 +2958,9 @@ translate schinese Kari_Trusty_9cdce96c:
     # k "See, this is what I mean. Why do you want to help with that if it doesn't benefit you."
     k ""
 
-translate schinese Kari_Trusty_460b3ae2:
+translate schinese Kari_Trusty_8cfb69a2:
 
-    # e "It's ironic that you're asking me that, considering your own reasons to be general, but…"
+    # e "It's ironic that you're asking me that, considering your own reasons to be general, but..."
     e ""
 
 translate schinese Kari_Trusty_27edf300:
@@ -3028,9 +2983,9 @@ translate schinese Kari_Trusty_9a515bb6:
     # "Kari's gaze flickers with guilt before returning to normal."
     ""
 
-translate schinese Kari_Trusty_86efaa21:
+translate schinese Kari_Trusty_de7d7100:
 
-    # k "You could have run away, or tried to notify us…"
+    # k "You could have run away, or tried to notify us..."
     k ""
 
 translate schinese Kari_Trusty_000cad01:
@@ -3053,14 +3008,14 @@ translate schinese Kari_Trusty_410af244:
     # "This time, the guilt stays in Kari's eyes."
     ""
 
-translate schinese Kari_Trusty_d02579d0:
+translate schinese Kari_Trusty_f234482d:
 
-    # k "We… we wouldn't have ignored you. We're suspicious of outsiders, but we'll never kill them unless they themselves use deadly force."
+    # k "We, we wouldn't have ignored you. We're suspicious of outsiders, but we'll never kill them unless they themselves use deadly force."
     k ""
 
-translate schinese Kari_Trusty_3b8b07d2:
+translate schinese Kari_Trusty_66f9a41f:
 
-    # k "Regarding the golem… I appreciate you stopping it. I wish you hadn't destroyed it, but I am glad you stopped it from hurting others."
+    # k "Regarding the golem... I appreciate you stopping it. I wish you hadn't destroyed it, but I am glad you stopped it from hurting others."
     k ""
 
 translate schinese Kari_Trusty_70c13e1b:
@@ -3128,9 +3083,9 @@ translate schinese Kari_Trusty_09b9e3b5:
     # k "Alright, well... It's your time to ask questions. Go ahead."
     k ""
 
-translate schinese Kari_Trusty_5923347b:
+translate schinese Kari_Trusty_22e6146f:
 
-    # e "Hrmm… I suppose my most pressing question is... what exactly is your relationship to Furkan?"
+    # e "Hrmm... I suppose my most pressing question is... what exactly is your relationship to Furkan?"
     e ""
 
 translate schinese Kari_Trusty_eebb40f6:
@@ -3388,9 +3343,9 @@ translate schinese Kari_Trusty_81256f13:
     # "Kari turns to leave, but pauses briefly as a thought crosses his mind."
     ""
 
-translate schinese Kari_Trusty_b90ba7bb:
+translate schinese Kari_Trusty_9fe8a520:
 
-    # k "It would be good for the goats to have someone like you on their side. If you are who you say you are… I don't mind that person at all."
+    # k "It would be good for the goats to have someone like you on their side. If you are who you say you are... I don't mind that person at all."
     k ""
 
 translate schinese Kari_Trusty_ee0e3bc4:
@@ -3428,9 +3383,9 @@ translate schinese Kari_Trusty_22e8ca0b:
     # "The deer sits there thinking for a while, until he finally finds something fitting."
     ""
 
-translate schinese Kari_Trusty_1104bf11:
+translate schinese Kari_Trusty_52ebf4c4:
 
-    # k "Today was… refreshing. It is good to get a new perspective."
+    # k "Today was... refreshing. It is good to get a new perspective."
     k ""
 
 translate schinese Kari_Trusty_1f295b58:
@@ -3448,14 +3403,14 @@ translate schinese Kari_Trusty_623be4f3:
     # "You wait a couple seconds, unsure on whether or not you should give Kari advice or not. Eventually, you cave into your need to be helpful."
     ""
 
-translate schinese Kari_Trusty_e2fab151:
+translate schinese Kari_Trusty_b795fde6:
 
-    # e "Regarding Furkan… I think it might be good for you to try and talk to him about how you've been feeling."
+    # e "Regarding Furkan... I think it might be good for you to try and talk to him about how you've been feeling."
     e ""
 
-translate schinese Kari_Trusty_c56aad3d:
+translate schinese Kari_Trusty_b7880290:
 
-    # "There are a few moments where it looks like Kari is going to yell at you for making a recommendation like that, but…"
+    # "There are a few moments where it looks like Kari is going to yell at you for making a recommendation like that, but..."
     ""
 
 translate schinese Kari_Trusty_71700a04:
@@ -3498,14 +3453,19 @@ translate schinese Kari_Adventure_c414462a:
     # gg "Over there."
     gg ""
 
-translate schinese Kari_Adventure_97be41ae:
+translate schinese Kari_Adventure_4bbb4071:
 
-    # "You are still not used to his... young voice. You look at his strong back from behind... and you feel like you want to strike a conversation."
+    # "You are still not used to his young voice, but the mysterious general doesn't bother to utter a word."
     ""
 
-translate schinese Kari_Adventure_1a9ab8dd:
+translate schinese Kari_Adventure_d695b83e:
 
-    # e "Hey... General, Can I ask your name?"
+    # "So, you decide to strike a conversation."
+    ""
+
+translate schinese Kari_Adventure_405b9b9e:
+
+    # e "Hey, General, Can I ask your name?"
     e ""
 
 translate schinese Kari_Adventure_9d24105f:
@@ -3528,14 +3488,14 @@ translate schinese Kari_Adventure_52993db8:
     # e "That's an unusual name."
     e ""
 
-translate schinese Kari_Adventure_aa2fe93e:
+translate schinese Kari_Adventure_41a56884:
 
-    # k "Furkan's dad gave me this name..."
+    # k "Furkan's dad gave me this name."
     k ""
 
-translate schinese Kari_Adventure_4974211e:
+translate schinese Kari_Adventure_ff88d578:
 
-    # e "You seemed like a mage... or shaman."
+    # e "You seemed like a mage, or shaman."
     e ""
 
 translate schinese Kari_Adventure_0d2fd413:
@@ -3558,9 +3518,9 @@ translate schinese Kari_Adventure_d42dc7c1:
     # k "No, but I've been with the family since I have my first memory."
     k ""
 
-translate schinese Kari_Adventure_63187049:
+translate schinese Kari_Adventure_f09e02ff:
 
-    # k "Now... that Furkan's brother and father's gone... I don't want to lose him too."
+    # k "Now... that Furkan's brother and father's gone. I don't want to lose him too."
     k ""
 
 translate schinese Kari_Adventure_137c64cf:
@@ -3588,24 +3548,19 @@ translate schinese Kari_Adventure_4bc4b2e5:
     # k "Hmm?"
     k ""
 
-translate schinese Kari_Adventure_9b0475d6:
+translate schinese Kari_Adventure_0af55a1b:
 
-    # e "No one actually asked me this..."
+    # e "I uhh... come from another place. You know about that, right?"
     e ""
 
-translate schinese Kari_Adventure_c659b2b4:
+translate schinese Kari_Adventure_22506db5:
 
-    # e "I... uhh... come from another place. You know about that right?"
-    e ""
-
-translate schinese Kari_Adventure_bc98dfd0:
-
-    # k "Yeah, Hawkaita."
+    # k "Yeah, Hawkaita. Furkan told me that."
     k ""
 
-translate schinese Kari_Adventure_8352d24d:
+translate schinese Kari_Adventure_0a463124:
 
-    # e "Do you know about Chime?"
+    # e "Do you know anything about Chime?"
     e ""
 
 translate schinese Kari_Adventure_e5a34791:
@@ -3613,29 +3568,154 @@ translate schinese Kari_Adventure_e5a34791:
     # k "I've seen him around here, but I'm not the one handling him."
     k ""
 
-translate schinese Kari_Adventure_cb89d39c:
+translate schinese Kari_Adventure_22d8148b:
 
-    # e "He's my best friend in my own tribe to be honest."
-    e ""
-
-translate schinese Kari_Adventure_8993e1c8:
-
-    # e "And... if it's not him, I wouldn't have searched so hard that I got into this place."
-    e ""
-
-translate schinese Kari_Adventure_b422a18f:
-
-    # k "Your Chime, he didn't tell anyone anything... left the tribe just as Furkan was about to ask him about the magic."
+    # k "Nothing I can tell you about where he's gone, but I'd still like to know what's the deal with you."
     k ""
 
-translate schinese Kari_Adventure_e3dc4b01:
+translate schinese Kari_Adventure_72a33094:
 
-    # k "Didn't strike Furkan as someone like you though... I have to say."
+    # e "..."
+    e ""
+
+translate schinese Kari_Adventure_12c5b6df:
+
+    # e "He's my best friend, we've been together since I have any memory of existence."
+    e ""
+
+translate schinese Kari_Adventure_9c0aa805:
+
+    # e "I've never felt a single moment we had separated, not until he just disappeared one day."
+    e ""
+
+translate schinese Kari_Adventure_33cd8fec:
+
+    # e "That was the first time I hadn't seen him, he was always smily, cheerful. And I felt lost without him."
+    e ""
+
+translate schinese Kari_Adventure_bbdeacbf:
+
+    # e "So... I left the tribe, just to look for him. I searched around places where he used to hang out with me."
+    e ""
+
+translate schinese Kari_Adventure_c6a98938:
+
+    # e "But I found nothing."
+    e ""
+
+translate schinese Kari_Adventure_0af40f6d:
+
+    # k "What happened after?"
     k ""
 
-translate schinese Kari_Adventure_b78ab980:
+translate schinese Kari_Adventure_d60117e4:
 
-    # k "Luckily now that Furkan is handling it pretty well."
+    # e "Well. I stumbled upon some masked guy, and he was speaking gibberish. All I remembered was that he casted a blue... spell."
+    e ""
+
+translate schinese Kari_Adventure_233fc561:
+
+    # e "And I woke up here."
+    e ""
+
+translate schinese Kari_Adventure_193697fd:
+
+    # k "What about the other folks? Do they know...?"
+    k ""
+
+translate schinese Kari_Adventure_dcb2f5c3:
+
+    # e "O-other folks?"
+    e ""
+
+translate schinese Kari_Adventure_cb956a27:
+
+    # k "Tribesmen."
+    k ""
+
+translate schinese Kari_Adventure_df1cd9e8:
+
+    # e "I-I'm not sure. Now that I think of it, my memory has been really blurred since I woke up in this place."
+    e ""
+
+translate schinese Kari_Adventure_8b5f02a8:
+
+    # e "My memory has been foggy ever since, but I can still remember everything that happened here."
+    e ""
+
+translate schinese Kari_Adventure_3314395c:
+
+    # k "You are weird."
+    k ""
+
+translate schinese Kari_Adventure_4bb3a3a2:
+
+    # e "Uh... thank you?"
+    e ""
+
+translate schinese Kari_Adventure_a7d21717:
+
+    # "You two continue to walk down the trail, sometimes the general awkwardly stares at you as you glance back."
+    ""
+
+translate schinese Kari_Adventure_3c73f2f7:
+
+    # "He averts his gaze quickly."
+    ""
+
+translate schinese Kari_Adventure_bb05c3d3:
+
+    # k "I suppose you understand where I'm coming from."
+    k ""
+
+translate schinese Kari_Adventure_6b46ec42:
+
+    # e "Sorry?"
+    e ""
+
+translate schinese Kari_Adventure_4e407a7d:
+
+    # k "Searching for my chief."
+    k ""
+
+translate schinese Kari_Adventure_70179041:
+
+    # e "Oh... you two have been best friends also, right?"
+    e ""
+
+translate schinese Kari_Adventure_c22b121b:
+
+    # k "Yes, I find it baffling how much similar our stories are."
+    k ""
+
+translate schinese Kari_Adventure_06c1b643:
+
+    # e "... At least I didn't end up becoming a general."
+    e ""
+
+translate schinese Kari_Adventure_09cea9fd:
+
+    # "Kari stares at you, his unintentional pout causes you to laugh."
+    ""
+
+translate schinese Kari_Adventure_44c76fe1:
+
+    # k "What are you laughing at?"
+    k ""
+
+translate schinese Kari_Adventure_376d2dc7:
+
+    # e "N-nothing."
+    e ""
+
+translate schinese Kari_Adventure_3d3958b6:
+
+    # "His pout gets bigger."
+    ""
+
+translate schinese Kari_Adventure_23332a04:
+
+    # k "Well, Furkan can handle himself better than your Chime, also."
     k ""
 
 translate schinese Kari_Adventure_35675f62:
@@ -3643,44 +3723,74 @@ translate schinese Kari_Adventure_35675f62:
     # e "Huh...?"
     e ""
 
-translate schinese Kari_Adventure_47d24c9f:
+translate schinese Kari_Adventure_528aca2d:
 
-    # k "He is as strong as his father."
+    # k "He is as strong as his father. I trust he'll be safe."
     k ""
 
-translate schinese Kari_Adventure_3dbd690b:
+translate schinese Kari_Adventure_d3833fa5:
 
-    # e "But your rune thing... it's still gone, and Furkan is... in this cave captured by his... guardian?"
-    e ""
-
-translate schinese Kari_Adventure_4c21c1c9:
-
-    # e "I don't think that's a sign of handling very well."
-    e ""
-
-translate schinese Kari_Adventure_da5ea9f9:
-
-    # k "You outsiders don't understand. He has his plan, I trust his judgement will bring prosper to the tribe."
+    # k "But your friend, I can't speak for him."
     k ""
 
-translate schinese Kari_Adventure_b6956043:
+translate schinese Kari_Adventure_91e312fc:
 
-    # e "OK... but we still need to save him..."
+    # e "Why? Wasn't he in your tribe for a while?"
     e ""
 
-translate schinese Kari_Adventure_82091822:
+translate schinese Kari_Adventure_cef6df6d:
 
-    # k "..."
+    # k "I had only greeted him once, and he came off as a callous savage."
     k ""
 
-translate schinese Kari_Adventure_bf9bbb7c:
+translate schinese Kari_Adventure_5dc8ec35:
 
-    # "Kari doesn't speak, he just continues on his walk to the lagoon."
+    # e "What does that mean?"
+    e ""
+
+translate schinese Kari_Adventure_02d309da:
+
+    # k "He was oblivious, obtuse, and he never accosted our chieftain, or me."
+    k ""
+
+translate schinese Kari_Adventure_e62bd356:
+
+    # k "Always staying with that magic scammer until he leaves without approaching us, again."
+    k ""
+
+translate schinese Kari_Adventure_8f378098:
+
+    # k "If it's not for Furk's hospitality, maybe we'd have never take him in in the first place."
+    k ""
+
+translate schinese Kari_Adventure_99434a21:
+
+    # "You aren't sure if that was your impression of Chime, quite the opposite, actually."
     ""
 
-translate schinese Kari_Adventure_afa5ac88:
+translate schinese Kari_Adventure_5e3da0d1:
 
-    # "After a while, you walk up to catch up with him."
+    # e "I don't think that's the Chime I know."
+    e ""
+
+translate schinese Kari_Adventure_8dfff518:
+
+    # k "Well, take it as you'd like. You're still coming with me."
+    k ""
+
+translate schinese Kari_Adventure_f05300f3:
+
+    # "The general remains silent, he picks up his pace and you're falling behind of him."
+    ""
+
+translate schinese Kari_Adventure_3d9f89c9:
+
+    # "It continues for a while until you are bored of the silence."
+    ""
+
+translate schinese Kari_Adventure_f70f4a7d:
+
+    # "You walk up to catch up with him."
     ""
 
 translate schinese Kari_Adventure_6b90839e:
@@ -3708,14 +3818,14 @@ translate schinese Kari_Adventure_d7a7cea5:
     # e "Alright, but you both have a skull mask, a horn. and the X-shaped strap around you..."
     e ""
 
-translate schinese Kari_Adventure_1c092980:
+translate schinese Kari_Adventure_0bf8eb44:
 
-    # e "You know he brought me to this place for some sick reason, right?"
+    # e "You know he brought me to this place, maybe for some sick reason, right?"
     e ""
 
-translate schinese Kari_Adventure_0c213088:
+translate schinese Kari_Adventure_31fb7d23:
 
-    # k "Look, I told you, I'm not him."
+    # k "Look, I told you, I don't walk in the dark trying to kidnap some savages into our tribe."
     k ""
 
 translate schinese Kari_Adventure_b910416c:
@@ -3828,7 +3938,7 @@ translate schinese Kari_Adventure_4217208f:
     # k "w-what no. Why would I want to get into bed with another man."
     k ""
 
-translate schinese Kari_Adventure_82091822_1:
+translate schinese Kari_Adventure_82091822:
 
     # k "..."
     k ""
@@ -3893,14 +4003,14 @@ translate schinese Kari_Adventure_095cae1e:
     # "The general takes out his woodle bottle and scoop up some water before handing it to you."
     ""
 
-translate schinese Kari_Adventure_a827517e:
+translate schinese Kari_Adventure_0804d8bb:
 
-    # e "Can... you help me?"
+    # e "Can you help me?"
     e ""
 
-translate schinese Kari_Adventure_6c70c717:
+translate schinese Kari_Adventure_50c31736:
 
-    # k "...Why are you like this."
+    # k "Why are you like this."
     k ""
 
 translate schinese Kari_Adventure_33532784:
@@ -3908,9 +4018,9 @@ translate schinese Kari_Adventure_33532784:
     # e "I don't know, maybe because I just lost a battle."
     e ""
 
-translate schinese Kari_Adventure_eef0655e:
+translate schinese Kari_Adventure_45335297:
 
-    # k "... whatever. Open your mouth."
+    # k "Whatever. Open your mouth."
     k ""
 
 translate schinese Kari_Adventure_bd11123f:
@@ -3943,9 +4053,9 @@ translate schinese Kari_Adventure_55baca04:
     # k "W-what? Why. Why would you do that."
     k ""
 
-translate schinese Kari_Adventure_9ac0ba11:
+translate schinese Kari_Adventure_dac5de8c:
 
-    # e "Sorry, just wanted to... taste you."
+    # e "Sorry, just wanted to taste you."
     e ""
 
 translate schinese Kari_Adventure_b7ee8f63_1:
@@ -3953,9 +4063,9 @@ translate schinese Kari_Adventure_b7ee8f63_1:
     # k "Fuck you."
     k ""
 
-translate schinese Kari_Adventure_cc1ce21b:
+translate schinese Kari_Adventure_5897b7ce:
 
-    # e "Alright. I'm sorry, can you help me... please?"
+    # e "Alright. I'm sorry, can you help me, please?"
     e ""
 
 translate schinese Kari_Adventure_a5462bb4:
@@ -3963,7 +4073,7 @@ translate schinese Kari_Adventure_a5462bb4:
     # k "No, no. take my bottle and drink it yourself."
     k ""
 
-translate schinese Kari_Adventure_72a33094:
+translate schinese Kari_Adventure_72a33094_1:
 
     # e "..."
     e ""
@@ -3978,14 +4088,9 @@ translate schinese Kari_Adventure_25e90c62:
     # "Kari waits for you to stand up and continue on your journey."
     ""
 
-translate schinese Kari_Adventure_a20cefa7:
+translate schinese Kari_Adventure_ff1f58ea:
 
-    # "..."
-    ""
-
-translate schinese Kari_Adventure_d476048f:
-
-    # "After a while, you feel like you should chat with Kari again..."
+    # "After a while, you feel like you should chat with Kari again."
     ""
 
 translate schinese Kari_Adventure_e2b9a76f:
@@ -4023,19 +4128,19 @@ translate schinese Kari_Adventure_6468e48d:
     # k "You're lucky that your horn isn't forked."
     k ""
 
-translate schinese Kari_Adventure_e2ea7baa:
+translate schinese Kari_Adventure_e82980cf:
 
-    # e "Yeah... I feel very lucky now haha."
+    # e "Yeah, I feel very lucky now."
     e ""
 
-translate schinese Kari_Adventure_82091822_2:
+translate schinese Kari_Adventure_82091822_1:
 
     # k "..."
     k ""
 
-translate schinese Kari_Adventure_e12b06fe:
+translate schinese Kari_Adventure_bfea543f:
 
-    # e "So... how did you become a general in the tribe?"
+    # e "So, how did you become a general in the tribe?"
     e ""
 
 translate schinese Kari_Adventure_ddbc5ca2_3:
@@ -4053,14 +4158,14 @@ translate schinese Kari_Adventure_bfc8979a:
     # k "Hmm... that I should protect the tribe for him when he's gone."
     k ""
 
-translate schinese Kari_Adventure_47b7e14c:
+translate schinese Kari_Adventure_b49fea37:
 
-    # e "O-oh..."
+    # e "O-oh."
     e ""
 
-translate schinese Kari_Adventure_a0e56ad2:
+translate schinese Kari_Adventure_cea34a4f:
 
-    # k "So... there's that."
+    # k "So, there's that."
     k ""
 
 translate schinese Kari_Adventure_19fae5c5:
@@ -4078,14 +4183,14 @@ translate schinese Kari_Adventure_ddbc5ca2_4:
     # k "W-what?"
     k ""
 
-translate schinese Kari_Adventure_5b71e183:
+translate schinese Kari_Adventure_405ab4d3:
 
-    # e "Do you people believe in any...?"
+    # e "Do you people believe in any?"
     e ""
 
-translate schinese Kari_Adventure_c77c661f:
+translate schinese Kari_Adventure_99b0ab7e:
 
-    # k "We... did. The god of intelligence... Coeshkun. Like any other Tribes."
+    # k "We did. The god of intelligence, Coeshkun. Like any other Tribes."
     k ""
 
 translate schinese Kari_Adventure_aaa657f3:
@@ -4108,9 +4213,9 @@ translate schinese Kari_Adventure_52355c6e:
     # e "Alright, that's... good to know."
     e ""
 
-translate schinese Kari_Adventure_61bd546f:
+translate schinese Kari_Adventure_fd8d5ecc:
 
-    # e "(I should probably stay silent for now...)"
+    # e "(I should probably stay silent for now.)"
     e ""
 
 translate schinese Kari_Adventure_9b5bb3ec:
@@ -4148,9 +4253,9 @@ translate schinese Kari_Adventure_0f16cedf:
     # k "Stay Alert, courier."
     k ""
 
-translate schinese Kari_Adventure_5b25efa0:
+translate schinese Kari_Adventure_1745fa0f:
 
-    # e "I will... Kari."
+    # e "I will, Kari."
     e ""
 
 translate schinese Kari_Adventure_60648222:
@@ -4203,9 +4308,9 @@ translate schinese Furkan_First_Meet_fdb07aee:
     # "You still can't move your head away from the arrow that could have killed you, it makes you at least ignore the fact that someone is aiming their bow at you, ready to release it."
     ""
 
-translate schinese Furkan_First_Meet_365153ea:
+translate schinese Furkan_First_Meet_6a3ed3f2:
 
-    # e "Uh.... Can you put your weapon down...?"
+    # e "Uh, Can you put your weapon down...?"
     e ""
 
 translate schinese Furkan_First_Meet_78a6373e:
@@ -4228,9 +4333,9 @@ translate schinese Furkan_First_Meet_78d17fe4:
     # m "Where are you from."
     m ""
 
-translate schinese Furkan_First_Meet_e90f1cbd:
+translate schinese Furkan_First_Meet_3884f69f:
 
-    # e "I am from Hawkaita... uhhh... I live in Lusterfield now."
+    # e "I am from Hawkaita, uhhh... I live in Lusterfield now."
     e ""
 
 translate schinese Furkan_First_Meet_52f47dca:
@@ -4263,9 +4368,9 @@ translate schinese Furkan_First_Meet_71d491a9:
     # m "You know about the ritual, do you not?"
     m ""
 
-translate schinese Furkan_First_Meet_d3b14e79:
+translate schinese Furkan_First_Meet_84e218a7:
 
-    # e "U-uh...? Look I don't know who you are. Just let me go and you'll not see me here again."
+    # e "U-uh? Look I don't know who you are. Just let me go and you'll not see me here again."
     e ""
 
 translate schinese Furkan_First_Meet_c41fca9d:
@@ -4538,20 +4643,45 @@ translate schinese Furkan_Second_Meet_6aa19a40:
     # e "I don't think he wanted to reconcile..."
     e ""
 
-translate schinese Furkan_Second_Meet_c1ffdbf0:
+translate schinese Furkan_Second_Meet_c9d164ca:
 
-    # f "Really? The battle had been ages, 10 years already, and the old bull still does not think it is enough."
+    # f "Really?"
     f ""
 
-translate schinese Furkan_Second_Meet_1a62867f:
+translate schinese Furkan_Second_Meet_96c0af12:
 
-    # f "It's not just his daughter. My father died too! He always thinks the world revolves around him."
+    # "You notice a sign of frustration in Furkan's voice."
+    ""
+
+translate schinese Furkan_Second_Meet_24695d0b:
+
+    # e "The battle had been ages, 4 years already, and the old bull still does not think it is enough."
+    e ""
+
+translate schinese Furkan_Second_Meet_3830ea84:
+
+    # f "It was not just his daughter. Did he not remember my father was lost to the war?"
+    f ""
+
+translate schinese Furkan_Second_Meet_fb23d394:
+
+    # "The goat chief walks around aimlessly, continuing to whine under his breath."
+    ""
+
+translate schinese Furkan_Second_Meet_6c08076c:
+
+    # f "What was I thinking-"
     f ""
 
 translate schinese Furkan_Second_Meet_7d83fbde:
 
     # f "I should not have tried. Not to have let him embarrass me like that."
     f ""
+
+translate schinese Furkan_Second_Meet_85de611a:
+
+    # "He looks down for a few seconds, before turning to you, expecting a response."
+    ""
 
 translate schinese Furkan_Second_Meet_6b5d9316:
 
@@ -4563,9 +4693,9 @@ translate schinese Furkan_Second_Meet_0cb668ec:
     # f "Of course he does."
     f ""
 
-translate schinese Furkan_Second_Meet_820a569d:
+translate schinese Furkan_Second_Meet_208ddbc9:
 
-    # "Furkan scoffs at you. He takes off before he gets too emotional."
+    # "Furkan scoffs at you, and prepares to take off."
     ""
 
 translate schinese Furkan_Second_Meet_503952ff:
@@ -4573,9 +4703,9 @@ translate schinese Furkan_Second_Meet_503952ff:
     # e "Now that I helped you... can we talk about Ch-"
     e ""
 
-translate schinese Furkan_Second_Meet_35736423:
+translate schinese Furkan_Second_Meet_77171e80:
 
-    # f "I will return to my Tribe now. No reason to stay. Everything stays the same."
+    # f "I will return to my Tribe now. No reason to stay. Everything else stays the same."
     f ""
 
 translate schinese Furkan_Second_Meet_75ab91e4:
@@ -4679,10 +4809,7 @@ translate schinese strings:
     old "Haskell's Hut"
     new ""
 
-    old "the Town"
-    new ""
-
-    old "You might need to do something... here."
+    old "You might need to do something here."
     new ""
 
     old "Stand in place"
@@ -4691,7 +4818,7 @@ translate schinese strings:
     old "Pretend to Faint"
     new ""
 
-    old "You need to say... something."
+    old "You need to say something."
     new ""
 
     old "I don't know anything"

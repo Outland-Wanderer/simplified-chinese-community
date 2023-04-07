@@ -533,9 +533,9 @@ translate schinese Scene_Lothar_Aphrodisiac_Quest_6635528a:
     # "There plant convulses, shaking violently - roots no longer attacking Lothar, instead twitching uselessly against the soil."
     ""
 
-translate schinese Scene_Lothar_Aphrodisiac_Quest_9e850a32:
+translate schinese Scene_Lothar_Aphrodisiac_Quest_e8914531:
 
-    # l "Well done disciple! I would not have attacked the center like that, but… I am proud of you nonetheless!"
+    # l "Well done disciple! I would not have attacked the center like that, but... I am proud of you nonetheless!"
     l ""
 
 translate schinese Scene_Lothar_Aphrodisiac_Quest_e1f27f4b:
@@ -653,9 +653,9 @@ translate schinese Scene_Lothar_Aphrodisiac_Quest_3e88e25a:
     # "As your brain scrambles for a response, you feel a warm nudge on your crotch."
     ""
 
-translate schinese Scene_Lothar_Aphrodisiac_Quest_6c67d337:
+translate schinese Scene_Lothar_Aphrodisiac_Quest_0187ee8a:
 
-    # "Looking down, you realize that you're rock hard, and that…"
+    # "Looking down, you realize that you're rock hard, and that..."
     ""
 
 translate schinese Scene_Lothar_Aphrodisiac_Quest_54079894:
@@ -988,9 +988,9 @@ translate schinese Scene_Lothar_Aphrodisiac_Quest_71f15029:
     # "Seeing you take this rather well only seems to encourage him, as he picks up the pace, and begins to fuck you in earnest."
     ""
 
-translate schinese Scene_Lothar_Aphrodisiac_Quest_df05d502:
+translate schinese Scene_Lothar_Aphrodisiac_Quest_87205e9e:
 
-    # "Lothar's slow, continuous… even considerate fucking from before is gone now."
+    # "Lothar's slow, continuous... even considerate fucking from before is gone now."
     ""
 
 translate schinese Scene_Lothar_Aphrodisiac_Quest_674b9bed:
@@ -1103,9 +1103,9 @@ translate schinese Scene_Lothar_Aphrodisiac_Quest_191dec8d:
     # "A dreadful clarity moves through your brain, ripping loose the veil of lust clouding your thoughts."
     ""
 
-translate schinese Scene_Lothar_Aphrodisiac_Quest_8efee006:
+translate schinese Scene_Lothar_Aphrodisiac_Quest_ddfb0114:
 
-    # "Lothar is looking at you with horror… and maybe a glimmer of pride, hidden deep in the depth of his eyes."
+    # "Lothar is looking at you with horror... and maybe a glimmer of pride, hidden deep in the depth of his eyes."
     ""
 
 translate schinese Scene_Lothar_Aphrodisiac_Quest_2a75aab0:
@@ -1138,14 +1138,14 @@ translate schinese Scene_Lothar_Aphrodisiac_Quest_a98c73e4:
     # "Lothar halts, turning to look at you. His eyes are filled with guilt and disgust."
     ""
 
-translate schinese Scene_Lothar_Aphrodisiac_Quest_b27120c9:
+translate schinese Scene_Lothar_Aphrodisiac_Quest_c32216e0:
 
-    # l "I know. I didn't mean to either. It was the plant. You are still my disciple…"
+    # l "I know. I didn't mean to either. It was the plant. You are still my disciple..."
     l ""
 
-translate schinese Scene_Lothar_Aphrodisiac_Quest_8dd1f5f4:
+translate schinese Scene_Lothar_Aphrodisiac_Quest_13778a04:
 
-    # l "This wouldn't have happened if you hadn't hit the plant there. It is unfortunate that you failed your hero like that, but…"
+    # l "This wouldn't have happened if you hadn't hit the plant there. It is unfortunate that you failed your hero like that, but..."
     l ""
 
 translate schinese Scene_Lothar_Aphrodisiac_Quest_b821ac1b:
@@ -1193,9 +1193,9 @@ translate schinese Scene_Lothar_Aphrodisiac_Quest_ead1d441:
     # "...Did he enjoy it as much as you did?"
     ""
 
-translate schinese Scene_Lothar_Aphrodisiac_Quest_b1fca13b:
+translate schinese Scene_Lothar_Aphrodisiac_Quest_0754678b:
 
-    # "And most importantly… was it really all just the plant's fault?"
+    # "And most importantly... was it really all just the plant's fault?"
     ""
 
 translate schinese Scene_Lothar_Aphrodisiac_Quest_9eb9328b:
@@ -1208,9 +1208,9 @@ translate schinese Scene_Lothar_Aphrodisiac_Quest_740902e8:
     # "Lothar told you not to talk to him about this. It never happened."
     ""
 
-translate schinese Scene_Lothar_Aphrodisiac_Quest_000ef686:
+translate schinese Scene_Lothar_Aphrodisiac_Quest_4d591d1e:
 
-    # "You can still be his disciple, but… can things really be the same after this?"
+    # "You can still be his disciple, but... can things really be the same after this?"
     ""
 
 translate schinese scene_werewolf_win_a98ac92c:
@@ -2813,9 +2813,9 @@ translate schinese Scene_Arthur_NoNo_b0ef8682:
     # "At this point, you see what he means. This is exhilarating. You feel fantastic."
     ""
 
-translate schinese Scene_Arthur_NoNo_c5a7fe10:
+translate schinese Scene_Arthur_NoNo_7c7a1d2c:
 
-    # "You are also… losing control… of your limbs…"
+    # "You are also... losing control... of your limbs..."
     ""
 
 translate schinese Scene_Arthur_NoNo_bd380b3a:
@@ -2868,9 +2868,9 @@ translate schinese Scene_Arthur_NoNo_a6293a96:
     # "With every pump in, Arty fits his entire cock inside of you, down past the knot, and pulls it right out, only to repeat that again within less than a second."
     ""
 
-translate schinese Scene_Arthur_NoNo_659d31fd:
+translate schinese Scene_Arthur_NoNo_570c7def:
 
-    # "In less than a minute of this, you cum onto the hay bale once again, the combined feeling of fullness, pain, and… pleasure at being a useful bitch for Arty pushing you past the edge."
+    # "In less than a minute of this, you cum onto the hay bale once again, the combined feeling of fullness, pain, and... pleasure at being a useful bitch for Arty pushing you past the edge."
     ""
 
 translate schinese Scene_Arthur_NoNo_e1e3d006:
@@ -3103,9 +3103,9 @@ translate schinese Scene_Arthur_Yes_afcde003:
     # e "Sorry, sir, breeding just, isn't for me."
     e ""
 
-translate schinese Scene_Arthur_Yes_96546de3:
+translate schinese Scene_Arthur_Yes_c8c75506:
 
-    # e "I still want nothing more than to be fucked by you, sir… is that okay?"
+    # e "I still want nothing more than to be fucked by you, sir... is that okay?"
     e ""
 
 translate schinese Scene_Arthur_Yes_84e183e5:
@@ -3138,9 +3138,9 @@ translate schinese Scene_Arthur_Yes_37078672:
     # "Arty is pushing you forwards gently. You can feel his cock poking greedily at your entrance along the way, coating it with pre."
     ""
 
-translate schinese Scene_Arthur_Yes_c279c583:
+translate schinese Scene_Arthur_Yes_490b9f6c:
 
-    # e "I, umm… I'll do my best, master, but I can't promise that I'll…."
+    # e "I, umm... I'll do my best, master, but I can't promise that I'll...."
     e ""
 
 translate schinese Scene_Arthur_Yes_bde8fe1f:
@@ -3298,9 +3298,9 @@ translate schinese Scene_Arthur_Yes_56e44179:
     # "Of course, now that you've admitted it, Arty starts to tease you, pulling away just a little so only his snout and bulge are touching you."
     ""
 
-translate schinese Scene_Arthur_Yes_1f7fcaaf:
+translate schinese Scene_Arthur_Yes_a94b7d74:
 
-    # ar "I've fathered a lot of litters in my day… are you sure you want one?"
+    # ar "I've fathered a lot of litters in my day... are you sure you want one?"
     ar ""
 
 translate schinese Scene_Arthur_Yes_54a12dfe:
@@ -3608,9 +3608,9 @@ translate schinese Scene_Arthur_Yes_de855460:
     # e "I'm much the same, master."
     e ""
 
-translate schinese Scene_Arthur_Yes_ccd3ca4d:
+translate schinese Scene_Arthur_Yes_b23c6593:
 
-    # e "I'm glad to have served you well…"
+    # e "I'm glad to have served you well..."
     e ""
 
 translate schinese Scene_Arthur_Yes_73ed649b:
@@ -3788,9 +3788,9 @@ translate schinese Scene_Hefty_Slime_Lose_b4d71850:
     # "The sensation becomes stronger, your toes curl when the goop swells and thickens, stretching your hole wider and wider."
     ""
 
-translate schinese Scene_Hefty_Slime_Lose_bf8e2bf5:
+translate schinese Scene_Hefty_Slime_Lose_363081fd:
 
-    # "You cannot believe whatever is happening to your body, surely you didn't react to the slime monster's aggression with a firm and throbbing cock… But, you did."
+    # "You cannot believe whatever is happening to your body, surely you didn't react to the slime monster's aggression with a firm and throbbing cock... But, you did."
     ""
 
 translate schinese Scene_Hefty_Slime_Lose_ab117464:
@@ -3833,9 +3833,9 @@ translate schinese Scene_Hefty_Slime_Lose_77d90778:
     # "The texture is soft, and unlike any other creature before, it drenches the wall of your inside, leaving behind evidence of its intrusion everytime it thrusts into you."
     ""
 
-translate schinese Scene_Hefty_Slime_Lose_aedd0bff:
+translate schinese Scene_Hefty_Slime_Lose_f6c7da02:
 
-    # e "A-ah…"
+    # e "A-ah..."
     e ""
 
 translate schinese Scene_Hefty_Slime_Lose_66eaf280:
@@ -4003,9 +4003,9 @@ translate schinese Scene_Hefty_Slime_Lose_09ed8905:
     # "And it doesn't help that the thick goop from the slime has been injected fully inside of you."
     ""
 
-translate schinese Scene_Hefty_Slime_Lose_26f5a7a5:
+translate schinese Scene_Hefty_Slime_Lose_09c69e9a:
 
-    # "Your holes feel empty… something tells you that they need to be constantly filled."
+    # "Your holes feel empty... something tells you that they need to be constantly filled."
     ""
 
 translate schinese Scene_Hefty_Slime_Lose_882a563a:
@@ -4013,9 +4013,9 @@ translate schinese Scene_Hefty_Slime_Lose_882a563a:
     # "It's only when you eventually look up, you see the slime monster sucking off the remaining of your cum from the grass, before slithering away from your limp form."
     ""
 
-translate schinese Scene_Hefty_Slime_Lose_d78fdf1b:
+translate schinese Scene_Hefty_Slime_Lose_ef2e2ed2:
 
-    # "The monster is finally gone, you rest on the grass blissfully, reflecting on what happened... that was… some of the wildest encounters you've had."
+    # "The monster is finally gone, you rest on the grass blissfully, reflecting on what happened... that was... some of the wildest encounters you've had."
     ""
 
 translate schinese Scene_Hefty_Slime_Lose_e6375632:

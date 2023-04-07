@@ -668,9 +668,9 @@ translate schinese goatranger_battle_loop_3f05fc52:
     # "You slash your [pc.weapon.name!t] at the arm of the goat, knocking him on the ground. He growls at you before getting up, albeit disheveled."
     ""
 
-translate schinese goatranger_battle_loop_f0148189:
+translate schinese goatranger_battle_loop_214f9883:
 
-    # "You slam your [pc.weapon.name!t] at the goat's head, your blade grazes through the goat's stomach. Drops of blood drips through his body."
+    # "You slam your [pc.weapon.name!t] at the goat's abdomen, your blade grazes through his stomach. Drops of blood drips through his body."
     ""
 
 translate schinese goatranger_battle_loop_b0ba93ae:
@@ -1611,11 +1611,6 @@ translate schinese nosferat_win_91f1d522:
 translate schinese nosferat_lose_7054c859:
 
     # "You fell on the ground, the nosferat slowly jogs towards you.."
-    ""
-
-translate schinese nosferat_lose_1d00e88b:
-
-    # "There's no strength left inside you to struggle against his grasp, you lose consciousness soon after."
     ""
 
 translate schinese nosferat_lose_4ba96869:

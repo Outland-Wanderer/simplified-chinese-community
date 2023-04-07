@@ -573,9 +573,9 @@ translate schinese Cane_Favour_For_Ya_8fd5d770:
     # c "I been thinkin' on it."
     c ""
 
-translate schinese Cane_Favour_For_Ya_639a0d66:
+translate schinese Cane_Favour_For_Ya_ad9f1ae3:
 
-    # c "I just… dunno what I could give ya that would be worth as much a' what ye do fer this tavern and I."
+    # c "I just... dunno what I could give ya that would be worth as much a' what ye do fer this tavern and I."
     c ""
 
 translate schinese Cane_Favour_For_Ya_e7a9a473:
@@ -583,14 +583,14 @@ translate schinese Cane_Favour_For_Ya_e7a9a473:
     # "Letting out a monumental sigh, Cane puts away the mug and towel, before spreading his arms out on the table."
     ""
 
-translate schinese Cane_Favour_For_Ya_2fd3fa98:
+translate schinese Cane_Favour_For_Ya_80f12868:
 
-    # c "Still can't think o' nothin'. So… what'cha want me to do fer ya. Promise I'll do it fer ya if it's reasonable." nointeract
+    # c "Still can't think o' nothin'. So... what'cha want me to do fer ya. Promise I'll do it fer ya if it's reasonable." nointeract
     c "" nointeract
 
-translate schinese Cane_Favour_For_Ya_e018790e:
+translate schinese Cane_Favour_For_Ya_dd2347e3:
 
-    # e "Well… I could use some extra cash, on top of what I usually make serving the patrons."
+    # e "Well... I could use some extra cash, on top of what I usually make serving the patrons."
     e ""
 
 translate schinese Cane_Favour_For_Ya_9f151ab1:
@@ -668,9 +668,9 @@ translate schinese Cane_Favour_For_Ya_Sex_1f786c17:
     # "You shift uncomfortably, face cherry red just thinking about what you're going to suggest."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_abcc32ac:
+translate schinese Cane_Favour_For_Ya_Sex_7c52b7da:
 
-    # e "Well… I was wondering if maybe you could…"
+    # e "Well... I was wondering if maybe you could..."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_0ff71929:
@@ -698,9 +698,9 @@ translate schinese Cane_Favour_For_Ya_Sex_f97078ea:
     # "He's not looking you, his eyes instead focused on the mug he left to his right."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_5ad2247b:
+translate schinese Cane_Favour_For_Ya_Sex_a150956e:
 
-    # e "That's not what I mean Cane… I'd really like to spend a night with you."
+    # e "That's not what I mean Cane... I'd really like to spend a night with you."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_d1b565c9:
@@ -713,9 +713,9 @@ translate schinese Cane_Favour_For_Ya_Sex_5c54e659:
     # "Cane is pausing, as if considering his words."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_993b1357:
+translate schinese Cane_Favour_For_Ya_Sex_e3726f39:
 
-    # c "I… don't think that'd be a good idea."
+    # c "I... don't think that'd be a good idea."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_18e367f0:
@@ -723,9 +723,9 @@ translate schinese Cane_Favour_For_Ya_Sex_18e367f0:
     # "It's his turn to shift uncomfortably now."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_8f9b60b3:
+translate schinese Cane_Favour_For_Ya_Sex_582130d7:
 
-    # c "Ye… yer a cute lad, yes. I think anyone'd be lucky ta bed ya, but… I shouldn't."
+    # c "Ye... yer a cute lad, yes. I think anyone'd be lucky ta bed ya, but... I shouldn't."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_5aab13c7:
@@ -748,9 +748,9 @@ translate schinese Cane_Favour_For_Ya_Sex_f91704bd:
     # "His accent only seems to be growing stronger in his panic."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_eb4f79f1:
+translate schinese Cane_Favour_For_Ya_Sex_d5c7bd07:
 
-    # e "Well…"
+    # e "Well..."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_e3fd698d:
@@ -778,9 +778,9 @@ translate schinese Cane_Favour_For_Ya_Sex_fb5f63b4:
     # "He looks so conflicted, two parts of himself warring over his face, desire and guilt meeting each other failing to resolve."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_c09018ff:
+translate schinese Cane_Favour_For_Ya_Sex_53dd0207:
 
-    # e "It doesn't have to be sex…? I'm happy just jacking off together."
+    # e "It doesn't have to be sex...? I'm happy just jacking off together."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_fd6e14c5:
@@ -908,9 +908,9 @@ translate schinese Cane_Favour_For_Ya_Sex_834a09bd:
     # "Cane sighs."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_2bb2db3e:
+translate schinese Cane_Favour_For_Ya_Sex_5b46a8ba:
 
-    # c "Well… can't say I don't find the idea excitin'."
+    # c "Well... can't say I don't find the idea excitin'."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_a0669d38:
@@ -1113,9 +1113,9 @@ translate schinese Cane_Favour_For_Ya_Sex_fa43b4d3:
     # c "As long as ye want, of course."
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_fc615d8d:
+translate schinese Cane_Favour_For_Ya_Sex_df3d4eba:
 
-    # e "I, umm… yeah, I'd like that."
+    # e "I, umm... yeah, I'd like that."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_57fc2d92:
@@ -1218,9 +1218,9 @@ translate schinese Cane_Favour_For_Ya_Sex_65ddd38b:
     # "And oh boy is there is a lot to take in."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_c8a70976:
+translate schinese Cane_Favour_For_Ya_Sex_1391be39:
 
-    # "From his strong, plump gut, to his powerful pecs, to arms that look like they could pick up three of you…"
+    # "From his strong, plump gut, to his powerful pecs, to arms that look like they could pick up three of you..."
     ""
 
 translate schinese Cane_Favour_For_Ya_Sex_e809a13f:
@@ -1258,9 +1258,9 @@ translate schinese Cane_Favour_For_Ya_Sex_176c7d5b:
     # c "Now, I wanna see my cute lad under there."
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_0de312d3:
+translate schinese Cane_Favour_For_Ya_Sex_bee5db33:
 
-    # c "'s not like I haven't seen it before, but…"
+    # c "'s not like I haven't seen it before, but..."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_08be44bb:
@@ -1333,9 +1333,9 @@ translate schinese Cane_Favour_For_Ya_Sex_bb030ebe:
     # "Feeling you jolt in reaction, he suckles on it lightly, getting an even larger reaction out of you as you melt under his ministrations."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_bf2dd4cc:
+translate schinese Cane_Favour_For_Ya_Sex_ec338727:
 
-    # e "F-fuck… Cane…"
+    # e "F-fuck... Cane..."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_d57147ec:
@@ -1358,9 +1358,9 @@ translate schinese Cane_Favour_For_Ya_Sex_41db7adb:
     # c "Do ye want me to stop, lad?"
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_0193a4c6:
+translate schinese Cane_Favour_For_Ya_Sex_2e72ed32:
 
-    # e "Yes please. It felt great, but…"
+    # e "Yes please. It felt great, but..."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_90ca39ba:
@@ -1458,9 +1458,9 @@ translate schinese Cane_Favour_For_Ya_Sex_79abec0a:
     # "As it is, he just looks greedy and lustful."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_26ad2090:
+translate schinese Cane_Favour_For_Ya_Sex_8ef99567:
 
-    # e "Yes… it's a lot to take in."
+    # e "Yes... it's a lot to take in."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_d5cf8795:
@@ -1473,9 +1473,9 @@ translate schinese Cane_Favour_For_Ya_Sex_305cb639:
     # c "Well, it's a good thing yer not takin' it in today."
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_432fcad9:
+translate schinese Cane_Favour_For_Ya_Sex_95dde343:
 
-    # c "Now…"
+    # c "Now..."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_99803e04:
@@ -1508,9 +1508,9 @@ translate schinese Cane_Favour_For_Ya_Sex_85046340:
     # "Before figuring it out, he chuckles lightly."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_b3c420bf:
+translate schinese Cane_Favour_For_Ya_Sex_66ade371:
 
-    # c "I was thinkin' of gettin' the lube out fer this, but…"
+    # c "I was thinkin' of gettin' the lube out fer this, but..."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_fb466a75:
@@ -1533,9 +1533,9 @@ translate schinese Cane_Favour_For_Ya_Sex_a9cffe3b:
     # "With that, he returns to your cock, gently grasping it, and rubbing his thumb over the tip."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_7a6d0d1d:
+translate schinese Cane_Favour_For_Ya_Sex_839e0660:
 
-    # e "Mmmf…"
+    # e "Mmmf..."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_afd59594:
@@ -1543,9 +1543,9 @@ translate schinese Cane_Favour_For_Ya_Sex_afd59594:
     # "Although the webbing between his fingers is leathery, they completely wrap your cock up in his grasp, firmly cocooning your cock like a fleshlight."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_e0c49b2f:
+translate schinese Cane_Favour_For_Ya_Sex_f94eaf08:
 
-    # e "Can I… can I play with yours?"
+    # e "Can I... can I play with yours?"
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_59065252:
@@ -1578,9 +1578,9 @@ translate schinese Cane_Favour_For_Ya_Sex_d71a714c:
     # "Finally working up the nerve, you grab it."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_713376d9:
+translate schinese Cane_Favour_For_Ya_Sex_fbb29c25:
 
-    # "Fuck… you can feel it throb in your hands in response. It's warm, too thick to fully wrap your hand around, and slick with pre."
+    # "Fuck... you can feel it throb in your hands in response. It's warm, too thick to fully wrap your hand around, and slick with pre."
     ""
 
 translate schinese Cane_Favour_For_Ya_Sex_7bade320:
@@ -1598,9 +1598,9 @@ translate schinese Cane_Favour_For_Ya_Sex_39cdc8b0:
     # c "Oof... Good lad."
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_a6aa6fbe:
+translate schinese Cane_Favour_For_Ya_Sex_7800bf32:
 
-    # c "Here, let me just…"
+    # c "Here, let me just..."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_d5bc7c87:
@@ -1618,9 +1618,9 @@ translate schinese Cane_Favour_For_Ya_Sex_0cd836cc:
     # "It feels most similar to when you had the slime jack you off - the sensation of having your cock completely enveloped by a hungry form."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_979ede52:
+translate schinese Cane_Favour_For_Ya_Sex_46cd59ce:
 
-    # c "Hrmm… I'm glad ye like that, lad."
+    # c "Hrmm... I'm glad ye like that, lad."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_cf5a0db6:
@@ -1698,14 +1698,14 @@ translate schinese Cane_Favour_For_Ya_Sex_9651651e:
     # "...Looking more closely, it's very much like he is imagining actually fucking you, rather than just jacking each other off."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_798ca8fe:
+translate schinese Cane_Favour_For_Ya_Sex_3d37bd68:
 
-    # "His eyes are closed, his mouth slightly open as if to bite a neck in front of him… even his hand is jerking you off in time with his thrusts."
+    # "His eyes are closed, his mouth slightly open as if to bite a neck in front of him... even his hand is jerking you off in time with his thrusts."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_1d07734c:
+translate schinese Cane_Favour_For_Ya_Sex_fc2da3e4:
 
-    # e "Fuck, Cane…"
+    # e "Fuck, Cane..."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_435c9b8b:
@@ -1873,9 +1873,9 @@ translate schinese Cane_Favour_For_Ya_Sex_2050a73f:
     # "Although he looks tempted, he still hesitates to agree with you."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_fd7a965d:
+translate schinese Cane_Favour_For_Ya_Sex_3a548843:
 
-    # c "I'm glad, lad, but…"
+    # c "I'm glad, lad, but..."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_db839998:
@@ -1883,9 +1883,9 @@ translate schinese Cane_Favour_For_Ya_Sex_db839998:
     # c "I lost control of myself."
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_ffa205a0:
+translate schinese Cane_Favour_For_Ya_Sex_02eb5b70:
 
-    # c "I told myself I wouldn't let things go this far, that I wouldn't make the same mistakes I made with Topu, and yet… here we are."
+    # c "I told myself I wouldn't let things go this far, that I wouldn't make the same mistakes I made with Topu, and yet... here we are."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_5414d122:
@@ -1893,9 +1893,9 @@ translate schinese Cane_Favour_For_Ya_Sex_5414d122:
     # "Taking a moment, you remember that Topu was the original owner of your apron - the one that disappeared."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_b3e70b4f:
+translate schinese Cane_Favour_For_Ya_Sex_4d968467:
 
-    # e "Well, yeah, we took things a little fast, but… that doesn't mean the same stuff is going to happen again."
+    # e "Well, yeah, we took things a little fast, but... that doesn't mean the same stuff is going to happen again."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_2a7aae49:
@@ -1903,9 +1903,9 @@ translate schinese Cane_Favour_For_Ya_Sex_2a7aae49:
     # "Cane briefly looks lost for words."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_9fedf3de:
+translate schinese Cane_Favour_For_Ya_Sex_14f33b2e:
 
-    # c "Maybe, but… yer too fine a lad ta risk havin' that happen to just fer some sex."
+    # c "Maybe, but... yer too fine a lad ta risk havin' that happen to just fer some sex."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_f2c73700:
@@ -1928,14 +1928,14 @@ translate schinese Cane_Favour_For_Ya_Sex_4ad5ea49:
     # "Silence lays between you for a bit. Neither of you know what to say now."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_ffdfde47:
+translate schinese Cane_Favour_For_Ya_Sex_6b655dfa:
 
-    # "You both just… sit there, cocks softening, and precum drying on your fur."
+    # "You both just... sit there, cocks softening, and precum drying on your fur."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_8eb94ce2:
+translate schinese Cane_Favour_For_Ya_Sex_b211eb9e:
 
-    # e "Well… even if you don't trust yourself, I trust you."
+    # e "Well... even if you don't trust yourself, I trust you."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_2cbe9665:
@@ -1943,9 +1943,9 @@ translate schinese Cane_Favour_For_Ya_Sex_2cbe9665:
     # "Cane pulls his gaze away from the floor, eyes instead turned to you with a lost look you'd never thought you'd see on his face."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_0d8fb344:
+translate schinese Cane_Favour_For_Ya_Sex_f83a23ca:
 
-    # "It… hurts to look at."
+    # "It... hurts to look at."
     ""
 
 translate schinese Cane_Favour_For_Ya_Sex_5216c88c:
@@ -1998,9 +1998,9 @@ translate schinese Cane_Favour_For_Ya_Sex_235334cf:
     # "You can sort of see where he's coming from, though you think he also might be worrying a bit too much."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_e887aeaa:
+translate schinese Cane_Favour_For_Ya_Sex_cdabbf64:
 
-    # e "Well… if you could do stuff like this without going too far, would you want to…?"
+    # e "Well... if you could do stuff like this without going too far, would you want to...?"
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_b3c748bf:
@@ -2008,9 +2008,9 @@ translate schinese Cane_Favour_For_Ya_Sex_b3c748bf:
     # "Cane heaves a deeply conflicted sigh."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_02213223:
+translate schinese Cane_Favour_For_Ya_Sex_450c2da2:
 
-    # c "I'm not sure lad. I know it would feel amazin', and I very much want ta in that sense, but…"
+    # c "I'm not sure lad. I know it would feel amazin', and I very much want ta in that sense, but..."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_658b1187:
@@ -2018,9 +2018,9 @@ translate schinese Cane_Favour_For_Ya_Sex_658b1187:
     # c "Even then I'm not too sure if I could be trusted with ya. I'd need some time ta think about it."
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_9e712cad:
+translate schinese Cane_Favour_For_Ya_Sex_58c896dc:
 
-    # e "I think I might have something we could try out…?"
+    # e "I think I might have something we could try out...?"
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_14100ba1:
@@ -2073,9 +2073,9 @@ translate schinese Cane_Favour_For_Ya_Sex_cf7eb836:
     # "Right as you're about to celebrate, Cane lifts a finger in warning."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_4d6edb55:
+translate schinese Cane_Favour_For_Ya_Sex_43ee923d:
 
-    # c "This might be unfair, but… if things go too far, we're definitely never doin' somethin' like this again, okay?"
+    # c "This might be unfair, but... if things go too far, we're definitely never doin' somethin' like this again, okay?"
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_eaaa5867:
@@ -2093,9 +2093,9 @@ translate schinese Cane_Favour_For_Ya_Sex_2c3c765d:
     # "Cane gives you a slow nod."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_131bf38c:
+translate schinese Cane_Favour_For_Ya_Sex_107e91de:
 
-    # c "Alright, well… ya got any things ya want as limits?"
+    # c "Alright, well... ya got any things ya want as limits?"
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_f1e03a14:
@@ -2128,9 +2128,9 @@ translate schinese Cane_Favour_For_Ya_Sex_92f4018d:
     # e "And what about you? What are your limits?"
     e ""
 
-translate schinese Cane_Favour_For_Ya_Sex_051657d8:
+translate schinese Cane_Favour_For_Ya_Sex_c9465469:
 
-    # c "Hrmm…"
+    # c "Hrmm..."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_dc0e3866:
@@ -2143,9 +2143,9 @@ translate schinese Cane_Favour_For_Ya_Sex_0f90d4c5:
     # c "I think I'm okay with most'a the things ye can do with yer hands. I just don't want to get on top of ya, or be anywhere near yer mouth or ass."
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_b0cfaca1:
+translate schinese Cane_Favour_For_Ya_Sex_a477aab4:
 
-    # "Mostly what you expected, but…"
+    # "Mostly what you expected, but..."
     ""
 
 translate schinese Cane_Favour_For_Ya_Sex_4fd1cf8a:
@@ -2193,9 +2193,9 @@ translate schinese Cane_Favour_For_Ya_Sex_c070dba0:
     # e "Fine, fine. I'm happy with those conditions."
     e ""
 
-translate schinese Cane_Favour_For_Ya_Sex_db5c745c:
+translate schinese Cane_Favour_For_Ya_Sex_5b9b8e89:
 
-    # e "...Are a few spare licks here and there acceptable? It's fine if not, but I'd… really like to."
+    # e "...Are a few spare licks here and there acceptable? It's fine if not, but I'd... really like to."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_c916a8da:
@@ -2228,9 +2228,9 @@ translate schinese Cane_Favour_For_Ya_Sex_8075370c:
     # "Cane heaves out a long breath, before returning to stroking himself slowly."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_b8e734ec:
+translate schinese Cane_Favour_For_Ya_Sex_42ceb329:
 
-    # c "Alright lad, well… this is still yer reward from earlier, so ya get ta choose what ya want ta do within my limits."
+    # c "Alright lad, well... this is still yer reward from earlier, so ya get ta choose what ya want ta do within my limits."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_eb1d0812:
@@ -2238,9 +2238,9 @@ translate schinese Cane_Favour_For_Ya_Sex_eb1d0812:
     # "A naughty idea crosses your mind, a way to get some of what you want without breaking his limits."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_7d1cd316:
+translate schinese Cane_Favour_For_Ya_Sex_9189a16a:
 
-    # e "I wanna have you right there, and jack both of us off with my head right there to get a good look, smell… and if you let me, taste."
+    # e "I wanna have you right there, and jack both of us off with my head right there to get a good look, smell... and if you let me, taste."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_979a2510:
@@ -2318,9 +2318,9 @@ translate schinese Cane_Favour_For_Ya_Sex_7ebaed96:
     # "Can't let him get away with that without some revenge."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_f978e841:
+translate schinese Cane_Favour_For_Ya_Sex_917666a0:
 
-    # e "The view from here is great too… maybe I should show you something similar sometime."
+    # e "The view from here is great too... maybe I should show you something similar sometime."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_2d94ba30:
@@ -2338,9 +2338,9 @@ translate schinese Cane_Favour_For_Ya_Sex_261ba73f:
     # c "Hah! Good one lad."
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_6a83dda2:
+translate schinese Cane_Favour_For_Ya_Sex_4c046b7d:
 
-    # c "Maybe ya will, but… I think we know what ya prefer."
+    # c "Maybe ya will, but... I think we know what ya prefer."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_8381bc89:
@@ -2418,9 +2418,9 @@ translate schinese Cane_Favour_For_Ya_Sex_1ae96a2f:
     # "In response to his gentle ribbing, you gently slide his foreskin off of his tip, and press your snout closer so that your breath teases against his skin."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_0fc7f1dd:
+translate schinese Cane_Favour_For_Ya_Sex_abe445f9:
 
-    # c "F-fuck… got it lad, ye can tease too."
+    # c "F-fuck... got it lad, ye can tease too."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_3275d254:
@@ -2648,9 +2648,9 @@ translate schinese Cane_Favour_For_Ya_Sex_e456aae0:
     # "Well, at least he's still calling you cute. Even if the way he says it isn't filled with as much affection as it was before you sucked him off."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_8221ab9a:
+translate schinese Cane_Favour_For_Ya_Sex_71dfcb6a:
 
-    # e "...Are you mad at me…?"
+    # e "...Are you mad at me...?"
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_7c893ae7:
@@ -2753,9 +2753,9 @@ translate schinese Cane_Favour_For_Ya_Sex_18092595:
     # c "We agreed on the terms, and we couldn' keep 'em."
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_27d05065:
+translate schinese Cane_Favour_For_Ya_Sex_484d2508:
 
-    # c "Please, just… no more. I'll keep teasin' you in front of patrons to keep up appearances, but that's as far as we'll go."
+    # c "Please, just... no more. I'll keep teasin' you in front of patrons to keep up appearances, but that's as far as we'll go."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_94004a03:
@@ -2788,9 +2788,9 @@ translate schinese Cane_Favour_For_Ya_Sex_69985bbe:
     # "There's only silence in the room, neither of you are willing to break it."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_8454fb4b:
+translate schinese Cane_Favour_For_Ya_Sex_2441b788:
 
-    # "You leave the room before Cane can catch you crying, but… you're pretty sure he knows."
+    # "You leave the room before Cane can catch you crying, but... you're pretty sure he knows."
     ""
 
 translate schinese Cane_Favour_For_Ya_Sex_bdf6a4e5:
@@ -2823,9 +2823,9 @@ translate schinese Cane_Favour_For_Ya_Sex_d0e05f0a:
     # "When you open it on the way there, you see a small note on it."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_909c7835:
+translate schinese Cane_Favour_For_Ya_Sex_e39a5b90:
 
-    # c "I'm sorry for what happened. You're always welcome in the tavern, but… I'll do whatever I need to to keep what happened to Topu from happening to you."
+    # c "I'm sorry for what happened. You're always welcome in the tavern, but... I'll do whatever I need to to keep what happened to Topu from happening to you."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_5ddb996a:
@@ -2833,9 +2833,9 @@ translate schinese Cane_Favour_For_Ya_Sex_5ddb996a:
     # "Maybe it would be good to spend the day at home - give yourselves more time to shore up and act like everything is okay."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_a359192d:
+translate schinese Cane_Favour_For_Ya_Sex_0786d45f:
 
-    # e "So, Cane…"
+    # e "So, Cane..."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_acff6b2d:
@@ -2903,14 +2903,14 @@ translate schinese Cane_Favour_For_Ya_Sex_d20ee04b:
     # "To make sure that doesn't happen, you make sure to savor it."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_31e4aec3:
+translate schinese Cane_Favour_For_Ya_Sex_50d1da30:
 
-    # "The first lick was just to test… slowly, you work your way up the shaft, gradually working towards the shaft."
+    # "The first lick was just to test... slowly, you work your way up the shaft, gradually working towards the shaft."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_06c69222:
+translate schinese Cane_Favour_For_Ya_Sex_dbf7a3ee:
 
-    # c "Mmmh, just like that, lad…"
+    # c "Mmmh, just like that, lad..."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_e3b33432:
@@ -2918,9 +2918,9 @@ translate schinese Cane_Favour_For_Ya_Sex_e3b33432:
     # "You feel him gently massage the back of your head with his fingers."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_b9a4cfd1:
+translate schinese Cane_Favour_For_Ya_Sex_b1d91c63:
 
-    # c "'s nice… makes me wanna make this last a while."
+    # c "'s nice... makes me wanna make this last a while."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_07195247:
@@ -2948,9 +2948,9 @@ translate schinese Cane_Favour_For_Ya_Sex_c7668c43:
     # "He continues looking down at you, watching you carefully lap up his pre with your tongue, never quite reaching for his tip, for fear that it'll mean you've run out."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_bffb2026:
+translate schinese Cane_Favour_For_Ya_Sex_d62ab237:
 
-    # c "Hrmmmm… lad?"
+    # c "Hrmmmm... lad?"
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_5217b353:
@@ -2963,14 +2963,14 @@ translate schinese Cane_Favour_For_Ya_Sex_832a1523:
     # "He seems to be blushing?"
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_5c912e62:
+translate schinese Cane_Favour_For_Ya_Sex_0ece740c:
 
-    # c "Ye can kiss it if ye'd like. Still no maw, but… should be alright ta feel yer lips at least a little."
+    # c "Ye can kiss it if ye'd like. Still no maw, but... should be alright ta feel yer lips at least a little."
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_d6a61374:
+translate schinese Cane_Favour_For_Ya_Sex_f4dcb4c1:
 
-    # "You're not going to say no to that, but… it might be good to check."
+    # "You're not going to say no to that, but... it might be good to check."
     ""
 
 translate schinese Cane_Favour_For_Ya_Sex_f5bdc5f1:
@@ -2983,9 +2983,9 @@ translate schinese Cane_Favour_For_Ya_Sex_cc9bd9a6:
     # "Cane scratches his belly, looking a bit embarrassed."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_3dcfd514:
+translate schinese Cane_Favour_For_Ya_Sex_d586368e:
 
-    # c "'s fine. It doesn't break 'em… just bends 'em to our advantage a bit."
+    # c "'s fine. It doesn't break 'em... just bends 'em to our advantage a bit."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_f9c2ab76:
@@ -3303,9 +3303,9 @@ translate schinese Cane_Favour_For_Ya_Sex_1e12e866:
     # "As you get closer to his face, you see him lean forward slightly, silently asking you for a kiss."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_36f1ed9d:
+translate schinese Cane_Favour_For_Ya_Sex_633b7f20:
 
-    # "As much as you want one…"
+    # "As much as you want one..."
     ""
 
 translate schinese Cane_Favour_For_Ya_Sex_3335cf99:
@@ -3353,9 +3353,9 @@ translate schinese Cane_Favour_For_Ya_Sex_e1505b77:
     # c "I'm gonna to have to think on that, lad."
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_a2467e78:
+translate schinese Cane_Favour_For_Ya_Sex_7e6527e1:
 
-    # "You can't help but feel a bit… disappointed, a feeling you're quickly snapped out of as you feel Cane's finger brush across the top of your snout."
+    # "You can't help but feel a bit... disappointed, a feeling you're quickly snapped out of as you feel Cane's finger brush across the top of your snout."
     ""
 
 translate schinese Cane_Favour_For_Ya_Sex_0d140dcb:
@@ -3373,9 +3373,9 @@ translate schinese Cane_Favour_For_Ya_Sex_c3fa69b7:
     # "Despite that, he nudges his finger towards your mouth - you oblige, gently sucking his cum off of it, rich taste once more flooding your mind."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_5f9fff4f:
+translate schinese Cane_Favour_For_Ya_Sex_d7c40df9:
 
-    # c "Fer now, all I can say is that ya did great… I might not mind doin' somethin' like this again sometime."
+    # c "Fer now, all I can say is that ya did great... I might not mind doin' somethin' like this again sometime."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_a2eca09a:
@@ -3408,9 +3408,9 @@ translate schinese Cane_Favour_For_Ya_Sex_0e2553f9:
     # c "That was great, lad. If it weren't fer my reservations from earlier, I'd be askin' ya what nights yer free ta do more of this."
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_242eb85f:
+translate schinese Cane_Favour_For_Ya_Sex_9da24803:
 
-    # "It's nice to bask under his praise like this…"
+    # "It's nice to bask under his praise like this..."
     ""
 
 translate schinese Cane_Favour_For_Ya_Sex_e187e276:
@@ -3463,9 +3463,9 @@ translate schinese Cane_Favour_For_Ya_Sex_5895a0f7:
     # "You grumble louder, so your voice is actually heard this time."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_11592689:
+translate schinese Cane_Favour_For_Ya_Sex_2cfce06c:
 
-    # e "Okay… is there nothing more we can do until then?"
+    # e "Okay... is there nothing more we can do until then?"
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_ac059e67:
@@ -3528,9 +3528,9 @@ translate schinese Cane_Favour_For_Ya_Sex_246e11d3:
     # c "Gotta make sure my lad is nice'n clean fer work, don' I?"
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_c876deb8:
+translate schinese Cane_Favour_For_Ya_Sex_284aaab4:
 
-    # "Mmmmmmhm… Whatever… you…… say."
+    # "Mmmmmmhm... Whatever... you...... say."
     ""
 
 translate schinese Cane_Favour_For_Ya_Sex_e023657a:
@@ -3553,9 +3553,9 @@ translate schinese Cane_Favour_For_Ya_Sex_175a2a59:
     # "Cane's entire body radiated heat like a furnace, since its fur couldn't count on retaining it for him."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_1e6bfb38:
+translate schinese Cane_Favour_For_Ya_Sex_f79823db:
 
-    # "That'd normally make you feel uncomfortable, but… it feels like being in front of a happy hearth with a loved one."
+    # "That'd normally make you feel uncomfortable, but... it feels like being in front of a happy hearth with a loved one."
     ""
 
 translate schinese Cane_Favour_For_Ya_Sex_753ce6e3:
@@ -3603,9 +3603,9 @@ translate schinese Cane_Favour_For_Ya_Sex_6bb8cb5e:
     # c "Surprisin', given how much ya sleep around."
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_58eb6023:
+translate schinese Cane_Favour_For_Ya_Sex_9e9a570f:
 
-    # "You flush red. He's… not wrong."
+    # "You flush red. He's... not wrong."
     ""
 
 translate schinese Cane_Favour_For_Ya_Sex_eb3f0a66:
@@ -3618,9 +3618,9 @@ translate schinese Cane_Favour_For_Ya_Sex_c0f32143:
     # e "Is it opening time?"
     e ""
 
-translate schinese Cane_Favour_For_Ya_Sex_6dabf339:
+translate schinese Cane_Favour_For_Ya_Sex_58536e3d:
 
-    # "Looking out the window, the sun is fully up…"
+    # "Looking out the window, the sun is fully up..."
     ""
 
 translate schinese Cane_Favour_For_Ya_Sex_5bd524c8:
@@ -3643,19 +3643,19 @@ translate schinese Cane_Favour_For_Ya_Sex_ab2c84cc:
     # "Cane throws you a playful wink before shaking his head."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_ca8bce58:
+translate schinese Cane_Favour_For_Ya_Sex_a0a8b712:
 
-    # c "Not really, it's just that I haven't taken a day off in what feels like months, so… I decided it might be nice."
+    # c "Not really, it's just that I haven't taken a day off in what feels like months, so... I decided it might be nice."
     c ""
 
-translate schinese Cane_Favour_For_Ya_Sex_23354961:
+translate schinese Cane_Favour_For_Ya_Sex_d9ba4111:
 
-    # "It's really hard to tell if he means this, or if he was just trying to let you sleep a little longer, but… you're not going to get the answer out of him either way."
+    # "It's really hard to tell if he means this, or if he was just trying to let you sleep a little longer, but... you're not going to get the answer out of him either way."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_25f2e914:
+translate schinese Cane_Favour_For_Ya_Sex_8200d866:
 
-    # e "Well, I'm glad you're taking time off… especially because I dunno if I want all of the patrons to tease me more about what we do together."
+    # e "Well, I'm glad you're taking time off... especially because I dunno if I want all of the patrons to tease me more about what we do together."
     e ""
 
 translate schinese Cane_Favour_For_Ya_Sex_d2999b4e:
@@ -3663,9 +3663,9 @@ translate schinese Cane_Favour_For_Ya_Sex_d2999b4e:
     # "Cane let's out a hearty chuckle."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_0007dfd6:
+translate schinese Cane_Favour_For_Ya_Sex_71337dea:
 
-    # c "Oh, lad… I'm sorry, but it's impossible to stop the rumors in this town."
+    # c "Oh, lad... I'm sorry, but it's impossible to stop the rumors in this town."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_2ab28295:
@@ -3718,9 +3718,9 @@ translate schinese Cane_Favour_For_Ya_Sex_e3e2e66c:
     # "He walks over and affectionately ruffles your head."
     ""
 
-translate schinese Cane_Favour_For_Ya_Sex_9e3c91d4:
+translate schinese Cane_Favour_For_Ya_Sex_c9b55e2c:
 
-    # c "If ya wanna keep it a secret, I'll keep actin' how I always do, but…"
+    # c "If ya wanna keep it a secret, I'll keep actin' how I always do, but..."
     c ""
 
 translate schinese Cane_Favour_For_Ya_Sex_2593db75:
@@ -4008,9 +4008,9 @@ translate schinese Cane_Event_Patron_Show_e90c070a:
     # c "Let's say... Yer service at the tavern has drawn quite a bit of attention."
     c ""
 
-translate schinese Cane_Event_Patron_Show_b055eca1:
+translate schinese Cane_Event_Patron_Show_b0638855:
 
-    # c "I've gotten a lotta requests… for a private show."
+    # c "I've gotten a lotta requests... for a private show."
     c ""
 
 translate schinese Cane_Event_Patron_Show_c4cf029f:
@@ -4188,9 +4188,9 @@ translate schinese Cane_Private_Show_Quest_Accept_0e754dac:
     # c "I've cleared out a space for ya, but we need to spruce it up some. Ya know, make it look all prettylike to match ye."
     c ""
 
-translate schinese Cane_Private_Show_Quest_Accept_c39a4666:
+translate schinese Cane_Private_Show_Quest_Accept_7a2dba75:
 
-    # c "Ye'll also need somethin' more suitable to wear for the job…"
+    # c "Ye'll also need somethin' more suitable to wear for the job..."
     c ""
 
 translate schinese Cane_Private_Show_Quest_Accept_9c44ef3e:
@@ -7418,9 +7418,9 @@ translate schinese Lothar_Aphrodisiac_Quest_9d6c8625:
     # l "Disciple, I have an adventure planned for you to see a real hero in action."
     l ""
 
-translate schinese Lothar_Aphrodisiac_Quest_bff0eaa4:
+translate schinese Lothar_Aphrodisiac_Quest_51ce808e:
 
-    # e "That sounds good… but didn't I already see you with the golems?"
+    # e "That sounds good... but didn't I already see you with the golems?"
     e ""
 
 translate schinese Lothar_Aphrodisiac_Quest_8f5a5253:
@@ -7473,9 +7473,9 @@ translate schinese Lothar_Aphrodisiac_Quest_7263f6ba:
     # "Probably a good thing he didn't give you time to talk, honestly, considering you were going to point out how often he complains."
     ""
 
-translate schinese Lothar_Aphrodisiac_Quest_d4695f6b:
+translate schinese Lothar_Aphrodisiac_Quest_4f0ddf8e:
 
-    # e "I have courier work to attend to today, sorry… but can we do it some other day?"
+    # e "I have courier work to attend to today, sorry... but can we do it some other day?"
     e ""
 
 translate schinese Lothar_Aphrodisiac_Quest_f7c3c616:
@@ -7483,9 +7483,9 @@ translate schinese Lothar_Aphrodisiac_Quest_f7c3c616:
     # "Lothar narrows his eyes."
     ""
 
-translate schinese Lothar_Aphrodisiac_Quest_8c046548:
+translate schinese Lothar_Aphrodisiac_Quest_e4201c2a:
 
-    # "It wasn't a lie… you're just stretching the truth is all."
+    # "It wasn't a lie... you're just stretching the truth is all."
     ""
 
 translate schinese Lothar_Aphrodisiac_Quest_d07a963e:
@@ -7548,9 +7548,9 @@ translate schinese Lothar_Aphrodisiac_Quest_Ready_7263f6ba:
     # "Probably a good thing he didn't give you time to talk, honestly, considering you were going to point out how often he complains."
     ""
 
-translate schinese Lothar_Aphrodisiac_Quest_Ready_d4695f6b:
+translate schinese Lothar_Aphrodisiac_Quest_Ready_4f0ddf8e:
 
-    # e "I have courier work to attend to today, sorry… but can we do it some other day?"
+    # e "I have courier work to attend to today, sorry... but can we do it some other day?"
     e ""
 
 translate schinese Lothar_Aphrodisiac_Quest_Ready_f7c3c616:
@@ -7558,9 +7558,9 @@ translate schinese Lothar_Aphrodisiac_Quest_Ready_f7c3c616:
     # "Lothar narrows his eyes."
     ""
 
-translate schinese Lothar_Aphrodisiac_Quest_Ready_8c046548:
+translate schinese Lothar_Aphrodisiac_Quest_Ready_e4201c2a:
 
-    # "It wasn't a lie… you're just stretching the truth is all."
+    # "It wasn't a lie... you're just stretching the truth is all."
     ""
 
 translate schinese Lothar_Aphrodisiac_Quest_Ready_d07a963e:
@@ -7583,9 +7583,9 @@ translate schinese Lothar_Aphrodisiac_Adventure_a20cefa7:
     # "..."
     ""
 
-translate schinese Lothar_Aphrodisiac_Adventure_323a6ddf:
+translate schinese Lothar_Aphrodisiac_Adventure_02b2254e:
 
-    # e "So… Lothar."
+    # e "So... Lothar."
     e ""
 
 translate schinese Lothar_Aphrodisiac_Adventure_f8e470c5:
@@ -7683,9 +7683,9 @@ translate schinese Lothar_Aphrodisiac_Adventure_87f5ec85:
     # l "But it also seems to mess with their minds a bit. They report feeling a bit woozy and euphoric after meeting it."
     l ""
 
-translate schinese Lothar_Aphrodisiac_Adventure_0ee4095c:
+translate schinese Lothar_Aphrodisiac_Adventure_fae004d5:
 
-    # "That's… odd."
+    # "That's... odd."
     ""
 
 translate schinese Lothar_Aphrodisiac_Adventure_2af5c694:
@@ -7693,9 +7693,9 @@ translate schinese Lothar_Aphrodisiac_Adventure_2af5c694:
     # e "Do they behave any differently in that situation?"
     e ""
 
-translate schinese Lothar_Aphrodisiac_Adventure_ffb797b1:
+translate schinese Lothar_Aphrodisiac_Adventure_2abef7bb:
 
-    # l "I asked, and…"
+    # l "I asked, and..."
     l ""
 
 translate schinese Lothar_Aphrodisiac_Adventure_b361b165:
@@ -8658,9 +8658,9 @@ translate schinese Lothar_Dialogue_c4409b36:
     # l "Thank you, disciple."
     l ""
 
-translate schinese Lothar_Dialogue_72ec2033:
+translate schinese Lothar_Dialogue_87eee822:
 
-    # "Lothar is smiling at you. It seems that despite… what has happened between you, he still likes you quite a bit."
+    # "Lothar is smiling at you. It seems that despite... what has happened between you, he still likes you quite a bit."
     ""
 
 translate schinese Lothar_Dialogue_c4935225:
@@ -11908,14 +11908,19 @@ translate schinese Lothar_Ask_Invasion_82822a0c_2:
     # l "..."
     l ""
 
-translate schinese Lothar_Ask_Invasion_64e4d862:
+translate schinese Lothar_Ask_Invasion_d272c415:
 
-    # e "You shouldn't even try that at the first place."
+    # e "Ole was right, you shouldn't even try to spy on the goat tribe at the first place."
     e ""
 
-translate schinese Lothar_Ask_Invasion_a1fdfcd1:
+translate schinese Lothar_Ask_Invasion_35dd8d0c:
 
-    # l "Y-you say what? Fuck you and your fucking tactics."
+    # l "Y-you say what? Fuck you and your devious little tactics."
+    l ""
+
+translate schinese Lothar_Ask_Invasion_319586ee:
+
+    # l "Trusting your sweet little lies was a mistake, I don't even know how you became my disciple."
     l ""
 
 translate schinese Lothar_Ask_Invasion_c8b30ac3:
@@ -11923,9 +11928,9 @@ translate schinese Lothar_Ask_Invasion_c8b30ac3:
     # l "I shouldn't have listened to that lizard, teaching you, mentoring you."
     l ""
 
-translate schinese Lothar_Ask_Invasion_d46c1cd9:
+translate schinese Lothar_Ask_Invasion_ec117e22:
 
-    # l "And now you stab me in the back and say I'm wrong?"
+    # l "And now you stab me in the back and tell me I'm wrong?"
     l ""
 
 translate schinese Lothar_Ask_Invasion_72a33094:
@@ -11933,9 +11938,14 @@ translate schinese Lothar_Ask_Invasion_72a33094:
     # e "..."
     e ""
 
-translate schinese Lothar_Ask_Invasion_6a112c24:
+translate schinese Lothar_Ask_Invasion_ed28b4e7:
 
-    # e "I was saying, you are a big dumb wolf!"
+    # e "What I'm telling you is, you are a big dumb wolf!"
+    e ""
+
+translate schinese Lothar_Ask_Invasion_a986cb02:
+
+    # e "And don't you blame me for having an intact, functional brain that can think for itself!"
     e ""
 
 translate schinese Lothar_Ask_Invasion_73f0fb90:
@@ -11963,9 +11973,19 @@ translate schinese Lothar_Ask_Invasion_da755a8c:
     # l "Fuck the fuck off before I fucking stomp you into a pile of useless dragon pulp."
     l ""
 
-translate schinese Lothar_Ask_Invasion_240cb39e:
+translate schinese Lothar_Ask_Invasion_b9bcf94a:
 
-    # "You retreat immediately as your moment of courage fades out... the wolf doesn't seem to appreciate it."
+    # l "GET YOUR ASS OFF RIGHT NOW!"
+    l ""
+
+translate schinese Lothar_Ask_Invasion_377fc751:
+
+    # "You retreat immediately as your sudden momentary courage fades out... and you're left with feeling bad for speaking out."
+    ""
+
+translate schinese Lothar_Ask_Invasion_53a30a74:
+
+    # "The wolf doesn't seem to appreciate it as well..."
     ""
 
 translate schinese Lothar_Ask_Invasion_e9fc7cea_1:
@@ -12658,9 +12678,9 @@ translate schinese Lothar_Invasion_Quest_631312d6:
     # e "And the tour is metaphorical, you know, enormou-"
     e ""
 
-translate schinese Lothar_Invasion_Quest_f7c6f553:
+translate schinese Lothar_Invasion_Quest_fc0705df:
 
-    # o "Ah Fuck, [e]. Why do you have to fuck everyone in the village..."
+    # o "Oh... [e]. Why do you have to fuck everyone in the village..."
     o ""
 
 translate schinese Lothar_Invasion_Quest_ff634259:
@@ -12668,9 +12688,9 @@ translate schinese Lothar_Invasion_Quest_ff634259:
     # e "Hey, he asked me."
     e ""
 
-translate schinese Lothar_Invasion_Quest_852e1d44:
+translate schinese Lothar_Invasion_Quest_c0048254:
 
-    # e "Plus, I didn't even fuck Seb... yet, I promise."
+    # e "The thing with Seb was a one-time thing, I promise."
     e ""
 
 translate schinese Lothar_Invasion_Quest_9b02e620:
@@ -12698,9 +12718,14 @@ translate schinese Lothar_Invasion_Quest_da6d7dee:
     # l "Well, lizard, asked and answered."
     l ""
 
-translate schinese Lothar_Invasion_Quest_3d7cb759:
+translate schinese Lothar_Invasion_Quest_92336af7:
 
-    # o "Fuck. I gotta go."
+    # "Ole looks as uncomfortable as he can."
+    ""
+
+translate schinese Lothar_Invasion_Quest_e7dbc042:
+
+    # o "Uhm... I gotta go."
     o ""
 
 translate schinese Lothar_Invasion_Quest_50fe6e24:
@@ -15690,6 +15715,9 @@ translate schinese strings:
     old "Order something"
     new ""
 
+    old "Ask about Lusterfield{#CaneAAl}"
+    new ""
+
     old "Ask about the tavern"
     new ""
 
@@ -15847,6 +15875,9 @@ translate schinese strings:
     new ""
 
     old "Ask about the trip to the river"
+    new ""
+
+    old "Ask about Lusterfield{#LotharAAL}"
     new ""
 
     old "Ask about him being a hero"

@@ -1,4 +1,24 @@
-﻿translate schinese Kechioeren_Welcome_4ef3920d:
+﻿translate schinese kechioeren_search_loop_e9e31053:
+
+    # "Around the mountains of goat tribe, you notice that there's a green bush nearby, and you approach to pick one up."
+    ""
+
+translate schinese kechioeren_search_loop_6fcfb0c6:
+
+    # "You put it in your bag, you now have [item_number] Horehound."
+    ""
+
+translate schinese kechioeren_search_loop_4536ffcd:
+
+    # "You put it in your bag, you now have [item_number] Horehounds."
+    ""
+
+translate schinese kechioeren_search_loop_e91ba75d:
+
+    # "You search around the area for a while, but there seem to be nothing worth noting nearby."
+    ""
+
+translate schinese Kechioeren_Welcome_4ef3920d:
 
     # "You walk towards the gate, you see two guards standing there, staring at you."
     ""

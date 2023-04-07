@@ -713,9 +713,9 @@ translate schinese Chelforte_Discovery_371ac666:
     # "Yet again, Vurro is asking questions that you haven't really given much thought."
     ""
 
-translate schinese Chelforte_Discovery_0f082273:
+translate schinese Chelforte_Discovery_d46f5f38:
 
-    # e "I… don't know."
+    # e "I... don't know."
     e ""
 
 translate schinese Chelforte_Discovery_afc2fa28:
@@ -743,9 +743,9 @@ translate schinese Chelforte_Discovery_51ea47d8:
     # "You hear a chuckle from above you."
     ""
 
-translate schinese Chelforte_Discovery_084b1c23:
+translate schinese Chelforte_Discovery_4ce6e4fc:
 
-    # v "I think Wuldon's coming back, so I'll keep it short, but…"
+    # v "I think Wuldon's coming back, so I'll keep it short, but..."
     v ""
 
 translate schinese Chelforte_Discovery_25ed9f30:
@@ -773,9 +773,9 @@ translate schinese Chelforte_Discovery_3a587ff2:
     # "Both voices are extremely close above you now. It seems Wuldon walked over without you hearing his footsteps."
     ""
 
-translate schinese Chelforte_Discovery_9c8216ef:
+translate schinese Chelforte_Discovery_d49b2f1f:
 
-    # w "I'd recommend you cover your ears if you can. If not… my condolences."
+    # w "I'd recommend you cover your ears if you can. If not... my condolences."
     w ""
 
 translate schinese Chelforte_Discovery_44db0946:
@@ -1148,14 +1148,14 @@ translate schinese Chelforte_Discovery_47f3b820:
     # "It's pretty awful background noise, but you're too tired to care right now."
     ""
 
-translate schinese Chelforte_Discovery_e0ed38b5:
+translate schinese Chelforte_Discovery_789ae6f1:
 
-    # "The ground is softer than I thought…"
+    # "The ground is softer than I thought..."
     ""
 
-translate schinese Chelforte_Discovery_a1bdd859:
+translate schinese Chelforte_Discovery_a2cba0a2:
 
-    # "Not… Compla…"
+    # "Not... Compla..."
     ""
 
 translate schinese Chelforte_Discovery_a20cefa7:
@@ -1213,9 +1213,9 @@ translate schinese Chelforte_Discovery_f5309ad4:
     # "You shift a bit on the floor, trying to find a softer spot."
     ""
 
-translate schinese Chelforte_Discovery_e7ef6ab2:
+translate schinese Chelforte_Discovery_1e2c4240:
 
-    # e "mrrf. Thanks…"
+    # e "mrrf. Thanks..."
     e ""
 
 translate schinese Chelforte_Discovery_f4cba0cd:
@@ -1333,9 +1333,9 @@ translate schinese Chelforte_Discovery_7fc8eccc:
     # "Quietly, you speak back up, each word a challenge to form."
     ""
 
-translate schinese Chelforte_Discovery_8570a57c:
+translate schinese Chelforte_Discovery_fc21b246:
 
-    # e "Wuldon… where's Vurro."
+    # e "Wuldon... where's Vurro."
     e ""
 
 translate schinese Chelforte_Discovery_818653e1:
@@ -1353,9 +1353,9 @@ translate schinese Chelforte_Discovery_a638a145:
     # "This is punctuated by a massive yawn."
     ""
 
-translate schinese Chelforte_Discovery_c1bf1c2e:
+translate schinese Chelforte_Discovery_e039e74d:
 
-    # e "We… oof. We sleeping here?"
+    # e "We... oof. We sleeping here?"
     e ""
 
 translate schinese Chelforte_Discovery_82ff00ca:
@@ -1573,9 +1573,9 @@ translate schinese Chelforte_Discovery_7f811e1e:
     # "Vurro scratches the back of his head, embarrassed."
     ""
 
-translate schinese Chelforte_Discovery_83385199:
+translate schinese Chelforte_Discovery_3c8edb50:
 
-    # v "I uhh… ate them."
+    # v "I uhh... ate them."
     v ""
 
 translate schinese Chelforte_Discovery_8ce062c7:
@@ -1703,9 +1703,9 @@ translate schinese Chelforte_Discovery_5ac7dcbe:
     # "The two of you stay embraced for a long time, Vurro trying to make up for time he'll never have."
     ""
 
-translate schinese Chelforte_Discovery_0426db6a:
+translate schinese Chelforte_Discovery_2dc15d54:
 
-    # "When it finally ends, Vurro backs off, looking… empty."
+    # "When it finally ends, Vurro backs off, looking... empty."
     ""
 
 translate schinese Chelforte_Discovery_fa453b82:
@@ -1743,9 +1743,9 @@ translate schinese Chelforte_Discovery_c7877a2f:
     # "His face scrunches up in pain."
     ""
 
-translate schinese Chelforte_Discovery_ab004a73:
+translate schinese Chelforte_Discovery_92debfdb:
 
-    # w "But I want to wait until after we fight Uffe. Otherwise…"
+    # w "But I want to wait until after we fight Uffe. Otherwise..."
     w ""
 
 translate schinese Chelforte_Discovery_4fe238fc:
@@ -1853,9 +1853,9 @@ translate schinese Chelforte_Discovery_823e59d7:
     # w "We will get revenge, and I will hunt down whover did this and make sure he can't fuck with what's mine anymore."
     w ""
 
-translate schinese Chelforte_Discovery_27767a0c:
+translate schinese Chelforte_Discovery_97e88f0e:
 
-    # w "For that to happen, we both have to live. Sharpen your weapons, stock up on potions… do whatever you can to get ready."
+    # w "For that to happen, we both have to live. Sharpen your weapons, stock up on potions... do whatever you can to get ready."
     w ""
 
 translate schinese Chelforte_Discovery_905f9c94:
@@ -1883,9 +1883,9 @@ translate schinese Chelforte_Discovery_f02c0096:
     # "Wuldon is standing by the door somewhat awkwardly."
     ""
 
-translate schinese Chelforte_Discovery_79e44fe5:
+translate schinese Chelforte_Discovery_54867737:
 
-    # w "You know how I feel, but… thank you. Stay safe, little one."
+    # w "You know how I feel, but... thank you. Stay safe, little one."
     w ""
 
 translate schinese Chelforte_Discovery_69a90bf7:
@@ -2058,9 +2058,9 @@ translate schinese Chelforte_Wuldon_4eb0adf8:
     # e "I know you can do all of this yourself with enough time and energy."
     e ""
 
-translate schinese Chelforte_Wuldon_6394985b:
+translate schinese Chelforte_Wuldon_d44bee6a:
 
-    # w "That's… true. It's also not like I lack either of those."
+    # w "That's... true. It's also not like I lack either of those."
     w ""
 
 translate schinese Chelforte_Wuldon_09727994:
@@ -2218,9 +2218,9 @@ translate schinese Chelforte_Vurro_698f37ff:
     # v "Mm. Yeah."
     v ""
 
-translate schinese Chelforte_Vurro_bced85ed:
+translate schinese Chelforte_Vurro_480bdadd:
 
-    # "Vurro feels slightly… off."
+    # "Vurro feels slightly... off."
     ""
 
 translate schinese Chelforte_Vurro_82634624:

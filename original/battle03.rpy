@@ -568,9 +568,9 @@ translate schinese runeguardian_battle_528eb585:
     # "It is a Rune Guardian. He is standing before you, he looks enraged by your intrusion."
     ""
 
-translate schinese runeguardian_battle_5e435049:
+translate schinese runeguardian_battle_8ed9f221:
 
-    # "You can feel his blue aura radiates upon the river, his left hand is missing, instead covered with layers of moss and vines."
+    # "You can feel his blue aura radiates across the cave."
     ""
 
 translate schinese runeguardian_battle_456c4288:
@@ -898,10 +898,10 @@ translate schinese Bandit_Den_End_f397e375:
     # k "Alright, he's alive. Furk."
     k ""
 
-translate schinese Bandit_Den_End_076b7ac9:
+translate schinese Bandit_Den_End_3adfe0b8:
 
-    # k "Kari performs healing magic to the unconscious ram, and soon... he wakes up..."
-    k ""
+    # "Kari performs healing magic to the unconscious ram, and soon... he wakes up..."
+    ""
 
 translate schinese Bandit_Den_End_3ec57d49:
 

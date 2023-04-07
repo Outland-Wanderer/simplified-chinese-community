@@ -28,6 +28,16 @@ translate schinese Use_Strength_883b8e8a:
     # "You used a bottle of Strength Potion, your damage is now increased for 3 rounds."
     ""
 
+translate schinese Use_Accuracy_Potion_9d373d83:
+
+    # "You used a bottle of Accuracy Potion, your damage is now increased for 3 rounds."
+    ""
+
+translate schinese Use_Tenacity_Potion_883b8e8a:
+
+    # "You used a bottle of Strength Potion, your damage is now increased for 3 rounds."
+    ""
+
 translate schinese Ability_Self_Heal_90794f49:
 
     # "You used self heal, your health goes up by [healing] HP."
@@ -51,6 +61,11 @@ translate schinese Ability_Fiery_Charge_093c999c:
 translate schinese Ability_Fiery_Charge_fb4c2287:
 
     # "You use Fiery Charge on the enemies, they continue to be scorched for two additional rounds."
+    ""
+
+translate schinese Ability_Piercing_Blow_5065192f:
+
+    # "You use piercing blow, your normal attack next round will critically strike, and your critical damage increases as well."
     ""
 
 translate schinese Ability_Fortify_2faf436f:
@@ -223,9 +238,9 @@ translate schinese goat_guard_battle_loop_3f05fc52:
     # "You slash your [pc.weapon.name!t] at the arm of the goat, knocking him on the ground. He growls at you before getting up, albeit disheveled."
     ""
 
-translate schinese goat_guard_battle_loop_f0148189:
+translate schinese goat_guard_battle_loop_214f9883:
 
-    # "You slam your [pc.weapon.name!t] at the goat's head, your blade grazes through the goat's stomach. Drops of blood drips through his body."
+    # "You slam your [pc.weapon.name!t] at the goat's abdomen, your blade grazes through his stomach. Drops of blood drips through his body."
     ""
 
 translate schinese goat_guard_battle_loop_b0ba93ae:
@@ -408,9 +423,9 @@ translate schinese goat_guard_battle_loop_e389baf6_1:
     # "The goat guard is squirming in reaction to your advance. You can already hear his rapid breathing and grunting, holding his spear tightly. His lust is increased by [player_flirt]."
     ""
 
-translate schinese goat_guard_battle_loop_3302771d:
+translate schinese goat_guard_battle_loop_52bade86:
 
-    # goatguard "N-noooo. I c-can't control... my mind. Please..."
+    # goatguard "N-noooo. I c-can't control my mind. Please"
     goatguard ""
 
 translate schinese goat_guard_battle_loop_31e631a3_1:
@@ -443,9 +458,9 @@ translate schinese goat_guard_battle_loop_90c1f545:
     # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the guards."
     ""
 
-translate schinese goat_guard_battle_loop_58d25237:
+translate schinese goat_guard_battle_loop_784da30d:
 
-    # goatguard "Ha... We got him... General. He didn't even have the courage to fight us."
+    # goatguard "Ha... We got him, General. He didn't even have the courage to fight us."
     goatguard ""
 
 translate schinese goat_guard_battle_loop_d9b22e54:
@@ -458,9 +473,9 @@ translate schinese goat_guard_battle_loop_d9cbf4f7:
     # "As the battle ends, you can see both guards falls unconscious, they're still breathing... luckily."
     ""
 
-translate schinese goat_guard_battle_loop_b023ddfd:
+translate schinese goat_guard_battle_loop_cf4c700f:
 
-    # k "Huh... that was... unexpected. Let's see, final battle."
+    # k "Huh, that was unexpected. Let's see, final battle."
     k ""
 
 translate schinese goat_guard_battle_loop_8b698584:
@@ -473,9 +488,9 @@ translate schinese goat_guard_battle_loop_d524e358:
     # k "He is agile and can dodge a lot of attacks, probably will give you more of a hard time."
     k ""
 
-translate schinese goat_guard_battle_loop_c85dd39f:
+translate schinese goat_guard_battle_loop_464a510d:
 
-    # gg "Useless guards..."
+    # gg "Useless guards."
     gg ""
 
 translate schinese goat_guard_battle_loop_c20265d4:
@@ -483,14 +498,14 @@ translate schinese goat_guard_battle_loop_c20265d4:
     # gg "It's you and me now, courier."
     gg ""
 
-translate schinese goat_guard_battle_loop_ce14cfb6:
+translate schinese goat_guard_battle_loop_160af8a9:
 
-    # e "We... don't have to fight... General. We can find Furkan together..."
+    # e "We, don't have to fight... General. We can find Furkan together."
     e ""
 
-translate schinese goat_guard_battle_loop_b5c5c350:
+translate schinese goat_guard_battle_loop_ff723121:
 
-    # gg "N-no... nooo.. I can't..."
+    # gg "N-no- nooo I can't..."
     gg ""
 
 translate schinese goat_guard_battle_loop_563d9ca6:
@@ -503,9 +518,9 @@ translate schinese goat_guard_battle_loop_5d9934a4:
     # gg "You don't even know who you're talking to."
     gg ""
 
-translate schinese goat_guard_battle_loop_a5df473c:
+translate schinese goat_guard_battle_loop_12f5db19:
 
-    # e "You... can introduce yourself."
+    # e "You can introduce yourself."
     e ""
 
 translate schinese goat_guard_battle_loop_752b8262:
@@ -518,9 +533,9 @@ translate schinese goat_guard_battle_loop_7f962afd:
     # gg "Shut up and fight me now!!"
     gg ""
 
-translate schinese goat_guard_battle_loop_e77564d2:
+translate schinese goat_guard_battle_loop_970dbc79:
 
-    # "The General is extremely angry at you... you still don't understand his wrath but it seems you have no choice but to raise your weapon..."
+    # "The General is extremely furious right now, you still don't understand his wrath but it seems you have no choice but to raise your weapon..."
     ""
 
 translate schinese goat_guard_battle_loop_b8cdc3c8:
@@ -528,9 +543,9 @@ translate schinese goat_guard_battle_loop_b8cdc3c8:
     # "The Guard slumps on the ground from exhaustion."
     ""
 
-translate schinese goat_guard_battle_loop_b66bb6b3:
+translate schinese goat_guard_battle_loop_1c5e0411:
 
-    # goatguard "G-general... I... I-I think I'm going to p-pass out..."
+    # goatguard "G-general... I- I-I think I'm going to p-pass out..."
     goatguard ""
 
 translate schinese goat_guard_battle_loop_505e7236:
@@ -538,9 +553,9 @@ translate schinese goat_guard_battle_loop_505e7236:
     # "The othar Guard slumps on the ground from exhaustion."
     ""
 
-translate schinese goat_guard_battle_loop_6fc18177:
+translate schinese goat_guard_battle_loop_20c592d7:
 
-    # goatguard "Sorry... I... I can't take him... G-general."
+    # goatguard "Sorry, I... I can't take him... G-general."
     goatguard ""
 
 translate schinese goat_guard_battle_loop_7af3bcae:
@@ -843,9 +858,9 @@ translate schinese goat_general_battle_loop_826892d5:
     # gg "Y-you... are a formidable courier, only because I lost my magic..."
     gg ""
 
-translate schinese goat_general_battle_loop_f3e82eea:
+translate schinese goat_general_battle_loop_af28cc0e:
 
-    # gg "...F-furk... I-I have to w-win this one for him..."
+    # gg "F-furk... I-I have to w-win this one for him..."
     gg ""
 
 translate schinese goat_general_battle_loop_e69610cb:
@@ -853,9 +868,9 @@ translate schinese goat_general_battle_loop_e69610cb:
     # gg "Come at me! You Insolence!"
     gg ""
 
-translate schinese goat_general_battle_loop_c3cee1d4:
+translate schinese goat_general_battle_loop_4ab5ef2e:
 
-    # gg "I-I can't lose here. N-no... I can't let you win..."
+    # gg "I-I can't lose here. N-no, I can't let you win..."
     gg ""
 
 translate schinese goat_general_battle_loop_fdf9de27:
@@ -893,9 +908,9 @@ translate schinese goat_general_battle_loop_5364ff16:
     # "He doesn't say anything, except licking his lips. His lust is increased by [player_flirt]."
     ""
 
-translate schinese goat_general_battle_loop_bae7f0b0:
+translate schinese goat_general_battle_loop_c954cd5e:
 
-    # gg "..hnnnn...ngh..."
+    # gg "hnnn-nngh..."
     gg ""
 
 translate schinese goat_general_battle_loop_3ad677f5:
@@ -908,9 +923,9 @@ translate schinese goat_general_battle_loop_31d7e065:
     # "But it is evident that his flushed face tells it all. His lust is increased by [player_flirt]."
     ""
 
-translate schinese goat_general_battle_loop_c03e618b:
+translate schinese goat_general_battle_loop_5150f639:
 
-    # gg "...no..."
+    # gg "no..."
     gg ""
 
 translate schinese goat_general_battle_loop_ba0632b4:
@@ -923,9 +938,9 @@ translate schinese goat_general_battle_loop_ef6e23e3:
     # "You can already hear his rapid breathing and grunting, holding his scepter tightly. His lust is increased by [player_flirt]."
     ""
 
-translate schinese goat_general_battle_loop_12e91d44:
+translate schinese goat_general_battle_loop_34ceacbd:
 
-    # gg "...f-fuck..."
+    # gg "f-fuck..."
     gg ""
 
 translate schinese goat_general_battle_loop_39b4517c:
@@ -933,9 +948,9 @@ translate schinese goat_general_battle_loop_39b4517c:
     # "You can tell the general is already playing with himself when his hand goes under his loincloth, staring at your ass intently. His lust is increased by [player_flirt]."
     ""
 
-translate schinese goat_general_battle_loop_b7452928:
+translate schinese goat_general_battle_loop_ac8b009a:
 
-    # gg "...s-stop..."
+    # gg "s-stop..."
     gg ""
 
 translate schinese goat_general_battle_loop_f03dbf88:
@@ -1028,9 +1043,9 @@ translate schinese goat_general_win_91f1d522:
     # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
     msg ""
 
-translate schinese goat_general_win_4d991611:
+translate schinese goat_general_win_7caf5146:
 
-    # gg "No... n-nonono... I can't breath..."
+    # gg "No... n-nonono I can't breath..."
     gg ""
 
 translate schinese goat_general_win_15c0333f:
@@ -1043,19 +1058,14 @@ translate schinese goat_general_win_604cbf96:
     # "You stare at his youthful face, you've never imagined a general would be this... soft and cuddly."
     ""
 
-translate schinese goat_general_win_752b8262:
-
-    # gg "..."
-    gg ""
-
 translate schinese goat_general_win_9d24105f:
 
     # gg "W-what?"
     gg ""
 
-translate schinese goat_general_win_ae3d1075:
+translate schinese goat_general_win_a95eb8e3:
 
-    # e "You... look cute."
+    # e "You look cute."
     e ""
 
 translate schinese goat_general_win_1c528fcd:
@@ -1083,19 +1093,14 @@ translate schinese goat_general_win_a88a3c39:
     # "His words shocked you a little, you try to sit besides him and give him a little more comfort."
     ""
 
-translate schinese goat_general_win_4e986f5c:
+translate schinese goat_general_win_f3ed0ee5:
 
-    # e "Stop being so dramatic..."
+    # e "Don't be dramatic, I'm not here to kill anyone."
     e ""
 
-translate schinese goat_general_win_752b8262_1:
+translate schinese goat_general_win_a2357943:
 
-    # gg "..."
-    gg ""
-
-translate schinese goat_general_win_05dce57b:
-
-    # gg "What else do you want..."
+    # gg "What else do you want."
     gg ""
 
 translate schinese goat_general_win_b0167696:
@@ -1113,14 +1118,14 @@ translate schinese goat_general_win_bd7ad4aa:
     # e "I'm sorry I hit you that hard."
     e ""
 
-translate schinese goat_general_win_e9332d35:
+translate schinese goat_general_win_6b66b802:
 
-    # e "I just want to not get seized by you and your guards I guess..."
+    # e "I just want to not get seized by you and your guards I guess."
     e ""
 
-translate schinese goat_general_win_14e3a418:
+translate schinese goat_general_win_f19ecb83:
 
-    # goatguard2 "G-general! General! I just woke up... are you alright...?"
+    # goatguard2 "G-general! General! I just woke up... are you alright?"
     goatguard2 ""
 
 translate schinese goat_general_win_f2a566ea:
@@ -1128,9 +1133,9 @@ translate schinese goat_general_win_f2a566ea:
     # gg "Y-yes."
     gg ""
 
-translate schinese goat_general_win_db703a71:
+translate schinese goat_general_win_c0672ef5:
 
-    # goatguard2 "I think I'm gonna pass out again after making sure you're fine now... g-general."
+    # goatguard2 "I think I'm gonna pass out again after making sure you're fine now, g-general."
     goatguard2 ""
 
 translate schinese goat_general_win_6ee72055:
@@ -1138,9 +1143,9 @@ translate schinese goat_general_win_6ee72055:
     # "The guard falls asleep again near the general. He scoffs for a moment before looking back at you."
     ""
 
-translate schinese goat_general_win_3cca4312:
+translate schinese goat_general_win_cce99d91:
 
-    # e "So... Can I ask about your name?"
+    # e "So- Can I ask about your name?"
     e ""
 
 translate schinese goat_general_win_9d24105f_1:
@@ -1158,14 +1163,14 @@ translate schinese goat_general_win_ee5c3564:
     # k "Kari."
     k ""
 
-translate schinese goat_general_win_f5403384:
+translate schinese goat_general_win_3b8788d7:
 
-    # e "Oh...Hey, Kari. So, what's the matter with Furkan?"
+    # e "Oh, Hey, Kari. So, what's the matter with Furkan?"
     e ""
 
-translate schinese goat_general_win_e11d5000:
+translate schinese goat_general_win_b5470d17:
 
-    # k "He went missing..."
+    # k "He went missing."
     k ""
 
 translate schinese goat_general_win_96fbb4db:
@@ -1183,9 +1188,9 @@ translate schinese goat_general_win_0e707dba:
     # k "But no, this time. If he's not kidnapped by someone, I don't know where he is."
     k ""
 
-translate schinese goat_general_win_23ace091:
+translate schinese goat_general_win_f511dcef:
 
-    # k "That's why I needed to ask you..."
+    # k "That's why I needed to ask you."
     k ""
 
 translate schinese goat_general_win_b49fea37:
@@ -1198,9 +1203,9 @@ translate schinese goat_general_win_29e6b75c:
     # e "I haven't seen him anywhere near here."
     e ""
 
-translate schinese goat_general_win_b46baf42:
+translate schinese goat_general_win_f275c86e:
 
-    # e "But talking about weird... there's one thing I thought about..."
+    # e "But talking about weird, there's one thing I thought about."
     e ""
 
 translate schinese goat_general_win_ecb1ed82:
@@ -1208,34 +1213,29 @@ translate schinese goat_general_win_ecb1ed82:
     # e "The Moss Golem's hand."
     e ""
 
-translate schinese goat_general_win_ae61d713:
+translate schinese goat_general_win_dc008138:
 
-    # k "Golem...?"
+    # k "Golem?"
     k ""
 
-translate schinese goat_general_win_82091822:
+translate schinese goat_general_win_0e358a34:
 
-    # k "..."
+    # k "Oh."
     k ""
 
-translate schinese goat_general_win_2e9bd230:
+translate schinese goat_general_win_e1535bb7:
 
-    # k "Oh..."
+    # k "I think I know where he might be."
     k ""
 
-translate schinese goat_general_win_ea99caca:
+translate schinese goat_general_win_d2c7d432:
 
-    # k "I think I know where he might be..."
-    k ""
-
-translate schinese goat_general_win_9a97b240:
-
-    # e "W-wait... where?"
+    # e "W-wait, where?"
     e ""
 
-translate schinese goat_general_win_13fc5a82:
+translate schinese goat_general_win_0f49cfeb:
 
-    # k "The Damp Cave... near the lagoon..."
+    # k "The Damp Cave... near the lagoon."
     k ""
 
 translate schinese goat_general_win_7958ba69:
@@ -1248,19 +1248,19 @@ translate schinese goat_general_win_5803ab9a:
     # k "We know one of them is in the damp cave."
     k ""
 
-translate schinese goat_general_win_cb6d0ef5:
+translate schinese goat_general_win_047e8c3a:
 
-    # e "I met one golem when I was exploring the river down there... but it got hostile and I had to put it down."
+    # e "I met one golem when I was exploring the river down there, but it got hostile and I had to put it down."
     e ""
 
-translate schinese goat_general_win_ccabd4b9:
+translate schinese goat_general_win_2fa8ce7e:
 
-    # k "You're lucky it didn't kill you..."
+    # k "You're lucky it didn't kill you. The guardian is extremely powerful, if not weakened a bit by the disappearance."
     k ""
 
-translate schinese goat_general_win_952cd0cb:
+translate schinese goat_general_win_32db850f:
 
-    # e "Uhm, it's actually weakened a bit... its hand is gone."
+    # e "Uhm, it's actually weakened a lot, its hand is gone."
     e ""
 
 translate schinese goat_general_win_e80f1822:
@@ -1273,14 +1273,14 @@ translate schinese goat_general_win_b9b199ff:
     # k "Then the one in the damp cave must be the left one."
     k ""
 
-translate schinese goat_general_win_dbb9a4c8:
+translate schinese goat_general_win_9c0d81b1:
 
-    # k "I told Furkan not to get them back... b-but maybe he has another idea."
+    # k "I told Furkan not to get them back, b-but maybe he has another idea."
     k ""
 
-translate schinese goat_general_win_5ae5350d:
+translate schinese goat_general_win_7427cd85:
 
-    # k "I just needed to s-save him..."
+    # k "I just needed to s-save him."
     k ""
 
 translate schinese goat_general_win_d682fd6f:
@@ -1288,30 +1288,30 @@ translate schinese goat_general_win_d682fd6f:
     # k "Ah---argh..."
     k ""
 
+translate schinese goat_general_win_ebb78e2c:
+
+    # "He groans loudly."
+    ""
+
 translate schinese goat_general_win_005d3fba:
 
     # "Kari tries to stand up, but he quickly slump forwards with his injuries in the legs."
     ""
 
-translate schinese goat_general_win_b7f8cdc1:
+translate schinese goat_general_win_9d814978:
 
-    # e "H-hey... hey... you alright..?"
+    # e "H-hey you alright..?"
     e ""
 
-translate schinese goat_general_win_924022b2:
+translate schinese goat_general_win_c5daf628:
 
-    # k "I... have to go..."
+    # k "I- have to go."
     k ""
 
 translate schinese goat_general_win_9996ccea:
 
     # "He tries to stand up again, you grabs his arm to lift him up but he lost his balance and falls again."
     ""
-
-translate schinese goat_general_win_82091822_1:
-
-    # k "..."
-    k ""
 
 translate schinese goat_general_win_ae16f56b:
 
@@ -1328,9 +1328,9 @@ translate schinese goat_general_win_118adec5:
     # e "Yes."
     e ""
 
-translate schinese goat_general_win_4902476e:
+translate schinese goat_general_win_8b1d2fbd:
 
-    # k "W-why? Aren't you on the Lusterfield's side...?"
+    # k "W-why? Aren't you on the Lusterfield's side?"
     k ""
 
 translate schinese goat_general_win_48fd52c3:
@@ -1338,20 +1338,20 @@ translate schinese goat_general_win_48fd52c3:
     # e "I'm simply a courier, I just wanted to save him."
     e ""
 
-translate schinese goat_general_win_eb14f9d1:
+translate schinese goat_general_win_d256ed1d:
 
-    # e "And I'm sorry again, for your injuries..."
+    # e "And I'm sorry again, for your injuries."
     e ""
 
-translate schinese goat_general_win_c34e105e:
+translate schinese goat_general_win_8d44512e:
 
-    # k "N-no..nono... Leave me alone."
+    # k "N-no..nono. Leave me alone."
     k ""
 
-translate schinese goat_general_win_82091822_2:
+translate schinese goat_general_win_cad8a8c3:
 
-    # k "..."
-    k ""
+    # "Kari clutches at his bruised body, and he stares at you with pleading eyes."
+    ""
 
 translate schinese goat_general_win_fe11abf8:
 
@@ -1363,14 +1363,14 @@ translate schinese goat_general_win_1865ed33:
     # e "Yes, should I take you and the guards back to your house?"
     e ""
 
-translate schinese goat_general_win_e80f1822_1:
+translate schinese goat_general_win_bf832a13:
 
-    # k "No..."
+    # k "No."
     k ""
 
-translate schinese goat_general_win_4cce8ba2:
+translate schinese goat_general_win_239efc6c:
 
-    # k "The other guards will kill you after seeing me like that. Just leave us here..."
+    # k "The other guards will kill you after seeing me like that. Just leave us here."
     k ""
 
 translate schinese goat_general_win_bf6f0d3d:
@@ -1408,9 +1408,9 @@ translate schinese goat_general_lose_1b4a03b0:
     # "He grabs your bag from his guard and kneels down in front of you."
     ""
 
-translate schinese goat_general_lose_862f526d:
+translate schinese goat_general_lose_226df842:
 
-    # gg "...Hmm..."
+    # gg "Hmm."
     gg ""
 
 translate schinese goat_general_lose_81229a0c:
@@ -1418,9 +1418,9 @@ translate schinese goat_general_lose_81229a0c:
     # gg "W-what's this..."
     gg ""
 
-translate schinese goat_general_lose_38dc2792:
+translate schinese goat_general_lose_977e8716:
 
-    # e "U-uhh... the golem's hand."
+    # e "U-uhh, the golem's hand."
     e ""
 
 translate schinese goat_general_lose_3fe89f30:
@@ -1448,9 +1448,9 @@ translate schinese goat_general_lose_017040c3:
     # gg "Nothing useful."
     gg ""
 
-translate schinese goat_general_lose_3a40d6a5:
+translate schinese goat_general_lose_98ffc2cd:
 
-    # e "I... uhhh... I think I know... something."
+    # e "I- uhhh... I think I know... something."
     e ""
 
 translate schinese goat_general_lose_9d24105f:
@@ -1473,15 +1473,10 @@ translate schinese goat_general_lose_836e3bd6:
     # gg "You-... killed it?"
     gg ""
 
-translate schinese goat_general_lose_6c60186f_1:
+translate schinese goat_general_lose_fbfb4027:
 
-    # e "Y-yes..."
+    # e "Y-yes."
     e ""
-
-translate schinese goat_general_lose_752b8262:
-
-    # gg "..."
-    gg ""
 
 translate schinese goat_general_lose_dd45b4dd:
 
@@ -1498,9 +1493,9 @@ translate schinese goat_general_lose_b70da06b:
     # gg "He's with the Golem."
     gg ""
 
-translate schinese goat_general_lose_1d78f46e:
+translate schinese goat_general_lose_21a76c7c:
 
-    # e "But we... killed it."
+    # e "But we killed it."
     e ""
 
 translate schinese goat_general_lose_221eecd8:
@@ -1513,29 +1508,39 @@ translate schinese goat_general_lose_d819a6db:
     # e "W-what happened to them?"
     e ""
 
-translate schinese goat_general_lose_75a7abf5:
+translate schinese goat_general_lose_df0f12a6:
 
-    # gg "I don't know, they went rogue after our runes stopped supplying spell energy..."
+    # gg "Our guardians went rogue after the primordial runes stopped supplying spell energy."
     gg ""
 
-translate schinese goat_general_lose_903f3071:
+translate schinese goat_general_lose_5291daa2:
 
-    # goatguard "Uhmm... general, is it wise to share information... to a Lusterfolk?"
+    # gg "They were summoned by Furkan's father with the basin, which went missing as well."
+    gg ""
+
+translate schinese goat_general_lose_1adf0e00:
+
+    # gg "And those guardians were supposed to be guarding the runes, right on top of our mountain."
+    gg ""
+
+translate schinese goat_general_lose_ff505267:
+
+    # goatguard "Uhmm... general, is it wise to share information to a Lusterfolk?"
     goatguard ""
 
-translate schinese goat_general_lose_22e6966c:
+translate schinese goat_general_lose_cb46e8f1:
 
-    # gg "No... I need to save Furk-"
+    # gg "No, but we need to save our chieftain."
     gg ""
 
-translate schinese goat_general_lose_80dd3f40:
+translate schinese goat_general_lose_cfa1e194:
 
-    # gg "I'll tell you, he's in the cave..."
+    # gg "He's in the cave."
     gg ""
 
-translate schinese goat_general_lose_720f7c79:
+translate schinese goat_general_lose_d759c583:
 
-    # e "W-what? Cave?"
+    # e "W-what Cave?"
     e ""
 
 translate schinese goat_general_lose_60c57f65:
@@ -1548,59 +1553,49 @@ translate schinese goat_general_lose_60ebced8:
     # e "Are you sure?"
     e ""
 
-translate schinese goat_general_lose_5b3beb15:
+translate schinese goat_general_lose_fa7974a8:
 
-    # gg "I need to find him first, after that... I'll take care of you."
+    # gg "Yes."
     gg ""
 
-translate schinese goat_general_lose_a3e82478:
+translate schinese goat_general_lose_33f16abb:
 
-    # e "H-hey... I can help you."
+    # gg "But I can't leave the tribe unattended."
+    gg ""
+
+translate schinese goat_general_lose_9612631c:
+
+    # "The general walks back and forth, trying to conjure up a plan to rescue his chief."
+    ""
+
+translate schinese goat_general_lose_d42bf877:
+
+    # gg "Come with me, courier. I need your help."
+    gg ""
+
+translate schinese goat_general_lose_6112b769:
+
+    # "He points at you, not even waiting for your approval."
+    ""
+
+translate schinese goat_general_lose_94a86528:
+
+    # e "Uh... are you sure?"
     e ""
 
-translate schinese goat_general_lose_27ee07f3:
+translate schinese goat_general_lose_30a6d4fc:
 
-    # gg "Y-you?"
+    # gg "Yes. I'll tell you anything I know on our way."
     gg ""
 
-translate schinese goat_general_lose_4ceb4dbf:
+translate schinese goat_general_lose_0e53b64a:
 
-    # gg "You're barely breathing right now..."
-    gg ""
+    # "You feel the general drags your hand, and turns towards the guards."
+    ""
 
-translate schinese goat_general_lose_74db1a7f:
+translate schinese goat_general_lose_72a89d6e:
 
-    # e "Yes..."
-    e ""
-
-translate schinese goat_general_lose_eba666e0:
-
-    # e "Let me help, alright. You don't need to lock me up here..."
-    e ""
-
-translate schinese goat_general_lose_752b8262_1:
-
-    # gg "..."
-    gg ""
-
-translate schinese goat_general_lose_e49cf38d:
-
-    # gg "Ok, if you prove yourself useful..."
-    gg ""
-
-translate schinese goat_general_lose_ff4a58eb:
-
-    # gg "I'll lead you to the lagoon and heal you..."
-    gg ""
-
-translate schinese goat_general_lose_1c3741a1:
-
-    # e "Thanks."
-    e ""
-
-translate schinese goat_general_lose_7a17f7e5:
-
-    # gg "Cev... and Hakki... stay here until I come back."
+    # gg "Cev and Hakki, stay here until I come back."
     gg ""
 
 translate schinese goat_general_lose_a05b105e:
@@ -1848,24 +1843,24 @@ translate schinese lothar_battle_loop_647bc0e1:
     # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to Lothar."
     ""
 
-translate schinese lothar_battle_loop_79b6edd7:
+translate schinese lothar_battle_loop_3840b60e:
 
-    # l "...Really...?"
+    # l "Really...?"
     l ""
 
-translate schinese lothar_battle_loop_44cf28e7:
+translate schinese lothar_battle_loop_52f089f0:
 
-    # l "Disciple... You disappointed me... I never expected my student to surrender so easily."
+    # l "Disciple... You disappointed me, I never expected my student to surrender so easily."
     l ""
 
-translate schinese lothar_battle_loop_5040d4f4:
+translate schinese lothar_battle_loop_22c33955:
 
-    # l "But oh well, it may be your only option facing the one and only almighty hero of Lusterfield...Heh."
+    # l "But oh well, it may be your only option facing the one and only almighty hero of Lusterfield... Heh."
     l ""
 
-translate schinese lothar_battle_loop_3b0daf3e:
+translate schinese lothar_battle_loop_ad670361:
 
-    # "He walks around your weakened form, thinking carefully about his next step..."
+    # "He walks around your weakened form, thinking carefully about his next step."
     ""
 
 translate schinese lothar_battle_loop2_a44ad52e:
@@ -2018,24 +2013,24 @@ translate schinese lothar_battle_lose_52119ca1:
     # l "Not one bit surprising considering your physique."
     l ""
 
-translate schinese lothar_battle_lose_80356b5d:
+translate schinese lothar_battle_lose_45e586ad:
 
-    # e "C-can I get... some rest?"
+    # e "C-can I get some rest?"
     e ""
 
-translate schinese lothar_battle_lose_15f11255:
+translate schinese lothar_battle_lose_f581a057:
 
-    # l "Some rest... heh... well. Easiest 500 Gold I've got."
+    # l "Some rest, heh well. Easiest 500 Gold I've got."
     l ""
 
-translate schinese lothar_battle_lose_d7a43461:
+translate schinese lothar_battle_lose_d86d9fac:
 
-    # l "Pay me back any time. Before I hand you to Cane and his clients..."
+    # l "Pay me back any time. Before I hand you to Cane and his clients."
     l ""
 
-translate schinese lothar_battle_lose_e175649d:
+translate schinese lothar_battle_lose_43c89140:
 
-    # l "Maybe I'll consider sparring with you again after that... maybe."
+    # l "Maybe I'll consider sparring with you again after that. maybe."
     l ""
 
 translate schinese lothar_battle_lose_1e28236e:
@@ -2048,9 +2043,9 @@ translate schinese lothar_battle_lose_98991d26_1:
     # "You look up and see Lothar smiling."
     ""
 
-translate schinese lothar_battle_lose_45ac9213:
+translate schinese lothar_battle_lose_2b7e8369:
 
-    # e "F-fuck... me...Lothar..."
+    # e "F-fuck... me- Lothar..."
     e ""
 
 translate schinese lothar_battle_lose_1a8072d4_1:
@@ -2063,22 +2058,22 @@ translate schinese lothar_battle_lose_2a0420a9:
     # l "Not one bit surprising considering your mental strength."
     l ""
 
-translate schinese lothar_battle_lose_c7d1749d:
+translate schinese lothar_battle_lose_a6f697ab:
 
-    # e "Ahhh... I'm... so... horny. C-can I get... some rest?"
+    # e "Ahhh- I'm so... horny. C-can I get... some rest?"
     e ""
 
-translate schinese lothar_battle_lose_15f11255_1:
+translate schinese lothar_battle_lose_f581a057_1:
 
-    # l "Some rest... heh... well. Easiest 500 Gold I've got."
+    # l "Some rest, heh well. Easiest 500 Gold I've got."
     l ""
 
-translate schinese lothar_battle_lose_d7a43461_1:
+translate schinese lothar_battle_lose_d7a43461:
 
     # l "Pay me back any time. Before I hand you to Cane and his clients..."
     l ""
 
-translate schinese lothar_battle_lose_e175649d_1:
+translate schinese lothar_battle_lose_e175649d:
 
     # l "Maybe I'll consider sparring with you again after that... maybe."
     l ""
@@ -2283,9 +2278,9 @@ translate schinese lothar_battle_win_eaf2480d:
     # l "Fuck..."
     l ""
 
-translate schinese lothar_battle_win_02d3a7f8:
+translate schinese lothar_battle_win_d8a1c3af:
 
-    # l "A-ahhh...."
+    # l "A-ahhh."
     l ""
 
 translate schinese lothar_battle_win_dcbe178b:
@@ -2323,9 +2318,9 @@ translate schinese lothar_battle_win_44e5f098:
     # l "A-ahhh....Why are you so fuckable..."
     l ""
 
-translate schinese lothar_battle_win_dcbe178b_1:
+translate schinese lothar_battle_win_951590b2:
 
-    # e "Lothar... You alright...?"
+    # e "Lothar, You alright...?"
     e ""
 
 translate schinese lothar_battle_win_1e8ffa56_1:
@@ -2363,9 +2358,9 @@ translate schinese lothar_battle_win_ad7279d5:
     # e "Aren't you drunk every night...?"
     e ""
 
-translate schinese lothar_battle_win_1cb97a35:
+translate schinese lothar_battle_win_6111d811:
 
-    # l "...No. Whatever, maybe I underestimated you, but if I'm in serious state, you can't even touch me!"
+    # l "No. Whatever, maybe I underestimated you, but if I'm in serious state, you can't even touch me!"
     l ""
 
 translate schinese lothar_battle_win_eaf2480d_2:
@@ -2378,9 +2373,9 @@ translate schinese lothar_battle_win_453df8a1:
     # e "About the be-"
     e ""
 
-translate schinese lothar_battle_win_0dada2e2:
+translate schinese lothar_battle_win_e64fb882:
 
-    # l "No bet, fuck off... and let me rest..."
+    # l "No bet, fuck off, and let me rest..."
     l ""
 
 translate schinese lothar_battle_win_166bcab7:

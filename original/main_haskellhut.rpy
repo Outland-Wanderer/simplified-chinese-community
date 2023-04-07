@@ -303,14 +303,14 @@ translate schinese Haskell_Report_Wuldon_Curse_5f8ef067:
     # h "It would be a matter of finding out what cursed material they used, I suppose. That would be the best way to see who did it."
     h ""
 
-translate schinese Haskell_Report_Wuldon_Curse_34682062:
+translate schinese Haskell_Report_Wuldon_Curse_6038a719:
 
-    # h "Cursed material can be anything ranging from a patch of soil from cursed farmland, to the water of a cursed river… even Vurro's blood would work."
+    # h "Cursed material can be anything ranging from a patch of soil from cursed farmland, to the water of a cursed river... even Vurro's blood would work."
     h ""
 
-translate schinese Haskell_Report_Wuldon_Curse_42665286:
+translate schinese Haskell_Report_Wuldon_Curse_6bfd3227:
 
-    # h "Not that Vurro could have been cursed by his own blood, hehe…"
+    # h "Not that Vurro could have been cursed by his own blood, hehe..."
     h ""
 
 translate schinese Haskell_Report_Wuldon_Curse_f02f35e8:
@@ -333,9 +333,9 @@ translate schinese Haskell_Report_Wuldon_Curse_d6a3d2b5:
     # "You still aren't satisfied with this, however, even if Wuldon is."
     ""
 
-translate schinese Haskell_Report_Wuldon_Curse_96f40506:
+translate schinese Haskell_Report_Wuldon_Curse_9cd9c79d:
 
-    # e "Just to know, how would a mage, sorcerer, shaman… whatever, cast magic like this?"
+    # e "Just to know, how would a mage, sorcerer, shaman... whatever, cast magic like this?"
     e ""
 
 translate schinese Haskell_Report_Wuldon_Curse_e442f45b:
@@ -418,9 +418,9 @@ translate schinese Haskell_Report_Wuldon_Curse_8af870c0:
     # e "I was worried you'd suggest something like this after what you said earlier."
     e ""
 
-translate schinese Haskell_Report_Wuldon_Curse_48c000f3:
+translate schinese Haskell_Report_Wuldon_Curse_b7318844:
 
-    # e "Why… why would you spread the curse further? I get that it would be the ultimate revenge against Uffe to make him feral, but."
+    # e "Why... why would you spread the curse further? I get that it would be the ultimate revenge against Uffe to make him feral, but."
     e ""
 
 translate schinese Haskell_Report_Wuldon_Curse_479d7e94:
@@ -1213,9 +1213,9 @@ translate schinese Haskell_Potion_Order_Finish_42529c45:
     # e "O-ok, see you later!"
     e ""
 
-translate schinese Haskell_Potion_Order_f462c16d:
+translate schinese Haskell_Potion_Order_b9d1a634:
 
-    # e "Hey there Haskell…"
+    # e "Hey there Haskell..."
     e ""
 
 translate schinese Haskell_Potion_Order_8c194f36:
@@ -1293,9 +1293,9 @@ translate schinese Haskell_Potion_Order_8cc40747:
     # "It seems like you'll have to go back and make the potions in Rahim's shop like you promised."
     ""
 
-translate schinese Haskell_Potion_Order_f462c16d_1:
+translate schinese Haskell_Potion_Order_b9d1a634_1:
 
-    # e "Hey there Haskell…"
+    # e "Hey there Haskell..."
     e ""
 
 translate schinese Haskell_Potion_Order_a35e1ab2:
@@ -1303,9 +1303,9 @@ translate schinese Haskell_Potion_Order_a35e1ab2:
     # h "Let me guess, Ole needs more strength potions?"
     h ""
 
-translate schinese Haskell_Potion_Order_def05d3f:
+translate schinese Haskell_Potion_Order_096e5084:
 
-    # e "Hehe, you got it…"
+    # e "Hehe, you got it..."
     e ""
 
 translate schinese Haskell_Potion_Order_a6c80d1c:
@@ -3323,9 +3323,9 @@ translate schinese Haskell_Trinket_Quest_5b5c4d36:
     # "Haskell takes a long draught of tea."
     ""
 
-translate schinese Haskell_Trinket_Quest_3c5d1009:
+translate schinese Haskell_Trinket_Quest_93c83689:
 
-    # h "yeeeees…?"
+    # h "yeeeees...?"
     h ""
 
 translate schinese Haskell_Trinket_Quest_fd92cbe2:
@@ -3348,14 +3348,14 @@ translate schinese Haskell_Trinket_Quest_e10e4cb4:
     # h "Oh, thank God, I thought it was going to be potion related."
     h ""
 
-translate schinese Haskell_Trinket_Quest_2107ee0b:
+translate schinese Haskell_Trinket_Quest_baf95207:
 
-    # h "Well, I can't really tell you much right now, as I don't really know the details, but… I might be able to figure something out if you tell me about it?"
+    # h "Well, I can't really tell you much right now, as I don't really know the details, but... I might be able to figure something out if you tell me about it?"
     h ""
 
-translate schinese Haskell_Trinket_Quest_e169439a:
+translate schinese Haskell_Trinket_Quest_a2d58de6:
 
-    # e "Oh. Well… my memories about it are pretty hazy?"
+    # e "Oh. Well... my memories about it are pretty hazy?"
     e ""
 
 translate schinese Haskell_Trinket_Quest_6764b204:
@@ -3408,14 +3408,14 @@ translate schinese Haskell_Trinket_Quest_f56d55b2:
     # "Seeing that this is going to be a while, Haskell motions you to sit down across from him, in front of the absurdly large mug of fragrant tea."
     ""
 
-translate schinese Haskell_Trinket_Quest_8e026961:
+translate schinese Haskell_Trinket_Quest_32a0ea9f:
 
-    # h "Hmm… what about the landscape and plants? Are those very different?"
+    # h "Hmm... what about the landscape and plants? Are those very different?"
     h ""
 
-translate schinese Haskell_Trinket_Quest_8b9f6c0c:
+translate schinese Haskell_Trinket_Quest_1ab06a38:
 
-    # h "I ask because you say it's all new, but… the similarities you mention imply that wherever you came from isn't too different after all."
+    # h "I ask because you say it's all new, but... the similarities you mention imply that wherever you came from isn't too different after all."
     h ""
 
 translate schinese Haskell_Trinket_Quest_a20cefa7:
@@ -3428,9 +3428,9 @@ translate schinese Haskell_Trinket_Quest_94004a03:
     # "Oh."
     ""
 
-translate schinese Haskell_Trinket_Quest_8c4d9d15:
+translate schinese Haskell_Trinket_Quest_b9822b04:
 
-    # e "I… don't know?"
+    # e "I... don't know?"
     e ""
 
 translate schinese Haskell_Trinket_Quest_800155c2:
@@ -3458,9 +3458,9 @@ translate schinese Haskell_Trinket_Quest_80841e45:
     # "You find it hard to believe that, even as the one saying it."
     ""
 
-translate schinese Haskell_Trinket_Quest_9b170c70:
+translate schinese Haskell_Trinket_Quest_fb18f145:
 
-    # h "You're telling me someone who can now identify dozens of useful plants for medicine and tailoring, who already knew how to navigate difficult landscapes just…"
+    # h "You're telling me someone who can now identify dozens of useful plants for medicine and tailoring, who already knew how to navigate difficult landscapes just..."
     h ""
 
 translate schinese Haskell_Trinket_Quest_d542eb13:
@@ -3473,9 +3473,9 @@ translate schinese Haskell_Trinket_Quest_45a12b29:
     # h "Never paid enough attention to the world around him to know if the land itself was different from ours."
     h ""
 
-translate schinese Haskell_Trinket_Quest_15807b7d:
+translate schinese Haskell_Trinket_Quest_3e1ad492:
 
-    # e "I… I guess that's what I'm saying?"
+    # e "I... I guess that's what I'm saying?"
     e ""
 
 translate schinese Haskell_Trinket_Quest_71711b1e:
@@ -3538,9 +3538,9 @@ translate schinese Haskell_Trinket_Quest_34145912:
     # e "What is a sequelae?"
     e ""
 
-translate schinese Haskell_Trinket_Quest_5625ae29:
+translate schinese Haskell_Trinket_Quest_acec6533:
 
-    # h "The singular would be a sequela, but… basically, lingering after-effects. Some of which may never go away."
+    # h "The singular would be a sequela, but... basically, lingering after-effects. Some of which may never go away."
     h ""
 
 translate schinese Haskell_Trinket_Quest_f43d25f4:
@@ -3563,9 +3563,9 @@ translate schinese Haskell_Trinket_Quest_450d6569:
     # e "So you're saying I might be ill or something? Is there any way I can figure out what might be wrong with me?!"
     e ""
 
-translate schinese Haskell_Trinket_Quest_5d487354:
+translate schinese Haskell_Trinket_Quest_ca509cc9:
 
-    # h "Well…"
+    # h "Well..."
     h ""
 
 translate schinese Haskell_Trinket_Quest_5cf2cd34:
@@ -3573,9 +3573,9 @@ translate schinese Haskell_Trinket_Quest_5cf2cd34:
     # h "I could give you a medical examination?"
     h ""
 
-translate schinese Haskell_Trinket_Quest_5b2edd47:
+translate schinese Haskell_Trinket_Quest_01884bd3:
 
-    # e "I… I think I'd really appreciate that."
+    # e "I... I think I'd really appreciate that."
     e ""
 
 translate schinese Haskell_Trinket_Quest_2ce020bf:
@@ -3588,9 +3588,9 @@ translate schinese Haskell_Trinket_Quest_23969462:
     # h "I'll need you to get some chrysanthemums for me before we start."
     h ""
 
-translate schinese Haskell_Trinket_Quest_f15bbff3:
+translate schinese Haskell_Trinket_Quest_fbc66ec5:
 
-    # e "That's… odd. What do you need those for?"
+    # e "That's... odd. What do you need those for?"
     e ""
 
 translate schinese Haskell_Trinket_Quest_e7a46752:
@@ -3598,9 +3598,9 @@ translate schinese Haskell_Trinket_Quest_e7a46752:
     # "Haskell scratches his cheek."
     ""
 
-translate schinese Haskell_Trinket_Quest_6e1d1d83:
+translate schinese Haskell_Trinket_Quest_bd949e45:
 
-    # h "I need them for uhh… the check up."
+    # h "I need them for uhh... the check up."
     h ""
 
 translate schinese Haskell_Trinket_Quest_ca6084e3:
@@ -3612,6 +3612,606 @@ translate schinese Haskell_Trinket_Quest_b495059f:
 
     # h "I need them for the check up. I'll get some stuff ready while you go do that."
     h ""
+
+translate schinese Haskell_Herb_Fetch_Task_f801af7f:
+
+    # e "Hey, Haskell. Do you need anything for your tea?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_8366b520:
+
+    # h "Yes, I do. Come."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_1eb64221:
+
+    # e "Hey, Haskell, you seem pretty stressed. What happened?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_b0e5418e:
+
+    # "The dragon stares at you, before sipping on his tea like usual, stresslessly."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_7e1b09c0:
+
+    # h "Please keep going if you want to piss this old dragon off."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_5ff0bdf0:
+
+    # e "I was just joking, Haskell. You're... doing just the same."
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_1b32d095:
+
+    # h "Yes, I am. And you?"
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_558c36c4:
+
+    # e "I am alright as well. I just wanted to know what happened to the minotaur in that cave."
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_7dd23fe5:
+
+    # h "Well, like I said last time, he's been in captivity for some time."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_b016dbd7:
+
+    # e "Can he be released?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_0d657257:
+
+    # h "No, sadly. It'd be a spell to be broken by its own caster, and it's not that I know where the magician resides, or if he's even alive anymore."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_738a8618:
+
+    # "You nod your head. Feeling down for a moment."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_0da34f85:
+
+    # "Haskell takes notice very quickly, giving you a concerned look."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_98465c88:
+
+    # h "Rather than occupying your mind with a hapless situation, maybe you can help me fetch some herbs for the garden."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_58999d74:
+
+    # e "Ah...? What are those?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_4f40495e:
+
+    # h "Plants, flowers and trees [e]. You're talking like you haven't seen one before."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_e2e8452b:
+
+    # e "Oh, sure. Haskell, what are you planning to do with them?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_e886dd44:
+
+    # h "For the tea, of course. What else were you thinking?"
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_34f4d897:
+
+    # e "Uhm... Nothing?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_1beaf055:
+
+    # h "Mmhmm, as expected."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_a7b4ffdf:
+
+    # h "Just as a motivator, I might be able to share you some gold for the potion I sold."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_8f7e56ed:
+
+    # h "And perhaps recipes for potion, or clues for new trinket, if you've done enough."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_43f4d91d:
+
+    # h "What do you think?" nointeract
+    h "" nointeract
+
+translate schinese Haskell_Herb_Fetch_Task_af29ea20:
+
+    # e "Alright, I'm down. What do I need to collect?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_1c3d4873:
+
+    # h "Good."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_50832921:
+
+    # e "Maybe later? I have something important on my hand."
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_7163cd6d:
+
+    # h "Hmm... Sure."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_b682c9e2:
+
+    # "Haskell casually takes another sip, as you take your leave silently."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_5e846dfb:
+
+    # "The dragon points at the empty chair in front of you."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_7430b230:
+
+    # h "Take a seat, kid."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_ebef5bff:
+
+    # "You gently move the wooden chair closer with Haskell and sit, the dragon takes notice and grins."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_7b6bea22:
+
+    # "Haskell turns around and takes out a book from the shelf, he flips over the page and soon opens it in front of you."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_f4e8b252:
+
+    # h "I need ten more of [herbofchoicy], you know where to find them, right?"
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_3fbf75fd:
+
+    # e "Yeah, I think I know."
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_e1905cf7:
+
+    # h "Good, good. Then I'll be waiting for good news from you soon."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_f28c8560:
+
+    # h "So, I want you to get this one for me. Hydrangea."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_9f3b5cd7:
+
+    # "He points to a drawing of a shrub with clusters of white and bluish flowers."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_4cdd919a:
+
+    # e "Where can I find this?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_c373194e:
+
+    # h "Near Lusterfield, the garden right next to their farm, theirs are usually blue, like this, the farmers has had messed with the soil long time ago."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_11202f91:
+
+    # h "Just get me a few of those, 10 pieces of hydrangea will be fair, I've been craving this tea for so long."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_225ad698:
+
+    # e "Is it any good?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_98508b44:
+
+    # h "Yes, of course. Hydrangea is exceptionally sweet without the bitterness. And it's been decades since I've savored its taste."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_c92e50f5:
+
+    # h "It was found in places far away from here, but one of the travellers in Lusterfield found some and planted them there."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_ce8b21e9:
+
+    # h "So, if you help deliver me ten of these flowers, it'd be much appreciated."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_5d999916:
+
+    # h "What I want you to do, is to get me this one, Hawthorn."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_956bf20d:
+
+    # "He points to a drawing of a red berry fruit on a tree with steep thorns."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_f36ab79c:
+
+    # h "I've had elderberries and all other berries you can think of, but not this."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_c4f8c602:
+
+    # h "And before you ask, yes. Hawthorn is one of my favorites, it has this pleasantly tangy flavor which is a lot more pronounced when you cook it just right."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_94ec0c30:
+
+    # h "Obviously, you'd need to steep them for a few hours before taking a sip. And it helps improve your health, by a huge margin."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_a083fcf0:
+
+    # e "So... where can I find this Hawthorn?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_a5a8d8fc:
+
+    # h "Sundersilk Cascades, just close to the freshwater out there."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_0f03a9bd:
+
+    # h "I just want the berry, not the Mayflowers."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_9011eaaf:
+
+    # h "So, if you help deliver me ten of these fruits, it'd be much appreciated."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_df33adeb:
+
+    # h "Maybe you should get me one of these, Horehound."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_eb0efda6:
+
+    # "He points at the wrinkled leaves of a plant with white flowers."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_47ea1cee:
+
+    # h "Just like that eccentric wolf who calls himself Lothar."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_4e0f92fc:
+
+    # "Haskell chuckles to himself, while you look at him in confusion."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_673fdaef:
+
+    # h "Because he's a... ho-... forget it."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_1fa59a00:
+
+    # h "Some people call it Hound's bane, repels hostile wolves in the wild, and it's fairly useful in getting rid of parasites, or treating colds and coughs."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_716dee09:
+
+    # e "How does it taste like?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_0cd93a04:
+
+    # h "You'd recognise the similarity if you have drunk enough root beer in your youth, it has a bitter taste but with a minty undertone."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_9069265b:
+
+    # e "And... where can I acquire it?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_482cc7cb:
+
+    # h "Hold your horses, kiddo. I still haven't explained how it works."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_dd32648b:
+
+    # "He looks at you for a moment, before putting down his mug."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_a6e1d27c:
+
+    # h "...if I continue talking you'd have to sleep here for the night so I'll be brief."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_095892ac:
+
+    # h "Horehound can be found somewhere around the goat tribe, perhaps on top of that goat shop?"
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_f623ae97:
+
+    # e "Gwyddyon? Aren't you selling potions to his shop?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_61bf6dd2:
+
+    # h "Talking to that man is exhaustive to say the least, and to a much higher degree when you ask him anything at all."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_69849e17:
+
+    # h "So no. I won't owe him any favor other than selling potions to his measly shop."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_e7fbd1dc:
+
+    # h "So, if you help deliver me ten of these leaves, it'd be much appreciated."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_1b3daf1a:
+
+    # e "I won't disappoint you, Haskell."
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_4c9650ed:
+
+    # h "Mmmhm, looking forward to your return."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_Inquire_a32d21fe:
+
+    # e "Haskell, what do I need to collect again?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_Inquire_68d5f361:
+
+    # "The dragon turns to you, takes a sip of his mug while giving you a strange stare."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_Inquire_8438b83d:
+
+    # h "You definitely need some tea to improve your memory."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_Inquire_6240a803:
+
+    # h "Now, you should get me three Hydrangea, from the Sundersilk Cascades."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_Inquire_55a7e439:
+
+    # h "Now, you should get me three Hawthorn somewhere in the garden near the Lusterfield farm."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_Inquire_7cb55d1d:
+
+    # h "Now, you should get me three Horehounds near the goat tribe, somewhere up top."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_Inquire_18f8c7de:
+
+    # e "Alright, thank you so much again."
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_Inquire_33f345c6:
+
+    # h "Mhmm..."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_5ac098e5:
+
+    # e "Hello, Haskell, I've returned with your desired [herbofchoicy]."
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_a42934e0:
+
+    # "You put the herbs on the table, right next to his mug."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_faa8782a:
+
+    # h "Oh, that was pretty quick."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_2f55301c:
+
+    # h "Thanks, kiddo. I'll put them to good use."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_5ac098e5_1:
+
+    # e "Hello, Haskell, I've returned with your desired [herbofchoicy]."
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_a42934e0_1:
+
+    # "You put the herbs on the table, right next to his mug."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_172d4e4e:
+
+    # h "You're just on time, just when I needed these [herbofchoicy] the most."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_2dbab6eb:
+
+    # e "H-hey, Haskell, do you do nothing but cook tea?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_6d99863c:
+
+    # h "I cook up potions too, as much as I don't want to. What's the matter?"
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_28c8d3d7:
+
+    # e "I just feel like you have too much time on your hands, Haskell."
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_18177682:
+
+    # h "What, you mean time for drinking tea? No, there's always more."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_6ed0b9a3:
+
+    # e "And there's always more things to do, than... this."
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_541c3ce1:
+
+    # e "It mustn't have been more enjoyable than talking with others, right?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_98e5db25:
+
+    # h "Mind you, I have a whole garden to tend to, Ole, you, and those pesky buyers already have me on edge for the whole day. So yes, those are enough fellowship for an old dragon like me."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_be9866b2:
+
+    # e "We really haven't met for long, but, are you always like this?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_408849e9:
+
+    # h "No, but there's one point in life where you've done everything already, and you'll slow down."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_1fa78a11:
+
+    # h "And I don't hope you live for as long as I do."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_4d2e8bb1:
+
+    # e "W-why?"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_33f345c6:
+
+    # h "Mhmm..."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_accc0d6e:
+
+    # "Haskell takes a sip out of the mug, as usual. You glance at him intently, expecting some form of an intelligent conversation."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_61e219f8:
+
+    # h "It's senseless to continue this topic, spare me some time for the best tea I'll have ever made."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_aa0c7cb0:
+
+    # e "I understand."
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_136561ce:
+
+    # h "Yeah, well. One day you will, kid."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_0fc8719f:
+
+    # "Haskell says as he pulls out a pouch full of gold coins."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_d7ac233d:
+
+    # h "Here's the 75 gold, as promised."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_b5bca640:
+
+    # h "And it was nice doing business with you."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_ac8140a0:
+
+    # e "It was my pleasure too."
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_820cbfbf:
+
+    # h "Oh, and, I promised you I'd let you know about some potions when you've done enough... right?"
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_26212fde:
+
+    # h "Give me your Journal."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_53479246:
+
+    # h "I've put where you need to find them right inside your journal."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_3548294c:
+
+    # e "Thank you for everything, Haskell."
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_a4ad5fa6:
+
+    # h "Everything?"
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_dad11c87:
+
+    # "Haskell smirks, him looking up and down on you causes you to squirm."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_7054a92f:
+
+    # e "No, I-"
+    e ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_1169e672:
+
+    # "You can see Haskell chuckling, mildly amused by your flustered looks."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_0e6dc9f5:
+
+    # h "Well, look at you, it's just too easy to mess with you isn't it."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_313885a9:
+
+    # h "All in all, I appreciate your company, [e]. You're one of the few people I don't mind spending time with."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_a1677045:
+
+    # "You want to ask what that means, but you remain silent as Haskell might make fun of you again..."
+    ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_3e5747d5:
+
+    # h "Well, I'll see you next time then."
+    h ""
+
+translate schinese Haskell_Herb_Fetch_Task_End_bea6b4ad:
+
+    # "With that, you take your leave with new recipe for the potions."
+    ""
 
 translate schinese Haskell_Report_Trinket_Quest_84458f26:
 
@@ -3723,9 +4323,9 @@ translate schinese Haskell_Report_Trinket_Quest_8ab1c04b:
     # "There. It's fine. You don't mind what he did. It was almost funny in a way - as long as you don't think too hard on how the joke was on you."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_d3029112:
+translate schinese Haskell_Report_Trinket_Quest_3ac063d8:
 
-    # e "Fine. You have your chrysanthemum… is everything ready otherwise?"
+    # e "Fine. You have your chrysanthemum... is everything ready otherwise?"
     e ""
 
 translate schinese Haskell_Report_Trinket_Quest_f50d4697:
@@ -3803,9 +4403,9 @@ translate schinese Haskell_Report_Trinket_Quest_fb9528bd:
     # "Weighing the shame of stripping in front of Haskell against the need for a proper check-up, you quickly strip and bundle up your clothes in the corner Haskell indicated."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_696f1e5a:
+translate schinese Haskell_Report_Trinket_Quest_dcfbb711:
 
-    # h "I meant hung up there, but… that's good enough I suppose."
+    # h "I meant hung up there, but... that's good enough I suppose."
     h ""
 
 translate schinese Haskell_Report_Trinket_Quest_77ebe39d:
@@ -3953,14 +4553,14 @@ translate schinese Haskell_Report_Trinket_Quest_adae7068:
     # "It is difficult to say exactly what happened over the course of the examination due to a mix of the flowers, and the sheer amount of things Haskell did to check on you."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_47caf833:
+translate schinese Haskell_Report_Trinket_Quest_f9f4d388:
 
-    # "You distinctly remember him checking your vitals - fingers on your throat for pulse, ear on your throat for breathing…"
+    # "You distinctly remember him checking your vitals - fingers on your throat for pulse, ear on your throat for breathing..."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_6b4bed13:
+translate schinese Haskell_Report_Trinket_Quest_c6e6569b:
 
-    # "Temperature checks at various parts of the body…"
+    # "Temperature checks at various parts of the body..."
     ""
 
 translate schinese Haskell_Report_Trinket_Quest_bca940ec:
@@ -4028,9 +4628,9 @@ translate schinese Haskell_Report_Trinket_Quest_597c203f:
     # "Your dreams are filled with dark cloaks and bright lights, a muddled mass of shapes and figures blending into one another."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_9fcba5dc:
+translate schinese Haskell_Report_Trinket_Quest_184300ad:
 
-    # "Each one feels important, and yet… all elude you."
+    # "Each one feels important, and yet... all elude you."
     ""
 
 translate schinese Haskell_Report_Trinket_Quest_d9242a9b:
@@ -4148,9 +4748,9 @@ translate schinese Haskell_Report_Trinket_Quest_9ab92bec:
     # h "No clue, honestly."
     h ""
 
-translate schinese Haskell_Report_Trinket_Quest_c3777892:
+translate schinese Haskell_Report_Trinket_Quest_eff4e289:
 
-    # h "The most I got was that it was probably magical, but I couldn't tell you if there's a pattern to the memory loss, what's been altered…."
+    # h "The most I got was that it was probably magical, but I couldn't tell you if there's a pattern to the memory loss, what's been altered...."
     h ""
 
 translate schinese Haskell_Report_Trinket_Quest_751f6706:
@@ -4168,9 +4768,9 @@ translate schinese Haskell_Report_Trinket_Quest_277150eb:
     # e "What do you mean, nobody else was there with me."
     e ""
 
-translate schinese Haskell_Report_Trinket_Quest_4c27ceb0:
+translate schinese Haskell_Report_Trinket_Quest_18dd4702:
 
-    # "Well, except your friend…"
+    # "Well, except your friend..."
     ""
 
 translate schinese Haskell_Report_Trinket_Quest_d0247d05:
@@ -4188,9 +4788,9 @@ translate schinese Haskell_Report_Trinket_Quest_a20cefa7_1:
     # "..."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_2ddb86e7:
+translate schinese Haskell_Report_Trinket_Quest_82ae6ba2:
 
-    # "None of your recent memories seem foggy, but… your old ones didn't either until you were forced to remember the details."
+    # "None of your recent memories seem foggy, but... your old ones didn't either until you were forced to remember the details."
     ""
 
 translate schinese Haskell_Report_Trinket_Quest_18cb0ad5:
@@ -4213,9 +4813,9 @@ translate schinese Haskell_Report_Trinket_Quest_8e668291:
     # h "While your body does show some signs of strain from the battles you've been in, it also reacts remarkably quickly to injury."
     h ""
 
-translate schinese Haskell_Report_Trinket_Quest_e40e7431:
+translate schinese Haskell_Report_Trinket_Quest_f1337f86:
 
-    # e "Responds quickly…?"
+    # e "Responds quickly...?"
     e ""
 
 translate schinese Haskell_Report_Trinket_Quest_1bea3144:
@@ -4288,9 +4888,9 @@ translate schinese Haskell_Report_Trinket_Quest_f0331295:
     # h "Given proper resources and knowledge, people like you can significantly alter their bodies at will, augmenting the inherent effects of magical items to passively cast magic on themselves and a small area around them."
     h ""
 
-translate schinese Haskell_Report_Trinket_Quest_fbc8468a:
+translate schinese Haskell_Report_Trinket_Quest_31f2693c:
 
-    # e "Haskell…?"
+    # e "Haskell...?"
     e ""
 
 translate schinese Haskell_Report_Trinket_Quest_a466f1f3:
@@ -4308,9 +4908,9 @@ translate schinese Haskell_Report_Trinket_Quest_9bbd8509:
     # e "Well, yes, somewhat."
     e ""
 
-translate schinese Haskell_Report_Trinket_Quest_67f20476:
+translate schinese Haskell_Report_Trinket_Quest_3fe6e2ad:
 
-    # e "My main issue is… why do you keep using the past tense?"
+    # e "My main issue is... why do you keep using the past tense?"
     e ""
 
 translate schinese Haskell_Report_Trinket_Quest_7a335fbb:
@@ -4318,9 +4918,9 @@ translate schinese Haskell_Report_Trinket_Quest_7a335fbb:
     # "For the first time in this conversation, Haskell looks genuinely uncomfortable."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_80d9c068:
+translate schinese Haskell_Report_Trinket_Quest_6431f4d6:
 
-    # h "You… you have to remember that this isn't something you were born with."
+    # h "You... you have to remember that this isn't something you were born with."
     h ""
 
 translate schinese Haskell_Report_Trinket_Quest_bec07966:
@@ -4333,9 +4933,9 @@ translate schinese Haskell_Report_Trinket_Quest_9fa13f4d:
     # "Oh. You think you know where this is going, and you very much hope you're wrong."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_22b5e06a:
+translate schinese Haskell_Report_Trinket_Quest_3c44c8ba:
 
-    # h "The king banned the creation of people like you because, well…"
+    # h "The king banned the creation of people like you because, well..."
     h ""
 
 translate schinese Haskell_Report_Trinket_Quest_3a7c051c:
@@ -4348,9 +4948,9 @@ translate schinese Haskell_Report_Trinket_Quest_84903f45:
     # h "A lot of people died, [e]. The recipients of the magic would often die rather than gain powers."
     h ""
 
-translate schinese Haskell_Report_Trinket_Quest_7f04ae6f:
+translate schinese Haskell_Report_Trinket_Quest_8bf9495d:
 
-    # h "And the magic itself was incredibly difficult to fuel, which meant…"
+    # h "And the magic itself was incredibly difficult to fuel, which meant..."
     h ""
 
 translate schinese Haskell_Report_Trinket_Quest_8682a136:
@@ -4363,9 +4963,9 @@ translate schinese Haskell_Report_Trinket_Quest_969f5caf:
     # "Haskell sags, relief written all over his body."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_f5564a8a:
+translate schinese Haskell_Report_Trinket_Quest_83029469:
 
-    # "You are not relieved, however. Having been affected by a ritual like that yourself…"
+    # "You are not relieved, however. Having been affected by a ritual like that yourself..."
     ""
 
 translate schinese Haskell_Report_Trinket_Quest_33beedeb:
@@ -4388,9 +4988,9 @@ translate schinese Haskell_Report_Trinket_Quest_09e2d6f5:
     # "Haskell nods in affirmative."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_5a508ee8:
+translate schinese Haskell_Report_Trinket_Quest_05808d53:
 
-    # h "Yes. I have a few of the materials you might need here in the hut, but…"
+    # h "Yes. I have a few of the materials you might need here in the hut, but..."
     h ""
 
 translate schinese Haskell_Report_Trinket_Quest_011d124f:
@@ -4413,9 +5013,9 @@ translate schinese Haskell_Report_Trinket_Quest_70595638:
     # "Haskell winces."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_5f096c04:
+translate schinese Haskell_Report_Trinket_Quest_bdf58dad:
 
-    # h "Well, yes, that too. The main issue is that greater magic means greater sacrifice…"
+    # h "Well, yes, that too. The main issue is that greater magic means greater sacrifice..."
     h ""
 
 translate schinese Haskell_Report_Trinket_Quest_b0afb7dc:
@@ -4443,9 +5043,9 @@ translate schinese Haskell_Report_Trinket_Quest_adf6b0c9:
     # h "Which is really for the best for everyone involved. I like you, but I wouldn't trust anyone with that sort of power."
     h ""
 
-translate schinese Haskell_Report_Trinket_Quest_5bcd162b:
+translate schinese Haskell_Report_Trinket_Quest_963860be:
 
-    # e "Alright, well… that sounds good to me?"
+    # e "Alright, well... that sounds good to me?"
     e ""
 
 translate schinese Haskell_Report_Trinket_Quest_46748aea:
@@ -4483,9 +5083,9 @@ translate schinese Haskell_Report_Trinket_Quest_7725b62e:
     # h "This is a flask that emulates the body of the person it is touching, meaning you don't have to carry everything in your hands like an idiot."
     h ""
 
-translate schinese Haskell_Report_Trinket_Quest_6485bdec:
+translate schinese Haskell_Report_Trinket_Quest_d753e487:
 
-    # h "I recommend tying it around your neck and tucking it under your shirt, but… it's honestly up to you."
+    # h "I recommend tying it around your neck and tucking it under your shirt, but... it's honestly up to you."
     h ""
 
 translate schinese Haskell_Report_Trinket_Quest_4edfc4be:
@@ -4493,14 +5093,14 @@ translate schinese Haskell_Report_Trinket_Quest_4edfc4be:
     # "You continue to stare down at the little vial laying in your palm."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_085fcb8a:
+translate schinese Haskell_Report_Trinket_Quest_4ab772ec:
 
-    # "It's sort of bizarre to think that this thing is supposed to alter your body, but… you've been given no reason to distrust Haskell so far."
+    # "It's sort of bizarre to think that this thing is supposed to alter your body, but... you've been given no reason to distrust Haskell so far."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_3212087f:
+translate schinese Haskell_Report_Trinket_Quest_e6cb9afb:
 
-    # h "On its own, the flask won't do anything, but…"
+    # h "On its own, the flask won't do anything, but..."
     h ""
 
 translate schinese Haskell_Report_Trinket_Quest_3a36a46d:
@@ -4683,9 +5283,9 @@ translate schinese Haskell_Report_Trinket_Quest_03ebe144:
     # "You can't actually be mad at him, but you might have to slip some dreamflowers in his tea or something sometime."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_4869a0d9:
+translate schinese Haskell_Report_Trinket_Quest_19d1612e:
 
-    # h "Anyway. I don't have any materials that I think would actually be useful for you on hand right now, but…"
+    # h "Anyway. I don't have any materials that I think would actually be useful for you on hand right now, but..."
     h ""
 
 translate schinese Haskell_Report_Trinket_Quest_a6a89004:
@@ -4718,9 +5318,9 @@ translate schinese Haskell_Report_Trinket_Quest_a7ea2b90:
     # "That's a lot of information all at once, all of it too useful to forget."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_52405677:
+translate schinese Haskell_Report_Trinket_Quest_60d1defa:
 
-    # e "I hate to ask this of you, but… could you write that down for me? I'm not sure if I'll get to all of it otherwise."
+    # e "I hate to ask this of you, but... could you write that down for me? I'm not sure if I'll get to all of it otherwise."
     e ""
 
 translate schinese Haskell_Report_Trinket_Quest_007ab7db:
@@ -4753,9 +5353,9 @@ translate schinese Haskell_Report_Trinket_Quest_54951851:
     # "It's good to know that these things follow rules, however weird and arbitrary they may be."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_87adf992:
+translate schinese Haskell_Report_Trinket_Quest_42c83df8:
 
-    # e "Okay, that sounds good, but… aren't the plants going to die?"
+    # e "Okay, that sounds good, but... aren't the plants going to die?"
     e ""
 
 translate schinese Haskell_Report_Trinket_Quest_d86e965f:
@@ -4778,9 +5378,9 @@ translate schinese Haskell_Report_Trinket_Quest_9aed9ae8:
     # "He's finished writing at this point, slamming the book together, and putting the quill back in its place."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_b4f3c476:
+translate schinese Haskell_Report_Trinket_Quest_ada1e35a:
 
-    # h "I'd love to talk more on this, but I'm really quite busy, so… unless you have something urgent regarding this topic, I would rather stop now."
+    # h "I'd love to talk more on this, but I'm really quite busy, so... unless you have something urgent regarding this topic, I would rather stop now."
     h ""
 
 translate schinese Haskell_Report_Trinket_Quest_e3ffca51:
@@ -4798,9 +5398,9 @@ translate schinese Haskell_Report_Trinket_Quest_f9e9098b:
     # "However much you know he wouldn't actually do that, he does seem to want this conversation to end."
     ""
 
-translate schinese Haskell_Report_Trinket_Quest_b979ed11:
+translate schinese Haskell_Report_Trinket_Quest_94dc24b7:
 
-    # e "Okay, I'll be on my way, but…"
+    # e "Okay, I'll be on my way, but..."
     e ""
 
 translate schinese Haskell_Report_Trinket_Quest_227eb657:
@@ -4834,6 +5434,18 @@ translate schinese strings:
     new ""
 
     old "Ask for Strength Potions"
+    new ""
+
+    old "Ask what's going on with Haskell"
+    new ""
+
+    old "Fetch some herbs for Haskell"
+    new ""
+
+    old "Ask about the herb fetching task"
+    new ""
+
+    old "Report for herb fetching task"
     new ""
 
     old "Ask if the potion is ready"
@@ -4872,7 +5484,7 @@ translate schinese strings:
     old "Ask about Goat Tribe"
     new ""
 
-    old "Ask about Lusterfield"
+    old "Ask about Lusterfield{#HaskellAAL}"
     new ""
 
     old "Ask about other business"
@@ -4909,5 +5521,8 @@ translate schinese strings:
     new ""
 
     old "Yes{#haskelltakeminojob}"
+    new ""
+
+    old "Accept the Task"
     new ""
 
