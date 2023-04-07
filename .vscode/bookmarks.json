@@ -1454,22 +1454,22 @@
 					"label": "scene_buggbear_lose"
 				},
 				{
-					"line": 1822,
+					"line": 1831,
 					"column": 0,
 					"label": "Scene_Tavern_Meet_01"
 				},
 				{
-					"line": 2552,
+					"line": 2561,
 					"column": 0,
 					"label": "Scene_Tavern_Meet_02"
 				},
 				{
-					"line": 3572,
+					"line": 3581,
 					"column": 0,
 					"label": "Scene_Tavern_Meet_03"
 				},
 				{
-					"line": 4302,
+					"line": 4311,
 					"column": 0,
 					"label": "scene_buggbear_win"
 				}

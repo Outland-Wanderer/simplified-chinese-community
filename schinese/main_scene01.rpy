@@ -1420,405 +1420,414 @@ translate schinese Scene_Goat_Win_8b2ecaed:
     # "You gather your things before getting dressed, leaving the cum filled goat huntsman behind."
     "你收拾好自己的东西，穿上衣服离开了这片绿地，将后穴流精的山羊留在身后。"
 
-# translate schinese scene_buggbear_lose_0e4abf44:
+translate schinese scene_buggbear_lose_0e4abf44:
 
-#     # "You lose a fight against the Buggbear who grabs you and pulls against his body, you struggle against his grip which causes you both to fall onto the ground."
-#     ""
+    # "You lose a fight against the Buggbear who grabs you and pulls against his body, you struggle against his grip which causes you both to fall onto the ground."
+    "熊地精两手抓住你的身子将你摁在地上。你竭尽全力反抗，但论力气你怎么可能比得过这头巨兽。"
 
-# translate schinese scene_buggbear_lose_6b2d3664:
+translate schinese scene_buggbear_lose_6b2d3664:
 
-#     # "You struggle with all of your strength to break free of the Buggbear's grip, the beast is stronger than most and your attempt to break free fails."
-#     ""
+    # "You struggle with all of your strength to break free of the Buggbear's grip, the beast is stronger than most and your attempt to break free fails."
+    "你死命甩手蹬腿，却只不过扬起了些尘土。"
 
-# translate schinese scene_buggbear_lose_bf080d18:
+translate schinese scene_buggbear_lose_bf080d18:
 
-#     # e "Let me go you big imbecile, I'm warning you that if you don't you'll be sorry the next time that we meet!"
-#     e ""
+    # e "Let me go you big imbecile, I'm warning you that if you don't you'll be sorry the next time that we meet!"
+    e "放开我，你个没脑子的家伙。要是你再不放开，下回我可要你吃不了兜着走！"
 
-# translate schinese scene_buggbear_lose_a15a645c:
+translate schinese scene_buggbear_lose_a15a645c:
 
-#     # "The buggbear grunts but doesn't let go, instead the beast proceeds to grind his cock against your ass."
-#     ""
+    # "The buggbear grunts but doesn't let go, instead the beast proceeds to grind his cock against your ass."
+    "熊地精完全没有要放过你的迹象，他低吼着，挺起胯下的大包往你屁股中间蹭。"
 
-# translate schinese scene_buggbear_lose_e9d2f3c0:
+translate schinese scene_buggbear_lose_e9d2f3c0:
 
-#     # "However, both of you are still clothed so your loincloths are in the way."
-#     ""
+    # "However, both of you are still clothed so your loincloths are in the way."
+    "现在阻碍你们亲密接触的，只剩那两层薄薄的布料。"
 
-# translate schinese scene_buggbear_lose_1aedcd32:
+translate schinese scene_buggbear_lose_1aedcd32:
 
-#     # "Mortified you struggle against the beast's grip on you, now you know exactly what this wants but you don't want it happening to you."
-#     ""
+    # "Mortified you struggle against the beast's grip on you, now you know exactly what this wants but you don't want it happening to you."
+    "这头野兽接下来要做什么已经不言自明。你羞愧极了，不愿这种事情发生在自己身上。"
 
-# translate schinese scene_buggbear_lose_bc11c534:
+translate schinese scene_buggbear_lose_bc11c534:
 
-#     # "Your struggling is futile and you have to take a break again, Buggbear's cock is already hard from your attempts to break free."
-#     ""
+    # "Your struggling is futile and you have to take a break again, Buggbear's cock is already hard from your attempts to break free."
+    "你不停地挣扎，但直到四肢瘫软都没能阻扰熊地精分毫，反而无意间把他蹭得更硬了。"
 
-# translate schinese scene_buggbear_lose_e2c920da:
+translate schinese scene_buggbear_lose_e2c920da:
 
-#     # "Again the Buggbear grinds himself against your ass, his hard cock throbbing against your back is huge and thick."
-#     ""
+    # "Again the Buggbear grinds himself against your ass, his hard cock throbbing against your back is huge and thick."
+    "你能感觉出股间那根巨物正兴奋地搏动，越来越粗长，越来越坚挺。"
 
-# translate schinese scene_buggbear_lose_f5a2cae9:
+translate schinese scene_buggbear_lose_f5a2cae9:
 
-#     # "You can't let this beast have it's way with you, surely your hole would be destroyed if it did that."
-#     ""
+    # "You can't let this beast have it's way with you, surely your hole would be destroyed if it did that."
+    "要是让这个大块头得逞，自己的后穴肯定会彻底废掉。你越想越害怕。"
 
-# translate schinese scene_buggbear_lose_36a26acc:
+translate schinese scene_buggbear_lose_36a26acc:
 
-#     # e "Let me go you numbskull! I don't want to be your cum dump, you're ugly and stupid so why should I let you have your way with me?!"
-#     e ""
+    # e "Let me go you numbskull! I don't want to be your cum dump, you're ugly and stupid so why should I let you have your way with me?!"
+    e "死畜生，快放开我！没人会想当你这种丑八怪的精盆！"
 
-# translate schinese scene_buggbear_lose_a0ce22fc:
+translate schinese scene_buggbear_lose_a0ce22fc:
 
-#     # "The Buggbear growls and grinds against you harder than before, it seems that he didn't take kindly to being called so many names."
-#     ""
+    # "The Buggbear growls and grinds against you harder than before, it seems that he didn't take kindly to being called so many names."
+    "熊地精似乎被你惹恼了，他朝你耳边怒吼，同时加重了下体摩擦的力道。"
 
-# translate schinese scene_buggbear_lose_cbb91c69:
+translate schinese scene_buggbear_lose_cbb91c69:
 
-#     # "It removes your loincloth and it's own, exposing both of your naked bodies to one another."
-#     ""
+    # "It removes your loincloth and it's own, exposing both of your naked bodies to one another."
+    "他接着解开了你和他自己的遮裆布，彻底暴露彼此的私处。"
 
-# translate schinese scene_buggbear_lose_56db0d1c:
+translate schinese scene_buggbear_lose_56db0d1c:
 
-#     # e "What the fuck are you doing? I didn't say you could fuck me, you moron!"
-#     e ""
+    # e "What the fuck are you doing? I didn't say you could fuck me, you moron!"
+    e "你他妈在干什么？我可没允许你肏我啊，傻冒！"
 
-# translate schinese scene_buggbear_lose_275c4651:
+translate schinese scene_buggbear_lose_275c4651:
 
-#     # "The Buggbear growls and removes the rest of your clothing, including your courier bag, Sebas' charm, and your weapon."
-#     ""
+    # "The Buggbear growls and removes the rest of your clothing, including your courier bag, Sebas' charm, and your weapon."
+    "熊地精显然对你骂他又丑又蠢很不爽，他粗暴地除去了你身上剩下的东西，衣裤、挎包、武器……"
 
-# translate schinese scene_buggbear_lose_1dee39ff:
+translate schinese scene_buggbear_lose_1dee39ff:
 
-#     # "It seems that Buggbear is pissed that you keep calling it names."
-#     ""
+    # "It seems that Buggbear is pissed that you keep calling it names."
+    pass
 
-# translate schinese scene_buggbear_lose_82809f51:
+translate schinese scene_buggbear_lose_82809f51:
 
-#     # "You struggle to break free knowing that if you don't, you won't able to walk for a while and you'll pass out from exhaustion."
-#     ""
+    # "You struggle to break free knowing that if you don't, you won't able to walk for a while and you'll pass out from exhaustion."
+    "你深知再这么下去自己会连路都走不了，甚至还有可能直接昏死过去。"
 
-# translate schinese scene_buggbear_lose_f5f251db:
+translate schinese scene_buggbear_lose_f5f251db:
 
-#     # "It holds you in place making your struggling in vein, sadly the beast was much stronger than you."
-#     ""
+    # "It holds you in place making your struggling in vein, sadly the beast was much stronger than you."
+    "熊地精紧紧地抓住你，使你动弹不得。无论体格还是气力他都比你强壮太多太多。"
 
-# translate schinese scene_buggbear_lose_b05b6c8b:
+translate schinese scene_buggbear_lose_b05b6c8b:
 
-#     # "Buggbear began grinding it's cock against your ass, Buggbear moaned and you knew it would start fucking you soon."
-#     ""
+    # "Buggbear began grinding it's cock against your ass, Buggbear moaned and you knew it would start fucking you soon."
+    "没有衣物阻挡，他得以将大肉棒直接比在你两瓣中，开始剐蹭入口的嫩肉。"
 
-# translate schinese scene_buggbear_lose_f9e00384:
+translate schinese scene_buggbear_lose_f9e00384:
 
-#     # e "Let me move and I'll do what you want, you're much stronger than me...I should just let you fuck me and be done with it."
-#     e ""
+    # e "Let me move and I'll do what you want, you're much stronger than me...I should just let you fuck me and be done with it."
+    e "长痛不如短痛……嘿！让我自己动，我会让你爽的。"
 
-# translate schinese scene_buggbear_lose_899c808e:
+translate schinese scene_buggbear_lose_899c808e:
 
-#     # "Buggbear didn't loosen it's hold, instead it ground it's cock against your ass and moaned again."
-#     ""
+    # "Buggbear didn't loosen it's hold, instead it ground it's cock against your ass and moaned again."
+    "你意识到凭自己这副小身板与熊地精肉搏毫无意义，先前的挣扎不过是白费力气。"
 
-# translate schinese scene_buggbear_lose_0fc6ee51:
+translate schinese scene_buggbear_lose_0fc6ee51:
 
-#     # "You realized that it was pointless to struggle against such a powerful beast, it overpowered you easily you had been foolish to fight it."
-#     ""
+    # "You realized that it was pointless to struggle against such a powerful beast, it overpowered you easily you had been foolish to fight it."
+    "巨兽的束缚没有放松一丝一毫。他边蹭着你的臀缝，边哼出愉悦的低吼。正戏即将上演。"
 
-# translate schinese scene_buggbear_lose_e2b91247:
+translate schinese scene_buggbear_lose_e2b91247:
 
-#     # "The Buggbear took you up to the top of the outpost for some strange reason, maybe it was too shy to have others watch it have intercourse... you could only guess."
-#     ""
+    # "The Buggbear took you up to the top of the outpost for some strange reason, maybe it was too shy to have others watch it have intercourse... you could only guess."
+    "不知为何，他突然起身，将你带上了旁边的哨塔。"
+    "或许他也会害羞，不想被其他人看见他的性事……你只能这么推测。"
 
-# translate schinese scene_buggbear_lose_db883d13:
+translate schinese scene_buggbear_lose_db883d13:
 
-#     # "Reaching the top of the outpost, Buggbear leaned back with you against it's body both of you were naked and your cocks were both hard."
-#     ""
+    # "Reaching the top of the outpost, Buggbear leaned back with you against it's body both of you were naked and your cocks were both hard."
+    "你们全身赤裸地窝在哨塔平台，熊地精反抱着你，让巨根卡在你两腿之间。"
 
-# translate schinese scene_buggbear_lose_06bbe224:
+translate schinese scene_buggbear_lose_06bbe224:
 
-#     # "Its cock was already leaking precum which it used as a lubricant preparing your hole for the intrusion of it."
-#     ""
+    # "Its cock was already leaking precum which it used as a lubricant preparing your hole for the intrusion of it."
+    "眼下巨根青筋暴起，顶端不断冒出淫液，为待会直捣黄龙做好润滑的准备。"
 
-# translate schinese scene_buggbear_lose_5ce5f4f1:
+translate schinese scene_buggbear_lose_5ce5f4f1:
 
-#     # "You didn't want to do this but Buggbear was too powerful and you'd made a terrible mistake, your own cock betrayed your feelings since it was hard and leaking precum."
-#     ""
+    # "You didn't want to do this but Buggbear was too powerful and you'd made a terrible mistake, your own cock betrayed your feelings since it was hard and leaking precum."
+    "你虽然内心有一万个不情愿，但鸡巴却不争气地硬了。你的鸡巴同样冒着淫液，向这头巨兽传递危险的欢迎信号。"
 
-# translate schinese scene_buggbear_lose_a9e928a3:
+translate schinese scene_buggbear_lose_a9e928a3:
 
-#     # "Buggbear slowly pushed its cock inside of your hole, your anal ring definitely resisted and that made you cry out in pain."
-#     ""
+    # "Buggbear slowly pushed its cock inside of your hole, your anal ring definitely resisted and that made you cry out in pain."
+    "熊地精将肉棒对准你的屁眼慢慢试着顶入，压力集中到了你身体最柔嫩的角落，令你痛苦地大叫。"
 
-# translate schinese scene_buggbear_lose_8f193a38:
+translate schinese scene_buggbear_lose_8f193a38:
 
-#     # "It was very determined though, soon your anal ring gave way and let the beast's cock inside of your ass."
-#     ""
+    # "It was very determined though, soon your anal ring gave way and let the beast's cock inside of your ass."
+    "看来他今天非肏你不可。你的小穴顽抗不过这股蛮力，很快便被这根大肉棒撑开了个大口。"
 
-# translate schinese scene_buggbear_lose_534e615d:
+translate schinese scene_buggbear_lose_534e615d:
 
-#     # e "Arrrrrgh! You stupid imbecile! I told you that I didn't want this-! Aaaah!~"
-#     e ""
+    # e "Arrrrrgh! You stupid imbecile! I told you that I didn't want this-! Aaaah!~"
+    e "啊啊啊啊啊！你这个蠢货！我告诉你不要——啊~"
 
-# translate schinese scene_buggbear_lose_e8685802:
+translate schinese scene_buggbear_lose_e8685802:
 
-#     # "Buggbear's cock had hit your prostate right when you had been in the middle of speaking causing you moan out of reaction, despite not wanting this you couldn't deny that it felt really good."
-#     ""
+    # "Buggbear's cock had hit your prostate right when you had been in the middle of speaking causing you moan out of reaction, despite not wanting this you couldn't deny that it felt really good."
+    "巨根长驱直入碾过你的前列腺，迫使你无心咒骂。"
+    "你绝不允许自己被这样侵犯，但无可否认被肏到点上的感觉实在太爽了。"
 
-# translate schinese scene_buggbear_lose_79ad0373:
+translate schinese scene_buggbear_lose_79ad0373:
 
-#     # e "Fine! You want to fuck me? I'm in charge then, you horny ass beast!"
-#     e ""
+    # e "Fine! You want to fuck me? I'm in charge then, you horny ass beast!"
+    e "想肏我是吧？行！但我的身体我做主，淫兽！"
 
-# translate schinese scene_buggbear_lose_caafb5d0:
+translate schinese scene_buggbear_lose_caafb5d0:
 
-#     # "Buggbear began thrusting harder to shut you up and make you moan instead, you grabbed the beast's hips and wrapped your tail around it's hips preventing Buggbear from thrusting."
-#     ""
+    # "Buggbear began thrusting harder to shut you up and make you moan instead, you grabbed the beast's hips and wrapped your tail around it's hips preventing Buggbear from thrusting."
+    "熊地精挺动腰腹开始大力抽插，他想让你大声浪叫而不是废话连篇。"
+    "但你两手抵住他的大腿根，用尾巴缠住了他的臀部，使他没法大幅度活动。"
 
-# translate schinese scene_buggbear_lose_1eea81b8:
+translate schinese scene_buggbear_lose_1eea81b8:
 
-#     # e "If we're fucking we're doing this...MY WAY!"
-#     e ""
+    # e "If we're fucking we're doing this...MY WAY!"
+    e "如果你想爽……就得按我的来！"
 
-# translate schinese scene_buggbear_lose_9b085444:
+translate schinese scene_buggbear_lose_9b085444:
 
-#     # "It grunted before growling at you, clearly unhappy that your tail was restrain it's hips."
-#     ""
+    # "It grunted before growling at you, clearly unhappy that your tail was restrain it's hips."
+    "熊地精不满地咕哝几声。见你执意不肯放松，他便向你咆哮示威。"
 
-# translate schinese scene_buggbear_lose_8719c6f3:
+translate schinese scene_buggbear_lose_8719c6f3:
 
-#     # "You focused on pleasing Buggbear by pulling almost all the off of the beast's cock before slamming your ass back down against his cock."
-#     ""
+    # "You focused on pleasing Buggbear by pulling almost all the off of the beast's cock before slamming your ass back down against his cock."
+    "为了让他听你的话，你支起身子推出大半截肉棒，再猛地完全坐下去，全身心投入在取悦这头暴脾气的野兽上。"
 
-# translate schinese scene_buggbear_lose_fd5ecdd9:
+translate schinese scene_buggbear_lose_fd5ecdd9:
 
-#     # "Moaning as your prostate was hit each time causing Buggbear to moan loudly as well."
-#     ""
+    # "Moaning as your prostate was hit each time causing Buggbear to moan loudly as well."
+    "巨根完全撑满你的肠道，无论怎么进出都能抵中那个敏感点，带给你最直击心灵的欢愉。不仅是你，熊地精也舒服得嗷嗷直叫。"
 
-# translate schinese scene_buggbear_lose_3577c998:
+translate schinese scene_buggbear_lose_3577c998:
 
-#     # "Buggbear growled clearly hating the fact that you had taken control but you didn't give a fuck, this was your ass not his and if you were going to be fucked by this beast you would be in control!"
-#     ""
+    # "Buggbear growled clearly hating the fact that you had taken control but you didn't give a fuck, this was your ass not his and if you were going to be fucked by this beast you would be in control!"
+    "突然他反应过来自己失去了掌控，呻吟立马转为怒吼。"
+    "但你才不管他乐不乐意。这可是你的屁股，如果注定要被肏，至少得你决定怎么个肏法！"
 
-# translate schinese scene_buggbear_lose_06aae960:
+translate schinese scene_buggbear_lose_06aae960:
 
-#     # "You continued to pull almost all the way off of Buggbear's cock before slamming your ass back down against his cock, waves of ecstasy flooded both of your bodies as you found a rhythm."
-#     ""
+    # "You continued to pull almost all the way off of Buggbear's cock before slamming your ass back down against his cock, waves of ecstasy flooded both of your bodies as you found a rhythm."
+    "你重复着之前的动作，大起大落让大鸡巴贯穿你的小淫洞。你们找到了令彼此都能享受的节律。"
 
-# translate schinese scene_buggbear_lose_d7ac8904:
+translate schinese scene_buggbear_lose_d7ac8904:
 
-#     # "Buggbear moaned loudly and grunted with each movement of your ass."
-#     ""
+    # "Buggbear moaned loudly and grunted with each movement of your ass."
+    "你把这头猛兽当成自慰用的器械，引导巨根对准花心狂轰滥炸。"
 
-# translate schinese scene_buggbear_lose_3a447a04:
+translate schinese scene_buggbear_lose_3a447a04:
 
-#     # "Impaling yourself on his cock as you pulled almost all the way off before slamming back down on his cock which hit your prostate harder, faster and rougher each time."
-#     ""
+    # "Impaling yourself on his cock as you pulled almost all the way off before slamming back down on his cock which hit your prostate harder, faster and rougher each time."
+    "他两只大手抓着你的躯干，配合你一上一下套弄自己的性器，发出快活的嘶吼。"
 
-# translate schinese scene_buggbear_lose_6254dd31:
+translate schinese scene_buggbear_lose_6254dd31:
 
-#     # e "F-F-Fuck...yes!~ I may not have wanted this...but fuck if it doesn't feel great...!~"
-#     e ""
+    # e "F-F-Fuck...yes!~ I may not have wanted this...but fuck if it doesn't feel great...!~"
+    e "哈啊——肏！你可不要会错意思……但真的好爽……啊~"
 
-# translate schinese scene_buggbear_lose_3cc80b52:
+translate schinese scene_buggbear_lose_3cc80b52:
 
-#     # "You moaned continuing to impale yourself on the Buggbear's cock, you were definitely a power bottom and now Buggbear knew that."
-#     ""
+    # "You moaned continuing to impale yourself on the Buggbear's cock, you were definitely a power bottom and now Buggbear knew that."
+    "你夹紧后穴，奋力吸吮这根自然天成的大鸡巴。熊地精现在知道你可不是个被动的善茬了。"
 
-# translate schinese scene_buggbear_lose_eb4cdacb:
+translate schinese scene_buggbear_lose_eb4cdacb:
 
-#     # "Both of you moan as your power bottom rhythm continued to cause both of you unbridled bliss."
-#     ""
+    # "Both of you moan as your power bottom rhythm continued to cause both of you unbridled bliss."
+    "哨塔上，呻吟声与肉击声此起彼伏。你们跟随这美妙的节拍，抽插不停快感不断。"
 
-# translate schinese scene_buggbear_lose_fda05325:
+translate schinese scene_buggbear_lose_fda05325:
 
-#     # "The Buggbear seemed to forget that he wasn't in control but he was still getting ass so he seemed to be satisfied."
-#     ""
+    # "The Buggbear seemed to forget that he wasn't in control but he was still getting ass so he seemed to be satisfied."
+    "巨兽沉浸在被榨精的欢愉中，全然忘记了自己不再是主导者。"
 
-# translate schinese scene_buggbear_lose_cfc526d7:
+translate schinese scene_buggbear_lose_cfc526d7:
 
-#     # "Nothing remained but the lustful desires that both of you shared in this moment, both of you moaned loudly and soon both of you would cum but not just yet."
-#     ""
+    # "Nothing remained but the lustful desires that both of you shared in this moment, both of you moaned loudly and soon both of you would cum but not just yet."
+    "然而由谁主导已经无关紧要，因为此刻你们都是欲望的奴隶，即将达到共同的高潮。"
 
-# translate schinese scene_buggbear_lose_df5cf3c4:
+translate schinese scene_buggbear_lose_df5cf3c4:
 
-#     # "Buggbear grunted each time you impaled yourself on his cock, moaning when his cock hit your prostate each time harder, faster and rougher than before."
-#     ""
+    # "Buggbear grunted each time you impaled yourself on his cock, moaning when his cock hit your prostate each time harder, faster and rougher than before."
+    "熊地精越发狂躁地冲撞你的前列腺，像要把你活生生捅穿一样。你感觉这个世界除了肚子里的那根大屌便什么都不剩了。"
 
-# translate schinese scene_buggbear_lose_dfb5fac6:
+translate schinese scene_buggbear_lose_dfb5fac6:
 
-#     # "Buggbear's and your own balls both began to tingle, both of you wanted to cum but not yet this was too fucking good to stop."
-#     ""
+    # "Buggbear's and your own balls both began to tingle, both of you wanted to cum but not yet this was too fucking good to stop."
+    "你们的睾丸开始抬升，随时准备发射。但你和他却不约而同选择守住精关，直至快感累积突破极限。"
 
-# translate schinese scene_buggbear_lose_a7980dd8:
+translate schinese scene_buggbear_lose_a7980dd8:
 
-#     # e "I'm so...close to...cumming!~"
-#     e ""
+    # e "I'm so...close to...cumming!~"
+    e "我……我要射了！"
 
-# translate schinese scene_buggbear_lose_336ec8e8:
+translate schinese scene_buggbear_lose_336ec8e8:
 
-#     # "The Buggbear roared as his orgasm struck and his cum shot deep inside of your body."
-#     ""
+    # "The Buggbear roared as his orgasm struck and his cum shot deep inside of your body."
+    pass
 
-# translate schinese scene_buggbear_lose_56ba8fb8:
+translate schinese scene_buggbear_lose_56ba8fb8:
 
-#     # "You could feel his cum flooding your insides, there was so much of it that it leaked out of your asshole even though his cock was still there."
-#     ""
+    # "You could feel his cum flooding your insides, there was so much of it that it leaked out of your asshole even though his cock was still there."
+    "你大叫着射出精华，一发发浓稠的白浆落得腹肌、胸肌、甚至脸上都是。"
+    "而熊地精也将雄精倾注到了你身体的最深处。"
+    "十股，二十股……灼热的精液灌满了你的肠道，甚至多到撑不下而从穴口爆出。要知道，你的小穴还被全盛巨根紧紧塞着呢。"
 
-# translate schinese scene_buggbear_lose_d0c341e5:
+translate schinese scene_buggbear_lose_d0c341e5:
 
-#     # "Buggbear was so pent up that your stomach bulged out making it look like you were nine months pregnant."
-#     ""
+    # "Buggbear was so pent up that your stomach bulged out making it look like you were nine months pregnant."
+    "这头猛兽兴奋到了极点，他摁着你不放，逼迫交配对象接受他所有的种汁。"
 
-# translate schinese scene_buggbear_lose_d627becf:
+translate schinese scene_buggbear_lose_d627becf:
 
-#     # "You knew you weren't though that was all of the excess cum stuck inside of your body causing it to inflate."
-#     ""
+    # "You knew you weren't though that was all of the excess cum stuck inside of your body causing it to inflate."
+    "你的肚皮逐渐鼓胀，像个怀胎九月的孕妇。"
 
-# translate schinese scene_buggbear_lose_062b935b:
+translate schinese scene_buggbear_lose_062b935b:
 
-#     # "Roaring you shot your load everywhere, thick ropes of cum erupted from your cock several shots landed on your abs, your stomach, your chest and some even landed on your face."
-#     ""
+    # "Roaring you shot your load everywhere, thick ropes of cum erupted from your cock several shots landed on your abs, your stomach, your chest and some even landed on your face."
+    pass
 
-# translate schinese scene_buggbear_lose_7ec658e4:
+translate schinese scene_buggbear_lose_7ec658e4:
 
-#     # "Buggbear and yourself took a few moments to recover, a puddle of cum formed underneath both of you."
-#     ""
+    # "Buggbear and yourself took a few moments to recover, a puddle of cum formed underneath both of you."
+    "你和他精液混在一起，在身下形成一滩精泊。"
 
-# translate schinese scene_buggbear_lose_af7e8abf:
+translate schinese scene_buggbear_lose_af7e8abf:
 
-#     # "Some of your cum even landed on your legs and tail, that was going to be a bitch to get out of your fur later."
-#     ""
+    # "Some of your cum even landed on your legs and tail, that was going to be a bitch to get out of your fur later."
+    "有些渗进了你腿脚和尾巴的毛里，待会清洗起来肯定麻烦得很。"
 
-# translate schinese scene_buggbear_lose_cceeef80:
+translate schinese scene_buggbear_lose_cceeef80:
 
-#     # "Mixed cum dripped off of the outposts edge, it seemed like both of you had made quite the mess."
-#     ""
+    # "Mixed cum dripped off of the outposts edge, it seemed like both of you had made quite the mess."
+    "有些流向了哨塔平台边缘，透过木板缝滴落到地面，把这里弄得一团糟。"
 
-# translate schinese scene_buggbear_lose_0152d715:
+translate schinese scene_buggbear_lose_0152d715:
 
-#     # e "Fuuuuck, that was so great...sooo...*hic* full!~"
-#     e ""
+    # e "Fuuuuck, that was so great...sooo...*hic* full!~"
+    e "天啊，真是太——嗝……爽了。"
 
-# translate schinese scene_buggbear_lose_61627c64:
+translate schinese scene_buggbear_lose_61627c64:
 
-#     # "You let your tail relax and removed it from Buggbear's hips, Buggbear grunted in appreciation and pulled his cock out of you."
-#     ""
+    # "You let your tail relax and removed it from Buggbear's hips, Buggbear grunted in appreciation and pulled his cock out of you."
+    "你松开缠绕熊地精臀部的尾巴，他则随之缓缓抽出巨根，发出心满意足的低吼。"
 
-# translate schinese scene_buggbear_lose_f9e93d07:
+translate schinese scene_buggbear_lose_f9e93d07:
 
-#     # "The moment that he did though cum began flowing out of ruined hole, it was like a cum-geyser was shooting out of your ass."
-#     ""
+    # "The moment that he did though cum began flowing out of ruined hole, it was like a cum-geyser was shooting out of your ass."
+    "肉塞拔出的瞬间，白花花的种汁从淫洞中喷涌而出，好比一柱喷泉。"
 
-# translate schinese scene_buggbear_lose_ef48c997:
+translate schinese scene_buggbear_lose_ef48c997:
 
-#     # e "You really...did a number...on me there, big guy! You could've been...more gentle with...your thrusting! Owww...."
-#     e ""
+    # e "You really...did a number...on me there, big guy! You could've been...more gentle with...your thrusting! Owww...."
+    e "嘶……疼死我了，大块头！你本来可以……轻点的！嗷……"
 
-# translate schinese scene_buggbear_lose_0e3e7c5d:
+translate schinese scene_buggbear_lose_0e3e7c5d:
 
-#     # bb "S-sorry..."
-#     bb ""
+    # bb "S-sorry..."
+    bb "对不起……"
 
-# translate schinese scene_buggbear_lose_e01cbf8c:
+translate schinese scene_buggbear_lose_e01cbf8c:
 
-#     # e "No I'm sorry, you did win the fight...it's only natural that get to be rough if you want."
-#     e ""
+    # e "No I'm sorry, you did win the fight...it's only natural that get to be rough if you want."
+    e "不，既然你打赢了我……那么你想对我多粗暴都天经地义。"
 
-# translate schinese scene_buggbear_lose_dee48c24:
+translate schinese scene_buggbear_lose_dee48c24:
 
-#     # "The Buggbear grunted and cuddled you for a while, maybe this was his way of saying he was sorry for being too rough with what little thrusting he did."
-#     ""
+    # "The Buggbear grunted and cuddled you for a while, maybe this was his way of saying he was sorry for being too rough with what little thrusting he did."
+    "巨兽轻轻哀嚎，将你抱在怀里，以自己的方式表达歉意。"
 
-# translate schinese scene_buggbear_lose_2b6994ef:
+translate schinese scene_buggbear_lose_2b6994ef:
 
-#     # "Maybe Buggbears were just misunderstood a little bit, the big beast was actually being sweet right now by cuddling with you."
-#     ""
+    # "Maybe Buggbears were just misunderstood a little bit, the big beast was actually being sweet right now by cuddling with you."
+    "或许熊地精这个种族被大家误解了，其实他们也可以非常温柔。"
 
-# translate schinese scene_buggbear_lose_fd76b2c0:
+translate schinese scene_buggbear_lose_fd76b2c0:
 
-#     # "The Buggbear got up and helped you to your feet holding you there and grunting as he did."
-#     ""
+    # "The Buggbear got up and helped you to your feet holding you there and grunting as he did."
+    "他率先起身，握住你的手臂扶你起来。他口齿不清地嘟囔着，好像想对你说些什么。"
 
-# translate schinese scene_buggbear_lose_004e5c02:
+translate schinese scene_buggbear_lose_004e5c02:
 
-#     # bb "T-Thank...you!~"
-#     bb ""
+    # bb "T-Thank...you!~"
+    bb "靴、谢……你！"
 
-# translate schinese scene_buggbear_lose_2bef625c:
+translate schinese scene_buggbear_lose_2bef625c:
 
-#     # e "You're welcome, next time give me a sign you want to fuck. I'll gladly help you out~"
-#     e ""
+    # e "You're welcome, next time give me a sign you want to fuck. I'll gladly help you out~"
+    e "不用谢，下次你要是想干我，给我打声招呼就好。我很乐意帮你发泄发泄~"
 
-# translate schinese scene_buggbear_lose_f9f8b9b9:
+translate schinese scene_buggbear_lose_f9f8b9b9:
 
-#     # "Apparently a Buggbear could only speak a few words of the human tongue, nonetheless you were grateful that he thanked you for giving him your ass to dump his load in."
-#     ""
+    # "Apparently a Buggbear could only speak a few words of the human tongue, nonetheless you were grateful that he thanked you for giving him your ass to dump his load in."
+    "显然熊地精还不能通过言语表达比“谢谢你”更复杂的句子。但这头野兽懂得感激你舍身供他泄欲，你已经知足了。"
 
-# translate schinese scene_buggbear_lose_4751a315:
+translate schinese scene_buggbear_lose_4751a315:
 
-#     # "You could feel the Buggbear's cum leaking out of your hole as soon as you were on you feet."
-#     ""
+    # "You could feel the Buggbear's cum leaking out of your hole as soon as you were on you feet."
+    "当你直起身子时，肚子里的精液还在不断往外冒，经由大腿流到地板。"
 
-# translate schinese scene_buggbear_lose_7736de88:
+translate schinese scene_buggbear_lose_7736de88:
 
-#     # "The Buggbear gently hugged and licked you briefly before letting go and jumping off of the outposts and into the bushes."
-#     ""
+    # "The Buggbear gently hugged and licked you briefly before letting go and jumping off of the outposts and into the bushes."
+    "巨兽再一次温柔地抱住你，舔了你一口后便跳下了哨塔，蹿进树丛消失不见。"
 
-# translate schinese scene_buggbear_lose_185f18cf:
+translate schinese scene_buggbear_lose_185f18cf:
 
-#     # "You just hoped Haskell hadn't seen this, that would be so fucking embarrassing if he had seen you lose to the enemy."
-#     ""
+    # "You just hoped Haskell hadn't seen this, that would be so fucking embarrassing if he had seen you lose to the enemy."
+    "你希望哈斯克尔没有恰好路过看见你被敌人彻底征服的窘样，不然你可尴尬死了。"
 
-# translate schinese scene_buggbear_lose_6200e222:
+translate schinese scene_buggbear_lose_6200e222:
 
-#     # e "That wasn't so bad after all, I just have to be more careful not to lose in the future so this doesn't happen again...well not unless I want it to that is.~"
-#     e ""
+    # e "That wasn't so bad after all, I just have to be more careful not to lose in the future so this doesn't happen again...well not unless I want it to that is.~"
+    "到头来输给熊地精并不完全是件坏事，下次做好准备别被打败就好了，除非你故意要被打败……"
 
-# translate schinese scene_buggbear_lose_7d901607:
+translate schinese scene_buggbear_lose_7d901607:
 
-#     # "The Buggbear was actually kinda sweet, that didn't excuse the beast's behavior though at all!"
-#     ""
+    # "The Buggbear was actually kinda sweet, that didn't excuse the beast's behavior though at all!"
+    pass
 
-# translate schinese scene_buggbear_lose_5e87911d:
+translate schinese scene_buggbear_lose_5e87911d:
 
-#     # e "Fuck my ass hurts! Buggbear could've been a little more gentle, oh well they're known for their savage ways anyways."
-#     e ""
+    # e "Fuck my ass hurts! Buggbear could've been a little more gentle, oh well they're known for their savage ways anyways."
+    e "尻，我的屁股！果然野蛮才是他们的本性啊。"
+    "熊地精刚刚的温顺体贴并不能为他干爆了你的屁股开脱！"
 
-# translate schinese scene_buggbear_lose_a223eebc:
+translate schinese scene_buggbear_lose_a223eebc:
 
-#     # "You might have just discovered that the Buggbears have a sweet side too after sex that is, who knew such savage creatures could be so sweet?"
-#     ""
+    # "You might have just discovered that the Buggbears have a sweet side too after sex that is, who knew such savage creatures could be so sweet?"
+    pass
 
-# translate schinese scene_buggbear_lose_3b6768e3:
+translate schinese scene_buggbear_lose_3b6768e3:
 
-#     # "You decide to keep that little secret all to yourself, no sense telling anyone unless you want them to know you got fucked by a Buggbear."
-#     ""
+    # "You decide to keep that little secret all to yourself, no sense telling anyone unless you want them to know you got fucked by a Buggbear."
+    pass
 
-# translate schinese scene_buggbear_lose_e9a60d78:
+translate schinese scene_buggbear_lose_e9a60d78:
 
-#     # "Climbing down from the outpost you found your clothes, all the while cum leaked out of your poor ass hole."
-#     ""
+    # "Climbing down from the outpost you found your clothes, all the while cum leaked out of your poor ass hole."
+    "你从哨塔爬下，后穴内的精液随着你攀爬的动作挥洒到绿地上。"
+    "经历完这场另类肉搏，你发现了熊地精不为人知的另一面。"
 
-# translate schinese scene_buggbear_lose_f5832648:
+translate schinese scene_buggbear_lose_f5832648:
 
-#     # e "My aching ass...aside from that Buggbear actually has a sweet side, he did hug and lick me. Which was very strange..."
-#     e ""
+    # e "My aching ass...aside from that Buggbear actually has a sweet side, he did hug and lick me. Which was very strange..."
+    "但你还是不知道为什么他最后要舔你一口，这简直太奇怪了……"
 
-# translate schinese scene_buggbear_lose_9b7b830e:
+translate schinese scene_buggbear_lose_9b7b830e:
 
-#     # "You wondered what Ole, Sebas or Lothar would think if they ever found out about this."
-#     ""
+    # "You wondered what Ole, Sebas or Lothar would think if they ever found out about this."
+    "要是乐村的伙伴们知道了这件事会怎么想呢？"
+    "你决定将这个小秘密藏进心底，毕竟你可不想别人知道你是通过什么方式发现的。"
 
-# translate schinese scene_buggbear_lose_ea38b78f:
+translate schinese scene_buggbear_lose_ea38b78f:
 
-#     # "Finally the cum stopped flowing and you were able to put your clothes back on and gather you things."
-#     ""
+    # "Finally the cum stopped flowing and you were able to put your clothes back on and gather you things."
+    "终于，你后面不再淌精。你捡起散落的衣服穿上，收拾好自己的装备。"
 
-# translate schinese scene_buggbear_lose_12014bd0:
+translate schinese scene_buggbear_lose_12014bd0:
 
-#     # "Having checked to make sure everything was still there you winced in pain as you walked off to leave."
-#     ""
+    # "Having checked to make sure everything was still there you winced in pain as you walked off to leave."
+    "检查过没有遗漏任何东西后，你揉着屁股一瘸一拐离开了这里。"
 
 # translate schinese Scene_Tavern_Meet_01_860df4dd:
 

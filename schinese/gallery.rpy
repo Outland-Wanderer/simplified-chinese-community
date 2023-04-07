@@ -21,8 +21,8 @@ translate schinese strings:
     old "{color=#000}Winning in Goat Battle{/color}"
     new "{color=#000}战胜山羊猎人{/color}"
 
-    # old "{color=#000}Losing in Buggbear Battle{/color}"
-    # new "{color=#000}战败熊地精{/color}"
+    old "{color=#000}Losing in Buggbear Battle{/color}"
+    new "{color=#000}战败熊地精{/color}"
 
     # old "{color=#000}Winning in Buggbear Battle{/color}"
     # new "{color=#000}战胜熊地精{/color}"

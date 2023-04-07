@@ -1871,7 +1871,7 @@ translate schinese Haskell_How_Doing_033fcb38:
 translate schinese Haskell_How_Doing_ff7daf55:
 
     # e "Fuck, you made me cough, Haskell."
-    e "靠，呛死我了。哈斯克尔！"
+    e "尻，呛死我了。哈斯克尔！"
 
 translate schinese Haskell_How_Doing_5554bd44:
 
@@ -2022,7 +2022,7 @@ translate schinese Haskell_Meet_Hut_e8027532:
 translate schinese Haskell_Meet_Hut_8a237421:
 
     # e "Ahhh... fuck... I'm [e]."
-    e "啊……靠……我叫[e]。"
+    e "啊……尻……我叫[e]。"
 
 translate schinese Haskell_Meet_Hut_3b588477:
 
@@ -2107,7 +2107,7 @@ translate schinese Haskell_Meet_Hut_44afa5a2:
 translate schinese Haskell_Meet_Hut_04a2925a:
 
     # e "Ahhh... fuck. Haskell, didn't expect to see you here..."
-    e "啊……靠。哈斯克尔，没想到你会在这……"
+    e "啊……尻。哈斯克尔，没想到你会在这……"
 
 translate schinese Haskell_Meet_Hut_b0b8cecd:
 
