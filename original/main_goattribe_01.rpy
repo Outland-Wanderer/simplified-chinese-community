@@ -3283,9 +3283,9 @@ translate schinese Kari_Trusty_10bbd153:
     # e "Yes, actually. I've noticed that you don't actually seem to be a goat, from what I can tell? And neither is Furkan, for that matter."
     e ""
 
-translate schinese Kari_Trusty_19e4f114:
+translate schinese Kari_Trusty_7e7546dd:
 
-    # "The goat(?) across from you seems to find humor in your question, as if it should be obvious to you."
+    # "The ram across from you seems to find humor in your question, as if it should be obvious to you."
     ""
 
 translate schinese Kari_Trusty_85c42dc5:
@@ -3773,9 +3773,9 @@ translate schinese Kari_Adventure_5e3da0d1:
     # e "I don't think that's the Chime I know."
     e ""
 
-translate schinese Kari_Adventure_8dfff518:
+translate schinese Kari_Adventure_5f77cd4c:
 
-    # k "Well, take it as you'd like. You're still coming with me."
+    # k "Well, take it as you'd like."
     k ""
 
 translate schinese Kari_Adventure_f05300f3:
@@ -3788,9 +3788,9 @@ translate schinese Kari_Adventure_3d9f89c9:
     # "It continues for a while until you are bored of the silence."
     ""
 
-translate schinese Kari_Adventure_f70f4a7d:
+translate schinese Kari_Adventure_540225b9:
 
-    # "You walk up to catch up with him."
+    # "You walk a little faster to catch up with him."
     ""
 
 translate schinese Kari_Adventure_6b90839e:
@@ -3808,9 +3808,9 @@ translate schinese Kari_Adventure_07d940a5:
     # e "That monster, with the cape."
     e ""
 
-translate schinese Kari_Adventure_52e42c66:
+translate schinese Kari_Adventure_befdd647:
 
-    # k "I'm not wearing a cape."
+    # k "I've told you already, I'm not wearing a cape."
     k ""
 
 translate schinese Kari_Adventure_d7a7cea5:
@@ -4653,10 +4653,10 @@ translate schinese Furkan_Second_Meet_96c0af12:
     # "You notice a sign of frustration in Furkan's voice."
     ""
 
-translate schinese Furkan_Second_Meet_24695d0b:
+translate schinese Furkan_Second_Meet_b5d63560:
 
-    # e "The battle had been ages, 4 years already, and the old bull still does not think it is enough."
-    e ""
+    # f "The battle had been ages, 4 years already, and the old bull still does not think it is enough."
+    f ""
 
 translate schinese Furkan_Second_Meet_3830ea84:
 
@@ -4800,13 +4800,16 @@ translate schinese strings:
     old "Hawkaita"
     new ""
 
-    old "Lusterfield"
+    old "Lusterfield{#goattribeenter1}"
     new ""
 
     old "The Town"
     new ""
 
-    old "Haskell's Hut"
+    old "Lusterfield{#goattribeenter2}"
+    new ""
+
+    old "Haskell's Hut{#goattribeenter2}"
     new ""
 
     old "You might need to do something here."

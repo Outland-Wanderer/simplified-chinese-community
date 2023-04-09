@@ -619,6 +619,9 @@ translate schinese strings:
     old "Use Rock"
     new ""
 
+    old "No{#banditdenhole}"
+    new ""
+
     old "There's a plank on the hole in front of you, do you want to take it out?"
     new ""
 

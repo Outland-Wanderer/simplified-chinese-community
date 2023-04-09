@@ -1956,6 +1956,9 @@ translate schinese strings:
     old "Yes{#mimiclose}"
     new ""
 
+    old "Skip{#mimiclose}"
+    new ""
+
     old "Rune Guardian"
     new ""
 
