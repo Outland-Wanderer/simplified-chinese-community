@@ -1470,6 +1470,12 @@ translate schinese strings:
     old "[item_num] x Strength Potion"
     new "[item_num]力量药剂"
 
+    # old "[item_num] x Accuracy Potion"
+    # new ""
+
+    # old "[item_num] x Tenacity Potion"
+    # new ""
+
     old "[item_num] x Green Ointment"
     new "[item_num]绿色药膏"
 

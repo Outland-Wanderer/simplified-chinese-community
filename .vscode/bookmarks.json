@@ -126,80 +126,95 @@
 				{
 					"line": 30,
 					"column": 0,
-					"label": "Ability_Self_Heal"
+					"label": "Use_Accuracy_Potion"
 				},
 				{
 					"line": 35,
 					"column": 0,
+					"label": "Use_Tenacity_Potion"
+				},
+				{
+					"line": 40,
+					"column": 0,
+					"label": "Ability_Self_Heal"
+				},
+				{
+					"line": 45,
+					"column": 0,
 					"label": "Ability_Fiery_Charge"
-				},
-				{
-					"line": 55,
-					"column": 0,
-					"label": "Ability_Fortify"
-				},
-				{
-					"line": 60,
-					"column": 0,
-					"label": "Ability_Alluring_Lust"
 				},
 				{
 					"line": 65,
 					"column": 0,
-					"label": "Ability_Camouflage"
+					"label": "Ability_Piercing_Blow"
 				},
 				{
 					"line": 70,
 					"column": 0,
-					"label": "Ability_CoreStrike"
+					"label": "Ability_Fortify"
+				},
+				{
+					"line": 75,
+					"column": 0,
+					"label": "Ability_Alluring_Lust"
+				},
+				{
+					"line": 80,
+					"column": 0,
+					"label": "Ability_Camouflage"
 				},
 				{
 					"line": 85,
 					"column": 0,
-					"label": "Ability_Resolution"
+					"label": "Ability_CoreStrike"
 				},
 				{
-					"line": 90,
+					"line": 100,
 					"column": 0,
-					"label": "Battle_End_Check"
+					"label": "Ability_Resolution"
 				},
 				{
 					"line": 105,
 					"column": 0,
+					"label": "Battle_End_Check"
+				},
+				{
+					"line": 120,
+					"column": 0,
 					"label": "Battle_Mid_Check"
 				},
 				{
-					"line": 110,
+					"line": 125,
 					"column": 0,
 					"label": "Battle_Kari"
 				},
 				{
-					"line": 140,
+					"line": 155,
 					"column": 0,
 					"label": "Battle_ASF"
 				},
 				{
-					"line": 145,
+					"line": 160,
 					"column": 0,
 					"label": "goat_guard_battle"
 				},
 				{
-					"line": 170,
+					"line": 185,
 					"column": 0,
 					"label": "goat_guard_battle_loop"
 				},
 				{
-					"line": 760,
+					"line": 775,
 					"column": 0,
 					"label": "goat_general_battle"
 				},
 				{
-					"line": 770,
+					"line": 785,
 					"column": 0,
 					"label": "goat_general_battle_loop"
 				},
 				{
-					"line": 1015,
+					"line": 1030,
 					"column": 0,
 					"label": "goat_general_win"
 				},
@@ -209,29 +224,24 @@
 					"label": "goat_general_lose"
 				},
 				{
-					"line": 1610,
+					"line": 1595,
 					"column": 0,
 					"label": "lothar_battle"
 				},
 				{
-					"line": 1630,
+					"line": 1615,
 					"column": 0,
 					"label": "lothar_battle_loop"
 				},
 				{
-					"line": 1870,
+					"line": 1855,
 					"column": 0,
 					"label": "lothar_battle_loop2"
 				},
 				{
-					"line": 1990,
+					"line": 1975,
 					"column": 0,
 					"label": "lothar_battle_lose"
-				},
-				{
-					"line": 2280,
-					"column": 0,
-					"label": "lothar_battle_win"
 				}
 			]
 		},
@@ -375,7 +385,7 @@
 				},
 				{
 					"line": 599,
-					"column": 1,
+					"column": 0,
 					"label": "Bandit_Den_Hole_Filled"
 				},
 				{
@@ -459,82 +469,22 @@
 			"path": "schinese/main_goattribe_01.rpy",
 			"bookmarks": [
 				{
-					"line": 0,
-					"column": 0,
-					"label": "Kari_Dialogue"
-				},
-				{
-					"line": 140,
-					"column": 0,
-					"label": "Kari_Normal_Talk"
-				},
-				{
-					"line": 150,
-					"column": 0,
-					"label": "Kari_Ask_Goat_Tribe"
-				},
-				{
-					"line": 215,
-					"column": 0,
-					"label": "Kari_Ask_Warrior_Practice"
-				},
-				{
-					"line": 365,
-					"column": 0,
-					"label": "Kari_Warrior_Practice_Start"
-				},
-				{
-					"line": 415,
-					"column": 0,
-					"label": "Kari_Goat_Practice_Lose"
-				},
-				{
-					"line": 490,
-					"column": 0,
-					"label": "Kari_Goat_Practice_Win"
-				},
-				{
-					"line": 1325,
-					"column": 0,
-					"label": "Kari_Ask_General"
-				},
-				{
-					"line": 1380,
-					"column": 0,
-					"label": "Kari_Ask_How_Doing"
-				},
-				{
-					"line": 1445,
-					"column": 0,
-					"label": "Kari_Dialogue_End"
-				},
-				{
-					"line": 1455,
-					"column": 0,
-					"label": "Kechioeren_Enter"
-				},
-				{
-					"line": 2299,
+					"line": 819,
 					"column": 0,
 					"label": "Kechioeren_Enter_Artifact"
 				},
 				{
-					"line": 2576,
-					"column": 0,
-					"label": "Kari_Trusty"
-				},
-				{
-					"line": 3551,
+					"line": 1091,
 					"column": 0,
 					"label": "Kari_Adventure"
 				},
 				{
-					"line": 4257,
+					"line": 1951,
 					"column": 0,
 					"label": "Furkan_First_Meet"
 				},
 				{
-					"line": 4524,
+					"line": 2218,
 					"column": 0,
 					"label": "Furkan_Second_Meet"
 				}
@@ -657,11 +607,6 @@
 					"line": 3402,
 					"column": 0,
 					"label": "Haskell_Trinket_Quest"
-				},
-				{
-					"line": 3712,
-					"column": 0,
-					"label": "Haskell_Report_Trinket_Quest"
 				}
 			]
 		},
@@ -839,179 +784,184 @@
 					"label": "Ole_Normal_Talk"
 				},
 				{
-					"line": 3558,
+					"line": 3561,
 					"column": 0,
 					"label": "Ole_Ask_Lusterfield"
 				},
 				{
-					"line": 3568,
+					"line": 3571,
 					"column": 0,
 					"label": "Ole_Potion_Task_Start"
 				},
 				{
-					"line": 3843,
+					"line": 3846,
 					"column": 0,
 					"label": "Ole_Potion_Task_Finish"
 				},
 				{
-					"line": 4113,
+					"line": 4116,
 					"column": 0,
 					"label": "Ole_Report_Courier_Quest"
 				},
 				{
-					"line": 4193,
+					"line": 4196,
 					"column": 0,
 					"label": "Ole_Ask_Courier_Quest"
 				},
 				{
-					"line": 4308,
+					"line": 4311,
 					"column": 0,
 					"label": "Ole_Party_Begin"
 				},
 				{
-					"line": 4478,
+					"line": 4481,
 					"column": 0,
 					"label": "Ole_Party_Quest"
 				},
 				{
-					"line": 4593,
+					"line": 4596,
 					"column": 0,
 					"label": "Ole_Ask_Ointment_Quest"
 				},
 				{
-					"line": 4678,
+					"line": 4681,
 					"column": 0,
 					"label": "Ole_Ask_Cleaning"
 				},
 				{
-					"line": 4928,
+					"line": 4931,
 					"column": 0,
 					"label": "Ole_Ask_Under_Counter"
 				},
 				{
-					"line": 5023,
+					"line": 5026,
 					"column": 0,
 					"label": "Ole_Ask_Goat_Tribe"
 				},
 				{
-					"line": 5088,
+					"line": 5091,
 					"column": 0,
 					"label": "Ole_Apron_Quest"
 				},
 				{
-					"line": 5369,
+					"line": 5372,
 					"column": 0,
 					"label": "Ole_Sick_Quest"
 				},
 				{
-					"line": 5474,
+					"line": 5477,
 					"column": 0,
 					"label": "Ole_Sick_Quest_End"
 				},
 				{
-					"line": 6589,
+					"line": 6592,
 					"column": 0,
 					"label": "Ole_After_Sick_Quest"
 				},
 				{
-					"line": 6654,
+					"line": 6657,
 					"column": 0,
 					"label": "Ole_Ointment_Finish"
 				},
 				{
-					"line": 6789,
+					"line": 6792,
 					"column": 0,
 					"label": "Ole_Postal_Finish"
 				},
 				{
-					"line": 6879,
+					"line": 6882,
 					"column": 0,
 					"label": "Ole_Ask_Kingspawn"
 				},
 				{
-					"line": 6935,
+					"line": 6938,
 					"column": 0,
 					"label": "Ole_Postal_Training"
 				},
 				{
-					"line": 7015,
+					"line": 7018,
 					"column": 0,
 					"label": "Ole_Ask_Lusterfield_People"
 				},
 				{
-					"line": 7090,
+					"line": 7093,
 					"column": 0,
 					"label": "Ole_Ask_Lusterfield_Lothar"
 				},
 				{
-					"line": 7161,
+					"line": 7164,
 					"column": 0,
 					"label": "Ole_Ask_Himself"
 				},
 				{
-					"line": 7281,
+					"line": 7284,
 					"column": 0,
 					"label": "Ole_Dialogue_End"
 				},
 				{
-					"line": 7286,
+					"line": 7289,
 					"column": 0,
 					"label": "Rahim_Dialogue"
 				},
 				{
-					"line": 7459,
+					"line": 7462,
 					"column": 0,
 					"label": "Rahim_Normal_Talk"
 				},
 				{
-					"line": 10316,
+					"line": 10322,
 					"column": 0,
-					"label": ""
+					"label": "Rahim_Ask_Opinion_Goat_Tribe"
 				},
 				{
-					"line": 11281,
+					"line": 10387,
 					"column": 0,
-					"label": ""
+					"label": "Rahim_Yarn_Quest_01"
 				},
 				{
-					"line": 11386,
+					"line": 11287,
 					"column": 0,
-					"label": ""
+					"label": "Rahim_Letter_Furkan"
 				},
 				{
-					"line": 11486,
+					"line": 11392,
 					"column": 0,
-					"label": ""
+					"label": "Rahim_Postal_Training"
 				},
 				{
-					"line": 11566,
+					"line": 11492,
 					"column": 0,
-					"label": ""
+					"label": "Rahim_Postal_Finish"
 				},
 				{
-					"line": 11626,
+					"line": 11572,
 					"column": 0,
-					"label": ""
+					"label": "Rahim_Ask_Lusterfield_People"
 				},
 				{
-					"line": 11777,
+					"line": 11632,
 					"column": 0,
-					"label": ""
+					"label": "Rahim_Ask_GoatTribe"
 				},
 				{
-					"line": 11817,
+					"line": 11783,
 					"column": 0,
-					"label": ""
+					"label": "Rahim_Ask_Tailor"
 				},
 				{
-					"line": 11852,
+					"line": 11823,
 					"column": 0,
-					"label": ""
+					"label": "Rahim_Ask_Himself"
 				},
 				{
-					"line": 12504,
+					"line": 11858,
 					"column": 0,
-					"label": ""
+					"label": "Rahim_Apron_Fixed"
+				},
+				{
+					"line": 12510,
+					"column": 0,
+					"label": "Rahim_Dialogue_End"
 				}
 			]
 		},
@@ -1051,375 +1001,350 @@
 				{
 					"line": 694,
 					"column": 0,
-					"label": "Cane_Favour_For_Ya_Sex"
-				},
-				{
-					"line": 3764,
-					"column": 0,
 					"label": "Cane_Ask_Goat_Tribe"
 				},
 				{
-					"line": 3829,
+					"line": 759,
 					"column": 0,
 					"label": "Cane_Work"
 				},
 				{
-					"line": 3944,
+					"line": 874,
 					"column": 0,
 					"label": "Cane_Order"
 				},
 				{
-					"line": 4035,
-					"column": 0,
-					"label": "Cane_Event_Patron_Show"
-				},
-				{
-					"line": 4190,
+					"line": 965,
 					"column": 0,
 					"label": "Cane_Private_Show_Quest_Accept"
 				},
 				{
-					"line": 4280,
+					"line": 1055,
 					"column": 0,
 					"label": "Cane_Private_Show_Quest_Finish"
 				},
 				{
-					"line": 4305,
+					"line": 1080,
 					"column": 0,
 					"label": "Cane_Private_Show"
 				},
 				{
-					"line": 4530,
+					"line": 1305,
 					"column": 0,
 					"label": "Cane_Ask_Lusterfield"
 				},
 				{
-					"line": 4685,
+					"line": 1460,
 					"column": 0,
 					"label": "Cane_Ask_Tavern"
 				},
 				{
-					"line": 4735,
+					"line": 1510,
 					"column": 0,
 					"label": "Cane_Ask_Himself"
 				},
 				{
-					"line": 4765,
+					"line": 1540,
 					"column": 0,
 					"label": "Cane_Dialogue_End"
 				},
 				{
-					"line": 4775,
+					"line": 1550,
 					"column": 0,
 					"label": "Cane_First"
 				},
 				{
-					"line": 4965,
+					"line": 1740,
 					"column": 0,
 					"label": "Cane_Second"
 				},
 				{
-					"line": 5025,
+					"line": 1800,
 					"column": 0,
 					"label": "Cane_Apron_Quest"
 				},
 				{
-					"line": 5339,
+					"line": 2114,
 					"column": 0,
 					"label": "Cane_Sebas_Tavern_Night"
 				},
 				{
-					"line": 5714,
+					"line": 2489,
 					"column": 0,
 					"label": "Cane_Apron_Quest_End"
 				},
 				{
-					"line": 5951,
+					"line": 2726,
 					"column": 0,
 					"label": "Cane_SoWrong"
 				},
 				{
-					"line": 5977,
+					"line": 2752,
 					"column": 0,
 					"label": "Cane_Wrong"
 				},
 				{
-					"line": 6062,
+					"line": 2837,
 					"column": 0,
 					"label": "Cane_Correct"
 				},
 				{
-					"line": 6108,
+					"line": 2883,
 					"column": 0,
 					"label": "Cane_GotTheMoney"
 				},
 				{
-					"line": 6223,
+					"line": 2998,
 					"column": 0,
 					"label": "Cane_NoMoney"
 				},
 				{
-					"line": 6281,
+					"line": 3056,
 					"column": 0,
 					"label": "Cane_Outfit_02"
 				},
 				{
-					"line": 6446,
+					"line": 3221,
 					"column": 0,
 					"label": "Cane_Outfit_03"
 				},
 				{
-					"line": 6516,
+					"line": 3291,
 					"column": 0,
 					"label": "Cane_Outfit_01"
 				},
 				{
-					"line": 6561,
+					"line": 3336,
 					"column": 0,
 					"label": "Cane_Serve_Later"
 				},
 				{
-					"line": 6706,
+					"line": 3481,
 					"column": 0,
 					"label": "Cane_Serve_First"
 				},
 				{
-					"line": 7002,
+					"line": 3777,
 					"column": 0,
 					"label": "Scene_Nocturnal_Serve"
 				},
 				{
-					"line": 7338,
+					"line": 4113,
 					"column": 0,
 					"label": "Cane_NoMoney_No"
 				},
 				{
-					"line": 7363,
+					"line": 4138,
 					"column": 0,
 					"label": "Lothar_First"
 				},
 				{
-					"line": 7426,
+					"line": 4201,
 					"column": 0,
 					"label": "Lothar_Correct"
 				},
 				{
-					"line": 7451,
+					"line": 4226,
 					"column": 0,
 					"label": "Lothar_Correct2"
 				},
 				{
-					"line": 7521,
+					"line": 4296,
 					"column": 0,
 					"label": "Lothar_Who"
 				},
 				{
-					"line": 7562,
-					"column": 0,
-					"label": "Lothar_Aphrodisiac_Quest"
-				},
-				{
-					"line": 7647,
-					"column": 0,
-					"label": "Lothar_Aphrodisiac_Quest_Ready"
-				},
-				{
-					"line": 7722,
-					"column": 0,
-					"label": "Lothar_Aphrodisiac_Adventure"
-				},
-				{
-					"line": 8402,
+					"line": 4337,
 					"column": 0,
 					"label": "Lothar_Who_Smile"
 				},
 				{
-					"line": 8447,
+					"line": 4382,
 					"column": 0,
 					"label": "Lothar_Who_Angry"
 				},
 				{
-					"line": 8518,
+					"line": 4453,
 					"column": 0,
 					"label": "Lothar_Wrong"
 				},
 				{
-					"line": 8603,
+					"line": 4538,
 					"column": 0,
 					"label": "Lothar_First_End"
 				},
 				{
-					"line": 8663,
+					"line": 4598,
 					"column": 0,
 					"label": "Lothar_First_Ending"
 				},
 				{
-					"line": 8753,
+					"line": 4688,
 					"column": 0,
 					"label": "Lothar_Dialogue"
 				},
 				{
-					"line": 8943,
+					"line": 4878,
 					"column": 0,
 					"label": "Lothar_Normal_Talk"
 				},
 				{
-					"line": 9003,
+					"line": 4938,
 					"column": 0,
 					"label": "Lothar_Caravan_Stone"
 				},
 				{
-					"line": 9638,
+					"line": 5573,
 					"column": 0,
 					"label": "Lothar_Along_Goat_Tribe"
 				},
 				{
-					"line": 9923,
+					"line": 5858,
 					"column": 0,
 					"label": "Lothar_Stone_Goat_Tribe"
 				},
 				{
-					"line": 10228,
+					"line": 6163,
 					"column": 0,
 					"label": "Lothar_Found_Goat_Tribe"
 				},
 				{
-					"line": 10603,
+					"line": 6538,
 					"column": 0,
 					"label": "Lothar_Sparring"
 				},
 				{
-					"line": 10628,
+					"line": 6563,
 					"column": 0,
 					"label": "Lothar_Battle_Training"
 				},
 				{
-					"line": 10768,
+					"line": 6703,
 					"column": 0,
 					"label": "Lothar_After_Sparring"
 				},
 				{
-					"line": 11083,
+					"line": 7018,
 					"column": 0,
 					"label": "Lothar_Ask_Ole_Trainin"
 				},
 				{
-					"line": 11138,
+					"line": 7073,
 					"column": 0,
 					"label": "Lothar_Report_Dummy"
 				},
 				{
-					"line": 11933,
+					"line": 7868,
 					"column": 0,
 					"label": "Lothar_Ask_Invasion"
 				},
 				{
-					"line": 12297,
+					"line": 8252,
 					"column": 0,
 					"label": "Lothar_Report_Goat"
 				},
 				{
-					"line": 12410,
+					"line": 8365,
 					"column": 0,
 					"label": "Lothar_Outfit_01"
 				},
 				{
-					"line": 12445,
+					"line": 8400,
 					"column": 0,
 					"label": "Lothar_Outfit_02"
 				},
 				{
-					"line": 12490,
+					"line": 8445,
 					"column": 0,
 					"label": "Lothar_Outfit_03"
 				},
 				{
-					"line": 12530,
+					"line": 8485,
 					"column": 0,
 					"label": "Lothar_Invasion_Quest"
 				},
 				{
-					"line": 12983,
+					"line": 8943,
 					"column": 0,
 					"label": "Lothar_Report_Amble_Jog"
 				},
 				{
-					"line": 13333,
+					"line": 9293,
 					"column": 0,
 					"label": "Lothar_Ask_Amble_Jog"
 				},
 				{
-					"line": 13453,
+					"line": 9413,
 					"column": 0,
 					"label": "Lothar_Night_Greet"
 				},
 				{
-					"line": 14149,
+					"line": 10109,
 					"column": 0,
 					"label": "Lothar_Ask_Goat_Tribe"
 				},
 				{
-					"line": 14214,
+					"line": 10174,
 					"column": 0,
 					"label": "Lothar_After_River_Trip"
 				},
 				{
-					"line": 14469,
+					"line": 10429,
 					"column": 0,
 					"label": "Lothar_Mossy_Artifact"
 				},
 				{
-					"line": 14688,
+					"line": 10648,
 					"column": 0,
 					"label": "Lothar_Sebas_Kick_No"
 				},
 				{
-					"line": 14813,
+					"line": 10773,
 					"column": 0,
 					"label": "Lothar_Sebas_Kick_Yes"
 				},
 				{
-					"line": 15119,
+					"line": 11079,
 					"column": 0,
 					"label": "Lothar_Postal_Training"
 				},
 				{
-					"line": 15325,
+					"line": 11285,
 					"column": 0,
 					"label": "Lothar_Postal_Finish"
 				},
 				{
-					"line": 15503,
+					"line": 11463,
 					"column": 0,
 					"label": "Lothar_Ask_Lusterfield"
 				},
 				{
-					"line": 15593,
+					"line": 11553,
 					"column": 0,
 					"label": "Lothar_Ask_Hero"
 				},
 				{
-					"line": 15758,
+					"line": 11718,
 					"column": 0,
 					"label": "Lothar_Ask_Himself"
 				},
 				{
-					"line": 15823,
+					"line": 11783,
 					"column": 0,
 					"label": "Lothar_Dialogue_End"
 				},
 				{
-					"line": 15843,
+					"line": 11803,
 					"column": 0,
 					"label": "Patron1_Dialogue"
 				},
 				{
-					"line": 15878,
+					"line": 11838,
 					"column": 0,
 					"label": "Patron2_Dialogue"
 				},
 				{
-					"line": 15913,
+					"line": 11873,
 					"column": 0,
 					"label": "Patron3_Dialogue"
 				}

@@ -80,3 +80,15 @@ translate schinese strings:
 
     # old "{color=#000}Losing to Hefty/Malignant Slime{/color}"
     # new ""
+
+    # old "{color=#000}Losing in Nosferat Battle{/color}"
+    # new ""
+
+    # old "{color=#000}Losing to Bandit Boss{/color}"
+    # new ""
+
+    # old "{color=#000}Losing to Feral Werewolf with 80 Purity{/color}"
+    # new ""
+
+    # old "{color=#000}Losing to Malignant/Hefty Slime with 70 Purity{/color}"
+    # new ""

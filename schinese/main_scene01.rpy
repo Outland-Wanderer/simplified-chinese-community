@@ -1338,9 +1338,9 @@ translate schinese Scene_Goat_Win_04708565:
     # e "Don't squeeze your anal walls around my cock. I don't want to cum just yet, loosen them or I'll pull out and walk away.~"
     e "别夹这么紧，我还不想射。放松，不然我可要拔出来走人了。"
 
-translate schinese Scene_Goat_Win_1c90cd6a:
+translate schinese Scene_Goat_Win_a0d95a20:
 
-    # "The huntsman complies and loosens his anal walls with a whimper, he wants your cum so badly but you won't actually pull out and walk away. He didn't need need to know that though.~"
+    # "The huntsman complies and loosens his anal walls with a whimper, he wants your cum so badly but you won't actually pull out and walk away. He didn't need to know that though.~"
     "山羊猎人哀嚎一声，顺从地放松下来，他实在太想品尝你的精华了。当然，你不会真的拔屌走人，但他不必知道。"
 
 translate schinese Scene_Goat_Win_9c908939:

@@ -44,6 +44,12 @@ translate schinese strings:
     # old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP"
     # new ""
 
+    # old "Piercing Blow"
+    # new ""
+
+    # old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI. Costs 35 MP"
+    # new ""
+
     #物品-标本
 
     old "Lindbloom"
@@ -116,6 +122,18 @@ translate schinese strings:
 
     old "An Ointment with recipe created by Ole, it can recover 80 HP and MP each, reduces 30 Lust, and cleanse all negative effect during battle."
     new "由奥利制作的药膏，敷上可以恢复 80 点体力和 80 点魔力，还可以消减 30 点性欲并消除所有负面状态。"
+
+    # old "Accuracy Potion"
+    # new ""
+
+    # old "A Potion that can increase drinker's Accuracy by 20 for 2 rounds."
+    # new ""
+
+    # old "Tenacity Potion"
+    # new ""
+
+    # old "A Potion that can increase drinker's both defenses by 40 for 2 rounds."
+    # new ""
 
     old "Beer"
     new "淡啤酒"
@@ -658,6 +676,36 @@ translate schinese strings:
     # old "A fairly rare vegetation grown in the summery farmland. It closes any non-lethal wounds and gives consumer a pick-me-up, according to the farmer"
     # new ""
 
+    # old "Apple"
+    # new ""
+
+    # old "A red fruit that looks pretty tasty, can be mistaken for a juicy plum."
+    # new ""
+
+    # old "Red Rose"
+    # new ""
+
+    # old "A flower with red petal that sometimes symbolise romance."
+    # new ""
+
+    # old "Hawthorn"
+    # new ""
+
+    # old "A smaller red berry that's more rock-like. It's commonly eaten with bread and it's said to strengthen the user."
+    # new ""
+
+    # old "Hydrangea"
+    # new ""
+
+    # old "A colourful flowering plant that the lizard folks sometimes pick up for decoration, or as an ingredient for sweet tea."
+    # new ""
+
+    # old "Horehound"
+    # new ""
+
+    # old "A plant with leaves that has strong scent that is said to repel canine folks, it also helps treat other user's common sicknesses."
+    # new ""
+
     #敌方
 
     old "Slime"
@@ -690,38 +738,44 @@ translate schinese strings:
     old "Rune Guardian"
     new "符石护卫"
 
-    old "Minotaur Statue"
-    new "弥诺陶洛斯雕像"
+    # old "Minotaur Statue"
+    # new "弥诺陶洛斯雕像"
 
-    old "Minotaur"
-    new "弥诺陶洛斯"
+    # old "Minotaur"
+    # new "弥诺陶洛斯"
 
-    old "Scarecrow"
-    new "稻草人"
+    # old "Scarecrow"
+    # new "稻草人"
 
-    old "Landshark"
-    new "陆鲨"
+    # old "Landshark"
+    # new "陆鲨"
 
-    old "Caproot"
-    new "萝卜怪"
+    # old "Caproot"
+    # new "萝卜怪"
 
-    old "Feral Werewolf"
-    new "狂野狼人"
+    # old "Feral Werewolf"
+    # new "狂野狼人"
 
-    old "Feral"
-    new "狂野狼人"
+    # old "Feral"
+    # new "狂野狼人"
 
-    old "Hefty Slime"
-    new "肥大史莱姆"
+    # old "Hefty Slime"
+    # new "肥大史莱姆"
 
-    old "Malignant Slime"
-    new "恶毒史莱姆"
+    # old "Malignant Slime"
+    # new "恶毒史莱姆"
 
-    old "Goat Ranger"
-    new "山羊弓弩手"
+    # old "Goat Ranger"
+    # new "山羊弓弩手"
 
-    old "Nosferat"
-    new "吸血鬼"
+    # old "Nosferat"
+    # new "吸血鬼"
+
+    # old "Rat Bandit"
+    # new ""
+
+    # old "Shark Bandit"
+    # new ""
 
     #地点
 
@@ -800,17 +854,17 @@ translate schinese strings:
     old "A Forest mostly shrouded by the dense area of trees."
     new "茂密的树木笼罩了这片区域。"
 
-    old "Gloomy Mountainside"
-    new "阴郁山腹"
+    # old "Gloomy Mountainside"
+    # new "阴郁山腹"
 
-    old "An area near the mountain of the goats, it leads to a mythical cave where the minotaur rumoured to be located."
-    new "山羊部落群山附近的区域，由此可以进入神话生物弥诺陶洛斯所在的山洞。"
+    # old "An area near the mountain of the goats, it leads to a mythical cave where the minotaur rumoured to be located."
+    # new "山羊部落群山附近的区域，由此可以进入神话生物弥诺陶洛斯所在的山洞。"
 
-    old "Summery Farmland"
-    new "骄阳农场"
+    # old "Summery Farmland"
+    # new "骄阳农场"
 
-    old "The Farm area on the north side of Lusterfield, it is currently guarded by a mysterious figure..."
-    new "乐斯民菲尔德北侧的农业区域，由一位神秘人物看守……"
+    # old "The Farm area on the north side of Lusterfield, it is currently guarded by a mysterious figure..."
+    # new "乐斯民菲尔德北侧的农业区域，由一位神秘人物看守……"
 
     old "Sundersilk Cascades"
     new "剪绸瀑布"
@@ -824,53 +878,59 @@ translate schinese strings:
     # old "The large barn in the middle of corn and wheat field, owned by an odd... Shepherd."
     # new ""
 
-    old "Forest Nightwatch"
-    new "幽暗森林哨站"
+    # old "Grove of Harvest"
+    # new ""
 
-    old "The deeper area of the forest controlled by the vicious werewolf, general merchants would never take one step into their territory."
-    new "幽暗森林的更深处，凶恶狼人的地盘，一般商队绝不敢踏入此地一步。"
+    # old "The garden area in the farm that grows a variety of fruit and greens."
+    # new ""
 
-    old "Moonlit Wolf Den"
-    new "月照狼穴"
+    # old "Forest Nightwatch"
+    # new "幽暗森林哨站"
 
-    old "The Cave inhabited by the notorious pack of werewolves. The sight of full moon can be observed inside the cave."
-    new "臭名昭著的狼人栖息于此，从洞内可以看到满月。"
+    # old "The deeper area of the forest controlled by the vicious werewolf, general merchants would never take one step into their territory."
+    # new "幽暗森林的更深处，凶恶狼人的地盘，一般商队绝不敢踏入此地一步。"
 
-    old "Split Trails"
-    new "岔路口"
+    # old "Moonlit Wolf Den"
+    # new "月照狼穴"
 
-    old "The Area in the dark forest where paths are split into different routes, blocked by barrels placed by the hunting werewolves {p} Visitors are easily lost without proper direction awareness."
-    new "通向幽暗森林深处不同的区域，伺机狩猎的狼人放置了很多木桶挡路。{p}如果不清楚方向很容易迷路。"
+    # old "The Cave inhabited by the notorious pack of werewolves. The sight of full moon can be observed inside the cave."
+    # new "臭名昭著的狼人栖息于此，从洞内可以看到满月。"
 
-    old "Chelforte Cavern"
-    new "切尔福特山洞"
+    # old "Split Trails"
+    # new "岔路口"
 
-    old "The Series of caves first found by a werewolf in the dark forest, it is rumored that rare minerals and ores are unusually abundant in the cavern."
-    new "由某位狼人发现的系列山洞，据说洞内蕴藏了异常丰富的稀有矿物。"
+    # old "The Area in the dark forest where paths are split into different routes, blocked by barrels placed by the hunting werewolves {p} Visitors are easily lost without proper direction awareness."
+    # new "通向幽暗森林深处不同的区域，伺机狩猎的狼人放置了很多木桶挡路。{p}如果不清楚方向很容易迷路。"
 
-    old "Slumbrous Well"
-    new "犯困水井"
+    # old "Chelforte Cavern"
+    # new "切尔福特山洞"
 
-    old "The Old well in the center of the forest, it is heard that someone resides near the old well."
-    new "幽暗森林中心的老井，听说有人住在附近。"
+    # old "The Series of caves first found by a werewolf in the dark forest, it is rumored that rare minerals and ores are unusually abundant in the cavern."
+    # new "由某位狼人发现的系列山洞，据说洞内蕴藏了异常丰富的稀有矿物。"
 
-    old "Cavern Entrance"
-    new "山洞入口"
+    # old "Slumbrous Well"
+    # new "犯困水井"
 
-    old "The only entrance to the Chelforte Cavern, the place seems to be abandoned for a while."
-    new "切尔福特山洞的唯一入口，似乎被遗弃有一段时间了。"
+    # old "The Old well in the center of the forest, it is heard that someone resides near the old well."
+    # new "幽暗森林中心的老井，听说有人住在附近。"
 
-    old "Viscid Stream"
-    new "黏皮溪"
+    # old "Cavern Entrance"
+    # new "山洞入口"
 
-    old "The stream dividing the dark forest from the werewolves' territories to those of the wild slimes, these slimes are more vicious and dangerous than those outside the forest."
-    new "自然划分了史莱姆和狼人的领地，对岸的史莱姆要比幽暗森林外的史莱姆更加危险和残忍。"
+    # old "The only entrance to the Chelforte Cavern, the place seems to be abandoned for a while."
+    # new "切尔福特山洞的唯一入口，似乎被遗弃有一段时间了。"
 
-    old "Forgotten Sanctuary"
-    new "被遗弃的圣所"
+    # old "Viscid Stream"
+    # new "黏皮溪"
 
-    old "The area where an ancient shrine used to stand before the forest, now abandoned, and inhabited by slimes of extreme sizes."
-    new "幽暗森林的古老神殿，已经被遗弃了，现在栖息着大大小小的史莱姆。"
+    # old "The stream dividing the dark forest from the werewolves' territories to those of the wild slimes, these slimes are more vicious and dangerous than those outside the forest."
+    # new "自然划分了史莱姆和狼人的领地，对岸的史莱姆要比幽暗森林外的史莱姆更加危险和残忍。"
+
+    # old "Forgotten Sanctuary"
+    # new "被遗弃的圣所"
+
+    # old "The area where an ancient shrine used to stand before the forest, now abandoned, and inhabited by slimes of extreme sizes."
+    # new "幽暗森林的古老神殿，已经被遗弃了，现在栖息着大大小小的史莱姆。"
 
     # old "Creek Thicket"
     # new ""
@@ -1065,6 +1125,9 @@ translate schinese strings:
     # old "After learning the ingredients of the cure, Wuldon wanted to go to the Slime's territory with me."
     # new "了解到解药的配方后，伍尔顿想让我陪他一起探索史莱姆的领地。"
 
+    # old "After learning the ingredients of the curse, Wuldon wanted to go to the Slime's territory with me."
+    # new ""
+
     # old "The Buried Shimmer"
     # new ""
 
@@ -1083,7 +1146,19 @@ translate schinese strings:
     # old "After leaving Vurro behind in the cave, Wuldon wanted me to attend his burial, and plan for a revenge on Uffe."
     # new ""
 
-    # #任务
+    # old "Roommate's Night Out"
+    # new ""
+
+    # old "Sebas invited me to have dinner in the tavern with Ole today, I should meet them there at night."
+    # new ""
+
+    # old "Plum for the Troubled"
+    # new ""
+
+    # old "Plums has been mysteriously disappearing lately, Jog asked me to track down the thief in the farm."
+    # new ""
+
+    #任务
 
     # old "Potion Order"
     # new "药剂进货"
@@ -1108,6 +1183,12 @@ translate schinese strings:
 
     # old "Rahim wants me to make clothes for him, maybe I'll get to know him more after this."
     # new "雷希姆希望我帮他做些衣服，也许完成任务之后我能了解到更多关于他的事情。"
+
+    # old "Herbs and Harvests"
+    # new ""
+
+    # old "Haskell asked me to fetch some herbs for his garden, I should get 10 of those herbs and bring them to him."
+    # new ""
 
     #状态
 

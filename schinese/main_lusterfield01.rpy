@@ -280,7 +280,7 @@ translate schinese strings:
     old "Ask for his opinion on Goat Tribe"
     new "询问对山羊部落的看法"
 
-    old "Ask about Lusterfield"
+    old "Ask about Lusterfield{#SebAAL}"
     new "询问乐斯民菲尔德的事情"
 
     old "Ask about the shop"
@@ -3555,6 +3555,9 @@ translate schinese strings:
 
     old "Ask about the Shop"
     new "询问当铺的事情"
+
+    old "Ask about Lusterfield{#OleAAL}"
+    new "询问乐斯民菲尔德的事情"
 
 translate schinese Ole_Ask_Lusterfield_d9433aa5:
 
@@ -7496,6 +7499,9 @@ translate schinese strings:
 
     old "Deliver the Letter from Furkan"
     new "递出弗坎的信件"
+
+    old "Ask about Lusterfield{#RahimAAL}"
+    new "询问乐斯民菲尔德的事情"
 
     old "Ask about his Tailor job"
     new "好奇裁缝的工作"

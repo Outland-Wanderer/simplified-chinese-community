@@ -8,3 +8,13 @@ translate schinese python:
     gui.text_size = 32
 
     gui.name_text_size = 48
+
+translate schinese style ruby_style is default:
+    size 24
+    yoffset -32
+
+translate schinese style say_dialogue:
+    ruby_style style.ruby_style
+
+translate schinese style history_text:
+    ruby_style style.ruby_style

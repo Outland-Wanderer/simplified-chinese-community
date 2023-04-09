@@ -443,9 +443,9 @@ translate schinese strings:
 
     old "Use Rock"
     new "放入石块"
-#TODO
-    # old "No"
-    # new "暂时离开"
+
+    old "No{#banditdenhole}"
+    new "暂时离开"
 
 translate schinese Bandit_Den_Hole_2c18c422:
 

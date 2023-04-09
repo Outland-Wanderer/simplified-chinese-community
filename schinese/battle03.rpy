@@ -550,9 +550,9 @@ translate schinese strings:
 
     old "Yes{#mimiclose}"
     new "是"
-#TODO
-    # old "Skip"
-    # new "否"
+
+    old "Skip{#mimiclose}"
+    new "否"
 
 # translate schinese mimic_lose_a6dbbcdf:
 
@@ -579,10 +579,10 @@ translate schinese runeguardian_battle_528eb585:
     # "It is a Rune Guardian. He is standing before you, he looks enraged by your intrusion."
     "符石护卫伫立在你面前，你的闯入激怒了他。"
 
-translate schinese runeguardian_battle_5e435049:
+translate schinese runeguardian_battle_8ed9f221:
 
-    # "You can feel his blue aura radiates upon the river, his left hand is missing, instead covered with layers of moss and vines."
-    "他散发出蓝色光晕，你能感觉到这股魔力辐射了整片区域。"
+    # "You can feel his blue aura radiates across the cave."
+    "他散发出蓝色光晕，你能感觉到这股魔力辐射了整个山洞。"
 
 translate schinese runeguardian_battle_456c4288:
 
@@ -920,9 +920,9 @@ translate schinese Bandit_Den_End_f397e375:
     # k "Alright, he's alive. Furk."
     k "太好了，你还活着。"
 
-translate schinese Bandit_Den_End_076b7ac9:
+translate schinese Bandit_Den_End_3adfe0b8:
 
-    # k "Kari performs healing magic to the unconscious ram, and soon... he wakes up..."
+    # "Kari performs healing magic to the unconscious ram, and soon... he wakes up..."
     "卡里立刻为弗坎施展治疗魔法……不一会，弗坎睁开了眼睛……"
 
 translate schinese Bandit_Den_End_3ec57d49:
