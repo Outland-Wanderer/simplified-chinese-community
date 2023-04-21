@@ -8378,6 +8378,9 @@ translate schinese strings:
     old "Sneak through with agility"
     new ""
 
+    old "Catch the thief in the Grove"
+    new ""
+
     old "Where did the thief go?"
     new ""
 
@@ -8498,6 +8501,12 @@ translate schinese strings:
     old "Ask about Jog"
     new ""
 
+    old "Ask Lothar for Permission"
+    new ""
+
+    old "Wait a day and report to Jog and Amble"
+    new ""
+
     old "Which will you chop?"
     new ""
 
@@ -8507,6 +8516,9 @@ translate schinese strings:
     old "The small tree"
     new ""
 
+    old "Go Patrol with Amble"
+    new ""
+
     old "Accept Amble's Offer?"
     new ""
 
@@ -8514,5 +8526,8 @@ translate schinese strings:
     new ""
 
     old "No{#amblepatrol}"
+    new ""
+
+    old "Defeat 3 Landsharks in the Farmland"
     new ""
 

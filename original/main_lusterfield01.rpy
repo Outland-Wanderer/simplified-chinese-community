@@ -4223,9 +4223,9 @@ translate schinese Sebas_Not_Going_Night_Out_e182a5cd:
     # s "Hey, roomie."
     s ""
 
-translate schinese Sebas_Not_Going_Night_Out_4b5ed695:
+translate schinese Sebas_Not_Going_Night_Out_434ba701:
 
-    # e "Hello... Seb."
+    # e "Hello, Seb."
     e ""
 
 translate schinese Sebas_Not_Going_Night_Out_e0e0a032:
@@ -7978,14 +7978,9 @@ translate schinese Ole_Ask_Under_Counter_ca730175:
     # o "Hmm?"
     o ""
 
-translate schinese Ole_Ask_Under_Counter_0dd6c55c:
+translate schinese Ole_Ask_Under_Counter_24a72e17:
 
-    # e "I..."
-    e ""
-
-translate schinese Ole_Ask_Under_Counter_6efe202d:
-
-    # e "Did you... happen to see..."
+    # e "Did you happen to see-"
     e ""
 
 translate schinese Ole_Ask_Under_Counter_354cf749:
@@ -7993,10 +7988,10 @@ translate schinese Ole_Ask_Under_Counter_354cf749:
     # o "You and Seb?"
     o ""
 
-translate schinese Ole_Ask_Under_Counter_72a33094:
+translate schinese Ole_Ask_Under_Counter_6186867a:
 
-    # e "..."
-    e ""
+    # "You nod."
+    ""
 
 translate schinese Ole_Ask_Under_Counter_a2ea77ab:
 
@@ -8013,7 +8008,7 @@ translate schinese Ole_Ask_Under_Counter_fef687ad:
     # o "I know you young boys have some weird impulses, but I thought you knew better than this..."
     o ""
 
-translate schinese Ole_Ask_Under_Counter_72a33094_1:
+translate schinese Ole_Ask_Under_Counter_72a33094:
 
     # e "..."
     e ""
@@ -8038,9 +8033,9 @@ translate schinese Ole_Ask_Under_Counter_a845e617:
     # e "Of course no. You're always right, Ole. I'm glad you're by my side."
     e ""
 
-translate schinese Ole_Ask_Under_Counter_3ff63043:
+translate schinese Ole_Ask_Under_Counter_7f51c35c:
 
-    # o "Yeah... Stay with Seb more, I think he likes your company."
+    # o "Yeah. Stay with Seb more, I think he likes your company."
     o ""
 
 translate schinese Ole_Ask_Under_Counter_80c64ffb:
@@ -8048,9 +8043,9 @@ translate schinese Ole_Ask_Under_Counter_80c64ffb:
     # e "Do... you like my company as well."
     e ""
 
-translate schinese Ole_Ask_Under_Counter_6d4322fc:
+translate schinese Ole_Ask_Under_Counter_29d900d7:
 
-    # o "...I do."
+    # o "I do, not as much in an essence of Seb's though."
     o ""
 
 translate schinese Ole_Ask_Under_Counter_6cf2b443:
@@ -8063,9 +8058,9 @@ translate schinese Ole_Ask_Under_Counter_d35aaf4c:
     # e "Ok."
     e ""
 
-translate schinese Ole_Ask_Goat_Tribe_62774199:
+translate schinese Ole_Ask_Goat_Tribe_a58e4d30:
 
-    # e "Hey... Ole. What's your opinion... on the Goat Tribe?"
+    # e "Hey, Ole. What's your opinion... on the Goat Tribe?"
     e ""
 
 translate schinese Ole_Ask_Goat_Tribe_628e0372:
@@ -8133,9 +8128,9 @@ translate schinese Ole_Apron_Quest_a7701920:
     # e "Ole, I need to ask you for a specific ingredients."
     e ""
 
-translate schinese Ole_Apron_Quest_accf83e0:
+translate schinese Ole_Apron_Quest_1c0bba33:
 
-    # o "Hmm...? What do you need?"
+    # o "Hmm? What do you need?"
     o ""
 
 translate schinese Ole_Apron_Quest_abddad47:
@@ -8143,9 +8138,9 @@ translate schinese Ole_Apron_Quest_abddad47:
     # e "A Green Dye. For Cane's Apron."
     e ""
 
-translate schinese Ole_Apron_Quest_ec90d0b4:
+translate schinese Ole_Apron_Quest_d2accc70:
 
-    # o "His apron... did Rahim tell you the recipe?"
+    # o "His apron, did Rahim tell you the recipe?"
     o ""
 
 translate schinese Ole_Apron_Quest_63d1afe6:
@@ -8178,9 +8173,9 @@ translate schinese Ole_Apron_Quest_b52c58ff:
     # o "Hey, Rahim. I've got the courier with me."
     o ""
 
-translate schinese Ole_Apron_Quest_ec01477c:
+translate schinese Ole_Apron_Quest_6318dac8:
 
-    # r "Hmm...? What's the matter?"
+    # r "Hmm? What's the matter?"
     r ""
 
 translate schinese Ole_Apron_Quest_45228c3c:
@@ -8193,9 +8188,9 @@ translate schinese Ole_Apron_Quest_aab08703:
     # o "Yeah. Apron, what happened over there?"
     o ""
 
-translate schinese Ole_Apron_Quest_4b72cf21:
+translate schinese Ole_Apron_Quest_3f7e6078:
 
-    # r "I gave [e] the recipe... Is there something wrong?"
+    # r "I gave [e] the recipe. Is there something wrong?"
     r ""
 
 translate schinese Ole_Apron_Quest_25b92775:
@@ -8203,14 +8198,14 @@ translate schinese Ole_Apron_Quest_25b92775:
     # o "No, I was just asking, why are you suddenly helping Cane."
     o ""
 
-translate schinese Ole_Apron_Quest_7d5f5e73:
+translate schinese Ole_Apron_Quest_ece37e0f:
 
-    # r "I... I'm only trying to help [e]. I don't really care about him anymore."
+    # r "I'm only trying to help [e]. I don't really care about him anymore."
     r ""
 
-translate schinese Ole_Apron_Quest_382a288d:
+translate schinese Ole_Apron_Quest_ef33d6f8:
 
-    # o "Are you sure...?"
+    # o "Are you sure?"
     o ""
 
 translate schinese Ole_Apron_Quest_bec3b4af:
@@ -8223,14 +8218,14 @@ translate schinese Ole_Apron_Quest_54653927:
     # o "Have you two, met yet?"
     o ""
 
-translate schinese Ole_Apron_Quest_2dd3ad7c:
+translate schinese Ole_Apron_Quest_4ebbc277:
 
-    # r "No, like I said, I don't care about him. But [e]... I think he's a good person."
+    # r "No, like I said, I don't care about him. But [e] is a good person."
     r ""
 
-translate schinese Ole_Apron_Quest_e2b9725a:
+translate schinese Ole_Apron_Quest_a1ac7451:
 
-    # o "...Alright. I understand now. I won't ask too much questions, Rahim, see you later."
+    # o "Alright. I understand now. I won't ask too much questions, Rahim, see you later."
     o ""
 
 translate schinese Ole_Apron_Quest_739472a3:
@@ -8253,9 +8248,9 @@ translate schinese Ole_Apron_Quest_fea4d0e5:
     # o "Alright, kiddo."
     o ""
 
-translate schinese Ole_Apron_Quest_4e09c0e8:
+translate schinese Ole_Apron_Quest_c376806c:
 
-    # e "Ole... May I g-get the ingredient... from you?"
+    # e "Ole, May I g-get the ingredient... from you?"
     e ""
 
 translate schinese Ole_Apron_Quest_00b73ef3:
@@ -8278,9 +8273,9 @@ translate schinese Ole_Apron_Quest_03fdcfcf:
     # o "Anyways, I don't have strong opinion on Cane anyways. Just wanted to be sure of Rahim's decision."
     o ""
 
-translate schinese Ole_Apron_Quest_31d1f04a:
+translate schinese Ole_Apron_Quest_09acb7f9:
 
-    # o "And... You wanted some green dyes right? I can make one right here, Seb and me picked the leaves from the town area. We have no use of that anyways."
+    # o "And you wanted some green dyes right? I can make one right here, Seb and me picked the leaves from the town area. We have no use of that anyways."
     o ""
 
 translate schinese Ole_Apron_Quest_23911e3d:
@@ -10313,14 +10308,14 @@ translate schinese Ole_Dialogue_End_88c159ac:
     # o "Alright kid, have a good day."
     o ""
 
-translate schinese Rahim_Dialogue_846228c8:
+translate schinese Rahim_Dialogue_b86dc71c:
 
-    # r "You... better cover yourself up."
+    # r "You, better cover yourself up."
     r ""
 
-translate schinese Rahim_Dialogue_faa7d97b:
+translate schinese Rahim_Dialogue_eeb4ded0:
 
-    # e "Hmm..."
+    # e "Hmm."
     e ""
 
 translate schinese Rahim_Dialogue_b9b755e5:
@@ -10343,9 +10338,9 @@ translate schinese Rahim_Dialogue_345bed1e:
     # e "Yes, it is. I'm just so sorry I forgot to... put on something."
     e ""
 
-translate schinese Rahim_Dialogue_8848de28:
+translate schinese Rahim_Dialogue_bc00a127:
 
-    # r "...Look, I'll respect your tradition, whatever it is."
+    # r "Look, I'll respect your tradition, whatever it is."
     r ""
 
 translate schinese Rahim_Dialogue_8adbd44e:
@@ -10368,9 +10363,9 @@ translate schinese Rahim_Dialogue_1a400f0b:
     # e "Nothing."
     e ""
 
-translate schinese Rahim_Dialogue_6f8e67e9:
+translate schinese Rahim_Dialogue_e0f72de2:
 
-    # e "No... I just like to... let it out sometimes."
+    # e "No, I just like to... let it out sometimes."
     e ""
 
 translate schinese Rahim_Dialogue_ef8678a0:
@@ -10403,9 +10398,9 @@ translate schinese Rahim_Dialogue_b9b755e5_1:
     # r "..."
     r ""
 
-translate schinese Rahim_Dialogue_2902a041:
+translate schinese Rahim_Dialogue_8217d26a:
 
-    # r "You... naked.. again?"
+    # r "You are naked again?"
     r ""
 
 translate schinese Rahim_Dialogue_a084cd8a:
@@ -10423,17 +10418,17 @@ translate schinese Rahim_Dialogue_1e71ff53:
     # r "But I'll have to remind you again, don't get a boner while we talk. Understand?"
     r ""
 
-translate schinese Rahim_Dialogue_26bb7a09:
+translate schinese Rahim_Dialogue_23f282f1:
 
-    # e "Uhh... alright."
+    # e "Uhh, alright."
     e ""
 
-translate schinese Rahim_Dialogue_846228c8_1:
+translate schinese Rahim_Dialogue_403332f6:
 
-    # r "You... better cover yourself up."
+    # r "You better cover yourself up."
     r ""
 
-translate schinese Rahim_Dialogue_faa7d97b_1:
+translate schinese Rahim_Dialogue_faa7d97b:
 
     # e "Hmm..."
     e ""
@@ -15492,6 +15487,12 @@ translate schinese strings:
     old "Pleasure yourself"
     new ""
 
+    old "Open Storage"
+    new ""
+
+    old "Pog"
+    new ""
+
     old "Ask about his betting"
     new ""
 
@@ -15555,6 +15556,9 @@ translate schinese strings:
     old "Accept Invitation"
     new ""
 
+    old "Hang out with the roommates"
+    new ""
+
     old "Compliment Sebas"
     new ""
 
@@ -15601,6 +15605,9 @@ translate schinese strings:
     new ""
 
     old "Maybe next time"
+    new ""
+
+    old "Collect 3 Stones"
     new ""
 
     old "Yes{#seblotgoesadventure}"
@@ -15687,10 +15694,25 @@ translate schinese strings:
     old "Ole wants me to take up the potion order and get 5 strength potions from Haskell, but I promised Haskell to make them myself..."
     new ""
 
+    old "Craft 5 Strength Potions"
+    new ""
+
     old "Ole wants me to take up the potion order and get 5 strength potions from Haskell, I should go to his hut and ask him to make some."
     new ""
 
+    old "Ask Haskell to make 5 Strength Potions"
+    new ""
+
     old "50 Gold"
+    new ""
+
+    old "Ask Amble and Jog for training"
+    new ""
+
+    old "Collect... Stones"
+    new ""
+
+    old "Head to the Tavern"
     new ""
 
     old "Mutual Apothecary Arrangement"
@@ -15702,10 +15724,25 @@ translate schinese strings:
     old "As my courier job, Ole told me about helping him get potion from an old friend."
     new ""
 
+    old "Visit the Potion maker"
+    new ""
+
     old "Yes, you can trust him"
     new ""
 
     old "No, you cannot trust him"
+    new ""
+
+    old "Visit Haskell"
+    new ""
+
+    old "Complete task from Sebas"
+    new ""
+
+    old "Complete task from Rahim"
+    new ""
+
+    old "Complete task from Lothar"
     new ""
 
     old "Being Naked is my Tribe's Tradition"
@@ -15739,9 +15776,6 @@ translate schinese strings:
     new ""
 
     old "Ask about his new outfit design"
-    new ""
-
-    old "Report to Rahim"
     new ""
 
     old "Deliver the Letter from Furkan"
@@ -15783,7 +15817,22 @@ translate schinese strings:
     old "That's true, but I'm used to it, like you probably were"
     new ""
 
+    old "Collect 4 chrysanthemums from the Outpost"
+    new ""
+
     old "Stay"
+    new ""
+
+    old "Report to Furkan"
+    new ""
+
+    old "Craft a Tunic"
+    new ""
+
+    old "Repair the Tavern Apron"
+    new ""
+
+    old "Put on the Outfit and ask around the Village"
     new ""
 
     old "Adventurer Outfit"

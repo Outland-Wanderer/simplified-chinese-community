@@ -2431,3 +2431,15 @@ translate schinese strings:
     old "Goat Guard"
     new ""
 
+    old "Visit the Damp Cave"
+    new ""
+
+    old "Report to Lothar"
+    new ""
+
+    old "Visit the Damp Cave with Kari"
+    new ""
+
+    old "Wait for a day and Report to Lothar"
+    new ""
+

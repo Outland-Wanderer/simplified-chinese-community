@@ -1,5 +1,26 @@
 ﻿translate schinese strings:
 
+    old "Mon"
+    new ""
+
+    old "Tue"
+    new ""
+
+    old "Wed"
+    new ""
+
+    old "Thu"
+    new ""
+
+    old "Fri"
+    new ""
+
+    old "Sat"
+    new ""
+
+    old "Sun"
+    new ""
+
     old "Self Heal"
     new ""
 
@@ -46,6 +67,54 @@
     new ""
 
     old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI. Costs 35 MP"
+    new ""
+
+    old "Trapped"
+    new ""
+
+    old "Trapped: {p} Target's dodge and lust immunity are reduced by 50%."
+    new ""
+
+    old "Bound"
+    new ""
+
+    old "Bound: {p} Target is unable to attack or use abilities. Struggle to deal reduced damage and break free."
+    new ""
+
+    old "Wounded"
+    new ""
+
+    old "Wounded: {p} Target's health is additionally decreased for each round, effect decreases until it runs out. Stackable."
+    new ""
+
+    old "Empowered"
+    new ""
+
+    old "Empowered: {p} Target's damage is boosted by some amount."
+    new ""
+
+    old "Adorned"
+    new ""
+
+    old "Adorned: {p} Target's flirt effectiveness is boosted by some amount."
+    new ""
+
+    old "Silenced"
+    new ""
+
+    old "Silenced: {p} Target is unable to use any abilities."
+    new ""
+
+    old "Bruised"
+    new ""
+
+    old "Bruised: {p} All Target's healing is reduced by a significant amount."
+    new ""
+
+    old "Scorched"
+    new ""
+
+    old "Scorched: {p} Target's Health decreased by the same amount for each round. Additional application extends the effect duration instead."
     new ""
 
     old "Lindbloom"
@@ -660,6 +729,9 @@
     old "Shark Bandit"
     new ""
 
+    old "Lusterfield"
+    new ""
+
     old "A humble village in Mokken. {p} A village that is best known for its beer from the Nocturnal Trunk tavern. {p} And an all-time merchant-favourite pawn shop named King's Pawn."
     new ""
 
@@ -801,27 +873,6 @@
     old "The area connected to the Viscid Stream, it is filled with different kinds of Slime and Herbs suitable for research."
     new ""
 
-    old "Mon"
-    new ""
-
-    old "Tue"
-    new ""
-
-    old "Wed"
-    new ""
-
-    old "Thu"
-    new ""
-
-    old "Fri"
-    new ""
-
-    old "Sat"
-    new ""
-
-    old "Sun"
-    new ""
-
     old "Ole's Postal Training"
     new ""
 
@@ -901,6 +952,9 @@
     new ""
 
     old "The Minotaur Riddle"
+    new ""
+
+    old "Haskell's Hut"
     new ""
 
     old "As a client's request, Haskell wanted me to explore the underground dungeon to extract a minotaur's essence."
@@ -1048,53 +1102,5 @@
     new ""
 
     old "Haskell asked me to fetch some herbs for his garden, I should get 10 of those herbs and bring them to him."
-    new ""
-
-    old "Trapped"
-    new ""
-
-    old "Trapped: {p} Target's dodge and lust immunity are reduced by 50%."
-    new ""
-
-    old "Bound"
-    new ""
-
-    old "Bound: {p} Target is unable to attack or use abilities. Struggle to deal reduced damage and break free."
-    new ""
-
-    old "Wounded"
-    new ""
-
-    old "Wounded: {p} Target's health is additionally decreased for each round, effect decreases until it runs out. Stackable."
-    new ""
-
-    old "Empowered"
-    new ""
-
-    old "Empowered: {p} Target's damage is boosted by some amount."
-    new ""
-
-    old "Adorned"
-    new ""
-
-    old "Adorned: {p} Target's flirt effectiveness is boosted by some amount."
-    new ""
-
-    old "Silenced"
-    new ""
-
-    old "Silenced: {p} Target is unable to use any abilities."
-    new ""
-
-    old "Bruised"
-    new ""
-
-    old "Bruised: {p} All Target's healing is reduced by a significant amount."
-    new ""
-
-    old "Scorched"
-    new ""
-
-    old "Scorched: {p} Target's Health decreased by the same amount for each round. Additional application extends the effect duration instead."
     new ""
 

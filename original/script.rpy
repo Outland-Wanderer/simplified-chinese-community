@@ -83,9 +83,9 @@ translate schinese start_cb7fa2ee:
     # "The thing gets closer and closer, you would pray it is Chime, but it turns out bigger than you thought."
     ""
 
-translate schinese start_ca7a0264:
+translate schinese start_0e408d55:
 
-    # "You freeze in place, only tracing out the blue cape of the dark figure."
+    # "You freeze in place, your eyes can only trace the outline of dark figure."
     ""
 
 translate schinese start_8c1447fa:
@@ -93,9 +93,9 @@ translate schinese start_8c1447fa:
     # "At some point, the figure stops, allowing you time to make sense of who is under the cape."
     ""
 
-translate schinese start_5efc84a3:
+translate schinese start_b9809af6:
 
-    # "You can only hear the fierce quivering of the trees as the fleeting shadow emerges in the center of your vision."
+    # "You can hear the fierce quivering of the trees as the fleeting shadow emerges in the center of your vision."
     ""
 
 translate schinese start_99673515:
@@ -103,14 +103,19 @@ translate schinese start_99673515:
     # my "gws sewre boecdisff wwo. sipcse baalseif, b."
     my ""
 
-translate schinese start_2ca9d9d7:
+translate schinese start_1a3b80da:
 
-    # "You have never seen this mysterious person before, with his deer skull covering his head."
+    # "You have never seen this mysterious person before, he seems tall, but scruffy, with a pair of huge antler covering his head."
     ""
 
-translate schinese start_3163c28f:
+translate schinese start_857809b5:
 
-    # "You are already intimidated, if not stunned. You can sense that he is staring at you, even without seeing his pupil."
+    # "And there's something behind his back, which only makes you more paranoid."
+    ""
+
+translate schinese start_e08b4aa1:
+
+    # "You are intimidated by his appearance, if not stunned. You can sense that he is staring at you, even without seeing the pupils behind his mask."
     ""
 
 translate schinese start_bc36866c:
@@ -183,9 +188,9 @@ translate schinese start_b5ac0fb8:
     # my "Juin."
     my ""
 
-translate schinese start_bc15bc66:
+translate schinese start_515c0232:
 
-    # my "Juin...? Juin! J-ju... Hmmm...."
+    # my "Juin...? Juin! J-ju... Hmmm..."
     my ""
 
 translate schinese start_fc645303:
@@ -203,24 +208,44 @@ translate schinese start_ea80e424:
     # my "...Adreif."
     my ""
 
-translate schinese start_cf171e4f:
+translate schinese start_70bd5c88:
 
-    # "He begins preparing and gathering his energy. Everything seems to be much brighter in the forest, tinted in light blue."
+    # "He begins preparing and gathering his energy. Everything seems to be much brighter in the forest, beginning to glow in light blue."
     ""
 
-translate schinese start_b7ca1862:
+translate schinese start_8698853b:
 
-    # "You turn your head, the energy seems to have formed an aura around you two, the forest continues gleaming with light."
+    # "The wooden object behind his back begins floating slowly to his front."
     ""
 
-translate schinese start_3076eeb1:
+translate schinese start_fe42546e:
 
-    # "He is casting his spell. You can sense that everything that is starting to float."
+    # "You turn your head, his unknown energy seems to have formed an aura around you two, the forest continues gleaming with light."
     ""
 
-translate schinese start_850e28c3:
+translate schinese start_c27c68b7:
 
-    # "The figure crosses his legs, chanting in another unintelligible languages."
+    # "He mumbles something under his breath, which you can only deduce that it's a spell."
+    ""
+
+translate schinese start_65c223ef:
+
+    # "The silence of the forest breaks as trees and leaves swirls in all directions, and you hear a tune plays."
+    ""
+
+translate schinese start_2ed9fbeb:
+
+    # "The figure crosses his legs, playing the string on whatever he took out from his back."
+    ""
+
+translate schinese start_4a8cb341:
+
+    # "With each tune played, the wind gets more and more intense, leaving you no room to escape."
+    ""
+
+translate schinese start_b5c20a73:
+
+    # "You groan in fear as everything around you is glowing, and flowing like water around the freezing air."
     ""
 
 translate schinese start_fe637a06:
@@ -338,9 +363,9 @@ translate schinese start_e612037c:
     # m "..."
     m ""
 
-translate schinese start_7d56add8:
+translate schinese start_b1cf6148:
 
-    # m "You waking up yet... you know... you shouldn't have slept in."
+    # m "You waking up yet, you know... you shouldn't have slept in."
     m ""
 
 translate schinese start_027c2e72:
@@ -613,10 +638,35 @@ translate schinese name_done_e2bd6e1c:
     # s "Unlucky, that means you're one of the outsider goats right, You're not a face I remember well."
     s ""
 
-translate schinese name_done_fcdacbb9:
+translate schinese name_done_116a6227:
 
-    # e "What outside? I'm... a dragon from the Hawkaita Tribe."
+    # e "What outside? I'm... a dragon from the Puro Tribe."
     e ""
+
+translate schinese name_done_f1458b27:
+
+    # s "Dragon? I don't think I've ever saw a dragon like you, [e]. You look like a goat pretending to be a dragon."
+    s ""
+
+translate schinese name_done_8b8e3dbf:
+
+    # e "There are dragons who looks like a wolf? like Chime. But we call ourselves dragons because that's what our tribe is."
+    e ""
+
+translate schinese name_done_77e36122:
+
+    # s "So, what's there outside of your tribe? Another tribe? A town full of people?"
+    s ""
+
+translate schinese name_done_4a92046b:
+
+    # e "Now that I think of it, I don't think I've ever been, outside, outside. I spent my whole life in my tribe."
+    e ""
+
+translate schinese name_done_af231e2c:
+
+    # "Sebas scratches his chin."
+    ""
 
 translate schinese name_done_fc475d2a:
 
@@ -1852,6 +1902,9 @@ translate schinese strings:
     old "Gwyddyon"
     new ""
 
+    old "Pirkka"
+    new ""
+
     old "Arthur"
     new ""
 
@@ -1891,10 +1944,10 @@ translate schinese strings:
     old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round. Costs 35 MP. Cooldown: 1 Round."
     new ""
 
-    old "Resolution: {p} Reduce your Lust based on your INT. Costs 25 MP. Cooldown: 1 Round."
+    old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP. Cooldown: 1 Round."
     new ""
 
-    old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP. Cooldown: 1 Round."
+    old "Resolution: {p} Reduce your Lust based on your INT. Costs 25 MP. Cooldown: 1 Round."
     new ""
 
     old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI. Costs 35 MP. Cooldown: 2 Round."

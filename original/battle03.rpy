@@ -1971,6 +1971,9 @@ translate schinese strings:
     old "No{#userockonguardian}"
     new ""
 
+    old "Visit the Goat Tribe after a day."
+    new ""
+
     old "Restart Dungeon"
     new ""
 

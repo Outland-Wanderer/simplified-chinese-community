@@ -66,9 +66,6 @@
     old "Lust: [pc.lust]/[pc.max_lust]"
     new ""
 
-    old "Trinket"
-    new ""
-
     old "Strength (STR) determines [e]'s physical power, including Attack Damage, and small amount of HP and Defense."
     new ""
 
@@ -85,5 +82,29 @@
     new ""
 
     old "Purity (PUR) determines [e]'s sexual innocence, and interaction with characters."
+    new ""
+
+    old "Trinket"
+    new ""
+
+    old "Sorted by Name in Ascending Order"
+    new ""
+
+    old "Sorted by Name in Descending Order"
+    new ""
+
+    old "Sorted by Value in Decending Order"
+    new ""
+
+    old "Sorted by Value in Ascending Order"
+    new ""
+
+    old "Sorted by Item Type"
+    new ""
+
+    old "Storage"
+    new ""
+
+    old "Value: [hovered_item.value] Gold"
     new ""
 

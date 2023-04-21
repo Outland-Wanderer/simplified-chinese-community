@@ -3,9 +3,9 @@
     # k "You're back, are you prepared now."
     k ""
 
-translate schinese Bandit_Den_2f98db24:
+translate schinese Bandit_Den_c6f965f5:
 
-    # k "I don't want to carry you out of the cave again..."
+    # k "I don't want to carry you out of the cave again."
     k ""
 
 translate schinese Bandit_Den_239b9b42:
@@ -13,9 +13,9 @@ translate schinese Bandit_Den_239b9b42:
     # e "Yes, let's keep going."
     e ""
 
-translate schinese Bandit_Den_29473a00:
+translate schinese Bandit_Den_38c18d0d:
 
-    # k "...I should have called my guards instead."
+    # k "I should have drafted my guards instead."
     k ""
 
 translate schinese Bandit_Den_0e185163:
@@ -23,29 +23,24 @@ translate schinese Bandit_Den_0e185163:
     # e "H-hey, I'm a good fighter..."
     e ""
 
-translate schinese Bandit_Den_82091822:
+translate schinese Bandit_Den_40e45012:
 
-    # k "..."
-    k ""
+    # "The general stays silent, staring at you blankly."
+    ""
 
-translate schinese Bandit_Den_0fad1856:
+translate schinese Bandit_Den_63b608f3:
 
-    # e "I-I am..."
+    # e "I-I am!"
     e ""
-
-translate schinese Bandit_Den_82091822_1:
-
-    # k "..."
-    k ""
 
 translate schinese Bandit_Den_0af21bee:
 
     # e "Alright, General."
     e ""
 
-translate schinese Bandit_Den_3a4c1c11:
+translate schinese Bandit_Den_9f919637:
 
-    # k "Uhm... you're back."
+    # k "You're back."
     k ""
 
 translate schinese Bandit_Den_d42aa91e:
@@ -53,10 +48,10 @@ translate schinese Bandit_Den_d42aa91e:
     # e "Yes, let's continue with the cave."
     e ""
 
-translate schinese Bandit_Den_82091822_2:
+translate schinese Bandit_Den_40e45012_1:
 
-    # k "..."
-    k ""
+    # "The general stays silent, staring at you blankly."
+    ""
 
 translate schinese Bandit_Den_6d7f824b:
 
@@ -78,94 +73,14 @@ translate schinese Bandit_Den_0af21bee_1:
     # e "Alright, General."
     e ""
 
-translate schinese Bandit_Den_bc432296:
-
-    # tut "Here's a simple tutorial to dungeon crawling."
-    tut ""
-
-translate schinese Bandit_Den_a9844aa2:
-
-    # e "a w-what?"
-    e ""
-
-translate schinese Bandit_Den_5a05f89c:
-
-    # tut "Uhh... a tutorial."
-    tut ""
-
-translate schinese Bandit_Den_caa77d0f:
-
-    # tut "Alright, so. Tutorial. You can see our guy, [e]. in the center here."
-    tut ""
-
-translate schinese Bandit_Den_d40e26f3:
-
-    # e "T-that's me."
-    e ""
-
-translate schinese Bandit_Den_fcd8547a:
-
-    # tut "If you are on a computer, use WASD, or arrow-keys to control his movement."
-    tut ""
-
-translate schinese Bandit_Den_09b9f0ae:
-
-    # e "Who is controlling me, what are you talking about...?"
-    e ""
-
-translate schinese Bandit_Den_ddbc5ca2:
-
-    # k "W-what?"
-    k ""
-
-translate schinese Bandit_Den_2f22698b:
-
-    # tut "Please ignore him for the moment."
-    tut ""
-
-translate schinese Bandit_Den_a1b0baed:
-
-    # tut "If you are on an android, use the arrows button on the screen."
-    tut ""
-
-translate schinese Bandit_Den_34bd3eaa:
-
-    # tut "To interact with items or enemies, press spacebar or the explore button."
-    tut ""
-
-translate schinese Bandit_Den_55a916a7:
-
-    # tut "Ok, that's it. Tutorial ends here. I'm leaving [e] here now. Bye."
-    tut ""
-
-translate schinese Bandit_Den_72a33094:
-
-    # e "..."
-    e ""
-
-translate schinese Bandit_Den_04d94479:
-
-    # e "What a weird guy..."
-    e ""
-
-translate schinese Bandit_Den_6c375e9c:
-
-    # k "Uhm... courier... why are you talking to yourself."
-    k ""
-
-translate schinese Bandit_Den_1a400f0b:
-
-    # e "Nothing."
-    e ""
-
 translate schinese Bandit_Den_Loop_f78acfe3:
 
     # e "Furkan?"
     e ""
 
-translate schinese Bandit_Den_Loop_61b0193a:
+translate schinese Bandit_Den_Loop_959a8787:
 
-    # f "Yeah... I'm still here... waiting for the guards."
+    # f "Yeah, I'm still here, waiting for the guards."
     f ""
 
 translate schinese Bandit_Den_Loop_3388a208:
@@ -173,24 +88,24 @@ translate schinese Bandit_Den_Loop_3388a208:
     # e "Oh..."
     e ""
 
-translate schinese Bandit_Den_Loop_389bda7d:
+translate schinese Bandit_Den_Loop_afa99a7b:
 
-    # e "Uhm I should go to the Goat Tribe now."
+    # e "I should go to the Goat Tribe now."
     e ""
 
-translate schinese Bandit_Den_Loop_efedd651:
+translate schinese Bandit_Den_Loop_ed7b2a19:
 
-    # "Furkan seems to be unconscious..."
+    # "Furkan seems to be unconscious."
     ""
 
-translate schinese Bandit_Den_Loop_9565b19f:
+translate schinese Bandit_Den_Loop_67435228:
 
-    # k "Courier...He's right there!"
+    # k "Courier, He's right there!"
     k ""
 
-translate schinese Bandit_Den_Loop_cde23c2a:
+translate schinese Bandit_Den_Loop_2c2f1fc4:
 
-    # e "Uhm? Oh... I see... Furkan."
+    # e "Uhm? Oh... I see Furkan."
     e ""
 
 translate schinese Bandit_Den_Loop_e9859b0e:
@@ -203,9 +118,9 @@ translate schinese Bandit_Den_Loop_24b6d42e:
     # k "Kill the Guardian."
     k ""
 
-translate schinese Bandit_Den_Loop_67804483:
+translate schinese Bandit_Den_Loop_ceb7bdd4:
 
-    # "You look at the Golem... who Kari told you was the rune guardian."
+    # "You look at the Golem, who Kari told you was the rune guardian."
     ""
 
 translate schinese Bandit_Den_Loop_e499e5e0:
@@ -218,9 +133,9 @@ translate schinese Bandit_Den_Loop_3575c89a:
     # "You look at the Guardian, it seems to be standing here..."
     ""
 
-translate schinese Bandit_Den_Loop_ee282f51:
+translate schinese Bandit_Den_Loop_a0912840:
 
-    # "There's an ordinary rock on the floor... Do you want to pick it up?"
+    # "There's an ordinary rock on the floor, Do you want to pick it up?"
     ""
 
 translate schinese Bandit_Den_Loop_43a91da1:
@@ -238,9 +153,9 @@ translate schinese Bandit_Den_Loop_5183e1f6:
     # k "Wait, where are you going?"
     k ""
 
-translate schinese Bandit_Den_Loop_edf22eec:
+translate schinese Bandit_Den_Loop_07824b1e:
 
-    # e "I... need to get something..."
+    # e "I, need to get something..."
     e ""
 
 translate schinese Bandit_Den_Loop_38d2e2f4:
@@ -248,9 +163,9 @@ translate schinese Bandit_Den_Loop_38d2e2f4:
     # k "But you can't leave me here."
     k ""
 
-translate schinese Bandit_Den_Loop_7607a6b1:
+translate schinese Bandit_Den_Loop_50401ba0:
 
-    # k "Uhm..."
+    # k "Uhm."
     k ""
 
 translate schinese Bandit_Den_Loop_48075da3:
@@ -258,9 +173,9 @@ translate schinese Bandit_Den_Loop_48075da3:
     # k "Come back soon."
     k ""
 
-translate schinese Bandit_Den_Loop_2e3f17c3:
+translate schinese Bandit_Den_Loop_45d727e3:
 
-    # e "A-alright...See you, General."
+    # e "A-alright. See you, General."
     e ""
 
 translate schinese Bandit_Den_Loop_f291e002:
@@ -388,9 +303,9 @@ translate schinese Bandit_Den_Hole_89080cec:
     # "You put the rock into the hole. Now you can walk across it."
     ""
 
-translate schinese Bandit_Den_Shelf_c63bf0b1:
+translate schinese Bandit_Den_Shelf_5a31dcf4:
 
-    # e "Oh... there's a bookshelf here... for some reason."
+    # e "Oh, there's a bookshelf here for some reason."
     e ""
 
 translate schinese Bandit_Den_Shelf_2a8468ee:
@@ -403,9 +318,9 @@ translate schinese Bandit_Den_Shelf_db731995:
     # "But after skimming through most of the shelf, there is a strip of paper that seems to be newer."
     ""
 
-translate schinese Bandit_Den_Shelf_664188c9:
+translate schinese Bandit_Den_Shelf_73e13418:
 
-    # k "Uhm... What did it say...?"
+    # k "Uhm, What did it say...?"
     k ""
 
 translate schinese Bandit_Den_Shelf_ba0eff63:
@@ -488,9 +403,9 @@ translate schinese Bandit_Den_Shelf_92f16cc0:
     # e "Yeah."
     e ""
 
-translate schinese Bandit_Den_Shelf_96da0a67:
+translate schinese Bandit_Den_Shelf_90ae23f5:
 
-    # k "Goekdemir is Furkan's Great-Grandfather... that was so long ago."
+    # k "Goekdemir is Furkan's Great-Grandfather, that was so long ago."
     k ""
 
 translate schinese Bandit_Den_Shelf_33c8a0a1:
@@ -513,9 +428,9 @@ translate schinese Bandit_Den_Shelf_e246719a:
     # e "A plain bandana uses 2 fabric and 1 strap..."
     e ""
 
-translate schinese Bandit_Den_Shelf_8229bd5d:
+translate schinese Bandit_Den_Shelf_e254de6d:
 
-    # "After looking into the books, you decide you have discovered everything readable..."
+    # "After looking into the books, you decide you have discovered everything readable."
     ""
 
 translate schinese Bandit_Den_Hole_Filled_114271e8:

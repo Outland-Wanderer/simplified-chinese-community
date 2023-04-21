@@ -993,3 +993,6 @@ translate schinese strings:
     old "That's all for now"
     new ""
 
+    old "Visit the Split Trail"
+    new ""
+

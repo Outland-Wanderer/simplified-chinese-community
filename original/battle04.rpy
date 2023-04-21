@@ -2186,3 +2186,6 @@ translate schinese strings:
     old "Let him keep the plums"
     new ""
 
+    old "Return and Report to Jog"
+    new ""
+

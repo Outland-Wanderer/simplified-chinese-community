@@ -3,9 +3,9 @@
     # h "Lost your clothes to the monsters again?"
     h ""
 
-translate schinese Haskell_Dialogues_a0a4da04:
+translate schinese Haskell_Dialogues_587c4c16:
 
-    # e "Uhh..."
+    # e "Uhh."
     e ""
 
 translate schinese Haskell_Dialogues_9f2901c3:
@@ -603,14 +603,14 @@ translate schinese Haskell_Buggbear_Wait_e1bfc841:
     # h "Well. I'll tell him when I need to tell him."
     h ""
 
-translate schinese Haskell_Buggbear_Wait_64930028:
+translate schinese Haskell_Buggbear_Wait_639c5238:
 
-    # h "So...? Deal?" nointeract
+    # h "So? Deal?" nointeract
     h "" nointeract
 
-translate schinese Haskell_Buggbear_Wait_a2061b99:
+translate schinese Haskell_Buggbear_Wait_20dac4fc:
 
-    # e "Alright... I'll make them."
+    # e "Alright, I'll make them."
     e ""
 
 translate schinese Haskell_Buggbear_Wait_5ee11ac9:
@@ -618,9 +618,9 @@ translate schinese Haskell_Buggbear_Wait_5ee11ac9:
     # h "And... don't tell Ole about it, alright?"
     h ""
 
-translate schinese Haskell_Buggbear_Wait_faa7d97b:
+translate schinese Haskell_Buggbear_Wait_eeb4ded0:
 
-    # e "Hmm..."
+    # e "Hmm."
     e ""
 
 translate schinese Haskell_Buggbear_Wait_64adb548:
@@ -663,9 +663,9 @@ translate schinese Haskell_Buggbear_Wait_e69b1967:
     # h "Here's your recipes. If he does ask you again, just tell them I made it."
     h ""
 
-translate schinese Haskell_Buggbear_Wait_66c783bf:
+translate schinese Haskell_Buggbear_Wait_92932082:
 
-    # h "Here's the health, and mana potion recipe, and strength..."
+    # h "Here's the health, and mana potion recipe, and strength."
     h ""
 
 translate schinese Haskell_Buggbear_Wait_9d2f2d12:
@@ -698,6 +698,11 @@ translate schinese Haskell_Buggbear_Wait_22d08682:
     # h "I can't."
     h ""
 
+translate schinese Haskell_Buggbear_Wait_c171d01a:
+
+    # "Haskell takes a moment, seemingly pondering the possibility ahead of him."
+    ""
+
 translate schinese Haskell_Buggbear_Wait_2fded262:
 
     # h "..."
@@ -728,9 +733,9 @@ translate schinese Haskell_Buggbear_Wait_1cdcf7a9:
     # h "Right."
     h ""
 
-translate schinese Haskell_Buggbear_Wait_6cb377ad:
+translate schinese Haskell_Buggbear_Wait_f4c39cc6:
 
-    # h "Oh... I almost forgot. The Balm."
+    # h "Oh, I almost forgot. The Balm."
     h ""
 
 translate schinese Haskell_Buggbear_Wait_ba5c2d62:
@@ -738,14 +743,14 @@ translate schinese Haskell_Buggbear_Wait_ba5c2d62:
     # e "You said you were making it for the buggbears?"
     e ""
 
-translate schinese Haskell_Buggbear_Wait_b7d867fa:
+translate schinese Haskell_Buggbear_Wait_1bc5e659:
 
-    # h "Yeah. Right. I still need some time to perfect."
+    # h "Yeah. Right. I still need some time to perfect the recipe."
     h ""
 
-translate schinese Haskell_Buggbear_Wait_02bba5ab:
+translate schinese Haskell_Buggbear_Wait_a7e87789:
 
-    # h "Uhh... Come back later, again. I'll talk to you about it."
+    # h "Come back later, again. I'll talk to you about it."
     h ""
 
 translate schinese Haskell_Buggbear_Wait_282ab36b:
@@ -758,9 +763,9 @@ translate schinese Haskell_Buggbear_Wait_9a5455d7:
     # h "Sure."
     h ""
 
-translate schinese Haskell_Buggbear_Wait_5c214951:
+translate schinese Haskell_Buggbear_Wait_31181058:
 
-    # e "Hey... Haskell. Are you ready with the potion for Ole...?"
+    # e "Hey, Haskell. Are you ready with the potion for Ole?"
     e ""
 
 translate schinese Haskell_Buggbear_Wait_427f47d6:
@@ -803,9 +808,9 @@ translate schinese Haskell_Buggbear_Quest_de063e27:
     # e "Hey, Haskell. I've got the... Saliva you need."
     e ""
 
-translate schinese Haskell_Buggbear_Quest_bef55235:
+translate schinese Haskell_Buggbear_Quest_3862069d:
 
-    # h "Sure, Sure. But what's the problem with those... liquid."
+    # h "Sure, Sure. But what's the problem with those, liquid."
     h ""
 
 translate schinese Haskell_Buggbear_Quest_10a6bc06:
@@ -823,19 +828,19 @@ translate schinese Haskell_Buggbear_Quest_8791adcb:
     # e "I've told you, it's just spilt saliva... not anything you're thinking of..."
     e ""
 
-translate schinese Haskell_Buggbear_Quest_5d33379e:
+translate schinese Haskell_Buggbear_Quest_a01c58e2:
 
-    # h "Alright. Alright. I was just kidding. Not that there's any problem with buggbear cum..."
+    # h "Alright. Alright. It was merely a joke, and not that there's any problem with buggbear cum."
     h ""
 
-translate schinese Haskell_Buggbear_Quest_72a33094:
+translate schinese Haskell_Buggbear_Quest_b22fbdfc:
 
-    # e "..."
-    e ""
+    # "You stare at the dragon."
+    ""
 
-translate schinese Haskell_Buggbear_Quest_c4165c3d:
+translate schinese Haskell_Buggbear_Quest_72171266:
 
-    # h "Ok. Thanks for your hard work anyways."
+    # h "But thanks for your hard work anyways."
     h ""
 
 translate schinese Haskell_Buggbear_Quest_114881f6:
@@ -853,9 +858,9 @@ translate schinese Haskell_Buggbear_Quest_c642af3d:
     # h "Don't look at me like that, kiddo. I-I uhh... I'll do it right away. With your saliva."
     h ""
 
-translate schinese Haskell_Buggbear_Quest_3d62fde7:
+translate schinese Haskell_Buggbear_Quest_2b4ae6d4:
 
-    # e "So... When can I get the potions..."
+    # e "So, when can I get the potions..."
     e ""
 
 translate schinese Haskell_Buggbear_Quest_303b810b:
@@ -868,14 +873,9 @@ translate schinese Haskell_Buggbear_Quest_ceb38114:
     # h "Hey, come back in 2 days. You'll get your little potions."
     h ""
 
-translate schinese Haskell_Buggbear_Quest_72a33094_1:
+translate schinese Haskell_Buggbear_Quest_1d86c8cf:
 
-    # e "..."
-    e ""
-
-translate schinese Haskell_Buggbear_Quest_56d5894c:
-
-    # h "I'll teach you how to make it too. Hey don't get mad at me. At this age I'm just forgetful."
+    # h "I'll teach you how to make it too. Don't get mad at me. At this age I'm just forgetful."
     h ""
 
 translate schinese Haskell_Buggbear_Quest_e53c6fed:
@@ -883,9 +883,9 @@ translate schinese Haskell_Buggbear_Quest_e53c6fed:
     # e "Alright..."
     e ""
 
-translate schinese Haskell_Buggbear_Quest_1a15d7dc:
+translate schinese Haskell_Buggbear_Quest_b309cd82:
 
-    # e "Hey Haskell. I was wondering... if you can help with the buggbear?"
+    # e "Hey Haskell. I was wondering, if you can help with the buggbear?"
     e ""
 
 translate schinese Haskell_Buggbear_Quest_ddb8ab35:
@@ -903,9 +903,9 @@ translate schinese Haskell_Buggbear_Quest_2ba8f65e:
     # h "Alright. You're getting more forgetful than me. I gave you two sedatives, just throw the stuff on them when they're weak."
     h ""
 
-translate schinese Haskell_Buggbear_Quest_f31b4a1d:
+translate schinese Haskell_Buggbear_Quest_ade32ccc:
 
-    # e "When will they be... weak?"
+    # e "When will they be weak?"
     e ""
 
 translate schinese Haskell_Buggbear_Quest_1021cd6f:
@@ -1418,9 +1418,9 @@ translate schinese Haskell_Potion_Order_28a84988:
     # h "What What?"
     h ""
 
-translate schinese Haskell_Potion_Order_b22b20db:
+translate schinese Haskell_Potion_Order_0b43787d:
 
-    # h "Hmm... Here are the potions."
+    # h "Hmm, Here are the potions."
     h ""
 
 translate schinese Haskell_Potion_Order_db1d5324:
@@ -1428,9 +1428,9 @@ translate schinese Haskell_Potion_Order_db1d5324:
     # "Haskell hands you 10 strength potions, nonchalantly."
     ""
 
-translate schinese Haskell_Potion_Order_b3e7d7c0:
+translate schinese Haskell_Potion_Order_ed878aa4:
 
-    # e "Haskell... you actually prepared something this time?"
+    # e "Haskell, you actually prepared something this time?"
     e ""
 
 translate schinese Haskell_Potion_Order_5d9c6c0b:
@@ -1443,9 +1443,9 @@ translate schinese Haskell_Potion_Order_998177b2:
     # h "Now take them and go, I'll get more batches done next time you come."
     h ""
 
-translate schinese Haskell_Potion_Order_ab047e82:
+translate schinese Haskell_Potion_Order_8d9986e4:
 
-    # e "Hmm...where did you hide the real Haskell."
+    # e "Hmm... where did you hide the real Haskell."
     e ""
 
 translate schinese Haskell_Potion_Order_0f62bd5d:
@@ -1458,9 +1458,9 @@ translate schinese Haskell_Potion_Order_f3806c5e:
     # e "mhmm..."
     e ""
 
-translate schinese Haskell_Potion_Order_0a4e46b0:
+translate schinese Haskell_Potion_Order_c0924204:
 
-    # h "...Just kidding, kiddo. Take the potion now and have a great day, [e]."
+    # h "It was an exaggeration, kiddo. Take the potion now and have a great day, [e]."
     h ""
 
 translate schinese Haskell_Potion_Order_92f7d40b:
@@ -1503,9 +1503,9 @@ translate schinese Haskell_Ask_Goat_Tribe_b10d2a73:
     # h "Yeah I know them, they're called Kechioeren."
     h ""
 
-translate schinese Haskell_Ask_Goat_Tribe_e4f667b2:
+translate schinese Haskell_Ask_Goat_Tribe_94deea63:
 
-    # e "Uh... Ke-K-eso... Kechieoeo-"
+    # e "Uh, Ke-K-eso... Kechieoeo-"
     e ""
 
 translate schinese Haskell_Ask_Goat_Tribe_d1748bd5:
@@ -1878,9 +1878,9 @@ translate schinese Haskell_Meet_Hut_a24e4789:
     # e "I hit my head..."
     e ""
 
-translate schinese Haskell_Meet_Hut_b4a290e9:
+translate schinese Haskell_Meet_Hut_f1e283b9:
 
-    # e "You... scared me."
+    # e "You scared me."
     e ""
 
 translate schinese Haskell_Meet_Hut_549e712b:
@@ -1888,9 +1888,9 @@ translate schinese Haskell_Meet_Hut_549e712b:
     # "You suddenly realise the dragon is dangerously close to you, only a few inches apart."
     ""
 
-translate schinese Haskell_Meet_Hut_8e67f786:
+translate schinese Haskell_Meet_Hut_6a2c3783:
 
-    # m "What... How did you hit your head again..."
+    # m "What, How did you hit your head again..."
     m ""
 
 translate schinese Haskell_Meet_Hut_a4992a39:
@@ -1973,7 +1973,7 @@ translate schinese Haskell_Meet_Hut_a24e4789_1:
     # e "I hit my head..."
     e ""
 
-translate schinese Haskell_Meet_Hut_b4a290e9_1:
+translate schinese Haskell_Meet_Hut_b4a290e9:
 
     # e "You... scared me."
     e ""
@@ -2413,9 +2413,9 @@ translate schinese Haskell_First_Meet_20d216de:
     # "A blunt voice comes out of the figure's mouth, you realise that he is a dragon."
     ""
 
-translate schinese Haskell_First_Meet_3aa5f827:
+translate schinese Haskell_First_Meet_7b29988e:
 
-    # m "Ohh... You're not supposed to be here."
+    # m "Ohh. You're not supposed to be here."
     m ""
 
 translate schinese Haskell_First_Meet_14953670:
@@ -2468,9 +2468,9 @@ translate schinese Haskell_First_Meet_1963d2b1:
     # h "What else do you think, you little dick head, I just told you this is my place."
     h ""
 
-translate schinese Haskell_First_Meet_d5920e57:
+translate schinese Haskell_First_Meet_546fc550:
 
-    # e "I am not familiar with anything around here... You don't need to be this aggressive, Haskell."
+    # e "I am not familiar with anything around here. You don't need to be this aggressive, Haskell."
     e ""
 
 translate schinese Haskell_First_Meet_c59518fb:
@@ -2478,14 +2478,14 @@ translate schinese Haskell_First_Meet_c59518fb:
     # h "Ha. Funny kid aren't you. You look new around here, where do you live?"
     h ""
 
-translate schinese Haskell_First_Meet_2db7b312:
+translate schinese Haskell_First_Meet_675ebd1a:
 
-    # e "...Lusterfield?"
+    # e "Lusterfield?"
     e ""
 
-translate schinese Haskell_First_Meet_76bf4f23:
+translate schinese Haskell_First_Meet_7a9ea54f:
 
-    # h "Ohh... and what's your name again?"
+    # h "Ohh, and what's your name again?"
     h ""
 
 translate schinese Haskell_First_Meet_5031b55a:
@@ -2573,9 +2573,9 @@ translate schinese Haskell_First_Meet_ca47902a:
     # "You can smell the floral aroma of the herbal tea from here, enticing you to try it out."
     ""
 
-translate schinese Haskell_First_Meet_1f005d5f:
+translate schinese Haskell_First_Meet_61eeab7a:
 
-    # e "Uhh... What's in the cup?"
+    # e "Uhh, What's in the cup?"
     e ""
 
 translate schinese Haskell_First_Meet_b8fdf930:
@@ -3988,19 +3988,19 @@ translate schinese Haskell_Herb_Fetch_Task_Inquire_8438b83d:
     # h "You definitely need some tea to improve your memory."
     h ""
 
-translate schinese Haskell_Herb_Fetch_Task_Inquire_6240a803:
+translate schinese Haskell_Herb_Fetch_Task_Inquire_f7823f32:
 
-    # h "Now, you should get me three Hydrangea, from the Sundersilk Cascades."
+    # h "Now, you should get me ten Hydrangea, from the Sundersilk Cascades."
     h ""
 
-translate schinese Haskell_Herb_Fetch_Task_Inquire_55a7e439:
+translate schinese Haskell_Herb_Fetch_Task_Inquire_cbaad2d6:
 
-    # h "Now, you should get me three Hawthorn somewhere in the garden near the Lusterfield farm."
+    # h "Now, you should get me ten Hawthorn somewhere in the garden near the Lusterfield farm."
     h ""
 
-translate schinese Haskell_Herb_Fetch_Task_Inquire_7cb55d1d:
+translate schinese Haskell_Herb_Fetch_Task_Inquire_636d2708:
 
-    # h "Now, you should get me three Horehounds near the goat tribe, somewhere up top."
+    # h "Now, you should get me ten Horehounds near the goat tribe, somewhere up top."
     h ""
 
 translate schinese Haskell_Herb_Fetch_Task_Inquire_18f8c7de:
@@ -5499,10 +5499,22 @@ translate schinese strings:
     old "You need to make them yourself"
     new ""
 
+    old "Return and Report to Ole"
+    new ""
+
+    old "Report to Ole"
+    new ""
+
     old "As my courier job, Ole told me about helping him get potion from an old friend. {p} I need to report back to Ole for the 30 strength potion."
     new ""
 
     old "As my courier job, Ole told me about helping him get potion from an old friend. {p} I need to wait for two days for Haskell to complete his potions."
+    new ""
+
+    old "Wait for 2 days and Report to Haskell"
+    new ""
+
+    old "Wait for a day"
     new ""
 
     old "As my courier job, Ole told me about helping him get potion from an old friend. {p} I need to sedate two Buggbears with the powder Haskell gave me."
@@ -5521,6 +5533,15 @@ translate schinese strings:
     new ""
 
     old "Yes{#haskelltakeminojob}"
+    new ""
+
+    old "Visit the Minotaur Cave in Dark Forest"
+    new ""
+
+    old "Gather 4 Gingers"
+    new ""
+
+    old "Collect 3 Chrysanthemums"
     new ""
 
     old "Accept the Task"

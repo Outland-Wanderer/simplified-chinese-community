@@ -203,6 +203,51 @@ translate schinese Furkan_Dialogue_fa2a6aae:
     # "Furkan looks down at his paper once again..."
     ""
 
+translate schinese Furkan_Dialogue_bdf6a85b:
+
+    # f "Couri-"
+    f ""
+
+translate schinese Furkan_Dialogue_b9df45c1:
+
+    # "You catch Furkan staring at your naked self, that's when you realise you haven't put your clothes on."
+    ""
+
+translate schinese Furkan_Dialogue_3ec57d49:
+
+    # f "..."
+    f ""
+
+translate schinese Furkan_Dialogue_1969bdbc:
+
+    # "His cheeks become a lot redder, and the chief averts his gaze almost immediately."
+    ""
+
+translate schinese Furkan_Dialogue_bb052833:
+
+    # f "Watch out for the weather, it's getting cold, courier."
+    f ""
+
+translate schinese Furkan_Dialogue_fbfb4027:
+
+    # e "Y-yes."
+    e ""
+
+translate schinese Furkan_Dialogue_261ee5af:
+
+    # "He waits a few seconds before turning to you, and accidentally leaves a glance on your cock."
+    ""
+
+translate schinese Furkan_Dialogue_7c56f12b:
+
+    # "You can hear a loud gulp."
+    ""
+
+translate schinese Furkan_Dialogue_04558c1e:
+
+    # f "...Alright."
+    f ""
+
 translate schinese Furkan_Normal_Talk_f85cdcd1:
 
     # f "How are you doing, Courier." nointeract
@@ -1316,10 +1361,16 @@ translate schinese strings:
     old "Ask about his status as a Chief"
     new ""
 
+    old "Visit werewolves in the Dark Forest. (WIP: This Quest will be finished by finishing the werewolf quests)"
+    new ""
+
     old "Tell Furkan about Rahim's flower"
     new ""
 
     old "Lie to Furkan"
+    new ""
+
+    old "Report to Rahim"
     new ""
 
     old "Battle with the Goat"

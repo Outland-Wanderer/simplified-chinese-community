@@ -8628,9 +8628,9 @@ translate schinese Wuldon_Meeting_River_d58734eb:
     # e "Well, is there anything else I can help you with?"
     e ""
 
-translate schinese Wuldon_Meeting_River_4a94ff11:
+translate schinese Wuldon_Meeting_River_44cd5313:
 
-    # "Wuldon sighs"
+    # "Wuldon sighs."
     ""
 
 translate schinese Wuldon_Meeting_River_98f81678:
@@ -11695,6 +11695,12 @@ translate schinese strings:
     old "Check in on Wuldon and Vurro"
     new ""
 
+    old "Wait for a few days"
+    new ""
+
+    old "Visit the Slime... Country with Wuldon"
+    new ""
+
     old "Do you sniff Wuldon's loincloth?"
     new ""
 
@@ -11719,10 +11725,16 @@ translate schinese strings:
     old "No, but..."
     new ""
 
+    old "Collect slimy materials from the Slime Country"
+    new ""
+
     old "Help Vurro"
     new ""
 
     old "Do not help Vurro"
+    new ""
+
+    old "Return to the cave with Wuldon and Vurro"
     new ""
 
     old "Reject Vurro"
@@ -11731,10 +11743,25 @@ translate schinese strings:
     old "Reconsider"
     new ""
 
+    old "Report to Wuldon and Cure Vurro"
+    new ""
+
     old "Yes{#wuldoncuringvurro}"
     new ""
 
     old "No{#wuldoncuringvurro}"
+    new ""
+
+    old "Search for Wuldon... around the river?"
+    new ""
+
+    old "Look for Wuldon... somewhere near, with a lot of herbs?"
+    new ""
+
+    old "Visit the Slime Country"
+    new ""
+
+    old "Return to Uffe"
     new ""
 
     old "Rescue the werewolf"

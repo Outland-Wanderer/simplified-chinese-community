@@ -9,6 +9,9 @@
     old "Completed Quests:"
     new ""
 
+    old "{size=20}{p}{p} ==================== {p}{p}{/size=20} {size=32}Progress{/size=32}:"
+    new ""
+
     old "Location: [selected_quest.location!t]"
     new ""
 

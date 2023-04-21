@@ -1,6 +1,6 @@
-﻿translate schinese main_woodland_outpost_78c284fa:
+﻿translate schinese main_woodland_outpost_bc6a5c21:
 
-    # k "Hey... Where's Furkan?"
+    # k "Hey, Where's Furkan?"
     k ""
 
 translate schinese main_woodland_outpost_cca30a87:
@@ -53,19 +53,19 @@ translate schinese main_woodland_outpost_88472ec0:
     # e "See you!"
     e ""
 
-translate schinese main_woodland_outpost_8a7093fd:
+translate schinese main_woodland_outpost_56af5341:
 
-    # "You reach the gate of the goat tribe, the guards looks at you in confusion..."
+    # "You reach the gate of the goat tribe, the guards looks at you in confusion."
     ""
 
-translate schinese main_woodland_outpost_5017e07d:
+translate schinese main_woodland_outpost_135a5f89:
 
-    # "It seems that there's no one in charge of the goat tribe now..."
+    # "It seems that there's no one in charge of the goat tribe now."
     ""
 
-translate schinese main_woodland_outpost_a5cb12e0:
+translate schinese main_woodland_outpost_d7796cd2:
 
-    # "The general is still in the cave... you presume."
+    # "The general is still in the cave, as you presume."
     ""
 
 translate schinese main_woodland_outpost_0681d622:
@@ -663,9 +663,9 @@ translate schinese woodland_outpost_loop_e612037c:
     # m "..."
     m ""
 
-translate schinese woodland_outpost_loop_cf02c7f3:
+translate schinese woodland_outpost_loop_4b3286df:
 
-    # m "Who... are you?"
+    # m "Who, are you?"
     m ""
 
 translate schinese woodland_outpost_loop_2b40a022:
@@ -678,9 +678,9 @@ translate schinese woodland_outpost_loop_32516365:
     # "Instead of the unintelligible languages in your memory, you hear a young voice coming out of the figure."
     ""
 
-translate schinese woodland_outpost_loop_1e2554d0:
+translate schinese woodland_outpost_loop_b95cc4d6:
 
-    # "He is not dark blue... this... deer... is bright in colour, and holding a scepter in his hand."
+    # "This deer, is bright in colour, and holding a scepter in his hand."
     ""
 
 translate schinese woodland_outpost_loop_54935489:
@@ -693,9 +693,9 @@ translate schinese woodland_outpost_loop_bc60e7d1:
     # m "Where are you from... and.. why are you here... at the middle of the night..."
     m ""
 
-translate schinese woodland_outpost_loop_0d0b573f:
+translate schinese woodland_outpost_loop_9119c4e7:
 
-    # e "I'm... from Lusterfield. I was just exploring the area."
+    # e "I'm from Lusterfield. I was just exploring the area."
     e ""
 
 translate schinese woodland_outpost_loop_e628981d:
@@ -708,9 +708,9 @@ translate schinese woodland_outpost_loop_9980ec54:
     # m "W-what?"
     m ""
 
-translate schinese woodland_outpost_loop_80877cbb:
+translate schinese woodland_outpost_loop_9c5abfe1:
 
-    # e "That demon... that sent me here..."
+    # e "The demon that sent me here."
     e ""
 
 translate schinese woodland_outpost_loop_790207d5:
@@ -723,15 +723,10 @@ translate schinese woodland_outpost_loop_d7bf05f9:
     # e "Hmm?"
     e ""
 
-translate schinese woodland_outpost_loop_34c23b9b:
+translate schinese woodland_outpost_loop_7e6d3db7:
 
-    # m "The courier from Lusterfield, Chief told me about you..."
+    # m "The courier from Lusterfield, Chief told me about you."
     m ""
-
-translate schinese woodland_outpost_loop_0dd6c55c:
-
-    # e "I..."
-    e ""
 
 translate schinese woodland_outpost_loop_b58051d6:
 
@@ -763,19 +758,19 @@ translate schinese woodland_outpost_loop_f7413291:
     # m "Where is he..."
     m ""
 
-translate schinese woodland_outpost_loop_5a9d7f67:
+translate schinese woodland_outpost_loop_9c6176b1:
 
-    # e "Uhm...I don't know."
+    # e "Uhm, I don't know."
     e ""
 
-translate schinese woodland_outpost_loop_4516937f:
+translate schinese woodland_outpost_loop_d3fe2f03:
 
-    # m "...Look, any information you know, you shall spill your beans. Did the Lusterfolks take him?"
+    # m "Look, any information you know, you shall spill your beans. Did the Lusterfolks take him?"
     m ""
 
-translate schinese woodland_outpost_loop_bf237a7d:
+translate schinese woodland_outpost_loop_5819885f:
 
-    # e "No... I'm sure no one would dare to kidnap your chief."
+    # e "No, I'm sure no one would dare to kidnap your chief."
     e ""
 
 translate schinese woodland_outpost_loop_f7cd9910:
@@ -843,9 +838,9 @@ translate schinese woodland_outpost_loop_ab180096:
     # m "I need a hand."
     m ""
 
-translate schinese woodland_outpost_loop_38a2775c:
+translate schinese woodland_outpost_loop_dc806ac7:
 
-    # e "Really...? I don't even know you..."
+    # e "Really? I don't even know you."
     e ""
 
 translate schinese woodland_outpost_loop_ccd68456:
@@ -858,9 +853,9 @@ translate schinese woodland_outpost_loop_72a33094:
     # e "..."
     e ""
 
-translate schinese woodland_outpost_loop_2bfd163a:
+translate schinese woodland_outpost_loop_937a8a1a:
 
-    # "You and the mysterious figure wait for the sun to rise before proceeding..."
+    # "You and the mysterious figure wait for the sun to rise before proceeding."
     ""
 
 translate schinese woodland_outpost_loop_e91ba75d_2:
@@ -1028,11 +1023,6 @@ translate schinese scene_slime_sex_a21041ec:
     # "There's you can fight the slime forcing you down, nor can you resist the urge to squirm and struggle under its control, you whimper quietly, praying that it would retreat the next second."
     ""
 
-translate schinese scene_slime_sex_63a77ee7:
-
-    # e "S-stop..."
-    e ""
-
 translate schinese scene_slime_sex_96ff7f13:
 
     # "You try to push the viscous substance away from you but it only gets firmer, The more you struggle, the easier it becomes to accomodate its advance, it quickly slides from your bare chest to your lower abdomen."
@@ -1098,9 +1088,9 @@ translate schinese scene_slime_sex_c87ffdc0:
     # "The sensation is haunting, sending your brain all the wrong signals that you might be enjoying this."
     ""
 
-translate schinese scene_slime_sex_25e86aee:
+translate schinese scene_slime_sex_50b4ace9:
 
-    # e "Noo... S-stop."
+    # e "Noo."
     e ""
 
 translate schinese scene_slime_sex_2454043a:
@@ -1123,9 +1113,9 @@ translate schinese scene_slime_sex_f4c22d45:
     # "It continues different movement for a while, until the sexual thoughts had overwhelmed your mind. You can think about nothing but the feeling of the gooey creature on your cock. It feels... oddly amazing."
     ""
 
-translate schinese scene_slime_sex_2d7161cb:
+translate schinese scene_slime_sex_38ea0c8e:
 
-    # e "Ahhhh- A-hhhh..."
+    # e "Ahhhh- A-hhhh."
     e ""
 
 translate schinese scene_slime_sex_85e20509:

@@ -8308,9 +8308,9 @@ translate schinese Lothar_Who_Angry_f0a5fabc:
     # l "Did your elder teach you manners, especially talking to a hero in front of you?"
     l ""
 
-translate schinese Lothar_Who_Angry_04080cf6:
+translate schinese Lothar_Who_Angry_16dc5433:
 
-    # e "I didn't know who you are... I'm sorry."
+    # e "I didn't know who you are, I'm sorry."
     e ""
 
 translate schinese Lothar_Who_Angry_c7c93ab3:
@@ -8353,9 +8353,9 @@ translate schinese Lothar_Who_Angry_7717b576:
     # l "Are you?"
     l ""
 
-translate schinese Lothar_Who_Angry_74db1a7f:
+translate schinese Lothar_Who_Angry_118adec5:
 
-    # e "Yes..."
+    # e "Yes."
     e ""
 
 translate schinese Lothar_Who_Angry_82822a0c:
@@ -8393,9 +8393,9 @@ translate schinese Lothar_Wrong_420c659c:
     # m "Alright then, now tell me, what's your name."
     m ""
 
-translate schinese Lothar_Wrong_b93c4f4c:
+translate schinese Lothar_Wrong_d454165b:
 
-    # e "My name is [e]..."
+    # e "My name is [e]."
     e ""
 
 translate schinese Lothar_Wrong_fd102fdb:
@@ -8418,9 +8418,9 @@ translate schinese Lothar_Wrong_25fb53c4:
     # m "You know me now?"
     m ""
 
-translate schinese Lothar_Wrong_14427fe0:
+translate schinese Lothar_Wrong_20fd191c:
 
-    # e "Uhhh... what's your name?"
+    # e "What's your name?"
     e ""
 
 translate schinese Lothar_Wrong_8c5cf0e2:
@@ -8448,9 +8448,9 @@ translate schinese Lothar_Wrong_480232fa:
     # l "Good, good. I'm the hero of the village. Don't you ever, ever try to play me like that, you understand?"
     l ""
 
-translate schinese Lothar_Wrong_6c60186f:
+translate schinese Lothar_Wrong_ad107a04:
 
-    # e "Y-yes..."
+    # e "Ok?"
     e ""
 
 translate schinese Lothar_First_End_4c53de91:
@@ -8533,9 +8533,9 @@ translate schinese Lothar_First_Ending_9c2edee2:
     # o "What's going on, [e]?"
     o ""
 
-translate schinese Lothar_First_Ending_bc5b496e:
+translate schinese Lothar_First_Ending_d2bcc849:
 
-    # l "Nothing... I was talking to him about the training I promised you."
+    # l "Nothing, I was talking to him about the training I promised you."
     l ""
 
 translate schinese Lothar_First_Ending_4605285b:
@@ -8588,9 +8588,9 @@ translate schinese Lothar_First_Ending_75273d36:
     # "The wolf clears his throat, obviously bothered by the presence of Ole. He unnaturally places his arms apart, scratching his head for a few times before stretching."
     ""
 
-translate schinese Lothar_First_Ending_2124361c:
+translate schinese Lothar_First_Ending_720fec84:
 
-    # l "So... See you then... [e]."
+    # l "So, See you then... [e]."
     l ""
 
 translate schinese Lothar_First_Ending_9c9b3c64:
@@ -8633,9 +8633,9 @@ translate schinese Lothar_Dialogue_9a6e141d:
     # l "Nothing happened, and we will not talk about it."
     l ""
 
-translate schinese Lothar_Dialogue_ce3aa529:
+translate schinese Lothar_Dialogue_577e4bd1:
 
-    # e "...okay."
+    # e "Okay."
     e ""
 
 translate schinese Lothar_Dialogue_d49d0510:
@@ -8723,9 +8723,9 @@ translate schinese Lothar_Dialogue_568bb928:
     # l "Hey, [e]. I heard you're serving people naked. When are you serving me this way?"
     l ""
 
-translate schinese Lothar_Dialogue_0940b6fa:
+translate schinese Lothar_Dialogue_02671382:
 
-    # e "Uhhhmmm? Lothar...?"
+    # e "Uhhhmmm? Lothar?"
     e ""
 
 translate schinese Lothar_Dialogue_4ed20f6b:
@@ -8733,14 +8733,14 @@ translate schinese Lothar_Dialogue_4ed20f6b:
     # l "You know, being a hero is really tiring, I might need a personal server."
     l ""
 
-translate schinese Lothar_Dialogue_7ef1f606:
+translate schinese Lothar_Dialogue_b82f8229:
 
-    # e "O-oh... If you would like?"
+    # e "O-oh, If you would like?"
     e ""
 
-translate schinese Lothar_Dialogue_c8e3571c:
+translate schinese Lothar_Dialogue_826837de:
 
-    # l "Ha- just kidding. I still have standards."
+    # l "Ha- just kidding. I have standards."
     l ""
 
 translate schinese Lothar_Dialogue_bd9e9f2e:
@@ -8748,9 +8748,9 @@ translate schinese Lothar_Dialogue_bd9e9f2e:
     # e "Ok, Lothar."
     e ""
 
-translate schinese Lothar_Dialogue_ea411d87:
+translate schinese Lothar_Dialogue_e158ab8e:
 
-    # l "Hmmph... [e]. Why are you naked..."
+    # l "Hmmph, [e]. Why are you naked..."
     l ""
 
 translate schinese Lothar_Dialogue_8ab05b3d:
@@ -8763,9 +8763,9 @@ translate schinese Lothar_Dialogue_53288926:
     # l "Whatever."
     l ""
 
-translate schinese Lothar_Dialogue_d9a0eafb:
+translate schinese Lothar_Dialogue_a8917b76:
 
-    # l "A-ahhhh.... [e]. Rarely do I see you in the tavern."
+    # l "A-ahhhh, [e]. Rarely do I see you in the tavern."
     l ""
 
 translate schinese Lothar_Dialogue_ea033421:
@@ -10663,14 +10663,14 @@ translate schinese Lothar_After_Sparring_30adbb8d:
     # msg "You received 600 EXP and 2 level points!"
     msg ""
 
-translate schinese Lothar_After_Sparring_d7de9d48:
+translate schinese Lothar_After_Sparring_88e635a5:
 
-    # l "You won...Feeling good about yourself...?"
+    # l "You won. Feeling good about yourself?"
     l ""
 
-translate schinese Lothar_After_Sparring_a556bc53:
+translate schinese Lothar_After_Sparring_6ae1fa6a:
 
-    # e "Look, Lothar... I was just asking..."
+    # e "Look, Lothar, I was just asking-"
     e ""
 
 translate schinese Lothar_After_Sparring_2042281e:
@@ -10678,9 +10678,9 @@ translate schinese Lothar_After_Sparring_2042281e:
     # l "Whatever... I promised you a bet."
     l ""
 
-translate schinese Lothar_After_Sparring_726e8532:
+translate schinese Lothar_After_Sparring_716880dd:
 
-    # l "But don't you ever tell this to any other people... I'm serious."
+    # l "But don't you ever tell this to any other people. I'm serious."
     l ""
 
 translate schinese Lothar_After_Sparring_11dbdc0a:
@@ -10688,9 +10688,9 @@ translate schinese Lothar_After_Sparring_11dbdc0a:
     # l "That's gonna damage my reputation if I ever lost... to a disciple."
     l ""
 
-translate schinese Lothar_After_Sparring_735dc08d:
+translate schinese Lothar_After_Sparring_a48dcbf3:
 
-    # e "Ok... ok..."
+    # e "Ok, ok..."
     e ""
 
 translate schinese Lothar_After_Sparring_f8302dd4:
@@ -10698,9 +10698,9 @@ translate schinese Lothar_After_Sparring_f8302dd4:
     # l "Here's your 500 gold."
     l ""
 
-translate schinese Lothar_After_Sparring_de7bbc4f:
+translate schinese Lothar_After_Sparring_66c263ea:
 
-    # l "Happy...?"
+    # l "Happy?"
     l ""
 
 translate schinese Lothar_After_Sparring_cc90223d:
@@ -10713,14 +10713,14 @@ translate schinese Lothar_After_Sparring_606671cc:
     # l "Luckily I've got these suckers Amble and Jog to get me some free cash..."
     l ""
 
-translate schinese Lothar_After_Sparring_07261c8a:
+translate schinese Lothar_After_Sparring_53cef9a8:
 
-    # e "Thanks... Lothar."
+    # e "Thanks, Lothar."
     e ""
 
-translate schinese Lothar_After_Sparring_3d363e94:
+translate schinese Lothar_After_Sparring_d6c09f5c:
 
-    # l "Yeah... come to see us at night more, maybe I can get you to toss me back those golds."
+    # l "Yeah come to see us at night more, maybe I can get you to toss me back those golds."
     l ""
 
 translate schinese Lothar_After_Sparring_faa7d97b:
@@ -10728,9 +10728,9 @@ translate schinese Lothar_After_Sparring_faa7d97b:
     # e "Hmm..."
     e ""
 
-translate schinese Lothar_After_Sparring_64b8747e:
+translate schinese Lothar_After_Sparring_ae43cad7:
 
-    # l "Well, that's it... champ. Now get the fuck off."
+    # l "Well, that's it, champ. Now get the fuck off."
     l ""
 
 translate schinese Lothar_After_Sparring_3d7f7d49:
@@ -10748,9 +10748,9 @@ translate schinese Lothar_After_Sparring_7f19814d:
     # l "You've got what you wanted... I guess."
     l ""
 
-translate schinese Lothar_After_Sparring_5d31fd41:
+translate schinese Lothar_After_Sparring_6dd4c9e9:
 
-    # l "W-what... are you that excited to kick me in the nuts...?"
+    # l "W-what, are you that excited to kick me in the nuts?"
     l ""
 
 translate schinese Lothar_After_Sparring_dd3a2d65:
@@ -10768,14 +10768,14 @@ translate schinese Lothar_After_Sparring_50612559:
     # l "Let's get this over with..."
     l ""
 
-translate schinese Lothar_After_Sparring_bd4b7782:
+translate schinese Lothar_After_Sparring_389a7f63:
 
-    # e "A-alright... hmmm..."
+    # e "A-alright- hmmm."
     e ""
 
-translate schinese Lothar_After_Sparring_13dac4b4:
+translate schinese Lothar_After_Sparring_7a5e231a:
 
-    # l "Stop giving me your impression of a shit-eating grin... Fuck..."
+    # l "Stop giving me your impression of a shit-eating grin, Fucking shit."
     l ""
 
 translate schinese Lothar_After_Sparring_7aa1d4b6:
@@ -10783,9 +10783,9 @@ translate schinese Lothar_After_Sparring_7aa1d4b6:
     # e "I'm ready now..."
     e ""
 
-translate schinese Lothar_After_Sparring_da5e8bdb:
+translate schinese Lothar_After_Sparring_14de55d4:
 
-    # l "I've trained my balls... So give me all you've got..."
+    # l "I've trained my balls, So give me all you've got..."
     l ""
 
 translate schinese Lothar_After_Sparring_f9274dfa:
@@ -10793,9 +10793,9 @@ translate schinese Lothar_After_Sparring_f9274dfa:
     # "You kick into Lothar as hard as you can, apparently he didn't scream or yelp, just swallowed all of his pain..."
     ""
 
-translate schinese Lothar_After_Sparring_ffcd69f4:
+translate schinese Lothar_After_Sparring_380dcf6d:
 
-    # "However, you've felt something hard around his crotch..."
+    # "However, you've felt something hard around his crotch, which is probably not his cock."
     ""
 
 translate schinese Lothar_After_Sparring_8078d893:
@@ -10803,14 +10803,14 @@ translate schinese Lothar_After_Sparring_8078d893:
     # l "F-fuck..."
     l ""
 
-translate schinese Lothar_After_Sparring_166bcab7:
+translate schinese Lothar_After_Sparring_677bebdd:
 
-    # e "Lot...?"
+    # e "Lot?"
     e ""
 
-translate schinese Lothar_After_Sparring_abd2516e:
+translate schinese Lothar_After_Sparring_8fd36fcc:
 
-    # e "Did you... have something inside...?"
+    # e "Did you, have something inside...?"
     e ""
 
 translate schinese Lothar_After_Sparring_7af40e9f:
@@ -10818,14 +10818,14 @@ translate schinese Lothar_After_Sparring_7af40e9f:
     # l "W-what?"
     l ""
 
-translate schinese Lothar_After_Sparring_eca20e2c:
+translate schinese Lothar_After_Sparring_5aacd04a:
 
-    # e "Why did I feel something hard inside... of your crotch... Is it a protection?"
+    # e "Why did I feel something hard right there. Is it a protection?"
     e ""
 
-translate schinese Lothar_After_Sparring_b22ac3e5:
+translate schinese Lothar_After_Sparring_f7ef7fca:
 
-    # l "No... It's done. There's nothing..."
+    # l "No, It's done. There's nothing..."
     l ""
 
 translate schinese Lothar_After_Sparring_aa863268:
@@ -10863,9 +10863,9 @@ translate schinese Lothar_After_Sparring_32f6128c:
     # l "Fuck!"
     l ""
 
-translate schinese Lothar_After_Sparring_cdc562e3:
+translate schinese Lothar_After_Sparring_5107fdea:
 
-    # e "...Al-right..."
+    # e "Al-right..."
     e ""
 
 translate schinese Lothar_After_Sparring_c262973d:
@@ -10943,24 +10943,24 @@ translate schinese Lothar_Report_Dummy_0eb13776:
     # e "Lotharrrrrrr..."
     e ""
 
-translate schinese Lothar_Report_Dummy_fa8dbcbe:
+translate schinese Lothar_Report_Dummy_a72b1fea:
 
-    # l "Huh...? Disciple...?"
+    # l "Huh? Disciple...?"
     l ""
 
-translate schinese Lothar_Report_Dummy_20ef04f4:
+translate schinese Lothar_Report_Dummy_f57f31e4:
 
-    # e "I... I did it..."
+    # e "I- I did it..."
     e ""
 
-translate schinese Lothar_Report_Dummy_7cfd58c7:
+translate schinese Lothar_Report_Dummy_62e4ad02:
 
-    # e "I defeated the dummy..."
+    # e "I took down the dummy."
     e ""
 
-translate schinese Lothar_Report_Dummy_bcf0ca46:
+translate schinese Lothar_Report_Dummy_a140b037:
 
-    # l "Oh... the dummy I told you to defeat...?"
+    # l "Oh, the dummy I told you to defeat...?"
     l ""
 
 translate schinese Lothar_Report_Dummy_96b6e3e8:
@@ -10968,10 +10968,15 @@ translate schinese Lothar_Report_Dummy_96b6e3e8:
     # l "You sure have proven yourself, disciple."
     l ""
 
-translate schinese Lothar_Report_Dummy_8101a1ae:
+translate schinese Lothar_Report_Dummy_dff895f0:
 
-    # e "All he did was just punching me..."
+    # e "All he did was just punching me."
     e ""
+
+translate schinese Lothar_Report_Dummy_657bbab3:
+
+    # "Lothar gives you a satisfied grin."
+    ""
 
 translate schinese Lothar_Report_Dummy_77899306:
 
@@ -11008,19 +11013,39 @@ translate schinese Lothar_Report_Dummy_733931f2:
     # l "Hey, Amb, where's Jog."
     l ""
 
-translate schinese Lothar_Report_Dummy_6fb381f8:
+translate schinese Lothar_Report_Dummy_a3fbfc05:
 
-    # a "Out scouting... What's your puny friend doing here?"
+    # a "Out scouting."
     a ""
 
-translate schinese Lothar_Report_Dummy_dc91fbf8:
+translate schinese Lothar_Report_Dummy_fc82aaf1:
 
-    # e "Well... I live in this place."
+    # "Amble says as he notices you."
+    ""
+
+translate schinese Lothar_Report_Dummy_2f6bdb39:
+
+    # a "Oh, puny friend. What are you doing here?"
+    a ""
+
+translate schinese Lothar_Report_Dummy_65dec1d2:
+
+    # e "Well, I live in this place."
     e ""
 
-translate schinese Lothar_Report_Dummy_e853a6a7:
+translate schinese Lothar_Report_Dummy_1b2e908c:
 
-    # l "I'd tell you but you won't believe stuff like this..."
+    # e "And I'm practising with Lothar."
+    e ""
+
+translate schinese Lothar_Report_Dummy_0b74671d:
+
+    # "Amble nods with a sluggish smile."
+    ""
+
+translate schinese Lothar_Report_Dummy_54e05d5f:
+
+    # l "I'd tell you but you won't believe stuff like this."
     l ""
 
 translate schinese Lothar_Report_Dummy_cb6d7537:
@@ -11028,24 +11053,24 @@ translate schinese Lothar_Report_Dummy_cb6d7537:
     # l "My disciple... he beat my advanced dummy."
     l ""
 
-translate schinese Lothar_Report_Dummy_1d373fde:
+translate schinese Lothar_Report_Dummy_7a5bec27:
 
-    # a "Eh...? That's impossible."
+    # a "Eh...? That's impossible! It was ridiculously strong."
     a ""
 
-translate schinese Lothar_Report_Dummy_e1b2635c:
+translate schinese Lothar_Report_Dummy_1a1a3255:
 
-    # l "Amb, it's time."
-    l ""
+    # a "Like the tailor doesn't even know how to adjust their proper strength."
+    a ""
 
-translate schinese Lothar_Report_Dummy_11ed37f0:
+translate schinese Lothar_Report_Dummy_c86437e2:
 
-    # "You three walks towards the alleyway while the dummy stands there."
+    # "Amble scratches his head with frustration."
     ""
 
-translate schinese Lothar_Report_Dummy_780872d3:
+translate schinese Lothar_Report_Dummy_1ce663f5:
 
-    # "Amble walks towards the dummy and returns in defeat, it's apparent that you won against the dummy."
+    # "Amble walks towards the dummy and he soon returns in defeat, it's apparent to him that you won against the dummy."
     ""
 
 translate schinese Lothar_Report_Dummy_6d1cf8da:
@@ -11053,9 +11078,9 @@ translate schinese Lothar_Report_Dummy_6d1cf8da:
     # l "How does it go...?"
     l ""
 
-translate schinese Lothar_Report_Dummy_b732ec66:
+translate schinese Lothar_Report_Dummy_427643a5:
 
-    # a "...Well I didn't know this puny pal here has got some strength in it."
+    # a "I didn't even know you can possibly do it. Even Lot can't beat it every time."
     a ""
 
 translate schinese Lothar_Report_Dummy_fde72e4c:
@@ -11063,24 +11088,29 @@ translate schinese Lothar_Report_Dummy_fde72e4c:
     # l "Now hand me those 200 gold, Ambie."
     l ""
 
-translate schinese Lothar_Report_Dummy_3a4b8a9d:
+translate schinese Lothar_Report_Dummy_7ffeaa59:
 
-    # a "Hmmmmmm...."
-    a ""
-
-translate schinese Lothar_Report_Dummy_340d7ff0:
-
-    # l "You gotta love seeing couriers get their ass trained by the best."
-    l ""
-
-translate schinese Lothar_Report_Dummy_99937969:
-
-    # "You see Lothar smuggishly takes the gold from Amble."
+    # "Lothar exclaims, he seems to be getting more impatient with Amble."
     ""
 
-translate schinese Lothar_Report_Dummy_21b79367:
+translate schinese Lothar_Report_Dummy_47897b65:
 
-    # e "H-hey... you guys were betting... if I will win?"
+    # a "Hmmmmmm..."
+    a ""
+
+translate schinese Lothar_Report_Dummy_fabfc4a9:
+
+    # l "See? [e], great job at shutting up doubters, and earning me some gold."
+    l ""
+
+translate schinese Lothar_Report_Dummy_b660fe4e:
+
+    # "Lothar says, as he smuggishly takes the gold from Amble."
+    ""
+
+translate schinese Lothar_Report_Dummy_b8809f23:
+
+    # e "Were you guys betting if I will win?"
     e ""
 
 translate schinese Lothar_Report_Dummy_a20faaac:
@@ -11093,34 +11123,39 @@ translate schinese Lothar_Report_Dummy_1f7d4b21:
     # e "And Lothar was betting for me?"
     e ""
 
-translate schinese Lothar_Report_Dummy_2ec093d8:
+translate schinese Lothar_Report_Dummy_096e947f:
 
-    # l "Don't get ahead of yourself, disciple. He was the one betting."
+    # l "Don't get ahead of yourself, disciple. He was the one betting, I was the house."
     l ""
 
-translate schinese Lothar_Report_Dummy_c380252c:
+translate schinese Lothar_Report_Dummy_edeafc5c:
 
-    # a "For sure I'd know your disciple could throw a few punch."
+    # a "Fair is fair, our puny friend here can definitely throw a few punches."
     a ""
 
-translate schinese Lothar_Report_Dummy_54e86bd9:
+translate schinese Lothar_Report_Dummy_ae9845b6:
 
-    # l "Heh..."
+    # "Amble's strong body towers over you as he stares at you physiques, perhaps trying to make sense of your victory."
+    ""
+
+translate schinese Lothar_Report_Dummy_e105218d:
+
+    # l "Heh."
     l ""
 
-translate schinese Lothar_Report_Dummy_084dd8b2:
+translate schinese Lothar_Report_Dummy_6bf55165:
 
-    # l "Amble here is angry that he lost his precious little beer money."
+    # l "."
     l ""
 
-translate schinese Lothar_Report_Dummy_65ee5852:
+translate schinese Lothar_Report_Dummy_000f898b:
 
-    # e "Hmm... I see you two in the tavern every nigh-"
+    # e "I"
     e ""
 
-translate schinese Lothar_Report_Dummy_8c71b4d9:
+translate schinese Lothar_Report_Dummy_80e72df1:
 
-    # l "So... Disciple... Let's get back to the lesson."
+    # l "So, Disciple... Let's get back to the lesson."
     l ""
 
 translate schinese Lothar_Report_Dummy_27ee51a3:
@@ -11138,34 +11173,39 @@ translate schinese Lothar_Report_Dummy_7dbd15f6:
     # a "W-what?"
     a ""
 
-translate schinese Lothar_Report_Dummy_99d32bcf:
+translate schinese Lothar_Report_Dummy_d088f91b:
 
-    # l "We had a deal..."
+    # l "We had a deal."
     l ""
 
-translate schinese Lothar_Report_Dummy_b27647b5:
+translate schinese Lothar_Report_Dummy_0c8b9640:
 
-    # "Amble let out a long sigh, before he turns to face Lothar."
+    # "Amble pauses, he lets out a long sigh, before he turns to face Lothar."
     ""
 
-translate schinese Lothar_Report_Dummy_664ccb66:
+translate schinese Lothar_Report_Dummy_7b18fe1e:
 
-    # a "I should ask Jog to deal with this instead..."
+    # a "Deals' are deals. But make it quick."
     a ""
 
-translate schinese Lothar_Report_Dummy_82822a0c:
+translate schinese Lothar_Report_Dummy_41fdb2d1:
 
-    # l "..."
+    # l "Don't you worry, lil Ambie, I will make your bet worthwhile."
     l ""
+
+translate schinese Lothar_Report_Dummy_73d4cb3e:
+
+    # "Lothar turns towards you, and he begins to explain."
+    ""
 
 translate schinese Lothar_Report_Dummy_38f61fad:
 
     # l "So, disciple. You see, I am the hero, and Amble is the monster in the scary forest."
     l ""
 
-translate schinese Lothar_Report_Dummy_9a3a06ab:
+translate schinese Lothar_Report_Dummy_d032b135:
 
-    # e "Lothar, I know this... already... I've been outsi-"
+    # e "Lothar, I know this- already... I've been outsi-"
     e ""
 
 translate schinese Lothar_Report_Dummy_8a378cfc:
@@ -11173,19 +11213,14 @@ translate schinese Lothar_Report_Dummy_8a378cfc:
     # l "Well there's different actions you can do, against the monster."
     l ""
 
-translate schinese Lothar_Report_Dummy_0b1fb620:
+translate schinese Lothar_Report_Dummy_7236ee85:
 
-    # l "...Amble?"
+    # l "Amble?"
     l ""
 
-translate schinese Lothar_Report_Dummy_bb8e4b4e:
+translate schinese Lothar_Report_Dummy_c617e5a3:
 
-    # a "..."
-    a ""
-
-translate schinese Lothar_Report_Dummy_40307be8:
-
-    # "You can see Amble exhaling heavily... while Lothar is thoroughly enjoying the scene."
+    # "You can see Amble exhaling heavily, while Lothar is thoroughly enjoying the scene."
     ""
 
 translate schinese Lothar_Report_Dummy_2199d2e0:
@@ -11203,30 +11238,25 @@ translate schinese Lothar_Report_Dummy_18086866:
     # l "I'd have to beat him up to win this fight, figuratively."
     l ""
 
-translate schinese Lothar_Report_Dummy_d3ad978e:
+translate schinese Lothar_Report_Dummy_251bb90a:
 
-    # l "There are two ways actually, you can beat him up... or beat him off..."
+    # l "There are two ways actually, you can beat him up, or beat him off."
     l ""
 
-translate schinese Lothar_Report_Dummy_44084635:
+translate schinese Lothar_Report_Dummy_09db9eaf:
 
-    # a "Huh...?"
+    # a "Huh?"
     a ""
 
-translate schinese Lothar_Report_Dummy_ebd21429:
+translate schinese Lothar_Report_Dummy_b77991e1:
 
-    # l "Come on... Amble."
+    # l "Come on, Amble."
     l ""
 
 translate schinese Lothar_Report_Dummy_56aee83b:
 
     # l "Just a little touch, won't hurt."
     l ""
-
-translate schinese Lothar_Report_Dummy_dc95485b:
-
-    # a "Fuck you and your bet, Lot..."
-    a ""
 
 translate schinese Lothar_Report_Dummy_b3a79b5a:
 
@@ -11238,14 +11268,14 @@ translate schinese Lothar_Report_Dummy_6798bf7b:
     # "Lothar approaches Amble, who is standing there, reluctantly lettiing Lothar touch him on the chest."
     ""
 
-translate schinese Lothar_Report_Dummy_9c3e9e66:
+translate schinese Lothar_Report_Dummy_264173b0:
 
-    # l "Well, long time no see, buddy... you got a little... beefier... your chest... are you happy to see me?"
+    # l "Well, long time no see, buddy you got a little... beefier... your chest... are you happy to see me?"
     l ""
 
-translate schinese Lothar_Report_Dummy_76acbd9c:
+translate schinese Lothar_Report_Dummy_d0ebbd21:
 
-    # a "St-top this nonsense or get it over with, quickly..."
+    # a "I... uh-m. RAWWWWR-R!"
     a ""
 
 translate schinese Lothar_Report_Dummy_061d0519:
@@ -11308,9 +11338,9 @@ translate schinese Lothar_Report_Dummy_4263f24c:
     # "Lothar wants to advance on groping at Amble's crotch, but Amble holds on to his arm tightly."
     ""
 
-translate schinese Lothar_Report_Dummy_da1f6de0:
+translate schinese Lothar_Report_Dummy_4f107a90:
 
-    # "The act suddenly reminds them of your presence... watching both of them kissing..."
+    # "The act suddenly reminds them of your presence... watching both of them kissing."
     ""
 
 translate schinese Lothar_Report_Dummy_adb8e931:
@@ -11318,9 +11348,9 @@ translate schinese Lothar_Report_Dummy_adb8e931:
     # "Admittedly you've grown a huge boner down there, you try to hide it but the two companions has already noticed it."
     ""
 
-translate schinese Lothar_Report_Dummy_548c6672:
+translate schinese Lothar_Report_Dummy_aff8bdee:
 
-    # l "So... that's how you defeat a monster."
+    # l "So- that's how you defeat a monster."
     l ""
 
 translate schinese Lothar_Report_Dummy_39eb1ea6:
@@ -11343,24 +11373,29 @@ translate schinese Lothar_Report_Dummy_72a33094:
     # e "..."
     e ""
 
-translate schinese Lothar_Report_Dummy_bb8e4b4e_1:
+translate schinese Lothar_Report_Dummy_bb8e4b4e:
 
     # a "..."
     a ""
 
-translate schinese Lothar_Report_Dummy_e4737ffb:
+translate schinese Lothar_Report_Dummy_70f71e82:
 
-    # a "This is just a demonstration... [e]. I'm not actually..."
+    # "Your glance and Amble's meet at the worst time possible."
+    ""
+
+translate schinese Lothar_Report_Dummy_5a108a0a:
+
+    # a "This is just a demonstration, [e]. I'm not actually-"
     a ""
 
-translate schinese Lothar_Report_Dummy_75db9137:
+translate schinese Lothar_Report_Dummy_722d7c89:
 
-    # l "Alright Amb... then that's it..."
+    # l "Alright Amb- then that's it."
     l ""
 
-translate schinese Lothar_Report_Dummy_bfcb2f5f:
+translate schinese Lothar_Report_Dummy_dd04f79f:
 
-    # a "...Well, I'll get back to work. Good luck with your disciple."
+    # a "Well, I'll get back to work. Good luck with your disciple."
     a ""
 
 translate schinese Lothar_Report_Dummy_7e2f42e4:
@@ -11378,9 +11413,9 @@ translate schinese Lothar_Report_Dummy_72a33094_1:
     # e "..."
     e ""
 
-translate schinese Lothar_Report_Dummy_b32ac1e5:
+translate schinese Lothar_Report_Dummy_6b342fbf:
 
-    # l "...What?"
+    # l "What?"
     l ""
 
 translate schinese Lothar_Report_Dummy_25d99305:
@@ -11388,24 +11423,24 @@ translate schinese Lothar_Report_Dummy_25d99305:
     # "You can see Lothar snickers while licking his lips."
     ""
 
-translate schinese Lothar_Report_Dummy_b61fa4e4:
+translate schinese Lothar_Report_Dummy_4adc2b35:
 
-    # e "Are you two... in love?"
+    # e "Are you two, in love?"
     e ""
 
-translate schinese Lothar_Report_Dummy_f29dbd15:
+translate schinese Lothar_Report_Dummy_a2efc119:
 
-    # l "What? this is just brothers being brothers. We practised kissing like all the time."
+    # l "What? this is just brothers being brothers. We practised kissing like that all the time."
     l ""
 
-translate schinese Lothar_Report_Dummy_80463d20:
+translate schinese Lothar_Report_Dummy_6336353a:
 
-    # e "Practised... Kissing?"
+    # e "Practised- Kissing?"
     e ""
 
-translate schinese Lothar_Report_Dummy_0d4a452f:
+translate schinese Lothar_Report_Dummy_d98a05fc:
 
-    # l "Well, for an all-rounded fighter like me... you do need some specialised battle training."
+    # l "Well, for an all-rounded fighter like me... it's no secret you need some specialised battle training."
     l ""
 
 translate schinese Lothar_Report_Dummy_50afd1d4:
@@ -11418,39 +11453,64 @@ translate schinese Lothar_Report_Dummy_70ba85f3:
     # l "So, this is how flirting works, if you're inclined to flirt with a monster, or enemy in general."
     l ""
 
-translate schinese Lothar_Report_Dummy_67702ae0:
+translate schinese Lothar_Report_Dummy_2411986e:
 
-    # e "I still can't believe you would flirt... like this."
+    # e "I still can't believe you would flirt like this."
     e ""
 
-translate schinese Lothar_Report_Dummy_7fe2fcf1:
+translate schinese Lothar_Report_Dummy_338ad25b:
 
-    # l "To become a heroic hero like me, you need to sacrifice... well... being too protected."
+    # l "Do I look like I'd flirt with actual kissing?"
     l ""
 
-translate schinese Lothar_Report_Dummy_4fee36cd:
+translate schinese Lothar_Report_Dummy_d4450c55:
 
-    # e "Alright... I guess. What are you planning now?"
+    # e "W-wait, you just said you practised flirting all the time."
     e ""
 
-translate schinese Lothar_Report_Dummy_586a6c9a:
+translate schinese Lothar_Report_Dummy_020ce612:
 
-    # l "Sparring... you and me..."
+    # l "Practices are not real battles! You need to get your facts straight, disciple."
     l ""
 
-translate schinese Lothar_Report_Dummy_06f69fc2:
+translate schinese Lothar_Report_Dummy_19e2c578:
 
-    # l "I have to see how you actually fight, one way or another, no question..."
-    l ""
+    # "Lothar shouts, his face is getting red as he quickly explains himself."
+    ""
 
-translate schinese Lothar_Report_Dummy_d231db56:
+translate schinese Lothar_Report_Dummy_f2d713a9:
 
-    # e "Sure... I guess I should learn more from you if I can see how you fight..."
+    # e "So, your pratices aren't for real battles?"
     e ""
 
-translate schinese Lothar_Report_Dummy_bddb2bd6:
+translate schinese Lothar_Report_Dummy_a939b20d:
 
-    # l "Look, treat it like a bet, with huge stakes. If you lose to me... you'd have to pay me 500 gold."
+    # l "NO! Stop this nonsense or I'll be the one teaching you a lesson."
+    l ""
+
+translate schinese Lothar_Report_Dummy_78a9edcb:
+
+    # e "Alright I guess. What are you planning now?"
+    e ""
+
+translate schinese Lothar_Report_Dummy_b994df3c:
+
+    # l "Sparring, you and me."
+    l ""
+
+translate schinese Lothar_Report_Dummy_2075810f:
+
+    # l "I have to see how you actually fight, one way or another, no question asked."
+    l ""
+
+translate schinese Lothar_Report_Dummy_1bf4323f:
+
+    # e "Sure, I can learn more from you if I can see how you actually fight."
+    e ""
+
+translate schinese Lothar_Report_Dummy_83ac54ef:
+
+    # l "Look, treat it like a bet, with huge stakes. If you lose to me, you'd have to pay me 500 gold."
     l ""
 
 translate schinese Lothar_Report_Dummy_c85d8184:
@@ -11458,14 +11518,19 @@ translate schinese Lothar_Report_Dummy_c85d8184:
     # e "What happens if you lose to me then?"
     e ""
 
-translate schinese Lothar_Report_Dummy_7b37fac0:
+translate schinese Lothar_Report_Dummy_90ebddd7:
 
-    # l "Ah...I'll let you... think... disciple."
+    # "Lothar chuckles, he doesn't seem to have faith in you winning."
+    ""
+
+translate schinese Lothar_Report_Dummy_1b515a51:
+
+    # l "Well, you should be the one who decide, disciple."
     l ""
 
-translate schinese Lothar_Report_Dummy_a7f2f44e:
+translate schinese Lothar_Report_Dummy_c09f3b53:
 
-    # l "That would be a big 'if'... that I would happen to lose to my disciple. But I'll let you dream on... Heh..." nointeract
+    # l "That would be a big 'if', that I would happen to lose to my disciple. But I'll let you dream on, Heh..." nointeract
     l "" nointeract
 
 translate schinese Lothar_Report_Dummy_098611b1:
@@ -11473,14 +11538,14 @@ translate schinese Lothar_Report_Dummy_098611b1:
     # e "Same thing. 500 Gold."
     e ""
 
-translate schinese Lothar_Report_Dummy_0f072fe9:
+translate schinese Lothar_Report_Dummy_34872447:
 
-    # l "Uhm... Are you underestimating me?"
+    # l "Uhm... Are you underestimating my power?"
     l ""
 
-translate schinese Lothar_Report_Dummy_df901644:
+translate schinese Lothar_Report_Dummy_e6c0c700:
 
-    # e "W-what? isn't this how bet works, we bet with the same money...?"
+    # e "W-what? isn't this how bet works, we bet with the same money?"
     e ""
 
 translate schinese Lothar_Report_Dummy_4d87ea38:
@@ -11503,39 +11568,19 @@ translate schinese Lothar_Report_Dummy_a6865b28:
     # l "Fighting you... well- this was just a demonstration sparring, to show you how strong I am."
     l ""
 
-translate schinese Lothar_Report_Dummy_bf6f0d3d:
+translate schinese Lothar_Report_Dummy_7115ea73:
 
-    # e "A-alright..."
+    # e "A-alright."
     e ""
 
-translate schinese Lothar_Report_Dummy_58e762cd:
+translate schinese Lothar_Report_Dummy_dde0a491:
 
-    # e "C-can... I do the same thing... you did to Amble?"
+    # e "C-can, I do the same thing you did to Amble?"
     e ""
 
-translate schinese Lothar_Report_Dummy_203ed93a:
+translate schinese Lothar_Report_Dummy_f7345534:
 
-    # l "What... you want me to handle your chest?"
-    l ""
-
-translate schinese Lothar_Report_Dummy_107914f4:
-
-    # e "...Uhm..."
-    e ""
-
-translate schinese Lothar_Report_Dummy_b32ac1e5_1:
-
-    # l "...What?"
-    l ""
-
-translate schinese Lothar_Report_Dummy_10ec0228:
-
-    # e "T-the opposite..."
-    e ""
-
-translate schinese Lothar_Report_Dummy_b654cdbf:
-
-    # l "Why... should I let you... touch me..."
+    # l "What, you want me to handle your chest?"
     l ""
 
 translate schinese Lothar_Report_Dummy_50afd1d4_1:
@@ -11543,14 +11588,34 @@ translate schinese Lothar_Report_Dummy_50afd1d4_1:
     # e "Uhm..."
     e ""
 
-translate schinese Lothar_Report_Dummy_8924e8d0:
+translate schinese Lothar_Report_Dummy_6b342fbf_1:
 
-    # e "Maybe... to learn from your physique?"
+    # l "What?"
+    l ""
+
+translate schinese Lothar_Report_Dummy_d9f378d4:
+
+    # e "T-the opposite?"
     e ""
 
-translate schinese Lothar_Report_Dummy_44287097:
+translate schinese Lothar_Report_Dummy_9c6788f3:
 
-    # l "Ugh... Alright..."
+    # "Lothar pauses, until he actually realises what's happening."
+    ""
+
+translate schinese Lothar_Report_Dummy_32c73e95:
+
+    # l "Why should I let you touch me."
+    l ""
+
+translate schinese Lothar_Report_Dummy_11363458:
+
+    # e "Maybe to learn from your physique?"
+    e ""
+
+translate schinese Lothar_Report_Dummy_faec1086:
+
+    # l "Ugh, Alright."
     l ""
 
 translate schinese Lothar_Report_Dummy_352b0bd2:
@@ -11563,24 +11628,19 @@ translate schinese Lothar_Report_Dummy_e7b281a4:
     # e "I'll try my best."
     e ""
 
-translate schinese Lothar_Report_Dummy_99059bfa:
+translate schinese Lothar_Report_Dummy_6a14a25f:
 
-    # l "Yeah, try... try your breast instead... Heh..."
+    # l "Yeah, well try- try your breast instead, Heh..."
     l ""
-
-translate schinese Lothar_Report_Dummy_faa7d97b:
-
-    # e "Hmm..."
-    e ""
 
 translate schinese Lothar_Report_Dummy_5bbe5355:
 
     # e "I think I should kick you... in the nuts."
     e ""
 
-translate schinese Lothar_Report_Dummy_81b543c0:
+translate schinese Lothar_Report_Dummy_ddf6c0b4:
 
-    # l "...No...What's wrong with you, and your fascination of my nuts..."
+    # l "No...What's wrong with you, and your fascination with my nuts..."
     l ""
 
 translate schinese Lothar_Report_Dummy_f4bd52f4:
@@ -11588,29 +11648,29 @@ translate schinese Lothar_Report_Dummy_f4bd52f4:
     # e "I just thought Sebas did it too..."
     e ""
 
-translate schinese Lothar_Report_Dummy_61181a5d:
+translate schinese Lothar_Report_Dummy_3f28aa44:
 
-    # l "That's not my point! Why would I let you kick me in the balls..."
+    # l "That's not my point! Why would I let you kick me in the balls."
     l ""
 
-translate schinese Lothar_Report_Dummy_5002f649:
+translate schinese Lothar_Report_Dummy_1ae28f62:
 
-    # l "Especially after that fucker of a lion fucked up my meat..."
+    # l "Especially after that fucker of a lion fucked up my meat."
     l ""
 
-translate schinese Lothar_Report_Dummy_cda16daa:
+translate schinese Lothar_Report_Dummy_ca5014c5:
 
-    # e "Can I sooth it...?"
+    # e "Can I soothe it...?"
     e ""
 
-translate schinese Lothar_Report_Dummy_a49632d4:
+translate schinese Lothar_Report_Dummy_1849f6d2:
 
-    # l "No..."
+    # l "No."
     l ""
 
-translate schinese Lothar_Report_Dummy_67c3a57f:
+translate schinese Lothar_Report_Dummy_aee2cbe6:
 
-    # l "Disciple, you just reminded me that you sided with the lion..."
+    # l "Disciple, you just reminded me that you sided with the lion."
     l ""
 
 translate schinese Lothar_Report_Dummy_4e753257:
@@ -11618,9 +11678,9 @@ translate schinese Lothar_Report_Dummy_4e753257:
     # l "For that, I'll beat you so hard, you shall give me 1000 gold instead."
     l ""
 
-translate schinese Lothar_Report_Dummy_d0b8d3fa:
+translate schinese Lothar_Report_Dummy_0776e1a4:
 
-    # l "Huh...are you trying to avenge your little lion...?"
+    # l "Huh, are you trying to avenge your little lion?"
     l ""
 
 translate schinese Lothar_Report_Dummy_ad87b694:
@@ -11628,9 +11688,9 @@ translate schinese Lothar_Report_Dummy_ad87b694:
     # l "And I thought you were on my side, disciple."
     l ""
 
-translate schinese Lothar_Report_Dummy_d8fdf775:
+translate schinese Lothar_Report_Dummy_4985a718:
 
-    # e "I just wanted to kick... you..."
+    # e "I just wanted to kick you..."
     e ""
 
 translate schinese Lothar_Report_Dummy_168f3dd2:
@@ -11673,14 +11733,14 @@ translate schinese Lothar_Report_Dummy_e59ae9c9:
     # l "It's totally alright for you to be just a little intimidated."
     l ""
 
-translate schinese Lothar_Report_Dummy_71009de7:
+translate schinese Lothar_Report_Dummy_4f311731:
 
-    # e "I get it..."
+    # e "I get it."
     e ""
 
-translate schinese Lothar_Report_Dummy_9d8596d6:
+translate schinese Lothar_Report_Dummy_fa0b6fe8:
 
-    # l "Anyways... are you ready?"
+    # l "Anyways, are you ready?"
     l ""
 
 translate schinese Lothar_Report_Dummy_2697bf52:
@@ -11693,14 +11753,14 @@ translate schinese Lothar_Report_Dummy_8d246e37:
     # e "Yes... I'm ready."
     e ""
 
-translate schinese Lothar_Report_Dummy_27301543:
+translate schinese Lothar_Report_Dummy_1b33efd3:
 
-    # e "No... I still have to prepare... so tired... after beating the dummy."
+    # e "No, I still have to prepare, I had already spent all my energy beating the dummy."
     e ""
 
-translate schinese Lothar_Report_Dummy_b7073b34:
+translate schinese Lothar_Report_Dummy_a8f3f1ea:
 
-    # l "Alright... alright, go ask your little lizard friend for tips or something."
+    # l "Alright, alright, go ask your little lizard friend for tips or something."
     l ""
 
 translate schinese Lothar_Report_Dummy_cb6c9e4e:
@@ -11708,9 +11768,9 @@ translate schinese Lothar_Report_Dummy_cb6c9e4e:
     # l "You can't win against me anyhow."
     l ""
 
-translate schinese Lothar_Report_Dummy_b11a39b2:
+translate schinese Lothar_Report_Dummy_9a961bd3:
 
-    # e "Uhm... we're just sparring... right?"
+    # e "Uhm, we're just sparring, right?"
     e ""
 
 translate schinese Lothar_Report_Dummy_7f8492fb:
@@ -11723,14 +11783,14 @@ translate schinese Lothar_Report_Dummy_45a1a6d2:
     # l "This hero right here aren't always here to fight with someone like you."
     l ""
 
-translate schinese Lothar_Report_Dummy_86f36eb8:
+translate schinese Lothar_Report_Dummy_385a6fc7:
 
-    # e "I... I get it. I should go now?"
+    # e "I get it. I should go now?"
     e ""
 
-translate schinese Lothar_Report_Dummy_bf8679d5:
+translate schinese Lothar_Report_Dummy_6f8b99bc:
 
-    # l "Yes, you can go now... I'll just be waiting..."
+    # l "Yes, you can go now, I'll just be waiting..."
     l ""
 
 translate schinese Lothar_Ask_Invasion_e9fc7cea:
@@ -11743,9 +11803,9 @@ translate schinese Lothar_Ask_Invasion_ec398aec:
     # l "You dare to ask me this? After you outright told Ole about our secret plan?"
     l ""
 
-translate schinese Lothar_Ask_Invasion_0aba5798:
+translate schinese Lothar_Ask_Invasion_04a9cb2b:
 
-    # l "...Are you ever on my side."
+    # l "Are you ever on my side."
     l ""
 
 translate schinese Lothar_Ask_Invasion_cff509a4:
@@ -12098,9 +12158,9 @@ translate schinese Lothar_Ask_Invasion_175e28ba:
     # l "Okay then."
     l ""
 
-translate schinese Lothar_Report_Goat_3c27e3e8:
+translate schinese Lothar_Report_Goat_f5072eae:
 
-    # e "Lothar... I'm back from the goats."
+    # e "Lothar, I'm back from the goats."
     e ""
 
 translate schinese Lothar_Report_Goat_eb6c705e:
@@ -14173,9 +14233,9 @@ translate schinese Lothar_After_River_Trip_ccd60e42:
     # l "I got some expensive ale for Amble, he loves beer too much if I have to say."
     l ""
 
-translate schinese Lothar_After_River_Trip_924f184c:
+translate schinese Lothar_After_River_Trip_43c6451e:
 
-    # e "Uhh... did you spend a lot on the beer?"
+    # e "Uhh, did you spend a lot on the beer?"
     e ""
 
 translate schinese Lothar_After_River_Trip_8db4fc7a:
@@ -14643,9 +14703,9 @@ translate schinese Lothar_Sebas_Kick_Yes_38e56c36:
     # s "You might want to prepare your balls, it's gonna hurt a lot."
     s ""
 
-translate schinese Lothar_Sebas_Kick_Yes_0080c1cf:
+translate schinese Lothar_Sebas_Kick_Yes_afe97f1e:
 
-    # l "W-what...? I... Y-You. Don't you dare..."
+    # l "W-what? I... Y-You. Don't you dare..."
     l ""
 
 translate schinese Lothar_Sebas_Kick_Yes_db982fad:
@@ -15724,6 +15784,12 @@ translate schinese strings:
     old "Take the Task"
     new ""
 
+    old "Collect 3 Barley from the Farm"
+    new ""
+
+    old "Collect 3 Rosemary from the Potion maker"
+    new ""
+
     old "Money"
     new ""
 
@@ -15763,6 +15829,9 @@ translate schinese strings:
     old "I'll think about it."
     new ""
 
+    old "Craft 2 cheap pillows"
+    new ""
+
     old "Yes{#canebet}"
     new ""
 
@@ -15785,6 +15854,9 @@ translate schinese strings:
     new ""
 
     old "No{#canebettopu}"
+    new ""
+
+    old "Ask Rahim for help"
     new ""
 
     old "Yes{#caneserverjob}"
@@ -15817,6 +15889,9 @@ translate schinese strings:
     old "Ok."
     new ""
 
+    old "Go Defeat the Flower with Lothar"
+    new ""
+
     old "I need to prepare"
     new ""
 
@@ -15830,6 +15905,9 @@ translate schinese strings:
     new ""
 
     old "Help Lothar"
+    new ""
+
+    old "Talk to Lothar after... the incident"
     new ""
 
     old "But-..."
@@ -15916,10 +15994,16 @@ translate schinese strings:
     old "Ask for a small Talk with Lothar"
     new ""
 
+    old "Visit the Goat Tribe"
+    new ""
+
     old "Yes{#lotharsparring}"
     new ""
 
     old "No{#lotharsparring}"
+    new ""
+
+    old "Defeat the dummy"
     new ""
 
     old "500 Gold"
@@ -15958,6 +16042,12 @@ translate schinese strings:
     old "Lie to Ole"
     new ""
 
+    old "Talk to Lothar"
+    new ""
+
+    old "Train with Amble and Jog"
+    new ""
+
     old "I was forced to do it"
     new ""
 
@@ -15974,6 +16064,12 @@ translate schinese strings:
     new ""
 
     old "Do not let him kick Lothar"
+    new ""
+
+    old "Report to Sebas after a day"
+    new ""
+
+    old "Lothar is taking his rest, I should report to Sebas after a day"
     new ""
 
     old "Yes{#lothardummylie}"

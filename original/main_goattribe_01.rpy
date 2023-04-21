@@ -3813,9 +3813,9 @@ translate schinese Kari_Adventure_befdd647:
     # k "I've told you already, I'm not wearing a cape."
     k ""
 
-translate schinese Kari_Adventure_d7a7cea5:
+translate schinese Kari_Adventure_3584f8d1:
 
-    # e "Alright, but you both have a skull mask, a horn. and the X-shaped strap around you..."
+    # e "Alright, but you both have antlers, a scepter. and the X-shaped strap around you..."
     e ""
 
 translate schinese Kari_Adventure_0bf8eb44:
@@ -4773,10 +4773,16 @@ translate schinese strings:
     old "Ask how he is doing"
     new ""
 
+    old "Spar with Kari's warriors"
+    new ""
+
     old "I'm ready"
     new ""
 
     old "Maybe Later"
+    new ""
+
+    old "Practise with the Goats"
     new ""
 
     old "Keep Guarding the tree"
@@ -4848,6 +4854,9 @@ translate schinese strings:
     old "Stay Silent"
     new ""
 
+    old "Visit the Damp Cave with the general"
+    new ""
+
     old "What should you ask?"
     new ""
 
@@ -4876,5 +4885,8 @@ translate schinese strings:
     new ""
 
     old "About his tribe"
+    new ""
+
+    old "Give the letter to Rahim"
     new ""
 

@@ -3140,6 +3140,9 @@ translate schinese strings:
     old "No{#letwuldonhelp}"
     new ""
 
+    old "Explore the Cave"
+    new ""
+
     old "Do you want to help Vurro?"
     new ""
 

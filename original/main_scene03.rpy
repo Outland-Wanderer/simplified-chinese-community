@@ -1,4 +1,9 @@
-﻿translate schinese scene_feral_lose_20427d99:
+﻿translate schinese scene_feral_lose_556c7193:
+
+    # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
+    msg ""
+
+translate schinese scene_feral_lose_20427d99:
 
     # "You know that you have lost the battle. The wise decision is to turn around and run."
     ""
@@ -527,6 +532,11 @@ translate schinese scene_feral_lose_fe1a3991:
 
     # "You do not know what happens next. The last sensation you have is the feral releasing his hold around your throat and you slumping backwards from exhaustion."
     ""
+
+translate schinese Scene_Lothar_Aphrodisiac_Quest_556c7193:
+
+    # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
+    msg ""
 
 translate schinese Scene_Lothar_Aphrodisiac_Quest_6635528a:
 
@@ -1213,6 +1223,11 @@ translate schinese Scene_Lothar_Aphrodisiac_Quest_4d591d1e:
     # "You can still be his disciple, but... can things really be the same after this?"
     ""
 
+translate schinese scene_werewolf_win_556c7193:
+
+    # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
+    msg ""
+
 translate schinese scene_werewolf_win_a98ac92c:
 
     # "You slowly grope your pecs and tweak them, rolling your hips as if you're already inside the werewolf's ass."
@@ -1438,25 +1453,30 @@ translate schinese scene_werewolf_win_99d18c94:
     # "You both get dressed before Werewolf and yourself both leave."
     ""
 
+translate schinese scene_ambleskill_556c7193:
+
+    # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
+    msg ""
+
 translate schinese scene_ambleskill_a0f109bb:
 
     # "A giant weight lands on your chest."
     ""
 
-translate schinese scene_ambleskill_001d2658:
+translate schinese scene_ambleskill_a2174774:
 
-    # ar "And when you have your opponent on the ground, it's easy to follow up."
-    ar ""
+    # a "And when you have your opponent on the ground, it's easy to follow up."
+    a ""
 
 translate schinese scene_ambleskill_4e7442f1:
 
     # "Amble straddles your chest and his massive weight pins you underneath him."
     ""
 
-translate schinese scene_ambleskill_a7c56a12:
+translate schinese scene_ambleskill_5c3b6c40:
 
-    # ar "At this point, maybe your opponent is already ready to surrender. If not..."
-    ar ""
+    # a "At this point, maybe your opponent is already ready to surrender. If not..."
+    a ""
 
 translate schinese scene_ambleskill_fcf83219:
 
@@ -1518,10 +1538,10 @@ translate schinese scene_ambleskill_d68516ed:
     # "You realize how vulnerable you are, pressed under Amble."
     ""
 
-translate schinese scene_ambleskill_567ec3f5:
+translate schinese scene_ambleskill_a4a6dde7:
 
-    # ar "Puny friend, why did you do that for?"
-    ar ""
+    # a "Puny friend, why did you do that for?"
+    a ""
 
 translate schinese scene_ambleskill_86a28f0b:
 
@@ -1538,10 +1558,10 @@ translate schinese scene_ambleskill_772f8547:
     # e "It's to thank you!"
     e ""
 
-translate schinese scene_ambleskill_2314da3e:
+translate schinese scene_ambleskill_16bcc10f:
 
-    # ar "Thank me?"
-    ar ""
+    # a "Thank me?"
+    a ""
 
 translate schinese scene_ambleskill_663b3bd0:
 
@@ -1573,20 +1593,20 @@ translate schinese scene_ambleskill_49a530a6:
     # "Amble frowns in contemplation but not for long."
     ""
 
-translate schinese scene_ambleskill_a3d900fe:
+translate schinese scene_ambleskill_aeff9411:
 
-    # ar "Alright then."
-    ar ""
+    # a "Alright then."
+    a ""
 
 translate schinese scene_ambleskill_0bce7852:
 
     # e "For real?"
     e ""
 
-translate schinese scene_ambleskill_a9322d8d:
+translate schinese scene_ambleskill_5ef46e7c:
 
-    # ar "Yea. You want to thank me, right? It sounds about right."
-    ar ""
+    # a "Yea. You want to thank me, right? It sounds about right."
+    a ""
 
 translate schinese scene_ambleskill_e1a752bc:
 
@@ -1608,20 +1628,20 @@ translate schinese scene_ambleskill_1b55c4e1:
     # "Your dick is already rising from the stimulation."
     ""
 
-translate schinese scene_ambleskill_cdbcf0d0:
+translate schinese scene_ambleskill_e478e865:
 
-    # ar "Come on now."
-    ar ""
+    # a "Come on now."
+    a ""
 
 translate schinese scene_ambleskill_3b9c7356:
 
     # "You oblige and open up your mouth to take in Amble's penishead."
     ""
 
-translate schinese scene_ambleskill_c9960796:
+translate schinese scene_ambleskill_7514bf7c:
 
-    # ar "Oh. Puny friend, you're good."
-    ar ""
+    # a "Oh. Puny friend, you're good."
+    a ""
 
 translate schinese scene_ambleskill_07adf072:
 
@@ -1638,10 +1658,10 @@ translate schinese scene_ambleskill_7071c33f:
     # "You suck on Amble's large and sensitive penishead."
     ""
 
-translate schinese scene_ambleskill_58f37e0d:
+translate schinese scene_ambleskill_d849f5c7:
 
-    # ar "Oh..."
-    ar ""
+    # a "Oh..."
+    a ""
 
 translate schinese scene_ambleskill_b6f2127f:
 
@@ -1668,10 +1688,10 @@ translate schinese scene_ambleskill_bd174e5d:
     # "You dot Amble's penishead with quick kisses."
     ""
 
-translate schinese scene_ambleskill_f4e49ace:
+translate schinese scene_ambleskill_a9ea4b24:
 
-    # ar "Oh... That's nice."
-    ar ""
+    # a "Oh... That's nice."
+    a ""
 
 translate schinese scene_ambleskill_4ab4cf64:
 
@@ -1688,10 +1708,10 @@ translate schinese scene_ambleskill_b378eabf:
     # "You miss having Amble's member inside your mouth so after a while. you go back to engulfing Amble's cock."
     ""
 
-translate schinese scene_ambleskill_6621ab7c:
+translate schinese scene_ambleskill_e87fa026:
 
-    # ar "Urgh..."
-    ar ""
+    # a "Urgh..."
+    a ""
 
 translate schinese scene_ambleskill_1b97f6f7:
 
@@ -1718,20 +1738,20 @@ translate schinese scene_ambleskill_7a69642e:
     # "You suck and suck, not letting up for even a second."
     ""
 
-translate schinese scene_ambleskill_dca28335:
+translate schinese scene_ambleskill_031adcff:
 
-    # ar "Oh... Christ."
-    ar ""
+    # a "Oh... Christ."
+    a ""
 
 translate schinese scene_ambleskill_ebc9a02f:
 
     # "You feel the cock in your mouth pulsate for a moment and then something viscous slides down your mouth and into your throat."
     ""
 
-translate schinese scene_ambleskill_9d9f1603:
+translate schinese scene_ambleskill_57106a98:
 
-    # ar "You get me leaking already."
-    ar ""
+    # a "You get me leaking already."
+    a ""
 
 translate schinese scene_ambleskill_1036023f:
 
@@ -1743,10 +1763,10 @@ translate schinese scene_ambleskill_27bc0d48:
     # "You blow on the dick hard."
     ""
 
-translate schinese scene_ambleskill_5f1714a6:
+translate schinese scene_ambleskill_6d4f71ac:
 
-    # ar "Ergh..."
-    ar ""
+    # a "Ergh..."
+    a ""
 
 translate schinese scene_ambleskill_95585dfb:
 
@@ -1783,10 +1803,10 @@ translate schinese scene_ambleskill_2238cc97:
     # "However, you still can't wait to get Amble's cock back into your mouth. You are far from satisfied. Based on Amble's erect cock bound inside his tight briefs, so is he."
     ""
 
-translate schinese scene_ambleskill_fd212c09:
+translate schinese scene_ambleskill_73e2f2cc:
 
-    # ar "You are too good, puny friend. I have to get this off. It's stretching so hard that it's making it painful."
-    ar ""
+    # a "You are too good, puny friend. I have to get this off. It's stretching so hard that it's making it painful."
+    a ""
 
 translate schinese scene_ambleskill_4d09769b:
 
@@ -1853,10 +1873,10 @@ translate schinese scene_ambleskill_c5726547:
     # "Without waiting for Amble, you engulf his boner like a hungry beast."
     ""
 
-translate schinese scene_ambleskill_47bdba36:
+translate schinese scene_ambleskill_f33b4562:
 
-    # ar "Oh... Easy there..."
-    ar ""
+    # a "Oh... Easy there..."
+    a ""
 
 translate schinese scene_ambleskill_8a57f783:
 
@@ -1913,10 +1933,10 @@ translate schinese scene_ambleskill_e241683e:
     # "However, even so, you only get to 75 percent of the way."
     ""
 
-translate schinese scene_ambleskill_365d1511:
+translate schinese scene_ambleskill_6239d298:
 
-    # ar "Damn."
-    ar ""
+    # a "Damn."
+    a ""
 
 translate schinese scene_ambleskill_eec9549c:
 
@@ -1948,15 +1968,15 @@ translate schinese scene_ambleskill_05281ea0:
     # "You start to tear up."
     ""
 
-translate schinese scene_ambleskill_5b0dcd2e:
+translate schinese scene_ambleskill_9dfe72a8:
 
-    # ar "You alright, puny friend?"
-    ar ""
+    # a "You alright, puny friend?"
+    a ""
 
-translate schinese scene_ambleskill_efcdc775:
+translate schinese scene_ambleskill_f462af37:
 
-    # ar "Hng... Why don't we take a break?"
-    ar ""
+    # a "Hng... Why don't we take a break?"
+    a ""
 
 translate schinese scene_ambleskill_7c6dd68d:
 
@@ -2013,10 +2033,10 @@ translate schinese scene_ambleskill_7c6dd68d_1:
     # e "Hmm... Hmm..."
     e ""
 
-translate schinese scene_ambleskill_19298087:
+translate schinese scene_ambleskill_85a1385a:
 
-    # ar "Christ... Yes..."
-    ar ""
+    # a "Christ... Yes..."
+    a ""
 
 translate schinese scene_ambleskill_1819a542:
 
@@ -2048,10 +2068,10 @@ translate schinese scene_ambleskill_f5237b2a:
     # "You suck the giant cock that has filled up your throat."
     ""
 
-translate schinese scene_ambleskill_d3700a8b:
+translate schinese scene_ambleskill_87f7be86:
 
-    # ar "Hot damn... I thought only Jog can manage this."
-    ar ""
+    # a "Hot damn... I thought only Jog can manage this."
+    a ""
 
 translate schinese scene_ambleskill_7c6dd68d_2:
 
@@ -2063,10 +2083,10 @@ translate schinese scene_ambleskill_51a24d8d:
     # "With Amble's full cock inside your mouth, you start to suck."
     ""
 
-translate schinese scene_ambleskill_c320a24d:
+translate schinese scene_ambleskill_16dc0e00:
 
-    # ar "Christ... Oh..."
-    ar ""
+    # a "Christ... Oh..."
+    a ""
 
 translate schinese scene_ambleskill_d16a00ee:
 
@@ -2078,10 +2098,10 @@ translate schinese scene_ambleskill_31e19b57:
     # "However, all you can feel is the giant cock in your mouth and the heavy musk that clouds your mind."
     ""
 
-translate schinese scene_ambleskill_b0914852:
+translate schinese scene_ambleskill_03113d26:
 
-    # ar "Hng... I'm close."
-    ar ""
+    # a "Hng... I'm close."
+    a ""
 
 translate schinese scene_ambleskill_aa357da4:
 
@@ -2103,10 +2123,10 @@ translate schinese scene_ambleskill_ff123488:
     # "You have no idea how to prepare for it for you've done everything you could."
     ""
 
-translate schinese scene_ambleskill_45b2052a:
+translate schinese scene_ambleskill_3fdbce2b:
 
-    # ar "I'm coming!"
-    ar ""
+    # a "I'm coming!"
+    a ""
 
 translate schinese scene_ambleskill_3252ff96:
 
@@ -2153,10 +2173,10 @@ translate schinese scene_ambleskill_071bbfd9:
     # "You keep your mouth on Amble's cock for you do not want to miss out on the milk."
     ""
 
-translate schinese scene_ambleskill_557bd2f0:
+translate schinese scene_ambleskill_243c761b:
 
-    # ar "Oh... Oh..."
-    ar ""
+    # a "Oh... Oh..."
+    a ""
 
 translate schinese scene_ambleskill_c0ddb016:
 
@@ -2207,6 +2227,11 @@ translate schinese scene_ambleskill_2a3f453d:
 
     # "When he is done, he lays down beside you."
     ""
+
+translate schinese scene_jogskill_556c7193:
+
+    # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
+    msg ""
 
 translate schinese scene_jogskill_da2555f9:
 
