@@ -700,11 +700,11 @@ translate schinese strings:
     old "A colourful flowering plant that the lizard folks sometimes pick up for decoration, or as an ingredient for sweet tea."
     new "一种色彩鲜艳的开花植物，蜥蜴族有时会将其作为装饰，或作为甜茶的原料。"
 
-    # old "Horehound"
-    # new ""
+    old "Horehound"
+    new "苦薄荷"
 
-    # old "A plant with leaves that has strong scent that is said to repel canine folks, it also helps treat other user's common sicknesses."
-    # new ""
+    old "A plant with leaves that has strong scent that is said to repel canine folks, it also helps treat other user's common sicknesses."
+    new "一种气味强烈的草本植物，据说可以驱赶犬类。它还有助于治疗常见的疾病。"
 
     #敌方
 
