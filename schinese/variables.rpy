@@ -694,11 +694,11 @@ translate schinese strings:
     # old "A smaller red berry that's more rock-like. It's commonly eaten with bread and it's said to strengthen the user."
     # new ""
 
-    # old "Hydrangea"
-    # new ""
+    old "Hydrangea"
+    new "绣球花"
 
-    # old "A colourful flowering plant that the lizard folks sometimes pick up for decoration, or as an ingredient for sweet tea."
-    # new ""
+    old "A colourful flowering plant that the lizard folks sometimes pick up for decoration, or as an ingredient for sweet tea."
+    new "一种色彩鲜艳的开花植物，蜥蜴族有时会将其作为装饰，或作为甜茶的原料。"
 
     # old "Horehound"
     # new ""
