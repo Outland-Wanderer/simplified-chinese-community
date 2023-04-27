@@ -1029,11 +1029,11 @@ translate schinese strings:
     old "Kari asked me to help save Furkan. He told me the chief went to the Damp Cave for the lost guardian."
     new "卡里恳求我救出弗坎。他说弗坎为了找回失踪的符石护卫独自前往了潮湿山洞。"
 
-    # old "Advanced Battle Practice"
-    # new "高级作战教学"
+    old "Advanced Battle Practice"
+    new "高级作战教学"
 
-    # old "In order to train with Lothar, I need to fight against the strong dummy."
-    # new "要想洛萨尔亲自教导我，就得先打败强化过的人偶。"
+    old "In order to train with Lothar, I need to fight against the strong dummy."
+    new "要想洛萨尔亲自教导我，就得先打败强化过的人偶。"
 
     # old "Logger and Scout"
     # new "伐木工与侦察员"

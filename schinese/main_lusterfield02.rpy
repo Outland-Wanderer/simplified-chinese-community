@@ -4391,10 +4391,10 @@ translate schinese Lothar_Who_Angry_f0a5fabc:
     # l "Did your elder teach you manners, especially talking to a hero in front of you?"
     l "基本的礼貌礼节，你父母没有教过你吗？堂堂乐村大英雄站在你面前，你就这个态度？"
 
-translate schinese Lothar_Who_Angry_04080cf6:
+translate schinese Lothar_Who_Angry_16dc5433:
 
-    # e "I didn't know who you are... I'm sorry."
-    e "我之前真的不认识你……对不起。"
+    # e "I didn't know who you are, I'm sorry."
+    e "我之前真的不认识你，对不起。"
 
 translate schinese Lothar_Who_Angry_c7c93ab3:
 
@@ -4436,10 +4436,10 @@ translate schinese Lothar_Who_Angry_7717b576:
     # l "Are you?"
     l "真心的吗？"
 
-translate schinese Lothar_Who_Angry_74db1a7f:
+translate schinese Lothar_Who_Angry_118adec5:
 
-    # e "Yes..."
-    e "真心的……"
+    # e "Yes."
+    e "真心的。"
 
 translate schinese Lothar_Who_Angry_82822a0c:
 
@@ -4476,10 +4476,10 @@ translate schinese Lothar_Wrong_420c659c:
     # m "Alright then, now tell me, what's your name."
     m "行，告诉我你叫什么名字。"
 
-translate schinese Lothar_Wrong_b93c4f4c:
+translate schinese Lothar_Wrong_d454165b:
 
-    # e "My name is [e]..."
-    e "我叫[e]……"
+    # e "My name is [e]."
+    e "我叫[e]。"
 
 translate schinese Lothar_Wrong_fd102fdb:
 
@@ -4501,10 +4501,10 @@ translate schinese Lothar_Wrong_25fb53c4:
     # m "You know me now?"
     m "现在，知道我是谁了吗？"
 
-translate schinese Lothar_Wrong_14427fe0:
+translate schinese Lothar_Wrong_20fd191c:
 
-    # e "Uhhh... what's your name?"
-    e "呃啊……你还没告诉我名字？"
+    # e "What's your name?"
+    e "你还没告诉我你的名字。"
 
 translate schinese Lothar_Wrong_8c5cf0e2:
 
@@ -4531,9 +4531,9 @@ translate schinese Lothar_Wrong_480232fa:
     # l "Good, good. I'm the hero of the village. Don't you ever, ever try to play me like that, you understand?"
     l "很好。给我记住，我是乐斯民菲尔德村的大英雄洛萨尔。再也、永远、不许把我和那老裁缝弄混，明白吗？"
 
-translate schinese Lothar_Wrong_6c60186f:
+translate schinese Lothar_Wrong_ad107a04:
 
-    # e "Y-yes..."
+    # e "Ok?"
     e "是……我明白了……"
 
 translate schinese Lothar_First_End_4c53de91:
@@ -4616,10 +4616,10 @@ translate schinese Lothar_First_Ending_9c2edee2:
     # o "What's going on, [e]?"
     o "[e]，怎么回事？"
 
-translate schinese Lothar_First_Ending_bc5b496e:
+translate schinese Lothar_First_Ending_d2bcc849:
 
-    # l "Nothing... I was talking to him about the training I promised you."
-    l "他没事儿……我们正在讨论训练，我昨天答应你的那个训练。"
+    # l "Nothing, I was talking to him about the training I promised you."
+    l "他没事儿，我们正在讨论训练，我昨天答应你的那个训练。"
 
 translate schinese Lothar_First_Ending_4605285b:
 
@@ -4671,10 +4671,10 @@ translate schinese Lothar_First_Ending_75273d36:
     # "The wolf clears his throat, obviously bothered by the presence of Ole. He unnaturally places his arms apart, scratching his head for a few times before stretching."
     "洛萨尔显然被奥利压制得够呛，不安地清了清嗓子。这时他才放下双臂交叉的架势，空出手来挠了挠头，动作甚是别扭。"
 
-translate schinese Lothar_First_Ending_2124361c:
+translate schinese Lothar_First_Ending_720fec84:
 
-    # l "So... See you then... [e]."
-    l "那……待会见……[e]。"
+    # l "So, See you then... [e]."
+    l "那，待会见……[e]。"
 
 translate schinese Lothar_First_Ending_9c9b3c64:
 
@@ -4716,9 +4716,9 @@ translate schinese Lothar_First_Ending_ed3b0d65:
 #     # l "Nothing happened, and we will not talk about it."
 #     l ""
 
-# translate schinese Lothar_Dialogue_ce3aa529:
+# translate schinese Lothar_Dialogue_577e4bd1:
 
-#     # e "...okay."
+#     # e "Okay."
 #     e ""
 
 # translate schinese Lothar_Dialogue_d49d0510:
@@ -4806,24 +4806,24 @@ translate schinese Lothar_Dialogue_568bb928:
     # l "Hey, [e]. I heard you're serving people naked. When are you serving me this way?"
     l "嘿，[e]。听说你最近很大胆啊。怎么没见你光着身子给我端过酒？"
 
-translate schinese Lothar_Dialogue_0940b6fa:
+translate schinese Lothar_Dialogue_02671382:
 
-    # e "Uhhhmmm? Lothar...?"
-    e "呃呃呃呃呃？洛萨尔……？"
+    # e "Uhhhmmm? Lothar?"
+    e "呃呃呃呃呃？"
 
 translate schinese Lothar_Dialogue_4ed20f6b:
 
     # l "You know, being a hero is really tiring, I might need a personal server."
     l "你以为守护一方平安很轻松吗？大英雄需要专人服务缓解疲劳。"
 
-translate schinese Lothar_Dialogue_7ef1f606:
+translate schinese Lothar_Dialogue_b82f8229:
 
-    # e "O-oh... If you would like?"
-    e "噢……你认真的？"
+    # e "O-oh, If you would like?"
+    e "噢，你认真的？"
 
-translate schinese Lothar_Dialogue_c8e3571c:
+translate schinese Lothar_Dialogue_826837de:
 
-    # l "Ha- just kidding. I still have standards."
+    # l "Ha- just kidding. I have standards."
     l "哈——开个玩笑，我可是有底线的。"
 
 translate schinese Lothar_Dialogue_bd9e9f2e:
@@ -4831,9 +4831,9 @@ translate schinese Lothar_Dialogue_bd9e9f2e:
     # e "Ok, Lothar."
     e "当然了，大英雄。"
 
-translate schinese Lothar_Dialogue_ea411d87:
+translate schinese Lothar_Dialogue_e158ab8e:
 
-    # l "Hmmph... [e]. Why are you naked..."
+    # l "Hmmph, [e]. Why are you naked..."
     l "嗯……[e]，你为什么不穿衣服……"
 
 translate schinese Lothar_Dialogue_8ab05b3d:
@@ -4846,10 +4846,10 @@ translate schinese Lothar_Dialogue_53288926:
     # l "Whatever."
     l "随你便。"
 
-translate schinese Lothar_Dialogue_d9a0eafb:
+translate schinese Lothar_Dialogue_a8917b76:
 
-    # l "A-ahhhh.... [e]. Rarely do I see you in the tavern."
-    l "啊哈……[e]。酒馆的稀客。"
+    # l "A-ahhhh, [e]. Rarely do I see you in the tavern."
+    l "啊哈，[e]。酒馆的稀客。"
 
 translate schinese Lothar_Dialogue_ea033421:
 
@@ -4891,11 +4891,11 @@ translate schinese strings:
     old "Report about your fight with dummy"
     new "报告与人偶对战的结果"
 
-    # old "Spar with Lothar"
-    # new "接受洛萨尔的挑战"
+    old "Spar with Lothar"
+    new "接受洛萨尔的对练"
 
-    # old "Ask about the sparring bet"
-    # new "询问同洛萨尔对战的事情"
+    old "Ask about the sparring bet"
+    new "询问前日赌局的事情"
 
     # old "Ask about the monster nearby"
     # new "询问怪物出没的事情"
@@ -4918,8 +4918,8 @@ translate schinese strings:
     old "Ask about his opinion on the Goat Tribe"
     new "询问对山羊部落的看法"
 
-    # old "Report about the visit to Goat Tribe"
-    # new "报告打探山羊部落的结果"
+    old "Report about the visit to Goat Tribe"
+    new "报告打探山羊部落的结果"
 
     # old "Ask Lothar about Trainings from Ole"
     # new "征得向安布和乔格请教的许可"
@@ -6536,485 +6536,500 @@ translate schinese strings:
 #     # "Lothar reluctantly hands the magic stone over."
 #     ""
 
-# translate schinese Lothar_Sparring_14a2abd5:
+translate schinese Lothar_Sparring_14a2abd5:
 
-#     # e "Lothar, about the sparr-"
-#     e ""
+    # e "Lothar, about the sparr-"
+    e "关于我们之前说的对练——"
 
-# translate schinese Lothar_Sparring_c47ae0a7:
+translate schinese Lothar_Sparring_c47ae0a7:
 
-#     # l "Well, well... disciple. Finally, Are you ready to get your ass beat?" nointeract
-#     l "" nointeract
+    # l "Well, well... disciple. Finally, Are you ready to get your ass beat?" nointeract
+    l "哼哼哼，终于，你准备好被我打得落花流水了吗？" nointeract
 
-# translate schinese Lothar_Sparring_8d246e37:
+translate schinese strings:
 
-#     # e "Yes... I'm ready."
-#     e ""
+    old "Yes{#lotharsparring}"
+    new "开始战斗"
 
-# translate schinese Lothar_Sparring_ed6f8e88:
+    old "No{#lotharsparring}"
+    new "暂时离开"
 
-#     # e "Hmmm... not yet."
-#     e ""
+translate schinese Lothar_Sparring_8d246e37:
 
-# translate schinese Lothar_Sparring_c4d692b4:
+    # e "Yes... I'm ready."
+    e "嗯，我准备好了。"
 
-#     # l "Ugh, make it quick, I'm waiting..."
-#     l ""
+translate schinese Lothar_Sparring_ed6f8e88:
 
-# translate schinese Lothar_Battle_Training_f163ce69:
+    # e "Hmmm... not yet."
+    e "呃……我感觉还没有。"
 
-#     # l "Hmm..."
-#     l ""
+translate schinese Lothar_Sparring_c4d692b4:
 
-# translate schinese Lothar_Battle_Training_56bd063a:
+    # l "Ugh, make it quick, I'm waiting..."
+    l "呃啊，快去准备，还要我等你多久……"
 
-#     # e "What are you looking at, Lothar?"
-#     e ""
+translate schinese Lothar_Battle_Training_f163ce69:
 
-# translate schinese Lothar_Battle_Training_80f29ad9:
+    # l "Hmm..."
+    l "唔……"
 
-#     # l "You know... Amble and Jog saw you a few days ago."
-#     l ""
+translate schinese Lothar_Battle_Training_56bd063a:
 
-# translate schinese Lothar_Battle_Training_c18eb48e:
+    # e "What are you looking at, Lothar?"
+    e "你干嘛这样盯着我？"
 
-#     # e "W-what?"
-#     e ""
+translate schinese Lothar_Battle_Training_80f29ad9:
 
-# translate schinese Lothar_Battle_Training_9e56aaeb:
+    # l "You know... Amble and Jog saw you a few days ago."
+    l "安布和乔格前几天看见你。"
 
-#     # l "And they ask me. Lot, why is your disciple so small."
-#     l ""
+translate schinese Lothar_Battle_Training_c18eb48e:
 
-# translate schinese Lothar_Battle_Training_ed54c58b:
+    # e "W-what?"
+    e "然后呢？"
 
-#     # l "And I can't say anything back, usually I could tease them to oblivion."
-#     l ""
+translate schinese Lothar_Battle_Training_9e56aaeb:
 
-# translate schinese Lothar_Battle_Training_68af3d0a:
+    # l "And they ask me. Lot, why is your disciple so small."
+    l "他们问我：洛哥，你徒弟也太小只了吧。"
 
-#     # l "Like, not being as handsome as me, or not being the hero of Lusterfield."
-#     l ""
+translate schinese Lothar_Battle_Training_ed54c58b:
 
-# translate schinese Lothar_Battle_Training_faa7d97b:
+    # l "And I can't say anything back, usually I could tease them to oblivion."
+    l "我顿时大脑一片空白，一句话都说不出。"
+    l "要是放在以前我早就笑话回他们了。"
 
-#     # e "Hmm..."
-#     e ""
+translate schinese Lothar_Battle_Training_68af3d0a:
 
-# translate schinese Lothar_Battle_Training_d30a66d5:
+    # l "Like, not being as handsome as me, or not being the hero of Lusterfield."
+    l "比如他们不如我英俊潇洒啊，不像我是盖世英雄啊。"
 
-#     # l "But now I don't even know what to say... because that's not my problem! That's your problem, disciple."
-#     l ""
+translate schinese Lothar_Battle_Training_faa7d97b:
 
-# translate schinese Lothar_Battle_Training_f33c3e16:
+    # e "Hmm..."
+    e "呃……"
 
-#     # e "Is it really my fault though... it's not like I can get any bigger in size..."
-#     e ""
+translate schinese Lothar_Battle_Training_d30a66d5:
 
-# translate schinese Lothar_Battle_Training_c95939f5:
+    # l "But now I don't even know what to say... because that's not my problem! That's your problem, disciple."
+    l "但这次我真的没法向他们解释，因为……这不是我的问题！这是你的问题，徒儿。"
 
-#     # l "You know, that's the problem with you, everything negative about you reflects much worse on my name."
-#     l ""
+translate schinese Lothar_Battle_Training_f33c3e16:
 
-# translate schinese Lothar_Battle_Training_1d474e28:
+    # e "Is it really my fault though... it's not like I can get any bigger in size..."
+    e "怎么可能……长多大个又不是我能决定的……"
 
-#     # l "Next thing Amble would tell me you got fucked by a feeble little slime..."
-#     l ""
+translate schinese Lothar_Battle_Training_c95939f5:
 
-# translate schinese Lothar_Battle_Training_24919ecc:
+    # l "You know, that's the problem with you, everything negative about you reflects much worse on my name."
+    l "难道还能是我的问题吗？反正这是你的问题。"
+    l "要知道，徒弟任何一个污点在外人眼里都会放大成师傅的污名。"
 
-#     # l "And then they'll ask. Hu hu hu, Lot why did your disciple get fucked by a slime!"
-#     l ""
+translate schinese Lothar_Battle_Training_1d474e28:
 
-# translate schinese Lothar_Battle_Training_0823e48c:
+    # l "Next thing Amble would tell me you got fucked by a feeble little slime..."
+    l "没准下回乔格就要告诉我，你被区区一坨史莱姆给强奸了……"
 
-#     # l "Hu hu hu! And they laugh like an idiot for hours straight."
-#     l ""
+translate schinese Lothar_Battle_Training_24919ecc:
 
-# translate schinese Lothar_Battle_Training_ded2746f:
+    # l "And then they'll ask. Hu hu hu, Lot why did your disciple get fucked by a slime!"
+    l "然后他们就会说：哈哈哈哈哈！洛哥，你带出来的徒弟也太废柴了吧！"
 
-#     # "Lothar imitates Amble and Jog's voices, while chuckling."
-#     ""
+translate schinese Lothar_Battle_Training_0823e48c:
 
-# translate schinese Lothar_Battle_Training_61f23e3c:
+    # l "Hu hu hu! And they laugh like an idiot for hours straight."
+    l "啊哈哈哈哈哈哈！他们俩会像傻瓜一样笑个半天。"
 
-#     # e "How... did you know..."
-#     e ""
+translate schinese Lothar_Battle_Training_ded2746f:
 
-# translate schinese Lothar_Battle_Training_258afb94:
+    # "Lothar imitates Amble and Jog's voices, while chuckling."
+    "洛萨尔模仿着安布和乔格的声音，包括那魔性的笑声。"
 
-#     # l "I really do need to train you myself... do I not...?"
-#     l ""
+translate schinese Lothar_Battle_Training_61f23e3c:
 
-# translate schinese Lothar_Battle_Training_9e6e1f41:
+    # e "How... did you know..."
+    e "你……你们怎么知道的……"
 
-#     # e "No, I-I can actually handle being out there. Look, I'm strong enough."
-#     e ""
+translate schinese Lothar_Battle_Training_258afb94:
 
-# translate schinese Lothar_Battle_Training_de459af7:
+    # l "I really do need to train you myself... do I not...?"
+    l "看来为师不亲自辅导你不行了……哼？"
 
-#     # "You try to swing your weapon in front of Lothar, who doesn't seem very impressed."
-#     ""
+translate schinese Lothar_Battle_Training_9e6e1f41:
 
-# translate schinese Lothar_Battle_Training_e8b9eb63:
+    # e "No, I-I can actually handle being out there. Look, I'm strong enough."
+    e "那、那些野怪我两三下就能把他们干掉，不信你看。"
 
-#     # e "Huh...? H-uh... Is t-that... g-good?"
-#     e ""
+translate schinese Lothar_Battle_Training_de459af7:
 
-# translate schinese Lothar_Battle_Training_15f0e7c8:
+    # "You try to swing your weapon in front of Lothar, who doesn't seem very impressed."
+    "你摆出武器在洛萨尔面前挥了几下，但他只是漠然地看着你。"
 
-#     # "After a while you started panting rapidly, you look up to Lothar."
-#     ""
+translate schinese Lothar_Battle_Training_e8b9eb63:
 
-# translate schinese Lothar_Battle_Training_82822a0c:
+    # e "Huh...? H-uh... Is t-that... g-good?"
+    e "嘿……哈……你看……我够不够格？"
 
-#     # l "..."
-#     l ""
+translate schinese Lothar_Battle_Training_15f0e7c8:
 
-# translate schinese Lothar_Battle_Training_c18eb48e_1:
+    # "After a while you started panting rapidly, you look up to Lothar."
+    "不一会你就气喘吁吁的。你弯腰撑着膝盖，抬头看向洛萨尔。"
 
-#     # e "W-what?"
-#     e ""
+translate schinese Lothar_Battle_Training_82822a0c:
 
-# translate schinese Lothar_Battle_Training_0def6bcb:
+    # l "..."
+    l "……"
 
-#     # l "Yeah, I should give you some training..."
-#     l ""
+translate schinese Lothar_Battle_Training_c18eb48e_1:
 
-# translate schinese Lothar_Battle_Training_e98d4a0c:
+    # e "W-what?"
+    e "怎么样？"
 
-#     # l "I'll level up the dummy now. You should beat it quite easily if you're... capable."
-#     l ""
+translate schinese Lothar_Battle_Training_0def6bcb:
 
-# translate schinese Lothar_Battle_Training_0bbe65d9:
+    # l "Yeah, I should give you some training..."
+    l "我更加确定你必须得加训了……"
 
-#     # e "I Am... capable... H-hey..."
-#     e ""
+translate schinese Lothar_Battle_Training_e98d4a0c:
 
-# translate schinese Lothar_Battle_Training_d9cf8f03:
+    # l "I'll level up the dummy now. You should beat it quite easily if you're... capable."
+    l "我待会会调高人偶的难度。要是你真够格……你肯定能秒杀他。"
 
-#     # l "Prove to me then... And then we'll talk about training."
-#     l ""
+translate schinese Lothar_Battle_Training_0bbe65d9:
 
-# translate schinese Lothar_Battle_Training_bf6f0d3d:
+    # e "I Am... capable... H-hey..."
+    e "我……当然够格……"
 
-#     # e "A-alright..."
-#     e ""
+translate schinese Lothar_Battle_Training_d9cf8f03:
 
-# translate schinese Lothar_After_Sparring_f3749f72:
+    # l "Prove to me then... And then we'll talk about training."
+    l "那就去战胜人偶证明给为师看吧……之后我们再来谈其他训练。"
 
-#     # e "Lothar...?"
-#     e ""
+translate schinese Lothar_Battle_Training_bf6f0d3d:
 
-# translate schinese Lothar_After_Sparring_762d8b1d:
+    # e "A-alright..."
+    e "好，好的……"
 
-#     # l "Huh...?"
-#     l ""
+translate schinese Lothar_After_Sparring_f3749f72:
 
-# translate schinese Lothar_After_Sparring_9728f7b8:
+    # e "Lothar...?"
+    pass
 
-#     # e "About the Sparring..."
-#     e ""
+translate schinese Lothar_After_Sparring_762d8b1d:
 
-# translate schinese Lothar_After_Sparring_45049bae:
+    # l "Huh...?"
+    pass
 
-#     # l "Look... like I said, you can pay me any time."
-#     l ""
+translate schinese Lothar_After_Sparring_9728f7b8:
 
-# translate schinese Lothar_After_Sparring_51aa61de:
+    # e "About the Sparring..."
+    e "关于我们之前的赌……"
 
-#     # e "I-I'm fine now... thanks for carrying me back to my bed."
-#     e ""
+translate schinese Lothar_After_Sparring_45049bae:
 
-# translate schinese Lothar_After_Sparring_82822a0c:
+    # l "Look... like I said, you can pay me any time."
+    l "没事，君子一言驷马难追，你想什么时候还钱都行。"
 
-#     # l "..."
-#     l ""
+translate schinese Lothar_After_Sparring_51aa61de:
 
-# translate schinese Lothar_After_Sparring_0299d601:
+    # e "I-I'm fine now... thanks for carrying me back to my bed."
+    e "我想说谢谢你背我回当铺……我已经完全好了。"
 
-#     # l "Well you know what, you don't need to pay me anything."
-#     l ""
+translate schinese Lothar_After_Sparring_82822a0c:
 
-# translate schinese Lothar_After_Sparring_5c92948a:
+    # l "..."
+    l "……"
 
-#     # l "It's already expected of you to unfortunately lose to an experienced sword master like me."
-#     l ""
+translate schinese Lothar_After_Sparring_0299d601:
 
-# translate schinese Lothar_After_Sparring_04fd39bf:
+    # l "Well you know what, you don't need to pay me anything."
+    l "这样，赌的钱你不用还了。"
 
-#     # l "And also Ole found out about this and he really hated the idea of me sparring and getting money from a disciple."
-#     l ""
+translate schinese Lothar_After_Sparring_5c92948a:
 
-# translate schinese Lothar_After_Sparring_f356d5ee:
+    # l "It's already expected of you to unfortunately lose to an experienced sword master like me."
+    l "你才刚拜师门没多久，自然敌不过我这个精通剑术的大师。"
 
-#     # e "But... a bet is a be-"
-#     e ""
+translate schinese Lothar_After_Sparring_04fd39bf:
 
-# translate schinese Lothar_After_Sparring_eac3c186:
+    # l "And also Ole found out about this and he really hated the idea of me sparring and getting money from a disciple."
+    l "怕奥利误会我仗着资历欺负你，又大发雷霆。"
 
-#     # l "If I needed money, I can get it right from Amble's 200 gold, and Jog's after he show his face in the tavern."
-#     l ""
+translate schinese Lothar_After_Sparring_f356d5ee:
 
-# translate schinese Lothar_After_Sparring_e5b9f00b:
+    # e "But... a bet is a be-"
+    e "但、但我们说好——"
 
-#     # e "Hmm... Thank you... Lothar."
-#     e ""
+translate schinese Lothar_After_Sparring_eac3c186:
 
-# translate schinese Lothar_After_Sparring_e8b1a0f2:
+    # l "If I needed money, I can get it right from Amble's 200 gold, and Jog's after he show his face in the tavern."
+    l "如果为师缺钱，自然可以从安布和乔格那赚，不差你那点。"
 
-#     # l "My sword strikes are not what normal beginners are supposed to handle, I can understand that..."
-#     l ""
+translate schinese Lothar_After_Sparring_e5b9f00b:
 
-# translate schinese Lothar_After_Sparring_82822a0c_1:
+    # e "Hmm... Thank you... Lothar."
+    e "嗯……谢谢师傅。"
 
-#     # l "..."
-#     l ""
+translate schinese Lothar_After_Sparring_e8b1a0f2:
 
-# translate schinese Lothar_After_Sparring_69e226b3:
+    # l "My sword strikes are not what normal beginners are supposed to handle, I can understand that..."
+    l "为师剑技高超非等闲之辈可以招架得住，你不必灰心丧气……"
 
-#     # l "And... well you beat the advanced dummy, let's focus on the progress."
-#     l ""
+translate schinese Lothar_After_Sparring_82822a0c_1:
 
-# translate schinese Lothar_After_Sparring_0fa464f2:
+    # l "..."
+    l "……"
 
-#     # e "I remembered..."
-#     e ""
+translate schinese Lothar_After_Sparring_69e226b3:
 
-# translate schinese Lothar_After_Sparring_7871c73d:
+    # l "And... well you beat the advanced dummy, let's focus on the progress."
+    l "既然你已经打败了加强过的人偶，为师得想想接下来要怎么教你。"
 
-#     # l "So, anyways, take care. I should be here for you regardless, as a mentor."
-#     l ""
+translate schinese Lothar_After_Sparring_0fa464f2:
 
-# translate schinese Lothar_After_Sparring_0fe70190:
+    # e "I remembered..."
+    e "我记得……"
 
-#     # e "Thank you again."
-#     e ""
+translate schinese Lothar_After_Sparring_7871c73d:
 
-# translate schinese Lothar_After_Sparring_30adbb8d:
+    # l "So, anyways, take care. I should be here for you regardless, as a mentor."
+    l "总之，你知道自己还远远不够格了吧，在外边要多多注意安全。"
+    l "你师傅永远是你师傅，碰到困难记得来找我，我就在这。"
 
-#     # msg "You received 600 EXP and 2 level points!"
-#     msg ""
+translate schinese Lothar_After_Sparring_0fe70190:
 
-# translate schinese Lothar_After_Sparring_d7de9d48:
+    # e "Thank you again."
+    e "谢啦。"
 
-#     # l "You won...Feeling good about yourself...?"
-#     l ""
+translate schinese Lothar_After_Sparring_30adbb8d:
 
-# translate schinese Lothar_After_Sparring_a556bc53:
+    # msg "You received 600 EXP and 2 level points!"
+    msg "你收获了 600 经验值和 2 等级点。"
 
-#     # e "Look, Lothar... I was just asking..."
-#     e ""
+translate schinese Lothar_After_Sparring_88e635a5:
 
-# translate schinese Lothar_After_Sparring_2042281e:
+    # l "You won. Feeling good about yourself?"
+    l "你赢了，所以觉得自己很厉害是吗？"
 
-#     # l "Whatever... I promised you a bet."
-#     l ""
+translate schinese Lothar_After_Sparring_6ae1fa6a:
 
-# translate schinese Lothar_After_Sparring_726e8532:
+    # e "Look, Lothar, I was just asking-"
+    e "我只是想问问——"
 
-#     # l "But don't you ever tell this to any other people... I'm serious."
-#     l ""
+translate schinese Lothar_After_Sparring_2042281e:
 
-# translate schinese Lothar_After_Sparring_11dbdc0a:
+    # l "Whatever... I promised you a bet."
+    l "算了……愿赌服输。"
 
-#     # l "That's gonna damage my reputation if I ever lost... to a disciple."
-#     l ""
+translate schinese Lothar_After_Sparring_716880dd:
 
-# translate schinese Lothar_After_Sparring_735dc08d:
+    # l "But don't you ever tell this to any other people. I'm serious."
+    l "但这场对练、这场赌你绝不许跟任何人提起，我是认真的。"
 
-#     # e "Ok... ok..."
-#     e ""
+translate schinese Lothar_After_Sparring_11dbdc0a:
 
-# translate schinese Lothar_After_Sparring_f8302dd4:
+    # l "That's gonna damage my reputation if I ever lost... to a disciple."
+    l "输给自己的徒弟……传出去我可要名誉扫地了。"
 
-#     # l "Here's your 500 gold."
-#     l ""
+translate schinese Lothar_After_Sparring_a48dcbf3:
 
-# translate schinese Lothar_After_Sparring_de7bbc4f:
+    # e "Ok, ok..."
+    pass
 
-#     # l "Happy...?"
-#     l ""
+translate schinese Lothar_After_Sparring_f8302dd4:
 
-# translate schinese Lothar_After_Sparring_cc90223d:
+    # l "Here's your 500 gold."
+    e "我、我知道了……"
+    l "呐，五百金币，高兴了吧？"
 
-#     # e "Very..."
-#     e ""
+translate schinese Lothar_After_Sparring_66c263ea:
 
-# translate schinese Lothar_After_Sparring_606671cc:
+    # l "Happy?"
+    pass
 
-#     # l "Luckily I've got these suckers Amble and Jog to get me some free cash..."
-#     l ""
+translate schinese Lothar_After_Sparring_cc90223d:
 
-# translate schinese Lothar_After_Sparring_07261c8a:
+    # e "Very..."
+    e "高兴、高兴……"
 
-#     # e "Thanks... Lothar."
-#     e ""
+translate schinese Lothar_After_Sparring_606671cc:
 
-# translate schinese Lothar_After_Sparring_3d363e94:
+    # l "Luckily I've got these suckers Amble and Jog to get me some free cash..."
+    l "幸好还可以从安布和乔格那再赚过……"
 
-#     # l "Yeah... come to see us at night more, maybe I can get you to toss me back those golds."
-#     l ""
+translate schinese Lothar_After_Sparring_53cef9a8:
 
-# translate schinese Lothar_After_Sparring_faa7d97b:
+    # e "Thanks, Lothar."
+    e "谢谢师傅。"
 
-#     # e "Hmm..."
-#     e ""
+translate schinese Lothar_After_Sparring_d6c09f5c:
 
-# translate schinese Lothar_After_Sparring_64b8747e:
+    # l "Yeah come to see us at night more, maybe I can get you to toss me back those golds."
+    l "晚上有空多来酒馆和我们坐坐，没准能让你吐些金币回来。"
 
-#     # l "Well, that's it... champ. Now get the fuck off."
-#     l ""
+translate schinese Lothar_After_Sparring_faa7d97b:
 
-# translate schinese Lothar_After_Sparring_3d7f7d49:
+    # e "Hmm..."
+    e "呃……"
 
-#     # e "Alright, Lothar..."
-#     e ""
+translate schinese Lothar_After_Sparring_ae43cad7:
 
-# translate schinese Lothar_After_Sparring_7f267e57:
+    # l "Well, that's it, champ. Now get the fuck off."
+    l "行了，爱干嘛干嘛去吧，小冠军。"
 
-#     # "Lothar let out a huge sigh... he is obviously annoyed by the fact that you get to squeeze his chest..."
-#     ""
+translate schinese Lothar_After_Sparring_3d7f7d49:
 
-# translate schinese Lothar_After_Sparring_7f19814d:
+    # e "Alright, Lothar..."
+    e "好的……"
 
-#     # l "You've got what you wanted... I guess."
-#     l ""
+translate schinese Lothar_After_Sparring_7f267e57:
 
-# translate schinese Lothar_After_Sparring_5d31fd41:
+    # "Lothar let out a huge sigh... he is obviously annoyed by the fact that you get to squeeze his chest..."
+    e "我、我知道了……"
+    "想到要被你玩胸，洛萨尔长叹一口气，样子不情愿极了。"
 
-#     # l "W-what... are you that excited to kick me in the nuts...?"
-#     l ""
+translate schinese Lothar_After_Sparring_7f19814d:
 
-# translate schinese Lothar_After_Sparring_dd3a2d65:
+    # l "You've got what you wanted... I guess."
+    l "当为师宠你一回吧。"
 
-#     # e "Well I didn't know you'd actually accept that in the first place."
-#     e ""
+translate schinese Lothar_After_Sparring_6dd4c9e9:
 
-# translate schinese Lothar_After_Sparring_0ad5bfe4:
+    # l "W-what, are you that excited to kick me in the nuts?"
+    e "没问题！"
+    l "喂、喂，踢我卵蛋有什么可兴奋的？"
 
-#     # l "Huh..."
-#     l ""
+translate schinese Lothar_After_Sparring_dd3a2d65:
 
-# translate schinese Lothar_After_Sparring_50612559:
+    # e "Well I didn't know you'd actually accept that in the first place."
+    e "因为师傅说话算话，真的答应我了。"
 
-#     # l "Let's get this over with..."
-#     l ""
+translate schinese Lothar_After_Sparring_0ad5bfe4:
 
-# translate schinese Lothar_After_Sparring_bd4b7782:
+    # l "Huh..."
+    l "哼……"
 
-#     # e "A-alright... hmmm..."
-#     e ""
+translate schinese Lothar_After_Sparring_50612559:
 
-# translate schinese Lothar_After_Sparring_13dac4b4:
+    # l "Let's get this over with..."
+    l "麻利点，踢完就给我滚……"
 
-#     # l "Stop giving me your impression of a shit-eating grin... Fuck..."
-#     l ""
+translate schinese Lothar_After_Sparring_389a7f63:
 
-# translate schinese Lothar_After_Sparring_7aa1d4b6:
+    # e "A-alright- hmmm."
+    e "我要来咯！"
 
-#     # e "I'm ready now..."
-#     e ""
+translate schinese Lothar_After_Sparring_7a5e231a:
 
-# translate schinese Lothar_After_Sparring_da5e8bdb:
+    # l "Stop giving me your impression of a shit-eating grin, Fucking shit."
+    l "别给老子露出这种贱笑，小王八蛋。"
 
-#     # l "I've trained my balls... So give me all you've got..."
-#     l ""
+translate schinese Lothar_After_Sparring_7aa1d4b6:
 
-# translate schinese Lothar_After_Sparring_f9274dfa:
+    # e "I'm ready now..."
+    e "预备……"
 
-#     # "You kick into Lothar as hard as you can, apparently he didn't scream or yelp, just swallowed all of his pain..."
-#     ""
+translate schinese Lothar_After_Sparring_14de55d4:
 
-# translate schinese Lothar_After_Sparring_ffcd69f4:
+    # l "I've trained my balls, So give me all you've got..."
+    l "自那之后为师每日苦练体躯，连卵蛋也没落下。你就尽管来——"
 
-#     # "However, you've felt something hard around his crotch..."
-#     ""
+translate schinese Lothar_After_Sparring_f9274dfa:
 
-# translate schinese Lothar_After_Sparring_8078d893:
+    # "You kick into Lothar as hard as you can, apparently he didn't scream or yelp, just swallowed all of his pain..."
+    "你等不及洛萨尔说完，全力踹向了他的要害。"
+    "可一脚下去，他竟然连吭都没吭一声，默默咽下了所有痛楚……"
 
-#     # l "F-fuck..."
-#     l ""
+translate schinese Lothar_After_Sparring_380dcf6d:
 
-# translate schinese Lothar_After_Sparring_166bcab7:
+    # "However, you've felt something hard around his crotch, which is probably not his cock."
+    "你想起自己刚刚好像踹到了什么坚硬的东西，不像是鸡巴或者卵蛋的感觉。"
 
-#     # e "Lot...?"
-#     e ""
+translate schinese Lothar_After_Sparring_8078d893:
 
-# translate schinese Lothar_After_Sparring_abd2516e:
+    # l "F-fuck..."
+    l "嗷呜……"
 
-#     # e "Did you... have something inside...?"
-#     e ""
+translate schinese Lothar_After_Sparring_677bebdd:
 
-# translate schinese Lothar_After_Sparring_7af40e9f:
+    # e "Lot?"
+    e "洛萨尔，你裤裆里……？"
 
-#     # l "W-what?"
-#     l ""
+translate schinese Lothar_After_Sparring_8fd36fcc:
 
-# translate schinese Lothar_After_Sparring_eca20e2c:
+    # e "Did you, have something inside...?"
+    pass
 
-#     # e "Why did I feel something hard inside... of your crotch... Is it a protection?"
-#     e ""
+translate schinese Lothar_After_Sparring_7af40e9f:
 
-# translate schinese Lothar_After_Sparring_b22ac3e5:
+    # l "W-what?"
+    l "什、什么？"
 
-#     # l "No... It's done. There's nothing..."
-#     l ""
+translate schinese Lothar_After_Sparring_5aacd04a:
 
-# translate schinese Lothar_After_Sparring_aa863268:
+    # e "Why did I feel something hard right there. Is it a protection?"
+    e "我刚刚踹到一块硬硬的东西。难道你穿护具了？"
 
-#     # l "Go now..."
-#     l ""
+translate schinese Lothar_After_Sparring_f7ef7fca:
 
-# translate schinese Lothar_After_Sparring_9c599b09:
+    # l "No, It's done. There's nothing..."
+    l "没有，完事就赶紧给老子滚……"
 
-#     # e "Lot-!"
-#     e ""
+translate schinese Lothar_After_Sparring_aa863268:
 
-# translate schinese Lothar_After_Sparring_b56382c7:
+    # l "Go now..."
+    pass
 
-#     # l "Nothing is there, your bet is over. No more kick in the balls."
-#     l ""
+translate schinese Lothar_After_Sparring_9c599b09:
 
-# translate schinese Lothar_After_Sparring_618ee937:
+    # e "Lot-!"
+    e "洛萨尔！"
 
-#     # e "That was so lame..."
-#     e ""
+translate schinese Lothar_After_Sparring_b56382c7:
 
-# translate schinese Lothar_After_Sparring_3cb6854c:
+    # l "Nothing is there, your bet is over. No more kick in the balls."
+    l "我说没有就是没有。我已经兑现了承诺，你还想怎样。"
 
-#     # l "No, you are lame, I never promised to kick you in the balls, it was your idea."
-#     l ""
+translate schinese Lothar_After_Sparring_618ee937:
 
-# translate schinese Lothar_After_Sparring_90415a9c:
+    # e "That was so lame..."
+    e "这也太没意思了吧……"
 
-#     # l "It was your idea to ruin the fun, why the fuck can't you just bet gold like everyone else does!"
-#     l ""
+translate schinese Lothar_After_Sparring_3cb6854c:
 
-# translate schinese Lothar_After_Sparring_32f6128c:
+    # l "No, you are lame, I never promised to kick you in the balls, it was your idea."
+    l "不，你才太不够意思了。我从来没想过要踢你卵蛋，你竟敢先对我出言不逊。"
 
-#     # l "Fuck!"
-#     l ""
+translate schinese Lothar_After_Sparring_90415a9c:
 
-# translate schinese Lothar_After_Sparring_cdc562e3:
+    # l "It was your idea to ruin the fun, why the fuck can't you just bet gold like everyone else does!"
+    l "好好师徒一场被你弄成这样，为什么你就不能像别人一样赌钱！"
 
-#     # e "...Al-right..."
-#     e ""
+translate schinese Lothar_After_Sparring_32f6128c:
 
-# translate schinese Lothar_After_Sparring_c262973d:
+    # l "Fuck!"
+    l "妈的！"
 
-#     # l "Now fuck off, for real this time."
-#     l ""
+translate schinese Lothar_After_Sparring_5107fdea:
 
-# translate schinese Lothar_After_Sparring_e5417a53:
+    # e "Al-right..."
+    e "我……"
 
-#     # msg "You received 900 EXP and 1 level point!"
-#     msg ""
+translate schinese Lothar_After_Sparring_c262973d:
 
-# translate schinese Lothar_After_Sparring_91f1d522:
+    # l "Now fuck off, for real this time."
+    l "给老子滚，我不会再说第二遍。"
 
-#     # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
-#     msg ""
+translate schinese Lothar_After_Sparring_e5417a53:
+
+    # msg "You received 900 EXP and 1 level point!"
+    msg "你收获了 1000 经验值和 1 等级点。"
+
+translate schinese Lothar_After_Sparring_91f1d522:
+
+    # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
+    msg "你的等级已升至 [pc.level] 级！请进入背包界面分配新增属性点。"
 
 # translate schinese Lothar_Ask_Ole_Training_6ac55a38:
 
@@ -7071,800 +7086,888 @@ translate schinese strings:
 #     # e "Sure. Sure."
 #     e ""
 
-# translate schinese Lothar_Report_Dummy_0eb13776:
+translate schinese Lothar_Report_Dummy_0eb13776:
 
-#     # e "Lotharrrrrrr..."
-#     e ""
+    # e "Lotharrrrrrr..."
+    pass
 
-# translate schinese Lothar_Report_Dummy_fa8dbcbe:
+translate schinese Lothar_Report_Dummy_a72b1fea:
 
-#     # l "Huh...? Disciple...?"
-#     l ""
+    # l "Huh? Disciple...?"
+    pass
 
-# translate schinese Lothar_Report_Dummy_20ef04f4:
+translate schinese Lothar_Report_Dummy_f57f31e4:
 
-#     # e "I... I did it..."
-#     e ""
+    # e "I- I did it..."
+    e "我成功了！"
 
-# translate schinese Lothar_Report_Dummy_7cfd58c7:
+translate schinese Lothar_Report_Dummy_62e4ad02:
 
-#     # e "I defeated the dummy..."
-#     e ""
+    # e "I took down the dummy."
+    e "我打败了人偶！"
 
-# translate schinese Lothar_Report_Dummy_bcf0ca46:
+translate schinese Lothar_Report_Dummy_a140b037:
 
-#     # l "Oh... the dummy I told you to defeat...?"
-#     l ""
+    # l "Oh, the dummy I told you to defeat...?"
+    l "噢？没想到你还真有本事打败升级后的人偶。"
 
-# translate schinese Lothar_Report_Dummy_96b6e3e8:
+translate schinese Lothar_Report_Dummy_96b6e3e8:
 
-#     # l "You sure have proven yourself, disciple."
-#     l ""
+    # l "You sure have proven yourself, disciple."
+    l "着实令为师刮目相看啊，徒儿。"
 
-# translate schinese Lothar_Report_Dummy_8101a1ae:
+translate schinese Lothar_Report_Dummy_dff895f0:
 
-#     # e "All he did was just punching me..."
-#     e ""
+    # e "All he did was just punching me."
+    e "因为它打来打去也只会那一两招。"
 
-# translate schinese Lothar_Report_Dummy_77899306:
+translate schinese Lothar_Report_Dummy_657bbab3:
 
-#     # l "Well I didn't even expect you're gonna actually do it."
-#     l ""
+    # "Lothar gives you a satisfied grin."
+    "洛萨尔露出了满意的笑容。"
 
-# translate schinese Lothar_Report_Dummy_7cae614d:
+translate schinese Lothar_Report_Dummy_77899306:
 
-#     # l "I need to tell them about this..."
-#     l ""
+    # l "Well I didn't even expect you're gonna actually do it."
+    pass
 
-# translate schinese Lothar_Report_Dummy_acf8dda5:
+translate schinese Lothar_Report_Dummy_7cae614d:
 
-#     # l "Follow me."
-#     l ""
+    # l "I need to tell them about this..."
+    l "我得告诉他们这个好消息。"
 
-# translate schinese Lothar_Report_Dummy_35675f62:
+translate schinese Lothar_Report_Dummy_acf8dda5:
 
-#     # e "Huh...?"
-#     e ""
+    # l "Follow me."
+    l "跟我来。"
 
-# translate schinese Lothar_Report_Dummy_0a7d3955:
+translate schinese Lothar_Report_Dummy_35675f62:
 
-#     # "You see lothar smirks while he looks for Amble in the village."
-#     ""
+    # e "Huh...?"
+    e "嗯……？"
 
-# translate schinese Lothar_Report_Dummy_1ed383e8:
+translate schinese Lothar_Report_Dummy_0a7d3955:
 
-#     # "He seems to be very proud of your achievement... almost too proud."
-#     ""
+    # "You see lothar smirks while he looks for Amble in the village."
+    "洛萨尔春风满面的，领着你去找他的伙伴安布。"
 
-# translate schinese Lothar_Report_Dummy_733931f2:
+translate schinese Lothar_Report_Dummy_1ed383e8:
 
-#     # l "Hey, Amb, where's Jog."
-#     l ""
+    # "He seems to be very proud of your achievement... almost too proud."
+    "看来他对你这一番成就特别得意……甚至有点得意忘形了。"
 
-# translate schinese Lothar_Report_Dummy_6fb381f8:
+translate schinese Lothar_Report_Dummy_733931f2:
 
-#     # a "Out scouting... What's your puny friend doing here?"
-#     a ""
+    # l "Hey, Amb, where's Jog."
+    l "嘿，安布。乔格呢？"
 
-# translate schinese Lothar_Report_Dummy_dc91fbf8:
+translate schinese Lothar_Report_Dummy_a3fbfc05:
 
-#     # e "Well... I live in this place."
-#     e ""
+    # a "Out scouting."
+    a "他出村探风去了。"
 
-# translate schinese Lothar_Report_Dummy_e853a6a7:
+translate schinese Lothar_Report_Dummy_fc82aaf1:
 
-#     # l "I'd tell you but you won't believe stuff like this..."
-#     l ""
+    # "Amble says as he notices you."
+    "安布回答完便注意到洛萨尔身边的你。"
 
-# translate schinese Lothar_Report_Dummy_cb6d7537:
+translate schinese Lothar_Report_Dummy_2f6bdb39:
 
-#     # l "My disciple... he beat my advanced dummy."
-#     l ""
+    # a "Oh, puny friend. What are you doing here?"
+    a "嘿、小不点。你怎么也来了？"
 
-# translate schinese Lothar_Report_Dummy_1d373fde:
+translate schinese Lothar_Report_Dummy_65dec1d2:
 
-#     # a "Eh...? That's impossible."
-#     a ""
+    # e "Well, I live in this place."
+    e "呃，因为我住在乐村啊。洛萨尔正在带我训练。"
 
-# translate schinese Lothar_Report_Dummy_e1b2635c:
+translate schinese Lothar_Report_Dummy_1b2e908c:
 
-#     # l "Amb, it's time."
-#     l ""
+    # e "And I'm practising with Lothar."
+    pass
 
-# translate schinese Lothar_Report_Dummy_11ed37f0:
+translate schinese Lothar_Report_Dummy_0b74671d:
 
-#     # "You three walks towards the alleyway while the dummy stands there."
-#     ""
+    # "Amble nods with a sluggish smile."
+    "红熊安布点点头，笑脸憨厚。"
 
-# translate schinese Lothar_Report_Dummy_780872d3:
+translate schinese Lothar_Report_Dummy_54e05d5f:
 
-#     # "Amble walks towards the dummy and returns in defeat, it's apparent that you won against the dummy."
-#     ""
+    # l "I'd tell you but you won't believe stuff like this."
+    l "接下来的话信不信由你——"
 
-# translate schinese Lothar_Report_Dummy_6d1cf8da:
+translate schinese Lothar_Report_Dummy_cb6d7537:
 
-#     # l "How does it go...?"
-#     l ""
+    # l "My disciple... he beat my advanced dummy."
+    l "我的徒弟……打败了高难度人偶！"
 
-# translate schinese Lothar_Report_Dummy_b732ec66:
+translate schinese Lothar_Report_Dummy_7a5bec27:
 
-#     # a "...Well I didn't know this puny pal here has got some strength in it."
-#     a ""
+    # a "Eh...? That's impossible! It was ridiculously strong."
+    a "什么……？这不可能！调高难度之后它可是强得离谱啊。"
 
-# translate schinese Lothar_Report_Dummy_fde72e4c:
+translate schinese Lothar_Report_Dummy_1a1a3255:
 
-#     # l "Now hand me those 200 gold, Ambie."
-#     l ""
+    # a "Like the tailor doesn't even know how to adjust their proper strength."
+    a "就像做人偶的工匠忘了它是用来训练，而不是用来虐人的一样。"
 
-# translate schinese Lothar_Report_Dummy_3a4b8a9d:
+translate schinese Lothar_Report_Dummy_c86437e2:
 
-#     # a "Hmmmmmm...."
-#     a ""
+    # "Amble scratches his head with frustration."
+    "安布赶忙走向人偶所在的小巷亲自确认事实，你们则在巷口里面等他。"
 
-# translate schinese Lothar_Report_Dummy_340d7ff0:
+translate schinese Lothar_Report_Dummy_1ce663f5:
 
-#     # l "You gotta love seeing couriers get their ass trained by the best."
-#     l ""
+    # "Amble walks towards the dummy and he soon returns in defeat, it's apparent to him that you won against the dummy."
+    "过了一会，他垂头丧气地走回来，证明你并没有撒谎。"
 
-# translate schinese Lothar_Report_Dummy_99937969:
+translate schinese Lothar_Report_Dummy_6d1cf8da:
 
-#     # "You see Lothar smuggishly takes the gold from Amble."
-#     ""
+    # l "How does it go...?"
+    l "怎么样，哼？"
 
-# translate schinese Lothar_Report_Dummy_21b79367:
+translate schinese Lothar_Report_Dummy_427643a5:
 
-#     # e "H-hey... you guys were betting... if I will win?"
-#     e ""
+    # a "I didn't even know you can possibly do it. Even Lot can't beat it every time."
+    a "[e]，原来你这么厉害呀。连洛哥都没把握每次都能战胜它。"
 
-# translate schinese Lothar_Report_Dummy_a20faaac:
+translate schinese Lothar_Report_Dummy_fde72e4c:
 
-#     # a "Yeah, I suppose so."
-#     a ""
+    # l "Now hand me those 200 gold, Ambie."
+    l "两百金币，快点拿来吧。"
 
-# translate schinese Lothar_Report_Dummy_1f7d4b21:
+translate schinese Lothar_Report_Dummy_7ffeaa59:
 
-#     # e "And Lothar was betting for me?"
-#     e ""
+    # "Lothar exclaims, he seems to be getting more impatient with Amble."
+    "洛萨尔语气冷硬，像逼着安布给出这笔钱。"
 
-# translate schinese Lothar_Report_Dummy_2ec093d8:
+translate schinese Lothar_Report_Dummy_47897b65:
 
-#     # l "Don't get ahead of yourself, disciple. He was the one betting."
-#     l ""
+    # a "Hmmmmmm..."
+    a "呜……"
 
-# translate schinese Lothar_Report_Dummy_c380252c:
+translate schinese Lothar_Report_Dummy_fabfc4a9:
 
-#     # a "For sure I'd know your disciple could throw a few punch."
-#     a ""
+    # l "See? [e], great job at shutting up doubters, and earning me some gold."
+    l "看到没？辟谣赚钱两不误，干得漂亮[e]。"
 
-# translate schinese Lothar_Report_Dummy_54e86bd9:
+translate schinese Lothar_Report_Dummy_b660fe4e:
 
-#     # l "Heh..."
-#     l ""
+    # "Lothar says, as he smuggishly takes the gold from Amble."
+    "洛萨尔趾高气扬地接下了那袋金币。"
 
-# translate schinese Lothar_Report_Dummy_084dd8b2:
+translate schinese Lothar_Report_Dummy_b8809f23:
 
-#     # l "Amble here is angry that he lost his precious little beer money."
-#     l ""
+    # e "Were you guys betting if I will win?"
+    e "你们在赌我能不能赢过人偶？"
 
-# translate schinese Lothar_Report_Dummy_65ee5852:
+translate schinese Lothar_Report_Dummy_a20faaac:
 
-#     # e "Hmm... I see you two in the tavern every nigh-"
-#     e ""
+    # a "Yeah, I suppose so."
+    a "嗯，对啊。"
 
-# translate schinese Lothar_Report_Dummy_8c71b4d9:
+translate schinese Lothar_Report_Dummy_1f7d4b21:
 
-#     # l "So... Disciple... Let's get back to the lesson."
-#     l ""
+    # e "And Lothar was betting for me?"
+    e "洛萨尔提议的吧？"
 
-# translate schinese Lothar_Report_Dummy_27ee51a3:
+translate schinese Lothar_Report_Dummy_096e947f:
 
-#     # e "Lesson...? I thought I'm just here to fight a dummy..."
-#     e ""
+    # l "Don't get ahead of yourself, disciple. He was the one betting, I was the house."
+    l "别自作聪明，徒儿，是安布说要赌的。"
 
-# translate schinese Lothar_Report_Dummy_637accd7:
+translate schinese Lothar_Report_Dummy_edeafc5c:
 
-#     # l "Well Amble's here, look at him. perfect for an actual training dummy."
-#     l ""
+    # a "Fair is fair, our puny friend here can definitely throw a few punches."
+    a "愿赌服输，小不点本事大，我现在相信了。"
 
-# translate schinese Lothar_Report_Dummy_7dbd15f6:
+translate schinese Lothar_Report_Dummy_ae9845b6:
 
-#     # a "W-what?"
-#     a ""
+    # "Amble's strong body towers over you as he stares at you physiques, perhaps trying to make sense of your victory."
+    "魁梧的安布俯下身躯仔细打量着你，搞不明白你怎么赢过超强人偶的。"
 
-# translate schinese Lothar_Report_Dummy_99d32bcf:
+translate schinese Lothar_Report_Dummy_e105218d:
 
-#     # l "We had a deal..."
-#     l ""
+    # l "Heh."
+    l "呵。"
 
-# translate schinese Lothar_Report_Dummy_b27647b5:
+translate schinese Lothar_Report_Dummy_60904657:
 
-#     # "Amble let out a long sigh, before he turns to face Lothar."
-#     ""
+    # l "A few punches, yeah. Maybe under the best teaching in Mokken he can get nearly as good as I am."
+    l "[e]这打败人偶的本事，可是由全莫肯最厉害的大师教出来的。说不定再过一段时间，他就能成为仅次于我的战士。"
 
-# translate schinese Lothar_Report_Dummy_664ccb66:
+translate schinese Lothar_Report_Dummy_e4c77edf:
 
-#     # a "I should ask Jog to deal with this instead..."
-#     a ""
+    # l "Not saying he can ever surpass my level, but he can try."
+    l "徒儿，虽然你不可能超越为师，但希望你有超越为师的志向，明白了吗。"
 
-# translate schinese Lothar_Report_Dummy_82822a0c:
+translate schinese Lothar_Report_Dummy_d016efd2:
 
-#     # l "..."
-#     l ""
+    # "Lothar gives you a side glance."
+    "洛萨尔撇了你一眼，神气得不行。"
 
-# translate schinese Lothar_Report_Dummy_38f61fad:
+translate schinese Lothar_Report_Dummy_2f3a5017:
 
-#     # l "So, disciple. You see, I am the hero, and Amble is the monster in the scary forest."
-#     l ""
+    # l "So, let's get back to the lesson."
+    l "那么，回归正题——训练。"
 
-# translate schinese Lothar_Report_Dummy_9a3a06ab:
+translate schinese Lothar_Report_Dummy_55e01d33:
 
-#     # e "Lothar, I know this... already... I've been outsi-"
-#     e ""
+    # e "Lesson? I thought I'm just here to fight a dummy."
+    e "训练……？我以为打败人偶就算完了……"
 
-# translate schinese Lothar_Report_Dummy_8a378cfc:
+translate schinese Lothar_Report_Dummy_637accd7:
 
-#     # l "Well there's different actions you can do, against the monster."
-#     l ""
+    # l "Well Amble's here, look at him. perfect for an actual training dummy."
+    l "来，你看安布，像不像一个完美的训练人偶？"
 
-# translate schinese Lothar_Report_Dummy_0b1fb620:
+translate schinese Lothar_Report_Dummy_7dbd15f6:
 
-#     # l "...Amble?"
-#     l ""
+    # a "W-what?"
+    a "啊——啊？"
 
-# translate schinese Lothar_Report_Dummy_bb8e4b4e:
+translate schinese Lothar_Report_Dummy_d088f91b:
 
-#     # a "..."
-#     a ""
+    # l "We had a deal."
+    l "别忘了我们说好的……"
 
-# translate schinese Lothar_Report_Dummy_40307be8:
+translate schinese Lothar_Report_Dummy_0c8b9640:
 
-#     # "You can see Amble exhaling heavily... while Lothar is thoroughly enjoying the scene."
-#     ""
+    # "Amble pauses, he lets out a long sigh, before he turns to face Lothar."
+    "安布愣了一下，无奈地叹了口气，转身朝向洛萨尔。"
 
-# translate schinese Lothar_Report_Dummy_2199d2e0:
+translate schinese Lothar_Report_Dummy_7b18fe1e:
 
-#     # a "RAWWWWWWRRRRR-!!"
-#     a ""
+    # a "Deals' are deals. But make it quick."
+    a "好吧好吧，你快点。"
 
-# translate schinese Lothar_Report_Dummy_84cc342b:
+translate schinese Lothar_Report_Dummy_41fdb2d1:
 
-#     # "Amble raises his claws while pretending to shout like a monster."
-#     ""
+    # l "Don't you worry, lil Ambie, I will make your bet worthwhile."
+    l "别不高兴嘛安仔，我会补偿你的。"
 
-# translate schinese Lothar_Report_Dummy_18086866:
+translate schinese Lothar_Report_Dummy_73d4cb3e:
 
-#     # l "I'd have to beat him up to win this fight, figuratively."
-#     l ""
+    # "Lothar turns towards you, and he begins to explain."
+    "洛萨尔清清嗓子，正对着你开始讲解。"
 
-# translate schinese Lothar_Report_Dummy_d3ad978e:
+translate schinese Lothar_Report_Dummy_38f61fad:
 
-#     # l "There are two ways actually, you can beat him up... or beat him off..."
-#     l ""
+    # l "So, disciple. You see, I am the hero, and Amble is the monster in the scary forest."
+    l "听好了徒儿，现在安布是超级恐怖的大怪兽，而我是来打败怪兽的大英雄。"
 
-# translate schinese Lothar_Report_Dummy_44084635:
+translate schinese Lothar_Report_Dummy_e0d061f4:
 
-#     # a "Huh...?"
-#     a ""
+    # e "Lothar, I know this- already, I've been outsi-"
+    e "你已经教过我怎么战斗了，更不用说我已经来这里多少天——"
 
-# translate schinese Lothar_Report_Dummy_ebd21429:
+translate schinese Lothar_Report_Dummy_8a378cfc:
 
-#     # l "Come on... Amble."
-#     l ""
+    # l "Well there's different actions you can do, against the monster."
+    l "但我还没教你第二种战斗方式。"
 
-# translate schinese Lothar_Report_Dummy_56aee83b:
+translate schinese Lothar_Report_Dummy_7236ee85:
 
-#     # l "Just a little touch, won't hurt."
-#     l ""
+    # l "Amble?"
+    l "安仔？"
 
-# translate schinese Lothar_Report_Dummy_dc95485b:
+translate schinese Lothar_Report_Dummy_c617e5a3:
 
-#     # a "Fuck you and your bet, Lot..."
-#     a ""
+    # "You can see Amble exhaling heavily, while Lothar is thoroughly enjoying the scene."
+    "安布深吸一口气，模仿着怪兽发出嘶吼，举起了锋利的熊爪。"
 
-# translate schinese Lothar_Report_Dummy_b3a79b5a:
+translate schinese Lothar_Report_Dummy_2199d2e0:
 
-#     # e "Uhmmm...."
-#     e ""
+    # a "RAWWWWWWRRRRR-!!"
+    a "吼啊啊啊啊啊啊——！！"
 
-# translate schinese Lothar_Report_Dummy_6798bf7b:
+translate schinese Lothar_Report_Dummy_84cc342b:
 
-#     # "Lothar approaches Amble, who is standing there, reluctantly lettiing Lothar touch him on the chest."
-#     ""
+    # "Amble raises his claws while pretending to shout like a monster."
+    "洛萨尔则在一旁饶有趣味地看着这场表演。"
 
-# translate schinese Lothar_Report_Dummy_9c3e9e66:
+translate schinese Lothar_Report_Dummy_18086866:
 
-#     # l "Well, long time no see, buddy... you got a little... beefier... your chest... are you happy to see me?"
-#     l ""
+    # l "I'd have to beat him up to win this fight, figuratively."
+    pass
 
-# translate schinese Lothar_Report_Dummy_76acbd9c:
+translate schinese Lothar_Report_Dummy_251bb90a:
 
-#     # a "St-top this nonsense or get it over with, quickly..."
-#     a ""
+    # l "There are two ways actually, you can beat him up, or beat him off."
+    l "想要把你的敌人收拾得落花流水，你既可以干掉他，也可以干翻他。"
 
-# translate schinese Lothar_Report_Dummy_061d0519:
+translate schinese Lothar_Report_Dummy_09db9eaf:
 
-#     # "Lothar's claw wanders across Amble's front, he gropes at his plump chest, trying to get a reaction out of the lumberjack."
-#     ""
+    # a "Huh?"
+    a "啊？"
 
-# translate schinese Lothar_Report_Dummy_34296285:
+translate schinese Lothar_Report_Dummy_b77991e1:
 
-#     # "Evidently, his attempt at flirting worked as the bulge in Amble's underwear seem to only grow larger by each second."
-#     ""
+    # l "Come on, Amble."
+    l "别怕，我就动你一下下。"
 
-# translate schinese Lothar_Report_Dummy_ec5e9b7e:
+translate schinese Lothar_Report_Dummy_56aee83b:
 
-#     # "If it's not noticeable already."
-#     ""
+    # l "Just a little touch, won't hurt."
+    pass
 
-# translate schinese Lothar_Report_Dummy_bdc2c955:
+translate schinese Lothar_Report_Dummy_b3a79b5a:
 
-#     # l "Disciple, what do you do with the monster, if you are too weak to beat them properly..."
-#     l ""
+    # e "Uhmmm...."
+    e "呃呃呃……"
 
-# translate schinese Lothar_Report_Dummy_2b7cd087:
+translate schinese Lothar_Report_Dummy_6798bf7b:
 
-#     # e "Hmm... I think escap-"
-#     e ""
+    # "Lothar approaches Amble, who is standing there, reluctantly lettiing Lothar touch him on the chest."
+    "洛萨尔伸手摸上对方胸膛。安布站定原地，浑身僵直地忍耐着。"
 
-# translate schinese Lothar_Report_Dummy_31cb6335:
+translate schinese Lothar_Report_Dummy_264173b0:
 
-#     # l "Kiss them."
-#     l ""
+    # l "Well, long time no see, buddy you got a little... beefier... your chest... are you happy to see me?"
+    l "好兄弟，几日不见……你又变壮了……见到我你开心吗？"
 
-# translate schinese Lothar_Report_Dummy_336ad209:
+translate schinese Lothar_Report_Dummy_d0ebbd21:
 
-#     # "Lothar suddenly pushes himself against Amble, their lips easily touches."
-#     ""
+    # a "I... uh-m. RAWWWWR-R!"
+    a "我……呃，吼啊啊啊啊啊啊！"
 
-# translate schinese Lothar_Report_Dummy_569bc080:
+translate schinese Lothar_Report_Dummy_061d0519:
 
-#     # "Amble wraps his arms around Lothar's back, while Lothar continues to explore his front, rubbing against his sensitive nipples."
-#     ""
+    # "Lothar's claw wanders across Amble's front, he gropes at his plump chest, trying to get a reaction out of the lumberjack."
+    "洛萨尔两只狼爪揉搓、把玩着安布厚实的胸脯，试图激起这个大块头的反应。"
 
-# translate schinese Lothar_Report_Dummy_2c79793d:
+translate schinese Lothar_Report_Dummy_34296285:
 
-#     # "You can see Lothar's tongue entering Amble's mouth, sharing saliva as they continue to passionately kiss in front of you."
-#     ""
+    # "Evidently, his attempt at flirting worked as the bulge in Amble's underwear seem to only grow larger by each second."
+    "安布内裤逐渐勾勒出肉棒的形状，令原本惹眼的大包变得更加吸睛。"
 
-# translate schinese Lothar_Report_Dummy_bae0f63f:
+translate schinese Lothar_Report_Dummy_ec5e9b7e:
 
-#     # "The alleyway begins to fill with noise of Lothar and Amble's moans, they're certainly very into this..."
-#     ""
+    # "If it's not noticeable already."
+    pass
 
-# translate schinese Lothar_Report_Dummy_a20cefa7:
+translate schinese Lothar_Report_Dummy_bdc2c955:
 
-#     # "..."
-#     ""
+    # l "Disciple, what do you do with the monster, if you are too weak to beat them properly..."
+    l "徒儿，如果你没力气与怪兽肉搏了，你会怎么做？"
 
-# translate schinese Lothar_Report_Dummy_4263f24c:
+translate schinese Lothar_Report_Dummy_2b7cd087:
 
-#     # "Lothar wants to advance on groping at Amble's crotch, but Amble holds on to his arm tightly."
-#     ""
+    # e "Hmm... I think escap-"
+    e "唔……我会逃——"
 
-# translate schinese Lothar_Report_Dummy_da1f6de0:
+translate schinese Lothar_Report_Dummy_31cb6335:
 
-#     # "The act suddenly reminds them of your presence... watching both of them kissing..."
-#     ""
+    # l "Kiss them."
+    l "亲上去。"
 
-# translate schinese Lothar_Report_Dummy_adb8e931:
+translate schinese Lothar_Report_Dummy_336ad209:
 
-#     # "Admittedly you've grown a huge boner down there, you try to hide it but the two companions has already noticed it."
-#     ""
+    # "Lothar suddenly pushes himself against Amble, their lips easily touches."
+    "你的师傅突然将身子压向“怪兽”，就这么吻对吻亲了上去。同时还不忘继续挤着胸肌，不停用爪指刮擦那对敏感的乳头。"
 
-# translate schinese Lothar_Report_Dummy_548c6672:
+translate schinese Lothar_Report_Dummy_569bc080:
 
-#     # l "So... that's how you defeat a monster."
-#     l ""
+    # "Amble wraps his arms around Lothar's back, while Lothar continues to explore his front, rubbing against his sensitive nipples."
+    "安布看起来有些忘情，他张开双臂环抱住洛萨尔。"
 
-# translate schinese Lothar_Report_Dummy_39eb1ea6:
+translate schinese Lothar_Report_Dummy_2c79793d:
 
-#     # l "Amble, do your thing."
-#     l ""
+    # "You can see Lothar's tongue entering Amble's mouth, sharing saliva as they continue to passionately kiss in front of you."
+    "洛萨尔紧接着将舌头伸进了安布嘴里，互相交换起唾液。犬牙间的缠绵都给你展示得清清楚楚。"
 
-# translate schinese Lothar_Report_Dummy_9ed06834:
+translate schinese Lothar_Report_Dummy_bae0f63f:
 
-#     # a "Eh? Oh... Right..."
-#     a ""
+    # "The alleyway begins to fill with noise of Lothar and Amble's moans, they're certainly very into this..."
+    "狭小的巷子内回响着吸吮声和呻吟声，他们对这场戏异常投入……"
 
-# translate schinese Lothar_Report_Dummy_503d1c5d:
+translate schinese Lothar_Report_Dummy_a20cefa7:
 
-#     # a "AHHHHH! I'M SO HORNY NOW, I'LL LOSE MY FIGHT NOW, PLEASE FUCK MY ASS."
-#     a ""
+    # "..."
+    "……"
 
-# translate schinese Lothar_Report_Dummy_72a33094:
+translate schinese Lothar_Report_Dummy_4263f24c:
 
-#     # e "..."
-#     e ""
+    # "Lothar wants to advance on groping at Amble's crotch, but Amble holds on to his arm tightly."
+    "洛萨尔想进一步抓住那顶大帐蓬，但安布紧紧攥着他的手腕不让他继续。"
 
-# translate schinese Lothar_Report_Dummy_bb8e4b4e_1:
+translate schinese Lothar_Report_Dummy_4f107a90:
 
-#     # a "..."
-#     a ""
+    # "The act suddenly reminds them of your presence... watching both of them kissing."
+    "突然的抵抗让两个人都清醒了过来，意识到你还在他们身边……旁观这充满激情的热吻。"
 
-# translate schinese Lothar_Report_Dummy_e4737ffb:
+translate schinese Lothar_Report_Dummy_adb8e931:
 
-#     # a "This is just a demonstration... [e]. I'm not actually..."
-#     a ""
+    # "Admittedly you've grown a huge boner down there, you try to hide it but the two companions has already noticed it."
+    "洛萨尔和安布双双看向你，令你手忙脚乱地拿手遮住凸起的裤裆，但还是被他们看到了。"
 
-# translate schinese Lothar_Report_Dummy_75db9137:
+translate schinese Lothar_Report_Dummy_aff8bdee:
 
-#     # l "Alright Amb... then that's it..."
-#     l ""
+    # l "So- that's how you defeat a monster."
+    l "以上就是打败敌人的第二种方式。"
 
-# translate schinese Lothar_Report_Dummy_bfcb2f5f:
+translate schinese Lothar_Report_Dummy_39eb1ea6:
 
-#     # a "...Well, I'll get back to work. Good luck with your disciple."
-#     a ""
+    # l "Amble, do your thing."
+    l "安仔？"
 
-# translate schinese Lothar_Report_Dummy_7e2f42e4:
+translate schinese Lothar_Report_Dummy_9ed06834:
 
-#     # l "Be seeing you and Jog same place tonight."
-#     l ""
+    # a "Eh? Oh... Right..."
+    a "诶？噢……好。"
 
-# translate schinese Lothar_Report_Dummy_687c74ef:
+translate schinese Lothar_Report_Dummy_503d1c5d:
 
-#     # "Amble walks away, tugging at his underwear while, waving his hand back at you two."
-#     ""
+    # a "AHHHHH! I'M SO HORNY NOW, I'LL LOSE MY FIGHT NOW, PLEASE FUCK MY ASS."
+    a "啊啊啊啊！我好饥渴，我已经没有战斗的意志了，快肏我，求您了。"
 
-# translate schinese Lothar_Report_Dummy_72a33094_1:
+translate schinese Lothar_Report_Dummy_72a33094:
 
-#     # e "..."
-#     e ""
+    # e "..."
+    e "……"
 
-# translate schinese Lothar_Report_Dummy_b32ac1e5:
+translate schinese Lothar_Report_Dummy_bb8e4b4e:
 
-#     # l "...What?"
-#     l ""
+    # a "..."
+    a "……"
 
-# translate schinese Lothar_Report_Dummy_25d99305:
+translate schinese Lothar_Report_Dummy_70f71e82:
 
-#     # "You can see Lothar snickers while licking his lips."
-#     ""
+    # "Your glance and Amble's meet at the worst time possible."
+    "你和安布面面相觑，两个人都尴尬极了。"
 
-# translate schinese Lothar_Report_Dummy_b61fa4e4:
+translate schinese Lothar_Report_Dummy_5a108a0a:
 
-#     # e "Are you two... in love?"
-#     e ""
+    # a "This is just a demonstration, [e]. I'm not actually-"
+    a "[e]，这只是一次示范，其实我没有——"
 
-# translate schinese Lothar_Report_Dummy_f29dbd15:
+translate schinese Lothar_Report_Dummy_722d7c89:
 
-#     # l "What? this is just brothers being brothers. We practised kissing like all the time."
-#     l ""
+    # l "Alright Amb- then that's it."
+    l "好了好了，谢谢安仔为我们扮演怪兽，谢谢，谢谢。"
 
-# translate schinese Lothar_Report_Dummy_80463d20:
+translate schinese Lothar_Report_Dummy_dd04f79f:
 
-#     # e "Practised... Kissing?"
-#     e ""
+    # a "Well, I'll get back to work. Good luck with your disciple."
+    a "好吧，我回去干活了。祝你们训练顺利。"
 
-# translate schinese Lothar_Report_Dummy_0d4a452f:
+translate schinese Lothar_Report_Dummy_7e2f42e4:
 
-#     # l "Well, for an all-rounded fighter like me... you do need some specialised battle training."
-#     l ""
+    # l "Be seeing you and Jog same place tonight."
+    l "今晚和乔格老地方见。"
 
-# translate schinese Lothar_Report_Dummy_50afd1d4:
+translate schinese Lothar_Report_Dummy_687c74ef:
 
-#     # e "Uhm..."
-#     e ""
+    # "Amble walks away, tugging at his underwear while, waving his hand back at you two."
+    "安布扯了扯内裤，朝你们挥挥手便离开了。"
 
-# translate schinese Lothar_Report_Dummy_70ba85f3:
+translate schinese Lothar_Report_Dummy_72a33094_1:
 
-#     # l "So, this is how flirting works, if you're inclined to flirt with a monster, or enemy in general."
-#     l ""
+    # e "..."
+    e "……"
 
-# translate schinese Lothar_Report_Dummy_67702ae0:
+translate schinese Lothar_Report_Dummy_6b342fbf:
 
-#     # e "I still can't believe you would flirt... like this."
-#     e ""
+    # l "What?"
+    l "怎么？"
 
-# translate schinese Lothar_Report_Dummy_7fe2fcf1:
+translate schinese Lothar_Report_Dummy_25d99305:
 
-#     # l "To become a heroic hero like me, you need to sacrifice... well... being too protected."
-#     l ""
+    # "You can see Lothar snickers while licking his lips."
+    "洛萨尔舔了舔嘴唇，暗暗窃笑。"
 
-# translate schinese Lothar_Report_Dummy_4fee36cd:
+translate schinese Lothar_Report_Dummy_4adc2b35:
 
-#     # e "Alright... I guess. What are you planning now?"
-#     e ""
+    # e "Are you two, in love?"
+    e "你们两个，是不是在谈恋爱啊？"
 
-# translate schinese Lothar_Report_Dummy_586a6c9a:
+translate schinese Lothar_Report_Dummy_a2efc119:
 
-#     # l "Sparring... you and me..."
-#     l ""
+    # l "What? this is just brothers being brothers. We practised kissing like that all the time."
+    l "鬼扯！我和安布只是战友情，我们一直都是这样练习亲嘴技巧的。"
 
-# translate schinese Lothar_Report_Dummy_06f69fc2:
+translate schinese Lothar_Report_Dummy_6336353a:
 
-#     # l "I have to see how you actually fight, one way or another, no question..."
-#     l ""
+    # e "Practised- Kissing?"
+    e "练习亲嘴？"
 
-# translate schinese Lothar_Report_Dummy_d231db56:
+translate schinese Lothar_Report_Dummy_d98a05fc:
 
-#     # e "Sure... I guess I should learn more from you if I can see how you fight..."
-#     e ""
+    # l "Well, for an all-rounded fighter like me... it's no secret you need some specialised battle training."
+    l "为师作为举世无双的全能型天才战士……有时来点独门特训不足为奇。"
 
-# translate schinese Lothar_Report_Dummy_bddb2bd6:
+translate schinese Lothar_Report_Dummy_50afd1d4:
 
-#     # l "Look, treat it like a bet, with huge stakes. If you lose to me... you'd have to pay me 500 gold."
-#     l ""
+    # e "Uhm..."
+    e "呃呃呃……"
 
-# translate schinese Lothar_Report_Dummy_c85d8184:
+translate schinese Lothar_Report_Dummy_70ba85f3:
 
-#     # e "What happens if you lose to me then?"
-#     e ""
+    # l "So, this is how flirting works, if you're inclined to flirt with a monster, or enemy in general."
+    l "所以，诱惑对手，你学会了吗？这招对大多数怪兽和敌人都管用。"
 
-# translate schinese Lothar_Report_Dummy_7b37fac0:
+translate schinese Lothar_Report_Dummy_2411986e:
 
-#     # l "Ah...I'll let you... think... disciple."
-#     l ""
+    # e "I still can't believe you would flirt like this."
+    e "我还是很难相信你是这样诱惑别人的。"
 
-# translate schinese Lothar_Report_Dummy_a7f2f44e:
+translate schinese Lothar_Report_Dummy_338ad25b:
 
-#     # l "That would be a big 'if'... that I would happen to lose to my disciple. But I'll let you dream on... Heh..." nointeract
-#     l "" nointeract
+    # l "Do I look like I'd flirt with actual kissing?"
+    l "要在性命攸关的战斗中取胜，自然要使出浑身解数。"
+    l "你以为我真想和我的对手接吻吗？"
 
-# translate schinese Lothar_Report_Dummy_098611b1:
+translate schinese Lothar_Report_Dummy_d4450c55:
 
-#     # e "Same thing. 500 Gold."
-#     e ""
+    # e "W-wait, you just said you practised flirting all the time."
+    e "可你刚刚才说你一直都在练习亲嘴。"
 
-# translate schinese Lothar_Report_Dummy_0f072fe9:
+translate schinese Lothar_Report_Dummy_020ce612:
 
-#     # l "Uhm... Are you underestimating me?"
-#     l ""
+    # l "Practices are not real battles! You need to get your facts straight, disciple."
+    l "练习不是实战！给我好好分清楚这两码事，逆徒。"
 
-# translate schinese Lothar_Report_Dummy_df901644:
+translate schinese Lothar_Report_Dummy_19e2c578:
 
-#     # e "W-what? isn't this how bet works, we bet with the same money...?"
-#     e ""
+    # "Lothar shouts, his face is getting red as he quickly explains himself."
+    "洛萨尔满脸通红，大吼大叫地急着为自己辩解。"
 
-# translate schinese Lothar_Report_Dummy_4d87ea38:
+translate schinese Lothar_Report_Dummy_f2d713a9:
 
-#     # l "Obviously, I'm stronger than you. So, the odds should favour me, by a huge margin."
-#     l ""
+    # e "So, your pratices aren't for real battles?"
+    e "所以你的练习并不是为了实战咯，那是为了什么呢？"
 
-# translate schinese Lothar_Report_Dummy_4a9dd578:
+translate schinese Lothar_Report_Dummy_a939b20d:
 
-#     # e "...You want me to get more gold if I win?"
-#     e ""
+    # l "NO! Stop this nonsense or I'll be the one teaching you a lesson."
+    l "闭嘴！再胡搅蛮缠别怪我扁你。"
 
-# translate schinese Lothar_Report_Dummy_28b4d46d:
+translate schinese Lothar_Report_Dummy_78a9edcb:
 
-#     # l "I want you to give more respect for the hero, you really think you can beat me?"
-#     l ""
+    # e "Alright I guess. What are you planning now?"
+    e "好吧。那接下来我们要做什么？"
 
-# translate schinese Lothar_Report_Dummy_a6865b28:
+translate schinese Lothar_Report_Dummy_b994df3c:
 
-#     # l "Fighting you... well- this was just a demonstration sparring, to show you how strong I am."
-#     l ""
+    # l "Sparring, you and me."
+    l "我们要来一对一比武。"
 
-# translate schinese Lothar_Report_Dummy_bf6f0d3d:
+translate schinese Lothar_Report_Dummy_2075810f:
 
-#     # e "A-alright..."
-#     e ""
+    # l "I have to see how you actually fight, one way or another, no question asked."
+    l "我得亲眼看看你是怎么战斗的，动刀、色诱都行。"
+    l "唯独不许拒绝我。"
 
-# translate schinese Lothar_Report_Dummy_58e762cd:
+translate schinese Lothar_Report_Dummy_1bf4323f:
 
-#     # e "C-can... I do the same thing... you did to Amble?"
-#     e ""
+    # e "Sure, I can learn more from you if I can see how you actually fight."
+    e "好啊，这样我也能知道你是怎么战斗的，可比打人偶学到的东西多多了。"
 
-# translate schinese Lothar_Report_Dummy_203ed93a:
+translate schinese Lothar_Report_Dummy_83ac54ef:
 
-#     # l "What... you want me to handle your chest?"
-#     l ""
+    # l "Look, treat it like a bet, with huge stakes. If you lose to me, you'd have to pay me 500 gold."
+    l "还有，我们来赌一场大的，这样你才会认真对待。"
+    l "要是你输了，就得给我五百枚金币。"
 
-# translate schinese Lothar_Report_Dummy_107914f4:
+translate schinese Lothar_Report_Dummy_c85d8184:
 
-#     # e "...Uhm..."
-#     e ""
+    # e "What happens if you lose to me then?"
+    e "那假如你输了呢？"
 
-# translate schinese Lothar_Report_Dummy_b32ac1e5_1:
+translate schinese Lothar_Report_Dummy_90ebddd7:
 
-#     # l "...What?"
-#     l ""
+    # "Lothar chuckles, he doesn't seem to have faith in you winning."
+    "洛萨尔大笑，压根不信你能打败他。"
 
-# translate schinese Lothar_Report_Dummy_10ec0228:
+translate schinese Lothar_Report_Dummy_1b515a51:
 
-#     # e "T-the opposite..."
-#     e ""
+    # l "Well, you should be the one who decide, disciple."
+    l "决定权在你，不知天高地厚的徒儿，哼哼哼哼。"
 
-# translate schinese Lothar_Report_Dummy_b654cdbf:
+translate schinese Lothar_Report_Dummy_c09f3b53:
 
-#     # l "Why... should I let you... touch me..."
-#     l ""
+    # l "That would be a big 'if', that I would happen to lose to my disciple. But I'll let you dream on, Heh..." nointeract
+    l "说吧，你想要什么，今天我允许你做一次白日梦。" nointeract
 
-# translate schinese Lothar_Report_Dummy_50afd1d4_1:
+translate schinese strings:
 
-#     # e "Uhm..."
-#     e ""
+    old "500 Gold"
+    new "拿他五百金币"
 
-# translate schinese Lothar_Report_Dummy_8924e8d0:
+    old "Grope Lothar like he did with Amble"
+    new "玩他胸肌"
 
-#     # e "Maybe... to learn from your physique?"
-#     e ""
+    old "Kick him in the nuts once"
+    new "踢他睾丸"
 
-# translate schinese Lothar_Report_Dummy_44287097:
+translate schinese Lothar_Report_Dummy_098611b1:
 
-#     # l "Ugh... Alright..."
-#     l ""
+    # e "Same thing. 500 Gold."
+    e "我也要你五百金币。"
 
-# translate schinese Lothar_Report_Dummy_352b0bd2:
+translate schinese Lothar_Report_Dummy_34872447:
 
-#     # l "It's not like you can actually win against the hero right here."
-#     l ""
+    # l "Uhm... Are you underestimating my power?"
+    l "啧……小看为师是吧？"
 
-# translate schinese Lothar_Report_Dummy_e7b281a4:
+translate schinese Lothar_Report_Dummy_e6c0c700:
 
-#     # e "I'll try my best."
-#     e ""
+    # e "W-what? isn't this how bet works, we bet with the same money?"
+    e "哈？下赌通常不都是赌一样的吗？"
 
-# translate schinese Lothar_Report_Dummy_99059bfa:
+translate schinese Lothar_Report_Dummy_4d87ea38:
 
-#     # l "Yeah, try... try your breast instead... Heh..."
-#     l ""
+    # l "Obviously, I'm stronger than you. So, the odds should favour me, by a huge margin."
+    l "我可是谁，要是赔率相等对你也太不公平了。"
 
-# translate schinese Lothar_Report_Dummy_faa7d97b:
+translate schinese Lothar_Report_Dummy_4a9dd578:
 
-#     # e "Hmm..."
-#     e ""
+    # e "...You want me to get more gold if I win?"
+    e "……所以你想让我赢走更多金币？"
 
-# translate schinese Lothar_Report_Dummy_5bbe5355:
+translate schinese Lothar_Report_Dummy_28b4d46d:
 
-#     # e "I think I should kick you... in the nuts."
-#     e ""
+    # l "I want you to give more respect for the hero, you really think you can beat me?"
+    l "我想让你学会尊重英雄。还有，你真觉得自己能打败我？"
 
-# translate schinese Lothar_Report_Dummy_81b543c0:
+translate schinese Lothar_Report_Dummy_a6865b28:
 
-#     # l "...No...What's wrong with you, and your fascination of my nuts..."
-#     l ""
+    # l "Fighting you... well- this was just a demonstration sparring, to show you how strong I am."
+    l "这次对战——对练不仅要你学到真本领，更要你见识清楚你师傅有多厉害。"
 
-# translate schinese Lothar_Report_Dummy_f4bd52f4:
+translate schinese Lothar_Report_Dummy_7115ea73:
 
-#     # e "I just thought Sebas did it too..."
-#     e ""
+    # e "A-alright."
+    e "好……好的。"
 
-# translate schinese Lothar_Report_Dummy_61181a5d:
+translate schinese Lothar_Report_Dummy_dde0a491:
 
-#     # l "That's not my point! Why would I let you kick me in the balls..."
-#     l ""
+    # e "C-can, I do the same thing you did to Amble?"
+    e "我——我也想要你对安布那样。"
 
-# translate schinese Lothar_Report_Dummy_5002f649:
+translate schinese Lothar_Report_Dummy_f7345534:
 
-#     # l "Especially after that fucker of a lion fucked up my meat..."
-#     l ""
+    # l "What, you want me to handle your chest?"
+    l "怎么，你也想被玩胸？"
 
-# translate schinese Lothar_Report_Dummy_cda16daa:
+translate schinese Lothar_Report_Dummy_50afd1d4_1:
 
-#     # e "Can I sooth it...?"
-#     e ""
+    # e "Uhm..."
+    e "唔……"
 
-# translate schinese Lothar_Report_Dummy_a49632d4:
+translate schinese Lothar_Report_Dummy_6b342fbf_1:
 
-#     # l "No..."
-#     l ""
+    # l "What?"
+    l "嗯？"
 
-# translate schinese Lothar_Report_Dummy_67c3a57f:
+translate schinese Lothar_Report_Dummy_d9f378d4:
 
-#     # l "Disciple, you just reminded me that you sided with the lion..."
-#     l ""
+    # e "T-the opposite?"
+    e "反过来可以吗？"
 
-# translate schinese Lothar_Report_Dummy_4e753257:
+translate schinese Lothar_Report_Dummy_9c6788f3:
 
-#     # l "For that, I'll beat you so hard, you shall give me 1000 gold instead."
-#     l ""
+    # "Lothar pauses, until he actually realises what's happening."
+    "洛萨尔瞬间愣住，才明白了你什么意思。"
 
-# translate schinese Lothar_Report_Dummy_d0b8d3fa:
+translate schinese Lothar_Report_Dummy_32c73e95:
 
-#     # l "Huh...are you trying to avenge your little lion...?"
-#     l ""
+    # l "Why should I let you touch me."
+    l "我凭什么让你碰我。"
 
-# translate schinese Lothar_Report_Dummy_ad87b694:
+translate schinese Lothar_Report_Dummy_11363458:
 
-#     # l "And I thought you were on my side, disciple."
-#     l ""
+    # e "Maybe to learn from your physique?"
+    e "就当见识见识师傅身体有多强壮嘛？"
 
-# translate schinese Lothar_Report_Dummy_d8fdf775:
+translate schinese Lothar_Report_Dummy_faec1086:
 
-#     # e "I just wanted to kick... you..."
-#     e ""
+    # l "Ugh, Alright."
+    l "呃啊，好吧。"
 
-# translate schinese Lothar_Report_Dummy_168f3dd2:
+translate schinese Lothar_Report_Dummy_352b0bd2:
 
-#     # l "What's wrong with you, and your fascination of my nuts..."
-#     l ""
+    # l "It's not like you can actually win against the hero right here."
+    l "反正英雄只会从一个胜利走向另一个胜利。"
 
-# translate schinese Lothar_Report_Dummy_456be4e0:
+translate schinese Lothar_Report_Dummy_e7b281a4:
 
-#     # l "I've never met people like you, with such audacity to argue with your hero..."
-#     l ""
+    # e "I'll try my best."
+    e "我会全力以赴打败你的。"
 
-# translate schinese Lothar_Report_Dummy_ebfeafd7:
+translate schinese Lothar_Report_Dummy_6a14a25f:
 
-#     # l "I saved you from the golem, it could've killed you easy if it wasn't for me."
-#     l ""
+    # l "Yeah, well try- try your breast instead, Heh..."
+    l "哼，你不如全力以赴色诱我吧，呵呵……"
 
-# translate schinese Lothar_Report_Dummy_50afd1d4_2:
+translate schinese Lothar_Report_Dummy_5bbe5355:
 
-#     # e "Uhm..."
-#     e ""
+    # e "I think I should kick you... in the nuts."
+    e "我想……踢你蛋蛋。"
 
-# translate schinese Lothar_Report_Dummy_36a325dd:
+translate schinese Lothar_Report_Dummy_ddf6c0b4:
 
-#     # e "So... do I get to kick you?"
-#     e ""
+    # l "No...What's wrong with you, and your fascination with my nuts..."
+    l "不行！你为什么要缠着我的卵蛋不放，你是不是有病！"
 
-# translate schinese Lothar_Report_Dummy_5cb6c0b2:
+translate schinese Lothar_Report_Dummy_f4bd52f4:
 
-#     # l "Alright, but it's not like you can actually win against the hero right here."
-#     l ""
+    # e "I just thought Sebas did it too..."
+    e "阿塞都踢过了，多我一脚不多……"
 
-# translate schinese Lothar_Report_Dummy_6d392908:
+translate schinese Lothar_Report_Dummy_3f28aa44:
 
-#     # l "I mean, I've got over 2 decades of fighter training."
-#     l ""
+    # l "That's not my point! Why would I let you kick me in the balls."
+    l "那又怎样！我凭什么给你踢我命根子。"
 
-# translate schinese Lothar_Report_Dummy_e59ae9c9:
+translate schinese Lothar_Report_Dummy_1ae28f62:
 
-#     # l "It's totally alright for you to be just a little intimidated."
-#     l ""
+    # l "Especially after that fucker of a lion fucked up my meat."
+    l "上回你同意笨猫踢我卵蛋，到现在还在隐隐作痛。"
 
-# translate schinese Lothar_Report_Dummy_71009de7:
+translate schinese Lothar_Report_Dummy_ca5014c5:
 
-#     # e "I get it..."
-#     e ""
+    # e "Can I soothe it...?"
+    e "那我能帮你按摩那里……缓解一下痛吗？"
 
-# translate schinese Lothar_Report_Dummy_9d8596d6:
+translate schinese Lothar_Report_Dummy_1849f6d2:
 
-#     # l "Anyways... are you ready?"
-#     l ""
+    # l "No."
+    l "也不行！"
 
-# translate schinese Lothar_Report_Dummy_2697bf52:
+translate schinese Lothar_Report_Dummy_aee2cbe6:
 
-#     # l "For our legendary sparring... of course." nointeract
-#     l "" nointeract
+    # l "Disciple, you just reminded me that you sided with the lion."
+    l "逆徒，我才想起你和笨猫是一伙的。"
 
-# translate schinese Lothar_Report_Dummy_8d246e37:
+translate schinese Lothar_Report_Dummy_4e753257:
 
-#     # e "Yes... I'm ready."
-#     e ""
+    # l "For that, I'll beat you so hard, you shall give me 1000 gold instead."
+    l "气死我了，我要把你打得屁股开花。不能五百金币就算，你得给我一千枚金币。"
 
-# translate schinese Lothar_Report_Dummy_27301543:
+translate schinese Lothar_Report_Dummy_0776e1a4:
 
-#     # e "No... I still have to prepare... so tired... after beating the dummy."
-#     e ""
+    # l "Huh, are you trying to avenge your little lion?"
+    l "哼？你想替那只笨猫报仇吗？"
 
-# translate schinese Lothar_Report_Dummy_b7073b34:
+translate schinese Lothar_Report_Dummy_ad87b694:
 
-#     # l "Alright... alright, go ask your little lizard friend for tips or something."
-#     l ""
+    # l "And I thought you were on my side, disciple."
+    l "背叛为师可没好果子吃，逆徒。"
 
-# translate schinese Lothar_Report_Dummy_cb6c9e4e:
+translate schinese Lothar_Report_Dummy_4985a718:
 
-#     # l "You can't win against me anyhow."
-#     l ""
+    # e "I just wanted to kick you..."
+    e "这是我自己的愿望……"
 
-# translate schinese Lothar_Report_Dummy_b11a39b2:
+translate schinese Lothar_Report_Dummy_168f3dd2:
 
-#     # e "Uhm... we're just sparring... right?"
-#     e ""
+    # l "What's wrong with you, and your fascination of my nuts..."
+    l "什么？你有病吧，这么执着于我的卵蛋干什么！"
 
-# translate schinese Lothar_Report_Dummy_7f8492fb:
+translate schinese Lothar_Report_Dummy_456be4e0:
 
-#     # l "Yes, I suppose, this is your big opportunity to learn from the best out here."
-#     l ""
+    # l "I've never met people like you, with such audacity to argue with your hero..."
+    l "敢对你的大英雄这么说话，你还真是万中无一的奇葩。"
 
-# translate schinese Lothar_Report_Dummy_45a1a6d2:
+translate schinese Lothar_Report_Dummy_ebfeafd7:
 
-#     # l "This hero right here aren't always here to fight with someone like you."
-#     l ""
+    # l "I saved you from the golem, it could've killed you easy if it wasn't for me."
+    l "要不是有我，你早就被那个石魔像砸成烂泥了。"
 
-# translate schinese Lothar_Report_Dummy_86f36eb8:
+translate schinese Lothar_Report_Dummy_50afd1d4_2:
 
-#     # e "I... I get it. I should go now?"
-#     e ""
+    # e "Uhm..."
+    pass
 
-# translate schinese Lothar_Report_Dummy_bf8679d5:
+translate schinese Lothar_Report_Dummy_36a325dd:
 
-#     # l "Yes, you can go now... I'll just be waiting..."
-#     l ""
+    # e "So... do I get to kick you?"
+    e "就一下嘛，拜托……"
+
+translate schinese Lothar_Report_Dummy_5cb6c0b2:
+
+    # l "Alright, but it's not like you can actually win against the hero right here."
+    l "呃啊，好吧。反正英雄只会从一个胜利走向另一个胜利。"
+
+translate schinese Lothar_Report_Dummy_6d392908:
+
+    # l "I mean, I've got over 2 decades of fighter training."
+    l "我二十多年的战斗经验，你决不可能超越。"
+
+translate schinese Lothar_Report_Dummy_e59ae9c9:
+
+    # l "It's totally alright for you to be just a little intimidated."
+    l "如此看来，你口出狂言来给自己加油打气倒是无可厚非。"
+    e "呃……"
+
+translate schinese Lothar_Report_Dummy_4f311731:
+
+    # e "I get it."
+    pass
+
+translate schinese Lothar_Report_Dummy_fa0b6fe8:
+
+    # l "Anyways, are you ready?"
+    l "总之，你准备好了吗？"
+
+translate schinese Lothar_Report_Dummy_2697bf52:
+
+    # l "For our legendary sparring... of course." nointeract
+    l "旷世激战一触即发……" nointeract
+
+translate schinese strings:
+
+    old "I am ready"
+    new "开始战斗"
+
+    old "I need to prepare"
+    new "暂时离开"
+
+translate schinese Lothar_Report_Dummy_8d246e37:
+
+    # e "Yes... I'm ready."
+    e "我准备好了！"
+
+translate schinese Lothar_Report_Dummy_1b33efd3:
+
+    # e "No, I still have to prepare, I had already spent all my energy beating the dummy."
+    e "我想先缓一缓，打完升级后的人偶可太累了。"
+
+translate schinese Lothar_Report_Dummy_a8f3f1ea:
+
+    # l "Alright, alright, go ask your little lizard friend for tips or something."
+    l "呵，我看你是怕了，去找你那蜥蜴朋友给你支招还是要什么道具吧。"
+
+translate schinese Lothar_Report_Dummy_cb6c9e4e:
+
+    # l "You can't win against me anyhow."
+    l "不管怎样你都不可能赢过我。"
+
+translate schinese Lothar_Report_Dummy_9a961bd3:
+
+    # e "Uhm, we're just sparring, right?"
+    e "呃，我们只是互相切磋学习，输赢并不重要，对吗？"
+
+translate schinese Lothar_Report_Dummy_7f8492fb:
+
+    # l "Yes, I suppose, this is your big opportunity to learn from the best out here."
+    l "没错，但别忘了这可是你千载难逢能与本大英雄亲自对练的机会。"
+
+translate schinese Lothar_Report_Dummy_45a1a6d2:
+
+    # l "This hero right here aren't always here to fight with someone like you."
+    l "而大英雄不可能永远只为了你一个人服务。"
+
+translate schinese Lothar_Report_Dummy_385a6fc7:
+
+    # e "I get it. I should go now?"
+    e "知道了知道了，我可以走了吗？"
+
+translate schinese Lothar_Report_Dummy_6f8b99bc:
+
+    # l "Yes, you can go now, I'll just be waiting..."
+    l "你走吧。我就在这里等你……"
 
 translate schinese Lothar_Ask_Invasion_e9fc7cea:
 
@@ -7876,10 +7979,10 @@ translate schinese Lothar_Ask_Invasion_ec398aec:
     # l "You dare to ask me this? After you outright told Ole about our secret plan?"
     l "[e]，你竟然还敢问我这个？以为我忘了你告发我的时候有多干脆吗？"
 
-translate schinese Lothar_Ask_Invasion_0aba5798:
+translate schinese Lothar_Ask_Invasion_04a9cb2b:
 
-    # l "...Are you ever on my side."
-    l "……你从来就没站过我这边。"
+    # l "Are you ever on my side."
+    l "你从来就没站过我这边。"
 
 translate schinese Lothar_Ask_Invasion_cff509a4:
 
@@ -8250,9 +8353,9 @@ translate schinese Lothar_Ask_Invasion_175e28ba:
     # l "Okay then."
     l "行吧。"
 
-translate schinese Lothar_Report_Goat_3c27e3e8:
+translate schinese Lothar_Report_Goat_f5072eae:
 
-    # e "Lothar... I'm back from the goats."
+    # e "Lothar, I'm back from the goats."
     e "我从山羊部落那回来了。"
 
 translate schinese Lothar_Report_Goat_eb6c705e:
@@ -8291,17 +8394,17 @@ translate schinese Lothar_Report_Goat_3558d346:
 translate schinese Lothar_Report_Goat_8e4c10bc:
 
     # l "Ah... Their guardian..."
-    l "啊……原来就是他们在保护符石……"
+    l "啊……原来他们靠石魔像保护符石……"
 
 translate schinese Lothar_Report_Goat_491644e4:
 
     # l "Alright then."
-    l "我知道了。"
+    l "我知道了，我会亲自去看看的。"
 
 translate schinese Lothar_Report_Goat_42428af5:
 
     # l "I'll have to see it for myself."
-    l "我会亲自去看看的。"
+    pass
 
 translate schinese Lothar_Report_Goat_464e9757:
 
@@ -10362,10 +10465,10 @@ translate schinese Lothar_After_River_Trip_ccd60e42:
     # l "I got some expensive ale for Amble, he loves beer too much if I have to say."
     l "我还请了安布几杯上等好酒，哼哼，这个爱酒如命的家伙。"
 
-translate schinese Lothar_After_River_Trip_924f184c:
+translate schinese Lothar_After_River_Trip_43c6451e:
 
-    # e "Uhh... did you spend a lot on the beer?"
-    e "呃……你会花很多钱喝酒吗？"
+    # e "Uhh, did you spend a lot on the beer?"
+    e "呃，你会花很多钱喝酒吗？"
 
 translate schinese Lothar_After_River_Trip_8db4fc7a:
 
@@ -10842,10 +10945,10 @@ translate schinese Lothar_Sebas_Kick_Yes_38e56c36:
     # s "You might want to prepare your balls, it's gonna hurt a lot."
     s "我建议你先做好心理准备，可别待会疼得掉眼泪了。"
 
-translate schinese Lothar_Sebas_Kick_Yes_0080c1cf:
+translate schinese Lothar_Sebas_Kick_Yes_afe97f1e:
 
-    # l "W-what...? I... Y-You. Don't you dare..."
-    l "什、什么……？我……你会后悔的……"
+    # l "W-what? I... Y-You. Don't you dare..."
+    l "什、什么？我……你会后悔的……"
 
 translate schinese Lothar_Sebas_Kick_Yes_db982fad:
 

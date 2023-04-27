@@ -1593,822 +1593,831 @@ translate schinese goat_general_lose_a05b105e:
     # goatguard2 "Yes, General."
     goatguard2 "遵命，将军。"
 
-# translate schinese lothar_battle_1e517a6d:
+translate schinese lothar_battle_1e517a6d:
 
-#     # "You see Lothar beginning to strip off his upper body armor, he holds his long sword in front of you."
-#     ""
+    # "You see Lothar beginning to strip off his upper body armor, he holds his long sword in front of you."
+    "洛萨尔脱掉了上身的护甲，拔剑指向你。"
 
-# translate schinese lothar_battle_a87ae9eb:
+translate schinese lothar_battle_a87ae9eb:
 
-#     # l "Disciple, do not disappoint me this time. I expect some decent combat before you lose."
-#     l ""
+    # l "Disciple, do not disappoint me this time. I expect some decent combat before you lose."
+    l "徒儿，这回可别让为师失望了。认真应战，输也要输得光荣。"
 
-# translate schinese lothar_battle_502a28b1:
+translate schinese lothar_battle_502a28b1:
 
-#     # "You are facing the hero of Lusterfield, Lothar. He seems to be having fun, gloating about his muscles. You hold and clench your fist."
-#     ""
+    # "You are facing the hero of Lusterfield, Lothar. He seems to be having fun, gloating about his muscles. You hold and clench your fist."
+    "今天你终于有机会领教乐村大英雄身手几何。洛萨尔眉飞色舞地炫耀起自己的肌肉，而你握紧双拳摆好了格斗姿态。"
 
-# translate schinese lothar_battle_0ff1c06b:
+translate schinese lothar_battle_0ff1c06b:
 
-#     # "You are facing the hero of Lusterfield, Lothar. He seems to be having fun, gloating about his muscles. You hold your [pc.weapon.name!t] in defence."
-#     ""
+    # "You are facing the hero of Lusterfield, Lothar. He seems to be having fun, gloating about his muscles. You hold your [pc.weapon.name!t] in defence."
+    "今天你终于有机会领教乐村大英雄身手几何。洛萨尔眉飞色舞地炫耀起自己的肌肉，而你手握[pc.weapon.name!t]架好了战斗姿态。"
 
-# translate schinese lothar_battle_loop_70e26cac:
+translate schinese lothar_battle_loop_70e26cac:
 
-#     # "You slash your [pc.weapon.name!t] at Lothar's arm, but he leaps back and avoid the blow by inches."
-#     ""
+    # "You slash your [pc.weapon.name!t] at Lothar's arm, but he leaps back and avoid the blow by inches."
+    "你挥动[pc.weapon.name!t]划向洛萨尔的手臂，但他往后一跳，于寸尺之外躲过了你的攻击。"
 
-# translate schinese lothar_battle_loop_725d93d1:
+translate schinese lothar_battle_loop_725d93d1:
 
-#     # "You slam your [pc.weapon.name!t] at Lothar's arm, but he leaps back and avoid the blow by inches."
-#     ""
+    # "You slam your [pc.weapon.name!t] at Lothar's arm, but he leaps back and avoid the blow by inches."
+    "你舞动[pc.weapon.name!t]劈向洛萨尔的脑袋，但他往后一跳，于寸尺之外躲过了你的攻击。"
 
-# translate schinese lothar_battle_loop_3cff6c8d:
+translate schinese lothar_battle_loop_3cff6c8d:
 
-#     # "You aim and shoot your [pc.weapon.name!t] at Lothar's chest, but he leaps back and avoid the arrow by inches."
-#     ""
+    # "You aim and shoot your [pc.weapon.name!t] at Lothar's chest, but he leaps back and avoid the arrow by inches."
+    "你架设[pc.weapon.name!t]飞箭射向洛萨尔，但他往后一跳，于寸尺之外躲过了你这一箭。"
 
-# translate schinese lothar_battle_loop_a9ec88b2:
+translate schinese lothar_battle_loop_a9ec88b2:
 
-#     # "You throw your fist at Lothar, but he leaps back and avoid the blow by inches."
-#     ""
+    # "You throw your fist at Lothar, but he leaps back and avoid the blow by inches."
+    "你举拳奋力捶向洛萨尔，但他往后一跳，于寸尺之外躲过了你这一拳。"
 
-# translate schinese lothar_battle_loop_772db6e3:
+translate schinese lothar_battle_loop_772db6e3:
 
-#     # l "Heh... your aiming needs some training, disciple."
-#     l ""
+    # l "Heh... your aiming needs some training, disciple."
+    l "哼哼……准星还得多练练，徒儿。"
 
-# translate schinese lothar_battle_loop_01333192:
+translate schinese lothar_battle_loop_01333192:
 
-#     # "You slam your [pc.weapon.name!t] at Lothar's body, your blade grazes through the Hero's stomach."
-#     ""
+    # "You slam your [pc.weapon.name!t] at Lothar's body, your blade grazes through the Hero's stomach."
+    "你舞动[pc.weapon.name!t]斩向洛萨尔的腹部。刀刃擦过自诩英雄的肚皮，鲜血从伤口渗出、滴落。"
 
-# translate schinese lothar_battle_loop_6b3c3530:
+translate schinese lothar_battle_loop_6b3c3530:
 
-#     # "Drops of blood drips along his body."
-#     ""
+    # "Drops of blood drips along his body."
+    pass
 
-# translate schinese lothar_battle_loop_ff4e48ff:
+translate schinese lothar_battle_loop_ff4e48ff:
 
-#     # "You slam your [pc.weapon.name!t] at Lothar's head, knocking him on the ground."
-#     ""
+    # "You slam your [pc.weapon.name!t] at Lothar's head, knocking him on the ground."
+    "你挥动[pc.weapon.name!t]砍向洛萨尔的脑袋，将他击倒在地。他蓬头垢面的朝你发出咆哮，从地上爬了起来。"
 
-# translate schinese lothar_battle_loop_3f10a603:
+translate schinese lothar_battle_loop_3f10a603:
 
-#     # "He growls at you before getting up, albeit disheveled."
-#     ""
+    # "He growls at you before getting up, albeit disheveled."
+    pass
 
-# translate schinese lothar_battle_loop_731bae2f:
+translate schinese lothar_battle_loop_731bae2f:
 
-#     # "You aim and shoot your [pc.weapon.name!t] at Lothar, the arrow hit right into his shoulder."
-#     ""
+    # "You aim and shoot your [pc.weapon.name!t] at Lothar, the arrow hit right into his shoulder."
+    "你架设[pc.weapon.name!t]飞箭射向洛萨尔，这一箭正中他的肩膀。"
 
-# translate schinese lothar_battle_loop_8221249a:
+translate schinese lothar_battle_loop_8221249a:
 
-#     # "You run while shooting your [pc.weapon.name!t] at Lothar, knocking him on the ground."
-#     ""
+    # "You run while shooting your [pc.weapon.name!t] at Lothar, knocking him on the ground."
+    "你一边变换方位，一边架设[pc.weapon.name!t]飞箭射向洛萨尔。这一箭将他击倒在地，他蓬头垢面的朝你发出咆哮，从地上爬了起来。"
 
-# translate schinese lothar_battle_loop_3f10a603_1:
+translate schinese lothar_battle_loop_3f10a603_1:
 
-#     # "He growls at you before getting up, albeit disheveled."
-#     ""
+    # "He growls at you before getting up, albeit disheveled."
+    pass
 
-# translate schinese lothar_battle_loop_ef8384a0:
+translate schinese lothar_battle_loop_ef8384a0:
 
-#     # "You throw your fist at Lothar, hitting him right across his face."
-#     ""
+    # "You throw your fist at Lothar, hitting him right across his face."
+    "你一拳挥向洛萨尔，正中脸部。巨大的冲击力使得他应声倒地。"
 
-# translate schinese lothar_battle_loop_58557e9f:
+translate schinese lothar_battle_loop_58557e9f:
 
-#     # "the sheer impact knocks him on the ground."
-#     ""
+    # "the sheer impact knocks him on the ground."
+    pass
 
-# translate schinese lothar_battle_loop_3981c466:
+translate schinese lothar_battle_loop_3981c466:
 
-#     # "You punch into Lothar's stomach, grabbing him and slam him on the ground hard."
-#     ""
+    # "You punch into Lothar's stomach, grabbing him and slam him on the ground hard."
+    "你一拳挥向洛萨尔的腹部，并顺势抓住他，将他狠狠地摔在地上。"
 
-# translate schinese lothar_battle_loop_24bcc736:
+translate schinese lothar_battle_loop_24bcc736:
 
-#     # "His health decreases by [oa[4]] HP."
-#     ""
+    # "His health decreases by [oa[4]] HP."
+    "对方的体力损失了 [oa[4]] 点。"
 
-# translate schinese lothar_battle_loop_5c706250:
+translate schinese lothar_battle_loop_5c706250:
 
-#     # "It seems you've hit Lothar critically, dealing [oa[4]] HP!"
-#     ""
+    # "It seems you've hit Lothar critically, dealing [oa[4]] HP!"
+    "暴击！对方失去了 [oa[4]] 点体力！"
 
-# translate schinese lothar_battle_loop_e29bcb4d:
+translate schinese lothar_battle_loop_e29bcb4d:
 
-#     # l "Lucky h-hit. T-that... was nothing... Agh..."
-#     l ""
+    # l "Lucky h-hit. T-that... was nothing... Agh..."
+    l "碰巧罢了。这对本大英雄……不算什么，啊……"
 
-# translate schinese lothar_battle_loop_9d1a1918:
+translate schinese lothar_battle_loop_9d1a1918:
 
-#     # l "I-I can beat you... Heh... so easily, [e]."
-#     l ""
+    # l "I-I can beat you... Heh... so easily, [e]."
+    l "我一个指头……呵……就可以打趴你，[e]。"
 
-# translate schinese lothar_battle_loop_9a8dc15e:
+translate schinese lothar_battle_loop_9a8dc15e:
 
-#     # l "Hnnnnngh... The hero c-can't lose..."
-#     l ""
+    # l "Hnnnnngh... The hero c-can't lose..."
+    l "呃啊啊啊……我可是不败的英雄……"
 
-# translate schinese lothar_battle_loop_9a43c00b:
+translate schinese lothar_battle_loop_9a43c00b:
 
-#     # l "Fuck... I need some more potions after this..."
-#     l ""
+    # l "Fuck... I need some more potions after this..."
+    l "肏……打完不喝几瓶药水不行了……"
 
-# translate schinese lothar_battle_loop_fdf9de27:
+translate schinese lothar_battle_loop_fdf9de27:
 
-#     # "You turn around and rub your hand all over your own burly cheeks, feeling and brushing against your ass while you shake your hip."
-#     ""
+    # "You turn around and rub your hand all over your own burly cheeks, feeling and brushing against your ass while you shake your hip."
+    "你慢腾腾背向洛萨尔，双手盖上饱满的臀部，把玩着、抚摸着，不时左右摇摆。"
 
-# translate schinese lothar_battle_loop_686af3a5:
+translate schinese lothar_battle_loop_686af3a5:
 
-#     # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at Lothar seductively."
-#     ""
+    # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at Lothar seductively."
+    "你深情地盯着洛萨尔，伸爪轻轻爱抚自己的下体，慢慢从大腿根滑向阴囊，紧紧箍着诱人的鼓包。"
 
-# translate schinese lothar_battle_loop_5fe08cb3:
+translate schinese lothar_battle_loop_5fe08cb3:
 
-#     # "You walk towards Lothar, groping at his chest like he did with Amble."
-#     ""
+    # "You walk towards Lothar, groping at his chest like he did with Amble."
+    "你闪到洛萨尔跟前，模仿他刚刚玩弄安布的方式抓住了他的胸肌。"
 
-# translate schinese lothar_battle_loop_65af1d45:
+translate schinese lothar_battle_loop_65af1d45:
 
-#     # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at Lothar while your chest bounce up and down slightly."
-#     ""
+    # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at Lothar while your chest bounce up and down slightly."
+    "你双手捧持你鼓起的胸肌，手指在乳头周围画着圆圈。一边对着洛萨尔微笑，一边轻轻掂量自己的厚物。"
 
-# translate schinese lothar_battle_loop_2f4586bc:
+translate schinese lothar_battle_loop_2f4586bc:
 
-#     # "You continue your act for about a minute, but Lothar doesn't even flinch."
-#     ""
+    # "You continue your act for about a minute, but Lothar doesn't even flinch."
+    "你自导自演了快一分钟，但对方仍不动声色。"
 
-# translate schinese lothar_battle_loop_4f54fc56:
+translate schinese lothar_battle_loop_4f54fc56:
 
-#     # l "Your flirting... well... that was embarrassing..."
-#     l ""
+    # l "Your flirting... well... that was embarrassing..."
+    l "谁教你这么诱惑了……有够尴尬的……"
 
-# translate schinese lothar_battle_loop_5a42ba42:
+translate schinese lothar_battle_loop_5a42ba42:
 
-#     # "Within a few seconds you can already see some movements behind Lothar's underwear."
-#     ""
+    # "Within a few seconds you can already see some movements behind Lothar's underwear."
+    "不过几秒钟，洛萨尔的裤裆就有了些许动静。他盯着你极具诱惑的姿势，舔了舔嘴唇。他的性欲增加了 [player_flirt] 点。"
 
-# translate schinese lothar_battle_loop_c0b2a752:
+translate schinese lothar_battle_loop_c0b2a752:
 
-#     # "He stares at your alluring pose while licking his lips. His lust is increased by [player_flirt]."
-#     ""
+    # "He stares at your alluring pose while licking his lips. His lust is increased by [player_flirt]."
+    pass
 
-# translate schinese lothar_battle_loop_53de9d0f:
+translate schinese lothar_battle_loop_53de9d0f:
 
-#     # l "Hmm... Disciple, since when did you become... so fuckable..."
-#     l ""
+    # l "Hmm... Disciple, since when did you become... so fuckable..."
+    l "嗯……你什么时候变得这么……惹人侵犯了……"
 
-# translate schinese lothar_battle_loop_5e149066:
+translate schinese lothar_battle_loop_5e149066:
 
-#     # "You notice the wolf is floundering, trying his best not to get aroused by your seduction."
-#     ""
+    # "You notice the wolf is floundering, trying his best not to get aroused by your seduction."
+    "洛萨尔极力抵御你的勾引，但他通红的脸颊和鼓胀的下体已经宣告了一切。他的性欲增加了 [player_flirt] 点。"
 
-# translate schinese lothar_battle_loop_31d7e065:
+translate schinese lothar_battle_loop_31d7e065:
 
-#     # "But it is evident that his flushed face tells it all. His lust is increased by [player_flirt]."
-#     ""
+    # "But it is evident that his flushed face tells it all. His lust is increased by [player_flirt]."
+    pass
 
-# translate schinese lothar_battle_loop_b5b755c1:
+translate schinese lothar_battle_loop_b5b755c1:
 
-#     # l "Get it over with... Lot. You're a hero, not a lustful beast..."
-#     l ""
+    # l "Get it over with... Lot. You're a hero, not a lustful beast..."
+    l "冷静，洛萨尔。你是正派的英雄，不是发情的野兽……"
 
-# translate schinese lothar_battle_loop_fe19e373:
+translate schinese lothar_battle_loop_fe19e373:
 
-#     # "Lothar is squirming in reaction to your advance."
-#     ""
+    # "Lothar is squirming in reaction to your advance."
+    "洛萨尔不安地扭动着身体，将长剑握得更紧了。你听见他呼吸变得急促，还带着哼哼呻吟。对方的性欲增加了 [player_flirt] 点。"
 
-# translate schinese lothar_battle_loop_19010f57:
+translate schinese lothar_battle_loop_19010f57:
 
-#     # "You can already hear his rapid breathing and grunting, while holding his sword tightly. His lust is increased by [player_flirt]."
-#     ""
+    # "You can already hear his rapid breathing and grunting, while holding his sword tightly. His lust is increased by [player_flirt]."
+    pass
 
-# translate schinese lothar_battle_loop_95234fff:
+translate schinese lothar_battle_loop_95234fff:
 
-#     # l "F-fuck... I n-need your ass... d-discip-"
-#     l ""
+    # l "F-fuck... I n-need your ass... d-discip-"
+    l "妈的……真想把你摁到地上狠狠肏一顿，骚徒。"
 
-# translate schinese lothar_battle_loop_1c7dd32e:
+translate schinese lothar_battle_loop_1c7dd32e:
 
-#     # "You can tell Lothar is already playing with himself when his hand goes under his pants, staring at your ass intently."
-#     ""
+    # "You can tell Lothar is already playing with himself when his hand goes under his pants, staring at your ass intently."
+    "洛萨尔紧盯着你肥美的臀部，将手伸进裤裆内摆正勃起的鸡巴，令那包得以越来越明显。他的双腿微微颤抖，性欲随之增加了 [player_flirt] 点。"
 
-# translate schinese lothar_battle_loop_ac2da90e:
+translate schinese lothar_battle_loop_ac2da90e:
 
-#     # "Lothar's legs are trembling, his bulge only gets bigger after he removes his hand."
-#     ""
+    # "Lothar's legs are trembling, his bulge only gets bigger after he removes his hand."
+    pass
 
-# translate schinese lothar_battle_loop_877a56ed:
+translate schinese lothar_battle_loop_877a56ed:
 
-#     # "His lust is increased by [player_flirt]."
-#     ""
+    # "His lust is increased by [player_flirt]."
+    pass
 
-# translate schinese lothar_battle_loop_f4e4d56f:
+translate schinese lothar_battle_loop_f4e4d56f:
 
-#     # l "S-stop... disciple. I can literally fuck your mouth r-right here..."
-#     l ""
+    # l "S-stop... disciple. I can literally fuck your mouth r-right here..."
+    l "停、停下……不然别怪我现在冲过去肏爆你的嘴。"
 
-# translate schinese lothar_battle_loop_4562a1ba:
+translate schinese lothar_battle_loop_4562a1ba:
 
-#     # e "H-hey... Lothar, I need to take some rest..."
-#     e ""
+    # e "H-hey... Lothar, I need to take some rest..."
+    e "等等、等等……洛萨尔，我想中场休息一会……"
 
-# translate schinese lothar_battle_loop_149194b3:
+translate schinese lothar_battle_loop_149194b3:
 
-#     # l "After this, disciple."
-#     l ""
+    # l "After this, disciple."
+    l "真正的战场从来没有什么中场休息，徒弟。"
 
-# translate schinese lothar_battle_loop_4878ce45:
+translate schinese lothar_battle_loop_4878ce45:
 
-#     # "It seems the hero doesn't allow you to escape."
-#     ""
+    # "It seems the hero doesn't allow you to escape."
+    "洛萨尔并没有给你脱离战场的机会。"
 
-# translate schinese lothar_battle_loop_647bc0e1:
+translate schinese lothar_battle_loop_647bc0e1:
 
-#     # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to Lothar."
-#     ""
+    # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to Lothar."
+    "你耗尽了所有气力，双膝一软跪倒在地。你躺在地上大口喘息，将自己完全暴露给了洛萨尔。"
 
-# translate schinese lothar_battle_loop_3840b60e:
+translate schinese lothar_battle_loop_3840b60e:
 
-#     # l "Really...?"
-#     l ""
+    # l "Really...?"
+    l "认真的吗……？"
 
-# translate schinese lothar_battle_loop_52f089f0:
+translate schinese lothar_battle_loop_52f089f0:
 
-#     # l "Disciple... You disappointed me, I never expected my student to surrender so easily."
-#     l ""
+    # l "Disciple... You disappointed me, I never expected my student to surrender so easily."
+    l "[e]……你太让我失望了，我教出来的弟子怎么能轻易投降。"
 
-# translate schinese lothar_battle_loop_22c33955:
+translate schinese lothar_battle_loop_22c33955:
 
-#     # l "But oh well, it may be your only option facing the one and only almighty hero of Lusterfield... Heh."
-#     l ""
+    # l "But oh well, it may be your only option facing the one and only almighty hero of Lusterfield... Heh."
+    l "但或许在乐斯民菲尔德的绝顶英雄面前，投降是你最好的选择……哈哈哈。"
 
-# translate schinese lothar_battle_loop_ad670361:
+translate schinese lothar_battle_loop_ad670361:
 
-#     # "He walks around your weakened form, thinking carefully about his next step."
-#     ""
+    # "He walks around your weakened form, thinking carefully about his next step."
+    "他在你瘫倒的躯体旁踱步，细细思索着接下来要拿你怎么办。"
 
-# translate schinese lothar_battle_loop2_a44ad52e:
+translate schinese lothar_battle_loop2_a44ad52e:
 
-#     # "Lothar slams his sword down, and you fall on the ground."
-#     ""
+    # "Lothar slams his sword down, and you fall on the ground."
+    "洛萨尔挥剑砍向你，将你击倒在地。他抬脚重重跺上你的胸膛，令你损失了 [enemy_damage] 点体力。"
 
-# translate schinese lothar_battle_loop2_8daed4c0:
+translate schinese lothar_battle_loop2_8daed4c0:
 
-#     # "He stomps on your chest. Your health decreases by [enemy_damage] HP."
-#     ""
+    # "He stomps on your chest. Your health decreases by [enemy_damage] HP."
+    pass
 
-# translate schinese lothar_battle_loop2_f053152f:
+translate schinese lothar_battle_loop2_f053152f:
 
-#     # "Lothar charges at you, kicking you hard. Your health decreases by [enemy_damage] HP."
-#     ""
+    # "Lothar charges at you, kicking you hard. Your health decreases by [enemy_damage] HP."
+    "洛萨尔箭步冲过来给了你一记飞踢，力道之重令你损失了 [enemy_damage] 点体力。"
 
-# translate schinese lothar_battle_loop2_d54dd6ff:
+translate schinese lothar_battle_loop2_d54dd6ff:
 
-#     # l "Heh... Taste the mighty feet of the hero..."
-#     l ""
+    # l "Heh... Taste the mighty feet of the hero..."
+    l "哈哈哈……尝尝我的英雄霹雳脚……"
 
-# translate schinese lothar_battle_loop2_2dd4be21:
+translate schinese lothar_battle_loop2_2dd4be21:
 
-#     # l "Your inexperience really shows, disciple."
-#     l ""
+    # l "Your inexperience really shows, disciple."
+    l "认清自己几斤几两了吗，徒儿。"
 
-# translate schinese lothar_battle_loop2_505866a5:
+translate schinese lothar_battle_loop2_505866a5:
 
-#     # l "Now I've shown you what's real power, compared to your inferior battle tactics."
-#     l ""
+    # l "Now I've shown you what's real power, compared to your inferior battle tactics."
+    l "好好见识什么叫真正的战斗，别拿你那花拳绣腿惹人笑话了。"
 
-# translate schinese lothar_battle_loop2_262c1b33:
+translate schinese lothar_battle_loop2_262c1b33:
 
-#     # "Lothar slams his sword down on you, but you managed to dodge in time, his sword strikes the ground and sparks fly."
-#     ""
+    # "Lothar slams his sword down on you, but you managed to dodge in time, his sword strikes the ground and sparks fly."
+    "洛萨尔挥剑砍向你，但你及时躲开了。剑刃划过石质地面擦出闪闪火花。"
 
-# translate schinese lothar_battle_loop2_07d7931d:
+translate schinese lothar_battle_loop2_07d7931d:
 
-#     # "Lothar charges at you, trying to kick at your chest but you quickly roll backwards and dodge the attack."
-#     ""
+    # "Lothar charges at you, trying to kick at your chest but you quickly roll backwards and dodge the attack."
+    "洛萨尔箭步冲过来，准备给你胸口一记飞踢，但你立马侧身躲开了这一击。"
 
-# translate schinese lothar_battle_loop2_e36b23c7:
+translate schinese lothar_battle_loop2_e36b23c7:
 
-#     # l "Lucky... that was so lucky of you..."
-#     l ""
+    # l "Lucky... that was so lucky of you..."
+    l "侥幸……真侥幸……"
 
-# translate schinese lothar_battle_loop2_fa5e2ced:
+translate schinese lothar_battle_loop2_fa5e2ced:
 
-#     # l "Come back here and let me slam your fucking ass!"
-#     l ""
+    # l "Come back here and let me slam your fucking ass!"
+    l "别躲，看我不把你打得屁股开花！"
 
-# translate schinese lothar_battle_loop2_2e9d4e2d:
+translate schinese lothar_battle_loop2_2e9d4e2d:
 
-#     # "The hero scratches at his groin, he put two of his fingers across his crotch, tracing the shape of his cock in front of you."
-#     ""
+    # "The hero scratches at his groin, he put two of his fingers across his crotch, tracing the shape of his cock in front of you."
+    "洛萨尔扯了扯裤裆，两根手指骑上小腹前的突起，透过布料勾勒出阳具的形状。他就这么硬着朝你走了过来……"
 
-# translate schinese lothar_battle_loop2_9918018e:
+translate schinese lothar_battle_loop2_9918018e:
 
-#     # "Lothar approaches you with his hard-on..."
-#     ""
+    # "Lothar approaches you with his hard-on..."
+    pass
 
-# translate schinese lothar_battle_loop2_74e24064:
+translate schinese lothar_battle_loop2_74e24064:
 
-#     # l "Don't lie... Disciple, you must be wanting my cock inside of you, don't you...?"
-#     l ""
+    # l "Don't lie... Disciple, you must be wanting my cock inside of you, don't you...?"
+    l "别装矜持……你已经在幻想我用鸡巴征服你的样子了，对吧？"
 
-# translate schinese lothar_battle_loop2_ae2663dd:
+translate schinese lothar_battle_loop2_ae2663dd:
 
-#     # "Lothar stretches his body, flaunting his muscular physiques, you can tell his soft chest is almost bulging in front of you."
-#     ""
+    # "Lothar stretches his body, flaunting his muscular physiques, you can tell his soft chest is almost bulging in front of you."
+    "洛萨尔伸展四肢，炫耀着自己傲人的体格。他故意隆起那柔软的胸肌，想要霸占你的视线。"
 
-# translate schinese lothar_battle_loop2_65b0ee54:
+translate schinese lothar_battle_loop2_65b0ee54:
 
-#     # l "Well... It seems that you can't move your eyes away from... the hero right here."
-#     l ""
+    # l "Well... It seems that you can't move your eyes away from... the hero right here."
+    l "看看是谁眼馋大英雄身下的小英雄啊？"
 
-# translate schinese lothar_battle_loop2_71755195:
+translate schinese lothar_battle_loop2_71755195:
 
-#     # "You gulp at his attempt at seduction. Admittedly you are extremely aroused, thinking about how his cock would taste like. Your lust increased by [enemy_flirt]."
-#     ""
+    # "You gulp at his attempt at seduction. Admittedly you are extremely aroused, thinking about how his cock would taste like. Your lust increased by [enemy_flirt]."
+    "你咽了咽口水，无可否认他的提议诱人极了。你不禁开始幻想大灰狼的鸡巴会是什么味道。性欲随之增加了 [enemy_flirt] 点。"
 
-# translate schinese lothar_battle_loop2_d3cec2b5:
+translate schinese lothar_battle_loop2_d3cec2b5:
 
-#     # "You are stunned by his gorgeous muscles, you mind wanders through scenarios of Lothar being inside your body. Your lust increased by [enemy_flirt]."
-#     ""
+    # "You are stunned by his gorgeous muscles, you mind wanders through scenarios of Lothar being inside your body. Your lust increased by [enemy_flirt]."
+    "洛萨尔壮硕的肌肉令你痴迷，你想象着他猛烈耕耘自己的模样。性欲随之增加了 [enemy_flirt] 点。"
 
-# translate schinese lothar_battle_loop2_9db33e60:
+translate schinese lothar_battle_loop2_9db33e60:
 
-#     # "You stare at him, giving him weird side eyes. You have evaded his attempt at seduction. And Lothar seems to feel a little dejected."
-#     ""
+    # "You stare at him, giving him weird side eyes. You have evaded his attempt at seduction. And Lothar seems to feel a little dejected."
+    "他这招对你不管用。你盯着洛萨尔，给了他个轻蔑的眼神。后者看起来有点失望。"
 
-# translate schinese lothar_battle_loop2_969a6d77:
+translate schinese lothar_battle_loop2_969a6d77:
 
-#     # "His attack at your lust seems to have failed as you stand there and wait for him to finish his taunt. Both of you would never speak about it again."
-#     ""
+    # "His attack at your lust seems to have failed as you stand there and wait for him to finish his taunt. Both of you would never speak about it again."
+    "洛萨尔的勾引显然对你不起作用。你站在原地，等待他独自演完这场戏。你们绝不会再提起这么尴尬的场面。"
 
-# translate schinese lothar_battle_loop2_816f9945:
+translate schinese lothar_battle_loop2_816f9945:
 
-#     # l "Let me... drink this premium health potion first..."
-#     l ""
+    # l "Let me... drink this premium health potion first..."
+    l "不得不祭出这瓶珍藏的高级补血剂了……"
 
-# translate schinese lothar_battle_loop2_7f7eb490:
+translate schinese lothar_battle_loop2_7f7eb490:
 
-#     # "Lothar recovered 75 Health."
-#     ""
+    # "Lothar recovered 75 Health."
+    "洛萨尔回复了 75 点体力。"
 
-# translate schinese lothar_battle_loop2_efa76d45:
+translate schinese lothar_battle_loop2_efa76d45:
 
-#     # "Lothar raises his sword, and strikes you with his full force. Your health decreases by [enemy_damage] HP."
-#     ""
+    # "Lothar raises his sword, and strikes you with his full force. Your health decreases by [enemy_damage] HP."
+    "洛萨尔高举长剑全力朝你袭来，巨大的冲击力使得你应声倒地。你损失了 [enemy_damage] 点体力，并将眩晕 1 回合。"
 
-# translate schinese lothar_battle_loop2_1e8ad0f1:
+translate schinese lothar_battle_loop2_1e8ad0f1:
 
-#     # "The sheer impact of his blow knocks you on the ground."
-#     ""
+    # "The sheer impact of his blow knocks you on the ground."
+    pass
 
-# translate schinese lothar_battle_loop2_fdcc8185:
+translate schinese lothar_battle_loop2_fdcc8185:
 
-#     # "You are stunned for a round."
-#     ""
+    # "You are stunned for a round."
+    pass
 
-# translate schinese lothar_battle_lose_ae28421f:
+translate schinese lothar_battle_lose_ae28421f:
 
-#     # l "Heh... look at you... Disciple."
-#     l ""
+    # l "Heh... look at you... Disciple."
+    l "呵……高下立判。"
 
-# translate schinese lothar_battle_lose_8241c31f:
+translate schinese lothar_battle_lose_8241c31f:
 
-#     # "You kneel on the grass, and pant heavily. You've exhausted all the energy in your body."
-#     ""
+    # "You kneel on the grass, and pant heavily. You've exhausted all the energy in your body."
+    pass
 
-# translate schinese lothar_battle_lose_98991d26:
+translate schinese lothar_battle_lose_98991d26:
 
-#     # "You look up and see Lothar smiling."
-#     ""
+    # "You look up and see Lothar smiling."
+    "你抬头望向洛萨尔，他咧出了轻蔑的微笑。"
 
-# translate schinese lothar_battle_lose_b0b37444:
+translate schinese lothar_battle_lose_b0b37444:
 
-#     # e "F-fuck... my legs..."
-#     e ""
+    # e "F-fuck... my legs..."
+    e "啊……我的腿好痛……"
 
-# translate schinese lothar_battle_lose_1a8072d4:
+translate schinese lothar_battle_lose_1a8072d4:
 
-#     # l "Another win right into my pocket! Not surprising, actually."
-#     l ""
+    # l "Another win right into my pocket! Not surprising, actually."
+    l "本英雄的不败神话又添一笔！当然这是意料之中的事。"
 
-# translate schinese lothar_battle_lose_52119ca1:
+translate schinese lothar_battle_lose_52119ca1:
 
-#     # l "Not one bit surprising considering your physique."
-#     l ""
+    # l "Not one bit surprising considering your physique."
+    l "任谁看过你这小身板都知道你不可能打败为师。"
 
-# translate schinese lothar_battle_lose_45e586ad:
+translate schinese lothar_battle_lose_45e586ad:
 
-#     # e "C-can I get some rest?"
-#     e ""
+    # e "C-can I get some rest?"
+    e "让我先缓一下……好不好？"
 
-# translate schinese lothar_battle_lose_f581a057:
+translate schinese lothar_battle_lose_f581a057:
 
-#     # l "Some rest, heh well. Easiest 500 Gold I've got."
-#     l ""
+    # l "Some rest, heh well. Easiest 500 Gold I've got."
+    l "缓一下？没问题，尽管缓。五百金币真是得来全不费工夫。"
+    l "我们师徒俩以后应该多来这样对练，哼哼。"
 
-# translate schinese lothar_battle_lose_d86d9fac:
+translate schinese lothar_battle_lose_d86d9fac:
 
-#     # l "Pay me back any time. Before I hand you to Cane and his clients."
-#     l ""
+    # l "Pay me back any time. Before I hand you to Cane and his clients."
+    l "你啊，想缓多久都可以，记得把钱付清就行，不然我可要把你拉到凯恩他贼窝去。"
 
-# translate schinese lothar_battle_lose_43c89140:
+translate schinese lothar_battle_lose_43c89140:
 
-#     # l "Maybe I'll consider sparring with you again after that. maybe."
-#     l ""
+    # l "Maybe I'll consider sparring with you again after that. maybe."
+    pass
 
-# translate schinese lothar_battle_lose_1e28236e:
+translate schinese lothar_battle_lose_1e28236e:
 
-#     # "You kneel on the grass, and pant heavily. There is an immediate urge to satisfy your own lust in front of Lothar."
-#     ""
+    # "You kneel on the grass, and pant heavily. There is an immediate urge to satisfy your own lust in front of Lothar."
+    pass
 
-# translate schinese lothar_battle_lose_98991d26_1:
+translate schinese lothar_battle_lose_98991d26_1:
 
-#     # "You look up and see Lothar smiling."
-#     ""
+    # "You look up and see Lothar smiling."
+    pass
 
-# translate schinese lothar_battle_lose_2b7e8369:
+translate schinese lothar_battle_lose_2b7e8369:
 
-#     # e "F-fuck... me- Lothar..."
-#     e ""
+    # e "F-fuck... me- Lothar..."
+    e "师傅，快用你的大鸡巴罚我吧……"
+    "你抬头望向洛萨尔，向他投出极度渴求的目光。"
 
-# translate schinese lothar_battle_lose_1a8072d4_1:
+translate schinese lothar_battle_lose_1a8072d4_1:
 
-#     # l "Another win right into my pocket! Not surprising, actually."
-#     l ""
+    # l "Another win right into my pocket! Not surprising, actually."
+    l "本英雄的不败神话又添一笔！当然这是意料之中的事。"
 
-# translate schinese lothar_battle_lose_2a0420a9:
+translate schinese lothar_battle_lose_2a0420a9:
 
-#     # l "Not one bit surprising considering your mental strength."
-#     l ""
+    # l "Not one bit surprising considering your mental strength."
+    l "认识你这小骚货的人都知道你不可能抗拒得了为师。"
+    "洛萨尔咧出了轻蔑的坏笑。"
 
-# translate schinese lothar_battle_lose_a6f697ab:
+translate schinese lothar_battle_lose_a6f697ab:
 
-#     # e "Ahhh- I'm so... horny. C-can I get... some rest?"
-#     e ""
+    # e "Ahhh- I'm so... horny. C-can I get... some rest?"
+    e "哈啊——我硬得好难受。让我歇一会……好不好？"
 
-# translate schinese lothar_battle_lose_f581a057_1:
+translate schinese lothar_battle_lose_f581a057_1:
 
-#     # l "Some rest, heh well. Easiest 500 Gold I've got."
-#     l ""
+    # l "Some rest, heh well. Easiest 500 Gold I've got."
+    l "歇一下？没问题，尽管歇。五百金币真是得来全不费工夫。"
+    l "我们师徒俩以后应该多来这样对练，哼哼。"
 
-# translate schinese lothar_battle_lose_d7a43461:
+translate schinese lothar_battle_lose_d7a43461:
 
-#     # l "Pay me back any time. Before I hand you to Cane and his clients..."
-#     l ""
+    # l "Pay me back any time. Before I hand you to Cane and his clients..."
+    l "你啊，想歇多久都可以，记得把钱付清就行，不然我可要把你拉到凯恩他贼窝去。"
 
-# translate schinese lothar_battle_lose_e175649d:
+translate schinese lothar_battle_lose_e175649d:
 
-#     # l "Maybe I'll consider sparring with you again after that... maybe."
-#     l ""
+    # l "Maybe I'll consider sparring with you again after that... maybe."
+    pass
 
-# translate schinese lothar_battle_lose_faa7d97b:
+translate schinese lothar_battle_lose_faa7d97b:
 
-#     # e "Hmm..."
-#     e ""
+    # e "Hmm..."
+    e "唔……"
 
-# translate schinese lothar_battle_lose_82822a0c:
+translate schinese lothar_battle_lose_82822a0c:
 
-#     # l "..."
-#     l ""
+    # l "..."
+    l "……"
 
-# translate schinese lothar_battle_lose_00dbc16c:
+translate schinese lothar_battle_lose_00dbc16c:
 
-#     # l "You alright?"
-#     l ""
+    # l "You alright?"
+    l "你还好吗？"
 
-# translate schinese lothar_battle_lose_c5810a64:
+translate schinese lothar_battle_lose_c5810a64:
 
-#     # e "N-no."
-#     e ""
+    # e "N-no."
+    e "不、不好。"
 
-# translate schinese lothar_battle_lose_475921bf:
+translate schinese lothar_battle_lose_475921bf:
 
-#     # "You lie on the ground, breathing rapidly... and you can feel two strong arms are lifting you upwards."
-#     ""
+    # "You lie on the ground, breathing rapidly... and you can feel two strong arms are lifting you upwards."
+    "你仍趴在地上大口喘息着，无力起身……突然，你感觉有两条壮实的手臂将自己拉了起来。"
 
-# translate schinese lothar_battle_lose_c8fab859:
+translate schinese lothar_battle_lose_c8fab859:
 
-#     # "Lothar carries your whole body on his warm back, you instantly grasp on his fur for support."
-#     ""
+    # "Lothar carries your whole body on his warm back, you instantly grasp on his fur for support."
+    "是洛萨尔将你抬到了他背上，你立刻抓紧他肩膀的毛不让自己掉下去。"
 
-# translate schinese lothar_battle_lose_07261c8a:
+translate schinese lothar_battle_lose_07261c8a:
 
-#     # e "Thanks... Lothar."
-#     e ""
+    # e "Thanks... Lothar."
+    e "谢谢……"
 
-# translate schinese lothar_battle_lose_4cf823b0:
+translate schinese lothar_battle_lose_4cf823b0:
 
-#     # l "Ugh... Now you can't say I'm a bad mentor..."
-#     l ""
+    # l "Ugh... Now you can't say I'm a bad mentor..."
+    l "呼……这下你可没得说我是坏师傅了……"
 
-# translate schinese lothar_battle_lose_7838fa6c:
+translate schinese lothar_battle_lose_7838fa6c:
 
-#     # "The hero awkwardly walks, his hands grazes across your bottom and you instantly squirm under your breath."
-#     ""
+    # "The hero awkwardly walks, his hands grazes across your bottom and you instantly squirm under your breath."
+    "“全能型战士”开始蹒跚地一步一步往巷口走去。他的双手从你的膝盖窝滑到屁股，激得你一阵惊呼。"
 
-# translate schinese lothar_battle_lose_d4c9f9b5:
+translate schinese lothar_battle_lose_d4c9f9b5:
 
-#     # l "It's for support."
-#     l ""
+    # l "It's for support."
+    l "别大惊小怪的，这样才能稳住你。"
 
-# translate schinese lothar_battle_lose_b1e38b70:
+translate schinese lothar_battle_lose_b1e38b70:
 
-#     # "He holds onto you more tightly, as your whole weight sinks onto his hands under your butt."
-#     ""
+    # "He holds onto you more tightly, as your whole weight sinks onto his hands under your butt."
+    "洛萨尔颠颠身子，抓你大腿根抓得更紧了，让你能放心依靠。"
 
-# translate schinese lothar_battle_lose_3c116f13:
+translate schinese lothar_battle_lose_3c116f13:
 
-#     # "As much as you want to deny, his soft back feels like a dream to sleep on, slowly, you lost consciousnes-"
-#     ""
+    # "As much as you want to deny, his soft back feels like a dream to sleep on, slowly, you lost consciousnes-"
+    "无可否认，趴在这头大灰狼背上有如枕席云端，软软的、暖暖的，你想就这么睡过去——"
 
-# translate schinese lothar_battle_lose_1a0b2080:
+translate schinese lothar_battle_lose_1a0b2080:
 
-#     # l "Stop it disciple... I didn't remember hitting you that hard..."
-#     l ""
+    # l "Stop it disciple... I didn't remember hitting you that hard..."
+    l "别装了，[e]……我下手哪有这么狠……"
 
-# translate schinese lothar_battle_lose_b6b4b49a:
+translate schinese lothar_battle_lose_b6b4b49a:
 
-#     # "Lothar smacks you before you fall asleep, apparently, you two have reached the entrance of the shop."
-#     ""
+    # "Lothar smacks you before you fall asleep, apparently, you two have reached the entrance of the shop."
+    "他扇了你屁股两巴掌让你清醒过来，你发现你俩正在当铺门前。"
 
-# translate schinese lothar_battle_lose_10d82c45:
+translate schinese lothar_battle_lose_10d82c45:
 
-#     # e "Hmmm...?"
-#     e ""
+    # e "Hmmm...?"
+    e "唔……？"
 
-# translate schinese lothar_battle_lose_9def1af6:
+translate schinese lothar_battle_lose_9def1af6:
 
-#     # l "Get down."
-#     l ""
+    # l "Get down."
+    l "下来吧。"
 
-# translate schinese lothar_battle_lose_7178b33d:
+translate schinese lothar_battle_lose_7178b33d:
 
-#     # e "C-can you bring me to my bed...?"
-#     e ""
+    # e "C-can you bring me to my bed...?"
+    e "可以背我到床上吗……？"
 
-# translate schinese lothar_battle_lose_b79a65a6:
+translate schinese lothar_battle_lose_b79a65a6:
 
-#     # l "I don't want to see the lion..."
-#     l ""
+    # l "I don't want to see the lion..."
+    l "我不想见到那只笨猫。"
 
-# translate schinese lothar_battle_lose_82822a0c_1:
+translate schinese lothar_battle_lose_82822a0c_1:
 
-#     # l "..."
-#     l ""
+    # l "..."
+    l "……"
 
-# translate schinese lothar_battle_lose_09574c24:
+translate schinese lothar_battle_lose_09574c24:
 
-#     # "The hero doesn't say anything, he only knocks on the door with the other hand and enters the shop."
-#     ""
+    # "The hero doesn't say anything, he only knocks on the door with the other hand and enters the shop."
+    "洛萨尔没有再说话，他空出一只手敲敲门，随即走进当铺。"
 
-# translate schinese lothar_battle_lose_90c7b065:
+translate schinese lothar_battle_lose_90c7b065:
 
-#     # "There are a few customers in the shop, you can see Sebas and Ole glancing at you two before Lothar enters your room."
-#     ""
+    # "There are a few customers in the shop, you can see Sebas and Ole glancing at you two before Lothar enters your room."
+    "他绕过稀落几位顾客径直走进你的房间，没有在店面多做停留。你能看见塞巴斯和奥利盯了你们一路。"
 
-# translate schinese lothar_battle_lose_6a3f6e18:
+translate schinese lothar_battle_lose_6a3f6e18:
 
-#     # l "So..."
-#     l ""
+    # l "So..."
+    l "我们到了，[e]……"
 
-# translate schinese lothar_battle_lose_8673786b:
+translate schinese lothar_battle_lose_8673786b:
 
-#     # "Lothar throws you on the bed, luckily it's soft and bouncy, else you think you might get a concussion on top of your exhaustion."
-#     ""
+    # "Lothar throws you on the bed, luckily it's soft and bouncy, else you think you might get a concussion on top of your exhaustion."
+    "大灰狼将你扔上床，所幸你的床不硬而且还算有点弹性，不然你觉得你肯定得脑震荡。"
 
-# translate schinese lothar_battle_lose_d7399025:
+translate schinese lothar_battle_lose_d7399025:
 
-#     # l "I've done my duty. Take some rest."
-#     l ""
+    # l "I've done my duty. Take some rest."
+    l "你好好休息，为师仁至义尽先走了啊。"
 
-# translate schinese lothar_battle_lose_166bcab7:
+translate schinese lothar_battle_lose_166bcab7:
 
-#     # e "Lot...?"
-#     e ""
+    # e "Lot...?"
+    e "洛哥……？"
 
-# translate schinese lothar_battle_lose_9e185da1:
+translate schinese lothar_battle_lose_9e185da1:
 
-#     # l "Hmm, call me Lothar... but whatever..."
-#     l ""
+    # l "Hmm, call me Lothar... but whatever..."
+    l "还是叫我大名……哎都行吧。"
 
-# translate schinese lothar_battle_lose_6b20c35a:
+translate schinese lothar_battle_lose_6b20c35a:
 
-#     # e "Thank you for carrying me back here."
-#     e ""
+    # e "Thank you for carrying me back here."
+    e "谢谢你背我回来。"
 
-# translate schinese lothar_battle_lose_11b61cf8:
+translate schinese lothar_battle_lose_11b61cf8:
 
-#     # l "Well... It's just one street across."
-#     l ""
+    # l "Well... It's just one street across."
+    l "没事……才过个马路的距离。"
 
-# translate schinese lothar_battle_lose_af189a0a:
+translate schinese lothar_battle_lose_af189a0a:
 
-#     # l "Plus, I've never had a disciple before."
-#     l ""
+    # l "Plus, I've never had a disciple before."
+    l "我就只有你一个徒弟。"
 
-# translate schinese lothar_battle_lose_48a2eb91:
+translate schinese lothar_battle_lose_48a2eb91:
 
-#     # l "Not those two, they're too strong to be a disciple."
-#     l ""
+    # l "Not those two, they're too strong to be a disciple."
+    l "安布和乔格不过是我的战友，他们已经强到不用我教了。"
 
-# translate schinese lothar_battle_lose_cd43d83f:
+translate schinese lothar_battle_lose_cd43d83f:
 
-#     # l "So, you should be grateful..."
-#     l ""
+    # l "So, you should be grateful..."
+    l "所以你要感激我把心思都花在你身上……"
 
-# translate schinese lothar_battle_lose_8d1a3474:
+translate schinese lothar_battle_lose_8d1a3474:
 
-#     # e "Thanks again..."
-#     e ""
+    # e "Thanks again..."
+    e "谢谢师傅……"
 
-# translate schinese lothar_battle_lose_06672196:
+translate schinese lothar_battle_lose_06672196:
 
-#     # "Lothar smiles at you before turning back and closing the door."
-#     ""
+    # "Lothar smiles at you before turning back and closing the door."
+    "洛萨尔露出欣慰的笑容，转身帮你关好门，离开了你的房间。"
 
-# translate schinese lothar_battle_lose_6362fede:
+translate schinese lothar_battle_lose_6362fede:
 
-#     # "You can hear muttering between Lothar and the two shopowners, but more quickly so, you drift off to sleep."
-#     ""
+    # "You can hear muttering between Lothar and the two shopowners, but more quickly so, you drift off to sleep."
+    "门外开始传来细微的说话声，想必又是那三人在争论。"
+    "你没精力理睬他们到底在吵什么，一下子便睡着了。"
 
-# translate schinese lothar_battle_lose_a20cefa7:
+translate schinese lothar_battle_lose_a20cefa7:
 
-#     # "..."
-#     ""
+    # "..."
+    "……"
 
-# translate schinese lothar_battle_lose_1d439112:
+translate schinese lothar_battle_lose_1d439112:
 
-#     # "You wake up some time later, not knowing what time it is... but you look out and you see the sun shining..."
-#     ""
+    # "You wake up some time later, not knowing what time it is... but you look out and you see the sun shining..."
+    "不知过了多久，你醒过来……"
 
-# translate schinese lothar_battle_lose_2b16b774:
+translate schinese lothar_battle_lose_2b16b774:
 
-#     # "It should be morning..."
-#     ""
+    # "It should be morning..."
+    "窗外旭日初升，现在应该是早上。"
 
-# translate schinese lothar_battle_lose_ab719b0f:
+translate schinese lothar_battle_lose_ab719b0f:
 
-#     # "You get out of bed, glancing at your hand you see a strip of grey fur in your palm. It was still warm."
-#     ""
+    # "You get out of bed, glancing at your hand you see a strip of grey fur in your palm. It was still warm."
+    "你从床上坐起，发现手里还夹着几根蓝灰色的狼毛。"
 
-# translate schinese lothar_battle_lose_55ef911c:
+translate schinese lothar_battle_lose_55ef911c:
 
-#     # "You still can't decide whether Lothar is a good teacher..., but you can still remember the tickly feeling when he carried you to your bed..."
-#     ""
+    # "You still can't decide whether Lothar is a good teacher..., but you can still remember the tickly feeling when he carried you to your bed..."
+    "回想之前的经历，认不认洛萨尔这个师傅，你还没有定数。"
+    "掌心残存的余温真假难辨，但英雄阔背的毛乎触感千真万确……"
 
-# translate schinese translate schinese lothar_battle_win_eaf2480d:
+translate schinese lothar_battle_win_eaf2480d:
 
     # l "Fuck..."
-    l ""
+    l "肏……嘶——"
 
-# translate schinese lothar_battle_win_d8a1c3af:
+translate schinese lothar_battle_win_d8a1c3af:
 
-#     # l "A-ahhh."
-#     l ""
+    # l "A-ahhh."
+    pass
 
-# translate schinese lothar_battle_win_dcbe178b:
+translate schinese lothar_battle_win_dcbe178b:
 
-#     # e "Lothar... You alright...?"
-#     e ""
+    # e "Lothar... You alright...?"
+    e "洛萨尔，你还好吗？"
 
-# translate schinese lothar_battle_win_1e8ffa56:
+translate schinese lothar_battle_win_1e8ffa56:
 
-#     # "Lothar lies on the ground, still panting heavily as he loosens his grip on his sword."
-#     ""
+    # "Lothar lies on the ground, still panting heavily as he loosens his grip on his sword."
+    "洛萨尔倒在地上气喘如牛，佩剑从掌中滚落。"
 
-# translate schinese lothar_battle_win_c21547cb:
+translate schinese lothar_battle_win_c21547cb:
 
-#     # l "No. Fuck..."
-#     l ""
+    # l "No. Fuck..."
+    l "你说呢，一点都不好。"
 
-# translate schinese lothar_battle_win_78aa0a30:
+translate schinese lothar_battle_win_78aa0a30:
 
-#     # e "It's alright... It was just a sparring..."
-#     e ""
+    # e "It's alright... It was just a sparring..."
+    e "别灰心，这只是一次训练……"
 
-# translate schinese lothar_battle_win_f22eb4bc:
+translate schinese lothar_battle_win_f22eb4bc:
 
-#     # l "Fuck you, I've never seen any disciple hitting their hero this hard."
-#     l ""
+    # l "Fuck you, I've never seen any disciple hitting their hero this hard."
+    l "训练你妈，哪有徒弟对师傅下手这么狠的。"
 
-# translate schinese lothar_battle_win_eaf2480d_1:
+translate schinese lothar_battle_win_eaf2480d_1:
 
-#     # l "Fuck..."
-#     l ""
+    # l "Fuck..."
+    l "肏……死骚货勾引老子……"
 
-# translate schinese lothar_battle_win_44e5f098:
+translate schinese lothar_battle_win_44e5f098:
 
-#     # l "A-ahhh....Why are you so fuckable..."
-#     l ""
+    # l "A-ahhh....Why are you so fuckable..."
+    pass
 
-# translate schinese lothar_battle_win_951590b2:
+translate schinese lothar_battle_win_951590b2:
 
-#     # e "Lothar, You alright...?"
-#     e ""
+    # e "Lothar, You alright...?"
+    e "洛萨尔，你还好吗？"
 
-# translate schinese lothar_battle_win_1e8ffa56_1:
+translate schinese lothar_battle_win_1e8ffa56_1:
 
-#     # "Lothar lies on the ground, still panting heavily as he loosens his grip on his sword."
-#     ""
+    # "Lothar lies on the ground, still panting heavily as he loosens his grip on his sword."
+    "洛萨尔倒在地上气喘如牛，佩剑从掌中滚落。"
 
-# translate schinese lothar_battle_win_c21547cb_1:
+translate schinese lothar_battle_win_c21547cb_1:
 
-#     # l "No. Fuck..."
-#     l ""
+    # l "No. Fuck..."
+    l "你说呢，一点都不好。"
 
-# translate schinese lothar_battle_win_78aa0a30_1:
+translate schinese lothar_battle_win_78aa0a30_1:
 
-#     # e "It's alright... It was just a sparring..."
-#     e ""
+    # e "It's alright... It was just a sparring..."
+    e "别灰心，这只是一次训练……"
 
-# translate schinese lothar_battle_win_269feffe:
+translate schinese lothar_battle_win_269feffe:
 
-#     # l "Fuck you, I've never seen any disciple trying this hard to get their ass fucked."
-#     l ""
+    # l "Fuck you, I've never seen any disciple trying this hard to get their ass fucked."
+    l "训练你妈，哪有徒弟在师傅面前这么妖媚的。"
 
-# translate schinese lothar_battle_win_fe1f7424:
+translate schinese lothar_battle_win_fe1f7424:
 
-#     # l "If I were not sober I'll literally grab your ass and eat it right here."
-#     l ""
+    # l "If I were not sober I'll literally grab your ass and eat it right here."
+    l "亏我还能保持清醒，不然你那两瓣早就被我吃干抹净了。"
 
-# translate schinese lothar_battle_win_67bfe123:
+translate schinese lothar_battle_win_67bfe123:
 
-#     # l "And, you're just lucky because I was drunk last night."
-#     l ""
+    # l "And, you're just lucky because I was drunk last night."
+    l "这次你只是侥幸取胜。不巧我昨晚喝醉酒，所以今天才没什么状态。"
 
-# translate schinese lothar_battle_win_ad7279d5:
+translate schinese lothar_battle_win_ad7279d5:
 
-#     # e "Aren't you drunk every night...?"
-#     e ""
+    # e "Aren't you drunk every night...?"
+    e "你不是每天晚上都醉醺醺的吗……？"
 
-# translate schinese lothar_battle_win_6111d811:
+translate schinese lothar_battle_win_6111d811:
 
-#     # l "No. Whatever, maybe I underestimated you, but if I'm in serious state, you can't even touch me!"
-#     l ""
+    # l "No. Whatever, maybe I underestimated you, but if I'm in serious state, you can't even touch me!"
+    l "胡扯！非说不可的话是我轻敌了，如果我认真起来你根本动不着我一根毫毛。"
 
-# translate schinese lothar_battle_win_eaf2480d_2:
+translate schinese lothar_battle_win_eaf2480d_2:
 
-#     # l "Fuck..."
-#     l ""
+    # l "Fuck..."
+    l "该死……"
 
-# translate schinese lothar_battle_win_453df8a1:
+translate schinese lothar_battle_win_453df8a1:
 
-#     # e "About the be-"
-#     e ""
+    # e "About the be-"
+    e "那我们之前赌的——"
 
-# translate schinese lothar_battle_win_e64fb882:
+translate schinese lothar_battle_win_e64fb882:
 
-#     # l "No bet, fuck off, and let me rest..."
-#     l ""
+    # l "No bet, fuck off, and let me rest..."
+    l "赌个毛，滚一边去，我要缓一缓……"
 
-# translate schinese lothar_battle_win_166bcab7:
+translate schinese lothar_battle_win_166bcab7:
 
-#     # e "Lot...?"
-#     e ""
+    # e "Lot...?"
+    e "洛哥……"
 
-# translate schinese lothar_battle_win_1a1e56a2:
+translate schinese lothar_battle_win_1a1e56a2:
 
-#     # l "I said no bet."
-#     l ""
+    # l "I said no bet."
+    l "滚！"
 
-# translate schinese lothar_battle_win_6d9927f9:
+translate schinese lothar_battle_win_6d9927f9:
 
-#     # e "Do you need a hand?"
-#     e ""
+    # e "Do you need a hand?"
+    e "我拉你起来吧。"
 
-# translate schinese lothar_battle_win_42700055:
+translate schinese lothar_battle_win_42700055:
 
-#     # l "No. Now leave me alone..."
-#     l ""
+    # l "No. Now leave me alone..."
+    l "不用，让我一个人待着。"
 
-# translate schinese lothar_battle_win_c0615259:
+translate schinese lothar_battle_win_c0615259:
 
-#     # "You look at Lothar, who is clutching at his stomach while moaning lightly."
-#     ""
+    # "You look at Lothar, who is clutching at his stomach while moaning lightly."
+    if enemy.hp <= 0:
+        "你呆呆地望着这头惨败的大灰狼，他捂着肚子，发出微弱的闷哼。"
+    if enemy.lust >= enemy.max_lust:
+        "你呆呆地望着这头惨败的大灰狼，他捂着下体，发出微弱的呻吟。"
 
-# translate schinese lothar_battle_win_c35580ca:
+translate schinese lothar_battle_win_c35580ca:
 
-#     # "As much as you want to get closer with him. He obviously doesn't want your help."
-#     ""
+    # "As much as you want to get closer with him. He obviously doesn't want your help."
+    "你很想上去扶他一把，但他已经叫你滚蛋了。"
 
-# translate schinese lothar_battle_win_cb2cb16e:
+translate schinese lothar_battle_win_cb2cb16e:
 
-#     # "Maybe he'll get over it soon, after recovering from your sparring."
-#     ""
+    # "Maybe he'll get over it soon, after recovering from your sparring."
+    "或许在你走远之后，他会缓过劲来回家。"
 
-# translate schinese lothar_battle_win_1cec19b9:
+translate schinese lothar_battle_win_1cec19b9:
 
-#     # "Or he'll continue acting out his frustration on you... For whatever reason."
-#     ""
+    # "Or he'll continue acting out his frustration on you... For whatever reason."
+    "又或是继续躺着，咒骂你不识抬举、没轻没重、狐狸尾巴……反正他有的是理由。"
 
-# translate schinese lothar_battle_win_41c11815:
+translate schinese lothar_battle_win_41c11815:
 
-#     # "For now, you feel it's not your place to stay. So you glance at him one more time before getting back to the main road."
-#     ""
+    # "For now, you feel it's not your place to stay. So you glance at him one more time before getting back to the main road."
+    "你知道自己不宜久留，于是你最后瞟他一眼，转身回到了街道。"
