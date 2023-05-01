@@ -1,4 +1,1470 @@
-﻿translate schinese Kechioeren_Enter_5d8de010:
+﻿translate schinese Kari_Dialogue_40dfb5cd:
+
+    # e "Hey, General."
+    e "将军你好。"
+
+translate schinese Kari_Dialogue_b21ba27b:
+
+    # k "Courier? Had Chief given you the approval to enter the tribe?"
+    k "乐村的邮差？族长允许你进村了吗？"
+
+translate schinese Kari_Dialogue_118adec5:
+
+    # e "Yes."
+    e "是啊。"
+
+translate schinese Kari_Dialogue_b4dba52f:
+
+    # k "...so, another face I'll have to remember well."
+    k "……又有张面孔要记住了。"
+
+translate schinese Kari_Dialogue_6cbcb53b:
+
+    # e "Are you ok?"
+    e "你的伤怎么样了？"
+
+translate schinese Kari_Dialogue_2d0406aa:
+
+    # k "No, I told you to kill me right there, so I didn't have to suffer such a long week of resting."
+    k "不劳你假惺惺的关心。"
+    k "当初叫你杀了我，就是为了避免现在我得像个窝囊废一样等着康复。"
+
+translate schinese Kari_Dialogue_43360f76:
+
+    # e "Stop... I didn't mean any harm."
+    e "别这么说……我没有恶意。"
+
+translate schinese Kari_Dialogue_35153737:
+
+    # k "Whatever, I'm not arguing with you, I still have to recover somehow."
+    k "无所谓，我不会跟你争论。部族需要我，我必须尽管好起来。"
+
+translate schinese Kari_Dialogue_4723c323:
+
+    # k "Thanks for saving Furkan anyway."
+    k "但还是感谢你救出族长。"
+
+translate schinese Kari_Dialogue_ee60c608:
+
+    # e "So, how are you doing."
+    pass
+
+translate schinese Kari_Dialogue_f9a9c39c:
+
+    # e "I remembered you had to carry Furkan back to the Tribe."
+    e "山洞离部落这么远，背着弗坎走回来一定很辛苦吧。"
+
+translate schinese Kari_Dialogue_2ec69d3c:
+
+    # k "Well, I'll just say he's quite heavier than maybe 20 years ago."
+    k "哼，他确实比 20 年前重多了。"
+
+translate schinese Kari_Dialogue_bf90dd40:
+
+    # e "How did it go... after saving Furkan in the cave."
+    e "那把弗坎背回来之后呢？"
+
+translate schinese Kari_Dialogue_c394473b:
+
+    # k "It's fine."
+    k "料理公事，疗养伤口。"
+
+translate schinese Kari_Dialogue_17622bbc:
+
+    # e "I mean, did anything happened between you two?"
+    e "我是说你们私下有没有再做什么……？"
+
+translate schinese Kari_Dialogue_ddbc5ca2:
+
+    # k "W-what?"
+    k "嗯？"
+
+translate schinese Kari_Dialogue_df829dbc:
+
+    # k "No?"
+    k "没有。"
+
+translate schinese Kari_Dialogue_76067fa4:
+
+    # e "Alright alright."
+    e "好吧……"
+
+translate schinese Kari_Dialogue_74e18e83:
+
+    # k "But, I have to say."
+    k "总之，感谢你救出族长。"
+
+translate schinese Kari_Dialogue_2920f717:
+
+    # k "Thanks for helping me save Furkan."
+    pass
+
+translate schinese Kari_Dialogue_fab4eaf3:
+
+    # e "No problem."
+    e "不客气。"
+
+translate schinese Kari_Dialogue_751b2954:
+
+    # k "What's the meaning of this, courier."
+    k "你几个意思，野蛮人。"
+
+translate schinese Kari_Dialogue_50afd1d4:
+
+    # e "Uhm..."
+    e "呃……"
+
+translate schinese Kari_Dialogue_b6e89eda:
+
+    # k "You dare come up to me bare-skinned? How insolent."
+    k "竟然敢在我面前一丝不挂？没点规矩！"
+
+translate schinese Kari_Dialogue_af07a39f:
+
+    # e "S-sorry."
+    e "对、对不起。"
+
+translate schinese Kari_Dialogue_79ebf5db:
+
+    # k "Now, speak your words, the sooner we end this, the better."
+    k "有话快说，有屁快放，然后立马从我眼前消失。"
+
+translate schinese Kari_Normal_Talk_77aaa495:
+
+    # k "Courier." nointeract
+    k "说。" nointeract
+
+translate schinese strings:
+
+    # old "Ask about his warriors"
+    # new ""
+
+    # old "Ask why he is staring at you"
+    # new ""
+
+    # old "Join the warrior practice"
+    # new ""
+
+    old "Ask about the Goat Tribe"
+    new "询问山羊部落的事情"
+
+    old "Ask about his status of being a general"
+    new "好奇他成为将军的经历"
+
+# translate schinese Kari_Normal_Talk_29bfd31b:
+
+#     # e "Hey, Kari, I'm ready for the practice."
+#     e ""
+
+translate schinese Kari_Ask_Goat_Tribe_853e1c1c:
+
+    # e "So, how's the tribe going?"
+    e "嗨，最近部落的情况还好吗？"
+
+translate schinese Kari_Ask_Goat_Tribe_b55f0994:
+
+    # k "Good, I'm training a new troop currently."
+    k "不错，我正在训练一伍新兵。"
+
+translate schinese Kari_Ask_Goat_Tribe_ed6149bf:
+
+    # k "Apparently we have to reduce the number of mages. So, we're training in a more traditional way."
+    k "魔力枯竭，我们得削减法师的编制。同时使用传统方式训练，减少对魔力的依赖。"
+
+translate schinese Kari_Ask_Goat_Tribe_b5b3d750:
+
+    # e "I see. What are you planning to do with them...?"
+    e "这样啊……他们训练好之后要干什么？"
+
+translate schinese Kari_Ask_Goat_Tribe_ff104b3c:
+
+    # k "Huh? To fight. What else do you think. We're fighting for glory, for the safety of our tribe."
+    k "嗯？当然要投入军队保卫家园，不然将士何以是将士？"
+    k "为部族安危而战，既是我们的责任，更是我们的荣誉。"
+
+translate schinese Kari_Ask_Goat_Tribe_629ff950:
+
+    # k "We talk about none other than honour. And being the general, I'm the one who command my troops."
+    k "古来征战几人回？生以辱，不如死以荣。"
+    k "我作为将军不仅要身体力行，也要把这个优良传统延续下去。"
+
+translate schinese Kari_Ask_Goat_Tribe_87385180:
+
+    # k "You either cowardly live, or die with honour."
+    pass
+
+translate schinese Kari_Ask_Goat_Tribe_faa7d97b:
+
+    # e "Hmm..."
+    e "哇……"
+
+translate schinese Kari_Ask_Goat_Tribe_b9a90435:
+
+    # e "You're so cute when you talk like this."
+    e "你严肃的时候总是很可爱。"
+
+translate schinese Kari_Ask_Goat_Tribe_ddbc5ca2:
+
+    # k "W-what?"
+    k "什、什么？"
+
+translate schinese Kari_Ask_Goat_Tribe_12341bed:
+
+    # k "F-fuck you. Stop changing the topic."
+    k "闭嘴，别扯这些有的没的。"
+
+translate schinese Kari_Ask_Goat_Tribe_ecf32af2:
+
+    # e "Mmmmhm..."
+    e "唔……"
+
+translate schinese Kari_Ask_Goat_Tribe_6d56629d:
+
+    # "Kari silently stares at you, you g"
+    pass
+
+# translate schinese Kari_Ask_Warrior_Practice_a4091800:
+
+#     # e "H-hey, general. How's the practices lately."
+#     e ""
+
+# translate schinese Kari_Ask_Warrior_Practice_ef64eead:
+
+#     # "Kari pauses a moment, face contorting as if he were remembering a particularly unpleasant experience."
+#     ""
+
+# translate schinese Kari_Ask_Warrior_Practice_7e160790:
+
+#     # k "I have a request to ask of you."
+#     k ""
+
+# translate schinese Kari_Ask_Warrior_Practice_031d0ab4:
+
+#     # e "Oh? The Great General is asking me for help?"
+#     e ""
+
+# translate schinese Kari_Ask_Warrior_Practice_5d3ec938:
+
+#     # "It is entertaining to watch Kari try and rub his forehead to nurse a growing headache, only to be stopped by the bone of his mask."
+#     ""
+
+# translate schinese Kari_Ask_Warrior_Practice_8e9fe151:
+
+#     # k "Yes, Courier, though only because Furkan convinced me it would be a good idea."
+#     k ""
+
+# translate schinese Kari_Ask_Warrior_Practice_a6c04dae:
+
+#     # e "That makes sense. So, what do you want me to do?"
+#     e ""
+
+# translate schinese Kari_Ask_Warrior_Practice_36f6c5a6:
+
+#     # k "Well, as you know, we've been running out of rune power."
+#     k ""
+
+# translate schinese Kari_Ask_Warrior_Practice_b9cf077e:
+
+#     # k "As such, many of our warriors have been recruited to train in non-magical combat."
+#     k ""
+
+# translate schinese Kari_Ask_Warrior_Practice_89ffb216:
+
+#     # k "Results have left much to be desired."
+#     k ""
+
+# translate schinese Kari_Ask_Warrior_Practice_0e57c851:
+
+#     # "This is an understatement. You see all of one goat warrior training right now, the rest petulantly sitting around."
+#     ""
+
+# translate schinese Kari_Ask_Warrior_Practice_a00107bf:
+
+#     # e "And you want me to help them train?"
+#     e ""
+
+# translate schinese Kari_Ask_Warrior_Practice_c5309407:
+
+#     # k "Yes. Specifically, I want you to spar them."
+#     k ""
+
+# translate schinese Kari_Ask_Warrior_Practice_c6a78926:
+
+#     # k "I hate to say it, but being beaten so soundly by someone they've never met will likely motivate them."
+#     k ""
+
+# translate schinese Kari_Ask_Warrior_Practice_78dfb780:
+
+#     # e "I thought you of all people would be okay with seeing your warriors learn lessons the hard way."
+#     e ""
+
+# translate schinese Kari_Ask_Warrior_Practice_2a8733b9:
+
+#     # k "Yes, but I am unhappy that you are stronger than them, courier."
+#     k ""
+
+# translate schinese Kari_Ask_Warrior_Practice_5e084a48:
+
+#     # k "But after your performance in the cave, I must acknowledge your strength as a warrior."
+#     k ""
+
+# translate schinese Kari_Ask_Warrior_Practice_e5309eb7:
+
+#     # e "You know, it's kind of cute to hear you compliment me like that."
+#     e ""
+
+# translate schinese Kari_Ask_Warrior_Practice_e7cb8780:
+
+#     # k "Not a compliment."
+#     k ""
+
+# translate schinese Kari_Ask_Warrior_Practice_52cc48a1:
+
+#     # e "Still cute."
+#     e ""
+
+# translate schinese Kari_Ask_Warrior_Practice_e9c215c4:
+
+#     # "A murderous smile is creeping across Kari's face at this point."
+#     ""
+
+# translate schinese Kari_Ask_Warrior_Practice_c915a93c:
+
+#     # "You fear you may have gone a bit too far."
+#     ""
+
+# translate schinese Kari_Ask_Warrior_Practice_ff5f744b:
+
+#     # k "Call me cute one more time, and we'll see how cute you think I am after you have this rod shoved 5 feet up your ass."
+#     k ""
+
+# translate schinese Kari_Ask_Warrior_Practice_dea99fd3:
+
+#     # "It takes great effort not to tease him for his word choice, but you have to, for your own safety."
+#     ""
+
+# translate schinese Kari_Ask_Warrior_Practice_36859729:
+
+#     # e "So, how do I start?"
+#     e ""
+
+# translate schinese Kari_Ask_Warrior_Practice_ff00c4aa:
+
+#     # k "I'm going to assume you mean sparring. Well."
+#     k ""
+
+# translate schinese Kari_Ask_Warrior_Practice_63908825:
+
+#     # k "I presume you are not ready yet. Am I not right...?" nointeract
+#     k "" nointeract
+
+# translate schinese Kari_Ask_Warrior_Practice_e03257e0:
+
+#     # e "I'm ready."
+#     e ""
+
+# translate schinese Kari_Ask_Warrior_Practice_ca52ad3e:
+
+#     # e "I am going to need some time to prepare..."
+#     e ""
+
+# translate schinese Kari_Ask_Warrior_Practice_17f263d0:
+
+#     # k "Fair. I'll be waiting with my warriors."
+#     k ""
+
+# translate schinese Kari_Warrior_Practice_Start_187b9279:
+
+#     # "Kari nods, he steps away from you and turns to face the guards."
+#     ""
+
+# translate schinese Kari_Warrior_Practice_Start_afddffad:
+
+#     # k "ATTENTION."
+#     k ""
+
+# translate schinese Kari_Warrior_Practice_Start_aea7f2d8:
+
+#     # "Despite being in a wide open space, Kari's booming voice manages to echo from sheer volume alone."
+#     ""
+
+# translate schinese Kari_Warrior_Practice_Start_030dbe77:
+
+#     # "Every goat in the camp ducks, covering their ears, before turning towards Kari and snapping to attention."
+#     ""
+
+# translate schinese Kari_Warrior_Practice_Start_850140a3:
+
+#     # k "TODAY, A GUEST WILL BE JOINING US FOR TRAINING, THE COURIER [e]."
+#     k ""
+
+# translate schinese Kari_Warrior_Practice_Start_1e681ace:
+
+#     # k "HE WILL BE YOUR SPARRING PARTNER. DO YOUR BEST TO BEAT HIM WITHOUT USING MAGIC."
+#     k ""
+
+# translate schinese Kari_Warrior_Practice_Start_3ba4e488:
+
+#     # "Any hopeful sounds coming from the assembled goats turn to groans at the words 'without using magic'."
+#     ""
+
+# translate schinese Kari_Warrior_Practice_Start_82499a1d:
+
+#     # e "Well, line up for the sparring, I guess."
+#     e ""
+
+# translate schinese Kari_Warrior_Practice_Start_ffa1bcb6:
+
+#     # "A line of goats gripping spears quickly forms."
+#     ""
+
+# translate schinese Kari_Warrior_Practice_Start_68a7ef99:
+
+#     # "The first goat in that line approaches."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Lose_e9ff3f0d:
+
+#     # k "I'm surprised you lost to them."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Lose_9a6549cb:
+
+#     # e "Maybe they're stronger than you think?"
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Lose_b5ddd391:
+
+#     # k "No, you're just weaker than I thought."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Lose_72f735b3:
+
+#     # k "That or you didn't really try."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Lose_c99914ed:
+
+#     # "The assembled goats look like they've eaten a particularly sour lemon."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Lose_fa72849d:
+
+#     # gtr "Why can't you just believe that we're strong?"
+#     gtr ""
+
+# translate schinese Kari_Goat_Practice_Lose_4c68da1a:
+
+#     # k "Because none of you have ever come close to beating me, even two on one."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Lose_490f7492:
+
+#     # k "I am your general, not your paragon."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Lose_4305ad19:
+
+#     # k "If we want to be able to protect the tree, and find the one who stole the rune, we have to be stronger than this."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Lose_e2c12b54:
+
+#     # "It's unclear if Kari is trying to convince the recruits or himself at this point."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Lose_72ef96ae:
+
+#     # k "You see, our soldiers are not up to battle standard, but it seems you'd need more experience to, teach them."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Lose_77477d1d:
+
+#     # e "I guess so."
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Lose_82091822:
+
+#     # k "..."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Lose_a71be26a:
+
+#     # k "Then, we'll see you next time, recover soon."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Lose_1b479bda:
+
+#     # e "See you, Kari."
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_ba4a0b3d:
+
+#     # gtr "F-fuck..."
+#     gtr ""
+
+# translate schinese Kari_Goat_Practice_Win_82091822:
+
+#     # k "..."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_74bbc763:
+
+#     # "Kari is looking at the horny goat with a mix of disgust and contempt."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_9700fae3:
+
+#     # "He turns his gaze to look at you, and the expression only intensifies."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_4e312f3e:
+
+#     # k "That is not how a warrior fights."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_4597dfdd:
+
+#     # e "Well, it worked, no?"
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_92f8c621:
+
+#     # k "Yes, but still, one should not debase themselves to win. Morality has a purpose in this world."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_c56bb076:
+
+#     # k "It is like how one could earn much money stealing from their fellow man, but does not because they should not."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_3815a1be:
+
+#     # e "I strongly disagree. A fight won through flirtation is much less harmful than one won through violence."
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_eec20efb:
+
+#     # "Kari is still disgusted, but accepts this for what it is."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_1428edd5:
+
+#     # k "Regardless, you have shown a weakness we must work on."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_95d1aa03:
+
+#     # k "Everyone, I am disgusted by your show of animalistic lust."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_491572e9:
+
+#     # gt "As if you could do better!"
+#     gt ""
+
+# translate schinese Kari_Goat_Practice_Win_db79181f:
+
+#     # "Kari walks over and hits the protesting goat over the head with his staff."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_9863b47d:
+
+#     # k "I can and did do better. I watched the entire affair, and was completely unaffected."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_f6d02df0:
+
+#     # "You are pretty sure he is lying somewhat, but he certainly showed more restraint than his warriors."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_7e395613:
+
+#     # k "Work on your discipline, both in not talking back to your general, and in controlling your lust."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_f8cb1a5e:
+
+#     # k "We must be strong. Must be prepared."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_fffa877b:
+
+#     # k "If we are not, we may lose more than just the rune."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_1ba6f454:
+
+#     # k "No matter what, we must keep the tribe safe."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_e9e85741:
+
+#     # k "Huh, thanks for breaking his spirit on his day one, Courier."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_0d2e296c:
+
+#     # k "I think we have a clear winner."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_71bcc4e0:
+
+#     # "There is a collective groan at this declaration, though nobody can quite disagree."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_9f621173:
+
+#     # k "I think it's clear that you all need to work on your non-magical combat."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_083a1caa:
+
+#     # gt "Why can't we just keep using magic! We still have the tree!"
+#     gt ""
+
+# translate schinese Kari_Goat_Practice_Win_25a013b2:
+
+#     # k "The tree does not supply nearly enough magic for that."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_ca03947b:
+
+#     # k "Maintaining our buildings and water supply is already straining what it can produce."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_0870f279:
+
+#     # e "Is it really that bad?"
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_86d607e1:
+
+#     # k "Yes. That is why we need to find the rune as soon as possible, and make sure nobody disturbs the tree."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_a51c44c6:
+
+#     # "Just as Kari finishes his lecture, Furkan appears from the center of the tribe."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_591ebd01:
+
+#     # f "Oh, hello there [e]! I couldn't help but overhear our general talking about the situation with the tree."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_a8e0f45e:
+
+#     # k "We've already talked about this chieftain..."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_325a327e:
+
+#     # f "Yes, but we've never agreed on it."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_3a2b502f:
+
+#     # "Kari looks a bit unhappy about that, but can't quite disagree."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_087e7315:
+
+#     # k "Yes... but should we not talk about this in private, chieftain?"
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_92d14db7:
+
+#     # k "It involves quite confidential information."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_52b68439:
+
+#     # f "Perhaps, but I wanted to get [e]'s opinion on the matter."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_506e2f46:
+
+#     # "Kari looks surprised, and a bit tired, but still nods his head in assent."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_c58e4881:
+
+#     # k "Well, if it's alright with you then, I will order everyone else to clear out."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_76a07bb8:
+
+#     # "Furkan gives an assenting nod."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_5148fcfd:
+
+#     # "Kari turns to face the other goats present."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_70c9020f:
+
+#     # k "Everybody, we will cover how to improve on your performance today at a later date."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_4845ee92:
+
+#     # k "Please vacate the premises to allow for an impromptu meeting."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_aea116d9:
+
+#     # "With a chorus of unhappy grumbles, the surrounding goats clear out, returning to their normal activities."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_e96ef95d:
+
+#     # e "If I can ask... why do you want my opinion?"
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_0d9c3c74:
+
+#     # k "Not to be rude or doubt you, chieftain, but I was wondering the same."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_78669e6b:
+
+#     # f "Well, you saved me... I can't think of something that should make me trust you more."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_3f9edfba:
+
+#     # "Furkan's face is completely genuine and trusting as he says this."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_70b51dee:
+
+#     # "He really does believe that you'll pick the right thing."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_7f54bea7:
+
+#     # k "I don't trust you as much as the chieftain does, but... I trust him on any decision he makes."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_32e417b5:
+
+#     # e "Well, I don't really know what I'm supposed to be choosing between."
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_cb01c37a:
+
+#     # f "Right, was getting to that."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_f9a9641d:
+
+#     # f "You've already heard most of Kari's thoughts, but I'll let him elaborate."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_84f0fb0c:
+
+#     # "Furkan turns to Kari, nodding his head to signal him to explain."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_23112146:
+
+#     # k "As he said, you've heard most of it, but."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_03b7e878:
+
+#     # k "I think we should keep our warriors trained and guarding the tree."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_666396c5:
+
+#     # k "Protect the last source of magic the tribe has to our last breath, and through that, protect ourselves."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_c5f6aeb4:
+
+#     # "Kari emphasizes the end of this statement by tapping his staff against the ground."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_bea49471:
+
+#     # "He then turns to face Furkan, bowing slightly."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_d831a93f:
+
+#     # f "You know you don't have to do that, Kari."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_b007bf71:
+
+#     # "Kari gets out of his bow, as if he hadn't heard that."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_e40234ba:
+
+#     # k "I just want to show the proper respect to my chieftain, and thank him for letting me express my opinion."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_cf15db7c:
+
+#     # "Furkan lets out a small sigh, likely too small for Kari to have noticed."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_3c8ca958:
+
+#     # f "Well, I respect your feelings on the matter, both regarding respect for me, and the tree."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_6713e3e8:
+
+#     # f "However, I believe the correct choice of action is to withdraw our troops from the tree."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_f2d76711:
+
+#     # e "Wait, why?! Isn't it literally holding your village together with its magic?"
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_541f49e2:
+
+#     # f "Yes, it is."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_21349790:
+
+#     # "Furkan takes a breath before continuing, as if convincing himself to keep going."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_fd19fdec:
+
+#     # f "But we can survive without it for a while."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_03a23380:
+
+#     # f "We will have to ration our magic, but we are already doing that."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_7a1c1d77:
+
+#     # f "I want to do this to show the village that we can be trusted, considering how close the tree is to their territory."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_bd6ed544:
+
+#     # f "Additionally, by retreating the troops, we can hold a tighter perimeter around the village."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_0d14af8d:
+
+#     # e "But nobody is attacking it, no? Why do you need to hold that perimeter?"
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_0065659c:
+
+#     # f "We can better track the people of the village by doing this."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_35bfca4d:
+
+#     # "A pained expression crosses his face."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_34a48164:
+
+#     # f "I believe whoever stole the rune is either in or nearby the village."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_8c1954a5:
+
+#     # k "The thought hurts me deeply, as I know it hurts our chieftain, but..."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_9477a4e3:
+
+#     # k "Nobody outside of the village knew where the rune was, so, it's what would make sense."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_1b3456e2:
+
+#     # e "Couldn't somebody have just followed you up to where the rune was?"
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_8f419e88:
+
+#     # f "It is extremely unlikely, as we rarely visited."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_03ef5aa3:
+
+#     # f "Additionally, the guardians would have reacted and attacked anyone who wasn't of our tribe."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_ac866a08:
+
+#     # f "Considering they did it while our leader... was distracted from the caravan."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_d8c6bf62:
+
+#     # f "It is a loathsome conclusion, but the one that makes the most sense."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_76681718:
+
+#     # f "Regardless, those are our positions."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_230a33bb:
+
+#     # "Both turn to face you."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_98a6cb4c:
+
+#     # f "Well [e], what do you think?" nointeract
+#     f "" nointeract
+
+# translate schinese Kari_Goat_Practice_Win_5ff7f246:
+
+#     # e "I'd say... keep the huntsmen there?"
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_1aa392a9:
+
+#     # k "Well..."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_7192ffbc:
+
+#     # k "Thank you for helping the chieftain and I reach an agreement on this."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_670fde36:
+
+#     # "You have a feeling Kari is mainly thankful that he doesn't have to leave the tree unguarded."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_05de4eec:
+
+#     # f "If you believe that is for the best, [e], I will trust your decision, as much as mine and Kari's."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_3d21572d:
+
+#     # k "I will continue to train our troops to be ready for any attack."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_3987168f:
+
+#     # f "Thank you for doing so."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_a38e33a1:
+
+#     # f "There is no one I would rather trust with our safety."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_73cff794:
+
+#     # "Furkan sighs sadly."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_944eb4ea:
+
+#     # f "Now there is only the question of how else we could patch up relationships with Lusterfield..."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_4abdaa0c:
+
+#     # f "Both groups have yet to recover... the wounds cut deep, and scarred into prejudice and distrust."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_afb937ed:
+
+#     # f "If we wish to have any future cooperation or mutual existence in general, it should be done."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_49257c1d:
+
+#     # k "I understand chieftain. I think we should make amends as well."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_27828109:
+
+#     # k "Hopefully, we will have ample opportunity to when we have the rune back."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_62f114fb:
+
+#     # "Furkan looks slightly melancholy."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_b4b6d55d:
+
+#     # f "Well, we will protect what we have for now."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_ec6804d9:
+
+#     # f "Thank you again, [e]. I hope to see you again soon."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_380a19fc:
+
+#     # f "And of course, thank you as always, Kari."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_c0815fc1:
+
+#     # "With that, Furkan leaves, a cloud of wistful bygones hanging over his head."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_c8fc4cd6:
+
+#     # e "Kari, you look like you want to say something, what is it?"
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_8e758ae7:
+
+#     # "Furkan's head whips back up, seemingly jolted out of his pensive haze."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_28859260:
+
+#     # k "Well, I didn't want to say anything, as it wasn't something I had the right to tell my chieftain."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_13bff1a2:
+
+#     # f "Okay, then don't tell your chieftain."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_62261545:
+
+#     # f "Tell a fellow tribesman, Kari. I haven't always been chieftain, nor you my general."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_d48ddbb0:
+
+#     # f "I value your opinion as an equal, even if we are not so, politically."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_4d75b5b4:
+
+#     # k "I just wanted to say thank you for listening to me. Even if it wasn't how I thought it would go..."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_c7acb306:
+
+#     # k "...You're doing great."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_df6855a3:
+
+#     # f "I'm glad one of us thinks so."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_6084a5a3:
+
+#     # f "I'll keep trying my best."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_c81b2c93:
+
+#     # "And with that, both goats flash each other quick smiles, radiating a warmth you hadn't seen from them before."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_f3002751:
+
+#     # f "I should get back to work at the tent."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_184f0f85:
+
+#     # k "I'll see you there."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_ca3f157c:
+
+#     # "Furkan walks off, whatever somber mood had enveloped him seemingly gone for now."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_4142e697:
+
+#     # k "Courier. I would not have trusted you with making this decision, but I cannot say I regret it."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_5a04e2c8:
+
+#     # e "...you're welcome?"
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_6e5fe1f5:
+
+#     # k "Fair enough."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_4d9602b7:
+
+#     # "Kari chuckles a bit at your clear confusion."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_ae07ce51:
+
+#     # k "I'm off to go find where my recruits have run off to. Picking berries or something, surely."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_dbee576e:
+
+#     # "And with that, Kari struts off, leaving you alone once more."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_508b7c02:
+
+#     # f "Thank you for your candor."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_2dc7693d:
+
+#     # k "I hope you have the right reasons for making the decision you have, but, I see the wisdom in the position."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_5c1afedb:
+
+#     # "Kari doesn't seem to be a sore loser going by his eyes. They are filled with distrust rather than frustration."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_9792827d:
+
+#     # f "If he had wanted to hurt us, he could have back when I was trapped in the cave."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_f96ec317:
+
+#     # k "I understand, I just want to protect you and our tribe, chieftain."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_63e92d27:
+
+#     # "Furkan looks to be on the edge of saying something, but can't quite bring himself to."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_5a56cbaa:
+
+#     # "Looking across at Kari, you can see that he sees the same as you, but sees himself as too low rank to speak on it."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_f8044169:
+
+#     # "Seeing Furkan will not in fact say what he wants to, Kari opens his mouth to speak."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_70663843:
+
+#     # k "I need to go tell the warriors of this change of plans."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_8424a99a:
+
+#     # k "I will report back to the tent when I am done."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_58e5184a:
+
+#     # "With that, Kari walks out in the direction the majority of the goat warriors went."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_280d2c91:
+
+#     # e "Furk, what's wrong?"
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_668ea3f8:
+
+#     # f "Nothing is wrong, I just..."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_d6aa7379:
+
+#     # "You can see Furkan take in a deep breath, preparing to take the leap and say whatever it is he's been thinking."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_16c0bf7e:
+
+#     # f "Kari, I want you to know that I trust you to protect the tribe, and myself."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_2640c2f4:
+
+#     # f "There is nobody I trust more than you."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_d5b7a6d7:
+
+#     # "Kari bows low, like a knight accepting their oath."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_5a27427a:
+
+#     # k "Thank you chieftain, I appreciate your trust in my abilities as a general."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_253799b8:
+
+#     # f "No, Kari. It is not about you as a general, though I trust that as well."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_740ea3d2:
+
+#     # f "You have always supported me, since we were children, even up until now."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_e5d617ad:
+
+#     # f "I trust you, and you, Kari, will always have that trust."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_1064b379:
+
+#     # f "General of the goats or not."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_e9609d4f:
+
+#     # k "I... I trust you as well, chieftain - Furkan."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_c8c80c3f:
+
+#     # "Kari's cheeks are a bit flushed, clearly embarrassed by saying that."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_9838ff6b:
+
+#     # k "Now, to make good on that trust of yours, I will go tell the warriors about our change of plans."
+#     k ""
+
+# translate schinese Kari_Goat_Practice_Win_f886febe:
+
+#     # "Swiftly exiting the scene, Kari heads in the direction most of the goat warriors disappeared to."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_ee4470b2:
+
+#     # "You are left with an affectionately chuckling Furkan."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_873fae08:
+
+#     # f "Well, [e], I appreciate what you have done for us today."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_7b8f850d:
+
+#     # e "I would do it anytime, Furk."
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_a93d4d94:
+
+#     # f "I know. You are a great friend to the tribe."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_bed95126:
+
+#     # "You can't help but think Furkan looks quite cute right now."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_fb13942b:
+
+#     # "His cheeks are a bit red, and he is rubbing the back of his head."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_04151022:
+
+#     # f "...and a great friend to me."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_7961e191:
+
+#     # e "You give me too much credit, I am just a courier who does his best to help."
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_1102513e:
+
+#     # f "Well, simple courier, you have my thanks."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_6f6abdca:
+
+#     # f "I do need to return to work now, but... I hope to see you around soon."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_cc677afc:
+
+#     # f "It's always a pleasant sight."
+#     f ""
+
+# translate schinese Kari_Goat_Practice_Win_fe51fbe5:
+
+#     # "You can't help but blush at the implications of that statement."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_62a18040:
+
+#     # e "Hehe... Thank you Furkan. See you soon!"
+#     e ""
+
+# translate schinese Kari_Goat_Practice_Win_d11cac61:
+
+#     # "Furkan heads towards the hut, leaving you alone once more."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_c9704f22:
+
+#     # "You have received 200 gold and 700 experience."
+#     ""
+
+# translate schinese Kari_Goat_Practice_Win_91f1d522:
+
+#     # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
+#     msg ""
+
+translate schinese Kari_Ask_General_3ba645f8:
+
+    # e "How did you become the general...?"
+    e "我想问问你是怎么当上将军的？"
+
+translate schinese Kari_Ask_General_d095e658:
+
+    # k "Furkan's father, Tevfik trained me to become the protector of the tribe."
+    k "弗坎他父亲任命的。"
+
+translate schinese Kari_Ask_General_84d6ccfb:
+
+    # k "I used to play with Furk, hang out. while his father was the chief."
+    k "前族长还在世的时候，我和弗坎无忧无虑，每天除了嬉戏打闹就是出门乱窜。"
+
+translate schinese Kari_Ask_General_30e8933c:
+
+    # k "Those were the days, where we both do not need to care about anything."
+    k "哎，真想回到那样的老日子。"
+
+translate schinese Kari_Ask_General_8b1caf28:
+
+    # e "But do you like being the general?"
+    e "那你愿意当将军吗？"
+
+translate schinese Kari_Ask_General_efdfb978:
+
+    # k "How can I not? I have to protect the tribe, protect Furkan."
+    k "我怎么能不愿意。我必须保护弗坎、保护部族。"
+
+translate schinese Kari_Ask_General_a8dddcb1:
+
+    # k "Everything is on the line now, I can't let my own desire sabotage what we've been building."
+    k "如今部族有难，我不能让一己私欲毁了先祖创造的一切。"
+
+translate schinese Kari_Ask_General_77f23f7e:
+
+    # e "You need to relax sometimes..."
+    e "将军压力这么大，有时也要记得放松一下……"
+
+translate schinese Kari_Ask_General_1628b624:
+
+    # k "I am relaxing."
+    k "我现在就在放松。"
+
+translate schinese Kari_Ask_General_a3f2d3bb:
+
+    # k "What else to you think I'm doing."
+    k "不然你以为我在做什么。"
+
+translate schinese Kari_Ask_General_274daa9f:
+
+    # e "Hmmm..."
+    e "呃……"
+
+translate schinese Kari_Ask_How_Doing_1f9ae8df:
+
+    # e "How are you doing, General."
+    e "将军你在做什么呢？"
+
+translate schinese Kari_Ask_How_Doing_940e52f6:
+
+    # k "I'm talking with Furkan."
+    k "和族长谈正事。"
+
+translate schinese Kari_Ask_How_Doing_28d05d0f:
+
+    # e "I see, can I help you?"
+    e "噢……需要我帮忙助攻吗？"
+
+translate schinese Kari_Ask_How_Doing_bdf5339c:
+
+    # k "Help- w-what?"
+    k "帮——啊？"
+
+translate schinese Kari_Ask_How_Doing_128bd630:
+
+    # e "Uhm... nothing."
+    e "呃，没事，当我没说。"
+
+translate schinese Kari_Ask_How_Doing_cc625950:
+
+    # k "Training my troops."
+    k "训练士兵。"
+
+translate schinese Kari_Ask_How_Doing_4bb7a058:
+
+    # e "It doesn't look like they're... training."
+    e "好像他们……没在训练。"
+
+translate schinese Kari_Ask_How_Doing_bf56d097:
+
+    # k "They're just rebellious, after their training we'll send them to the ancient tree anyway."
+    k "闹别扭罢了，反正时间一到他们就得去守卫古树。"
+    k "没好好训练最先吃亏的还是他们自己。"
+
+translate schinese Kari_Ask_How_Doing_06ff72ad:
+
+    # e "Some of them really don't like using these weapons."
+    e "我看有些人还不愿意用普通武器。"
+
+translate schinese Kari_Ask_How_Doing_323dcb9b:
+
+    # k "I won't waste my energy on them, just let them sit there and think about their poor decisions."
+    k "没必要在他们身上浪费精力，就让他们凑那自“坐”聪明吧。"
+
+translate schinese Kari_Ask_How_Doing_50afd1d4:
+
+    # e "Uhm..."
+    e "唔……"
+
+translate schinese Kari_Ask_How_Doing_ddbc5ca2:
+
+    # k "W-what?"
+    k "怎么？"
+
+translate schinese Kari_Ask_How_Doing_376d2dc7:
+
+    # e "N-nothing."
+    e "没、没什么。"
+
+translate schinese Kari_Dialogue_End_e89acd94:
+
+    # e "That's all, general, I'll see you... later?"
+    e "那我们……下次再聊？"
+
+translate schinese Kari_Dialogue_End_361c6fec:
+
+    # k "See you... Courier."
+    k "再见，乐村来的邮差。"
+
+translate schinese Kechioeren_Enter_5d8de010:
 
     # "You cautiously walk towards the direction Lothar sent you."
     "你小心翼翼地朝洛萨尔标记的方位走去。"
