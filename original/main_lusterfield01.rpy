@@ -15490,9 +15490,6 @@ translate schinese strings:
     old "Open Storage"
     new ""
 
-    old "Pog"
-    new ""
-
     old "Ask about his betting"
     new ""
 

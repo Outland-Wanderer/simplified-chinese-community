@@ -11143,24 +11143,29 @@ translate schinese Lothar_Report_Dummy_e105218d:
     # l "Heh."
     l ""
 
-translate schinese Lothar_Report_Dummy_6bf55165:
+translate schinese Lothar_Report_Dummy_60904657:
 
-    # l "."
+    # l "A few punches, yeah. Maybe under the best teaching in Mokken he can get nearly as good as I am."
     l ""
 
-translate schinese Lothar_Report_Dummy_000f898b:
+translate schinese Lothar_Report_Dummy_e4c77edf:
 
-    # e "I"
-    e ""
-
-translate schinese Lothar_Report_Dummy_80e72df1:
-
-    # l "So, Disciple... Let's get back to the lesson."
+    # l "Not saying he can ever surpass my level, but he can try."
     l ""
 
-translate schinese Lothar_Report_Dummy_27ee51a3:
+translate schinese Lothar_Report_Dummy_d016efd2:
 
-    # e "Lesson...? I thought I'm just here to fight a dummy..."
+    # "Lothar gives you a side glance."
+    ""
+
+translate schinese Lothar_Report_Dummy_2f3a5017:
+
+    # l "So, let's get back to the lesson."
+    l ""
+
+translate schinese Lothar_Report_Dummy_55e01d33:
+
+    # e "Lesson? I thought I'm just here to fight a dummy."
     e ""
 
 translate schinese Lothar_Report_Dummy_637accd7:
@@ -11203,9 +11208,9 @@ translate schinese Lothar_Report_Dummy_38f61fad:
     # l "So, disciple. You see, I am the hero, and Amble is the monster in the scary forest."
     l ""
 
-translate schinese Lothar_Report_Dummy_d032b135:
+translate schinese Lothar_Report_Dummy_e0d061f4:
 
-    # e "Lothar, I know this- already... I've been outsi-"
+    # e "Lothar, I know this- already, I've been outsi-"
     e ""
 
 translate schinese Lothar_Report_Dummy_8a378cfc:
