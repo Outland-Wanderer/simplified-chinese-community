@@ -18,70 +18,70 @@ translate schinese kechioeren_search_loop_e91ba75d:
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     "你找了又找，但周围似乎没有什么值得关注的东西了。"
 
-# translate schinese Kechioeren_Welcome_4ef3920d:
+translate schinese Kechioeren_Welcome_4ef3920d:
 
-#     # "You walk towards the gate, you see two guards standing there, staring at you."
-#     ""
+    # "You walk towards the gate, you see two guards standing there, staring at you."
+    "你来到山羊部落大门前，有两个士兵站在那，小心翼翼地盯着你。"
 
-# translate schinese Kechioeren_Welcome_aacb2565:
+translate schinese Kechioeren_Welcome_aacb2565:
 
-#     # e "Hey... May I enter?"
-#     e ""
+    # e "Hey... May I enter?"
+    e "两位大哥……请问我可以进村吗？"
 
-# translate schinese Kechioeren_Welcome_7a352d19:
+translate schinese Kechioeren_Welcome_7a352d19:
 
-#     # "The guard reluctantly picks up a piece of paper from his pocket, and compares your face with the drawing on it."
-#     ""
+    # "The guard reluctantly picks up a piece of paper from his pocket, and compares your face with the drawing on it."
+    "一位士兵不耐烦地从口袋中掏出一团皱巴巴的纸展开来，先看看你，又看看纸上的画像。"
 
-# translate schinese Kechioeren_Welcome_13971371:
+translate schinese Kechioeren_Welcome_13971371:
 
-#     # goatguard "The Chief and General is resting, but... they ordered you may enter... as a visitor."
-#     goatguard ""
+    # goatguard "The Chief and General is resting, but... they ordered you may enter... as a visitor."
+    goatguard "族长和将军还在休息，但准许你以访客的身份进村。"
 
-# translate schinese Kechioeren_Welcome_a3f91334:
+translate schinese Kechioeren_Welcome_a3f91334:
 
-#     # goatguard "The Chief is resting, but he ordered that you may enter our tribe, as a visitor."
-#     goatguard ""
+    # goatguard "The Chief is resting, but he ordered that you may enter our tribe, as a visitor."
+    goatguard "族长还在休息，但准许你以访客的身份进村。"
 
-# translate schinese Kechioeren_Welcome_b9f1536b:
+translate schinese Kechioeren_Welcome_b9f1536b:
 
-#     # goatguard "But... Uhm... we'll be watching you."
-#     goatguard ""
+    # goatguard "But... Uhm... we'll be watching you."
+    goatguard "所以……不要干出格的事情。"
 
-# translate schinese Kechioeren_Welcome_20caf69f:
+translate schinese Kechioeren_Welcome_20caf69f:
 
-#     # goatguard "So, don't do anything weird."
-#     goatguard ""
+    # goatguard "So, don't do anything weird."
+    goatguard "我们所有人都会盯着你的。"
 
-# translate schinese Kechioeren_Welcome_7e187960:
+translate schinese Kechioeren_Welcome_7e187960:
 
-#     # goatguard "Especially after last time... when you beat us pretty hard."
-#     goatguard ""
+    # goatguard "Especially after last time... when you beat us pretty hard."
+    goatguard "特别还是上回……你对我们和将军大不敬。"
 
-# translate schinese Kechioeren_Welcome_f799ca3c:
+translate schinese Kechioeren_Welcome_f799ca3c:
 
-#     # e "Oh... I'm sorry."
-#     e ""
+    # e "Oh... I'm sorry."
+    e "啊……实在抱歉。"
 
-# translate schinese Kechioeren_Welcome_e21d79be:
+translate schinese Kechioeren_Welcome_e21d79be:
 
-#     # goatguard "Plus, we beat you so hard last time when you trespass..."
-#     goatguard ""
+    # goatguard "Plus, we beat you so hard last time when you trespass..."
+    goatguard "别忘了上回你被我们教训得有多惨。"
 
-# translate schinese Kechioeren_Welcome_7acf90b1:
+translate schinese Kechioeren_Welcome_7acf90b1:
 
-#     # e "Well you're just lucky you have your general..."
-#     e ""
+    # e "Well you're just lucky you have your general..."
+    e "要不是你们将军出手，我早就……"
 
-# translate schinese Kechioeren_Welcome_caf1e4be:
+translate schinese Kechioeren_Welcome_caf1e4be:
 
-#     # goatguard "Whatever. Watch out your ass in our tribe, else it's not just us two you're fighting."
-#     goatguard ""
+    # goatguard "Whatever. Watch out your ass in our tribe, else it's not just us two you're fighting."
+    goatguard "嗤，这里可是我们的地盘，惹是生非会有什么后果你心里清楚。"
 
-# translate schinese Kechioeren_Welcome_2e26a92a:
+translate schinese Kechioeren_Welcome_2e26a92a:
 
-#     # e "Uhmmm.... Ok."
-#     e ""
+    # e "Uhmmm.... Ok."
+    e "好……好的。"
 
 # translate schinese Furkan_Dialogue_23413a48:
 
@@ -1208,115 +1208,115 @@ translate schinese kechioeren_search_loop_e91ba75d:
 #     # "You part with Furkan. It's time to return to Rahim with the mums."
 #     ""
 
-# translate schinese goat_talking_sequence_76c41dec:
+translate schinese goat_talking_sequence_76c41dec:
 
-#     # "You look at the two goats slacking off on the barrels."
-#     ""
+    # "You look at the two goats slacking off on the barrels."
+    "你瞧两个山羊士兵正坐在木桶上偷懒。"
 
-# translate schinese goat_talking_sequence_15951bbb:
+translate schinese goat_talking_sequence_15951bbb:
 
-#     # e "H-hey... aren't you guys supposed to be training?"
-#     e ""
+    # e "H-hey... aren't you guys supposed to be training?"
+    e "嘿……你们不是还在训练吗？"
 
-# translate schinese goat_talking_sequence_d8d2238d:
+translate schinese goat_talking_sequence_d8d2238d:
 
-#     # gt "We are. Don't you see we're training our brains...?"
-#     gt ""
+    # gt "We are. Don't you see we're training our brains...?"
+    gt "对啊，没见我们正在训练头脑？"
 
-# translate schinese goat_talking_sequence_c18eb48e:
+translate schinese goat_talking_sequence_c18eb48e:
 
-#     # e "W-what?"
-#     e ""
+    # e "W-what?"
+    e "什么？"
 
-# translate schinese goat_talking_sequence_5684a1fd:
+translate schinese goat_talking_sequence_5684a1fd:
 
-#     # gt "...Why are you outsider here anyway... aren't you supposed to be fucking around with the lusterfolks..."
-#     gt ""
+    # gt "...Why are you outsider here anyway... aren't you supposed to be fucking around with the lusterfolks..."
+    gt "你个海外佬，怎么跑我们这来了，你这时候不是应该和乐村那一帮獠奴乱搞吗？"
 
-# translate schinese goat_talking_sequence_db6f8434:
+translate schinese goat_talking_sequence_db6f8434:
 
-#     # e "H-hey watch your mouth..."
-#     e ""
+    # e "H-hey watch your mouth..."
+    e "喂，说话放尊重点……"
 
-# translate schinese goat_talking_sequence_dd01cb77:
+translate schinese goat_talking_sequence_dd01cb77:
 
-#     # gt "Heh... no worries we all saw it when you fuck that buggbear."
-#     gt ""
+    # gt "Heh... no worries we all saw it when you fuck that buggbear."
+    gt "呵……装什么正人君子，你连熊地精那种野兽都下得去屌，我们都看到了。"
 
-# translate schinese goat_talking_sequence_2d05bb27:
+translate schinese goat_talking_sequence_2d05bb27:
 
-#     # e "I d-didn't."
-#     e ""
+    # e "I d-didn't."
+    e "我、我没有。"
 
-# translate schinese goat_talking_sequence_2b38e02c:
+translate schinese goat_talking_sequence_2b38e02c:
 
-#     # gt "Perhaps that's why our chief has a liking of you."
-#     gt ""
+    # gt "Perhaps that's why our chief has a liking of you."
+    gt "怪不得我们族长这么青睐你。"
 
-# translate schinese goat_talking_sequence_097ffb2d:
+translate schinese goat_talking_sequence_097ffb2d:
 
-#     # gt "N-now... leave us alone. We're not training with these pieces of junk until the magics are back."
-#     gt ""
+    # gt "N-now... leave us alone. We're not training with these pieces of junk until the magics are back."
+    gt "现在给老子滚一边去，这些垃圾武器老子没魔力才不想练。"
 
-# translate schinese goat_training_battle_3f1230e1:
+translate schinese goat_training_battle_3f1230e1:
 
-#     # "You look at the goat practicing archery in front of you, his hand is trembling a bit."
-#     ""
+    # "You look at the goat practicing archery in front of you, his hand is trembling a bit."
+    "你从后头观察这位正在练习射箭的士兵，见他有些手抖。"
 
-# translate schinese goat_training_battle_ae7fa8f2:
+translate schinese goat_training_battle_ae7fa8f2:
 
-#     # "He turns back at you."
-#     ""
+    # "He turns back at you."
+    "而他感觉到背后有人便转过身来。"
 
-# translate schinese goat_training_battle_eec3ccd7:
+translate schinese goat_training_battle_eec3ccd7:
 
-#     # gt "I wish I can go back to using my staff, not bows and spears. It was much easier that way..."
-#     gt ""
+    # gt "I wish I can go back to using my staff, not bows and spears. It was much easier that way..."
+    gt "这些箭和矛哪有魔法好用，真想回到从前……"
 
-# translate schinese goat_training_battle_cfed5b5b:
+translate schinese goat_training_battle_cfed5b5b:
 
-#     # gt "..."
-#     gt ""
+    # gt "..."
+    gt "……"
 
-# translate schinese goat_training_battle_b52f9fcb:
+translate schinese goat_training_battle_b52f9fcb:
 
-#     # gt "What's the matter with you...?"
-#     gt ""
+    # gt "What's the matter with you...?"
+    gt "獠奴，看什么看？"
 
-# translate schinese goat_training_battle_e16e600a:
+translate schinese goat_training_battle_e16e600a:
 
-#     # e "Hmm..." nointeract
-#     e "" nointeract
+    # e "Hmm..." nointeract
+    e "我……" nointeract
 
-# translate schinese goat_training_battle_af3a5f73:
+translate schinese strings:
 
-#     # e "I want to train with you..."
-#     e ""
+    old "Battle with the Goat"
+    new "与山羊士兵对战"
 
-# translate schinese goat_training_battle_8380b43c:
+translate schinese goat_training_battle_af3a5f73:
 
-#     # gt "Well... I do need a training buddy, and it's not like the other goats are in mood for a battle..."
-#     gt ""
+    # e "I want to train with you..."
+    e "我可以和你对练吗……"
 
-# translate schinese goat_training_battle_08c5cd6c:
+translate schinese goat_training_battle_8380b43c:
 
-#     # gt "Alright, give me all you got."
-#     gt ""
+    # gt "Well... I do need a training buddy, and it's not like the other goats are in mood for a battle..."
+    gt "哼哼，其他人都没心情训练的样子，我确实缺个沙包用。"
 
-# translate schinese goat_training_battle_854d6aae:
+translate schinese goat_training_battle_08c5cd6c:
 
-#     # e "Hmm... I should go."
-#     e ""
+    # gt "Alright, give me all you got."
+    gt "你尽管放马过来吧。"
 
-# translate schinese goat_training_battle_f999bd1a:
+translate schinese goat_training_battle_854d6aae:
 
-#     # gt "Yeah, go. I've still got a cart worth of bull's eye to shoot."
-#     gt ""
+    # e "Hmm... I should go."
+    e "我这就走。"
 
-# translate schinese Furkan_Ask_How_Doing_9aff63bd:
+translate schinese goat_training_battle_f999bd1a:
 
-#     # e "How are you doing, Furkan."
-#     e ""
+    # gt "Yeah, go. I've still got a cart worth of bull's eye to shoot."
+    gt "去，我还有一箩筐的箭要射。"
 
 # translate schinese Furkan_Ask_How_Doing_1f84e315:
 
