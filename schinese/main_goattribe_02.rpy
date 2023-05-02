@@ -83,175 +83,185 @@ translate schinese Kechioeren_Welcome_2e26a92a:
     # e "Uhmmm.... Ok."
     e "好……好的。"
 
-# translate schinese Furkan_Dialogue_23413a48:
+translate schinese Furkan_Dialogue_23413a48:
 
-#     # f "Courier, Welcome. Please, take a seat."
-#     f ""
+    # f "Courier, Welcome. Please, take a seat."
+    f "[e]，欢迎欢迎，请坐。"
 
-# translate schinese Furkan_Dialogue_c6f94e6f:
+translate schinese Furkan_Dialogue_c6f94e6f:
 
-#     # e "Chief..."
-#     e ""
+    # e "Chief..."
+    e "族长……"
 
-# translate schinese Furkan_Dialogue_1efd9bbe:
+translate schinese Furkan_Dialogue_1efd9bbe:
 
-#     # f "Call me Furkan. We do not require you to be formal."
-#     f ""
+    # f "Call me Furkan. We do not require you to be formal."
+    f "不必拘礼，叫我弗坎就好。"
 
-# translate schinese Furkan_Dialogue_07ae76aa:
+translate schinese Furkan_Dialogue_07ae76aa:
 
-#     # e "Uhmmm.... It's alright, I'll just look around."
-#     e ""
+    # e "Uhmmm.... It's alright, I'll just look around."
+    e "弗坎……我今天只是来参观一下。"
 
-# translate schinese Furkan_Dialogue_ccdcb24c:
+translate schinese Furkan_Dialogue_ccdcb24c:
 
-#     # f "Sure."
-#     f ""
+    # f "Sure."
+    f "这样啊。"
 
-# translate schinese Furkan_Dialogue_f2de3991:
+translate schinese Furkan_Dialogue_f2de3991:
 
-#     # f "Guards...?"
-#     f ""
+    # f "Guards...?"
+    f "咳咳……"
 
-# translate schinese Furkan_Dialogue_87bfc1e3:
+translate schinese Furkan_Dialogue_87bfc1e3:
 
-#     # "Furkan stares at the accompanying guards for a second, before they quickly walk out of the hut."
-#     ""
+    # "Furkan stares at the accompanying guards for a second, before they quickly walk out of the hut."
+    "弗坎朝随行侍卫使个眼色，侍卫行礼后即刻退出了幄帐。"
 
-# translate schinese Furkan_Dialogue_48a2c4af:
+translate schinese Furkan_Dialogue_48a2c4af:
 
-#     # f "So..."
-#     f ""
+    # f "So..."
+    f "那么……"
 
-# translate schinese Furkan_Dialogue_6eac4101:
+translate schinese Furkan_Dialogue_6eac4101:
 
-#     # f "Thank you so much for helping with getting me out of the cave."
-#     f ""
+    # f "Thank you so much for helping with getting me out of the cave."
+    f "谢谢你那天冒险把我从山洞里救出来。"
 
-# translate schinese Furkan_Dialogue_33dd9d5d:
+translate schinese Furkan_Dialogue_33dd9d5d:
 
-#     # f "The general told me you beat him quite severely, no?"
-#     f ""
+    # f "The general told me you beat him quite severely, no?"
+    f "将军说他在自家却反而被你狠狠摆了一道，嗯？"
 
-# translate schinese Furkan_Dialogue_24ed6012:
+translate schinese Furkan_Dialogue_24ed6012:
 
-#     # e "Hmm... He asked for a fight..."
-#     e ""
+    # e "Hmm... He asked for a fight..."
+    e "唔……是他非要开打……"
 
-# translate schinese Furkan_Dialogue_de57760b:
+translate schinese Furkan_Dialogue_de57760b:
 
-#     # f "The general told me you fought the monster in the cave quite bravely."
-#     f ""
+    # f "The general told me you fought the monster in the cave quite bravely."
+    f "将军说你骁勇善战，他非常欣赏。"
 
-# translate schinese Furkan_Dialogue_e424ec5b:
+translate schinese Furkan_Dialogue_e424ec5b:
 
-#     # e "We did it together, actually. He helped with me... a lot."
-#     e ""
+    # e "We did it together, actually. He helped with me... a lot."
+    e "我们是一起打败那些魔物的。卡里他……帮了我很多。"
 
-# translate schinese Furkan_Dialogue_7cf0b6cd:
+translate schinese Furkan_Dialogue_7cf0b6cd:
 
-#     # f "I know. Still, you have proved your worth here."
-#     f ""
+    # f "I know. Still, you have proved your worth here."
+    f "我知道。"
+    f "无论如何，这些事情都充分证明了你的能力和品质。"
 
-# translate schinese Furkan_Dialogue_08ca6612:
+translate schinese Furkan_Dialogue_08ca6612:
 
-#     # f "So, if we needed anything, you would be happy to lend a hand...?"
-#     f ""
+    # f "So, if we needed anything, you would be happy to lend a hand...?"
+    f "因此……若我族有事相求，能否请你助我一臂之力？"
 
-# translate schinese Furkan_Dialogue_05245476:
+translate schinese Furkan_Dialogue_05245476:
 
-#     # e "Hmm... Why me?"
-#     e ""
+    # e "Hmm... Why me?"
+    e "啊……为什么是我？"
 
-# translate schinese Furkan_Dialogue_10dcb4b0:
+translate schinese Furkan_Dialogue_10dcb4b0:
 
-#     # f "Well, let say, I need an example from Lusterfield."
-#     f ""
+    # f "Well, let say, I need an example from Lusterfield."
+    f "这么说吧，我需要来自乐村的你作为表率。"
 
-# translate schinese Furkan_Dialogue_f595ef63:
+translate schinese Furkan_Dialogue_f595ef63:
 
-#     # f "To prove my commitment to make peace with your village."
-#     f ""
+    # f "To prove my commitment to make peace with your village."
+    f "通过你我互帮互助，以小见大，表明我族和平共处的决心。"
 
-# translate schinese Furkan_Dialogue_1ebc4141:
+translate schinese Furkan_Dialogue_1ebc4141:
 
-#     # f "And to show that we can be friendly after all."
-#     f ""
+    # f "And to show that we can be friendly after all."
+    f "证明我们两村能够摆脱战争阴霾，重新建立友好关系。"
 
-# translate schinese Furkan_Dialogue_0062e4e6:
+translate schinese Furkan_Dialogue_0062e4e6:
 
-#     # e "Uhm... What if I say no?"
-#     e ""
+    # e "Uhm... What if I say no?"
+    e "呃……那如果我拒绝呢？"
 
-# translate schinese Furkan_Dialogue_a0fe8375:
+translate schinese Furkan_Dialogue_a0fe8375:
 
-#     # f "Sure, you can."
-#     f ""
+    # f "Sure, you can."
+    f "这是你的自由。"
 
-# translate schinese Furkan_Dialogue_2d273805:
+translate schinese Furkan_Dialogue_2d273805:
 
-#     # "The Chief smirks at you, he seems to know where your mind is heading... It's not really possible you would say no."
-#     ""
+    # "The Chief smirks at you, he seems to know where your mind is heading... It's not really possible you would say no."
+    "弗坎像看穿了你的小心思一样，对你笑了笑，低头继续检阅文件。"
 
-# translate schinese Furkan_Dialogue_480be166:
+translate schinese Furkan_Dialogue_480be166:
 
-#     # "And he knows it."
-#     ""
+    # "And he knows it."
+    pass
 
-# translate schinese Furkan_Dialogue_fa2a6aae:
+translate schinese Furkan_Dialogue_fa2a6aae:
 
-#     # "Furkan looks down at his paper once again..."
-#     ""
+    # "Furkan looks down at his paper once again..."
+    pass
 
-# translate schinese Furkan_Dialogue_bdf6a85b:
+translate schinese Furkan_Dialogue_bdf6a85b:
 
-#     # f "Couri-"
-#     f ""
+    # f "Couri-"
+    f "[e]——"
 
-# translate schinese Furkan_Dialogue_b9df45c1:
+translate schinese Furkan_Dialogue_b9df45c1:
 
-#     # "You catch Furkan staring at your naked self, that's when you realise you haven't put your clothes on."
-#     ""
+    # "You catch Furkan staring at your naked self, that's when you realise you haven't put your clothes on."
+    "弗坎的视线火辣辣的，你顺其低头看向自己，才发觉自己竟然没穿衣服。"
 
-# translate schinese Furkan_Dialogue_3ec57d49:
+translate schinese Furkan_Dialogue_3ec57d49:
 
-#     # f "..."
-#     f ""
+    # f "..."
+    f "……"
 
-# translate schinese Furkan_Dialogue_1969bdbc:
+translate schinese Furkan_Dialogue_1969bdbc:
 
-#     # "His cheeks become a lot redder, and the chief averts his gaze almost immediately."
-#     ""
+    # "His cheeks become a lot redder, and the chief averts his gaze almost immediately."
+    "他立马撇过头，脸颊逐渐透出红晕。"
 
-# translate schinese Furkan_Dialogue_bb052833:
+translate schinese Furkan_Dialogue_bb052833:
 
-#     # f "Watch out for the weather, it's getting cold, courier."
-#     f ""
+    # f "Watch out for the weather, it's getting cold, courier."
+    f "山地天冷风大，小心别感冒。"
 
-# translate schinese Furkan_Dialogue_fbfb4027:
+translate schinese Furkan_Dialogue_fbfb4027:
 
-#     # e "Y-yes."
-#     e ""
+    # e "Y-yes."
+    e "好、好的。"
 
-# translate schinese Furkan_Dialogue_261ee5af:
+translate schinese Furkan_Dialogue_261ee5af:
 
-#     # "He waits a few seconds before turning to you, and accidentally leaves a glance on your cock."
-#     ""
+    # "He waits a few seconds before turning to you, and accidentally leaves a glance on your cock."
+    "片刻后弗坎重新面向你，不经意间扫了眼你下体。"
 
-# translate schinese Furkan_Dialogue_7c56f12b:
+translate schinese Furkan_Dialogue_7c56f12b:
 
-#     # "You can hear a loud gulp."
-#     ""
+    # "You can hear a loud gulp."
+    f "……嗯。"
+    "他吞口水的声音大到你都能听见。"
 
-# translate schinese Furkan_Dialogue_04558c1e:
+translate schinese Furkan_Dialogue_04558c1e:
 
-#     # f "...Alright."
-#     f ""
+    # f "...Alright."
+    pass
 
-# translate schinese Furkan_Normal_Talk_f85cdcd1:
+translate schinese Furkan_Normal_Talk_f85cdcd1:
 
-#     # f "How are you doing, Courier." nointeract
-#     f "" nointeract
+    # f "How are you doing, Courier." nointeract
+    f "别来无恙，[e]。" nointeract
+
+translate schinese strings:
+
+    # old "Ask about the Dark Forest"
+    # new ""
+
+    old "Ask about his status as a Chief"
+    new "好奇他作为族长的感受"
 
 # translate schinese Furkan_Ask_Werewolf_Quest_8f22601c:
 
@@ -328,230 +338,230 @@ translate schinese Kechioeren_Welcome_2e26a92a:
 #     # f "No, we need to thank you. I hope you'll find something out of this and we can work closer to a truce between the tribe and Lusterfield."
 #     f ""
 
-# translate schinese Furkan_Ask_Chief_c55d3c09:
+translate schinese Furkan_Ask_Chief_c55d3c09:
 
-#     # e "Furkan, how is it being the chief of the goat tribe?"
-#     e ""
+    # e "Furkan, how is it being the chief of the goat tribe?"
+    e "弗坎，当族长是什么体验啊？"
 
-# translate schinese Furkan_Ask_Chief_3ec57d49:
+translate schinese Furkan_Ask_Chief_3ec57d49:
 
-#     # f "..."
-#     f ""
+    # f "..."
+    f "……"
 
-# translate schinese Furkan_Ask_Chief_4830a8a8:
+translate schinese Furkan_Ask_Chief_4830a8a8:
 
-#     # f "Being a Chief. I am not the best at this job."
-#     f ""
+    # f "Being a Chief. I am not the best at this job."
+    f "可以说是心有余而力不足。"
 
-# translate schinese Furkan_Ask_Chief_a950b4ba:
+translate schinese Furkan_Ask_Chief_a950b4ba:
 
-#     # f "But after father died, someone has to take over the tribe."
-#     f ""
+    # f "But after father died, someone has to take over the tribe."
+    f "但家父牺牲后，总得要有人挑起这个担子。"
 
-# translate schinese Furkan_Ask_Chief_e7b347c0:
+translate schinese Furkan_Ask_Chief_e7b347c0:
 
-#     # e "What was it like, before you become chieftain?"
-#     e ""
+    # e "What was it like, before you become chieftain?"
+    e "你当上族长前的日子是怎么样的呢？"
 
-# translate schinese Furkan_Ask_Chief_ee74f590:
+translate schinese Furkan_Ask_Chief_ee74f590:
 
-#     # f "I tell you this only because I trust you will not tell any other."
-#     f ""
+    # f "I tell you this only because I trust you will not tell any other."
+    f "下面的话因为我信任你才只对你说。"
 
-# translate schinese Furkan_Ask_Chief_f560317b:
+translate schinese Furkan_Ask_Chief_f560317b:
 
-#     # e "Uhm... sure."
-#     e ""
+    # e "Uhm... sure."
+    e "嗯……我明白。"
 
-# translate schinese Furkan_Ask_Chief_2f172d20:
+translate schinese Furkan_Ask_Chief_2f172d20:
 
-#     # f "It was never my choice to be a chief. I was out adventuring, discovering the whole world."
-#     f ""
+    # f "It was never my choice to be a chief. I was out adventuring, discovering the whole world."
+    f "我从来没想要当族长，与其统领一族，我更喜欢周游世界。"
 
-# translate schinese Furkan_Ask_Chief_9a731bb0:
+translate schinese Furkan_Ask_Chief_9a731bb0:
 
-#     # f "Just that a certain circumstances occured, between me and my father."
-#     f ""
+    # f "Just that a certain circumstances occured, between me and my father."
+    f "我和我父亲因为一件事吵了起来，之后没过多久他便决定攻打乐村。"
 
-# translate schinese Furkan_Ask_Chief_7bda1598:
+translate schinese Furkan_Ask_Chief_7bda1598:
 
-#     # f "And, he decided to attack on the Lusterfield village soon after."
-#     f ""
+    # f "And, he decided to attack on the Lusterfield village soon after."
+    pass
 
-# translate schinese Furkan_Ask_Chief_63f175fd:
+translate schinese Furkan_Ask_Chief_63f175fd:
 
-#     # e "What circumstances...?"
-#     e ""
+    # e "What circumstances...?"
+    e "是什么事情呢……？"
 
-# translate schinese Furkan_Ask_Chief_da8998eb:
+translate schinese Furkan_Ask_Chief_da8998eb:
 
-#     # f "About him retiring."
-#     f ""
+    # f "About him retiring."
+    f "关于父亲的退位。"
 
-# translate schinese Furkan_Ask_Chief_4e7d97f1:
+translate schinese Furkan_Ask_Chief_4e7d97f1:
 
-#     # f "We had an argument, quite severely actually, I left my tribe afterwards."
-#     f ""
+    # f "We had an argument, quite severely actually, I left my tribe afterwards."
+    f "当时我们吵得特别凶，我一气之下还离家出走了。"
 
-# translate schinese Furkan_Ask_Chief_42dfff8a:
+translate schinese Furkan_Ask_Chief_42dfff8a:
 
-#     # e "I'm sorry about what happened to your father..."
-#     e ""
+    # e "I'm sorry about what happened to your father..."
+    e "啊，真是太遗憾了……"
 
-# translate schinese Furkan_Ask_Chief_2f75163c:
+translate schinese Furkan_Ask_Chief_2f75163c:
 
-#     # f "I only wish the last words we shared was different."
-#     f ""
+    # f "I only wish the last words we shared was different."
+    f "我多希望我和父亲的最后一次对话不是争吵。"
 
-# translate schinese Furkan_Ask_Chief_3ec57d49_1:
+translate schinese Furkan_Ask_Chief_3ec57d49_1:
 
-#     # f "..."
-#     f ""
+    # f "..."
+    f "……"
 
-# translate schinese Furkan_Ask_Chief_bb4d40e9:
+translate schinese Furkan_Ask_Chief_bb4d40e9:
 
-#     # f "You asked about me being a chief now, did I change the subject...?"
-#     f ""
+    # f "You asked about me being a chief now, did I change the subject...?"
+    f "你问我现在的体验，我老提旧事是不是偏题了……？"
 
-# translate schinese Furkan_Ask_Chief_749b3029:
+translate schinese Furkan_Ask_Chief_749b3029:
 
-#     # e "Kinda, but you go ahead..."
-#     e ""
+    # e "Kinda, but you go ahead..."
+    e "有点，但没事你继续说……"
 
-# translate schinese Furkan_Ask_Chief_17f8699d:
+translate schinese Furkan_Ask_Chief_17f8699d:
 
-#     # f "Someone has to be the chief. I understand if I am not the best leader as my father."
-#     f ""
+    # f "Someone has to be the chief. I understand if I am not the best leader as my father."
+    f "泱泱大族，总需要有人做领头羊。"
 
-# translate schinese Furkan_Ask_Chief_b89555a7:
+translate schinese Furkan_Ask_Chief_b89555a7:
 
-#     # f "But, I will make my tribe flourish again. No matter the cost."
-#     f ""
+    # f "But, I will make my tribe flourish again. No matter the cost."
+    f "虽然我知道我不及父亲贤能，但我定会不惜一切代价，让部族再次繁荣昌盛。"
 
-# translate schinese Furkan_Ask_Chief_008fe06a:
+translate schinese Furkan_Ask_Chief_008fe06a:
 
-#     # e "I trust you will, Furkan."
-#     e ""
+    # e "I trust you will, Furkan."
+    e "我相信你肯定会的。"
 
-# translate schinese Furkan_Ask_Goat_Tribe_94be90a5:
+translate schinese Furkan_Ask_Goat_Tribe_94be90a5:
 
-#     # e "So... Furkan, How is the goat tribe going...?"
-#     e ""
+    # e "So... Furkan, How is the goat tribe going...?"
+    e "最近部落的情况怎么样？"
 
-# translate schinese Furkan_Ask_Goat_Tribe_f89532f4:
+translate schinese Furkan_Ask_Goat_Tribe_f89532f4:
 
-#     # f "Decent, I should say. After you and your friend came... The tribe changed drastically."
-#     f ""
+    # f "Decent, I should say. After you and your friend came... The tribe changed drastically."
+    f "我想还过得去吧。自从你和你朋友来到了这个世界……部族什么都变了。"
 
-# translate schinese Furkan_Ask_Goat_Tribe_e0c76982:
+translate schinese Furkan_Ask_Goat_Tribe_e0c76982:
 
-#     # f "I should not be surprised by any means. The bears got it worse."
-#     f ""
+    # f "I should not be surprised by any means. The bears got it worse."
+    f "或许我不该这样卖惨，熊族其实处境更糟。"
 
-# translate schinese Furkan_Ask_Goat_Tribe_1d0e5d7c:
+translate schinese Furkan_Ask_Goat_Tribe_1d0e5d7c:
 
-#     # e "Hmm...?"
-#     e ""
+    # e "Hmm...?"
+    e "噢？"
 
-# translate schinese Furkan_Ask_Goat_Tribe_779d3e75:
+translate schinese Furkan_Ask_Goat_Tribe_779d3e75:
 
-#     # f "Our Tribe is entirely run by the magic in the primordial runes. My bow was one of them."
-#     f ""
+    # f "Our Tribe is entirely run by the magic in the primordial runes. My bow was one of them."
+    f "我们这大大小小，几乎一切都依赖着上古符石的魔力维持功用，比如我的这把弓。"
 
-# translate schinese Furkan_Ask_Goat_Tribe_14ad9db5:
+translate schinese Furkan_Ask_Goat_Tribe_14ad9db5:
 
-#     # f "But everyone has to preserve their magic usage now, our only source of energy is the ancient tree."
-#     f ""
+    # f "But everyone has to preserve their magic usage now, our only source of energy is the ancient tree."
+    f "现在我们只剩古树作为唯一的魔力来源，人人都得节省魔力开支，日子就过得紧巴巴了。"
 
-# translate schinese Furkan_Ask_Goat_Tribe_ff94180a:
+translate schinese Furkan_Ask_Goat_Tribe_ff94180a:
 
-#     # e "Is this why you need to reconcile with Lusterfield...?"
-#     e ""
+    # e "Is this why you need to reconcile with Lusterfield...?"
+    e "所以你才想跟乐村和解……为了更方便地接管古树？"
 
-# translate schinese Furkan_Ask_Goat_Tribe_332c558b:
+translate schinese Furkan_Ask_Goat_Tribe_332c558b:
 
-#     # e "Because you want to take over the ancient tree?"
-#     e ""
+    # e "Because you want to take over the ancient tree?"
+    pass
 
-# translate schinese Furkan_Ask_Goat_Tribe_13dd74fe:
+translate schinese Furkan_Ask_Goat_Tribe_13dd74fe:
 
-#     # f "No. Not take over, I only need to harvest those energy, and those Lusterfolks never used them anyway."
-#     f ""
+    # f "No. Not take over, I only need to harvest those energy, and those Lusterfolks never used them anyway."
+    f "当然不是，我们只想收集古树蕴含的魔力，反正你们也不会用到。"
 
-# translate schinese Furkan_Ask_Goat_Tribe_ddcb5e0d:
+translate schinese Furkan_Ask_Goat_Tribe_ddcb5e0d:
 
-#     # f "Even then, it doesn't provide enough magic for everyone in the tribe, along with the high maintanence cost just to transport the energy."
-#     f ""
+    # f "Even then, it doesn't provide enough magic for everyone in the tribe, along with the high maintanence cost just to transport the energy."
+    f "但就算竭尽古树的魔力都不够所有人的日常开销，更不用说存储、运输魔力也要付出高昂的维护成本。"
 
-# translate schinese Furkan_Ask_Goat_Tribe_225f00cd:
+translate schinese Furkan_Ask_Goat_Tribe_225f00cd:
 
-#     # f "I hope we can find the primordial runes."
-#     f ""
+    # f "I hope we can find the primordial runes."
+    f "希望我们能尽快找回符石。"
 
-# translate schinese Furkan_Ask_Goat_Tribe_2730a023:
+translate schinese Furkan_Ask_Goat_Tribe_2730a023:
 
-#     # e "Is it really that important to your tribe..?"
-#     e ""
+    # e "Is it really that important to your tribe..?"
+    e "魔力对你们真的那么重要吗？"
 
-# translate schinese Furkan_Ask_Goat_Tribe_86a6fcd2:
+translate schinese Furkan_Ask_Goat_Tribe_86a6fcd2:
 
-#     # f "Look at everything around you, it is maintained not by physical structure, but the magical energy that sustain the whole tribe."
-#     f ""
+    # f "Look at everything around you, it is maintained not by physical structure, but the magical energy that sustain the whole tribe."
+    f "看看你周围的桌椅墙梁，它们都是用魔力维系的，而不是靠它们本身的结构材料。"
 
-# translate schinese Furkan_Ask_Goat_Tribe_2c7425f2:
+translate schinese Furkan_Ask_Goat_Tribe_2c7425f2:
 
-#     # f "The Guardians... They used to guard those runes up on the mountain."
-#     f ""
+    # f "The Guardians... They used to guard those runes up on the mountain."
+    f "符石护卫失去控制，上古符石和祖传法盅双双失窃……"
 
-# translate schinese Furkan_Ask_Goat_Tribe_faa85cfc:
+translate schinese Furkan_Ask_Goat_Tribe_faa85cfc:
 
-#     # f "They ran away, after the rune got stolen... and now... the basin that created them, got stolen away as well."
-#     f ""
+    # f "They ran away, after the rune got stolen... and now... the basin that created them, got stolen away as well."
+    pass
 
-# translate schinese Furkan_Ask_Goat_Tribe_c2168ed4:
+translate schinese Furkan_Ask_Goat_Tribe_c2168ed4:
 
-#     # f "I will handle it, one way or another. But I need a soldier, a soldier like you."
-#     f ""
+    # f "I will handle it, one way or another. But I need a soldier, a soldier like you."
+    f "这些困境我都会想尽办法一一解决，但我需要像你这样的勇士帮助我。"
 
-# translate schinese Furkan_Ask_Goat_Tribe_acbf65a9:
+translate schinese Furkan_Ask_Goat_Tribe_acbf65a9:
 
-#     # e "Me..."
-#     e ""
+    # e "Me..."
+    e "我……"
 
-# translate schinese Furkan_Ask_Goat_Tribe_8edad32a:
+translate schinese Furkan_Ask_Goat_Tribe_8edad32a:
 
-#     # e "Do you really believe that I can bring prosper to your tribe...?"
-#     e ""
+    # e "Do you really believe that I can bring prosper to your tribe...?"
+    e "我真的可以吗……？"
 
-# translate schinese Furkan_Ask_Goat_Tribe_dd250f12:
+translate schinese Furkan_Ask_Goat_Tribe_dd250f12:
 
-#     # f "I need an adventurer, and a friend who I can trust."
-#     f ""
+    # f "I need an adventurer, and a friend who I can trust."
+    f "当然可以，你是我信赖的冒险家朋友。"
 
-# translate schinese Furkan_Ask_Goat_Tribe_04b6d52a:
+translate schinese Furkan_Ask_Goat_Tribe_04b6d52a:
 
-#     # f "Everything that happened in this world after you arrived, they all connect back to you."
-#     f ""
+    # f "Everything that happened in this world after you arrived, they all connect back to you."
+    f "如今所有异象、所有变局都指向了你。"
 
-# translate schinese Furkan_Ask_Goat_Tribe_05b26ca9:
+translate schinese Furkan_Ask_Goat_Tribe_05b26ca9:
 
-#     # f "You are the answer."
-#     f ""
+    # f "You are the answer."
+    f "你，就是破解运势的钥匙。"
 
-# translate schinese Furkan_Ask_Goat_Tribe_d8ba1ffa:
+translate schinese Furkan_Ask_Goat_Tribe_d8ba1ffa:
 
-#     # e "I get it... but it seems like such a big responsibility."
-#     e ""
+    # e "I get it... but it seems like such a big responsibility."
+    e "突然感觉自己责任好重……"
 
-# translate schinese Furkan_Ask_Goat_Tribe_5887bf10:
+translate schinese Furkan_Ask_Goat_Tribe_5887bf10:
 
-#     # f "Do not fret. Time will come when you'll prove your worth."
-#     f ""
+    # f "Do not fret. Time will come when you'll prove your worth."
+    f "别怕，时间自会证明天降大任于你是正确的。"
 
-# translate schinese Furkan_Ask_Goat_Tribe_e54fa2db:
+translate schinese Furkan_Ask_Goat_Tribe_e54fa2db:
 
-#     # e "...I understand."
-#     e ""
+    # e "...I understand."
+    e "……我明白了。"
 
 # translate schinese Furkan_Meet_Flower_9f459336:
 
@@ -1318,37 +1328,42 @@ translate schinese goat_training_battle_f999bd1a:
     # gt "Yeah, go. I've still got a cart worth of bull's eye to shoot."
     gt "去，我还有一箩筐的箭要射。"
 
-# translate schinese Furkan_Ask_How_Doing_1f84e315:
+translate schinese Furkan_Ask_How_Doing_9aff63bd:
 
-#     # f "I am reading paperworks."
-#     f ""
+    # e "How are you doing, Furkan."
+    e "弗坎，你在做什么？"
 
-# translate schinese Furkan_Ask_How_Doing_3388a208:
+translate schinese Furkan_Ask_How_Doing_1f84e315:
 
-#     # e "Oh..."
-#     e ""
+    # f "I am reading paperworks."
+    f "我在处理文书。"
 
-# translate schinese Furkan_Ask_How_Doing_44637710:
+translate schinese Furkan_Ask_How_Doing_3388a208:
 
-#     # "The chieftain stares at you, he seems to expect you to do something..."
-#     ""
+    # e "Oh..."
+    e "噢……"
 
-# translate schinese Furkan_Ask_How_Doing_85e75e5e:
+translate schinese Furkan_Ask_How_Doing_44637710:
 
-#     # e "I'll leave you be for the moment."
-#     e ""
+    # "The chieftain stares at you, he seems to expect you to do something..."
+    "一族之长静静地与你对视，期盼你做出合乎时宜的举动。"
 
-# translate schinese Furkan_Ask_How_Doing_5e823501:
+translate schinese Furkan_Ask_How_Doing_85e75e5e:
 
-#     # f "Thank you, [e]."
-#     f ""
+    # e "I'll leave you be for the moment."
+    e "不用管我，你继续忙，哈哈……"
 
-# translate schinese Furkan_Dialogue_End_dc8c519d:
+translate schinese Furkan_Ask_How_Doing_5e823501:
 
-#     # e "That's all for now, Furkan."
-#     e ""
+    # f "Thank you, [e]."
+    f "招待不周还请见谅，我的朋友。"
 
-# translate schinese Furkan_Dialogue_End_930f0f51:
+translate schinese Furkan_Dialogue_End_dc8c519d:
 
-#     # f "Good. See you."
-#     f ""
+    # e "That's all for now, Furkan."
+    e "我就想说这么多，先走咯。"
+
+translate schinese Furkan_Dialogue_End_930f0f51:
+
+    # f "Good. See you."
+    f "嗯，改天见。"
