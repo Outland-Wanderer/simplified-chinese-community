@@ -32,7 +32,7 @@
 
     法语翻译： Sannom(Paul)  {a=https://twitter.com/SannomTigris}Twitter{/a}
 
-    葡萄牙语翻译： Fábio.T  {a=https://twitter.com/SannomTigris}Twitter{/a}
+    葡萄牙语翻译： Fábio.T  {a=https://twitter.com/Fabio120938}Twitter{/a}
 
     简体中文翻译： 逆戟鲸COPtimer  {a=https://twitter.com/COPtimer_1974}Twitter{/a}
 

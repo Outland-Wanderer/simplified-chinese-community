@@ -172,6 +172,9 @@ translate schinese strings:
     old "Ask about the tavern"
     new "询问酒馆的事情"
 
+    old "Ask about Lusterfield{#CaneAAL}"
+    new "询问乐斯民菲尔德的事情"
+
 # translate schinese Cane_Beer_Task_Begin_ad06b023:
 
 #     # c "Ey, Lad. Care for a minute?"
@@ -4914,6 +4917,9 @@ translate schinese strings:
 
     old "Ask about his Loot"
     new "询问洛萨尔手中的东西"
+
+    old "Ask about Lusterfield{#LotharAAL}"
+    new "询问乐斯民菲尔德的事情"
 
     old "Ask about his opinion on the Goat Tribe"
     new "询问对山羊部落的看法"

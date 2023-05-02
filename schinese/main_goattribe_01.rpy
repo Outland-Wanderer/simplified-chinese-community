@@ -1517,7 +1517,7 @@ translate schinese Kechioeren_Enter_683ebfb2:
 translate schinese strings:
 
     old "Hawkaita"
-    new "霍克埃塔部落"
+    new "普罗部落"
 
     old "Lusterfield{#goattribeenter1}"
     new "乐斯民菲尔德村"
@@ -1528,7 +1528,7 @@ translate schinese strings:
 translate schinese Kechioeren_Enter_d3b43202:
 
     # e "I'm from Hawkaita. Have you heard?"
-    e "我从霍克埃塔来，你有听说过吗？"
+    e "我从普罗来，你有听说过吗？"
 
 translate schinese Kechioeren_Enter_3a0ee0aa:
 
@@ -2678,7 +2678,7 @@ translate schinese Kari_Adventure_0af55a1b:
 translate schinese Kari_Adventure_22506db5:
 
     # k "Yeah, Hawkaita. Furkan told me that."
-    k "嗯，霍克埃塔。弗坎告诉过我。"
+    k "嗯，普罗。弗坎告诉过我。"
 
 translate schinese Kari_Adventure_0a463124:
 
@@ -2949,9 +2949,9 @@ translate schinese Kari_Adventure_befdd647:
     # k "I've told you already, I'm not wearing a cape."
     k "我不穿斗篷。"
 
-translate schinese Kari_Adventure_d7a7cea5:
+translate schinese Kari_Adventure_3584f8d1:
 
-    # e "Alright, but you both have a skull mask, a horn. and the X-shaped strap around you..."
+    # e "Alright, but you both have antlers, a scepter. and the X-shaped strap around you..."
     e "确实，但你们都戴着颅骨面具，都长着鹿角，胸口还都绑着交叉的束带……"
 
 translate schinese Kari_Adventure_0bf8eb44:
@@ -3484,7 +3484,7 @@ translate schinese Furkan_First_Meet_78d17fe4:
 translate schinese Furkan_First_Meet_3884f69f:
 
     # e "I am from Hawkaita, uhhh... I live in Lusterfield now."
-    e "我从霍克埃塔来。呃……我现在住在乐斯民菲尔德。"
+    e "我从普罗来。呃……我现在住在乐斯民菲尔德。"
 
 translate schinese Furkan_First_Meet_52f47dca:
 

@@ -1,12 +1,12 @@
-﻿translate schinese main_woodland_outpost_78c284fa:
+﻿translate schinese main_woodland_outpost_bc6a5c21:
 
-    # k "Hey... Where's Furkan?"
+    # k "Hey, Where's Furkan?"
     k "你回来了……弗坎呢？"
 
 translate schinese main_woodland_outpost_cca30a87:
 
     # e "He's fine, he told me to ask your guards to take him back."
-    e "他没事，"
+    e "他没事，他想你派几个士兵去接他。"
 
 translate schinese main_woodland_outpost_64ddf4dd:
 
@@ -53,20 +53,20 @@ translate schinese main_woodland_outpost_88472ec0:
     # e "See you!"
     e "再见！"
 
-translate schinese main_woodland_outpost_8a7093fd:
+translate schinese main_woodland_outpost_56af5341:
 
-    # "You reach the gate of the goat tribe, the guards looks at you in confusion..."
-    "你停在山羊部落大门前，门口的守卫疑惑地看着你……"
+    # "You reach the gate of the goat tribe, the guards looks at you in confusion."
+    "你停在山羊部落大门前，门口的守卫疑惑地看着你。"
 
-translate schinese main_woodland_outpost_5017e07d:
+translate schinese main_woodland_outpost_135a5f89:
 
-    # "It seems that there's no one in charge of the goat tribe now..."
-    "似乎现在山羊部落没人管事……"
+    # "It seems that there's no one in charge of the goat tribe now."
+    "似乎现在山羊部落没人管事。"
 
-translate schinese main_woodland_outpost_a5cb12e0:
+translate schinese main_woodland_outpost_d7796cd2:
 
-    # "The general is still in the cave... you presume."
-    "将军去了山洞……如果你是来找他的话。"
+    # "The general is still in the cave, as you presume."
+    "将军去了山洞。如果你是来找他的话。"
 
 translate schinese main_woodland_outpost_0681d622:
 
@@ -687,9 +687,9 @@ translate schinese woodland_outpost_loop_e612037c:
     # m "..."
     m "……"
 
-translate schinese woodland_outpost_loop_cf02c7f3:
+translate schinese woodland_outpost_loop_4b3286df:
 
-    # m "Who... are you?"
+    # m "Who, are you?"
     m "你……是谁？"
 
 translate schinese woodland_outpost_loop_2b40a022:
@@ -702,10 +702,10 @@ translate schinese woodland_outpost_loop_32516365:
     # "Instead of the unintelligible languages in your memory, you hear a young voice coming out of the figure."
     "这个神秘人嗓音明亮，与你预想的完全不同，而且他竟然说着你能听懂的语言。"
 
-translate schinese woodland_outpost_loop_1e2554d0:
+translate schinese woodland_outpost_loop_b95cc4d6:
 
-    # "He is not dark blue... this... deer... is bright in colour, and holding a scepter in his hand."
-    "定睛一看，他……这头鹿毛色鲜艳，手持木杖，和之前那个神秘人的样子差远了。"
+    # "This deer, is bright in colour, and holding a scepter in his hand."
+    "定睛一看，这头鹿毛色鲜艳，手持木杖，和之前那个神秘人的样子差远了。"
 
 translate schinese woodland_outpost_loop_54935489:
 
@@ -717,10 +717,10 @@ translate schinese woodland_outpost_loop_bc60e7d1:
     # m "Where are you from... and.. why are you here... at the middle of the night..."
     m "你是哪里人……还有，你为什么天黑了还在这里晃荡……"
 
-translate schinese woodland_outpost_loop_0d0b573f:
+translate schinese woodland_outpost_loop_9119c4e7:
 
-    # e "I'm... from Lusterfield. I was just exploring the area."
-    e "我……我从乐斯民菲尔德来，我刚刚只是在探索这片地方。"
+    # e "I'm from Lusterfield. I was just exploring the area."
+    e "我从乐斯民菲尔德来，我刚刚只是在探索这片地方。"
 
 translate schinese woodland_outpost_loop_e628981d:
 
@@ -732,9 +732,9 @@ translate schinese woodland_outpost_loop_9980ec54:
     # m "W-what?"
     m "什么？"
 
-translate schinese woodland_outpost_loop_80877cbb:
+translate schinese woodland_outpost_loop_9c5abfe1:
 
-    # e "That demon... that sent me here..."
+    # e "The demon that sent me here."
     e "把我传送来的恶魔……"
 
 translate schinese woodland_outpost_loop_790207d5:
@@ -747,15 +747,10 @@ translate schinese woodland_outpost_loop_d7bf05f9:
     # e "Hmm?"
     e "嗯？"
 
-translate schinese woodland_outpost_loop_34c23b9b:
+translate schinese woodland_outpost_loop_7e6d3db7:
 
-    # m "The courier from Lusterfield, Chief told me about you..."
-    m "你不是乐村的邮差吗，族长和我提过你……"
-
-translate schinese woodland_outpost_loop_0dd6c55c:
-
-    # e "I..."
-    e "我……"
+    # m "The courier from Lusterfield, Chief told me about you."
+    m "你不是乐村的邮差吗，族长和我提过你。"
 
 translate schinese woodland_outpost_loop_b58051d6:
 
@@ -787,20 +782,20 @@ translate schinese woodland_outpost_loop_f7413291:
     # m "Where is he..."
     m "他在哪……快说。"
 
-translate schinese woodland_outpost_loop_5a9d7f67:
+translate schinese woodland_outpost_loop_9c6176b1:
 
-    # e "Uhm...I don't know."
-    e "呃……我真的不知道。"
+    # e "Uhm, I don't know."
+    e "呃，我真的不知道。"
 
-translate schinese woodland_outpost_loop_4516937f:
+translate schinese woodland_outpost_loop_d3fe2f03:
 
-    # m "...Look, any information you know, you shall spill your beans. Did the Lusterfolks take him?"
-    m "……听着，你最好把你知道的都乖乖交代清楚。是你们的人带走了弗坎吗？"
+    # m "Look, any information you know, you shall spill your beans. Did the Lusterfolks take him?"
+    m "听着，你最好把你知道的都乖乖交代清楚。是你们的人带走了弗坎吗？"
 
-translate schinese woodland_outpost_loop_bf237a7d:
+translate schinese woodland_outpost_loop_5819885f:
 
-    # e "No... I'm sure no one would dare to kidnap your chief."
-    e "当然不是……乐村没人敢绑架你们族长。"
+    # e "No, I'm sure no one would dare to kidnap your chief."
+    e "当然不是，乐村没人敢绑架你们族长。"
 
 translate schinese woodland_outpost_loop_f7cd9910:
 
@@ -867,10 +862,10 @@ translate schinese woodland_outpost_loop_ab180096:
     # m "I need a hand."
     m "我需要帮手。"
 
-translate schinese woodland_outpost_loop_38a2775c:
+translate schinese woodland_outpost_loop_dc806ac7:
 
-    # e "Really...? I don't even know you..."
-    e "嘿……我连你是谁都不知道……"
+    # e "Really? I don't even know you."
+    e "嘿，我连你是谁都不知道……"
 
 translate schinese woodland_outpost_loop_ccd68456:
 
@@ -882,10 +877,10 @@ translate schinese woodland_outpost_loop_72a33094:
     # e "..."
     e "……"
 
-translate schinese woodland_outpost_loop_2bfd163a:
+translate schinese woodland_outpost_loop_937a8a1a:
 
-    # "You and the mysterious figure wait for the sun to rise before proceeding..."
-    "你和这个新的神秘人等到日出，才动身前往那个山洞……"
+    # "You and the mysterious figure wait for the sun to rise before proceeding."
+    "你和这个新的神秘人等到日出，才动身前往那个山洞。"
 
 translate schinese woodland_outpost_loop_e91ba75d_2:
 
@@ -1053,11 +1048,6 @@ translate schinese scene_slime_sex_a21041ec:
     # "There's you can fight the slime forcing you down, nor can you resist the urge to squirm and struggle under its control, you whimper quietly, praying that it would retreat the next second."
     "无论你如何扭动，也破除不了粘液团的束缚，它只会变本加厉地压制你。你轻声呜咽，祈祷它就此止住。"
 
-translate schinese scene_slime_sex_63a77ee7:
-
-    # e "S-stop..."
-    e "停、停下……"
-
 translate schinese scene_slime_sex_96ff7f13:
 
     # "You try to push the viscous substance away from you but it only gets firmer, The more you struggle, the easier it becomes to accomodate its advance, it quickly slides from your bare chest to your lower abdomen."
@@ -1123,10 +1113,10 @@ translate schinese scene_slime_sex_c87ffdc0:
     # "The sensation is haunting, sending your brain all the wrong signals that you might be enjoying this."
     "被紧紧包裹的性器快感持续，向大脑传递违背意志的错误信号，你一头挣扎一头索要，矛盾极了。"
 
-translate schinese scene_slime_sex_25e86aee:
+translate schinese scene_slime_sex_50b4ace9:
 
     # e "Noo... S-stop."
-    e "呃啊……"
+    e "呃啊……不要。"
 
 translate schinese scene_slime_sex_2454043a:
 
@@ -1148,7 +1138,7 @@ translate schinese scene_slime_sex_f4c22d45:
     # "It continues different movement for a while, until the sexual thoughts had overwhelmed your mind. You can think about nothing but the feeling of the gooey creature on your cock. It feels... oddly amazing."
     "史莱姆的玩法千变万化，一刻也不放松。高涨的性欲令你神魂颠倒。终于，你所有的注意力都被绿色粘液附体的性器所霸占。是啊，你感觉……莫名的爽快。"
 
-translate schinese scene_slime_sex_2d7161cb:
+translate schinese scene_slime_sex_38ea0c8e:
 
     # e "Ahhhh- A-hhhh..."
     e "啊——哈啊……"

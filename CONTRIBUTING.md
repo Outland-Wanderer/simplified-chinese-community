@@ -76,7 +76,6 @@ Damp Cave | 潮湿山洞 |
 Dark Forest | 幽暗森林 | 
 Forest Nightwatch | 幽暗森林哨站 | 
 Forgotten Sanctuary | 被遗弃的圣所 | 
-Hawkaita | 霍克埃塔 | 
 Kechioeren | 凯奇奥伦 | 山羊部落的别称
 Lusterfield | 乐斯民菲尔德 | 
 Gloomy Mountainside | 阴郁山腹 | 
@@ -85,6 +84,7 @@ Goat Tribe | 山羊部落 |
 Mokken | 莫肯 | 
 Moonlit Wolf Den | 月照狼穴 | 
 Mossy Freshwater | 招藓河 | 
+Puro | 普罗部落 | 
 Slumbrous Well | 犯困水井 | 
 Sparkling Lagoon | 苍耀湖 | 
 Split Trails | 岔路口 | 

@@ -5,49 +5,49 @@ translate schinese strings:
     old "Self Heal"
     new "自愈"
 
-    old "Self Heal: {p} You can heal back a portion of your health scaling with your INT. Costs 30 MP."
-    new "根据你的智慧属性值回复部分体力。消耗 30 点魔力。"
+    old "Self Heal: {p} You can heal back a portion of your health scaling with your INT. Costs 30 MP. Cooldown: 1 Round."
+    new "根据你的智慧属性值回复部分体力。消耗 30 点魔力，每回合可发动一次。"
 
     old "Fortify"
     new "设防"
 
-    old "Fortify: {p} Your defense is increased by a significant amount for this round. Costs 20 MP."
-    new "显著增强 1 回合的防御力。消耗 20 点魔力。"
+    old "Fortify: {p} Your defense is increased by a significant amount for this round. Costs 20 MP. Cooldown: 2 Round."
+    new "显著增强 1 回合的防御力。消耗 20 点魔力，每 2 回合可发动一次。"
 
     old "Alluring Lust"
     new "勾人"
 
-    old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA. Costs 20 MP."
-    new "根据你的智慧和魅力属性值增强 3 回合的诱惑效果。消耗 20 点魔力。"
+    old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA. Costs 20 MP. Cooldown: 2 Round."
+    new "根据你的智慧和魅力属性值增强 3 回合的诱惑效果。消耗 20 点魔力，每 2 回合可发动一次。"
 
     old "Camouflage"
     new "乱眼"
 
-    old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI. Costs 20 MP."
-    new "根据你的智慧和敏捷属性值增强本场战斗的闪避几率。消耗 20 点魔力。"
+    old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI. Costs 20 MP. Cooldown: 3 Round."
+    new "根据你的智慧和敏捷属性值增强本场战斗的闪避几率。消耗 20 点魔力，每 3 回合可发动一次。"
 
     old "Core Strike"
     new "溃敌"
 
-    old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round. Costs 35 MP."
-    new "根据你的智慧和坚韧属性值对目标造成大量伤害，并使其眩晕 1 回合。消耗 35 点魔力。"
+    old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round. Costs 35 MP. Cooldown: 1 Round."
+    new "根据你的智慧和坚韧属性值对目标造成大量伤害，并使其眩晕 1 回合。消耗 35 点魔力，每回合可发动一次。"
 
     old "Resolution"
     new "净心"
 
-    old "Resolution: {p} Reduce your Lust based on your INT. Costs 25 MP."
-    new "根据你的智慧属性值清除部分欲望。消耗 25 点魔力。"
+    old "Resolution: {p} Reduce your Lust based on your INT. Costs 25 MP. Cooldown: 1 Round."
+    new "根据你的智慧属性值清除部分欲望。消耗 25 点魔力，每回合可发动一次。"
 
     # old "Fiery Charge"
     # new ""
 
-    # old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP"
+    # old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP. Cooldown: 1 Round."
     # new ""
 
     # old "Piercing Blow"
     # new ""
 
-    # old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI. Costs 35 MP"
+    # old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI. Costs 35 MP. Cooldown: 2 Round."
     # new ""
 
     #物品-标本
@@ -97,19 +97,19 @@ translate schinese strings:
     new "红莓"
 
     old "A red berry I collected from the forest area, it can recover 10 HP."
-    new "我从森林里摘的红色浆果，吃下可以恢复 10 点体力。"
+    new "从森林里摘的红色浆果，吃下可以恢复 10 点体力。"
 
     old "Blue Berry"
     new "蓝莓"
 
     old "A blue berry I collected from the forest area, it can recover 10 MP."
-    new "我从森林里摘的蓝色浆果，吃下可以恢复 10 点魔力。"
+    new "从森林里摘的蓝色浆果，吃下可以恢复 10 点魔力。"
 
     old "Golden Berry"
     new "金莓"
 
     old "A golden berry I collected from the forest area, it reduces 5 Lust."
-    new "我从森林里摘的金色浆果，吃下可以消减 5 点性欲。"
+    new "从森林里摘的金色浆果，吃下可以消减 5 点性欲。"
 
     old "Strength Potion"
     new "力量药水"
@@ -963,73 +963,121 @@ translate schinese strings:
 
     #备忘录
 
-    old "Ole's Postal Training"
-    new "奥利的邮递员特训"
+    old "Ole's Postal Training" #01
+    new "邮递员特训"
 
     old "Ole urges me to complete the training from Sebas, Lothar and Rahim in order to prepare for my adventure."
-    new "奥利敦促我分别去找塞巴斯、洛萨尔和雷希姆完成邮递员新人培训，为我的冒险之旅做足准备。"
+    new "奥利敦促我请教村民完成邮递员新人培训，为我的冒险之旅做足准备。"
 
-    old "Sebas' Expedition"
-    new "塞巴斯的窝边探险"
+    old "Complete task from Sebas"
+    new "完成塞巴斯那的培训"
+
+    old "Complete task from Rahim"
+    new "完成雷希姆那的培训"
+
+    old "Complete task from Lothar"
+    new "完成洛萨尔那的培训"
+
+    old "Sebas' Expedition" #02
+    new "窝边探险"
 
     old "Sebas goes out with me to learn reading maps and navigating, I need to collect 3 stones in the green forest for him."
-    new "塞巴斯带我出门学习怎么看地图和寻路。我得收集 3 块石头交给他。"
+    new "塞巴斯带我出门学习怎么看地图和寻路。"
 
-    old "Rahim's Crafting Lesson"
-    new "雷希姆的手工课"
+    old "Collect 3 Stones"
+    new "收集 3 块石头"
+
+    old "Rahim's Crafting Lesson" #03
+    new "手工课"
 
     old "Rahim taught me how to use the tools in his house to craft, I need to make a tunic for him."
-    new "雷希姆告诉了我如何使用他家里的工具制作物品，现在我得做一件长袍交作业。"
+    new "雷希姆告诉了我如何使用他家里的工具制作物品。"
 
-    old "Lothar's Battle Basics"
-    new "洛萨尔的基础作战教学"
+    old "Craft a Tunic"
+    new "制作一件长袍"
+
+    old "Lothar's Battle Basics" #04
+    new "基础作战教学"
 
     old "Lothar took me to the alleyway to practice battles with his dummy, I need to defeat the dummy."
-    new "洛萨尔领我去和他巷子里的人偶对战当作训练，我得打败这个人偶。"
+    new "洛萨尔领我去和他巷子里的人偶对战当作训练。"
 
-    old "A Rolling Stone"
+    old "Defeat the dummy"
+    new "打败人偶"
+
+    old "A Rolling Stone" #05
     new "暴走的石头"
 
     old "Lothar found a stone in his recent adventure, he asked me to help him take it to Sebas to fetch a good price."
     new "洛萨尔在探险途中发现了一块石头，让我帮忙卖给塞巴斯，最好能卖个好价钱。"
 
-    old "Truce"
+    old "Report to Sebas after a day"
+    new "过一天再找塞巴斯"
+
+    old "Lothar is taking his rest, I should report to Sebas after a day"
+    new "过一天再找塞巴斯"
+
+    old "Truce" #06
     new "休战"
 
     old "Furkan asked me to deliver a letter to Rahim as a signal of peace. I need to tell him about Rahim's Response."
     new "弗坎让我把一封议和信送给雷希姆。我得告诉他雷希姆的回应。"
 
-    old "The Second Finest Lad"
+    old "Give the letter to Rahim"
+    new "将信交给雷希姆"
+
+    old "The Second Finest Lad" #07
     new "世界第二棒小伙"
 
     old "Cane's cherished apron was punctured, he asked me to take the apron to Rahim and see if he can fix the apron."
     new "凯恩珍爱的围裙破了个洞，他让我拿去给雷希姆看看能不能补好。"
 
-    old "Mutual Apothecary Arrangement"
+    old "Ask Rahim for help"
+    new "求助雷希姆"
+
+    old "Mutual Apothecary Arrangement" #08
     new "药剂师的双边协定"
 
     old "As my courier job, Ole told me about helping him get potion from an old friend."
     new "奥利想我帮他从一位老朋友那运些药水回来，履行我作为邮递员的本职工作。"
 
-    # old "New Outfit"
+    old "Visit the Potion maker"
+    new "拜访药剂师"
+
+    # old "New Outfit" #09
     # new "新装备"
 
     # old "Rahim is testing his new clothing design, he needs someone to become his model."
     # new "雷希姆设计了几套新衣服，需要有人当模特试穿。"
 
-    old "Suspicious Activity"
+    # old "Put on the Outfit and ask around the Village"
+    # new "穿上新衣服并询问大家的意见"
+
+    old "Suspicious Activity" #10
     new "可疑的动向"
 
     old "Lothar wanted me to get inside the Goat Tribe for information, I need to decide whether I should follow his plan."
     new "洛萨尔想让我进到山羊部落刺探情况，我得决定要不要加入他的计划。"
 
-    old "Guardian"
+    old "Talk to Lothar"
+    new "与洛萨尔交谈"
+
+    old "Guardian" #11
     new "符石护卫"
 
     old "Kari asked me to help save Furkan. He told me the chief went to the Damp Cave for the lost guardian."
     new "卡里恳求我救出弗坎。他说弗坎为了找回失踪的符石护卫独自前往了潮湿山洞。"
 
-    old "Advanced Battle Practice"
+    old "Visit the Damp Cave"
+    new "前往潮湿山洞"
+
+    old "Visit the Damp Cave with Kari"
+    new "前往潮湿山洞"
+
+    old "Visit the Damp Cave with the general"
+    new "前往潮湿山洞"
+
+    old "Advanced Battle Practice" #12
     new "高级作战教学"
 
     old "In order to train with Lothar, I need to fight against the strong dummy."
@@ -1214,7 +1262,7 @@ translate schinese strings:
     new "负伤"
 
     old "Wounded: {p} Target's health is additionally decreased for each round, effect decreases until it runs out. Stackable."
-    new "负伤：{p}目标体力每回合持续减少，出体力每回合递减直至出血停止。可叠加状态。"
+    new "负伤：{p}目标每回合持续减少部分体力，效果每回合递减。状态可叠加。"
 
     old "Empowered"
     new "鼓舞"
@@ -1239,3 +1287,9 @@ translate schinese strings:
 
     old "Bruised: {p} All Target's healing is reduced by a significant amount."
     new "挫伤：{p}目标的治疗效果降低。"
+
+    old "Scorched"
+    new "灼伤"
+
+    old "Scorched: {p} Target's Health decreased by the same amount for each round. Additional application extends the effect duration instead."
+    new "灼伤：{p}目标每回合持续减少一定体力。仅能叠加状态持续时间。"

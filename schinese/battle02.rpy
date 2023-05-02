@@ -431,7 +431,7 @@ translate schinese goat_guard_battle_loop_52bade86:
 translate schinese goat_guard_battle_loop_31e631a3_1:
 
     # "You can tell the guard is already playing with himself when his hand goes under his loincloth, staring at your ass intently. His lust is increased by [player_flirt]."
-    "山羊士兵紧盯着你肥美的臀部，将伸手套弄自己裤裆内的勃起。他的性欲增加了 [player_flirt] 点。"
+    "山羊士兵紧盯着你肥美的臀部，伸手套弄自己裤裆内的勃起。他的性欲增加了 [player_flirt] 点。"
 
 translate schinese goat_guard_battle_loop_03761556:
 
@@ -946,7 +946,7 @@ translate schinese goat_general_battle_loop_34ceacbd:
 translate schinese goat_general_battle_loop_39b4517c:
 
     # "You can tell the general is already playing with himself when his hand goes under his loincloth, staring at your ass intently. His lust is increased by [player_flirt]."
-    "羊族将军紧盯着你肥美的臀部，将伸手套弄自己裤裆内的勃起。他的性欲增加了 [player_flirt] 点。"
+    "羊族将军紧盯着你肥美的臀部，伸手套弄自己裤裆内的勃起。他的性欲增加了 [player_flirt] 点。"
 
 translate schinese goat_general_battle_loop_ac8b009a:
 
@@ -1011,7 +1011,7 @@ translate schinese goat_general_battle_loop_b5cec46e:
 translate schinese goat_general_battle_loop_2e7cca8a:
 
     # gg "Taste my orbs, courier. I'll make sure you- Wait... {size=15}I didn't mean my orbs...{/size}"
-    gg "尝尝我丸子们的厉害吧。等等……{size=-16}我指的不是我的……{/size}"
+    gg "尝尝我丸子们的厉害吧。不是……{size=-16}我指的不是我的……{/size}"
 
 translate schinese goat_general_battle_loop_3418263c:
 
@@ -1036,7 +1036,7 @@ translate schinese goat_general_win_ca507d39:
 translate schinese goat_general_win_0cab4732:
 
     # "You've received 300 gold from the general. 1000 Exp and 1 extra level point."
-    "先前的战斗使你收获了 300 金币、1000 经验值、1 额外等级点。"
+    "先前的战斗使你收获了 300 金币、1000 经验值、1 等级点。"
 
 translate schinese goat_general_win_91f1d522:
 

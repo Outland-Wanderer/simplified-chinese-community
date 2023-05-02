@@ -1829,6 +1829,11 @@ translate schinese scene_buggbear_lose_12014bd0:
     # "Having checked to make sure everything was still there you winced in pain as you walked off to leave."
     "检查过没有遗漏任何东西后，你揉着屁股一瘸一拐离开了这里。"
 
+# translate schinese Scene_Tavern_Meet_01_556c7193:
+
+#     # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
+#     msg ""
+
 # translate schinese Scene_Tavern_Meet_01_860df4dd:
 
 #     # "You pad over to the backroom."
@@ -2558,6 +2563,11 @@ translate schinese scene_buggbear_lose_12014bd0:
 
 #     # "That was exceptionally draining and you feel you deserve the payment you're getting."
 #     ""
+
+# translate schinese Scene_Tavern_Meet_02_556c7193:
+
+#     # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
+#     msg ""
 
 # translate schinese Scene_Tavern_Meet_02_31b5b0f1:
 
@@ -3573,6 +3583,11 @@ translate schinese scene_buggbear_lose_12014bd0:
 
 #     # "You leave the backroom."
 #     ""
+
+# translate schinese Scene_Tavern_Meet_03_556c7193:
+
+#     # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
+#     msg ""
 
 # translate schinese Scene_Tavern_Meet_03_405cc58d:
 

@@ -80,47 +80,52 @@ translate schinese start_d52b69a6:
 translate schinese start_f6462e8e:
 
     # "You hold onto your torch tightly. You don't know what it is, but it is coming."
-    "你死死握住手中的火炬，那是什么东西你无从得知，但它铁定正朝着你来。"
+    "你死死握住手中的火炬，来者何物你无从得知，但它铁定正朝着你来。"
 
 translate schinese start_cb7fa2ee:
 
     # "The thing gets closer and closer, you would pray it is Chime, but it turns out bigger than you thought."
     "它离你越来越近了，你祈祷是齐门而不是别的。可那个身影却越来越大，大过你和齐门。"
 
-translate schinese start_ca7a0264:
+translate schinese start_0e408d55:
 
-    # "You freeze in place, only tracing out the blue cape of the dark figure."
-    "你愣在原地，凝视着火光勾勒出他蓝色的斗篷。"
+    # "You freeze in place, your eyes can only trace the outline of dark figure."
+    "你愣在原地，凝视着火光勾勒出他披垂的斗篷。"
 
 translate schinese start_8c1447fa:
 
     # "At some point, the figure stops, allowing you time to make sense of who is under the cape."
-    "黑影没有继续向前，让你有时间观察他斗篷下的模样。"
+    "黑影没有继续向前，让你有时间观察他斗篷下长什么模样。"
 
-translate schinese start_5efc84a3:
+translate schinese start_b9809af6:
 
-    # "You can only hear the fierce quivering of the trees as the fleeting shadow emerges in the center of your vision."
-    "突然，黑影闪现至你视野正中央，排开的强风而后才席卷树林，摩擦产出强烈的颤动声。"
+    # "You can hear the fierce quivering of the trees as the fleeting shadow emerges in the center of your vision."
+    "突然，黑影闪现至你视野正中央，强风排开席卷树林，摩擦产出强烈的颤动声。"
 
 translate schinese start_99673515:
 
     # my "gws sewre boecdisff wwo. sipcse baalseif, b."
     my "戈殳瓦卜克鼎四阝兀，厶攴屮凵八儿彡父，卜。"
 
-translate schinese start_2ca9d9d7:
+translate schinese start_1a3b80da:
 
-    # "You have never seen this mysterious person before, with his deer skull covering his head."
-    "七尺黑影矗立在你面前，头戴鹿颅面罩，你从未见过这号神秘人物。"
+    # "You have never seen this mysterious person before, he seems tall, but scruffy, with a pair of huge antler covering his head."
+    "七尺黑影矗立在你面前，头顶一对巨大的鹿角。他衣衫褴褛，却威慑感十足。"
 
-translate schinese start_3163c28f:
+translate schinese start_857809b5:
 
-    # "You are already intimidated, if not stunned. You can sense that he is staring at you, even without seeing his pupil."
-    "即使看不清他的眼睛，你也能感觉到对方注视的目光。"
+    # "And there's something behind his back, which only makes you more paranoid."
+    pass
+
+translate schinese start_e08b4aa1:
+
+    # "You are intimidated by his appearance, if not stunned. You can sense that he is staring at you, even without seeing the pupils behind his mask."
+    "即使看不清他的眼睛，你也能感受到对方注视的目光。"
 
 translate schinese start_bc36866c:
 
     # "The creature is almost 7 feet tall, emasculating you with fear and dread. His stance alone makes you stumble backwards."
-    "你惊恐万分，踉跄地向后退。"
+    "你从未见过这号神秘人物，他背后的东西更令你心生惶恐，踉跄地向后退。"
 
 translate schinese start_f06a5bf0:
 
@@ -187,9 +192,9 @@ translate schinese start_b5ac0fb8:
     # my "Juin."
     my "冂。"
 
-translate schinese start_bc15bc66:
+translate schinese start_515c0232:
 
-    # my "Juin...? Juin! J-ju... Hmmm...."
+    # my "Juin...? Juin! J-ju... Hmmm..."
     my "冂……？冂！冂……嗯……"
 
 translate schinese start_fc645303:
@@ -207,30 +212,50 @@ translate schinese start_ea80e424:
     # my "...Adreif."
     my "……瓦斗耒匚。"
 
-translate schinese start_cf171e4f:
+translate schinese start_70bd5c88:
 
-    # "He begins preparing and gathering his energy. Everything seems to be much brighter in the forest, tinted in light blue."
+    # "He begins preparing and gathering his energy. Everything seems to be much brighter in the forest, beginning to glow in light blue."
     "黑影开始聚集能量，你周遭的一切尽被染上了亮蓝色。"
 
-translate schinese start_b7ca1862:
+translate schinese start_8698853b:
 
-    # "You turn your head, the energy seems to have formed an aura around you two, the forest continues gleaming with light."
+    # "The wooden object behind his back begins floating slowly to his front."
+    "他背后的木工制品缓缓飞到了他身前。"
+
+translate schinese start_fe42546e:
+
+    # "You turn your head, his unknown energy seems to have formed an aura around you two, the forest continues gleaming with light."
     "你环顾全身，那股能量在你们身上分别形成了两团光晕，而树林也变得越来越耀眼。"
 
-translate schinese start_3076eeb1:
+translate schinese start_c27c68b7:
 
-    # "He is casting his spell. You can sense that everything that is starting to float."
-    "他开始施展法术，你感觉花草树木都漂浮了起来。"
+    # "He mumbles something under his breath, which you can only deduce that it's a spell."
+    "他开始诵读咒语，而你也只能猜测那是一种咒语。"
 
-translate schinese start_850e28c3:
+translate schinese start_65c223ef:
 
-    # "The figure crosses his legs, chanting in another unintelligible languages."
-    "黑影盘膝而坐，诵读着另一种不解的语言。"
+    # "The silence of the forest breaks as trees and leaves swirls in all directions, and you hear a tune plays."
+    "黑影盘膝浮坐空中，开始拨动那个木工制品的琴弦。"
+
+translate schinese start_2ed9fbeb:
+
+    # "The figure crosses his legs, playing the string on whatever he took out from his back."
+    "声乐响起，花草树木皆在你眼中扭曲旋转。"
+
+translate schinese start_4a8cb341:
+
+    # "With each tune played, the wind gets more and more intense, leaving you no room to escape."
+    "他每弹出一个音符，包围你们的风墙就愈发呼啸，令你无处可逃。"
+
+translate schinese start_b5c20a73:
+
+    # "You groan in fear as everything around you is glowing, and flowing like water around the freezing air."
+    "你惊恐地大叫着，你周围的一切都在化作流光，游进冰冷的空气中。"
 
 translate schinese start_fe637a06:
 
     # "Whatever spell he is performing, you can only pray that you would come out of this alive, preferably unscathed."
-    "不管他念的是什么咒语，你祈祷着自己只要能活命就行，当然别受伤最好。"
+    "不管他施展何种魔法，你祈祷着自己只要能活命就行，当然别受伤最好。"
 
 translate schinese start_17ec407c:
 
@@ -342,15 +367,15 @@ translate schinese start_e612037c:
     # m "..."
     m "……"
 
-translate schinese start_7d56add8:
+translate schinese start_b1cf6148:
 
-    # m "You waking up yet... you know... you shouldn't have slept in."
-    m "醒没醒啊……喂……你不能睡在这里。"
+    # m "You waking up yet, you know... you shouldn't have slept in."
+    m "醒没醒啊。喂……你不能睡在这里。"
 
 translate schinese start_027c2e72:
 
     # m "Especially in the middle of a forest like here."
-    m "特别这还是森林的最中间。"
+    m "特别还是这森林的最中间。"
 
 translate schinese start_9f81ccaa:
 
@@ -627,10 +652,36 @@ translate schinese name_done_e2bd6e1c:
     # s "Unlucky, that means you're one of the outsider goats right, You're not a face I remember well."
     s "糟糕，说明你也是海外山羊。难怪这么面生。"
 
-translate schinese name_done_fcdacbb9:
+translate schinese name_done_116a6227:
 
-    # e "What outside? I'm... a dragon from the Hawkaita Tribe."
-    e "什么海外山羊？我是龙……来自霍克埃塔部落的龙。"
+    # e "What outside? I'm... a dragon from the Puro Tribe."
+    e "什么海外山羊？我是龙……来自普罗部落的龙。"
+
+translate schinese name_done_f1458b27:
+
+    # s "Dragon? I don't think I've ever saw a dragon like you, [e]. You look like a goat pretending to be a dragon."
+    s "龙？我们这可没有长得像你这样的龙，在我看来你就是装成龙的羊。"
+
+translate schinese name_done_8b8e3dbf:
+
+    # e "There are dragons who looks like a wolf? like Chime. But we call ourselves dragons because that's what our tribe is."
+    e "不也有长得像狼的龙吗？比如齐门。但我们自称是龙，因为我们部落就是龙族部落。"
+
+translate schinese name_done_77e36122:
+
+    # s "So, what's there outside of your tribe? Another tribe? A town full of people?"
+    s "那你们部落附近还有什么部落吗？或者城镇？很多人的那种。"
+
+translate schinese name_done_4a92046b:
+
+    # e "Now that I think of it, I don't think I've ever been, outside, outside. I spent my whole life in my tribe."
+    e "我想想，附近有……有……"
+    e "……我从小到大都待在部落里，好像没去过别的地方。"
+
+translate schinese name_done_af231e2c:
+
+    # "Sebas scratches his chin."
+    "塞巴斯挠挠下巴。"
 
 translate schinese name_done_fc475d2a:
 
@@ -877,7 +928,7 @@ translate schinese name_done_3e6fedde:
 translate schinese name_done_497eced6:
 
     # e "Uhmm, I'm from Hawkaita... but where are we?"
-    e "呃，我从霍克埃塔来……这里是哪里？"
+    e "呃，我从普罗来……这里是哪里？"
 
 translate schinese name_done_513ae3a9:
 

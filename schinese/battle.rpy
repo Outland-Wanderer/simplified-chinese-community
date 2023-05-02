@@ -481,7 +481,7 @@ translate schinese goat_battle_loop_ae4f2742:
 translate schinese goat_battle_loop_3548818f:
 
     # "You can tell the huntsman is already playing with himself when his hand goes under his loincloth, staring at your ass intently. His lust is increased by [player_flirt]"
-    "山羊猎人紧盯着你肥美的臀部，将伸手套弄自己裤裆内的勃起。他的性欲增加了 [player_flirt] 点。"
+    "山羊猎人紧盯着你肥美的臀部，伸手套弄自己裤裆内的勃起。他的性欲增加了 [player_flirt] 点。"
 
 translate schinese goat_battle_loop_0d56d52b:
 
@@ -699,15 +699,15 @@ translate schinese goat_win_237c5265:
     # "You leave the huntsman alone in the forest, he will probably wake up in a few hours."
     "山羊猎人可能会在几小时后醒来，你心满意足离开了这里。"
 
-# translate schinese goat_win_daa1fe17:
+translate schinese goat_win_daa1fe17:
 
-#     # gt "...well. Good job."
-#     gt ""
+    # gt "...well. Good job."
+    gt "你……真够厉害。"
 
-# translate schinese goat_win_37055e34:
+translate schinese goat_win_37055e34:
 
-#     # "You leave the huntsman still panting profusly on the side of the training ground..."
-#     ""
+    # "You leave the huntsman still panting profusly on the side of the training ground..."
+    "这名山羊士兵上气不接下气，强撑着走到训练场角落休息去了……"
 
 translate schinese goat_win_91f1d522:
 
@@ -888,7 +888,7 @@ translate schinese buggbear_battle_loop_d427826b:
 translate schinese buggbear_battle_loop_003220db:
 
     # "You can tell the buggbear is already playing with himself when his hand goes under his loincloth, staring at your ass intently. His lust is increased by [player_flirt]."
-    "熊地精紧盯着你肥美的臀部，将伸手套弄自己裤裆内的勃起。他的性欲增加了 [player_flirt] 点。"
+    "熊地精紧盯着你肥美的臀部，伸手套弄自己裤裆内的勃起。他的性欲增加了 [player_flirt] 点。"
 
 translate schinese buggbear_battle_loop_33260ed5:
 

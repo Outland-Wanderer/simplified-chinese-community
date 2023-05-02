@@ -11,6 +11,9 @@ translate schinese strings:
     old "Completed Quests:"
     new "已经完成："
 
+    old "{size=20}{p}{p} ==================== {p}{p}{/size=20} {size=32}Progress{/size=32}:"
+    new "{size=20}{p}{p} ==================== {p}{p}{/size=20} {size=32}代办{/size=32}："
+
     old "Location: [selected_quest.location!t]"
     new "地点：[selected_quest.location!t]"
 

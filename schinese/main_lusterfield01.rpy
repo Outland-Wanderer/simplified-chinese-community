@@ -27,6 +27,9 @@ translate schinese strings:
     old "Pleasure yourself"
     new "自慰"
 
+    old "Open Storage"
+    new "打开储物箱"
+
 translate schinese bedroom_sleep_6ad06346:
 
     # "You get on the bed and slowly fall asleep."
@@ -4939,25 +4942,20 @@ translate schinese Ole_Ask_Under_Counter_ca730175:
     # o "Hmm?"
     o "嗯？"
 
-translate schinese Ole_Ask_Under_Counter_0dd6c55c:
+translate schinese Ole_Ask_Under_Counter_24a72e17:
 
-    # e "I..."
-    e "我……"
-
-translate schinese Ole_Ask_Under_Counter_6efe202d:
-
-    # e "Did you... happen to see..."
-    e "你有没有……看见……"
+    # e "Did you happen to see-"
+    e "你有没有看见……"
 
 translate schinese Ole_Ask_Under_Counter_354cf749:
 
     # o "You and Seb?"
     o "你和阿塞？"
 
-translate schinese Ole_Ask_Under_Counter_72a33094:
+translate schinese Ole_Ask_Under_Counter_6186867a:
 
-    # e "..."
-    e "……"
+    # "You nod."
+    "你点点头。"
 
 translate schinese Ole_Ask_Under_Counter_a2ea77ab:
 
@@ -4974,7 +4972,7 @@ translate schinese Ole_Ask_Under_Counter_fef687ad:
     # o "I know you young boys have some weird impulses, but I thought you knew better than this..."
     o "我明白你们年轻小伙子会有些离奇的冲动，但我以为你们都懂事了……"
 
-translate schinese Ole_Ask_Under_Counter_72a33094_1:
+translate schinese Ole_Ask_Under_Counter_72a33094:
 
     # e "..."
     e "……"
@@ -4999,20 +4997,20 @@ translate schinese Ole_Ask_Under_Counter_a845e617:
     # e "Of course no. You're always right, Ole. I'm glad you're by my side."
     e "当然没有。奥利你总能明辨是非，我很高兴有你做朋友。"
 
-translate schinese Ole_Ask_Under_Counter_3ff63043:
+translate schinese Ole_Ask_Under_Counter_7f51c35c:
 
-    # o "Yeah... Stay with Seb more, I think he likes your company."
-    o "嗯……多陪陪阿塞，他喜欢你在他身边。"
+    # o "Yeah. Stay with Seb more, I think he likes your company."
+    o "嗯，多陪陪阿塞，他喜欢你在他身边。"
 
 translate schinese Ole_Ask_Under_Counter_80c64ffb:
 
     # e "Do... you like my company as well."
-    e "那你……也喜欢我在你身边吗？"
+    e "那你……喜欢我在你身边吗？"
 
-translate schinese Ole_Ask_Under_Counter_6d4322fc:
+translate schinese Ole_Ask_Under_Counter_29d900d7:
 
-    # o "...I do."
-    o "……我也喜欢。"
+    # o "I do, not as much in an essence of Seb's though."
+    o "我也喜欢，只不过阿塞要比我更喜欢。"
 
 translate schinese Ole_Ask_Under_Counter_6cf2b443:
 
@@ -5024,10 +5022,10 @@ translate schinese Ole_Ask_Under_Counter_d35aaf4c:
     # e "Ok."
     e "好的。"
 
-translate schinese Ole_Ask_Goat_Tribe_62774199:
+translate schinese Ole_Ask_Goat_Tribe_a58e4d30:
 
-    # e "Hey... Ole. What's your opinion... on the Goat Tribe?"
-    e "嗨……奥利。我想知道……你对山羊部落怎么看？"
+    # e "Hey, Ole. What's your opinion... on the Goat Tribe?"
+    e "我想知道……你对山羊部落怎么看？"
 
 translate schinese Ole_Ask_Goat_Tribe_628e0372:
 
@@ -5094,19 +5092,19 @@ translate schinese Ole_Apron_Quest_a7701920:
     # e "Ole, I need to ask you for a specific ingredients."
     e "奥利，你有没有那种绿色的染料？"
 
-translate schinese Ole_Apron_Quest_accf83e0:
+translate schinese Ole_Apron_Quest_1c0bba33:
 
-    # o "Hmm...? What do you need?"
-    o "嗯……？你要用来做什么？"
+    # o "Hmm? What do you need?"
+    o "嗯？你要用来做什么？"
 
 translate schinese Ole_Apron_Quest_abddad47:
 
     # e "A Green Dye. For Cane's Apron."
     e "我想修补凯恩的围裙。"
 
-translate schinese Ole_Apron_Quest_ec90d0b4:
+translate schinese Ole_Apron_Quest_d2accc70:
 
-    # o "His apron... did Rahim tell you the recipe?"
+    # o "His apron, did Rahim tell you the recipe?"
     o "围裙……雷叔有告诉你怎么补吗？"
 
 translate schinese Ole_Apron_Quest_63d1afe6:
@@ -5142,10 +5140,10 @@ translate schinese Ole_Apron_Quest_b52c58ff:
     elif True:
         o "日安，雷叔，我和[e]一块来了。"
 
-translate schinese Ole_Apron_Quest_ec01477c:
+translate schinese Ole_Apron_Quest_6318dac8:
 
-    # r "Hmm...? What's the matter?"
-    r "嗯……？有什么事？"
+    # r "Hmm? What's the matter?"
+    r "嗯？有什么事？"
 
 translate schinese Ole_Apron_Quest_45228c3c:
 
@@ -5157,10 +5155,10 @@ translate schinese Ole_Apron_Quest_aab08703:
     # o "Yeah. Apron, what happened over there?"
     o "是的，围裙。"
 
-translate schinese Ole_Apron_Quest_4b72cf21:
+translate schinese Ole_Apron_Quest_3f7e6078:
 
-    # r "I gave [e] the recipe... Is there something wrong?"
-    r "我给了[e]一张材料清单让他自己动手……怎么了吗？"
+    # r "I gave [e] the recipe. Is there something wrong?"
+    r "我给了[e]一张材料清单让他自己动手。怎么了吗？"
 
 translate schinese Ole_Apron_Quest_25b92775:
 
@@ -5187,15 +5185,15 @@ translate schinese Ole_Apron_Quest_54653927:
     # o "Have you two, met yet?"
     o "那您和他，有见面吗？"
 
-translate schinese Ole_Apron_Quest_2dd3ad7c:
+translate schinese Ole_Apron_Quest_4ebbc277:
 
-    # r "No, like I said, I don't care about him. But [e]... I think he's a good person."
-    r "没有，就像我说的，不关那只蝙蝠的事。[e]是个好孩子……所以我想帮助他。"
+    # r "No, like I said, I don't care about him. But [e] is a good person."
+    r "没有，就像我说的，不关那只蝙蝠的事。[e]是个好孩子，所以我想帮助他。"
 
-translate schinese Ole_Apron_Quest_e2b9725a:
+translate schinese Ole_Apron_Quest_a1ac7451:
 
-    # o "...Alright. I understand now. I won't ask too much questions, Rahim, see you later."
-    o "……好的，我不多过问打扰您了。雷叔再见。"
+    # o "Alright. I understand now. I won't ask too much questions, Rahim, see you later."
+    o "好的，我不多过问打扰您了。雷叔再见。"
 
 translate schinese Ole_Apron_Quest_739472a3:
 
@@ -5217,10 +5215,10 @@ translate schinese Ole_Apron_Quest_fea4d0e5:
     # o "Alright, kiddo."
     o "好了，小兄弟。"
 
-translate schinese Ole_Apron_Quest_4e09c0e8:
+translate schinese Ole_Apron_Quest_c376806c:
 
-    # e "Ole... May I g-get the ingredient... from you?"
-    e "奥利，请问……你可以给、给我一份绿色染料……吗？"
+    # e "Ole, May I g-get the ingredient... from you?"
+    e "奥利，请问你可以给我一份绿色染料……吗？"
 
 translate schinese Ole_Apron_Quest_00b73ef3:
 
@@ -5242,10 +5240,10 @@ translate schinese Ole_Apron_Quest_03fdcfcf:
     # o "Anyways, I don't have strong opinion on Cane anyways. Just wanted to be sure of Rahim's decision."
     o "我自己对凯恩没有什么成见。刚才只是想确认一下雷叔的意见。"
 
-translate schinese Ole_Apron_Quest_31d1f04a:
+translate schinese Ole_Apron_Quest_09acb7f9:
 
-    # o "And... You wanted some green dyes right? I can make one right here, Seb and me picked the leaves from the town area. We have no use of that anyways."
-    o "话说回来……你要一份绿色染料对吧？我可以马上调一份给你，正好把阿塞和我从镇子采的树叶用掉，反正留着也没用。"
+    # o "And you wanted some green dyes right? I can make one right here, Seb and me picked the leaves from the town area. We have no use of that anyways."
+    o "话说回来，你要一份绿色染料对吧？我可以马上调一份给你，正好把阿塞和我从镇子采的树叶用掉，反正留着也没用。"
 
 translate schinese Ole_Apron_Quest_23911e3d:
 
@@ -7287,15 +7285,15 @@ translate schinese Ole_Dialogue_End_88c159ac:
     # o "Alright kid, have a good day."
     o "好，祝你一切顺利。"
 
-translate schinese Rahim_Dialogue_846228c8:
+translate schinese Rahim_Dialogue_b86dc71c:
 
-    # r "You... better cover yourself up."
-    r "你……怎么不穿裤子。"
+    # r "You, better cover yourself up."
+    r "你——怎么不穿裤子。"
 
-translate schinese Rahim_Dialogue_faa7d97b:
+translate schinese Rahim_Dialogue_eeb4ded0:
 
-    # e "Hmm..."
-    e "嗯……"
+    # e "Hmm."
+    e "我……"
 
 translate schinese Rahim_Dialogue_b9b755e5:
 
@@ -7315,20 +7313,20 @@ translate schinese Rahim_Dialogue_482c616b:
 translate schinese strings:
 
     old "Being Naked is my Tribe's Tradition"
-    new "回答裸露是霍克埃塔自古以来的传统"
+    new "回答裸露是普罗自古以来的传统"
 
     old "Being Naked is not my Tribe's Tradition"
-    new "回答裸露不是霍克埃塔的传统"
+    new "回答裸露不是普罗的传统"
 
 translate schinese Rahim_Dialogue_345bed1e:
 
     # e "Yes, it is. I'm just so sorry I forgot to... put on something."
     e "对不起，我从小大大都跟着族人裸习惯了……"
 
-translate schinese Rahim_Dialogue_8848de28:
+translate schinese Rahim_Dialogue_bc00a127:
 
-    # r "...Look, I'll respect your tradition, whatever it is."
-    r "……没事，不管怎样，我尊重你的部落传统。"
+    # r "Look, I'll respect your tradition, whatever it is."
+    r "没事，不管怎样，我尊重你的部落传统。"
 
 translate schinese Rahim_Dialogue_8adbd44e:
 
@@ -7350,10 +7348,10 @@ translate schinese Rahim_Dialogue_1a400f0b:
     # e "Nothing."
     e "没、没。"
 
-translate schinese Rahim_Dialogue_6f8e67e9:
+translate schinese Rahim_Dialogue_e0f72de2:
 
-    # e "No... I just like to... let it out sometimes."
-    e "没有……我只是……个人喜欢这样裸着。"
+    # e "No, I just like to... let it out sometimes."
+    e "没有，我只是……个人喜欢这样裸着。"
 
 translate schinese Rahim_Dialogue_ef8678a0:
 
@@ -7385,10 +7383,10 @@ translate schinese Rahim_Dialogue_b9b755e5_1:
     # r "..."
     r "……"
 
-translate schinese Rahim_Dialogue_2902a041:
+translate schinese Rahim_Dialogue_8217d26a:
 
-    # r "You... naked.. again?"
-    r "你怎么……还裸着下身？"
+    # r "You are naked again?"
+    r "你怎么还裸着下身？"
 
 translate schinese Rahim_Dialogue_a084cd8a:
 
@@ -7405,17 +7403,17 @@ translate schinese Rahim_Dialogue_1e71ff53:
     # r "But I'll have to remind you again, don't get a boner while we talk. Understand?"
     r "但别忘了，不准勃起。明白吗？"
 
-translate schinese Rahim_Dialogue_26bb7a09:
+translate schinese Rahim_Dialogue_23f282f1:
 
-    # e "Uhh... alright."
-    e "呃……明白。"
+    # e "Uhh, alright."
+    e "呃，明白。"
 
-translate schinese Rahim_Dialogue_846228c8_1:
+translate schinese Rahim_Dialogue_403332f6:
 
-    # r "You... better cover yourself up."
-    r "你……要是识相就穿上打底的裤子。"
+    # r "You better cover yourself up."
+    r "你要是识相就穿上打底的裤子。"
 
-translate schinese Rahim_Dialogue_faa7d97b_1:
+translate schinese Rahim_Dialogue_faa7d97b:
 
     # e "Hmm..."
     e "可是……"
