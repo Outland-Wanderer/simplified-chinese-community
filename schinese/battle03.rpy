@@ -554,20 +554,20 @@ translate schinese strings:
     old "Skip{#mimiclose}"
     new "否"
 
-# translate schinese mimic_lose_a6dbbcdf:
+translate schinese mimic_lose_a6dbbcdf:
 
-#     # "You stand up... feeling something inside you had changed."
-#     ""
+    # "You stand up... feeling something inside you had changed."
+    "你站立起身……"
 
-# translate schinese mimic_lose_88c58a71:
+translate schinese mimic_lose_88c58a71:
 
-#     # "You can't point out what happened or what changed, but your body feels... weird after losing to the mimic."
-#     ""
+    # "You can't point out what happened or what changed, but your body feels... weird after losing to the mimic."
+    "被魔物打败后，你感觉身体变得有点怪怪的，但又说不清到底哪里怪。"
 
-# translate schinese mimic_lose_fde7f20e:
+translate schinese mimic_lose_fde7f20e:
 
-#     # "Like... it's not your own."
-#     ""
+    # "Like... it's not your own."
+    "就像……这副身躯不是你自己的了。"
 
 translate schinese mimic_lose_4ba96869:
 

@@ -190,451 +190,458 @@ translate schinese scene_lothargrope_d688a5fe:
     # l "Yeah... Yeah..."
     l "嗯，嗯……"
 
-# translate schinese scene_mimiclose_556c7193:
+translate schinese scene_mimiclose_556c7193:
 
-#     # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
-#     pass
+    # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
+    pass
 
-# translate schinese scene_mimiclose_eee32a65:
+translate schinese scene_mimiclose_eee32a65:
 
-#     # "You linger on the edge of the mimic chest for a while..."
-#     $ renpy.notify("该场景画面仍在重绘中")
-#     ""
+    # "You linger on the edge of the mimic chest for a while..."
+    $ renpy.notify("该场景画面仍在重绘中")
+    "这个诡异的造物似乎还不急着生吞你。它将你卷至开口，用触手细细品尝你的滋味。"
 
-# translate schinese scene_mimiclose_9bc0535b:
+translate schinese scene_mimiclose_9bc0535b:
 
-#     # "It seems to be craving for your flesh, you pray to the creator that you wouldn't be someone else's dinner today."
-#     ""
+    # "It seems to be craving for your flesh, you pray to the creator that you wouldn't be someone else's dinner today."
+    "你祈祷自己味道不好，不要成为它的晚餐。"
 
-# translate schinese scene_mimiclose_6b9bbdf5:
+translate schinese scene_mimiclose_6b9bbdf5:
 
-#     # "But the mimic doesn't react to your plea, and soon... you're inside its mouth."
-#     ""
+    # "But the mimic doesn't react to your plea, and soon... you're inside its mouth."
+    "但你的祈祷并没有灵验……宝箱怪很快合上了箱盖。"
 
-# translate schinese scene_mimiclose_8d03734b:
+translate schinese scene_mimiclose_8d03734b:
 
-#     # "You squeeze out the last drop of your energy to struggle against the tentacles wrapping around you, but to no avail."
-#     ""
+    # "You squeeze out the last drop of your energy to struggle against the tentacles wrapping around you, but to no avail."
+    "你晃动四肢尝试挣脱触手的束缚，可无论你怎么使劲也难以松动其分毫。"
 
-# translate schinese scene_mimiclose_a69994c1:
+translate schinese scene_mimiclose_a69994c1:
 
-#     # "There's no one here... you can only see the interior of the creature's wet mouth."
-#     ""
+    # "There's no one here... you can only see the interior of the creature's wet mouth."
+    pass
 
-# translate schinese scene_mimiclose_6b2200c6:
+translate schinese scene_mimiclose_6b2200c6:
 
-#     # "It's so damp inside of it, and you're constantly tickled by its tongue muscle and appendages."
-#     ""
+    # "It's so damp inside of it, and you're constantly tickled by its tongue muscle and appendages."
+    "更多触手缠了上来，不断舔过你的颈间腰窝，惹得你怪痒痒的。"
 
-# translate schinese scene_mimiclose_1662c715:
+translate schinese scene_mimiclose_1662c715:
 
-#     # "You see saliva drips from the top of its mouth to the bottom, and there's nothing you can do."
-#     ""
+    # "You see saliva drips from the top of its mouth to the bottom, and there's nothing you can do."
+    "头顶不断有唾液滴落，身旁就是能把你撕成碎片的尖牙，这下你真的无计可施了。"
 
-# translate schinese scene_mimiclose_3f9d2f1e:
+translate schinese scene_mimiclose_3f9d2f1e:
 
-#     # "After all, you're trapped inside the fake chest, and the only thing behind you are two rows of sharp teeth enough to pierce you to shreds."
-#     ""
+    # "After all, you're trapped inside the fake chest, and the only thing behind you are two rows of sharp teeth enough to pierce you to shreds."
+    pass
 
-# translate schinese scene_mimiclose_68a0a2f1:
+translate schinese scene_mimiclose_68a0a2f1:
 
-#     # "Still, you manage to occassionally show resistance to the creature, but it's holding you afloat, rendering your attempt futile."
-#     ""
+    # "Still, you manage to occassionally show resistance to the creature, but it's holding you afloat, rendering your attempt futile."
+    "你不愿放弃，依然时不时挣扎一下。但宝箱怪却将你举了起来，任你胡乱甩动手脚，白费力气。"
 
-# translate schinese scene_mimiclose_fc5cbf9b:
+translate schinese scene_mimiclose_fc5cbf9b:
 
-#     # e "No... p-please..."
-#     e ""
+    # e "No... p-please..."
+    e "求你了……放开我……"
 
-# translate schinese scene_mimiclose_e9437e54:
+translate schinese scene_mimiclose_e9437e54:
 
-#     # "You realise this would be the last thing you see, before it snaps its jaws right onto you. However..."
-#     ""
+    # "You realise this would be the last thing you see, before it snaps its jaws right onto you. However..."
+    "要是它用力一咬，这里便会成为你在这世间见过的最后的光景。"
 
-# translate schinese scene_mimiclose_71c804d6:
+translate schinese scene_mimiclose_71c804d6:
 
-#     # "The creature's tongue slithers across your loincloth, it seems to be busy exploring your bottom, rather than feasting onto your flesh."
-#     ""
+    # "The creature's tongue slithers across your loincloth, it seems to be busy exploring your bottom, rather than feasting onto your flesh."
+    "然而，触手们只是钻进了你的遮裆布里。与其饱腹一顿，它好像对你的下体更感兴趣。"
 
-# translate schinese scene_mimiclose_3ad8911d:
+translate schinese scene_mimiclose_3ad8911d:
 
-#     # "Its slimy surface cover you with cool and tickly mucus, quickly the mimic snatches away the last piece of clothing on you..."
-#     ""
+    # "Its slimy surface cover you with cool and tickly mucus, quickly the mimic snatches away the last piece of clothing on you..."
+    "舌状触手异常灵活，不一会便褪去了你身上最后一件衣物……只留下让人发痒的冰凉粘液。"
 
-# translate schinese scene_mimiclose_20c43a7b:
+translate schinese scene_mimiclose_20c43a7b:
 
-#     # "Tossing away the cloth easily, now your bare ass is revealed to everyone in the room, which is only the mimic, whose mouth you are trapped inside."
-#     ""
+    # "Tossing away the cloth easily, now your bare ass is revealed to everyone in the room, which is only the mimic, whose mouth you are trapped inside."
+    "箱门开了又关，你的装备都被扔了出去。宝箱怪为得就是纯享这具鲜活的肉体。"
 
-# translate schinese scene_mimiclose_e2bebbc1:
+translate schinese scene_mimiclose_e2bebbc1:
 
-#     # "You squirm at the feeling of your bottom being exposed to the warm breath of the monster."
-#     ""
+    # "You squirm at the feeling of your bottom being exposed to the warm breath of the monster."
+    "不知从哪呼出的热气掠过臀部，令你不安地扭动，而捆住你四肢的触手轻而易举就能把你固定住。"
 
-# translate schinese scene_mimiclose_0042ad41:
+translate schinese scene_mimiclose_0042ad41:
 
-#     # "So much of you want to fight back against the mimic, but its appendages are holding onto your limbs easily, while its tongue explores your ass."
-#     ""
+    # "So much of you want to fight back against the mimic, but its appendages are holding onto your limbs easily, while its tongue explores your ass."
+    "其他触手则簇拥而上围绕肛周打转，不放过任何一个角落。"
 
-# translate schinese scene_mimiclose_72f28a0d:
+translate schinese scene_mimiclose_72f28a0d:
 
-#     # "The creature is smearing its mucus around your asshole, which is already more than moist by now."
-#     ""
+    # "The creature is smearing its mucus around your asshole, which is already more than moist by now."
+    pass
 
-# translate schinese scene_mimiclose_d9d18cb4:
+translate schinese scene_mimiclose_d9d18cb4:
 
-#     # "The more of the mucus touching your skin, the more you feel the hotness inside your body, ready to burst out of you sooner than later."
-#     ""
+    # "The more of the mucus touching your skin, the more you feel the hotness inside your body, ready to burst out of you sooner than later."
+    "越来越多唾液经由你最娇嫩的私处渗入，你感觉身体逐渐燥热起来，愈发难忍。"
 
-# translate schinese scene_mimiclose_bc727f15:
+translate schinese scene_mimiclose_bc727f15:
 
-#     # e "F-fuck... I c-can't think... properly..."
-#     e ""
+    # e "F-fuck... I c-can't think... properly..."
+    e "哈啊……不行……我要保持清醒……"
 
-# translate schinese scene_mimiclose_f67918ba:
+translate schinese scene_mimiclose_f67918ba:
 
-#     # "Whatever it is, you only know that you are losing control of your own body, you feel yourself begin to twitch and twerk to the rhythm of the tongue."
-#     ""
+    # "Whatever it is, you only know that you are losing control of your own body, you feel yourself begin to twitch and twerk to the rhythm of the tongue."
+    "你不知道宝箱怪的唾液中有什么鬼成分，你只知道自己正失去对身体的控制。"
+    "你拱起屁股，不由自主地迎合舔食后穴的触手，与它们的节奏越来越合拍。"
 
-# translate schinese scene_mimiclose_d7edaa5f:
+translate schinese scene_mimiclose_d7edaa5f:
 
-#     # "As much as you wish to deny, your body... now belongs to the mimic."
-#     ""
+    # "As much as you wish to deny, your body... now belongs to the mimic."
+    "即使你再不情愿，也不得不承认……现在你从头到脚都属于这个怪物。"
 
-# translate schinese scene_mimiclose_b06f66f8:
+translate schinese scene_mimiclose_b06f66f8:
 
-#     # "You have no control inside its mouth to start with, but now, the chemical inside the mucus is overtaking your brain."
-#     ""
+    # "You have no control inside its mouth to start with, but now, the chemical inside the mucus is overtaking your brain."
+    "羊入虎口，自一开始你就没有控制权，如今你连自主思考的神智都要失去了。"
 
-# translate schinese scene_mimiclose_fa5342ef:
+translate schinese scene_mimiclose_fa5342ef:
 
-#     # e "I- uh... no- o-o-obey..."
-#     e ""
+    # e "I- uh... no- o-o-obey..."
+    e "是——我愿意……"
 
-# translate schinese scene_mimiclose_e3735f8c:
+translate schinese scene_mimiclose_e3735f8c:
 
-#     # "There's nothing more important in the world right now. You want to please the creature. It seems to have successfully taken over your mind as well..."
-#     ""
+    # "There's nothing more important in the world right now. You want to please the creature. It seems to have successfully taken over your mind as well..."
+    "你开始发自内心地想要取悦它。"
 
-# translate schinese scene_mimiclose_13e6eb5e:
+translate schinese scene_mimiclose_13e6eb5e:
 
-#     # e ".no..I-I..."
-#     e ""
+    # e ".no..I-I..."
+    e "后面好空……"
 
-# translate schinese scene_mimiclose_480d71c0:
+translate schinese scene_mimiclose_480d71c0:
 
-#     # e "My... hole..."
-#     e ""
+    # e "My... hole..."
+    pass
 
-# translate schinese scene_mimiclose_cbea5c45:
+translate schinese scene_mimiclose_cbea5c45:
 
-#     # e "M-y hole... n-needs fill..."
-#     e ""
+    # e "M-y hole... n-needs fill..."
+    e "快填满我……填满我……"
 
-# translate schinese scene_mimiclose_c3a515f8:
+translate schinese scene_mimiclose_c3a515f8:
 
-#     # "Even inside the creature's mouth, you can feel the only thing you have going... is the tip of its tongue dangerously close to your wet entrance."
-#     ""
+    # "Even inside the creature's mouth, you can feel the only thing you have going... is the tip of its tongue dangerously close to your wet entrance."
+    "触手尖端试图钻入孔洞的痛楚使你暂时回过神来，想起自己的处境有多危险——"
 
-# translate schinese scene_mimiclose_ec00faee:
+translate schinese scene_mimiclose_ec00faee:
 
-#     # "Your consciousness lingers only for a while before it snaps. And now you belong to the monster."
-#     ""
+    # "Your consciousness lingers only for a while before it snaps. And now you belong to the monster."
+    "但也仅限那么一会。"
 
-# translate schinese scene_mimiclose_d1b98fe3:
+translate schinese scene_mimiclose_d1b98fe3:
 
-#     # "The mimic struck its tongue right throught your tunnel, all the lubing and mucus makes it much more easier to penetrate inside of you."
-#     ""
+    # "The mimic struck its tongue right throught your tunnel, all the lubing and mucus makes it much more easier to penetrate inside of you."
+    "有过先前的唾液作润滑，比你手臂还粗的触手便毫不费力成功贯入了后穴之中。"
 
-# translate schinese scene_mimiclose_0b764ddc:
+translate schinese scene_mimiclose_0b764ddc:
 
-#     # e "AhhhHHHHH- F-fuck..."
-#     e ""
+    # e "AhhhHHHHH- F-fuck..."
+    e "啊啊啊，好大……"
 
-# translate schinese scene_mimiclose_cb5f847e:
+translate schinese scene_mimiclose_cb5f847e:
 
-#     # "You've never felt such feeling before, as much as you've had sex. You've never felt so fulfilled, like your destiny is to be filled by the mimic."
-#     ""
+    # "You've never felt such feeling before, as much as you've had sex. You've never felt so fulfilled, like your destiny is to be filled by the mimic."
+    "在你所有的性体验中，你从未感到如此充实圆满，好似你生来就注定要与它相嵌合。"
 
-# translate schinese scene_mimiclose_8483abe9:
+translate schinese scene_mimiclose_8483abe9:
 
-#     # "Obviously your mind is corrupted by the mimic now, you know that. But... deep down inside you... You still want to get thrusted like you are now."
-#     ""
+    # "Obviously your mind is corrupted by the mimic now, you know that. But... deep down inside you... You still want to get thrusted like you are now."
+    "显然你的感官、神智都已经被宝箱怪完全侵蚀了，你明白。"
+    "但你更明白……自己不能没有被那根粗长灵活的触手侵犯。"
 
-# translate schinese scene_mimiclose_67465d9b:
+translate schinese scene_mimiclose_67465d9b:
 
-#     # "The monster only mindlessly pounding its tongue into you in and out, in total disregard of your wellbeing and safety."
-#     ""
+    # "The monster only mindlessly pounding its tongue into you in and out, in total disregard of your wellbeing and safety."
+    "它只顾着机械地插入拔出，丝毫不顾忌有没有弄疼或弄伤你。"
 
-# translate schinese scene_mimiclose_578fedcb:
+translate schinese scene_mimiclose_578fedcb:
 
-#     # "Soon, another appendage joins in, cramming itself inside of your gaping mouth."
-#     ""
+    # "Soon, another appendage joins in, cramming itself inside of your gaping mouth."
+    "随后另一根触手也伸了过来，先摸到喉结，再对准你因叫喊而张得正大的嘴巴塞了进去。"
 
-# translate schinese scene_mimiclose_d839eb03:
+translate schinese scene_mimiclose_d839eb03:
 
-#     # e "H-hmmmmMMM!!!!!"
-#     e ""
+    # e "H-hmmmmMMM!!!!!"
+    e "唔唔！！！"
 
-# translate schinese scene_mimiclose_730ddf62:
+translate schinese scene_mimiclose_730ddf62:
 
-#     # "It explores around your tight throat, searching pass your tongue, and then your uvula, before reaching your throat."
-#     ""
+    # "It explores around your tight throat, searching pass your tongue, and then your uvula, before reaching your throat."
+    "肉做的藤条压过大舌小舌直捅咽喉，令你难以呼吸。"
 
-# translate schinese scene_mimiclose_c116880e:
+translate schinese scene_mimiclose_c116880e:
 
-#     # "Your breath is completely clogged by the tentacle inside of your throat, along with the tongue inside your ass."
-#     ""
+    # "Your breath is completely clogged by the tentacle inside of your throat, along with the tongue inside your ass."
+    "从一旁看，你如同被触手贯穿了身子一般。"
 
-# translate schinese scene_mimiclose_69ecba3e:
+translate schinese scene_mimiclose_69ecba3e:
 
-#     # "The two appendages continuesly ramming and slamming itself, you have long been letting go of your muscles."
-#     ""
+    # "The two appendages continuesly ramming and slamming itself, you have long been letting go of your muscles."
+    "它们前后夹击不停冲撞挤压你的腔肠，像里面有什么宝贝要搜刮干净似的。"
 
-# translate schinese scene_mimiclose_66da38f3:
+translate schinese scene_mimiclose_66da38f3:
 
-#     # "Allowing the mindless monster to ransack your holes like a mansion broken in violently."
-#     ""
+    # "Allowing the mindless monster to ransack your holes like a mansion broken in violently."
+    "而你也放松了肌肉，任由它们洗劫身体。越来越深入，深入到你根本就想象不到的地方。"
 
-# translate schinese scene_mimiclose_636fe7c9:
+translate schinese scene_mimiclose_636fe7c9:
 
-#     # "Every now and then, the creature's teeth grazes against your skin, reminding you of the danger you're in."
-#     ""
+    # "Every now and then, the creature's teeth grazes against your skin, reminding you of the danger you're in."
+    pass
 
-# translate schinese scene_mimiclose_28da2b90:
+translate schinese scene_mimiclose_28da2b90:
 
-#     # "But every time it thrusts inside of your ass, the tentacle only goes deeper and deeper, reaching places you've never thought would reach."
-#     ""
+    # "But every time it thrusts inside of your ass, the tentacle only goes deeper and deeper, reaching places you've never thought would reach."
+    "尖牙时不时擦过你的皮毛，警醒你认命的下场，可你却并不在意。"
 
-# translate schinese scene_mimiclose_56b6bb9a:
+translate schinese scene_mimiclose_56b6bb9a:
 
-#     # "You do not care anymore, what is the meaning of safety if it implies you are not getting filled properly."
-#     ""
+    # "You do not care anymore, what is the meaning of safety if it implies you are not getting filled properly."
+    "为求宝箱怪恩泽，你宁愿舍弃平安——甚至生命。"
 
-# translate schinese scene_mimiclose_eef145cf:
+translate schinese scene_mimiclose_eef145cf:
 
-#     # "You have completely fallen in the control of the mimic."
-#     ""
+    # "You have completely fallen in the control of the mimic."
+    "只要能被它填满，你什么都愿意做。"
 
-# translate schinese scene_mimiclose_12696432:
+translate schinese scene_mimiclose_12696432:
 
-#     # "So you begin to jerk your hip upwards, everytime it sinks deeper. The meaty tentacles continuously hitting your prostate harder and harder."
-#     ""
+    # "So you begin to jerk your hip upwards, everytime it sinks deeper. The meaty tentacles continuously hitting your prostate harder and harder."
+    "于是你将屁股撅得更高了，向碾过你前列腺的触手表示热烈欢迎。"
 
-# translate schinese scene_mimiclose_585e6f10:
+translate schinese scene_mimiclose_585e6f10:
 
-#     # "The creature seems to be enjoying the moment... weakening you, stripping you into nothing but an empty husk only carrying pure lust and desire to satisfy your chest overlord."
-#     ""
+    # "The creature seems to be enjoying the moment... weakening you, stripping you into nothing but an empty husk only carrying pure lust and desire to satisfy your chest overlord."
+    "宝箱怪似乎也十分享受这个过程……将一个不屈不挠的冒险家硬生生干成一具任它摆布的欲望空壳。"
 
-# translate schinese scene_mimiclose_b304b1ef:
+translate schinese scene_mimiclose_b304b1ef:
 
-#     # "It almost enjoys too much, you can feel the mimic's breath gets heavier as you reside right inside its mouth, your ass getting pounded relentlessly."
-#     ""
+    # "It almost enjoys too much, you can feel the mimic's breath gets heavier as you reside right inside its mouth, your ass getting pounded relentlessly."
+    "你能感受到它呼出的热气越来越重，侵入你后穴的力道也越来越猛。"
 
-# translate schinese scene_mimiclose_1d39380d:
+translate schinese scene_mimiclose_1d39380d:
 
-#     # e "....mmmmmmmHmmmmm..."
-#     e ""
+    # e "....mmmmmmmHmmmmm..."
+    e "嗯唔……唔……"
 
-# translate schinese scene_mimiclose_90cc72f0:
+translate schinese scene_mimiclose_90cc72f0:
 
-#     # "Your voice has been completely muffled by the meat deep inside of you, only letting out light noise resembling sensual moans occas."
-#     ""
+    # "Your voice has been completely muffled by the meat deep inside of you, only letting out light noise resembling sensual moans occas."
+    "你的新主子这么乐在其中，你打心底为它高兴。可你被触手堵住了喉咙，只能偶尔发出兴奋的呜咽声。"
 
-# translate schinese scene_mimiclose_26ff5c69:
+translate schinese scene_mimiclose_26ff5c69:
 
-#     # "What do you care now, as if your only purpose in your life is not to be filled by the monster, become its nutrients, for maybe a day or two."
-#     ""
+    # "What do you care now, as if your only purpose in your life is not to be filled by the monster, become its nutrients, for maybe a day or two."
+    "它待你粗暴又如何，你想要成为它的食物、它的养料，哪怕只能让它饱腹一两天也好。"
 
-# translate schinese scene_mimiclose_86b2511b:
+translate schinese scene_mimiclose_86b2511b:
 
-#     # "You've lost all your will to struggle. Only a glimpse of hope that you might be able to see your friends again, amidst the continuous thrusting and slamming."
-#     ""
+    # "You've lost all your will to struggle. Only a glimpse of hope that you might be able to see your friends again, amidst the continuous thrusting and slamming."
+    "反复的抽插下，反抗的概念不复存在。唯有再见朋友最后一面的愿望闪过脑海，便也消失不见。"
 
-# translate schinese scene_mimiclose_9b333a95:
+translate schinese scene_mimiclose_9b333a95:
 
-#     # "Your muscles have completely loosen, letting go of your hope, there's nothing you can do now. Only being a mere fuck meat for some monster in a cave."
-#     ""
+    # "Your muscles have completely loosen, letting go of your hope, there's nothing you can do now. Only being a mere fuck meat for some monster in a cave."
+    "肉欲终于驱使你完全放松下来，不再有其他念头，清楚自己如今不过是一个洞穴魔物的性玩具。"
 
-# translate schinese scene_mimiclose_e1f371fc:
+translate schinese scene_mimiclose_e1f371fc:
 
-#     # "The tentacles keeps holding onto you tightly, the tentacles removes from your holes just to let you breath for half a second, before slamming it back where it belongs."
-#     ""
+    # "The tentacles keeps holding onto you tightly, the tentacles removes from your holes just to let you breath for half a second, before slamming it back where it belongs."
+    "稳固你身体的触手捆得更紧了，以适应首尾两头愈加猛烈的攻势。"
+    "喉咙那头暂时从你嘴里抽出来，只为让你透口气不至于窒息而死，而后又马上捅了回去。"
 
-# translate schinese scene_mimiclose_7fbcef3e:
+translate schinese scene_mimiclose_7fbcef3e:
 
-#     # "Your gag reflex has long since lost its function, as the foreign object inside your mouth gets deeper and deeper pass your throat, getting as far as it can."
-#     ""
+    # "Your gag reflex has long since lost its function, as the foreign object inside your mouth gets deeper and deeper pass your throat, getting as far as it can."
+    "在触手如此频繁的进出下，呕吐感早已麻木消退。而且它每每捅入食道，就算你想呕也呕不出。"
 
-# translate schinese scene_mimiclose_52473f32:
+translate schinese scene_mimiclose_52473f32:
 
-#     # "To face the reality, you really have no say in where it will go, or whether it could mean the end of your life. You can only go along with the monster."
-#     ""
+    # "To face the reality, you really have no say in where it will go, or whether it could mean the end of your life. You can only go along with the monster."
+    "宝箱怪想肏你哪里都可以，反正你到死也会相迎。"
 
-# translate schinese scene_mimiclose_8cd3c9a6:
+translate schinese scene_mimiclose_8cd3c9a6:
 
-#     # "Occasionally you thrust yourself right into the featureless meat, just to get your hole stretched a little more."
-#     ""
+    # "Occasionally you thrust yourself right into the featureless meat, just to get your hole stretched a little more."
+    "你还主动往那如舌似屌的肉鞭坐去，巴不得后穴再撑大一些，让触手再捅深一些。"
 
-# translate schinese scene_mimiclose_c01728b5:
+translate schinese scene_mimiclose_c01728b5:
 
-#     # "Soon, you can sense the impending doom right around the corner as the appendages bulges around your entrance."
-#     ""
+    # "Soon, you can sense the impending doom right around the corner as the appendages bulges around your entrance."
+    "很快，两头触手都鼓胀隆起，你的赏赐和终焉就要来了。"
 
-# translate schinese scene_mimiclose_85d5dec7:
+translate schinese scene_mimiclose_85d5dec7:
 
-#     # "SPPPPPPPLASSHHHH"
-#     ""
+    # "SPPPPPPPLASSHHHH"
+    pass
 
-# translate schinese scene_mimiclose_424ecaca:
+translate schinese scene_mimiclose_424ecaca:
 
-#     # "Cum begins to burst right out of the tip of the appendages inside of your body."
-#     ""
+    # "Cum begins to burst right out of the tip of the appendages inside of your body."
+    "哗——浊液从尖端爆出，直接灌入你体内。"
 
-# translate schinese scene_mimiclose_e3aa0f47:
+translate schinese scene_mimiclose_e3aa0f47:
 
-#     # "Both your ends have been violated as more of it coats the wall of your tight tunnels."
-#     ""
+    # "Both your ends have been violated as more of it coats the wall of your tight tunnels."
+    "你两头受难，腥臭味从喉咙蔓延上来，想必是精液不差。"
 
-# translate schinese scene_mimiclose_f50a8210:
+translate schinese scene_mimiclose_f50a8210:
 
-#     # "You don't know where the liquid comes from, but within a few seconds your holes have already been filled to the brim with its white liquid."
-#     ""
+    # "You don't know where the liquid comes from, but within a few seconds your holes have already been filled to the brim with its white liquid."
+    "宝箱怪从哪来的精液你一概不知，也无暇顾及。不过几秒钟，你感觉自己的肠胃已经被注满了。"
 
-# translate schinese scene_mimiclose_ec56f60d:
+translate schinese scene_mimiclose_ec56f60d:
 
-#     # "But it doesn't care."
-#     ""
+    # "But it doesn't care."
+    "而它还在继续。"
 
-# translate schinese scene_mimiclose_a84257d0:
+translate schinese scene_mimiclose_a84257d0:
 
-#     # "Another wave comes hit you in the face as cum leaks right out of your holes, both your sore ass and throats have been blessed with the liquid from the monster."
-#     ""
+    # "Another wave comes hit you in the face as cum leaks right out of your holes, both your sore ass and throats have been blessed with the liquid from the monster."
+    "再一轮高潮接至，巨量的精液从你身体两端溢出，润泽你酸痛的喉舌与后庭。"
 
-# translate schinese scene_mimiclose_ccfe44d3:
+translate schinese scene_mimiclose_ccfe44d3:
 
-#     # "And another wave comes, you have to gulp down some of it to avoid drowning in this creature's cum, inside its mouth."
-#     ""
+    # "And another wave comes, you have to gulp down some of it to avoid drowning in this creature's cum, inside its mouth."
+    "另一轮高潮来袭，你忍着腹胀连忙吞下以防被呛着。再这样下去，你怕是要在这个魔物口中溺亡。"
 
-# translate schinese scene_mimiclose_4d2f8347:
+translate schinese scene_mimiclose_4d2f8347:
 
-#     # "You feel it should stop any moments, but the reality disappoints you as you always receive another shot, and the creature refuses to pull out of you."
-#     ""
+    # "You feel it should stop any moments, but the reality disappoints you as you always receive another shot, and the creature refuses to pull out of you."
+    "你本以为高潮总会迎来尾声，但两头触手不停释放新的种汁，它也没有要放你走的迹象。"
 
-# translate schinese scene_mimiclose_247d4dc7:
+translate schinese scene_mimiclose_247d4dc7:
 
-#     # "Filling your hole like a water hose inside a balloon, you can see your belly inflates, in fact your whole body inflates with the cum."
-#     ""
+    # "Filling your hole like a water hose inside a balloon, you can see your belly inflates, in fact your whole body inflates with the cum."
+    "你的腹部逐渐如灌了水的水囊般胀大，只不过这里面装的都是精水，多到若是首尾两股在肠中汇合你都不会惊讶。"
 
-# translate schinese scene_mimiclose_db99561c:
+translate schinese scene_mimiclose_db99561c:
 
-#     # "You would not be surprised if the cum from both ends eventually meets, with the rate it is filling, you fear you might explode."
-#     ""
+    # "You would not be surprised if the cum from both ends eventually meets, with the rate it is filling, you fear you might explode."
+    "不止是肚子，你感觉自己双肺、脑袋、身上任何有空隙的地方都被灌注得满满当当。"
+    "照此下去，你怕自己会从中间炸开成两半。"
 
-# translate schinese scene_mimiclose_77c2405f:
+translate schinese scene_mimiclose_77c2405f:
 
-#     # "The mimic never stops, it only continues going... continues slamming its cum-coated appendages inside of your cum-filled hole."
-#     ""
+    # "The mimic never stops, it only continues going... continues slamming its cum-coated appendages inside of your cum-filled hole."
+    "可魔物根本不会在意这些……它只顾操纵精液包覆的触手继续肏弄你汁水满贯的淫洞。"
 
-# translate schinese scene_mimiclose_1bd7a92b:
+translate schinese scene_mimiclose_1bd7a92b:
 
-#     # "Every thrusting now comes with the disgusting gushing sound, as the tentacles only sinks itself into a tube of cum that was formerly considered your body."
-#     ""
+    # "Every thrusting now comes with the disgusting gushing sound, as the tentacles only sinks itself into a tube of cum that was formerly considered your body."
+    "它们每次往复都会伴随着令人作呕的咕噜声，那是将空气和液体一同泵入管子后又一同排出的声音。"
+    "而这根皮管子不久之前还是你的身体。"
 
-# translate schinese scene_mimiclose_2f31113b:
+translate schinese scene_mimiclose_2f31113b:
 
-#     # "The mindless fuck machine would never stop from here, in fact, it is getting much more momentum as the thrusting becomes much more rapidly."
-#     ""
+    # "The mindless fuck machine would never stop from here, in fact, it is getting much more momentum as the thrusting becomes much more rapidly."
+    "不通灵性的繁殖机器永无休止，触手们不仅没有力竭，反而变得更加有力、更加迅猛。"
 
-# translate schinese scene_mimiclose_52a1ad1a:
+translate schinese scene_mimiclose_52a1ad1a:
 
-#     # "You feel at bliss, like in a lust heaven right now, as your body is being used like a proper sex toy ready to be served."
-#     ""
+    # "You feel at bliss, like in a lust heaven right now, as your body is being used like a proper sex toy ready to be served."
+    "你感觉自己仿佛置身淫乐天堂，发挥了作为性奴应有的用处，恩宠无限。"
 
-# translate schinese scene_mimiclose_2c26624d:
+translate schinese scene_mimiclose_2c26624d:
 
-#     # "Soon, a new wave of ejaculation continues, as your holes receive another loads of cum."
-#     ""
+    # "Soon, a new wave of ejaculation continues, as your holes receive another loads of cum."
+    "没过多久两条触手又爆出浓精，为你腹中增添新种。"
 
-# translate schinese scene_mimiclose_580fd82b:
+translate schinese scene_mimiclose_580fd82b:
 
-#     # "But, much to your surprise... It never stops."
-#     ""
+    # "But, much to your surprise... It never stops."
+    "更令你惊喜的是……它真的不会停下。"
 
-# translate schinese scene_mimiclose_60aae393:
+translate schinese scene_mimiclose_60aae393:
 
-#     # "The mimic never stops."
-#     ""
+    # "The mimic never stops."
+    "是啊，怪物哪能用常人的眼光去衡量。"
 
-# translate schinese scene_mimiclose_4bb6d9d1:
+translate schinese scene_mimiclose_4bb6d9d1:
 
-#     # "It only keeps going and going, right after shooting another load inside you. You've already lost all senses as the senses are overloaded every second."
-#     ""
+    # "It only keeps going and going, right after shooting another load inside you. You've already lost all senses as the senses are overloaded every second."
+    "它一而再再而三地抽插、播种，令你再也无法承受这超出生理极限的刺激，再也感受不到自己的躯壳了。"
 
-# translate schinese scene_mimiclose_0a0dbf2b:
+translate schinese scene_mimiclose_0a0dbf2b:
 
-#     # "Time goes on and on, you've lost track of how long you've been inside the monster's mouth."
-#     ""
+    # "Time goes on and on, you've lost track of how long you've been inside the monster's mouth."
+    "时间从此失去意义，你也无所谓在这魔物口中待了多久。"
 
-# translate schinese scene_mimiclose_665720b0:
+translate schinese scene_mimiclose_665720b0:
 
-#     # "You only notice that your body is now completely covered by cum, not one inch of your skin is exposed anymore."
-#     ""
+    # "You only notice that your body is now completely covered by cum, not one inch of your skin is exposed anymore."
+    "你倒还知晓自己浑身上下没有一处不被精液附着，连血管里流着的都好似不再是鲜血而是他者的种汁。"
 
-# translate schinese scene_mimiclose_56810b8c:
+translate schinese scene_mimiclose_56810b8c:
 
-#     # "You can barely recognise yourself, the monster doesn't give you any breaks, after all, you've accepted your role as a mindless fuck meat, and a mindless fuck meat only."
-#     ""
+    # "You can barely recognise yourself, the monster doesn't give you any breaks, after all, you've accepted your role as a mindless fuck meat, and a mindless fuck meat only."
+    "宝箱怪没有给过你任何喘息的机会，也没有必要给。"
+    "因为你如今找到了自己存在的唯一意义，那就是放弃自我，成为供它享乐的纯粹器具。"
 
-# translate schinese scene_mimiclose_45be15f9:
+translate schinese scene_mimiclose_45be15f9:
 
-#     # "Mucus, cum, saliva, and all kinds of liquid pours in and out."
-#     ""
+    # "Mucus, cum, saliva, and all kinds of liquid pours in and out."
+    "精液、肠液、唾液，不管什么液都从你体内喷涌而出，转眼触手又会向你注入新的体液。"
 
-# translate schinese scene_mimiclose_fb35af11:
+translate schinese scene_mimiclose_fb35af11:
 
-#     # "The mimic's mouth has already been flooded with its own liquid, and with its trapped prey right inside."
-#     ""
+    # "The mimic's mouth has already been flooded with its own liquid, and with its trapped prey right inside."
+    "假宝箱里头汁泛液冒，浸泡着它守株待兔抓来的小猎物。"
 
-# translate schinese scene_mimiclose_cfe5d62d:
+translate schinese scene_mimiclose_cfe5d62d:
 
-#     # "You don't know when, but at one moment during all the thrusting inside of you, your consciousness slips away completely."
-#     ""
+    # "You don't know when, but at one moment during all the thrusting inside of you, your consciousness slips away completely."
+    "触手蹂躏不曾停歇，不知从哪次循环开始，你彻底失去了意识。"
 
-# translate schinese scene_mimiclose_b3785f8c:
+translate schinese scene_mimiclose_b3785f8c:
 
-#     # "Everything goes black."
-#     ""
+    # "Everything goes black."
+    "万物俱黯……"
 
-# translate schinese scene_mimiclose_2d001b98:
+translate schinese scene_mimiclose_2d001b98:
 
-#     # "The next time you know, you wake up at the warm grass ouside."
-#     ""
+    # "The next time you know, you wake up at the warm grass ouside."
+    "当你醒来时，你发现自己躺在外头一片温暖的草地上。"
 
-# translate schinese scene_mimiclose_18548c87:
+translate schinese scene_mimiclose_18548c87:
 
-#     # "Your stuff magically lies there, with everything intact, including your body. You are still coated with a layer of liquid however."
-#     ""
+    # "Your stuff magically lies there, with everything intact, including your body. You are still coated with a layer of liquid however."
+    "你所有的装备都神奇地散落在你身边，一样不差、完好无损。"
+    "而自己也没有缺胳膊少腿，除了从头到脚都还覆盖着一层粘液。"
 
-# translate schinese scene_mimiclose_8504c1dd:
+translate schinese scene_mimiclose_8504c1dd:
 
-#     # "The effect of the mucus has wore off, you are now as sober as ever. Only with a couple memories missing due to the constant throat fucking."
-#     ""
+    # "The effect of the mucus has wore off, you are now as sober as ever. Only with a couple memories missing due to the constant throat fucking."
+    "催眠的成分已经消散，你现在清醒得很。只不过被触手搅了这么久喉咙，有些事情记不大清了。"
 
-# translate schinese scene_mimiclose_87743a8a:
+translate schinese scene_mimiclose_87743a8a:
 
-#     # "At least the mimic didn't choose to eat you, or that it did and this is what after life is supposed to look like."
-#     ""
+    # "At least the mimic didn't choose to eat you, or that it did and this is what after life is supposed to look like."
+    "或许宝箱怪没有选择吃掉你，又或许这就是来生的世界。"
 
-# translate schinese scene_mimiclose_0eb4d999:
+translate schinese scene_mimiclose_0eb4d999:
 
-#     # "But, there's no answer."
-#     ""
+    # "But, there's no answer."
+    "究竟哪个是真相你不得而知，你只得继续过活。"
 
-# translate schinese scene_mimiclose_a388bafc:
+translate schinese scene_mimiclose_a388bafc:
 
-#     # "You can do nothing but to continue with your life, whether to take revenge on the monster or move pass this history. You decide you should take some rest first."
-#     ""
+    # "You can do nothing but to continue with your life, whether to take revenge on the monster or move pass this history. You decide you should take some rest first."
+    "无论是报仇雪恨还是既往不咎，你都决定先休息一会再说……"
 
 # translate schinese scene_minowin_108cb4dd:
 
