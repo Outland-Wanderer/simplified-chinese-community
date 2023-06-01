@@ -475,57 +475,57 @@
 			"bookmarks": [
 				{
 					"line": 0,
-					"column": 24,
+					"column": 0,
 					"label": "Kari_Dialogue"
 				},
 				{
 					"line": 131,
-					"column": 22,
+					"column": 0,
 					"label": "Kari_Normal_Talk"
 				},
 				{
 					"line": 158,
-					"column": 28,
+					"column": 0,
 					"label": "Kari_Ask_Goat_Tribe"
 				},
 				{
 					"line": 225,
-					"column": 28,
+					"column": 0,
 					"label": "Kari_Ask_Warrior_Practice"
 				},
 				{
 					"line": 375,
-					"column": 23,
+					"column": 0,
 					"label": "Kari_Warrior_Practice_Start"
 				},
 				{
 					"line": 425,
-					"column": 19,
+					"column": 0,
 					"label": "Kari_Goat_Practice_Lose"
 				},
 				{
 					"line": 500,
-					"column": 35,
+					"column": 0,
 					"label": "Kari_Goat_Practice_Win"
 				},
 				{
 					"line": 1335,
-					"column": 29,
+					"column": 0,
 					"label": "Kari_Ask_General"
 				},
 				{
 					"line": 1390,
-					"column": 29,
+					"column": 0,
 					"label": "Kari_Ask_How_Doing"
 				},
 				{
 					"line": 1456,
-					"column": 24,
+					"column": 0,
 					"label": "Kari_Dialogue_End"
 				},
 				{
 					"line": 1466,
-					"column": 30,
+					"column": 0,
 					"label": "Kechioeren_Enter"
 				},
 				{
@@ -881,7 +881,7 @@
 				{
 					"line": 5024,
 					"column": 0,
-					"label": ""
+					"label": "Ole_Ask_Goat_Tribe"
 				},
 				{
 					"line": 5089,
@@ -946,7 +946,7 @@
 				{
 					"line": 7287,
 					"column": 0,
-					"label": ""
+					"label": "Rahim_Dialogue"
 				},
 				{
 					"line": 7460,
@@ -1004,7 +1004,27 @@
 					"label": "Rahim_Apron_Fixed"
 				},
 				{
-					"line": 12508,
+					"line": 12123,
+					"column": 0,
+					"label": "Rahim_Outfit_Quest"
+				},
+				{
+					"line": 12255,
+					"column": 0,
+					"label": "Rahim_Outfit_02"
+				},
+				{
+					"line": 12305,
+					"column": 0,
+					"label": "Rahim_Outfit_03"
+				},
+				{
+					"line": 12420,
+					"column": 0,
+					"label": "Rahim_Outfit_End"
+				},
+				{
+					"line": 12521,
 					"column": 0,
 					"label": "Rahim_Dialogue_End"
 				}
@@ -1392,6 +1412,201 @@
 					"line": 11982,
 					"column": 0,
 					"label": "Patron3_Dialogue"
+				}
+			]
+		},
+		{
+			"path": "schinese/main_lusterfield03.rpy",
+			"bookmarks": [
+				{
+					"line": 0,
+					"column": 0,
+					"label": "Jog_Dialogue"
+				},
+				{
+					"line": 60,
+					"column": 0,
+					"label": "Jog_Normal_Talk"
+				},
+				{
+					"line": 91,
+					"column": 0,
+					"label": "Jog_Lothar_Training"
+				},
+				{
+					"line": 1066,
+					"column": 0,
+					"label": "Arthur_Bandit_Meet_Quest"
+				},
+				{
+					"line": 1226,
+					"column": 0,
+					"label": "Bandit_Meet_Quest"
+				},
+				{
+					"line": 1876,
+					"column": 0,
+					"label": "Bandit_Recruit_Shark"
+				},
+				{
+					"line": 2166,
+					"column": 0,
+					"label": "Bandit_Recruit_Fail"
+				},
+				{
+					"line": 2191,
+					"column": 0,
+					"label": "Jog_Bandit_Meet_Quest"
+				},
+				{
+					"line": 2446,
+					"column": 0,
+					"label": "Jog_Return_Bandit_Meet_Quest"
+				},
+				{
+					"line": 2761,
+					"column": 0,
+					"label": "Jog_Bandit_Ask_End"
+				},
+				{
+					"line": 3061,
+					"column": 0,
+					"label": "Jog_Bandit_Accuse_End"
+				},
+				{
+					"line": 3276,
+					"column": 0,
+					"label": "Jog_Return_Bandit_End"
+				},
+				{
+					"line": 3356,
+					"column": 0,
+					"label": "Jog_Teach_Critical_Skill"
+				},
+				{
+					"line": 3431,
+					"column": 0,
+					"label": "Jog_Wuldon_Quest"
+				},
+				{
+					"line": 3651,
+					"column": 0,
+					"label": "Jog_Ole_Training_Scene"
+				},
+				{
+					"line": 3981,
+					"column": 0,
+					"label": "Jog_Ask_How_Doing"
+				},
+				{
+					"line": 4031,
+					"column": 0,
+					"label": "Jog_Ask_Amble"
+				},
+				{
+					"line": 4076,
+					"column": 0,
+					"label": "Jog_Ask_Lothar"
+				},
+				{
+					"line": 4126,
+					"column": 0,
+					"label": "Jog_Ask_Lusterfield"
+				},
+				{
+					"line": 4216,
+					"column": 0,
+					"label": "Jog_Dialogue_End"
+				},
+				{
+					"line": 4226,
+					"column": 0,
+					"label": "Jog_Amble_Outfit_01"
+				},
+				{
+					"line": 4366,
+					"column": 0,
+					"label": "Jog_Amble_Outfit_03"
+				},
+				{
+					"line": 4401,
+					"column": 0,
+					"label": "Jog_Amble_Outfit_02"
+				},
+				{
+					"line": 4541,
+					"column": 0,
+					"label": "Amble_Dialogue"
+				},
+				{
+					"line": 4611,
+					"column": 0,
+					"label": "Amble_Normal_Talk"
+				},
+				{
+					"line": 4631,
+					"column": 0,
+					"label": "Amble_Ole_Training"
+				},
+				{
+					"line": 4766,
+					"column": 0,
+					"label": "Amble_Ole_Training_Lothar"
+				},
+				{
+					"line": 4861,
+					"column": 0,
+					"label": "Amble_Lothar_Training"
+				},
+				{
+					"line": 5551,
+					"column": 0,
+					"label": "Amble_Ole_Training_Scene"
+				},
+				{
+					"line": 6161,
+					"column": 0,
+					"label": "Amble_Ask_Lusterfield"
+				},
+				{
+					"line": 6246,
+					"column": 0,
+					"label": "Amble_Ask_How_Doing"
+				},
+				{
+					"line": 6271,
+					"column": 0,
+					"label": "Amble_Ask_Lothar"
+				},
+				{
+					"line": 6336,
+					"column": 0,
+					"label": "Amble_Ask_Jog"
+				},
+				{
+					"line": 6366,
+					"column": 0,
+					"label": "Amble_Patrol_Quest"
+				},
+				{
+					"line": 6646,
+					"column": 0,
+					"label": "Amble_Patrol_Farm"
+				},
+				{
+					"line": 7861,
+					"column": 0,
+					"label": "Amble_Ask_Patrol_Task"
+				},
+				{
+					"line": 8111,
+					"column": 0,
+					"label": "Amble_Report_Patrol_Task"
+				},
+				{
+					"line": 8346,
+					"column": 0,
+					"label": "Amble_Dialogue_End"
 				}
 			]
 		},
