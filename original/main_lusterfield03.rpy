@@ -58,6 +58,11 @@ translate schinese Jog_Dialogue_45be28bc:
     # j "If it isn't the courier with that cheeks clapping! Hey, [e]."
     j ""
 
+translate schinese Jog_Normal_Talk_8ff6718f:
+
+    # j "What's up, Courier." nointeract
+    j "" nointeract
+
 translate schinese Jog_Normal_Talk_e1b4b9b5:
 
     # e "What about the other dudes?"
