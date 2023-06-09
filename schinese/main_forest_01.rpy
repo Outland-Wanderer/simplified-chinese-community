@@ -86,7 +86,7 @@ translate schinese main_woodland_outpost_146c26b8:
 translate schinese ancient_tree_chop_bd47983b:
 
     # "You chop off some wood from a nearby tree. You have collected [chop_amount] Wooden Log. However, you have lost 20 hp in the process."
-    "你从附近一棵树上砍下了一截原木。现在你持有 [chop_amount] 块原木。但你在伐木的过程中损失了 20 体力。"
+    "你从附近一棵树上砍下了 [chop_amount] 截原木。但你在伐木的过程中损失了 20 体力。"
 
 translate schinese ancient_tree_chop_176da485:
 
@@ -985,17 +985,17 @@ translate schinese alchemists_cabin_loop_e91ba75d:
 translate schinese alchemists_cabin_loop_07d928ef:
 
     # "Around the cabin, you wander and pick up a certain plant, it was a Rosemary."
-    "你绕着小屋周围探索，从花园中折下了一枝玫瑰。"
+    "你绕着小屋周围探索，从花园中折下了一枝迷迭香。"
 
 translate schinese alchemists_cabin_loop_aef11256:
 
     # "You put the Rosemary in your bag, you now have [item_number] Rosemary."
-    "你将玫瑰放进背包，现在你持有 [item_number] 枝玫瑰。"
+    "你将迷迭香放进背包，现在你持有 [item_number] 枝迷迭香。"
 
 translate schinese alchemists_cabin_loop_5622ab4d:
 
     # "You put the Rosemary in your bag, you now have [item_number] Rosemarys."
-    "你将玫瑰放进背包，现在你持有 [item_number] 枝玫瑰。"
+    "你将迷迭香放进背包，现在你持有 [item_number] 枝迷迭香。"
 
 translate schinese alchemists_cabin_loop_2fba35cf:
 
