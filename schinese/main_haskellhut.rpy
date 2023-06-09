@@ -2815,95 +2815,95 @@ translate schinese Haskell_First_Meet_3934b3e4_1:
 #     # h "Huh. I'll be patiently waiting, very patiently..."
 #     h ""
 
-# translate schinese Haskell_Sick_Quest_ebcc1dc8:
+translate schinese Haskell_Sick_Quest_ebcc1dc8:
 
-#     # e "Haskell, Ole needs your help!"
-#     e ""
+    # e "Haskell, Ole needs your help!"
+    e "哈斯克尔，奥利需要你的帮助！"
 
-# translate schinese Haskell_Sick_Quest_ee5b36cb:
+translate schinese Haskell_Sick_Quest_ee5b36cb:
 
-#     # "Haskell rises up, more perturbed than you've ever seen him."
-#     ""
+    # "Haskell rises up, more perturbed than you've ever seen him."
+    "哈斯克尔听罢起身，脸上流露出你从未见过的担忧神色。"
 
-# translate schinese Haskell_Sick_Quest_2602876f:
+translate schinese Haskell_Sick_Quest_2602876f:
 
-#     # h "Courier, what do you mean? What's wrong with Ole?"
-#     h ""
+    # h "Courier, what do you mean? What's wrong with Ole?"
+    h "邮差，你这是什么意思？奥利怎么了？"
 
-# translate schinese Haskell_Sick_Quest_8b158ea4:
+translate schinese Haskell_Sick_Quest_8b158ea4:
 
-#     # e "We don't know. Ole is currently at the shop and his body is extremely cold."
-#     e ""
+    # e "We don't know. Ole is currently at the shop and his body is extremely cold."
+    e "我们也不知道。奥利现在在当铺里，身体冰凉。"
 
-# translate schinese Haskell_Sick_Quest_f047ac30:
+translate schinese Haskell_Sick_Quest_f047ac30:
 
-#     # "As you explain Ole's situation to Haskell, the latter's expression slowly relaxes and he soon reverts to his insouciant self."
-#     ""
+    # "As you explain Ole's situation to Haskell, the latter's expression slowly relaxes and he soon reverts to his insouciant self."
+    "你向哈斯克尔描述着奥利的情况，他紧张的神情随之舒缓，慢慢变回平常那副悠哉的模样。"
 
-# translate schinese Haskell_Sick_Quest_fe417631:
+translate schinese Haskell_Sick_Quest_fe417631:
 
-#     # "Haskell stops you from rambling on."
-#     ""
+    # "Haskell stops you from rambling on."
+    "哈斯克尔阻止了你继续长篇大论。"
 
-# translate schinese Haskell_Sick_Quest_91b5618e:
+translate schinese Haskell_Sick_Quest_91b5618e:
 
-#     # h "I think I've heard enough to reach a diagnosis."
-#     h ""
+    # h "I think I've heard enough to reach a diagnosis."
+    h "现在足以做出判断了。"
 
-# translate schinese Haskell_Sick_Quest_9dcc70eb:
+translate schinese Haskell_Sick_Quest_9dcc70eb:
 
-#     # h "I believe our friend is suffering from an immuno-weakening disease."
-#     h ""
+    # h "I believe our friend is suffering from an immuno-weakening disease."
+    h "我认为我们的朋友是患了免疫衰弱病。"
 
-# translate schinese Haskell_Sick_Quest_330279ed:
+translate schinese Haskell_Sick_Quest_330279ed:
 
-#     # e "Immo... what?"
-#     e ""
+    # e "Immo... what?"
+    e "免疫……什么？"
 
-# translate schinese Haskell_Sick_Quest_528165a2:
+translate schinese Haskell_Sick_Quest_528165a2:
 
-#     # h "I'm too lazy to explain it to you but what you need to know is that this is not a serious illness and it can be easily cured."
-#     h ""
+    # h "I'm too lazy to explain it to you but what you need to know is that this is not a serious illness and it can be easily cured."
+    h "我才懒得给你解释，你只要知道这不是啥大病就好。"
 
-# translate schinese Haskell_Sick_Quest_4b0fef11:
+translate schinese Haskell_Sick_Quest_4b0fef11:
 
-#     # "You sigh in relief."
-#     ""
+    # "You sigh in relief."
+    "你放下心来，长舒一口气。"
 
-# translate schinese Haskell_Sick_Quest_f8ac9ed4:
+translate schinese Haskell_Sick_Quest_f8ac9ed4:
 
-#     # e "Can you cure Ole then?"
-#     e ""
+    # e "Can you cure Ole then?"
+    e "那你能治好奥利咯？"
 
-# translate schinese Haskell_Sick_Quest_0090a1cb:
+translate schinese Haskell_Sick_Quest_0090a1cb:
 
-#     # h "Of course. However, I need your help."
-#     h ""
+    # h "Of course. However, I need your help."
+    h "那可不。不过我需要你帮个忙。"
 
-# translate schinese Haskell_Sick_Quest_ccc1cf70:
+translate schinese Haskell_Sick_Quest_ccc1cf70:
 
-#     # e "Anything you need."
-#     e ""
+    # e "Anything you need."
+    e "悉听尊便。"
 
-# translate schinese Haskell_Sick_Quest_c3f1367d:
+translate schinese Haskell_Sick_Quest_c3f1367d:
 
-#     # h "To brew a potion to help Ole, I need you to gather 4 pieces of gingers. It's quite easy. You should be able to dig them up in the clearing outside my hut."
-#     h ""
+    # h "To brew a potion to help Ole, I need you to gather 4 pieces of gingers. It's quite easy. You should be able to dig them up in the clearing outside my hut."
+    h "要熬出能治好奥利的药水，你得带4块生姜给我。很简单的，你在我屋外的空地就能挖到。"
 
-# translate schinese Haskell_Sick_Quest_da65adb3:
+translate schinese Haskell_Sick_Quest_da65adb3:
 
-#     # h "In the mean time, I'll go to the shop to monitor Ole's condition."
-#     h ""
+    # h "In the mean time, I'll go to the shop to monitor Ole's condition."
+    h "在这期间我就去当铺看看奥利的状况。"
 
-# translate schinese Haskell_Sick_Quest_f924b705:
+translate schinese Haskell_Sick_Quest_f924b705:
 
-#     # h "I already have other herbs on my ends, so when you've gathered enough ingredients, get back to the shop."
-#     h ""
+    # h "I already have other herbs on my ends, so when you've gathered enough ingredients, get back to the shop."
+    h "我手头已经有其他的草药了，所以你找齐材料直接过来当铺就好。"
 
-# translate schinese Haskell_Sick_Quest_e206f31b:
+translate schinese Haskell_Sick_Quest_e206f31b:
 
-#     # e "Of course!"
-#     e ""
+    # e "Of course!"
+    e "没问题！"
 
 # translate schinese Haskell_Report_Minotaur_Dungeon_475197a1:
 
