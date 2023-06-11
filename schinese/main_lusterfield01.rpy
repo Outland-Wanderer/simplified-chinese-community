@@ -5381,7 +5381,7 @@ translate schinese Ole_Sick_Quest_a1ffb784:
 translate schinese Ole_Sick_Quest_abe654dd:
 
     # "Before you can get an understanding of what's going on, Seb drags you along."
-    "你还没理解发生了什么就被阿塞给拖走了。"
+    "你还没理解发生了什么就被塞巴斯给拖走了。"
 
 translate schinese Ole_Sick_Quest_25da3003:
 
@@ -5416,17 +5416,17 @@ translate schinese Ole_Sick_Quest_4e80cfef:
 translate schinese Ole_Sick_Quest_e4817001:
 
     # "Seb grabs your hand and places it on Ole's forehead. Seb's right. You feel like touching ice."
-    "阿塞抓住你的手放到奥利的额头上。如他所说，触感简直和冰一样。"
+    "塞巴斯抓住你的手放到奥利的额头上。如他所说，触感简直和冰一样。"
 
 translate schinese Ole_Sick_Quest_638849c2:
 
     # "Ole doesn't respond to your touch either."
-    "奥利对你的触碰同样无动于衷。"
+    "奥利对你的触碰同样毫无反应。"
 
 translate schinese Ole_Sick_Quest_fca9c73d:
 
     # "Seb pulls your hand away."
-    "阿塞把你的手拿开。"
+    "塞巴斯把你的手拿开。"
 
 translate schinese Ole_Sick_Quest_46103a05:
 
@@ -5441,7 +5441,7 @@ translate schinese Ole_Sick_Quest_555b9eb6:
 translate schinese Ole_Sick_Quest_c8af6ed5:
 
     # "Seb starts to fidget."
-    "阿塞焦躁不安地来回踱步。"
+    "塞巴斯焦躁不安地来回踱步。"
 
 translate schinese Ole_Sick_Quest_1ffa2c78:
 
@@ -5461,7 +5461,7 @@ translate schinese Ole_Sick_Quest_15cfcafa:
 translate schinese Ole_Sick_Quest_b0de50cd:
 
     # "Seb claps his hands together."
-    "阿塞恍然大悟地拍拍手。"
+    "塞巴斯恍然大悟地拍拍手。"
 
 translate schinese Ole_Sick_Quest_4da77a41:
 
@@ -5471,7 +5471,7 @@ translate schinese Ole_Sick_Quest_4da77a41:
 translate schinese Ole_Sick_Quest_aa31d63c:
 
     # "Seb basically throws you out of the shop."
-    "阿塞把你丢到店外。"
+    "塞巴斯二话不说把你丢到店外。"
 
 translate schinese Ole_Sick_Quest_End_17e297d1:
 
@@ -5496,7 +5496,7 @@ translate schinese Ole_Sick_Quest_End_41a98ea0:
 translate schinese Ole_Sick_Quest_End_793df68e:
 
     # s "Hey, Roomie... D-did you get.... the... ginger?"
-    s "嘿，室友……你拿到…呃…生姜了吗？"
+    s "嘿，室友……你拿到生姜了吗？"
 
 translate schinese Ole_Sick_Quest_End_97e36106:
 
@@ -5506,7 +5506,7 @@ translate schinese Ole_Sick_Quest_End_97e36106:
 translate schinese Ole_Sick_Quest_End_812d2914:
 
     # s "Haskell is taking care of Ole inside. Just come back as soon as you found 4 gingers"
-    s "哈斯克尔还在里边照顾奥利呢。等你找到4块生姜再回来吧。"
+    s "哈斯克尔还在里边照顾奥利呢。等你找到 4 块生姜再回来吧。"
 
 translate schinese Ole_Sick_Quest_End_41a98ea0_1:
 
@@ -5516,7 +5516,7 @@ translate schinese Ole_Sick_Quest_End_41a98ea0_1:
 translate schinese Ole_Sick_Quest_End_1772d64f:
 
     # "As you enter the shop with all the required herbs, you see a nervous and slightly dejected Seb posted at the counter."
-    "你带着所有需要的草药走进当铺，看到了瘫在在柜台上的阿塞，他的脸上流露出紧张而沮丧的神色。"
+    "你带着所有需要的草药走进当铺，看到了瘫在柜台上的塞巴斯，他的脸上流露出紧张而沮丧的神色。"
 
 translate schinese Ole_Sick_Quest_End_ee78536c:
 
@@ -5541,7 +5541,7 @@ translate schinese Ole_Sick_Quest_End_1642423e:
 translate schinese Ole_Sick_Quest_End_1fb0d65c:
 
     # s "Haskell kicked me out because I was distracting him too much with my endless pacing."
-    s "哈斯克尔把我赶出来了，因为我‘没完没了地走来走去’，会让他分心。"
+    s "哈斯克尔把我赶出来了，因为我“没完没了地走来走去”，会让他分心。"
 
 translate schinese Ole_Sick_Quest_End_4268a230:
 
@@ -5561,7 +5561,7 @@ translate schinese Ole_Sick_Quest_End_26886fe8:
 translate schinese Ole_Sick_Quest_End_11396da7:
 
     # "Seb notices the thing you're carrying."
-    "阿塞注意到了你带着的东西。"
+    "塞巴斯注意到了你带着的东西。"
 
 translate schinese Ole_Sick_Quest_End_56c8f9bc:
 
@@ -5586,7 +5586,7 @@ translate schinese Ole_Sick_Quest_End_fb438b6e:
 translate schinese Ole_Sick_Quest_End_8dc6f38f:
 
     # "Seb pushes you along."
-    "阿塞推着你往房间走。"
+    "塞巴斯推着你往房间走。"
 
 translate schinese Ole_Sick_Quest_End_b8ee0f68:
 
@@ -5671,7 +5671,7 @@ translate schinese Ole_Sick_Quest_End_afe607a0:
 translate schinese Ole_Sick_Quest_End_827ac564:
 
     # h "You do nothing for now. I will go make the potion and will be back in a minute."
-    h "现在还没你的事。我要先制作药水，一会就回来。"
+    h "现在你还不用做什么。我要先制作药水，一会就回来。"
 
 translate schinese Ole_Sick_Quest_End_80c1a1d3:
 
@@ -5721,7 +5721,7 @@ translate schinese Ole_Sick_Quest_End_02736e9d:
 translate schinese Ole_Sick_Quest_End_c8006156:
 
     # "Haskell cradles Ole's head and rather roughly tips a potion down into Ole's mouth."
-    "哈斯克尔轻轻托起奥利的头，迅速将药水倒入奥利的口中。"
+    "哈斯克尔托起奥利的头，相当粗鲁地将药水倒入奥利的口中。"
 
 translate schinese Ole_Sick_Quest_End_d5453302:
 
@@ -5801,17 +5801,17 @@ translate schinese Ole_Sick_Quest_End_120b8bd1:
 translate schinese Ole_Sick_Quest_End_145de320:
 
     # "Seb pokes his head through the door."
-    "阿塞从门后探出头。"
+    "塞巴斯从门后探出头。"
 
 translate schinese Ole_Sick_Quest_End_c708a07f:
 
     # s "Roomie, I hear that O is doing better?!"
-    s "室友啊，我听说奥利已经好多了？"
+    s "室友啊，我听说奥利已经好多了？！"
 
 translate schinese Ole_Sick_Quest_End_2388c1c6:
 
     # "Seb glances at Ole and lets out a big sigh."
-    "阿塞看向奥利，释怀地叹了口气。"
+    "塞巴斯看向奥利，释怀地叹了口气。"
 
 translate schinese Ole_Sick_Quest_End_bddc1717:
 
@@ -5851,12 +5851,12 @@ translate schinese Ole_Sick_Quest_End_9bc74079:
 translate schinese Ole_Sick_Quest_End_24f3beb2:
 
     # "Seb's eyes appear to take in Ole's state of undress for the first time."
-    "阿塞的眼神就好像是第一次看见奥利没穿衣服。"
+    "塞巴斯的眼神就好像是第一次看见奥利没穿衣服。"
 
 translate schinese Ole_Sick_Quest_End_a4ae8428:
 
     # "He then looks over at you with a cheeky smile."
-    "他随之带着厚脸皮的笑容看向你。"
+    "他随之带着别有用心的笑容看向你。"
 
 translate schinese Ole_Sick_Quest_End_483cee6d:
 
@@ -5866,7 +5866,7 @@ translate schinese Ole_Sick_Quest_End_483cee6d:
 translate schinese Ole_Sick_Quest_End_251c1932:
 
     # "You blush as Seb turns and walks away with a laugh."
-    "看着你羞红的脸，阿塞满意地笑着走开了。"
+    "看着你羞红的脸，塞巴斯满意地笑着走开了。"
 
 translate schinese Ole_Sick_Quest_End_040bb385:
 
@@ -5881,7 +5881,7 @@ translate schinese Ole_Sick_Quest_End_f598680c:
 translate schinese Ole_Sick_Quest_End_45fcd039:
 
     # "His breathing is more regular, and his chest is rising and falling evenly."
-    "他的呼吸越加规律，胸膛均匀地上下起伏。"
+    "他的呼吸更加规律，胸膛均匀地上下起伏。"
 
 translate schinese Ole_Sick_Quest_End_b3c2fbcc:
 
@@ -5961,7 +5961,7 @@ translate schinese Ole_Sick_Quest_End_a2e11e43:
 translate schinese Ole_Sick_Quest_End_52e3bbd1:
 
     # "Even at rest, Ole's abs are well-defined."
-    "即便在休息，他的腹肌仍旧清晰可见。"
+    "即便在放松的情况下，他的腹肌仍旧清晰可见。"
 
 translate schinese Ole_Sick_Quest_End_75cf099a:
 
@@ -5991,7 +5991,7 @@ translate schinese Ole_Sick_Quest_End_db3edecd:
 translate schinese Ole_Sick_Quest_End_6e4bf35d:
 
     # "The abs become rigid with temporary tension."
-    "他的胸肌也因突然的刺激绷紧。"
+    "他的腹肌也因突然的刺激绷紧。"
 
 translate schinese Ole_Sick_Quest_End_4c4a6efd:
 
@@ -6101,7 +6101,7 @@ translate schinese Ole_Sick_Quest_End_0f121d59:
 translate schinese Ole_Sick_Quest_End_2ae92006:
 
     # "Suddenly, you feel a touch on your wrist."
-    "突然，你感到有人碰了碰你的手。"
+    "突然，你感到有人碰了碰你的手腕。"
 
 translate schinese Ole_Sick_Quest_End_ca741f3b:
 
@@ -6151,7 +6151,7 @@ translate schinese Ole_Sick_Quest_End_54008348:
 translate schinese Ole_Sick_Quest_End_0e83e95a:
 
     # o "Do stay to accompany me."
-    o "拜托，留下来陪陪我吧。"
+    o "留下来陪陪我吧。"
 
 translate schinese Ole_Sick_Quest_End_066f2428:
 
@@ -6186,7 +6186,7 @@ translate schinese Ole_Sick_Quest_End_b7550d6c:
 translate schinese Ole_Sick_Quest_End_80946567:
 
     # o "Why did you think I wake up?"
-    o "你为什么觉得我醒了？"
+    o "不然我怎么会醒？"
 
 translate schinese Ole_Sick_Quest_End_95ba58a6:
 
@@ -6196,7 +6196,7 @@ translate schinese Ole_Sick_Quest_End_95ba58a6:
 translate schinese Ole_Sick_Quest_End_1b528b7e:
 
     # "You move the towel back to the slit."
-    "你把毛巾放回他的缝上。"
+    "你把毛巾挪回他的缝上。"
 
 translate schinese Ole_Sick_Quest_End_918ce26c:
 
@@ -6391,7 +6391,7 @@ translate schinese Ole_Sick_Quest_End_ece7d620:
 translate schinese Ole_Sick_Quest_End_577e4bd1:
 
     # e "Okay."
-    e "OK。"
+    e "没问题。"
 
 translate schinese Ole_Sick_Quest_End_ff094af5:
 
@@ -6581,7 +6581,7 @@ translate schinese Ole_Sick_Quest_End_a9922f0c:
 translate schinese Ole_Sick_Quest_End_6b90efd6:
 
     # "You stay there, just watching Ole's peaceful sleeping face until Seb comes to take over from you."
-    "你坐在那儿，静静看着睡得安稳的奥利，直到阿塞过来和你换班。"
+    "你坐在那儿，静静看着睡得安稳的奥利，直到塞巴斯过来和你换班。"
 
 translate schinese Ole_Sick_Quest_End_51ba8fd5:
 
@@ -6606,12 +6606,12 @@ translate schinese Ole_After_Sick_Quest_cd2c52fd:
 translate schinese Ole_After_Sick_Quest_21e2407d:
 
     # "Ole lets the conversation linger. You wonder if you should bring up the other thing that happened that day."
-    "奥利似乎还不想结束这个话题。你琢磨着要不要提那天做的‘另一件事’。"
+    "奥利似乎还不想结束这个话题。你琢磨着要不要提那天做的“另一件事”。"
 
 translate schinese Ole_After_Sick_Quest_9ba9180d:
 
     # o "Also about the other thing..."
-    o "关于我对你做的那件事……"
+    o "关于我们做的那件事……"
 
 translate schinese Ole_After_Sick_Quest_27abb94f:
 
