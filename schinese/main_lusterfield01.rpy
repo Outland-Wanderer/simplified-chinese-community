@@ -268,8 +268,8 @@ translate schinese strings:
     old "Ask to relieve his stress at work"
     new "提议帮忙舒散工作压力"
 
-    # old "Ask about after Ole's sickness"
-    # new "询问奥利的病情"
+    old "Ask about after Ole's sickness"
+    new "提起奥利之前的病情"
 
     old "Ask about the time under the counter"
     new "询问对之前柜台底下那件事的感想"
@@ -1188,45 +1188,45 @@ translate schinese strings:
     old "That's all I needed"
     new "结束询问"
 
-# translate schinese Sebas_After_Sick_Quest_e5e62d66:
+translate schinese Sebas_After_Sick_Quest_e5e62d66:
 
-#     # s "Ole gave us quite a scare, didn't he?"
-#     s ""
+    # s "Ole gave us quite a scare, didn't he?"
+    s "奥利老铁这一病可把我们吓得不轻，嗯？"
 
-# translate schinese Sebas_After_Sick_Quest_500ef886:
+translate schinese Sebas_After_Sick_Quest_500ef886:
 
-#     # "Seb looks over at Ole who is cleaning."
-#     ""
+    # "Seb looks over at Ole who is cleaning."
+    "塞巴斯望向正在打扫货架的奥利。"
 
-# translate schinese Sebas_After_Sick_Quest_1868b2ca:
+translate schinese Sebas_After_Sick_Quest_1868b2ca:
 
-#     # s "But he's alright now."
-#     s ""
+    # s "But he's alright now."
+    s "不过好在他已经没事了。"
 
-# translate schinese Sebas_After_Sick_Quest_7aec7fe2:
+translate schinese Sebas_After_Sick_Quest_7aec7fe2:
 
-#     # s "Glad to see that."
-#     s ""
+    # s "Glad to see that."
+    pass
 
-# translate schinese Sebas_After_Sick_Quest_a263c369:
+translate schinese Sebas_After_Sick_Quest_a263c369:
 
-#     # s "Roomie, you've pulled through too. I'm not sure I would have stayed as calm without you."
-#     s ""
+    # s "Roomie, you've pulled through too. I'm not sure I would have stayed as calm without you."
+    s "我的好室友，这回真是辛苦你啦。要不是有你，我都不知道要慌到什么时候。"
 
-# translate schinese Sebas_After_Sick_Quest_6e9186a9:
+translate schinese Sebas_After_Sick_Quest_6e9186a9:
 
-#     # e "I'm sure you'll be fine without me, Seb."
-#     e ""
+    # e "I'm sure you'll be fine without me, Seb."
+    e "就算没有我，你迟早也会冷静下来的，阿塞。"
 
-# translate schinese Sebas_After_Sick_Quest_c410a248:
+translate schinese Sebas_After_Sick_Quest_c410a248:
 
-#     # s "Not true, Roomie! It's nice to have someone with a clear mind around."
-#     s ""
+    # s "Not true, Roomie! It's nice to have someone with a clear mind around."
+    s "才不会！我可不能没有头脑清醒的朋友。"
 
-# translate schinese Sebas_After_Sick_Quest_c69ffb48:
+translate schinese Sebas_After_Sick_Quest_c69ffb48:
 
-#     # s "Normally that person would be Ole but it's nice to know that we now have you too."
-#     s ""
+    # s "Normally that person would be Ole but it's nice to know that we now have you too."
+    s "通常这个朋友是奥利，而如今我们身边又多一个你，简直太幸运了。"
 
 translate schinese Sebas_Ask_Goat_Tribe_c95a4a5a:
 
@@ -3547,8 +3547,8 @@ translate schinese strings:
     old "Ask about his habit of cleaning"
     new "好奇他对清洁的爱好"
 
-    # old "Ask about his sickness"
-    # new "关心病情"
+    old "Ask about his sickness"
+    new "关心他的病情"
 
     old "Ask about his Ointment"
     new "询问自己的第一份工作"

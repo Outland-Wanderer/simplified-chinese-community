@@ -75,11 +75,11 @@ translate schinese strings:
     # old "Ask about your outfit"
     # new ""
 
-    # old "Ask about Ole's sickness"
-    # new ""
+    old "Ask about Ole's sickness"
+    new "求助奥利的病情"
 
-    # old "Ask about after Ole's sickness"
-    # new ""
+    old "Ask about after Ole's sickness"
+    new "谈起奥利之前的病情"
 
     old "Ask about Haskell's clients"
     new "打听他的客户"
