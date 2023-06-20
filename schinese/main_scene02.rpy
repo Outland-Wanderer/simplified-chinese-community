@@ -643,375 +643,375 @@ translate schinese scene_mimiclose_a388bafc:
     # "You can do nothing but to continue with your life, whether to take revenge on the monster or move pass this history. You decide you should take some rest first."
     "无论是报仇雪恨还是既往不咎，你都决定先休息一会再说……"
 
-# translate schinese scene_minowin_108cb4dd:
+translate schinese scene_minowin_108cb4dd:
 
 #     # "The Minotaur crumbles to the ground, raising up dust everywhere."
-#     ""
+    "弥诺陶洛斯倒在地上，激起一片尘土。"
 
-# translate schinese scene_minowin_d76a715e:
+translate schinese scene_minowin_d76a715e:
 
 #     # "The monster's knees appear to have buckled from sexual overstimulation."
-#     ""
+    "它的双膝似乎因性欲的过度刺激发软了。"
 
-# translate schinese scene_minowin_7ec90d03:
+translate schinese scene_minowin_7ec90d03:
 
 #     # "Carried by its own weight, the Minotaur topples backwards."
-#     ""
+    "限于自己的体重，它朝后倒了下去。"
 
-# translate schinese scene_minowin_6294dcb3:
+translate schinese scene_minowin_6294dcb3:
 
 #     # "Even in this highly erotic state, the Minotaur is still a giant force to be reckoned with."
-#     ""
+    "哪怕在这极度色情的状态里，它的力量依然很强大。"
 
-# translate schinese scene_minowin_68c96bd2:
+translate schinese scene_minowin_68c96bd2:
 
 #     # "A single swat and it can send you flying."
-#     ""
+    "一发重击就能送你上天。"
 
-# translate schinese scene_minowin_bc5f9bd1:
+translate schinese scene_minowin_bc5f9bd1:
 
 #     # "You observe the Minotaur from a distance away."
-#     ""
+    "你远远地观察着它。"
 
-# translate schinese scene_minowin_67f79eff:
+translate schinese scene_minowin_67f79eff:
 
 #     # "The Minotaur is actively huffing out hot air. Your body heats up in response. It compels you to get a little closer to this majestic creature."
-#     ""
+    "它在剧烈地呼出热气，使你的身体也燥热起来。这使你不由自主地靠近这雄伟的生物了一些。"
 
-# translate schinese scene_minowin_72750df8:
+translate schinese scene_minowin_72750df8:
 
 #     # "The Minotaur is radiating heat. Even though it is lying down, one part of its body is standing straight at attention."
-#     ""
+    "弥诺陶洛斯还在释放着情热。趴在地上的身体只有一个部位直直地立起，吸引着注意力。"
 
-# translate schinese scene_minowin_674d8daf:
+translate schinese scene_minowin_674d8daf:
 
 #     # "Your eyes can't help but be drawn to it. It is not an exaggeration to say that it is the biggest cock you have ever seen."
-#     ""
+    "你的视线无法不被吸引过去。毫不夸张，那绝对是你有生以来见过的最大的鸡巴。"
 
-# translate schinese scene_minowin_8992288c:
+translate schinese scene_minowin_8992288c:
 
 #     # "The thought of it being inside your hole sends shivers down your spine. However, you cannot tell if it is from fear or excitement."
-#     ""
+    "让这根巨物进入你后穴的想法使你脊柱打了个冷颤。但你分不清是出于恐惧还是兴奋。"
 
-# translate schinese scene_minowin_335cfa51:
+translate schinese scene_minowin_335cfa51:
 
 #     # "At that moment, the chains jangles noisily. The Minotaur trying to move his arms to masturbate but the chains hold his wrists back."
-#     ""
+    "就在这时，铁链发出了刺耳的噪音。弥诺陶洛斯开始试图用手去撸管，但被铁链束缚了手腕。"
 
-# translate schinese scene_minowin_73be381b:
+translate schinese scene_minowin_73be381b:
 
 #     # "This sight gives you a sense of security. It appears like the Minotaur cannot summon its usual strength in its current state of arousal."
-#     ""
+    "此情此景给了你一些安全感。在这种勃起下它看起来已经无法聚集平时的力量了。"
 
-# translate schinese scene_minowin_c0c44ba2:
+translate schinese scene_minowin_c0c44ba2:
 
 #     # "The humongous cock twitches with pent-up energy. You swallow subconsciously."
-#     ""
+    "那根大鸡巴硬直地抽动了几下。你下意识咽了口吐沫。"
 
-# translate schinese scene_minowin_2eab021f:
+translate schinese scene_minowin_2eab021f:
 
 #     # "Sensing your approach, the Minotaur looks at you and mumbles weakly."
-#     ""
+    "弥诺陶洛斯感到了你的靠近，虚弱地说道："
 
-# translate schinese scene_minowin_49bf9ffe:
+translate schinese scene_minowin_49bf9ffe:
 
 #     # mn "Help... Cock..."
-#     mn ""
+    mn "帮帮我……鸡巴……"
 
-# translate schinese scene_minowin_5b65e722:
+translate schinese scene_minowin_5b65e722:
 
 #     # "You are more than happy to oblige."
-#     ""
+    "你巴不得伸出援手。"
 
-# translate schinese scene_minowin_8ba42e5e:
+translate schinese scene_minowin_8ba42e5e:
 
 #     # "You wedge yourself between the beast's two powerful legs."
-#     ""
+    "你钻到这个野兽粗壮的双腿之间。"
 
-# translate schinese scene_minowin_4f4db659:
+translate schinese scene_minowin_4f4db659:
 
 #     # "The cock twitches as if in anticipation of your attention."
-#     ""
+    "那根抽动的鸡巴仿佛在吸引你的注意。"
 
-# translate schinese scene_minowin_11b24c1e:
+translate schinese scene_minowin_11b24c1e:
 
 #     # mn "Ungh..."
-#     mn ""
+    mn "啊……"
 
-# translate schinese scene_minowin_b0cf1eba:
+translate schinese scene_minowin_b0cf1eba:
 
 #     # "The moment you lay your hand on its cock, the Minotaur grunts. The rod in your hand appear to get warmer."
-#     ""
+    "你将手搭在它的鸡巴上，让它发出了一声呻吟。手中的大肉棒变得更灼人了。"
 
-# translate schinese scene_minowin_5752d91f:
+translate schinese scene_minowin_5752d91f:
 
 #     # "The Minotaur's sensitivity surprises you. You place both of your paws around the rod to get a sense of its size."
-#     ""
+    "弥诺陶洛斯惊人地敏感。你将双爪包住整个肉棒，感受着它的尺寸。"
 
-# translate schinese scene_minowin_f6a10da0:
+translate schinese scene_minowin_f6a10da0:
 
 #     # "You are unable to wrap your two hands around the giant digit."
-#     ""
+    "两只手甚至都无法抱拢住。"
 
-# translate schinese scene_minowin_86c42682:
+translate schinese scene_minowin_86c42682:
 
 #     # "The Minotaur's cock pulses and the veins bulge in response to your touch."
-#     ""
+    "它的鸡巴上的脉动和青筋回应着你的触摸。"
 
-# translate schinese scene_minowin_495a6abc:
+translate schinese scene_minowin_495a6abc:
 
 #     # "You keep your hands massaging the base of the shaft. Based on the Minotaur's increased huffs, it seems to appreciate it."
-#     ""
+    "你开始用双手按摩着根部。弥诺陶洛斯加重的气息似乎说明了它的享受。"
 
-# translate schinese scene_minowin_3132b8fd:
+translate schinese scene_minowin_3132b8fd:
 
 #     # "After that, you use your fingers to trail the popping veins along the shaft."
-#     ""
+    "接着，你用手指沿着大屌上的青筋向上滑动。"
 
-# translate schinese scene_minowin_ed708815:
+translate schinese scene_minowin_ed708815:
 
 #     # "You can feel the milk pumping under the skin."
-#     ""
+    "你都能感到皮肤下奔涌的牛奶。"
 
-# translate schinese scene_minowin_e7390dea:
+translate schinese scene_minowin_e7390dea:
 
 #     # "As expected, a sheen of precum starts to leak out of the slit of the Minotaur's cock."
-#     ""
+    "不出所料，闪亮的前列腺液开始从它鸡巴的小口中渗出。"
 
-# translate schinese scene_minowin_fb80d40b:
+translate schinese scene_minowin_fb80d40b:
 
 #     # "You wet your hands by scooping up the precum and rubbing them all over your paws."
-#     ""
+    "你用这润湿了双爪。"
 
-# translate schinese scene_minowin_1e4054fa:
+translate schinese scene_minowin_1e4054fa:
 
 #     # "You use your well-lubricated hands to slide up and down the giant shaft."
-#     ""
+    "你开始用那彻底润滑后的手沿着这根大屌上下撸动。"
 
-# translate schinese scene_minowin_56c942d8:
+translate schinese scene_minowin_56c942d8:
 
 #     # mn "Yes..."
-#     mn ""
+    mn "对……"
 
-# translate schinese scene_minowin_892fded5:
+translate schinese scene_minowin_892fded5:
 
 #     # "The Minotaur's hip bucks to show that it is really enjoying this."
-#     ""
+    "弥诺陶洛斯的屁股开始前顶，证明了它有多享受。"
 
-# translate schinese scene_minowin_7490dab4:
+translate schinese scene_minowin_7490dab4:
 
 #     # "You match the rhythm of the Minotaur's moving hips as you massage the tingling cock."
-#     ""
+    "你便随着他顶胯的律动撸动着它胀痛的鸡巴。"
 
-# translate schinese scene_minowin_ea5aac6b:
+translate schinese scene_minowin_ea5aac6b:
 
 #     # "Suddenly, you feel a tremble coming from the base of the shaft."
-#     ""
+    "突然，你感到了鸡巴的根部传来一阵颤动。"
 
-# translate schinese scene_minowin_6eec129f:
+translate schinese scene_minowin_6eec129f:
 
 #     # "The Minotaur also grits his teeth in preparation for the explosion of release."
-#     ""
+    "弥诺陶洛斯同时咬紧牙关，准备迎来释放的爆发。"
 
-# translate schinese scene_minowin_48f7dec4:
+translate schinese scene_minowin_48f7dec4:
 
 #     # "You choose that moment to pull your hands back."
-#     ""
+    "你适时抽回了自己的双手。"
 
-# translate schinese scene_minowin_b98c9eb3:
+translate schinese scene_minowin_b98c9eb3:
 
 #     # "The huge cock, especially the tip, is pink from the halted ejaculation."
-#     ""
+    "整根大鸡巴，尤其是顶端，都被这寸止憋到发粉。"
 
-# translate schinese scene_minowin_4b09568d:
+translate schinese scene_minowin_4b09568d:
 
 #     # "The Minotaur looks at you lustily."
-#     ""
+    "弥诺陶洛斯用充满欲望的眼神看向你。"
 
-# translate schinese scene_minowin_7cf4d6ed:
+translate schinese scene_minowin_7cf4d6ed:
 
 #     # mn "Why... Stop..."
-#     mn ""
+    mn "为啥……停……"
 
-# translate schinese scene_minowin_d4f01766:
+translate schinese scene_minowin_d4f01766:
 
 #     # "You grin mischievously."
-#     ""
+    "你调皮地笑了笑。"
 
-# translate schinese scene_minowin_ecfb5ff9:
+translate schinese scene_minowin_ecfb5ff9:
 
 #     # e "I can't let you have all the fun."
-#     e ""
+    e "可不能让你一人独爽了。"
 
-# translate schinese scene_minowin_27ccfb59:
+translate schinese scene_minowin_27ccfb59:
 
 #     # "As you say that, your cock bounces up, fully hard."
-#     ""
+    "说着，你的鸡巴也完全硬挺起来。"
 
-# translate schinese scene_minowin_3620f050:
+translate schinese scene_minowin_3620f050:
 
 #     # "Before the Minotaur can react, you pinch the exposed tip of the Minotaur's engorged cock."
-#     ""
+    "趁着它还没回过神，你一下子捏住了弥诺陶洛斯的大鸡巴。"
 
-# translate schinese scene_minowin_c78cc9df:
+translate schinese scene_minowin_c78cc9df:
 
 #     # "The Minotaur shudders. Some more precum leaks out. It is not the full explosion the Minotaur wanted but in this situation, your desire is served first."
-#     ""
+    "它一下子开始发抖起来。更多的前列腺液流了出来。这不是它最想要的释放，但此时，你的欲望才是第一位的。"
 
-# translate schinese scene_minowin_637b4b4c:
+translate schinese scene_minowin_637b4b4c:
 
 #     # "You slather the beast's precum over your raging boner. You feel hot and sticky."
-#     ""
+    "你用大量的前列腺液润滑了你的勃起，感觉又热又黏。"
 
-# translate schinese scene_minowin_9bf3d9e4:
+translate schinese scene_minowin_9bf3d9e4:
 
 #     # "You replace your hands on the Minotaur's shaft. You continue to massage it but making sure that the beast will not cum so soon."
-#     ""
+    "随后，你将双手重新放在弥诺陶洛斯的阴茎上，继续帮它手淫，但又确保不会立马射出来。"
 
-# translate schinese scene_minowin_13a414d2:
+translate schinese scene_minowin_13a414d2:
 
 #     # "At the same time, your cock wander around the Minotaur's hole."
-#     ""
+    "同时，你的鸡巴开始寻找弥诺陶洛斯的入口。"
 
-# translate schinese scene_minowin_d65b4d3b:
+translate schinese scene_minowin_d65b4d3b:
 
 #     # "The hole is puckered and pink. You believe this part of the Minotaur has not been used before."
-#     ""
+    "它的菊花紧致且粉嫩。以前一定没有被使用过。"
 
-# translate schinese scene_minowin_e55fcc40:
+translate schinese scene_minowin_e55fcc40:
 
 #     # "Sensing your poking cock around its hole, the Minotaur looks at you with a hint of warning."
-#     ""
+    "它感到了你在用鸡巴刺探后穴，用带着警告的眼神看向了你。"
 
-# translate schinese scene_minowin_e165753b:
+translate schinese scene_minowin_e165753b:
 
 #     # mn "No... Just cock..."
-#     mn ""
+    mn "不要……只弄鸡巴……"
 
-# translate schinese scene_minowin_1f3570a7:
+translate schinese scene_minowin_1f3570a7:
 
 #     # "The Minotaur tries to wrestle away, but it is fully tied down by the chains."
-#     ""
+    "弥诺陶洛斯试图挣开，但被铁链牢牢地束缚住了动作。"
 
-# translate schinese scene_minowin_d059f81e:
+translate schinese scene_minowin_d059f81e:
 
 #     # "Despite the Minotaur's giant frame, you currently have full control of one of its move vulnerable parts."
-#     ""
+    "尽管它体型巨大，但已经被你完全掌握住了最柔弱的地方。"
 
-# translate schinese scene_minowin_623a3e61:
+translate schinese scene_minowin_623a3e61:
 
 #     # "Your fingers pinch the cock and the Minotaur stops wiggling as much as its mind is once again clouded by pleasure."
-#     ""
+    "你手指用力捏住它的鸡巴后，再次涌上的快感使弥诺陶洛斯也不再继续挣扎。"
 
-# translate schinese scene_minowin_0ddb7a37:
+translate schinese scene_minowin_0ddb7a37:
 
 #     # "While maintaining the massage on its shaft, you use your cock to draw circles around the Minotaur's resistant hole."
-#     ""
+    "你一边继续手上的动作，一边用鸡巴在弥诺陶洛斯那抗拒的小穴打转。"
 
-# translate schinese scene_minowin_21bef5a5:
+translate schinese scene_minowin_21bef5a5:
 
 #     # "After some light prodding, the hole starts to open up slightly."
-#     ""
+    "随着你轻微地戳动，它的后穴也开始渐渐打开。"
 
-# translate schinese scene_minowin_e2161fb8:
+translate schinese scene_minowin_e2161fb8:
 
 #     # "You grin up at the Minotaur."
-#     ""
+    "你仰起头，对它笑了一下。"
 
-# translate schinese scene_minowin_cd9ae9e7:
+translate schinese scene_minowin_cd9ae9e7:
 
 #     # e "Would you like me to massage your inside with my cock?"
-#     e ""
+    e "请问你愿意让我用鸡巴按摩你的里面吗？"
 
-# translate schinese scene_minowin_e70d9272:
+translate schinese scene_minowin_e70d9272:
 
 #     # "To persuade the Minotaur, you speed up your massage on its cock and the last vestige of its protest fades away."
-#     ""
+    "为了说服它，你加快了套弄的速度，使它最后一丝抵抗也溃败下去。"
 
-# translate schinese scene_minowin_6f7fe044:
+translate schinese scene_minowin_6f7fe044:
 
 #     # "The Minotaur refuses to answer but you see it nod imperceptibly."
-#     ""
+    "它不肯说话，但你察觉到了那微微的点头。"
 
-# translate schinese scene_minowin_7695f994:
+translate schinese scene_minowin_7695f994:
 
 #     # "The tip of your cock slowly enters the Minotaur's inviting hole."
-#     ""
+    "随后，你的鸡巴顶部开始缓慢进入到弥诺陶洛斯那诱人的后穴中。"
 
-# translate schinese scene_minowin_1a68687b:
+translate schinese scene_minowin_1a68687b:
 
 #     # "You find some resistance at first but the beast's precum acts as a very good lubricant."
-#     ""
+    "一开始，它还有些抗拒，但这只野兽的前列腺液很好地起到了润滑剂的作用。"
 
-# translate schinese scene_minowin_9b0ef32c:
+translate schinese scene_minowin_9b0ef32c:
 
 #     # "The chains clinks as the Minotaur tries to grab you."
-#     ""
+    "铁链开始响动。弥诺陶洛斯试图去用手抓你。"
 
-# translate schinese scene_minowin_238b27cd:
+translate schinese scene_minowin_238b27cd:
 
 #     # "It fails."
-#     ""
+    "但没能成功。"
 
-# translate schinese scene_minowin_80c681f9:
+translate schinese scene_minowin_80c681f9:
 
 #     # "You continue your advance into the beast's hole."
-#     ""
+    "你继续着进入这野兽菊花的进度。"
 
-# translate schinese scene_minowin_35dc0fd4:
+translate schinese scene_minowin_35dc0fd4:
 
 #     # "You thought the Minotaur's cock was sensitive but you were wrong."
-#     ""
+    "你刚以为它的鸡巴很敏感，但你错了。"
 
-# translate schinese scene_minowin_9f608102:
+translate schinese scene_minowin_9f608102:
 
 #     # "The beast's inside immediately wedges down on the tip of your cock as you enters its hole."
-#     ""
+    "它的内壁在你鸡巴进入的瞬间便紧紧地吸住了顶部。"
 
-# translate schinese scene_minowin_14c9de1d:
+translate schinese scene_minowin_14c9de1d:
 
 #     # "It causes you to moan in pleasure."
-#     ""
+    "你发出了愉悦的呻吟。"
 
-# translate schinese scene_minowin_9e0173c4:
+translate schinese scene_minowin_9e0173c4:
 
 #     # e "Oh... This is so tight..."
-#     e ""
+    e "操……真够紧的……"
 
-# translate schinese scene_minowin_353d4f8d:
+translate schinese scene_minowin_353d4f8d:
 
 #     # "As your cock pokes around the Minotaur's hole, the cock that you're holding also twitches more violently than before."
-#     ""
+    "随着你对它后穴的深入，手中的鸡巴也开始更加剧烈地抽搐了。"
 
-# translate schinese scene_minowin_d05d71aa:
+translate schinese scene_minowin_d05d71aa:
 
 #     # "The chains stop rattling as much. The Minotaur appears to start to surrender to the pleasure."
-#     ""
+    "铁链不再那么响了。弥诺陶洛斯似乎折服在了快感之下。"
 
-# translate schinese scene_minowin_0da45fdb:
+translate schinese scene_minowin_0da45fdb:
 
 #     # "To reward it, you squeeze the beast's shaft. In an unexpected response, the beast's inside squeezes your invading cock as well."
-#     ""
+    "作为奖励，你开始用力挤榨它的鸡巴。而它的内壁出乎意料的开始挤压你侵入的阴茎作为回应。"
 
 # translate schinese scene_minowin_bf52615d:
 
 #     # "After the squeeze, the Minotaur's walls relax slightly. Using that opportunity, you push your cock further in."
-#     ""
+    "经你揉捏后，弥诺陶洛斯的内壁开始微微放松。你趁机将鸡巴插入了更深处。"
 
 # translate schinese scene_minowin_61e74a5e:
 
 #     # "The increasingly warm sensation causes your cock to pulse wildly."
-#     ""
+    "温度持续升高的触觉让你的鸡巴在狂野地脉动。"
 
 # translate schinese scene_minowin_af6017a7:
 
 #     # "It hits multiple sensitive spots inside the Minotaur's hole."
-#     ""
+    "同时还戳到了弥诺陶洛斯的肉穴中的几处敏感点。"
 
 # translate schinese scene_minowin_77f41a07:
 
 #     # mn "Urgh..."
-#     mn ""
+    mn "额啊……"
 
 # translate schinese scene_minowin_3850a1e4:
 
