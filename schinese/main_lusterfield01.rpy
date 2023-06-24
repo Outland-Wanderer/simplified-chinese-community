@@ -268,9 +268,6 @@ translate schinese strings:
     old "Ask to relieve his stress at work"
     new "提议帮忙舒散工作压力"
 
-    old "Ask about after Ole's sickness"
-    new "提起奥利之前的病情"
-
     old "Ask about the time under the counter"
     new "询问对之前柜台底下那件事的感想"
 
@@ -5371,17 +5368,17 @@ translate schinese Ole_Apron_Quest_ba31ebcc:
 translate schinese Ole_Sick_Quest_d0874d5f:
 
     # "As you open the bedroom door, you see Sebas jumping just outside the door."
-    "你一推开卧室的门，就看见塞巴斯在门外急得乱跳。"
+    "你一推开卧室门，就看见塞巴斯在门外急得乱跳。"
 
 translate schinese Ole_Sick_Quest_a1ffb784:
 
     # s "Roomie, roomie! You are just in time. Come with me. Something's wrong with O!"
-    s "室友室友！你来得正好。快和我过来，奥利有点不对劲！"
+    s "老铁！你来得正好。快过来，奥利有点不对劲！"
 
 translate schinese Ole_Sick_Quest_abe654dd:
 
     # "Before you can get an understanding of what's going on, Seb drags you along."
-    "你还没理解发生了什么就被塞巴斯给拖走了。"
+    "你还没清楚状况就被塞巴斯给拖走了。"
 
 translate schinese Ole_Sick_Quest_25da3003:
 
@@ -5391,52 +5388,52 @@ translate schinese Ole_Sick_Quest_25da3003:
 translate schinese Ole_Sick_Quest_22b207c8:
 
     # "Ole lays in his bed. He looks like he is asleep if not for the paleness on his face and his faint breathing."
-    "奥利躺在床上，要不是他脸色苍白、呼吸微弱，看起来就像是在熟睡。"
+    "奥利静静躺在床上，要不是他脸色苍白、呼吸微弱，你会以为他睡得正熟。"
 
 translate schinese Ole_Sick_Quest_17558ca1:
 
     # e "Seb, what happened?"
-    e "阿塞，这是怎么了？"
+    e "阿塞，奥利怎么了？"
 
 translate schinese Ole_Sick_Quest_936daf8a:
 
     # s "I don't know. I came to wake up O this morning and I found him like this."
-    s "我咋知道。我今早来叫奥利起床，结果就看见他是这样了。"
+    s "我不知道。我今早来叫奥利起床，结果就看见奥利这样了。"
 
 translate schinese Ole_Sick_Quest_669d093c:
 
     # s "I tried to wake him up but he didn't give me any response."
-    s "我试过把他叫醒但完全没反应。"
+    s "不管我怎么大吼大叫他都没反应。"
 
 translate schinese Ole_Sick_Quest_4e80cfef:
 
     # s "I shook him and realized his body is extremely cold."
-    s "我摇了摇他才发现，他的身体凉的过分！"
+    s "然后我想摇醒他，一碰才发现他整个身子都冷透了。"
 
 translate schinese Ole_Sick_Quest_e4817001:
 
     # "Seb grabs your hand and places it on Ole's forehead. Seb's right. You feel like touching ice."
-    "塞巴斯抓住你的手放到奥利的额头上。如他所说，触感简直和冰一样。"
+    "塞巴斯抓住你的手往奥利额头上放。如他所说，触感简直和冰一样。"
 
 translate schinese Ole_Sick_Quest_638849c2:
 
     # "Ole doesn't respond to your touch either."
-    "奥利对你的触碰同样毫无反应。"
+    "同样，奥利对你的触碰毫无反应。"
 
 translate schinese Ole_Sick_Quest_fca9c73d:
 
     # "Seb pulls your hand away."
-    "塞巴斯把你的手拿开。"
+    "塞巴斯收回了你和他的手。"
 
 translate schinese Ole_Sick_Quest_46103a05:
 
     # s "Roomie, what should we do?"
-    s "好室友，这该怎么办啊？"
+    s "[e]，这该怎么办啊？"
 
 translate schinese Ole_Sick_Quest_555b9eb6:
 
     # s "Normally, we'd go to the doctor but O is our doctor!"
-    s "按理来说我们要去找医生，但偏偏奥利就是咱的医生。"
+    s "按理来说我们要去找医生，但偏偏奥利就是我们的医生。"
 
 translate schinese Ole_Sick_Quest_c8af6ed5:
 
@@ -5446,37 +5443,37 @@ translate schinese Ole_Sick_Quest_c8af6ed5:
 translate schinese Ole_Sick_Quest_1ffa2c78:
 
     # e "Seb, you need to calm down."
-    e "阿塞，你得冷静下来。"
+    e "冷静下来，阿塞，让我想想。"
 
 translate schinese Ole_Sick_Quest_dadc3abe:
 
     # e "Let me think."
-    e "让我想想。"
+    pass
 
 translate schinese Ole_Sick_Quest_15cfcafa:
 
     # e "Yes. We can go to Haskell. He was once Ole's teacher. I'm sure he can help us!"
-    e "对了！我们可以去找哈斯克尔。他以前是奥利的老师，肯定能帮上忙。"
+    e "对了！我们可以去找哈斯克尔。他是奥利的师傅，肯定能帮上忙！"
 
 translate schinese Ole_Sick_Quest_b0de50cd:
 
     # "Seb claps his hands together."
-    "塞巴斯恍然大悟地拍拍手。"
+    "塞巴斯双手一拍，恍然大悟。"
 
 translate schinese Ole_Sick_Quest_4da77a41:
 
     # s "Roomie, that's a great idea! You should hurry to get Haskell. I'll stay here and watch over O! Come back quickly!"
-    s "好主意室友！你快去找哈斯克尔，我在这看着奥利！快去快回哈！"
+    s "好主意！你快去找哈斯克尔，我在这看着奥利！快去快回哈！"
 
 translate schinese Ole_Sick_Quest_aa31d63c:
 
     # "Seb basically throws you out of the shop."
-    "塞巴斯二话不说把你丢到店外。"
+    "塞巴斯推着你走出当铺，就差没把你扔出去了。"
 
 translate schinese Ole_Sick_Quest_End_17e297d1:
 
     # s "Hey... Why are you still here... buddy?"
-    s "嘿……你咋还在这待着啊老铁？"
+    s "嘿……老铁你怎么还在村里？"
 
 translate schinese Ole_Sick_Quest_End_50afd1d4:
 
@@ -5486,7 +5483,7 @@ translate schinese Ole_Sick_Quest_End_50afd1d4:
 translate schinese Ole_Sick_Quest_End_7dafe5ce:
 
     # s "Hurry! Go ask Haskell what's going on with Ole!"
-    s "搞快点！去问问哈斯克尔奥利是怎么了！"
+    s "快！去问问哈斯克尔奥利到底怎么了！"
 
 translate schinese Ole_Sick_Quest_End_41a98ea0:
 
@@ -5496,77 +5493,78 @@ translate schinese Ole_Sick_Quest_End_41a98ea0:
 translate schinese Ole_Sick_Quest_End_793df68e:
 
     # s "Hey, Roomie... D-did you get.... the... ginger?"
-    s "嘿，室友……你拿到生姜了吗？"
+    s "嘿，好室友……你拿到生姜了吗？"
 
 translate schinese Ole_Sick_Quest_End_97e36106:
 
     # e "Uhm... I still need some of them."
-    e "我还需要再找一些。"
+    e "呃……我还没挖够。"
 
 translate schinese Ole_Sick_Quest_End_812d2914:
 
     # s "Haskell is taking care of Ole inside. Just come back as soon as you found 4 gingers"
-    s "哈斯克尔还在里边照顾奥利呢。等你找到 4 块生姜再回来吧。"
+    s "哈斯克尔正在里边照顾奥利，快挖 4 块生姜回来吧。"
 
 translate schinese Ole_Sick_Quest_End_41a98ea0_1:
 
     # e "Alright!"
-    e "好嘞！"
+    e "我马上去！"
 
 translate schinese Ole_Sick_Quest_End_1772d64f:
 
     # "As you enter the shop with all the required herbs, you see a nervous and slightly dejected Seb posted at the counter."
-    "你带着所有需要的草药走进当铺，看到了瘫在柜台上的塞巴斯，他的脸上流露出紧张而沮丧的神色。"
+    "你带齐所需的药草走进当铺，一进门便看到瘫在柜台上的塞巴斯。"
 
 translate schinese Ole_Sick_Quest_End_ee78536c:
 
     # "Seb brightens up when he sees you."
-    "当他看到你时，那忧郁的神色瞬间舒展开来。"
+    "他抬起头发现是你，那忧心忡忡的神色瞬间舒展开来了。"
 
 translate schinese Ole_Sick_Quest_End_ee534ec1:
 
     # s "Roomie, thank you for getting Haskell here so fast! And for keeping a cool head."
-    s "好室友，谢谢你能保持冷静，这么快把哈斯克尔带过来。"
+    s "我临危不乱的好室友，谢谢你这么快把哈斯克尔叫过来！"
 
 translate schinese Ole_Sick_Quest_End_37ae5b1d:
 
     # e "It's nothing. Seb, why are you out here and not with Ole?"
-    e "没事的。阿塞你怎么没去陪着奥利？"
+    e "这不算什么。你怎么没去陪着奥利？"
 
 translate schinese Ole_Sick_Quest_End_1642423e:
 
     # "Sebas' lips turn down."
-    "塞巴斯微微抿唇。"
+    "塞巴斯微微瘪嘴。"
 
 translate schinese Ole_Sick_Quest_End_1fb0d65c:
 
     # s "Haskell kicked me out because I was distracting him too much with my endless pacing."
-    s "哈斯克尔把我赶出来了，因为我“没完没了地走来走去”，会让他分心。"
+    s "哈斯克尔把我赶出来了……"
+    s "“你到底有完没完，别总在房间里走来走去，烦死了。”他就是这么说的。"
 
 translate schinese Ole_Sick_Quest_End_4268a230:
 
     # s "His words, not mine."
-    s "这是他的原话，可不是我说的。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_97091ca4:
 
     # s "I suppose everyone's a bit stressed."
-    s "我猜大家都有点紧绷着。"
+    s "不过也是，奥利生病了我们谁都着急。"
 
 translate schinese Ole_Sick_Quest_End_26886fe8:
 
     # s "I would like to stay but I didn't want to disturb Haskell if he's here to help O."
-    s "我当然想陪着奥利，但既然哈斯克尔是来帮他的，我也不该打扰。"
+    s "虽然我想陪着奥利，但让哈斯克尔专心医好奥利更重要，我不该打扰他。"
 
 translate schinese Ole_Sick_Quest_End_11396da7:
 
     # "Seb notices the thing you're carrying."
-    "塞巴斯注意到了你带着的东西。"
+    "说着说着，塞巴斯注意到了你手里提着的生姜。"
 
 translate schinese Ole_Sick_Quest_End_56c8f9bc:
 
     # s "Have you gotten everything?"
-    s "你东西都找齐了？"
+    s "哈斯克尔要的材料找齐了？"
 
 translate schinese Ole_Sick_Quest_End_118adec5:
 
@@ -5576,22 +5574,22 @@ translate schinese Ole_Sick_Quest_End_118adec5:
 translate schinese Ole_Sick_Quest_End_ce002bd9:
 
     # s "Good! Roomie, you're amazing as always. Quick. You need to get to Ole's room."
-    s "好诶！我的好室友还是那么靠谱。快快快，你该去奥利的房间了。"
+    s "太棒了！老铁你总是这么靠谱。快去奥利房间找哈斯克尔吧。"
 
 translate schinese Ole_Sick_Quest_End_fb438b6e:
 
     # s "Then, we'll be sure to get O on his feet soon."
-    s "我们肯定很快就能让奥利恢复了。"
+    s "有你们帮忙，奥利肯定很快就能好起来了。"
 
 translate schinese Ole_Sick_Quest_End_8dc6f38f:
 
     # "Seb pushes you along."
-    "塞巴斯推着你往房间走。"
+    "塞巴斯推着你往店面里边走。"
 
 translate schinese Ole_Sick_Quest_End_b8ee0f68:
 
     # s "I'll stay out here to hold the fort, so don't worry."
-    s "我就在这守着，别担心老铁。"
+    s "我就在门外守着，其他事你不用顾虑。"
 
 translate schinese Ole_Sick_Quest_End_6ca5e0d1:
 
@@ -5601,247 +5599,248 @@ translate schinese Ole_Sick_Quest_End_6ca5e0d1:
 translate schinese Ole_Sick_Quest_End_d02f149e:
 
     # "You walk into Ole's room."
-    "你走进了奥利的房间。"
+    "于是你走进了奥利的房间。"
 
 translate schinese Ole_Sick_Quest_End_17e64e5b:
 
     # "Haskell is seated before Ole's bed. Hearing your footsteps, he turns around."
-    "哈斯克尔正坐在奥利的床前。听见你的脚步声，他转过身来。"
+    "哈斯克尔正坐在床前，听见你接近的脚步他转过身。"
 
 translate schinese Ole_Sick_Quest_End_89e21ca3:
 
     # h "Wonderful. You're here."
-    h "好极了，你总算来了。"
+    h "你总算来了。"
 
 translate schinese Ole_Sick_Quest_End_c88c830f:
 
     # "You are gobsmacked because as Haskell stands up and moves away, you notice that Ole is naked in bed."
-    "哈斯克尔起身挪位。你愣住了，因为你注意到奥利正裸着躺在床上。"
+    "老龙不紧不慢地站立并挪到一旁，显现出他身后赤裸的奥利。"
+    "你惊讶得目瞪口呆。"
 
 translate schinese Ole_Sick_Quest_End_d5ff0c08:
 
     # "Haskell follows your gaze and nods with understanding."
-    "哈斯克尔循着你的目光，理解地点了点头。"
+    "哈斯克尔循着你的目光，表现出一副很懂的样子点了点头。"
 
 translate schinese Ole_Sick_Quest_End_c5411806:
 
     # h "Remember my diagnosis? It was correct."
-    h "还记得我的诊断吗？事实证明我的判断没有问题。"
+    h "还记得我说奥利没什么大碍吗？事实证明我果然没错。"
 
 translate schinese Ole_Sick_Quest_End_e13d19e3:
 
     # h "Basically, the hemostatic system in Ole is out of fritz. That's why his body temperature is so low."
-    h "一言以蔽之，奥利的循环系统失常了，这就是他体温如此之低的原因。"
+    h "简而言之，他体温这么低是因为经脉阻痹的缘故。"
 
 translate schinese Ole_Sick_Quest_End_f5cc532e:
 
     # h "But with the herbs that you bring, we should be able to fix a potion that will correct that."
-    h "但有了你带来的草药，我们应该能配制出可以治疗这种症状的药水。"
+    h "但有你挖到的生姜，我们应该能配制出可以治疗这种症状的药水。"
 
 translate schinese Ole_Sick_Quest_End_b423f1ed:
 
     # "Haskell takes the gingers from you. You are still quite in disbelief at what you're seeing."
-    "你把生姜拿给哈斯克尔，依旧难以置信地看着眼前的光景。"
+    "你将生姜交给哈斯克尔，依旧惊愕地看着眼前活色生香的光景。"
 
 translate schinese Ole_Sick_Quest_End_62269e9b:
 
     # h "With regards to Ole's state of undress, it's to ease ventilation of body heat."
-    h "说到为什么奥利没穿衣服，那是为了保证身体热量的流通。"
+    h "我给他先脱了，免得待会他衣服湿透，把出汗出的湿气又吸收回去。"
 
 translate schinese Ole_Sick_Quest_End_ffcea53c:
 
     # "Haskell hands you a towel."
-    "哈斯克尔递给你一条毛巾。"
+    "老龙继而递来一条毛巾。"
 
 translate schinese Ole_Sick_Quest_End_5c67a467:
 
     # h "Here. We do not want any liquid to form on Ole's skin. It'll mess with the heat dissipation."
-    h "拿着，我们要尽量避免奥利的皮肤上汗液的逗留，否则会影响热量的散失。"
+    h "拿着，奥利的体温很快就会高过正常体温。"
 
 translate schinese Ole_Sick_Quest_End_d81d9504:
 
     # "You accept the towel that is slightly damp."
-    "你接过微微湿润的毛巾。"
+    "你接过毛巾，摸起来应该已经湿过水了。"
 
 translate schinese Ole_Sick_Quest_End_afe607a0:
 
     # e "Okay. What should I do then?"
-    e "好的，那我要做些什么？"
+    e "好，还有什么需要我帮忙的吗？"
 
 translate schinese Ole_Sick_Quest_End_827ac564:
 
     # h "You do nothing for now. I will go make the potion and will be back in a minute."
-    h "现在你还不用做什么。我要先制作药水，一会就回来。"
+    h "暂时没有。我去配药水，一会回来。"
 
 translate schinese Ole_Sick_Quest_End_80c1a1d3:
 
     # "Haskell strides out of the room."
-    "哈斯克尔阔步走出房间。"
+    "哈斯克尔说完便阔步走出了房间。"
 
 translate schinese Ole_Sick_Quest_End_4f95c04a:
 
     # "You stand there, not knowing what to do."
-    "你呆站着，四顾茫然。"
+    "你呆呆站着，不知接下来该做什么。"
 
 translate schinese Ole_Sick_Quest_End_dee88147:
 
     # "You wring the towel. There's an unmistakable scent of Ole that wafts off the towel. You believe Haskell has been using it to wipe down Ole's naked body."
-    "你把毛巾拧干。其上所飘出的气味无疑属于奥利，看来哈斯克尔一直在用它擦拭奥利的身体。"
+    "你拧了拧毛巾，毛巾散发出的气味无疑属于奥利，看来哈斯克尔已经用它擦拭过奥利的身体了。"
 
 translate schinese Ole_Sick_Quest_End_5cb6c5ef:
 
     # "Speaking of... Your eyes wander naturally back to the bed."
-    "说到奥利……你的目光自然地转向床上。"
+    "身体……你的目光自然转向床上。"
 
 translate schinese Ole_Sick_Quest_End_e1a0fcca:
 
     # "Ole is normally under a lot of layers, so you have no idea that he is so buff."
-    "奥利平常少有衣不蔽体的时候，所以你还没发现原来他如此健壮。"
+    "奥利平常少有衣不蔽体的时候，所以你一直没发觉原来他这么健壮。"
 
 translate schinese Ole_Sick_Quest_End_9bb681bb:
 
     # "Spikes run along the back of his arm and different from what you imagined, scales do not cover the entirety of his body."
-    "鳞刺在他的手臂外侧排开，鳞片也并非如你所想像那般完全覆盖他的身体。"
+    "蜥蜴族手肘外侧的棘非常特别。而且与你想象的不同，奥利并没有全身都覆盖着鳞片。"
 
 translate schinese Ole_Sick_Quest_End_6e15de91:
 
     # "His pecs and abs are pure muscle."
-    "他诱人的胸肌和腹肌就是例外。"
+    "他相对光滑的胸肌和腹肌就是例外。"
 
 translate schinese Ole_Sick_Quest_End_9835a9eb:
 
     # "You clear you mind and try to focus. Thankfully, at that moment, Haskell strides back in."
-    "你抛去秽念，努力集中注意力。好在哈斯克尔这时走了进来。"
+    "你努力抛去秽念，把心思放回照顾病人上。好在哈斯克尔这时走了进来。"
 
 translate schinese Ole_Sick_Quest_End_02736e9d:
 
     # h "Alright. The potion is done."
-    h "好了，药水完成了。"
+    h "配好了。"
 
 translate schinese Ole_Sick_Quest_End_c8006156:
 
     # "Haskell cradles Ole's head and rather roughly tips a potion down into Ole's mouth."
-    "哈斯克尔托起奥利的头，相当粗鲁地将药水倒入奥利的口中。"
+    "哈斯克尔托起奥利的头，相当粗鲁地将药水直接倒入对方口中。"
 
 translate schinese Ole_Sick_Quest_End_d5453302:
 
     # h "That should do the trick."
-    h "这应该能起作用。"
+    h "药到病除。"
 
 translate schinese Ole_Sick_Quest_End_1ab9c200:
 
     # "He says after the vial is empty."
-    "将药水都喂给奥利后，他说道。"
+    "喂完药水后，哈斯克尔让奥利重新躺下，随后起身面向你。"
 
 translate schinese Ole_Sick_Quest_End_7365f22b:
 
     # "Haskell lays Ole back down and stands up to face you."
-    "哈斯克尔将奥利放回床上，起身面对你。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_f01cf34f:
 
     # h "The hard part's over. With the potion, Ole should be recovering. He'll be active again by tomorrow."
-    h "最难的部分结束了。喝下药水后，奥利应该能够康复。他明天就又会生龙活虎了。"
+    h "最麻烦的部分我已经替你们搞定了，大概明天你的二房东就能完全康复。"
 
 translate schinese Ole_Sick_Quest_End_dbb37b0f:
 
     # e "That's it?"
-    e "就这样吗？"
+    e "奥利没事了？"
 
 translate schinese Ole_Sick_Quest_End_3577faf0:
 
     # h "Yes. Told you it's just a normal disease. You and the lion worry too much."
-    h "没错。早就告诉你只是小病，你和那头狮子担心过头了。"
+    h "当然。早就告诉你只是小病，不知道你和那毛头狮子有什么好着急的。"
 
 translate schinese Ole_Sick_Quest_End_eb6f96f4:
 
     # h "If you don't believe me, see for yourself."
-    h "你不信我的话，自己看看就知道了。"
+    h "要是还不信的话，你自己看。"
 
 translate schinese Ole_Sick_Quest_End_678119d3:
 
     # "Haskell gestures at Ole's face."
-    "哈斯克尔示意我看奥利的脸。"
+    "哈斯克尔指向奥利的脸。"
 
 translate schinese Ole_Sick_Quest_End_dec48d50:
 
     # "You can see colors returning to Ole's cheeks."
-    "你看到奥利的面容重新浮现血色。"
+    "你可以看出奥利的面容又有了血色。"
 
 translate schinese Ole_Sick_Quest_End_0f053794:
 
     # h "If you really want to help, you can help wipe down his body."
-    h "你真的想帮忙的话，可以来帮着给他擦身子。"
+    h "药水祛寒发汗。如果你不想闲着可以帮他擦擦身子，保持体表干燥。"
 
 translate schinese Ole_Sick_Quest_End_a953052a:
 
     # h "The potion will raise the heat of Ole's body and he will perspire."
-    h "药水会升高奥利的体温，他会出不少汗。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_1a056d13:
 
     # h "Use the towel to keep him dry."
-    h "用刚刚的毛巾来让他的皮肤保持干燥。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_63001c02:
 
     # h "I'm much too lazy so I'm off."
-    h "那么，我的任务完成了，该开溜了。"
+    h "那么，这种苦差事就交给你，我先走了。"
 
 translate schinese Ole_Sick_Quest_End_1be2da36:
 
     # "Haskell walks out and disappears like the wind."
-    "哈斯克尔走出房门，像风一样消失的无影无踪。"
+    "哈斯克尔走出房门，像风一样消失得无影无踪。"
 
 translate schinese Ole_Sick_Quest_End_120b8bd1:
 
     # "Seconds later, you hear bouncing footsteps coming down the hall."
-    "过了几秒钟，你听到急促的脚步声从走廊传来。"
+    "不过几秒钟，你听到走廊传来急促的脚步声。"
 
 translate schinese Ole_Sick_Quest_End_145de320:
 
     # "Seb pokes his head through the door."
-    "塞巴斯从门后探出头。"
+    "门后缓缓探出一个狮头。"
 
 translate schinese Ole_Sick_Quest_End_c708a07f:
 
     # s "Roomie, I hear that O is doing better?!"
-    s "室友啊，我听说奥利已经好多了？！"
+    s "老铁，我听哈斯克尔说奥利已经好多啦？！"
 
 translate schinese Ole_Sick_Quest_End_2388c1c6:
 
     # "Seb glances at Ole and lets out a big sigh."
-    "塞巴斯看向奥利，释怀地叹了口气。"
+    "塞巴斯看向奥利，松了一口气。"
 
 translate schinese Ole_Sick_Quest_End_bddc1717:
 
     # s "Yes, our friend does look better than before!"
-    s "确实，我们的奥利朋友看起来好不少了！"
+    s "谢天谢地，奥利真的好多了！"
 
 translate schinese Ole_Sick_Quest_End_dc8ee153:
 
     # s "Right. I ran into Haskell as he left the shop."
-    s "好吧，刚刚哈斯克尔离开咱店的时候我碰到他了。"
+    s "噢对，刚刚哈斯克尔吩咐我们要给奥利擦身子。"
 
 translate schinese Ole_Sick_Quest_End_d5bd6c85:
 
     # s "He told me what we're supposed to do."
-    s "他告诉了我我们该做啥。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_155002f0:
 
     # s "I have to man the counter while the shop is open but I'll take over the shift from you at night."
-    s "营业时间我还得看店，晚上我再和你换班。"
+    s "可惜现在还是营业时间，我得看店，晚上我会尽快来换班的。"
 
 translate schinese Ole_Sick_Quest_End_9d2f2d12:
 
     # e "Alright."
-    e "好的。"
+    e "没问题。"
 
 translate schinese Ole_Sick_Quest_End_5b10bfae:
 
     # s "Haskell might not look like it but he really cares about Ole. I doubt he would have done this for anyone else."
-    s "虽然可能看不出来，但哈斯克尔真的很关心奥利！我很怀疑他会不会为别人这样做。"
+    s "虽然那头老龙看起来好像无所谓的样子，但他其实真的很关心奥利。要是换做别人，他会不会放下茶杯都难说。"
 
 translate schinese Ole_Sick_Quest_End_9bc74079:
 
@@ -5851,272 +5850,273 @@ translate schinese Ole_Sick_Quest_End_9bc74079:
 translate schinese Ole_Sick_Quest_End_24f3beb2:
 
     # "Seb's eyes appear to take in Ole's state of undress for the first time."
-    "塞巴斯的眼神就好像是第一次看见奥利没穿衣服。"
+    "塞巴斯的眼神飘向奥利，就像第一次看见朝夕相处的家人裸体。"
 
 translate schinese Ole_Sick_Quest_End_a4ae8428:
 
     # "He then looks over at you with a cheeky smile."
-    "他随之带着别有用心的笑容看向你。"
+    "他重新看向你，咧出贱贱的笑容。"
 
 translate schinese Ole_Sick_Quest_End_483cee6d:
 
     # s "Roomie, just remember that O is still sick. So don't go pushing his body too much."
-    s "室友，别忘了奥利还病着呢，别捣鼓的太过火哈。"
+    s "别忘记奥利还病着噢，别捣鼓的太过火哈。"
 
 translate schinese Ole_Sick_Quest_End_251c1932:
 
     # "You blush as Seb turns and walks away with a laugh."
-    "看着你羞红的脸，塞巴斯满意地笑着走开了。"
+    "你羞红了脸，塞巴斯哈哈一笑随即离开了房间。"
 
 translate schinese Ole_Sick_Quest_End_040bb385:
 
     # "You sit down on the chair Haskell vacated earlier."
-    "你在哈斯克尔先前坐着的椅子上坐下。"
+    "你走向哈斯克尔先前坐着的椅子轻轻坐下。"
 
 translate schinese Ole_Sick_Quest_End_f598680c:
 
     # "You look down on Ole. You see more of Ole's recovery signs."
-    "你低头看向奥利，不难看出他在慢慢好转。"
+    "你低头看向奥利，他的呼吸规律多了，胸膛均匀地上下起伏。"
 
 translate schinese Ole_Sick_Quest_End_45fcd039:
 
     # "His breathing is more regular, and his chest is rising and falling evenly."
-    "他的呼吸更加规律，胸膛均匀地上下起伏。"
+    "这又是一个病情好转的迹象。"
 
 translate schinese Ole_Sick_Quest_End_b3c2fbcc:
 
     # "This comes as a relief for you."
-    "这让你放下心来。"
+    "于是你放下心来坐定，就这么默默看护着他……"
 
 translate schinese Ole_Sick_Quest_End_3645d750:
 
     # "You sit there for a while..."
-    "你坐了一会儿……"
+    pass
 
 translate schinese Ole_Sick_Quest_End_1c1f3be3:
 
     # "And suddenly Ole groans softly."
-    "突然奥利发出一声微弱的呻吟。"
+    "突然奥利哼出一声微弱的呻吟，摆头躲避窗外直射的阳光。"
 
 translate schinese Ole_Sick_Quest_End_15cca833:
 
     # "He turns his head away from the sun filtering through the window."
-    "他摆头躲避着窗台倾泻的阳光。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_51418208:
 
     # "You can see a sheen of sweat on his forehead."
-    "你能看到他额头上汗液的光泽。"
+    "他的额头开始冒汗，说明药水正在起效。"
 
 translate schinese Ole_Sick_Quest_End_b0a61073:
 
     # "The potion is working."
-    "药物在发挥效用。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_c0880994:
 
     # "You quickly move to wipe away the sweat."
-    "你迅速地把汗擦掉。"
+    "于是你折起毛巾，迅速吸掉多余的水分。"
 
 translate schinese Ole_Sick_Quest_End_3ea4e3b8:
 
     # "Ole responds positively to your touch. He calms down and stops fussing as much."
-    "奥利对你的触碰很是满意，他冷静下来，身体放松。"
+    "擦过汗后奥利放松了下来，不再难受地叫唤。"
 
 translate schinese Ole_Sick_Quest_End_d39f289a:
 
     # "After you sit back down, you notice a bead of sweat sliding down the crevice between Ole's pec."
-    "你刚坐下，又注意到一粒汗珠正顺着奥利胸脯之间的缝隙滑下。"
+    "可你刚坐回椅子，便又有一粒汗珠正顺着奥利胸脯之间的缝隙滑下。"
 
 translate schinese Ole_Sick_Quest_End_84d65944:
 
     # "You swallows nervously as you reach over. You keep reminding yourself that you're only doing a doctor's work."
-    "你紧张地咽下口水，向奥利伸手，心里默念你只是在做医生该做的事情。"
+    "你咽下口水，右手紧张地碰向奥利，心里默念你只是在做照顾病人该做的事情。"
 
 translate schinese Ole_Sick_Quest_End_cc843634:
 
     # "The surface of Ole's pecs are supple and perky. But you can feel the wiry and taut muscles underneath."
-    "奥利的胸膛表面挺拔而柔软，但你能感受到其下肌肉的紧实与力量。"
+    "他挺立的胸肌摸起来特别有弹性，紧实而充满力量。"
 
 translate schinese Ole_Sick_Quest_End_5b5cbdc2:
 
     # "He must have done a lot of training."
-    "他一定是做了很多的锻炼。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_c8c4b8b3:
 
     # "You believe that they must be as hard as steel when Ole flexes them."
-    "不难想象当奥利伸展胸肌的时候他们会多坚硬。"
+    "不难想象这两座雄峰在发力会有多么坚硬，奥利一定经常锻炼。"
 
 translate schinese Ole_Sick_Quest_End_b197fb68:
 
     # "You sheepishly wipe away the sweat."
-    "你有些不好意思地擦掉汗珠。"
+    "你难为情地抹掉了中缝的汗珠，顺势而下朝腹部滑去。"
 
 translate schinese Ole_Sick_Quest_End_a2e11e43:
 
     # "Your hands then move to wipe down Ole's stomach."
-    "你接着擦拭着奥利的腹部。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_52e3bbd1:
 
     # "Even at rest, Ole's abs are well-defined."
-    "即便在放松的情况下，他的腹肌仍旧清晰可见。"
+    "鳞状肤质雕饰出肌肉棱角。即便是在放松时，眼前这八块腹肌照样整齐分明。"
 
 translate schinese Ole_Sick_Quest_End_75cf099a:
 
     # "The scales resting between the creases gives the abs great musculature."
-    "间隙间的鳞片赋予了其无与伦比的肌肉感。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_5913292a:
 
     # "You cannot help but be impressed."
-    "你情不自禁地被这一景象所震撼。"
+    "你情不自禁被迷住了。"
 
 translate schinese Ole_Sick_Quest_End_31585a61:
 
     # "Ole's body tightens at the sensations."
-    "奥利的身体感受到触碰，稍稍紧绷。"
+    "毛巾擦过腰间，冷不丁的刺激使得奥利身体绷紧。"
 
 translate schinese Ole_Sick_Quest_End_19683ce5:
 
     # "His pecs firm up."
-    "他的胸肌硬了些。"
+    "他胸肌隆起，连带一对乳头顺势外凸，腹肌间的沟壑也更加清晰可见。"
 
 translate schinese Ole_Sick_Quest_End_db3edecd:
 
     # "The nipples rise as the muscles get pulled."
-    "随着肌肉的收缩，其上的乳头挺立起来。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_6e4bf35d:
 
     # "The abs become rigid with temporary tension."
-    "他的腹肌也因突然的刺激绷紧。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_4c4a6efd:
 
     # "The sheen of sweat glistens off Ole's torso."
-    "奥利身上的汗珠闪闪发光。"
+    "奥利身上闪着汗珠的亮光，看起来就像一尊精心凿成的石雕。"
 
 translate schinese Ole_Sick_Quest_End_62391257:
 
     # "It looks like a sculpture chiseled in stone."
-    "看起来就像是一尊石雕。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_e72d8727:
 
     # "Soon after, Ole settles."
-    "很快，奥利安静了下来。"
+    "不一会儿，他放松了下来，一切回归平静。"
 
 translate schinese Ole_Sick_Quest_End_84e269ef:
 
     # "Everything relaxes into place."
-    "一切又回归平和。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_f3938895:
 
     # "You took another wipe around Ole's chest."
-    "你再次擦了擦奥利的胸膛。"
+    "你擦回奥利的胸膛。他上半身肉感十足，躺在他的怀里一定很舒服。"
 
 translate schinese Ole_Sick_Quest_End_cf569a42:
 
     # "His bust is bouncy. You know it'd be comfortable to lay in his embrace."
-    "他的上半身相当有弹性，你知道躺在他的怀抱里会很舒服。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_a0475a14:
 
     # "After that, you decide you have to deal with Ole's lower body too."
-    "在那之后，你决定也擦擦奥利的下边。"
+    "之后你决定擦擦奥利的下半身。"
 
 translate schinese Ole_Sick_Quest_End_c820ed7b:
 
     # "You look over and Ole's crotch immediately catches your attention."
-    "你往下看去，立刻被奥利两腿之间的景象吸引住了。"
+    "你往下看去，瞬间被他两腿间的奇特之处吸引住了。"
 
 translate schinese Ole_Sick_Quest_End_b5cc9a28:
 
     # "The skin closes over his crotch and forms a well-defined slit."
-    "在他的胯部，皮肤闭合形成轮廓分明的泄殖缝。"
+    "奥利胯部前端裂开一条缝，形成一个轮廓分明的穴口，这便是蜥蜴族的泄殖腔。"
 
 translate schinese Ole_Sick_Quest_End_e6f3fd7c:
 
     # "The skin around the slit is very soft to the touch."
-    "缝周围的皮肤摸起来十分光滑。"
+    "穴口周围的皮肤摸起来十分光滑。"
 
 translate schinese Ole_Sick_Quest_End_ca220832:
 
     # "You remind yourself that you're only helping."
-    "你提醒自己你只是来帮忙擦汗的。"
+    "你心中不停默念自己只是在帮奥利擦汗。就算有条毛巾挡着，你也能感受出那里比其他地方都要滚烫。"
 
 translate schinese Ole_Sick_Quest_End_8d1c3276:
 
     # "You note that this is the warmest body part you've touched."
-    "你发现这是你所触碰到奥利的身体中最热的部分。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_82b7f7bc:
 
     # "Even though you move as gingerly as you can, you can still feel Ole's endowment underneath."
-    "虽然你已经尽可能地轻柔，但你还是能够感受到奥利缝下的挺立。"
+    "擦着擦着，你摸到有个硬物堵在穴口，越来越大块。"
+    "尽管你的动作已经尽可能轻柔，却还是唤醒了蛰伏其中的性器。"
 
 translate schinese Ole_Sick_Quest_End_095e9f48:
 
     # "The head of the member stops quite near the slit."
-    "他阳具的顶端已经在缝下蠢蠢欲动。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_60c3bbea:
 
     # "You gulp and move the towel to clean up the sweat that has trickled down the sides of the inner thigh."
-    "你咽了咽口水，拿着毛巾擦干净大腿内侧的汗水。"
+    "你咽了咽口水，继续将毛巾蹭向大腿内侧吸走滑落的汗水。"
 
 translate schinese Ole_Sick_Quest_End_faf317df:
 
     # "As you swipe the condensation away, you can feel something throbbing."
-    "你能感受到奥利越发明显的悸动。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_a21a6f68:
 
     # "You believe Ole's crotch has gotten more engorged than before."
-    "显然奥利的下边变得更加‘兴奋’了。"
+    "但这让奥利的下体更加兴奋了，充血的雄根正不断往上顶开穴口。"
 
 translate schinese Ole_Sick_Quest_End_f199ce89:
 
     # "The seams of the slit open up marginally."
-    "泄殖缝已经在被慢慢撑开。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_d69e839b:
 
     # "Seeing this, you quickly pull your hand back."
-    "你见此景赶紧收回手。"
+    "你见状赶紧撤手。奥利生病需要休息，你不能再这样刺激他。"
 
 translate schinese Ole_Sick_Quest_End_0469a82e:
 
     # "You understand that Ole is still a patient and do not require this additional stimulation."
-    "你明白奥利还是病人，不应该再受到此种刺激。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_0f121d59:
 
     # "You sigh and shakes your head."
-    "你叹了口气，摇摇头。"
+    "你长呼一口气摇摇头，劝自己丢掉淫秽的念想。"
 
 translate schinese Ole_Sick_Quest_End_2ae92006:
 
     # "Suddenly, you feel a touch on your wrist."
-    "突然，你感到有人碰了碰你的手腕。"
+    "忽然你感觉有谁抓住了你的手腕。"
 
 translate schinese Ole_Sick_Quest_End_ca741f3b:
 
     # "You turn and see that Ole is looking at your with slightly open eyes."
-    "你转身看到奥利正微张双眼看着你。"
+    "你顺着那只手向右看，奥利正微张双眼注视着你。"
 
 translate schinese Ole_Sick_Quest_End_3dd5f4e2:
 
     # e "Ole! You're awake! Are you feeling better?"
-    e "奥利，你醒了！你感觉还好吗？"
+    e "奥利！你醒了！感觉好些了吗？"
 
 translate schinese Ole_Sick_Quest_End_7bd47cc4:
 
     # "Ole nods and mumbles something weakly."
-    "奥利点点头，虚弱地咕哝着。"
+    "他点点头，虚弱地咕哝着些话。"
 
 translate schinese Ole_Sick_Quest_End_a04891fa:
 
@@ -6126,27 +6126,27 @@ translate schinese Ole_Sick_Quest_End_a04891fa:
 translate schinese Ole_Sick_Quest_End_f5cbc199:
 
     # "You hurry to grab a glass."
-    "你赶紧拿起杯子。"
+    "你赶紧拿起杯子装满水递给他。"
 
 translate schinese Ole_Sick_Quest_End_f386f2ea:
 
     # "Ole consume the water slowly. You take the glass away and Ole sleeps back down."
-    "奥利慢慢喝完了水，你接过杯子，看着他躺回床上。"
+    "奥利勉强抬起头，一小口一小口地慢慢喝完了水，你接过杯子。"
 
 translate schinese Ole_Sick_Quest_End_9a55965c:
 
     # e "Erm, since you're awake, I'll just..."
-    e "呃……既然你都醒了，那我就……"
+    e "呃，既然你醒了，那我……"
 
 translate schinese Ole_Sick_Quest_End_7259820a:
 
     # "You point at the door."
-    "你指了指门。"
+    "你指了指门，但奥利却拉住了你的手腕。"
 
 translate schinese Ole_Sick_Quest_End_54008348:
 
     # "Ole grabs your wrist again."
-    "奥利又抓住你的手腕。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_0e83e95a:
 
@@ -6156,12 +6156,12 @@ translate schinese Ole_Sick_Quest_End_0e83e95a:
 translate schinese Ole_Sick_Quest_End_066f2428:
 
     # "How could you reject that?"
-    "你怎么能拒绝？"
+    "你不能，也不想拒绝这个请求。"
 
 translate schinese Ole_Sick_Quest_End_e4c409e7:
 
     # e "Do you need anything? Anything I can help to make you more comfortable?"
-    e "你需要什么吗？我可以帮忙做什么让你舒服些吗？"
+    e "有什么我可以帮上忙、让你舒服点的吗？"
 
 translate schinese Ole_Sick_Quest_End_e1acd70c:
 
@@ -6171,12 +6171,12 @@ translate schinese Ole_Sick_Quest_End_e1acd70c:
 translate schinese Ole_Sick_Quest_End_b516e8cb:
 
     # o "Actually, I like what you've been doing earlier. It's very comfortable."
-    o "其实，我挺喜欢你刚才对我做的事。很舒服。"
+    o "其实刚刚就很舒服，我很喜欢。"
 
 translate schinese Ole_Sick_Quest_End_e60f274b:
 
     # "You blush immediately."
-    "你马上羞红了脸。"
+    "你脸瞬间烫得像也发烧了似的。"
 
 translate schinese Ole_Sick_Quest_End_b7550d6c:
 
@@ -6191,52 +6191,52 @@ translate schinese Ole_Sick_Quest_End_80946567:
 translate schinese Ole_Sick_Quest_End_95ba58a6:
 
     # "Then, Ole manages a weak chuckle."
-    "奥利轻笑着。"
+    "奥利勉强喝出无力的笑声。"
 
 translate schinese Ole_Sick_Quest_End_1b528b7e:
 
     # "You move the towel back to the slit."
-    "你把毛巾挪回他的缝上。"
+    "于是你将毛巾挪回到穴口上，令他微微皱眉。"
 
 translate schinese Ole_Sick_Quest_End_918ce26c:
 
     # "Ole winces slightly."
-    "奥利微微皱眉。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_e045e2e8:
 
     # e "Are you alright? Maybe we should..."
-    e "你还好吗？我是不是该……"
+    e "我是不是把你弄疼了？要不我们就别……"
 
 translate schinese Ole_Sick_Quest_End_f36d764e:
 
     # o "It's fine. Carry on, kiddo. I'm just sensitive down there."
-    o "没事，继续小兄弟。我只是下边有点敏感。"
+    o "没事，别停小兄弟。只是我下边比较敏感。"
 
 translate schinese Ole_Sick_Quest_End_10e38ad7:
 
     # "You have to agree with Ole. As you massage the area around the slit, Ole's crotch protrudes further and further."
-    "你对此深表同意。当你轻柔地擦拭着缝周围时，奥利的下体越来越突出。"
+    "你十指轻轻揉搓大包两侧，按摩穴口周围的嫩肉。里面的硬块越来越突出，缝也在慢慢张开。"
 
 translate schinese Ole_Sick_Quest_End_2d54c365:
 
     # "Your fingers press along Ole's inner thigh as the slit slowly open."
-    "你顺着奥利的大腿内侧为他按摩，他的缝慢慢张开。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_b96dc280:
 
     # "The dick begins its journey poking through."
-    "他的阳具已经迫不及待地要探出头来。"
+    "很快龟头探了出来，微微颤抖着等不及要开始交配。"
 
 translate schinese Ole_Sick_Quest_End_156f108a:
 
     # "The dickhead peeks out and it is quivering with anticipation."
-    "龟头冒了出来，仿佛在是回应你的期望一般轻微抽动。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_02470499:
 
     # "Perhaps it is the potion kicking up Ole's inner temperature, you swear the temperature rise as Ole's slit pulls back further."
-    "也许是药水的作用，你发誓你确实感受到当奥利的缝进一步张开时，其体温仍在上升。"
+    "奥利的身体摸着明显变烫不少，或许是药水的效果，或许更有情欲的作用。"
 
 translate schinese Ole_Sick_Quest_End_d1c9a1fb:
 
@@ -6246,112 +6246,114 @@ translate schinese Ole_Sick_Quest_End_d1c9a1fb:
 translate schinese Ole_Sick_Quest_End_51b8a17f:
 
     # "All of sudden, Ole moan. You quickly turn to him."
-    "奥利突然呻吟出声，你马上转向他。"
+    "奥利猝然呻吟，你立马甩过头看向他。"
 
 translate schinese Ole_Sick_Quest_End_8d2aa30d:
 
     # e "Are you alright? Should we stop?"
-    e "你没事吗？需要我停下来吗？"
+    e "真的没事吗？我还是停下吧。"
 
 translate schinese Ole_Sick_Quest_End_4d421d68:
 
     # o "No. It's not that..."
-    o "不，我不是那个意思……"
+    o "不，不是你想的那样……"
 
 translate schinese Ole_Sick_Quest_End_242e59ea:
 
     # "Ole's cheeks burn. His voice lowers."
-    "奥利的脸红了起来，压低声音。"
+    "奥利难为情地压低了声音。"
 
 translate schinese Ole_Sick_Quest_End_6a54e207:
 
     # o "Can you help me? I think my cock is stuck. I would normally pull back the slit myself but I'm too weak to reach down."
-    o "你能帮下我吗？我觉得我里边那玩意卡住了。我平常可以自己把缝松开的，但我现在实在没力气。"
+    o "你能帮我把缝扒开吗？我那里有点卡住……出不来。"
+    o "平常我会自己扒，但现在我实在没力气……"
 
 translate schinese Ole_Sick_Quest_End_98a43ff7:
 
     # "Ole's face heats up even more."
-    "奥利的脸烧得更厉害了。"
+    "奥利声音越来越小，脸庞的红晕逐渐向头顶蔓延。"
 
 translate schinese Ole_Sick_Quest_End_79aec3ce:
 
     # "You find this very charming and hot."
-    "你承认这个提议十分诱人。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_2e8a5fe0:
 
     # e "Of course."
     e "当然可以。"
+    "这么色情的请求正合你意。"
 
 translate schinese Ole_Sick_Quest_End_02ee655a:
 
     # "Your fingers pinch the rims of the slit and gently eases them back."
-    "你的手指在缝的两侧用力，轻柔地将它们舒展开来。"
+    "你用指头按住穴口，温柔地向两侧扒拉开，让整根勃起挺出来。"
 
 translate schinese Ole_Sick_Quest_End_773f879b:
 
     # "Without the obstruction, Ole's pole resumes its rise."
-    "没有了阻碍，奥利的下体得以巍然挺立。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_e09934c8:
 
     # "Ole moans with satisfaction."
-    "奥利满意地呻吟。"
+    "压抑的性器有了生长空间，奥利发出舒坦的呻吟。"
 
 translate schinese Ole_Sick_Quest_End_25efea9e:
 
     # "Ole's dickhead is smooth, but the shaft is veiny."
-    "奥利的龟头十分光滑，但肉棒青筋毕露。"
+    "蜥蜴族的龟头十分光滑，茎身则青筋毕露，一路延伸到穴内。"
 
 translate schinese Ole_Sick_Quest_End_862dc477:
 
     # "The veins travel all the way down to end beyond the slit."
-    "血管一路延伸到缝下边。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_517e1f8c:
 
     # e "Let me just wipe it down."
-    e "我把它也擦一擦吧。"
+    e "这里我也擦擦吧。"
 
 translate schinese Ole_Sick_Quest_End_81ebf6d8:
 
     # "You wrap the towel around Ole's cock and massage it."
-    "你用毛巾包住奥利的下体，轻轻揉擦。"
+    "你张开毛巾包住肉棒，轻轻蹭走从泄殖腔内带出来的分泌物。"
 
 translate schinese Ole_Sick_Quest_End_8e068407:
 
     # "Ole's cock responds greatly."
-    "它立刻给予猛烈的回应。"
+    "奥利对这个动作的反应非常大，他的龟头变得潮红，茎身瞬间胀大了一圈。"
 
 translate schinese Ole_Sick_Quest_End_c9cf23ee:
 
     # "The crown turns pinkish and you can feel the cock pumping even though the fabric."
-    "他的龟头变得潮红，即使隔了一层毛巾，你也能感受到其下肉棒的律动。"
+    "即使隔着一层织物，你也能感受到掌心脉搏鼓动。"
 
 translate schinese Ole_Sick_Quest_End_2b396a64:
 
     # "You believe the graininess of the towel provide stimulating sensation."
-    "你猜毛巾粗糙的表面让这样的触碰倍加刺激。"
+    "你猜是因为布料表面比较粗糙，摩擦起来触感才这么强烈。"
 
 translate schinese Ole_Sick_Quest_End_6fb0e96d:
 
     # "To prove your point, Ole's dick started to leak precum."
-    "仿佛是为了印证你的想法，奥利的肉棒开始流出前液。"
+    "仿佛为了印证你的想法，这根肉棒开始冒出爱液。"
 
 translate schinese Ole_Sick_Quest_End_76c39451:
 
     # o "Thankfully, you have a towel ready."
-    o "万幸你已经有毛巾来应付这一情况了。"
+    o "好在你拿了条毛巾，不怕脏。"
 
 translate schinese Ole_Sick_Quest_End_069903f7:
 
     # "Ole jokes with a red face."
-    "奥利红着脸开了个玩笑。"
+    "奥利面红耳赤，对你露出鼓励的微笑。"
 
 translate schinese Ole_Sick_Quest_End_e078fd84:
 
     # "You use the towel to catch the leaking beads of precum."
-    "你用毛巾拭去流出的前液，继续用湿毛巾擦着奥利的勃起。"
+    "你拎起长巾一边吸去滴落的粘液，继续揉搓面前挺拔的性器。"
 
 translate schinese Ole_Sick_Quest_End_9279f03f:
 
@@ -6361,7 +6363,7 @@ translate schinese Ole_Sick_Quest_End_9279f03f:
 translate schinese Ole_Sick_Quest_End_03a9f6a5:
 
     # "Ole's cock bounces and twitches."
-    "奥利的肉棒上下弹跳、抽动着，它急不可耐地等待着释放。"
+    "巨根弹跳抽动，急不可耐地渴求释放。"
 
 translate schinese Ole_Sick_Quest_End_9eda5f4b:
 
@@ -6381,32 +6383,32 @@ translate schinese Ole_Sick_Quest_End_d7bf05f9:
 translate schinese Ole_Sick_Quest_End_d13f2f75:
 
     # "It is sure that Ole doesn't say this often but the words take a long time before they move out of his mouth."
-    o "你能帮我……撸出来吗？我可以自己来，但我现在……有点太过于兴奋了。"
+    o "可以帮我弄出来吗？我本来想自己来的，但你的手法太刺激了，我怕自己不敢下手。"
 
 translate schinese Ole_Sick_Quest_End_ece7d620:
 
     # o "Can you jerk me off? I would do it myself but I'm much too stimulated and too feverish."
-    "显然奥利并不常说这种话，他花了很长时间才说出口。"
+    "奥利花了很长时间才说出口，显然他并不常说这种话。"
 
 translate schinese Ole_Sick_Quest_End_577e4bd1:
 
     # e "Okay."
-    e "没问题。"
+    e "当然可以。"
 
 translate schinese Ole_Sick_Quest_End_ff094af5:
 
     # "You grip the base of Ole's cock with the towel."
-    "你隔着毛巾握住奥利的肉棒。"
+    "你继续用毛巾包住奥利的肉棒，从根部往尖端开始套弄。"
 
 translate schinese Ole_Sick_Quest_End_66f3d295:
 
     # "Then, you run it up along the entire length of Ole's dick."
-    "随后你开始上下撸动。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_d8d939c4:
 
     # "When you reach the top, you use the towel to rub the tip of Ole's crown."
-    "你用毛巾摩擦着他的龟头，后者像是给予你奖赏一般射出一股股浓稠的前液。"
+    "每当到顶你都会故意摩擦龟头，刺激后者挤出一股股浓稠的前液，作为你辛勤劳作的奖赏。"
 
 translate schinese Ole_Sick_Quest_End_95bc16b5:
 
@@ -6421,92 +6423,92 @@ translate schinese Ole_Sick_Quest_End_47b41adc:
 translate schinese Ole_Sick_Quest_End_d946cc53:
 
     # "You work your way back down to Ole's base."
-    "你重新开始探索他勃起的下边。"
+    "照顾完顶上，底下也不能忘。你掀开毛巾向穴内摸索。"
 
 translate schinese Ole_Sick_Quest_End_313fc955:
 
     # "Ole's cock shivers as your hand trails downward."
-    "他的肉棒随着你的触摸而兴奋地颤抖。"
+    "五指越往根部游走，肉棒的颤动便越激烈。"
 
 translate schinese Ole_Sick_Quest_End_0f149ea1:
 
     # "When you press against the open slit, Ole moans softly."
-    "当你按压着打开的缝时，奥利轻哼一声。"
+    "当你压到穴里的嫩肉时，奥利突然淫叫一声。"
 
 translate schinese Ole_Sick_Quest_End_498a6587:
 
     # "You look up and Ole is blushing furiously."
-    "你往上看去，奥利正脸红的厉害。"
+    "你侧头观察奥利的反应，平日一本正经的他此时羞涩极了。"
 
 translate schinese Ole_Sick_Quest_End_6d957eb3:
 
     # "Then, he admits shyly."
-    "他羞耻地承认。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_931a8615:
 
     # o "I'm very sensitive at that spot."
-    o "我、我那里很敏感……"
+    o "我、我那里特别敏感……"
 
 translate schinese Ole_Sick_Quest_End_87521d2e:
 
     # "You immediately know what to do."
-    "你马上就明白了该怎么做。"
+    "他话都说到这份上了，你一下就明白该怎么做。"
 
 translate schinese Ole_Sick_Quest_End_76e3fa2b:
 
     # "Your fingers dig through the edge of the slit."
-    "你的手指顺着缝的边缘向里抠挖。"
+    "性起的泄殖腔相当有韧性，你可以轻松地撑大穴口，把手指插入肉棒与肉壁的夹缝中。"
 
 translate schinese Ole_Sick_Quest_End_8b056448:
 
     # "Ole's slit has gotten quite supple from the stimulation."
-    "奥利的缝在刺激下相当的具有韧性。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_4780939c:
 
     # "Therefore, even with his cock in the way, your fingers wedge through the slit and into Ole's inner cavity."
-    "所以你可以轻松地避过肉棒，把手指插入奥利的腔内。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_2d41423d:
 
     # "You press your fingers on the underside around Ole's slit."
-    "你的手指在奥利的缝下按压着。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_75779d92:
 
     # "Ole moans at the sharp stab of pleasure."
-    "奥利无法抵御这突如其来的快感，不住地呻吟。"
+    "你又抠又挠不断刺激那里的神经丛，惹得奥利无法抵御这触电般的快感，连连呻吟。"
 
 translate schinese Ole_Sick_Quest_End_ea9c675c:
 
     # "His dick jostles about and sends more precum flying."
-    "他的老二弹动着，前液四处飞散。"
+    "巨根血脉喷张，开始痉挛，前液甩向四周拉起了丝。"
 
 translate schinese Ole_Sick_Quest_End_df291769:
 
     # "While you keep one hand massaging Ole's slit, your other begins to pump his dick more violently."
-    "与此同时，你的另一只手开始更为猛烈地撸动。"
+    "你另一只手也没闲下，顺势握上肉棒开始更为猛烈地撸动。"
 
 translate schinese Ole_Sick_Quest_End_4d5dacb1:
 
     # "The double stimulation is sending Ole into ninth heaven."
-    "双重的刺激让奥利欲仙欲死。"
+    "双管齐下的双重刺激让奥利欲仙欲死。"
 
 translate schinese Ole_Sick_Quest_End_e41d56bb:
 
     # "He is sweating openly all over his body and the heat rising off his skin in waves."
-    "他大汗淋漓，浑身散发着一波波的热浪。"
+    "他大汗淋漓，浑身散发着一波波热浪。"
 
 translate schinese Ole_Sick_Quest_End_aa87ce35:
 
     # "The base of Ole's shaft pools with concentration and you know that he is close to ejaculation."
-    "奥利的身体猛地绷紧，你知道他马上就要射了。"
+    "奥利的会阴处开始绷紧，猛烈而规律，你知道他下一秒就要射了。"
 
 translate schinese Ole_Sick_Quest_End_02666d46:
 
     # "You quickly withdraw your hand from inside the slit and grab the towel."
-    "你迅速抽出手，抓住毛巾。"
+    "你迅速抽出穴中的手指，抓起毛巾盖在他的龟头上。"
 
 translate schinese Ole_Sick_Quest_End_e4675a50:
 
@@ -6516,22 +6518,22 @@ translate schinese Ole_Sick_Quest_End_e4675a50:
 translate schinese Ole_Sick_Quest_End_56c26ace:
 
     # "Rocking with spasms, Ole's well-worked cock shoots out hot spunk."
-    "奥利的大肉棒兴奋地抽动，滚烫的精华喷射了出来。"
+    "异族巨根兴奋地抽动，泵出滚烫的精华。"
 
 translate schinese Ole_Sick_Quest_End_757e89e2:
 
     # "You capture it all with the ready towel."
-    "你用毛巾将他的喷发尽数接住。"
+    "你用毛巾尽数接住一连串的喷发，毛巾很快便被这大量的精液浸湿了。"
 
 translate schinese Ole_Sick_Quest_End_4842db99:
 
     # "The towel soon gets wet with the copious amount of cum."
-    "毛巾很快被这大量的精液浸湿。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_854ce2fa:
 
     # "You slowly let the towel soaks up all the cum. Then you walk to the corner and deposit it in the laundry basket."
-    "你慢慢褪下毛巾让精液能被充分吸收，然后走到墙角把它丢到洗衣篓里。"
+    "你等了好一会让毛巾充分吸收仍在冒出的精液，而后才将它丢到墙角的洗衣篓。"
 
 translate schinese Ole_Sick_Quest_End_10443de8:
 
@@ -6541,52 +6543,52 @@ translate schinese Ole_Sick_Quest_End_10443de8:
 translate schinese Ole_Sick_Quest_End_a8286bc3:
 
     # e "That should save you the trouble of cleaning."
-    e "这就省得让你自己处理了。"
+    e "这样就不用麻烦你清理了。"
 
 translate schinese Ole_Sick_Quest_End_3c5ec777:
 
     # "Still gasping for air, Ole look at you through feverish eyes and smiles."
-    "奥利还在喘着粗气，他带着情欲未消的眼神看着你，朝你一笑。"
+    "奥利注视你的眼神依然情欲未消，他喘着粗气，露出满足的笑容。"
 
 translate schinese Ole_Sick_Quest_End_c8c7b17e:
 
     # "Drained, Ole's cock slowly returns to its limp state."
-    "奥利得到释放的肉棒慢慢软了下来。"
+    "激射过后，得到满足的肉棒慢慢软了下来，收回缝中。"
 
 translate schinese Ole_Sick_Quest_End_4981f1db:
 
     # "No longer erect, the edge of the slit starts to reclaim the cock."
-    "不再挺立的老二开始收回缝中。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_d60f1d6b:
 
     # "The length slowly disappears into Ole's cavity. Eventually, the slit closes up again."
-    "其随之完全进消失于奥利的腔内，泄殖缝也重新合上。"
+    "最终完全被吞没进穴内，泄殖腔的开口也重新合上。"
 
 translate schinese Ole_Sick_Quest_End_b5daebaf:
 
     # "By then, Ole had drifted off from the exertion."
-    "奥利也总算从欲望中放松下来。"
+    "席卷而来的疲惫感催使奥利陷入沉睡。"
 
 translate schinese Ole_Sick_Quest_End_7546b0a6:
 
     # "You clean up all the vestiges of the handjob."
-    "你把你的手活痕迹清理干净。"
+    "你起身把手活痕迹都清理干净，又坐回到椅子上。"
 
 translate schinese Ole_Sick_Quest_End_a9922f0c:
 
     # "You return to keep vigil over Ole."
-    "你回头继续守着奥利，他毕竟还是病人。"
+    "接下来的时间里，你静静看护着睡颜安稳的奥利，直到塞巴斯过来和你换班。"
 
 translate schinese Ole_Sick_Quest_End_6b90efd6:
 
     # "You stay there, just watching Ole's peaceful sleeping face until Seb comes to take over from you."
-    "你坐在那儿，静静看着睡得安稳的奥利，直到塞巴斯过来和你换班。"
+    pass
 
 translate schinese Ole_Sick_Quest_End_51ba8fd5:
 
     # "After a worrying and exciting day, you return to your room and immediately slumber."
-    "经历了这忧心忡忡而又令人兴奋的一天，你回到房间，迅速进入了梦乡。"
+    "经历完这令人忐忑又兴奋的一天，你一进自己卧室便扑向枕头，闭上眼睛进入了梦乡。"
 
 translate schinese Ole_After_Sick_Quest_d80a28d2:
 
@@ -6596,12 +6598,12 @@ translate schinese Ole_After_Sick_Quest_d80a28d2:
 translate schinese Ole_After_Sick_Quest_41d55519:
 
     # e "Don't mention it, Ole."
-    e "没事的，奥利。"
+    e "都是朋友，应该的。"
 
 translate schinese Ole_After_Sick_Quest_cd2c52fd:
 
     # o "It's mostly me taking care of others. It's nice to have the roles switched once in a while."
-    o "大多数时候都是我照顾别人，不过有时角色互换一下也不错。"
+    o "大多数时候都是我照顾别人，偶尔互换一下角色也不错。"
 
 translate schinese Ole_After_Sick_Quest_21e2407d:
 
@@ -6611,42 +6613,42 @@ translate schinese Ole_After_Sick_Quest_21e2407d:
 translate schinese Ole_After_Sick_Quest_9ba9180d:
 
     # o "Also about the other thing..."
-    o "关于我们做的那件事……"
+    e "你那天躺在床上，我……"
 
 translate schinese Ole_After_Sick_Quest_27abb94f:
 
     # "Ole's cheeks reddens as he looks into the clear bottle he's holding and scrubbing."
-    "奥利眼神没离开手中他擦干净的瓶子，脸却红了起来。"
+    "奥利涨红了脸，低头盯着手中擦得透亮的瓶子。"
 
 translate schinese Ole_After_Sick_Quest_bd359c1f:
 
     # e "I'm sorry if I was out of line."
-    e "如果我越界了，我得道歉。"
+    e "如果我越界了，我向你道歉。"
 
 translate schinese Ole_After_Sick_Quest_56424fcb:
 
     # o "It's not that. Don't think that."
-    o "并不是那样。别想多了小兄弟。"
+    o "没有没有，别想太多小兄弟。"
 
 translate schinese Ole_After_Sick_Quest_dd01d0c0:
 
     # o "It's just... I'm not very experienced in these things."
-    o "只是……我对这种事没什么经验。"
+    o "只是……我没和几个人做过这种事。"
 
 translate schinese Ole_After_Sick_Quest_f6165a80:
 
     # o "You're one of the few I've done that with."
-    o "你是少数几个和我这样做过的人。"
+    pass
 
 translate schinese Ole_After_Sick_Quest_a5d15480:
 
     # "Ole rubs on that one spot for so long that you swear it cannot be cleaner."
-    "仿佛是为了掩饰尴尬，奥利不停地擦着同一个地方。你发誓那儿已经不能更干净了。"
+    "奥利不停擦着同一块地方，而那里已经干净得不能更干净了。"
 
 translate schinese Ole_After_Sick_Quest_696a0e7e:
 
     # o "But I'm glad that it happened."
-    o "不过我很高兴咱们做了。"
+    o "但很高兴这次和你做了……"
 
 translate schinese Ole_After_Sick_Quest_9e280f00:
 

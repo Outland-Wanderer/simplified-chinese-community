@@ -2818,22 +2818,22 @@ translate schinese Haskell_First_Meet_3934b3e4_1:
 translate schinese Haskell_Sick_Quest_ebcc1dc8:
 
     # e "Haskell, Ole needs your help!"
-    e "哈斯克尔，奥利需要你的帮助！"
+    e "我很好，但奥利出事了！"
 
 translate schinese Haskell_Sick_Quest_ee5b36cb:
 
     # "Haskell rises up, more perturbed than you've ever seen him."
-    "哈斯克尔听罢起身，脸上流露出你从未见过的担忧神色。"
+    "哈斯克尔肃然起身，你从未见过他脸上流露出这种担忧的神色。"
 
 translate schinese Haskell_Sick_Quest_2602876f:
 
     # h "Courier, what do you mean? What's wrong with Ole?"
-    h "[e]，你这是什么意思？奥利怎么了？"
+    h "什么意思？奥利怎么了？"
 
 translate schinese Haskell_Sick_Quest_8b158ea4:
 
     # e "We don't know. Ole is currently at the shop and his body is extremely cold."
-    e "我们也不知道。奥利现在在当铺里，身体冰凉。"
+    e "我和阿塞也不知道。奥利现在身体冷冰冰的，躺在床上怎么都叫不醒。"
 
 translate schinese Haskell_Sick_Quest_f047ac30:
 
@@ -2843,17 +2843,18 @@ translate schinese Haskell_Sick_Quest_f047ac30:
 translate schinese Haskell_Sick_Quest_fe417631:
 
     # "Haskell stops you from rambling on."
-    "哈斯克尔阻止了你继续长篇大论。"
+    pass
 
 translate schinese Haskell_Sick_Quest_91b5618e:
 
     # h "I think I've heard enough to reach a diagnosis."
-    h "现在足以做出判断了。"
+    h "够了，我知道了。"
+    "哈斯克尔阻止你继续长篇大论。"
 
 translate schinese Haskell_Sick_Quest_9dcc70eb:
 
     # h "I believe our friend is suffering from an immuno-weakening disease."
-    h "我认为我们的朋友是患了免疫衰弱病。"
+    h "奥利得的是免疫衰弱症。"
 
 translate schinese Haskell_Sick_Quest_330279ed:
 
@@ -2863,7 +2864,7 @@ translate schinese Haskell_Sick_Quest_330279ed:
 translate schinese Haskell_Sick_Quest_528165a2:
 
     # h "I'm too lazy to explain it to you but what you need to know is that this is not a serious illness and it can be easily cured."
-    h "我才懒得给你解释，你只要知道这不是啥大病就好。"
+    h "我懒得解释，你只要知道这不是什么大病就好。"
 
 translate schinese Haskell_Sick_Quest_4b0fef11:
 
@@ -2873,32 +2874,32 @@ translate schinese Haskell_Sick_Quest_4b0fef11:
 translate schinese Haskell_Sick_Quest_f8ac9ed4:
 
     # e "Can you cure Ole then?"
-    e "那你能治好奥利咯？"
+    e "所以你能治好奥利？"
 
 translate schinese Haskell_Sick_Quest_0090a1cb:
 
     # h "Of course. However, I need your help."
-    h "那可不。不过我需要你帮个忙。"
+    h "当然。不过我需要你帮个忙。"
 
 translate schinese Haskell_Sick_Quest_ccc1cf70:
 
     # e "Anything you need."
-    e "悉听尊便。"
+    e "我一定帮。"
 
 translate schinese Haskell_Sick_Quest_c3f1367d:
 
     # h "To brew a potion to help Ole, I need you to gather 4 pieces of gingers. It's quite easy. You should be able to dig them up in the clearing outside my hut."
-    h "要熬出能治好奥利的药水，你得带 4 块生姜给我。很简单的，你在我屋外的空地就能挖到。"
+    h "我需要你挖 4 块生姜来熬药。在我屋外的空地就能挖到，非常简单。"
 
 translate schinese Haskell_Sick_Quest_da65adb3:
 
     # h "In the mean time, I'll go to the shop to monitor Ole's condition."
-    h "在这期间我就去当铺看看奥利的状况。"
+    h "现在我先去当铺看看奥利的状况。待会你挖够生姜了直接过来当铺就好，其他药材我会在那边备好。"
 
 translate schinese Haskell_Sick_Quest_f924b705:
 
     # h "I already have other herbs on my ends, so when you've gathered enough ingredients, get back to the shop."
-    h "我手头已经有其他的草药了，所以你找齐材料直接过来当铺就好。"
+    pass
 
 translate schinese Haskell_Sick_Quest_e206f31b:
 
@@ -3018,52 +3019,52 @@ translate schinese Haskell_After_Sick_Quest_1ddad8d8:
 translate schinese Haskell_After_Sick_Quest_c9d9dddd:
 
     # e "Yes. Thank you for your help, Haskell."
-    e "是的。感谢你的帮助，哈斯克尔。"
+    e "是啊，多亏有你帮忙。"
 
 translate schinese Haskell_After_Sick_Quest_7595cf51:
 
     # h "It was convenient and you did most of the work."
-    h "小事一桩。毕竟大部分事情都是你在做。"
+    h "没什么，小事一桩，而且粗活都是你在做。"
 
 translate schinese Haskell_After_Sick_Quest_5997275a:
 
     # h "If it involved more tasks on my part, I wouldn't have bothered."
-    h "如果我的任务再重一些我才不会掺和。"
+    h "假如再麻烦一点点，我必不可能出手。"
 
 translate schinese Haskell_After_Sick_Quest_c88b46d3:
 
     # "That was what Haskell said but you remembered how nervous he was when you first mentioned Ole was ill."
-    "哈斯克尔说是这么说，但是你还记得你一开始告诉他奥利病了的时候他有多紧张。"
+    "哈斯克尔说是这么说，可你还记得一开始告诉他奥利病了的时候他有多紧张。"
 
 translate schinese Haskell_After_Sick_Quest_356a55a7:
 
     # "However, you do not feel the need to argue with Haskell about that."
-    "不过，你知道你无需揭穿他。"
+    "但你并不会去揭穿他，因为每个人都有自己表达关心的方式。"
 
 translate schinese Haskell_After_Sick_Quest_ef9cce7c:
 
     # "Everyone has their own way of showing concern."
-    "每个人都有着自己表达关心的方式。"
+    pass
 
 translate schinese Haskell_After_Sick_Quest_4f9c303f:
 
     # e "Either way, thank you Haskell."
-    e "不管怎样，还是谢谢你啦哈斯克尔。"
+    e "无论怎样，还是谢谢你啦。"
 
 translate schinese Haskell_After_Sick_Quest_a51e49ae:
 
     # h "Well don't come screaming for help when this happens again."
-    h "下次过来求助的时候记得别像这样大呼小叫的。"
+    h "下次请我帮忙的时候，别大呼小叫搞得好像世界末日一样。"
 
 translate schinese Haskell_After_Sick_Quest_5b534dab:
 
     # h "I'm not as free as Ole, going around offering help."
-    h "我可不像奥利那么悠闲，到处给人帮忙。"
+    h "我可不像奥利那么悠闲，当老好人到处帮忙。"
 
 translate schinese Haskell_After_Sick_Quest_fc0fb835:
 
     # h "Next time, I'll just offer you some tea and call it a day."
-    h "如果你再来找我，我能帮你的可能仅限于给你倒杯茶。"
+    h "否则我最多给你沏上一杯茶，就这样。"
 
 # translate schinese Haskell_Trinket_Quest_50b0fd68:
 
