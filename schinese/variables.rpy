@@ -1083,49 +1083,58 @@ translate schinese strings:
     old "In order to train with Lothar, I need to fight against the strong dummy."
     new "要想洛萨尔亲自教导我，就得先打败强化过的人偶。"
 
-    # old "Logger and Scout"
+    # old "Logger and Scout" #13
     # new "伐木工与侦察员"
 
     # old "Lothar has given me another set of training to prove myself. I have to learn from the work of Amble and Jog."
     # new "洛萨尔又让我去找别人训练来证明我自己。我得向安布和乔格请教他们的工作。"
 
-    # old "The Minotaur Riddle"
+    # old "The Minotaur Riddle" #14
     # new "弥诺陶洛斯之谜"
 
     # old "As a client's request, Haskell wanted me to explore the underground dungeon to extract a minotaur's essence."
     # new "哈斯克尔应客户请托，想让我探索地下宫殿并取得一份弥诺陶洛斯的精华。"
 
-    # old "Sick Leave"
-    # new "病假"
+    old "Sick Leave" #15
+    new "病假"
 
-    # old "Ole has gotten sick, I need to ask Haskell and gather some materials to tend to his illness..."
-    # new "奥利生病了，我得赶紧问问哈斯克尔要怎么办，并收集一些药草帮忙照顾他……"
+    old "Ole has gotten sick, I need to ask Haskell and gather some materials to tend to his illness..."
+    new "奥利生病了，我得赶紧问问哈斯克尔要怎么办，并收集一些药草帮忙照顾他……"
 
-    # old "Courier Training...?"
+    old "Visit Haskell"
+    new "求助哈斯克尔"
+
+    old "Gather 4 Gingers"
+    new "收集 4 块生姜"
+
+    old "Report to Ole"
+    new "探望奥利"
+
+    # old "Courier Training...?" #16
     # new "新邮递员特训……？"
 
     # old "Ole and Sebas asked me to... pick up some stone? I should return once I get enough of them. Whatever the number is..."
     # new "奥利和塞巴斯又让我去捡些……石头？管他要多少个，我尽管拿回来就是了……"
 
-    # old "Strength and Disguise"
+    # old "Strength and Disguise" #17
     # new "劲与蔽"
 
     # old "Ole told me to train with Amble and Jog, I might need to ask Lothar first about this..."
     # new "奥利想让我和安布、乔格一起训练，我可能要先取得洛萨尔的同意……"
 
-    # old "Fluff and Tuff"
+    # old "Fluff and Tuff" #18
     # new "人前人后俩个样"
 
     # old "Cane asked me if I want to further my relationship with my patrons. He asked me to prepare... 2 pillows for the private room."
     # new "凯恩问我想不想和顾客的互动再深入一些。如果想的话，就准备 2 个枕头来……布置包间。"
 
-    # old "Seasons of Blossom"
+    # old "Seasons of Blossom" #19
     # new "又到一年花开时"
 
     # old "Rahim asked me to bring 4 bunches of chrysanthemums for him. I should look around the outpost."
     # new "雷希姆想让我采 4 束菊花给他。我得去林地前哨站附近找找。"
 
-    # old "The Wolf at the Door"
+    # old "The Wolf at the Door" #20
     # new "门外有狼"
 
     # old "Lothar found a magical stone from the caravan, perhaps there's something to it."
