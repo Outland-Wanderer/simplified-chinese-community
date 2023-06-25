@@ -14,6 +14,9 @@ translate schinese python:
         gui.text_size = 48
         gui.name_text_size = 42
 
+translate schinese style _default:
+    font "SourceHanSansSC-Regular.otf"
+
 translate schinese style ruby_style is default:
     size 24
     yoffset -32
