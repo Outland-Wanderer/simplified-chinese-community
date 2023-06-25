@@ -31,14 +31,6 @@
 详见 [CONTRIBUTING.md](CONTRIBUTING.md)
 
 
-## 字体使用
-
-[文鼎ＰＬ简中楷、文鼎ＰＬ中楷](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
-
-[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)
-
-[千图雪花体](https://www.58pic.com/index.php?m=qtwFontPage)
-
 ## 译者名单
 
 逆戟鲸
