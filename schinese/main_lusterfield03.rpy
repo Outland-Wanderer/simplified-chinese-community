@@ -422,17 +422,17 @@ translate schinese Jog_Lothar_Training_32aa90e9:
 translate schinese Jog_Lothar_Training_7f14f4ef:
 
     # j "Well, you have no idea how many perks you'll get by just staying hidden."
-    j ""
+    j "哼哼，你可想象不到躲在暗处能蹲到多少福利。"
 
 translate schinese Jog_Lothar_Training_7ba49542:
 
     # j "Let's just say Lusterfield lives up to the Lust in its name."
-    j ""
+    j "毕竟咱乐斯民菲尔德村，乐就乐在淫乐。"
 
 translate schinese Jog_Lothar_Training_0bfa5f0f:
 
     # j "Stuff sometimes get left behind after sex."
-    j ""
+    j "有时村里人翻云覆雨过后，还会留下些好东西。"
 
 translate schinese Jog_Lothar_Training_4707b364:
 
@@ -4224,320 +4224,322 @@ translate schinese Jog_Dialogue_End_a933d18f:
     # j "Yeah, well. 'Stay sharp, my disciple', heh."
     j "没事，“注意安全小徒弟”，哈哈。"
 
-# translate schinese Jog_Amble_Outfit_01_51a554e3:
+translate schinese Jog_Amble_Outfit_01_51a554e3:
 
-#     # "You find Jog and Amble together."
-#     ""
+    # "You find Jog and Amble together."
+    "你看到安布恰好也在旁边，他朝你挥挥手问好。"
 
-# translate schinese Jog_Amble_Outfit_01_91452208:
+translate schinese Jog_Amble_Outfit_01_91452208:
 
-#     # "Both of them spot you. Jog nods to acknowledge your presence. Amble waves and greets you."
-#     ""
+    # "Both of them spot you. Jog nods to acknowledge your presence. Amble waves and greets you."
+    pass
 
-# translate schinese Jog_Amble_Outfit_01_19e2fd3e:
+translate schinese Jog_Amble_Outfit_01_19e2fd3e:
 
-#     # a "Hey. It's Lot's follower. What are you doing here today and what is it that you're wearing?"
-#     a ""
+    # a "Hey. It's Lot's follower. What are you doing here today and what is it that you're wearing?"
+    a "嗨，洛哥的小徒弟。什么风把你吹来啦，还有你今天穿的是什么？"
 
-# translate schinese Jog_Amble_Outfit_01_ec0ac84a:
+translate schinese Jog_Amble_Outfit_01_ec0ac84a:
 
-#     # "you felt two pair of eyes scanning your body."
-#     ""
+    # "you felt two pair of eyes scanning your body."
+    "你顿时发觉他俩的视线正虎视眈眈地扫遍你全身。"
 
-# translate schinese Jog_Amble_Outfit_01_0533eebe:
+translate schinese Jog_Amble_Outfit_01_0533eebe:
 
-#     # e "This is an adventurer's outfit made by Rahim. I'm here to get your opinions on it."
-#     e ""
+    # e "This is an adventurer's outfit made by Rahim. I'm here to get your opinions on it."
+    e "这是雷叔做的探险家套装，我来就是想问问你们的评价。"
 
-# translate schinese Jog_Amble_Outfit_01_5fe6030f:
+translate schinese Jog_Amble_Outfit_01_5fe6030f:
 
-#     # j "master Rahim made that for you? It looks like you're not just Lot's favorite."
-#     j ""
+    # j "master Rahim made that for you? It looks like you're not just Lot's favorite."
+    j "雷希姆大师专门给你定制的？看来宝贝你的不只有洛哥一个人。"
 
-# translate schinese Jog_Amble_Outfit_01_72524946:
+translate schinese Jog_Amble_Outfit_01_72524946:
 
-#     # e "This is just a job. So what do you think of the outfit?"
-#     e ""
+    # e "This is just a job. So what do you think of the outfit?"
+    e "怎么可能，他只是雇我做模特而已。所以，你们觉得呢？"
 
-# translate schinese Jog_Amble_Outfit_01_471003e9:
+translate schinese Jog_Amble_Outfit_01_471003e9:
 
-#     # a "I think it's great."
-#     a ""
+    # a "I think it's great."
+    a "我觉得非常棒。"
 
-# translate schinese Jog_Amble_Outfit_01_ca992bed:
+translate schinese Jog_Amble_Outfit_01_ca992bed:
 
-#     # j "I agree."
-#     j ""
+    # j "I agree."
+    j "同感。"
 
-# translate schinese Jog_Amble_Outfit_01_3b63f3ef:
+translate schinese Jog_Amble_Outfit_01_3b63f3ef:
 
-#     # a "It shows off all your assets."
-#     a ""
+    # a "It shows off all your assets."
+    a "这套设计把你该凸显的地方都凸显了。"
 
-# translate schinese Jog_Amble_Outfit_01_e2e7b8fc:
+translate schinese Jog_Amble_Outfit_01_e2e7b8fc:
 
-#     # j "Nice assets you're sporting, by the way."
-#     j ""
+    # j "Nice assets you're sporting, by the way."
+    j "不得不说真养眼啊。"
 
-# translate schinese Jog_Amble_Outfit_01_d9801d53:
+translate schinese Jog_Amble_Outfit_01_d9801d53:
 
-#     # a "The straps can be used in first-aid emergency healing."
-#     a ""
+    # a "The straps can be used in first-aid emergency healing."
+    a "束带可以用来加压止血，考虑得很周到。"
 
-# translate schinese Jog_Amble_Outfit_01_b7544f1f:
+translate schinese Jog_Amble_Outfit_01_b7544f1f:
 
-#     # j "Or to strap someone down, if you catch my drift."
-#     j ""
+    # j "Or to strap someone down, if you catch my drift."
+    j "或者用来擒敌，把他五花大绑，然后你懂的。"
 
-# translate schinese Jog_Amble_Outfit_01_c6f7b61f:
+translate schinese Jog_Amble_Outfit_01_c6f7b61f:
 
-#     # a "Could do without the undershirt though."
-#     a ""
+    # a "Could do without the undershirt though."
+    a "你上身可以就像现在这样，不穿打底的东西。"
 
-# translate schinese Jog_Amble_Outfit_01_2cc9d4bc:
+translate schinese Jog_Amble_Outfit_01_2cc9d4bc:
 
-#     # j "100 percent."
-#     j ""
+    # j "100 percent."
+    j "完全可以。"
 
-# translate schinese Jog_Amble_Outfit_01_cd723d4d:
+translate schinese Jog_Amble_Outfit_01_cd723d4d:
 
-#     # e "I will relay your feedback to rahim."
-#     e ""
+    # e "I will relay your feedback to rahim."
+    e "好，我会把你们的看法反馈给雷叔，谢啦。"
 
-# translate schinese Jog_Amble_Outfit_01_ff516529:
+translate schinese Jog_Amble_Outfit_01_ff516529:
 
-#     # "Jog and Amble nod. You look at them and something comes to mind."
-#     ""
+    # "Jog and Amble nod. You look at them and something comes to mind."
+    "两人默契地同时点头。你看着他们，突然想起一件事。"
 
-# translate schinese Jog_Amble_Outfit_01_c548d0da:
+translate schinese Jog_Amble_Outfit_01_c548d0da:
 
-#     # e "While we're on this topic, can I ask a question?"
-#     e ""
+    # e "While we're on this topic, can I ask a question?"
+    e "既然聊到衣服，我能问你们个问题吗？"
 
-# translate schinese Jog_Amble_Outfit_01_3ea0102f:
+translate schinese Jog_Amble_Outfit_01_3ea0102f:
 
-#     # a "Go ahead."
-#     a ""
+    # a "Go ahead."
+    a "说呗。"
 
-# translate schinese Jog_Amble_Outfit_01_8846c244:
+translate schinese Jog_Amble_Outfit_01_8846c244:
 
-#     # e "Why are you dressed so minimally as adventurers?"
-#     e ""
+    # e "Why are you dressed so minimally as adventurers?"
+    e "你们为什么穿得这么少？野外不是非常危险吗？"
 
-# translate schinese Jog_Amble_Outfit_01_15174b43:
+translate schinese Jog_Amble_Outfit_01_15174b43:
 
-#     # "The two seems surprised by your questions."
-#     ""
+    # "The two seems surprised by your questions."
+    "安布和乔格面面相觑，似乎对你提的问题十分惊讶。"
 
-# translate schinese Jog_Amble_Outfit_01_a7a353c5:
+translate schinese Jog_Amble_Outfit_01_a7a353c5:
 
-#     # a "Of course, it's for intimidation. Normally I would have won half the battle when the enemy sees a giant bulk of muscles stomping towards them."
-#     a ""
+    # a "Of course, it's for intimidation. Normally I would have won half the battle when the enemy sees a giant bulk of muscles stomping towards them."
+    a "野外确实非常危险，所以才要特地秀出大块头吓跑那些野怪。他们看到一尊肌肉巨人站在那自然不敢靠近。"
+    a "可以说一半的战斗我都能兵不血刃，光靠气势就能打败对方。"
 
-# translate schinese Jog_Amble_Outfit_01_7dca3914:
+translate schinese Jog_Amble_Outfit_01_7dca3914:
 
-#     # "Amble flexes his muscles."
-#     ""
+    # "Amble flexes his muscles."
+    "安布边说边摆出了健美姿势。"
 
-# translate schinese Jog_Amble_Outfit_01_3e32b0c9:
+translate schinese Jog_Amble_Outfit_01_3e32b0c9:
 
-#     # j "It's for agility and flexibility. Less of a chance to get hooked on stuff. Plus, it cuts down the time to get to the fun time of any battle."
-#     j ""
+    # j "It's for agility and flexibility. Less of a chance to get hooked on stuff. Plus, it cuts down the time to get to the fun time of any battle."
+    j "穿得少还能提高你的机动能力，在树丛里穿梭不容易被树枝钩住衣服。"
+    j "而且，真到要和敌人干柴烈火的时候再脱衣服很麻烦不是吗？"
 
-# translate schinese Jog_Amble_Outfit_01_3e05971e:
+translate schinese Jog_Amble_Outfit_01_3e05971e:
 
-#     # "Jog grins at you invitingly."
-#     ""
+    # "Jog grins at you invitingly."
+    "乔格又展露出了那种勾引人的邪恶笑容。"
 
-# translate schinese Jog_Amble_Outfit_01_406fe208:
+translate schinese Jog_Amble_Outfit_01_406fe208:
 
-#     # j "You should try it and see where it gets you."
-#     j ""
+    # j "You should try it and see where it gets you."
+    j "至于其他好处，只有你自己试过才知道。"
 
-# translate schinese Jog_Amble_Outfit_01_cf292d90:
+translate schinese Jog_Amble_Outfit_01_cf292d90:
 
-#     # "you swallows nervously."
-#     ""
+    # "you swallows nervously."
+    "你紧张地咽了咽口水。"
 
-# translate schinese Jog_Amble_Outfit_01_700dc167:
+translate schinese Jog_Amble_Outfit_01_700dc167:
 
-#     # e "Alright. Thanks for the feedback."
-#     e ""
+    # e "Alright. Thanks for the feedback."
+    e "啊哈哈……谢谢你们的反馈。"
 
-# translate schinese Jog_Amble_Outfit_03_51a554e3:
+translate schinese Jog_Amble_Outfit_03_51a554e3:
 
-#     # "You find Jog and Amble together."
-#     ""
+    # "You find Jog and Amble together."
+    pass
 
-# translate schinese Jog_Amble_Outfit_03_91452208:
+translate schinese Jog_Amble_Outfit_03_91452208:
 
-#     # "Both of them spot you. Jog nods to acknowledge your presence. Amble waves and greets you."
-#     ""
+    # "Both of them spot you. Jog nods to acknowledge your presence. Amble waves and greets you."
+    "乔格和安布一同凑了过来。"
 
-# translate schinese Jog_Amble_Outfit_03_be96019e:
+translate schinese Jog_Amble_Outfit_03_be96019e:
 
-#     # a "That is a cute outfit but definitely not suitable for combat. You'll most likely trip on yourself."
-#     a ""
+    # a "That is a cute outfit but definitely not suitable for combat. You'll most likely trip on yourself."
+    a "好可爱哟，不过你可千万别穿这套去野外，太容易绊倒自己了。"
 
-# translate schinese Jog_Amble_Outfit_03_c19be9cb:
+translate schinese Jog_Amble_Outfit_03_c19be9cb:
 
-#     # j "Another ingenius way to submit yourself to the opponent."
-#     j ""
+    # j "Another ingenius way to submit yourself to the opponent."
+    j "又一个绝顶弱智的白给方式。"
 
-# translate schinese Jog_Amble_Outfit_03_f89941c7:
+translate schinese Jog_Amble_Outfit_03_f89941c7:
 
-#     # a "But it's cute for wearing around town. It makes me want to wrap you up and take you home."
-#     a ""
+    # a "But it's cute for wearing around town. It makes me want to wrap you up and take you home."
+    a "但只在村里穿就没事。哎呀，真是越看越可爱，我可以抱你回家吗？"
 
-# translate schinese Jog_Amble_Outfit_03_109288fb:
+translate schinese Jog_Amble_Outfit_03_109288fb:
 
-#     # j "Yes. You're tied up with a knot. Makes me want to open you up like a present."
-#     j ""
+    # j "Yes. You're tied up with a knot. Makes me want to open you up like a present."
+    j "长袍系在你身上好像绑礼盒的丝带，搞得我现在就想把你当礼物拆光光。"
 
-# translate schinese Jog_Amble_Outfit_03_191343ce:
+translate schinese Jog_Amble_Outfit_03_191343ce:
 
-#     # e "Hmm... Alright- alright... I get it. Thank you!"
-#     e ""
+    # e "Hmm... Alright- alright... I get it. Thank you!"
+    e "呃……好啦好啦……我知道了。谢谢你们的意见！"
 
-# translate schinese Jog_Amble_Outfit_02_b05d5fac:
+translate schinese Jog_Amble_Outfit_02_b05d5fac:
 
-#     # "Once you walk up to the shooting range, both Jog and Amble come up to you."
-#     ""
+    # "Once you walk up to the shooting range, both Jog and Amble come up to you."
+    "乔格边打招呼边紧盯你，眼神越来越馋，旁边的安布也兴奋得跑了过来。"
 
-# translate schinese Jog_Amble_Outfit_02_f4c74ba3:
+translate schinese Jog_Amble_Outfit_02_f4c74ba3:
 
-#     # e "Hey, guys. This..."
-#     e ""
+    # e "Hey, guys. This..."
+    e "嗨，这套是……"
 
-# translate schinese Jog_Amble_Outfit_02_cf022a63:
+translate schinese Jog_Amble_Outfit_02_cf022a63:
 
-#     # "Before you can start explaining, they have started to examine your outfit."
-#     ""
+    # "Before you can start explaining, they have started to examine your outfit."
+    "你还没来得及解释，他们便早已自觉上手“评测”这身打扮。"
 
-# translate schinese Jog_Amble_Outfit_02_a647213c:
+translate schinese Jog_Amble_Outfit_02_a647213c:
 
-#     # "Their pats around your thighs and crotch turn you on slightly."
-#     ""
+    # "Their pats around your thighs and crotch turn you on slightly."
+    "四只爪子交替抚摸、拍打着大腿根，不时滑过私处周围令你微微性起。"
 
-# translate schinese Jog_Amble_Outfit_02_82cad102:
+translate schinese Jog_Amble_Outfit_02_82cad102:
 
-#     # "You wish you could hide the boner you're starting to have, but the outfit makes it impossible."
-#     ""
+    # "You wish you could hide the boner you're starting to have, but the outfit makes it impossible."
+    "再这么下去你知道自己一定会硬，而这条开裆裤可藏不住即将支起的小帐篷。"
 
-# translate schinese Jog_Amble_Outfit_02_3b4a2baf:
+translate schinese Jog_Amble_Outfit_02_3b4a2baf:
 
-#     # e "Guys, stop."
-#     e ""
+    # e "Guys, stop."
+    e "伙计们，别闹了。"
 
-# translate schinese Jog_Amble_Outfit_02_54d2fbed:
+translate schinese Jog_Amble_Outfit_02_54d2fbed:
 
-#     # e "Guys... stop."
-#     e ""
+    # e "Guys... stop."
+    e "别闹了……停下。"
 
-# translate schinese Jog_Amble_Outfit_02_bb15fe1e:
+translate schinese Jog_Amble_Outfit_02_bb15fe1e:
 
-#     # "Amble obliges but not Jog. At least, it's better than nothing."
-#     ""
+    # "Amble obliges but not Jog. At least, it's better than nothing."
+    "安布听话地收回手，但乔格却像没听见似的不肯停下。"
 
-# translate schinese Jog_Amble_Outfit_02_14663823:
+translate schinese Jog_Amble_Outfit_02_14663823:
 
-#     # "You try to calm down but it's hard with Jog's fingers trailing along your new outfit."
-#     ""
+    # "You try to calm down but it's hard with Jog's fingers trailing along your new outfit."
+    "你努力让自己冷静下来，但身下那双魔爪却越来越放肆，不停挑拨你的神经。"
 
-# translate schinese Jog_Amble_Outfit_02_ba1b5f65:
+translate schinese Jog_Amble_Outfit_02_ba1b5f65:
 
-#     # "You are determined to finish your quest, so you turn your attention to Amble."
-#     ""
+    # "You are determined to finish your quest, so you turn your attention to Amble."
+    "无奈之下你决定先从安布入手，赶快问完他们的意见走人。"
 
-# translate schinese Jog_Amble_Outfit_02_828d35d2:
+translate schinese Jog_Amble_Outfit_02_828d35d2:
 
-#     # e "What do you like about this new outfit? You two seem to be more into it than the actual adventurer's armor."
-#     e ""
+    # e "What do you like about this new outfit? You two seem to be more into it than the actual adventurer's armor."
+    e "安布，相比上一套真正的探险家套装，你们好像对这一套更有兴趣。能讲讲为什么吗？"
 
-# translate schinese Jog_Amble_Outfit_02_44b857bb:
+translate schinese Jog_Amble_Outfit_02_44b857bb:
 
-#     # a "Because it's quite reminiscent of our attire, other than the strange thing that's wrapped around your legs that is."
-#     a ""
+    # a "Because it's quite reminiscent of our attire, other than the strange thing that's wrapped around your legs that is."
+    a "因为这样你就和我们穿得一模一样啦，除开你腿上的怪裤子。"
 
-# translate schinese Jog_Amble_Outfit_02_18aafa8e:
+translate schinese Jog_Amble_Outfit_02_18aafa8e:
 
-#     # a "Did Lothar put you up to this?"
-#     a ""
+    # a "Did Lothar put you up to this?"
+    a "但你平常好像不会穿成这样，是洛哥要你这么穿的吗？"
 
-# translate schinese Jog_Amble_Outfit_02_18bc9b0b:
+translate schinese Jog_Amble_Outfit_02_18bc9b0b:
 
-#     # "You couldn't help but pause at the implication of that question."
-#     ""
+    # "You couldn't help but pause at the implication of that question."
+    "安布突然提起洛萨尔使你不禁愣神。"
 
-# translate schinese Jog_Amble_Outfit_02_0ae009ea:
+translate schinese Jog_Amble_Outfit_02_0ae009ea:
 
-#     # "Are Amble and Jog only in their underwear on Lothar's order?"
-#     ""
+    # "Are Amble and Jog only in their underwear on Lothar's order?"
+    "难道他们平时只穿内裤是洛萨尔下的命令？你越想越刺激。"
 
-# translate schinese Jog_Amble_Outfit_02_0dbe3672:
+translate schinese Jog_Amble_Outfit_02_0dbe3672:
 
-#     # "You find that to be quite hot."
-#     ""
+    # "You find that to be quite hot."
+    pass
 
-# translate schinese Jog_Amble_Outfit_02_9a8da447:
+translate schinese Jog_Amble_Outfit_02_9a8da447:
 
-#     # "Suddenly, a series of popping sound draws you out of your reverie."
-#     ""
+    # "Suddenly, a series of popping sound draws you out of your reverie."
+    "突然一阵啪嗒声打破了你的遐想。"
 
-# translate schinese Jog_Amble_Outfit_02_caa6fb91:
+translate schinese Jog_Amble_Outfit_02_caa6fb91:
 
-#     # j "Hey. The pants are meant to be removed. You only need to pull the buttons on the belt."
-#     j ""
+    # j "Hey. The pants are meant to be removed. You only need to pull the buttons on the belt."
+    j "嘿，这条裤子就是专门设计成方便别人脱掉的，只要扯开皮带上的纽扣就行。"
 
-# translate schinese Jog_Amble_Outfit_02_7e5387f1:
+translate schinese Jog_Amble_Outfit_02_7e5387f1:
 
-#     # a "Really? That is a great design. Now, you really look like a part of the team."
-#     a ""
+    # a "Really? That is a great design. Now, you really look like a part of the team."
+    a "真的吗？太天才了。瞧，我们仨现在就像换穿内裤的亲兄弟。"
 
-# translate schinese Jog_Amble_Outfit_02_77414c90:
+translate schinese Jog_Amble_Outfit_02_77414c90:
 
-#     # "You can feel the chaps sliding down as Jog's nimble fingers undo the buttons expertly."
-#     ""
+    # "You can feel the chaps sliding down as Jog's nimble fingers undo the buttons expertly."
+    "乔格巧手解开了剩下的纽扣，快到你还没反应过来就感到腰间一松。"
 
-# translate schinese Jog_Amble_Outfit_02_f7b181d2:
+translate schinese Jog_Amble_Outfit_02_f7b181d2:
 
-#     # "You quickly slaps Jog's hand away and grab the chaps before they fully fall off, leaving you there only in your briefs."
-#     ""
+    # "You quickly slaps Jog's hand away and grab the chaps before they fully fall off, leaving you there only in your briefs."
+    "你立马拍开他趁裤子彻底滑落之前提起裤头，这才没有彻底走光。"
 
-# translate schinese Jog_Amble_Outfit_02_40934724:
+translate schinese Jog_Amble_Outfit_02_40934724:
 
-#     # e "Guys. Stop joking. That's not how the outfit is meant to be used."
-#     e ""
+    # e "Guys. Stop joking. That's not how the outfit is meant to be used."
+    e "胡说，雷叔做的衣服不是拿来玩的。"
 
-# translate schinese Jog_Amble_Outfit_02_169797ae:
+translate schinese Jog_Amble_Outfit_02_169797ae:
 
-#     # "Although at the back of your mind, you wonder if you were wrong and they were right."
-#     ""
+    # "Although at the back of your mind, you wonder if you were wrong and they were right."
+    "你虽然嘴上这么反驳，但心里却不敢肯定孰对孰错。"
 
-# translate schinese Jog_Amble_Outfit_02_8c3c6de3:
+translate schinese Jog_Amble_Outfit_02_8c3c6de3:
 
-#     # "After all, the outfit was meant for the tavern."
-#     ""
+    # "After all, the outfit was meant for the tavern."
+    "无论如何，到底这套衣服名义上是为了穿去酒馆打工，再和他们纠缠下去肯定要出乱子。"
 
-# translate schinese Jog_Amble_Outfit_02_7de89526:
+translate schinese Jog_Amble_Outfit_02_7de89526:
 
-#     # "Either way, you need to escape before things get even more out of hand."
-#     ""
+    # "Either way, you need to escape before things get even more out of hand."
+    "于是你飞快扣好纽扣，撒腿就往训练场外跑。"
 
-# translate schinese Jog_Amble_Outfit_02_89fc3091:
+translate schinese Jog_Amble_Outfit_02_89fc3091:
 
-#     # "You snap the buttons back on and turn away from the shooting range."
-#     ""
+    # "You snap the buttons back on and turn away from the shooting range."
+    pass
 
-# translate schinese Jog_Amble_Outfit_02_4bcca145:
+translate schinese Jog_Amble_Outfit_02_4bcca145:
 
-#     # j "Hey, we're not done examining the outfit yet!"
-#     j ""
+    # j "Hey, we're not done examining the outfit yet!"
+    j "嘿，别跑，我们还没检查完呢！"
 
-# translate schinese Jog_Amble_Outfit_02_46c6ab29:
+translate schinese Jog_Amble_Outfit_02_46c6ab29:
 
-#     # a "That's right."
-#     a ""
+    # a "That's right."
+    a "[e]，快回来！"
 
 translate schinese Amble_Dialogue_aa9a8699:
 

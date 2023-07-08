@@ -271,8 +271,8 @@ translate schinese strings:
     old "Ask about the time under the counter"
     new "询问对之前柜台底下那件事的感想"
 
-    # old "Ask about your outfit"
-    # new "询问对新衣服的评价"
+    old "Ask about your outfit"
+    new "询问对新衣服的评价"
 
     old "Check out the shop"
     new "交易商品"
@@ -654,395 +654,397 @@ translate schinese Sebas_Ask_Under_Counter_9c31ec59:
     # e "Ah... alright."
     e "啊……行吧。"
 
-# translate schinese Sebas_Ole_Outfit_03_cbff1666:
+translate schinese Sebas_Ole_Outfit_03_cbff1666:
 
-#     # s "Hi, Roomy! You look different today... What is it?"
-#     s ""
+    # s "Hi, Roomy! You look different today... What is it?"
+    "在你开口之前塞巴斯便俯身向前，紧缩眉头仔细研究着你。"
 
-# translate schinese Sebas_Ole_Outfit_03_28070df6:
+translate schinese Sebas_Ole_Outfit_03_28070df6:
 
-#     # "Seb frowns deeply as he studies you."
-#     ""
+    # "Seb frowns deeply as he studies you."
+    s "老铁你今天看起来好像有些不一样……到底哪里不一样呢？"
 
-# translate schinese Sebas_Ole_Outfit_03_cfc35ea0:
+translate schinese Sebas_Ole_Outfit_03_cfc35ea0:
 
-#     # e "Seb, it's the outfit! Rahim made this new outfit for everyday wear. He asked me to model it and ask your opinion on it."
-#     e ""
+    # e "Seb, it's the outfit! Rahim made this new outfit for everyday wear. He asked me to model it and ask your opinion on it."
+    e "我换了新衣服！雷叔又做了一套休闲居家款的长袍。"
+    e "他这次还请我做模特，所以我才来问问你的意见。"
 
-# translate schinese Sebas_Ole_Outfit_03_6df11e5b:
+translate schinese Sebas_Ole_Outfit_03_6df11e5b:
 
-#     # s "Of course I know that! I was only kidding with my best roomy!"
-#     s ""
+    # s "Of course I know that! I was only kidding with my best roomy!"
+    s "哈哈哈我知道！我逗你玩呢！"
 
-# translate schinese Sebas_Ole_Outfit_03_15848363:
+translate schinese Sebas_Ole_Outfit_03_15848363:
 
-#     # "Seb runs away to touch the fabric."
-#     ""
+    # "Seb runs away to touch the fabric."
+    "塞巴斯从柜台后边跑出来，伸手抚摸你衣服上的布料。"
 
-# translate schinese Sebas_Ole_Outfit_03_9595a68e:
+translate schinese Sebas_Ole_Outfit_03_9595a68e:
 
-#     # s "Wow, it's so fluffy!"
-#     s ""
+    # s "Wow, it's so fluffy!"
+    s "哇噢，毛毛的！"
 
-# translate schinese Sebas_Ole_Outfit_03_390c2cad:
+translate schinese Sebas_Ole_Outfit_03_390c2cad:
 
-#     # "While Seb is examining the robe, his paws keep rubbing against your muscles and furs."
-#     ""
+    # "While Seb is examining the robe, his paws keep rubbing against your muscles and furs."
+    "他虽说是在感受面料，但爪子却总在揉你的肌肉和毛发。"
 
-# translate schinese Sebas_Ole_Outfit_03_db36bb58:
+translate schinese Sebas_Ole_Outfit_03_db36bb58:
 
-#     # s "It's so smooth too!"
-#     s ""
+    # s "It's so smooth too!"
+    s "还滑滑的！"
 
-# translate schinese Sebas_Ole_Outfit_03_cb81f7a8:
+translate schinese Sebas_Ole_Outfit_03_cb81f7a8:
 
-#     # "Seb is so intrigued by the new fabric that he wants to touch every inch of it."
-#     ""
+    # "Seb is so intrigued by the new fabric that he wants to touch every inch of it."
+    "好奇狮子被这种奇异的材质深深吸引住了，他从上摸到下不放过任何一处，慢慢移到你的两胯。"
 
-# translate schinese Sebas_Ole_Outfit_03_78f8f61e:
+translate schinese Sebas_Ole_Outfit_03_78f8f61e:
 
-#     # "His hands slowly travel to the cloth that wraps around your waist."
-#     ""
+    # "His hands slowly travel to the cloth that wraps around your waist."
+    pass
 
-# translate schinese Sebas_Ole_Outfit_03_1799a540:
+translate schinese Sebas_Ole_Outfit_03_1799a540:
 
-#     # e "Seb... Wait..."
-#     e ""
+    # e "Seb... Wait..."
+    e "阿塞……等等……"
 
-# translate schinese Sebas_Ole_Outfit_03_ef89f7cf:
+translate schinese Sebas_Ole_Outfit_03_ef89f7cf:
 
-#     # "Seb is too absorbed by the new fabric that he doesn't seem to hear you."
-#     ""
+    # "Seb is too absorbed by the new fabric that he doesn't seem to hear you."
+    "塞巴斯好像没听见你说话，依旧我行我素地抓着你的大腿。"
 
-# translate schinese Sebas_Ole_Outfit_03_05711ac8:
+translate schinese Sebas_Ole_Outfit_03_05711ac8:
 
-#     # "Your crotch has reacted to Seb's continuous touching."
-#     ""
+    # "Your crotch has reacted to Seb's continuous touching."
+    pass
 
-# translate schinese Sebas_Ole_Outfit_03_829c6697:
+translate schinese Sebas_Ole_Outfit_03_829c6697:
 
-#     # "That has finally garnered Seb's attention."
-#     ""
+    # "That has finally garnered Seb's attention."
+    "直到你下面起了反应才成功引起他的注意。"
 
-# translate schinese Sebas_Ole_Outfit_03_0f604c62:
+translate schinese Sebas_Ole_Outfit_03_0f604c62:
 
-#     # "With his hand still near your crotch, Seb shines a mischievious grin on you."
-#     ""
+    # "With his hand still near your crotch, Seb shines a mischievious grin on you."
+    "塞巴斯嘴角一抬露出调皮的笑容，狮爪还按在私处旁边。"
 
-# translate schinese Sebas_Ole_Outfit_03_dd78d227:
+translate schinese Sebas_Ole_Outfit_03_dd78d227:
 
-#     # s "Roomy, are you wearing nothing underneath?"
-#     s ""
+    # s "Roomy, are you wearing nothing underneath?"
+    s "[e]，你里面没穿吗？"
 
-# translate schinese Sebas_Ole_Outfit_03_7306645b:
+translate schinese Sebas_Ole_Outfit_03_7306645b:
 
-#     # e "Well... yes..."
-#     e ""
+    # e "Well... yes..."
+    e "呃……嗯……"
 
-# translate schinese Sebas_Ole_Outfit_03_e8963530:
+translate schinese Sebas_Ole_Outfit_03_e8963530:
 
-#     # s "Cool."
-#     s ""
+    # s "Cool."
+    s "好。"
 
-# translate schinese Sebas_Ole_Outfit_03_0a3450ea:
+translate schinese Sebas_Ole_Outfit_03_0a3450ea:
 
-#     # "Seb continues with his massage."
-#     ""
+    # "Seb continues with his massage."
+    "他继续给你大腿内侧做着按摩。"
 
-# translate schinese Sebas_Ole_Outfit_03_9d471591:
+translate schinese Sebas_Ole_Outfit_03_9d471591:
 
-#     # s "I like this outfit. It makes things a lot more expedient."
-#     s ""
+    # s "I like this outfit. It makes things a lot more expedient."
+    s "我喜欢这套衣服，让人很有一探究竟的欲望。"
 
-# translate schinese Sebas_Ole_Outfit_03_f7aa848b:
+translate schinese Sebas_Ole_Outfit_03_f7aa848b:
 
-#     # s "It means that I can technically take you right now? And no fabric standing in the way once I lift up the cloth around your waist?"
-#     s ""
+    # s "It means that I can technically take you right now? And no fabric standing in the way once I lift up the cloth around your waist?"
+    s "这代表我们随时都可以做些好玩的事情。只要胯下这块布一揭，就能开门见山直捣黄龙，对吗？"
 
-# translate schinese Sebas_Ole_Outfit_03_81727a7d:
+translate schinese Sebas_Ole_Outfit_03_81727a7d:
 
-#     # "You gulp with anticipation and nod."
-#     ""
+    # "You gulp with anticipation and nod."
+    "你期待地咽了咽口水，向他点头。"
 
-# translate schinese Sebas_Ole_Outfit_03_a78736a6:
+translate schinese Sebas_Ole_Outfit_03_a78736a6:
 
-#     # "Suddenly, there was a cough that came from the corner of the shop."
-#     ""
+    # "Suddenly, there was a cough that came from the corner of the shop."
+    "突然，一声咳嗽从身后传来。"
 
-# translate schinese Sebas_Ole_Outfit_03_df48ecac:
+translate schinese Sebas_Ole_Outfit_03_df48ecac:
 
-#     # "You immediately freeze. You turn and see Ole standing there. Seb is still wrapped around you."
-#     ""
+    # "You immediately freeze. You turn and see Ole standing there. Seb is still wrapped around you."
+    "你被吓得顿时僵住，转过头才发现是奥利站在那，而塞巴斯还在搂着你。"
 
-# translate schinese Sebas_Ole_Outfit_03_b5ad19f4:
+translate schinese Sebas_Ole_Outfit_03_b5ad19f4:
 
-#     # o "Have you two forgotten that the shop is still open?"
-#     o ""
+    # o "Have you two forgotten that the shop is still open?"
+    o "你们两个，忘了现在还是营业时间吗？"
 
-# translate schinese Sebas_Ole_Outfit_03_4dc454b0:
+translate schinese Sebas_Ole_Outfit_03_4dc454b0:
 
-#     # "You scratches your head awkwardly."
-#     ""
+    # "You scratches your head awkwardly."
+    "你羞愧地挠头。"
 
-# translate schinese Sebas_Ole_Outfit_03_a5023627:
+translate schinese Sebas_Ole_Outfit_03_a5023627:
 
-#     # e "Sorry, Ole. Didn't see you there."
-#     e ""
+    # e "Sorry, Ole. Didn't see you there."
+    e "对不起奥利，刚刚没注意到你在。"
 
-# translate schinese Sebas_Ole_Outfit_03_70c50503:
+translate schinese Sebas_Ole_Outfit_03_70c50503:
 
-#     # s "Oh, I know Ole is there. I thought my roomy would appreciate an audience."
-#     s ""
+    # s "Oh, I know Ole is there. I thought my roomy would appreciate an audience."
+    s "噢，但我知道。我以为我的好室友喜欢有观众看着呢。"
 
-# translate schinese Sebas_Ole_Outfit_03_7027c5e3:
+translate schinese Sebas_Ole_Outfit_03_7027c5e3:
 
-#     # "you punch seb in his arm. Seb bounces away from you and chuckles."
-#     ""
+    # "you punch seb in his arm. Seb bounces away from you and chuckles."
+    "你捶了塞巴斯手臂一拳。他从你身上弹开，脸上还笑嘻嘻的。"
 
-# translate schinese Sebas_Ole_Outfit_03_83624ca6:
+translate schinese Sebas_Ole_Outfit_03_83624ca6:
 
-#     # s "ouch, i was only joking."
-#     s ""
+    # s "ouch, i was only joking."
+    s "啊！我就开个玩笑嘛。"
 
-# translate schinese Sebas_Ole_Outfit_03_9684f49c:
+translate schinese Sebas_Ole_Outfit_03_9684f49c:
 
-#     # o "Anyway, you two can do whatever you want after business hour but i need you to focus when the shop is still open."
-#     o ""
+    # o "Anyway, you two can do whatever you want after business hour but i need you to focus when the shop is still open."
+    o "打烊之后你们爱干什么我管不着，但只要店门的牌子没翻过来就给我正经点。"
 
-# translate schinese Sebas_Ole_Outfit_03_04e5c193:
+translate schinese Sebas_Ole_Outfit_03_04e5c193:
 
-#     # o "[e], I also think you need a professional opinion with regards to your new outfit. Don't trust this blockhead that is blinded by lust."
-#     o ""
+    # o "[e], I also think you need a professional opinion with regards to your new outfit. Don't trust this blockhead that is blinded by lust."
+    o "[e]，你需要去问专家的意见才对得起你身上这件艺术品。别听这头被色欲蒙蔽双眼的笨蛋狮子瞎说话。"
 
-# translate schinese Sebas_Ole_Outfit_03_532169d2:
+translate schinese Sebas_Ole_Outfit_03_532169d2:
 
-#     # s "hey."
-#     s ""
+    # s "hey."
+    s "喂——"
 
-# translate schinese Sebas_Ole_Outfit_03_feb721f9:
+translate schinese Sebas_Ole_Outfit_03_feb721f9:
 
-#     # e "Who do you suggest?"
-#     e ""
+    # e "Who do you suggest?"
+    e "那我可以问谁呢？"
 
-# translate schinese Sebas_Ole_Outfit_03_42f6eec3:
+translate schinese Sebas_Ole_Outfit_03_42f6eec3:
 
-#     # o "You've met Haskell, right? I believe he's familiar with robes as everyday wear. You should go find him at the apothecary."
-#     o ""
+    # o "You've met Haskell, right? I believe he's familiar with robes as everyday wear. You should go find him at the apothecary."
+    o "还记得哈斯克尔吗？我相信没人比他更懂这种日常穿的长袍了，去听听他的看法吧。"
 
-# translate schinese Sebas_Ole_Outfit_01_60fcff58:
+translate schinese Sebas_Ole_Outfit_01_60fcff58:
 
-#     # s "Roomie! Oh Wow, you cut a stunning figure in that new armor of yours."
-#     s ""
+    # s "Roomie! Oh Wow, you cut a stunning figure in that new armor of yours."
+    s "我滴老天爷！老铁你这身让我都看呆了。"
 
-# translate schinese Sebas_Ole_Outfit_01_b535c0d4:
+translate schinese Sebas_Ole_Outfit_01_b535c0d4:
 
-#     # o "Is it the leather armor Rahim has promised you?"
-#     o ""
+    # o "Is it the leather armor Rahim has promised you?"
+    o "这是雷叔之前说要做给你的那套吗？"
 
-# translate schinese Sebas_Ole_Outfit_01_0300c526:
+translate schinese Sebas_Ole_Outfit_01_0300c526:
 
-#     # o "It really fits you really well. No wonder it has taken him so long to make."
-#     o ""
+    # o "It really fits you really well. No wonder it has taken him so long to make."
+    o "确实与你十分般配，难怪他做了这么久。"
 
-# translate schinese Sebas_Ole_Outfit_01_ebd16ee8:
+translate schinese Sebas_Ole_Outfit_01_ebd16ee8:
 
-#     # "Seb is still looking at you with twinkling eyes."
-#     ""
+    # "Seb is still looking at you with twinkling eyes."
+    "塞巴斯仍在双眼放光，好似眼里都是星星。"
 
-# translate schinese Sebas_Ole_Outfit_01_c9d3a971:
+translate schinese Sebas_Ole_Outfit_01_c9d3a971:
 
-#     # e "So I take it that you two like this? Rahim would like to get some feedbacks."
-#     e ""
+    # e "So I take it that you two like this? Rahim would like to get some feedbacks."
+    e "我就当你们都喜欢咯？雷叔正在收集大家的反馈。"
 
-# translate schinese Sebas_Ole_Outfit_01_49af715a:
+translate schinese Sebas_Ole_Outfit_01_49af715a:
 
-#     # o "Of course. I can see the effort and heart he has put into it."
-#     o ""
+    # o "Of course. I can see the effort and heart he has put into it."
+    o "当然，任谁都能看出这其中投入的才思和心血。"
 
-# translate schinese Sebas_Ole_Outfit_01_53567af9:
+translate schinese Sebas_Ole_Outfit_01_53567af9:
 
-#     # s "Roomie, you are so dashing! It'll take no time for you to replace that snotty wolf as the hero."
-#     s ""
+    # s "Roomie, you are so dashing! It'll take no time for you to replace that snotty wolf as the hero."
+    s "老铁，你就是莫肯最耀眼的存在！要不了多久你就能踢掉那个爱哭鬼，成为咱们乐村新的英雄啦。"
 
-# translate schinese Sebas_Ole_Outfit_01_0c638f15:
+translate schinese Sebas_Ole_Outfit_01_0c638f15:
 
-#     # s "Then, perhaps you'll get some customer perks exclusive to the hero."
-#     s ""
+    # s "Then, perhaps you'll get some customer perks exclusive to the hero."
+    s "那时候本店说不定会给乐村英雄专属优惠噢。"
 
-# translate schinese Sebas_Ole_Outfit_01_93bc2d53:
+translate schinese Sebas_Ole_Outfit_01_93bc2d53:
 
-#     # "Seb grins mischievously at you."
-#     ""
+    # "Seb grins mischievously at you."
+    "塞巴斯冲你淘气地笑了笑。"
 
-# translate schinese Sebas_Ole_Outfit_02_7f340fcc:
+translate schinese Sebas_Ole_Outfit_02_7f340fcc:
 
-#     # s "Good Fucking Morning, buddy."
-#     s ""
+    # s "Good Fucking Morning, buddy."
+    pass
 
-# translate schinese Sebas_Ole_Outfit_02_c27bc186:
+translate schinese Sebas_Ole_Outfit_02_c27bc186:
 
-#     # s "Oh? Another new outfit?"
-#     s ""
+    # s "Oh? Another new outfit?"
+    s "哦？又有新衣服试穿啦？"
 
-# translate schinese Sebas_Ole_Outfit_02_3e9f1d09:
+translate schinese Sebas_Ole_Outfit_02_3e9f1d09:
 
-#     # o "As we know, Rahim is ever the overachiever."
-#     o ""
+    # o "As we know, Rahim is ever the overachiever."
+    o "我们都知道雷叔的手艺总是令人惊喜。"
 
-# translate schinese Sebas_Ole_Outfit_02_16b1c1fd:
+translate schinese Sebas_Ole_Outfit_02_16b1c1fd:
 
-#     # "Seb looks at your crotch and frowns."
-#     ""
+    # "Seb looks at your crotch and frowns."
+    "塞巴斯盯着你的裆部，皱起眉头。你不知道该感到害羞还是兴奋。"
 
-# translate schinese Sebas_Ole_Outfit_02_1b68f049:
+translate schinese Sebas_Ole_Outfit_02_1b68f049:
 
-#     # "You feel rather bothered and hot."
-#     ""
+    # "You feel rather bothered and hot."
+    pass
 
-# translate schinese Sebas_Ole_Outfit_02_8b08fc9b:
+translate schinese Sebas_Ole_Outfit_02_8b08fc9b:
 
-#     # s "Roomie, is this really comfortable?"
-#     s ""
+    # s "Roomie, is this really comfortable?"
+    s "好室友，这穿着真的舒服吗？"
 
-# translate schinese Sebas_Ole_Outfit_02_c1843369:
+translate schinese Sebas_Ole_Outfit_02_c1843369:
 
-#     # "You are confused because you do not expect this question."
-#     ""
+    # "You are confused because you do not expect this question."
+    "你不知道他为什么这么问，他也注意到了你疑惑的神色。"
 
-# translate schinese Sebas_Ole_Outfit_02_201efe01:
+translate schinese Sebas_Ole_Outfit_02_201efe01:
 
-#     # "Seb must have noticed your expression."
-#     ""
+    # "Seb must have noticed your expression."
+    pass
 
-# translate schinese Sebas_Ole_Outfit_02_6c65a673:
+translate schinese Sebas_Ole_Outfit_02_6c65a673:
 
-#     # s "I mean that pair of briefs looks pretty tight."
-#     s ""
+    # s "I mean that pair of briefs looks pretty tight."
+    s "我是说你的内裤看起来勒得很紧的样子。"
 
-# translate schinese Sebas_Ole_Outfit_02_f5fd1e39:
+translate schinese Sebas_Ole_Outfit_02_f5fd1e39:
 
-#     # s "Can you even fit everything in?"
-#     s ""
+    # s "Can you even fit everything in?"
+    s "好像不太合你的大小。"
 
-# translate schinese Sebas_Ole_Outfit_02_7f7694b8:
+translate schinese Sebas_Ole_Outfit_02_7f7694b8:
 
-#     # s "I am sure I can't."
-#     s ""
+    # s "I am sure I can't."
+    s "至少不合我的大小。"
 
-# translate schinese Sebas_Ole_Outfit_02_0b585708:
+translate schinese Sebas_Ole_Outfit_02_0b585708:
 
-#     # "Seb guffaws. Ole shakes his head weakly."
-#     ""
+    # "Seb guffaws. Ole shakes his head weakly."
+    "塞巴斯哈哈大笑。奥利无奈地微微摇头。"
 
-# translate schinese Sebas_Ole_Outfit_02_aa3bc605:
+translate schinese Sebas_Ole_Outfit_02_aa3bc605:
 
-#     # "You know Seb is only joking but your head can't help but wander off to Seb's crotch."
-#     ""
+    # "You know Seb is only joking but your head can't help but wander off to Seb's crotch."
+    "你知道塞巴斯只是在开玩笑，但你的视线却不禁往他胯下飘去，飘向那短裙勾勒出的长条状隆起。"
 
-# translate schinese Sebas_Ole_Outfit_02_00383195:
+translate schinese Sebas_Ole_Outfit_02_00383195:
 
-#     # "You can see Seb's bulge through the kiln he's wearing."
-#     ""
+    # "You can see Seb's bulge through the kiln he's wearing."
+    pass
 
-# translate schinese Sebas_Ole_Outfit_02_35d67419:
+translate schinese Sebas_Ole_Outfit_02_35d67419:
 
-#     # "Try as you might, you can't help but picture Seb in the outfit you are wearing. Perhaps your roommate is right."
-#     ""
+    # "Try as you might, you can't help but picture Seb in the outfit you are wearing. Perhaps your roommate is right."
+    "你开始幻想他穿上这条开裆裤的样子。"
 
-# translate schinese Sebas_Ole_Outfit_02_2bf070a9:
+translate schinese Sebas_Ole_Outfit_02_2bf070a9:
 
-#     # "He might really destroy Rahim's clothing. But the mental image of that is really turning you on."
-#     ""
+    # "He might really destroy Rahim's clothing. But the mental image of that is really turning you on."
+    "也许塞巴斯说的是实话，假如换他穿上，里层的内裤怕会被直接撑爆。这个画面令你血脉喷张。"
 
-# translate schinese Sebas_Ole_Outfit_02_3eff1d6d:
+translate schinese Sebas_Ole_Outfit_02_3eff1d6d:
 
-#     # "You feel a nudge from your side."
-#     ""
+    # "You feel a nudge from your side."
+    "直到有人突然挨了一下你的手臂。"
 
-# translate schinese Sebas_Ole_Outfit_02_cec1a84b:
+translate schinese Sebas_Ole_Outfit_02_cec1a84b:
 
-#     # o "[e], are you alright? Your face is all flushed."
-#     o ""
+    # o "[e], are you alright? Your face is all flushed."
+    o "怎么了[e]？脸这么红。"
 
-# translate schinese Sebas_Ole_Outfit_02_f24a327b:
+translate schinese Sebas_Ole_Outfit_02_f24a327b:
 
-#     # "Ole looks at you with concern."
-#     ""
+    # "Ole looks at you with concern."
+    "奥利一脸担忧地看着你。"
 
-# translate schinese Sebas_Ole_Outfit_02_d069ee39:
+translate schinese Sebas_Ole_Outfit_02_d069ee39:
 
-#     # e "Erm. Of course. I..."
-#     e ""
+    # e "Erm. Of course. I..."
+    e "呃，嗯，我……"
 
-# translate schinese Sebas_Ole_Outfit_02_2d06f007:
+translate schinese Sebas_Ole_Outfit_02_2d06f007:
 
-#     # "You try to calm your wandering imagination and focus on the issue at hand. You do not want an accident."
-#     ""
+    # "You try to calm your wandering imagination and focus on the issue at hand. You do not want an accident."
+    "你努力克制自己奔放的内心将思绪拉回正事，不让自己当众出丑。"
 
-# translate schinese Sebas_Ole_Outfit_02_7d5781bb:
+translate schinese Sebas_Ole_Outfit_02_7d5781bb:
 
-#     # s "Ole, my buddy. What about you? Do you think you can fit in it?"
-#     s ""
+    # s "Ole, my buddy. What about you? Do you think you can fit in it?"
+    s "奥利老铁！你觉得这条内裤合你大小吗？"
 
-# translate schinese Sebas_Ole_Outfit_02_a4aa3c29:
+translate schinese Sebas_Ole_Outfit_02_a4aa3c29:
 
-#     # o "What are you talking about?"
-#     o ""
+    # o "What are you talking about?"
+    o "什么大小不大小的？"
 
-# translate schinese Sebas_Ole_Outfit_02_95f68b26:
+translate schinese Sebas_Ole_Outfit_02_95f68b26:
 
-#     # s "Oh. I'm just kidding. Looking over the shop for the whole day has been quite boring."
-#     s ""
+    # s "Oh. I'm just kidding. Looking over the shop for the whole day has been quite boring."
+    s "噢没事没事，只是个冷笑话，整天看店太无聊了……哈哈。"
 
-# translate schinese Sebas_Ole_Outfit_02_62071159:
+translate schinese Sebas_Ole_Outfit_02_62071159:
 
-#     # "Thankfully, Seb and Ole are too busy bantering. Because your dick is starting to harden from picturing Ole in your outfit."
-#     ""
+    # "Thankfully, Seb and Ole are too busy bantering. Because your dick is starting to harden from picturing Ole in your outfit."
+    "前功尽弃，你心里立马浮现出奥利下体被内裤完美包裹的模样。"
+    "幸好塞巴斯还在和奥利开玩笑，没注意到你那已经开始搭帐篷了。"
 
-# translate schinese Sebas_Ole_Outfit_02_6bb9f34c:
+translate schinese Sebas_Ole_Outfit_02_6bb9f34c:
 
-#     # "Seb and Ole. You wonder who would look better."
-#     ""
+    # "Seb and Ole. You wonder who would look better."
+    "大包狮子，大包蜥蜴，此时于你的脑海中同台竞艳。"
 
-# translate schinese Sebas_Ole_Outfit_02_00f82154:
+translate schinese Sebas_Ole_Outfit_02_00f82154:
 
-#     # "You wonder if this is the effect of this outfit, because you find it easier to wander over to sexual thoughts."
-#     ""
+    # "You wonder if this is the effect of this outfit, because you find it easier to wander over to sexual thoughts."
+    "不知道是不是这套衣服的作用，你发现自己现在总爱往色情的方面联想。"
 
-# translate schinese Sebas_Ole_Outfit_02_2b9dc704:
+translate schinese Sebas_Ole_Outfit_02_2b9dc704:
 
-#     # "While Seb and Ole are laughing about something, you shuffles off to your room."
-#     ""
+    # "While Seb and Ole are laughing about something, you shuffles off to your room."
+    "你无暇顾及他们聊到了什么好笑的东西，你只想赶紧结束这个话题冲回房间。"
 
-# translate schinese Sebas_Ole_Outfit_02_f70df261:
+translate schinese Sebas_Ole_Outfit_02_f70df261:
 
-#     # e "Thanks guys for the comments. I'll be telling Rahim about them."
-#     e ""
+    # e "Thanks guys for the comments. I'll be telling Rahim about them."
+    e "谢谢你们的意见，我会反馈给雷叔的！"
 
-# translate schinese Sebas_Ole_Outfit_02_182f343d:
+translate schinese Sebas_Ole_Outfit_02_182f343d:
 
-#     # "Ole and Seb watch you scurry away."
-#     ""
+    # "Ole and Seb watch you scurry away."
+    "奥利和塞巴斯目视着你慌慌张张跑进了卧室。"
 
-# translate schinese Sebas_Ole_Outfit_02_dc289130:
+translate schinese Sebas_Ole_Outfit_02_dc289130:
 
-#     # o "But why is [e] running to his room if he's going to report to Rahim?"
-#     o ""
+    # o "But why is [e] running to his room if he's going to report to Rahim?"
+    o "[e]……他不是要去向雷叔报告吗，怎么又回自己房间了？"
 
-# translate schinese Sebas_Ole_Outfit_02_7e6deed6:
+translate schinese Sebas_Ole_Outfit_02_7e6deed6:
 
-#     # s "Ole, haven't you noticed? Our courier probably needs some private time first!"
-#     s ""
+    # s "Ole, haven't you noticed? Our courier probably needs some private time first!"
+    s "你还没明白？我们的好室友需要先和他的小兄弟私聊一会会。"
 
-# translate schinese Sebas_Ole_Outfit_02_fdeecb3a:
+translate schinese Sebas_Ole_Outfit_02_fdeecb3a:
 
-#     # o "Huh?"
-#     o ""
+    # o "Huh?"
+    o "啊？"
 
-# translate schinese Sebas_Ole_Outfit_02_8e833270:
+translate schinese Sebas_Ole_Outfit_02_8e833270:
 
-#     # o "AHH! Nevermind! I get it..."
-#     o ""
+    # o "AHH! Nevermind! I get it..."
+    o "啊！当我没问，我知道了……"
 
 translate schinese Sebas_Shopping_17f68e7d:
 
@@ -7463,7 +7465,7 @@ translate schinese Rahim_Dialogue_b3dcb561:
 translate schinese Rahim_Normal_Talk_46758535:
 
     # r "So, what are you up to, boy." nointeract
-    r "有什么事，小伙子。" nointeract
+    r "这回有什么事？" nointeract
 
 translate schinese strings:
 
@@ -7491,11 +7493,11 @@ translate schinese strings:
     # old "Report to Rahim about the clothing"
     # new "报告织造任务的完成情况"
 
-    # old "Ask about his new outfit design"
-    # new "询问新装备的事情"
+    old "Ask about his new outfit design"
+    new "询问对自己手艺的评价"
 
-    # old "Report to Rahim"
-    # new "报告新装备的反响"
+    old "Report to Rahim"
+    new "回报新衣服的反响"
 
     old "Deliver the Letter from Furkan"
     new "递出弗坎的信件"
@@ -12123,390 +12125,405 @@ translate schinese Rahim_Apron_Quest_358d4028:
     # r "Good, see you around, [e]."
     r "很好，保重，[e]。"
 
-# translate schinese Rahim_Outfit_Quest_0622b34d:
+translate schinese Rahim_Outfit_Quest_0622b34d:
 
-#     # e "Hey, Rahim... Everything alright?"
-#     e ""
+    # e "Hey, Rahim... Everything alright?"
+    e "我想知道我之前缝的衣服……在你看来怎么样？"
 
-# translate schinese Rahim_Outfit_Quest_73ae705d:
+translate schinese Rahim_Outfit_Quest_73ae705d:
 
-#     # r "No."
-#     r ""
+    # r "No."
+    r "不怎么样，勉勉强强算入门水平。"
 
-# translate schinese Rahim_Outfit_Quest_70f28d08:
+translate schinese Rahim_Outfit_Quest_70f28d08:
 
-#     # r "Even though you are not a good tailor, you seem to have a talent in something related to it."
-#     r ""
+    # r "Even though you are not a good tailor, you seem to have a talent in something related to it."
+    r "切口七扭八歪，窝边邋遢又小气，款式也让人一言难尽。"
+    e "啊……"
+    r "不过，你虽然不是个好裁缝，但你却是副好衣架。"
 
-# translate schinese Rahim_Outfit_Quest_9e15db04:
+translate schinese Rahim_Outfit_Quest_9e15db04:
 
-#     # e "What do you mean?"
-#     e ""
+    # e "What do you mean?"
+    e "好衣架？"
 
-# translate schinese Rahim_Outfit_Quest_57344205:
+translate schinese Rahim_Outfit_Quest_57344205:
 
-#     # r "The cutting and form of the clothes you made are imperfect, amateur level at most."
-#     r ""
+    # r "The cutting and form of the clothes you made are imperfect, amateur level at most."
+    pass
 
-# translate schinese Rahim_Outfit_Quest_3e556763:
+translate schinese Rahim_Outfit_Quest_3e556763:
 
-#     # r "But I have many other customers praising how you wear them."
-#     r ""
+    # r "But I have many other customers praising how you wear them."
+    r "我店里有不少顾客说你穿那条围裙很好看。"
 
-# translate schinese Rahim_Outfit_Quest_f01b6cc8:
+translate schinese Rahim_Outfit_Quest_f01b6cc8:
 
-#     # r "Maybe because your appearance at the tavern has caused quite a buzz."
-#     r ""
+    # r "Maybe because your appearance at the tavern has caused quite a buzz."
+    r "说明你在酒馆可不是一般的惹眼。"
 
-# translate schinese Rahim_Outfit_Quest_7359fa33:
+translate schinese Rahim_Outfit_Quest_7359fa33:
 
-#     # e "Thank you, i guess?"
-#     e ""
+    # e "Thank you, i guess?"
+    e "谢谢夸奖？"
 
-# translate schinese Rahim_Outfit_Quest_f5e0ba0b:
+translate schinese Rahim_Outfit_Quest_f5e0ba0b:
 
-#     # r "That was not a praise."
-#     r ""
+    # r "That was not a praise."
+    r "这不是在夸你。"
 
-# translate schinese Rahim_Outfit_Quest_7634acec:
+translate schinese Rahim_Outfit_Quest_7634acec:
 
-#     # e "O-ok..."
-#     e ""
+    # e "O-ok..."
+    e "噢、噢……"
 
-# translate schinese Rahim_Outfit_Quest_12a9f0f5:
+translate schinese Rahim_Outfit_Quest_12a9f0f5:
 
-#     # r "Since you have talent in modelling, I have some professionally-made clothes for you to model."
-#     r ""
+    # r "Since you have talent in modelling, I have some professionally-made clothes for you to model."
+    r "最近我想尝试一些新的图案和款式，就参照你的尺码做了几套新时装出来。"
 
-# translate schinese Rahim_Outfit_Quest_d2fa4168:
+translate schinese Rahim_Outfit_Quest_d2fa4168:
 
-#     # r "I made them just to experiment with the pattern and design, with your size in mind."
-#     r ""
+    # r "I made them just to experiment with the pattern and design, with your size in mind."
+    r "既然你有做模特的天赋，不妨试穿一下帮我看看效果。"
 
-# translate schinese Rahim_Outfit_Quest_b3c97728:
+translate schinese Rahim_Outfit_Quest_b3c97728:
 
-#     # e "W-wait... How did you know...?"
-#     e ""
+    # e "W-wait... How did you know...?"
+    e "可你怎么知道……？"
 
-# translate schinese Rahim_Outfit_Quest_e684f1b5:
+translate schinese Rahim_Outfit_Quest_e684f1b5:
 
-#     # r "I measured your waist when you first came, and I know that apron fit you quite nicely."
-#     r ""
+    # r "I measured your waist when you first came, and I know that apron fit you quite nicely."
+    r "你刚进村的时候我已经给你量过腰围了，而且我还有那条围裙做参照。"
 
-# translate schinese Rahim_Outfit_Quest_7d5c27ee:
+translate schinese Rahim_Outfit_Quest_7d5c27ee:
 
-#     # r "Anyways, usually I would judge the quality of the outfit by myself."
-#     r ""
+    # r "Anyways, usually I would judge the quality of the outfit by myself."
+    r "换做平常，我自己就能评价一套衣服好不好看。"
 
-# translate schinese Rahim_Outfit_Quest_262e6b89:
+translate schinese Rahim_Outfit_Quest_262e6b89:
 
-#     # r "But these, they are... not quite what I'd usually create."
-#     r ""
+    # r "But these, they are... not quite what I'd usually create."
+    r "但这几套的设计……比较新颖，我不好用老眼光去评价。"
 
-# translate schinese Rahim_Outfit_Quest_539a4359:
+translate schinese Rahim_Outfit_Quest_539a4359:
 
-#     # e "That sounds like fun."
-#     e ""
+    # e "That sounds like fun."
+    e "感觉会很好玩。"
 
-# translate schinese Rahim_Outfit_Quest_44b3217a:
+translate schinese Rahim_Outfit_Quest_44b3217a:
 
-#     # r "No, this is serious. I'll give you some sets of clothes."
-#     r ""
+    # r "No, this is serious. I'll give you some sets of clothes."
+    r "不要当成换装游戏，我是认真的。"
 
-# translate schinese Rahim_Outfit_Quest_fee1eca6:
+translate schinese Rahim_Outfit_Quest_fee1eca6:
 
-#     # r "And you will wear them and get responses from the townspeople and report back to me."
-#     r ""
+    # r "And you will wear them and get responses from the townspeople and report back to me."
+    r "总之我想请你分别穿上这三套衣服，去村里村外转转，收集大家的意见回来告诉我。"
 
-# translate schinese Rahim_Outfit_Quest_abee627b:
+translate schinese Rahim_Outfit_Quest_abee627b:
 
-#     # r "Do not tear or dirty them or you'll have to pay for them."
-#     r ""
+    # r "Do not tear or dirty them or you'll have to pay for them."
+    r "注意，假如你把衣服弄破或者弄脏了，你就得花钱买下来。"
 
-# translate schinese Rahim_Outfit_Quest_ad96c386:
+translate schinese Rahim_Outfit_Quest_ad96c386:
 
-#     # e "Ehm... "
-#     e ""
+    # e "Ehm... "
+    e "好的……"
 
-# translate schinese Rahim_Outfit_Quest_54874d98:
+translate schinese Rahim_Outfit_Quest_54874d98:
 
-#     # r "If everything goes well, i might let you keep one of them."
-#     r ""
+    # r "If everything goes well, i might let you keep one of them."
+    r "但假如一切顺利，你可以挑一套留下。"
 
-# translate schinese Rahim_Outfit_Quest_d75eed58:
+translate schinese Rahim_Outfit_Quest_d75eed58:
 
-#     # r "So, this set is for the adventurers in the village. Put this one and see what the folks have to say about it."
-#     r ""
+    # r "So, this set is for the adventurers in the village. Put this one and see what the folks have to say about it."
+    r "那么，先换上这套，专门为外出探险而设计的。"
 
-# translate schinese Rahim_Outfit_Quest_187281ee:
+translate schinese Rahim_Outfit_Quest_187281ee:
 
-#     # "You excuses yourself to change. The adventurer's armor is very minimal. You blushes."
-#     ""
+    # "You excuses yourself to change. The adventurer's armor is very minimal. You blushes."
+    "你接过雷希姆手中做工精良的衣裤，走进试衣间换上了这身探险家套装。"
 
-# translate schinese Rahim_Outfit_Quest_b70b6ae9:
+translate schinese Rahim_Outfit_Quest_b70b6ae9:
 
-#     # e "Isn't this a bit too little protection for adventuring?"
-#     e ""
+    # e "Isn't this a bit too little protection for adventuring?"
+    e "在野外穿得这么暴露会不会有点太危险啊？"
 
-# translate schinese Rahim_Outfit_Quest_b772bf60:
+translate schinese Rahim_Outfit_Quest_b772bf60:
 
-#     # r "The important parts are covered. And that's what matters to you. Now go and get their opinions and come back."
-#     r ""
+    # r "The important parts are covered. And that's what matters to you. Now go and get their opinions and come back."
+    r "有把你最脆弱、最宝贝的地方包严实就够了。快去吧，我想听听大家的评价。"
 
-# translate schinese Rahim_Outfit_02_c20ab467:
+translate schinese Rahim_Outfit_02_c20ab467:
 
-#     # e "Rahim. I got the feedback you need. Lothar, Jog and Amble like it. Lothar even wants one for himself."
-#     e ""
+    # e "Rahim. I got the feedback you need. Lothar, Jog and Amble like it. Lothar even wants one for himself."
+    e "我问过大家的意见了。洛萨尔、乔格、安布都很喜欢这套衣服。洛萨尔自己都想买一套。"
 
-# translate schinese Rahim_Outfit_02_c8bb9898:
+translate schinese Rahim_Outfit_02_c8bb9898:
 
-#     # "Rahim grunts."
-#     ""
+    # "Rahim grunts."
+    "雷希姆呵呵冷笑。"
 
-# translate schinese Rahim_Outfit_02_112ce8ae:
+translate schinese Rahim_Outfit_02_112ce8ae:
 
-#     # r "As if he can pay for one. Anyway, well done. Now onto the next set."
-#     r ""
+    # r "As if he can pay for one. Anyway, well done. Now onto the next set."
+    r "他有这个钱吗？不说他，你做得很好。"
 
-# translate schinese Rahim_Outfit_02_5f3f3577:
+translate schinese Rahim_Outfit_02_5f3f3577:
 
-#     # r "This is... for the tavern."
-#     r ""
+    # r "This is... for the tavern."
+    r "现在换另一套……酒馆主题的。"
 
-# translate schinese Rahim_Outfit_02_48bf5784:
+translate schinese Rahim_Outfit_02_48bf5784:
 
-#     # r "That bat never come to visit but I hear that he has been entertaining more customers since you arrived."
-#     r ""
+    # r "That bat never come to visit but I hear that he has been entertaining more customers since you arrived."
+    r "虽然凯恩不找我唠嗑，但我听说自从你来乐村，夜夜椿生意红火到连个坐的地方都没有了。"
 
-# translate schinese Rahim_Outfit_02_bea7df11:
+translate schinese Rahim_Outfit_02_bea7df11:
 
-#     # "For the customers' sake, I've designed a new waiter's outfit. Try it on."
-#     ""
+    # "For the customers' sake, I've designed a new waiter's outfit. Try it on."
+    r "想要扫清大家的疲惫，光喝酒不够，还得有点能看的节目。所以我设计了这套新工装，试试看吧。"
 
-# translate schinese Rahim_Outfit_02_aff9c099:
+translate schinese Rahim_Outfit_02_aff9c099:
 
-#     # "Rahim hands you what appears to be a pair of chaps."
-#     ""
+    # "Rahim hands you what appears to be a pair of chaps."
+    "雷希姆转身拿衣服递给你，结果竟然只有一条三角内裤加件开裆皮套裤。"
 
-# translate schinese Rahim_Outfit_02_7f8cfe8c:
+translate schinese Rahim_Outfit_02_7f8cfe8c:
 
-#     # "After you changes, you can't help but feel a little breezy."
-#     ""
+    # "After you changes, you can't help but feel a little breezy."
+    "你无奈地换上，忽然感到身前身后一阵凉意。"
 
-# translate schinese Rahim_Outfit_02_2c66ff69:
+translate schinese Rahim_Outfit_02_2c66ff69:
 
-#     # e "Rahim, are you sure this is alright?"
-#     e ""
+    # e "Rahim, are you sure this is alright?"
+    e "雷叔，穿成这样真的没问题吗？"
 
-# translate schinese Rahim_Outfit_02_d38291b6:
+translate schinese Rahim_Outfit_02_d38291b6:
 
-#     # r "Keep the questions for the townspeople. Since this set is designed with the tavern in mind, you should get the bat's feedback. Don't forget everyone else too."
-#     r ""
+    # r "Keep the questions for the townspeople. Since this set is designed with the tavern in mind, you should get the bat's feedback. Don't forget everyone else too."
+    r "有没有问题大伙说的算。记得去探探老蝙蝠的意见，毕竟这套衣服就是为去他那穿的。"
+    r "还有你其他朋友的反响，也别忘了。"
 
-# translate schinese Rahim_Outfit_03_677bda18:
+translate schinese Rahim_Outfit_03_677bda18:
 
-#     # r "That took longer than expected and why are you all flushed?"
-#     r ""
+    # r "That took longer than expected and why are you all flushed?"
+    r "怎么去了那么久？脸还这么红。"
 
-# translate schinese Rahim_Outfit_03_81d01cc5:
+translate schinese Rahim_Outfit_03_81d01cc5:
 
-#     # "You open your mouth and you don't quite know how to answer."
-#     ""
+    # "You open your mouth and you don't quite know how to answer."
+    "你张口想要回答，却不知该怎么回答为妙。"
 
-# translate schinese Rahim_Outfit_03_2e465c12:
+translate schinese Rahim_Outfit_03_2e465c12:
 
-#     # r "No matter. I see that bat hasn't changed at all."
-#     r ""
+    # r "No matter. I see that bat hasn't changed at all."
+    r "不用解释，那只老蝙蝠还是一点没变。"
 
-# translate schinese Rahim_Outfit_03_592d2e95:
+translate schinese Rahim_Outfit_03_592d2e95:
 
-#     # r "that kid also would react like this whenever he came from the tavern..."
-#     r ""
+    # r "that kid also would react like this whenever he came from the tavern..."
+    r "那孩子每次从酒馆回来也像你害羞得不得了……"
 
-# translate schinese Rahim_Outfit_03_2b334075:
+translate schinese Rahim_Outfit_03_2b334075:
 
-#     # "Rahim lets the sentence linger."
-#     ""
+    # "Rahim lets the sentence linger."
+    "雷希姆停顿了一会，无言的时间把这句话拖得很长很长。"
 
-# translate schinese Rahim_Outfit_03_52ed08f1:
+translate schinese Rahim_Outfit_03_52ed08f1:
 
-#     # r "You should know that the apron belonged to the kid who worked for the bat before he... He was a good kid."
-#     r ""
+    # r "You should know that the apron belonged to the kid who worked for the bat before he... He was a good kid."
+    r "你应该知道，那条围裙本来是他给凯恩打工时穿的，直到……"
 
-# translate schinese Rahim_Outfit_03_783d15e1:
+translate schinese Rahim_Outfit_03_783d15e1:
 
-#     # r "You reminded me a lot of him."
-#     r ""
+    # r "You reminded me a lot of him."
+    r "他是个好孩子，[e]，你经常让我想起他。"
 
-# translate schinese Rahim_Outfit_03_2e43639a:
+translate schinese Rahim_Outfit_03_2e43639a:
 
-#     # e "Cane... said that about me... too."
-#     e ""
+    # e "Cane... said that about me... too."
+    e "凯恩……也这么对我说。"
 
-# translate schinese Rahim_Outfit_03_f415e1f3:
+translate schinese Rahim_Outfit_03_f415e1f3:
 
-#     # r "However, you are your own person. I've come to realize that. It's one of the reasons why this piece is created."
-#     r ""
+    # r "However, you are your own person. I've come to realize that. It's one of the reasons why this piece is created."
+    r "凯恩送你围裙是想把你打扮成那孩子。"
 
-# translate schinese Rahim_Outfit_03_38c89ab8:
+translate schinese Rahim_Outfit_03_38c89ab8:
 
-#     # r "The apron is yours because the bat has given it to you."
-#     r ""
+    # r "The apron is yours because the bat has given it to you."
+    r "但你就是你，这段时间下来我很清楚。这也是酒馆套装要推出新款式的原因之一。"
 
-# translate schinese Rahim_Outfit_03_1b4884d8:
+translate schinese Rahim_Outfit_03_1b4884d8:
 
-#     # r "But you are you."
-#     r ""
+    # r "But you are you."
+    pass
 
-# translate schinese Rahim_Outfit_03_cbe498ce:
+translate schinese Rahim_Outfit_03_cbe498ce:
 
-#     # "Rahim coughs and turns serious."
-#     ""
+    # "Rahim coughs and turns serious."
+    "雷希姆清清嗓子，语调变得严肃起来。"
 
-# translate schinese Rahim_Outfit_03_1869e700:
+translate schinese Rahim_Outfit_03_1869e700:
 
-#     # r "I'm sure the tavern has enjoyed that new outfit."
-#     r ""
+    # r "I'm sure the tavern has enjoyed that new outfit."
+    r "想必酒馆里的顾客非常喜欢这件皮套裤。"
 
-# translate schinese Rahim_Outfit_03_80d1d10e:
+translate schinese Rahim_Outfit_03_80d1d10e:
 
-#     # "Rahim sighs and breathes under his breath."
-#     ""
+    # "Rahim sighs and breathes under his breath."
+    "他叹口气，继续语重心长地叮嘱你。"
 
-# translate schinese Rahim_Outfit_03_ec0e59ed:
+translate schinese Rahim_Outfit_03_ec0e59ed:
 
-#     # r "Just be careful."
-#     r ""
+    # r "Just be careful."
+    r "当心别被那种氛围冲昏头脑。"
 
-# translate schinese Rahim_Outfit_03_65352677:
+translate schinese Rahim_Outfit_03_65352677:
 
-#     # r "...Enough sad talk."
-#     r ""
+    # r "...Enough sad talk."
+    r "……不说扫兴话了，我们继续谈正事。"
 
-# translate schinese Rahim_Outfit_03_cd51c49e:
+translate schinese Rahim_Outfit_03_cd51c49e:
 
-#     # r "This is an everyday wear. It's quite long so make sure you don't step on it accidentally."
-#     r ""
+    # r "This is an everyday wear. It's quite long so make sure you don't step on it accidentally."
+    r "拿着，这套长袍适合平时穿着宅家或者逛街。袖子很长不要踩到，免得把自己绊倒。"
 
-# translate schinese Rahim_Outfit_03_bd5c63e4:
+translate schinese Rahim_Outfit_03_bd5c63e4:
 
-#     # "You change."
-#     ""
+    # "You change."
+    "你接过衣服换上。"
 
-# translate schinese Rahim_Outfit_03_a28c4b7c:
+translate schinese Rahim_Outfit_03_a28c4b7c:
 
-#     # e "Rahim, I don't see any innerwear. Am I not supposed to wear anything underneath?"
-#     e ""
+    # e "Rahim, I don't see any innerwear. Am I not supposed to wear anything underneath?"
+    e "雷叔，我没有看到打底的内裤，难道里面就是要什么都不穿吗？"
 
-# translate schinese Rahim_Outfit_03_af28e841:
+translate schinese Rahim_Outfit_03_af28e841:
 
-#     # r "yes."
-#     r ""
+    # r "yes."
+    r "对。"
 
-# translate schinese Rahim_Outfit_03_d4993d94:
+translate schinese Rahim_Outfit_03_d4993d94:
 
-#     # e "But..."
-#     e ""
+    # e "But..."
+    e "可是……"
 
-# translate schinese Rahim_Outfit_03_d5259cc6:
+translate schinese Rahim_Outfit_03_d5259cc6:
 
-#     # "Rahim cuts you off."
-#     ""
+    # "Rahim cuts you off."
+    "他当即打断了你的推辞。"
 
-# translate schinese Rahim_Outfit_03_01d24678:
+translate schinese Rahim_Outfit_03_01d24678:
 
-#     # r "Go off now. Walk around town and get people's reaction."
-#     r ""
+    # r "Go off now. Walk around town and get people's reaction."
+    r "扭扭捏捏。快去，问问大家的评价。"
 
-# translate schinese Rahim_Outfit_End_3f042727:
+translate schinese Rahim_Outfit_End_3f042727:
 
-#     # e "Rahim, I got the comments for the outfit. Haskell especially likes it."
-#     e ""
+    # e "Rahim, I got the comments for the outfit. Haskell especially likes it."
+    e "我问过大家了，哈斯克尔特别喜欢这套。"
 
-# translate schinese Rahim_Outfit_End_a715ceb7:
+translate schinese Rahim_Outfit_End_a715ceb7:
 
-#     # r "Haskell? You mean Ole's friend who makes all their potions at the shop?"
-#     r ""
+    # r "Haskell? You mean Ole's friend who makes all their potions at the shop?"
+    r "哈斯克尔？那个和奥利是朋友的药水批发商？"
 
-# translate schinese Rahim_Outfit_End_5020d334:
+translate schinese Rahim_Outfit_End_5020d334:
 
-#     # e "Yes. He wears a lot of robes. He said he might visit you to have you make some for him."
-#     e ""
+    # e "Yes. He wears a lot of robes. He said he might visit you to have you make some for him."
+    e "对，他经常穿长袍，还说有机会要来找你定制几套。"
 
-# translate schinese Rahim_Outfit_End_b5ecb9fa:
+translate schinese Rahim_Outfit_End_b5ecb9fa:
 
-#     # r "Interesting."
-#     r ""
+    # r "Interesting."
+    r "我欢迎识货的顾客。"
 
-# translate schinese Rahim_Outfit_End_09728c42:
+translate schinese Rahim_Outfit_End_09728c42:
 
-#     # r "Now that you've tried out all three outfits. Which one do you prefer?" nointeract
-#     r "" nointeract
+    # r "Now that you've tried out all three outfits. Which one do you prefer?" nointeract
+    r "所以……三套试下来你最喜欢哪套？" nointeract
 
-# translate schinese Rahim_Outfit_End_6a685a8f:
+translate schinese strings:
 
-#     # r "Good choice. Take good care of it."
-#     r ""
+    old "Adventurer Outfit"
+    new "探险家套装"
 
-# translate schinese Rahim_Outfit_End_79c8fdaf:
+    old "Tavern Outfit"
+    new "酒馆套装"
 
-#     # r "Don't let Lothar pressure you into give you the armor."
-#     r ""
+    old "Flowy Outfit"
+    new "飘逸套装"
 
-# translate schinese Rahim_Outfit_End_a869f733:
+translate schinese Rahim_Outfit_End_6a685a8f:
 
-#     # r "He might Lutherfield's hero but he's not getting anything for free."
-#     r ""
+    # r "Good choice. Take good care of it."
+    r "上乘之选，好好保管它。"
 
-# translate schinese Rahim_Outfit_End_0dfaa213:
+translate schinese Rahim_Outfit_End_79c8fdaf:
 
-#     # r "Not a bad choice."
-#     r ""
+    # r "Don't let Lothar pressure you into give you the armor."
+    r "不要被洛萨尔花言巧语或者仗势欺人给骗走了。"
 
-# translate schinese Rahim_Outfit_End_83cec16e:
+translate schinese Rahim_Outfit_End_a869f733:
 
-#     # r "And... Um... Don't let the bat knows that I'm giving you this for free."
-#     r ""
+    # r "He might Lutherfield's hero but he's not getting anything for free."
+    r "他可以做他的乐村大英雄，但再大的英雄也没有免单特权。"
 
-# translate schinese Rahim_Outfit_End_2c1e89a9:
+translate schinese Rahim_Outfit_End_0dfaa213:
 
-#     # r "That creep will never stop taking advantage of it if you do."
-#     r ""
+    # r "Not a bad choice."
+    r "不赖的选择。"
 
-# translate schinese Rahim_Outfit_End_cdc7d258:
+translate schinese Rahim_Outfit_End_83cec16e:
 
-#     # r "Practical and fashionable."
-#     r ""
+    # r "And... Um... Don't let the bat knows that I'm giving you this for free."
+    r "对了……呃……不要让凯恩知道这件是免费送给你的。"
 
-# translate schinese Rahim_Outfit_End_3c0e486c:
+translate schinese Rahim_Outfit_End_2c1e89a9:
 
-#     # r "Thanks for bringing to my attention Haskell's appreciation for this style of clothing. Maybe I shall visit him first."
-#     r ""
+    # r "That creep will never stop taking advantage of it if you do."
+    r "那个老奸商从来不放过任何占便宜的机会。"
 
-# translate schinese Rahim_Outfit_End_5b2b781a:
+translate schinese Rahim_Outfit_End_cdc7d258:
 
-#     # r "I also added some tailoring changes with Ole and Sebastian's input."
-#     r ""
+    # r "Practical and fashionable."
+    r "不错，长袍舒服又新潮。"
 
-# translate schinese Rahim_Outfit_End_a77bd734:
+translate schinese Rahim_Outfit_End_3c0e486c:
 
-#     # r "I've added some tailoring changes based on the feedback."
-#     r ""
+    # r "Thanks for bringing to my attention Haskell's appreciation for this style of clothing. Maybe I shall visit him first."
+    r "可惜平常穿它的人太少，既然哈斯克尔喜欢穿，或许我反而该先拜访他和他聊聊以后的设计。"
 
-# translate schinese Rahim_Outfit_End_c3d41cc3:
+translate schinese Rahim_Outfit_End_5b2b781a:
 
-#     # r "Thanks for treating this seriously. I'm not sure you would. This doesn't normally fall under the job scope of a courier."
-#     r ""
+    # r "I also added some tailoring changes with Ole and Sebastian's input."
+    r "我还根据你两个房东的意见修改了这件的款型。"
 
-# translate schinese Rahim_Outfit_End_9ad5955e:
+translate schinese Rahim_Outfit_End_a77bd734:
 
-#     # e "No... Thank you Rahim, for letting me try out all of your designs and gifting this one to me."
-#     e ""
+    # r "I've added some tailoring changes based on the feedback."
+    pass
 
-# translate schinese Rahim_Outfit_End_ae397942:
+translate schinese Rahim_Outfit_End_c3d41cc3:
 
-#     # r "Hmm..."
-#     r ""
+    # r "Thanks for treating this seriously. I'm not sure you would. This doesn't normally fall under the job scope of a courier."
+    r "总之，谢谢你认真帮我收集反馈。"
+    r "说实话一开始我以为你会拒绝，毕竟当模特不是邮差的份内事。"
+
+translate schinese Rahim_Outfit_End_9ad5955e:
+
+    # e "No... Thank you Rahim, for letting me try out all of your designs and gifting this one to me."
+    e "不……是我要感谢你邀请我体验新设计，还愿意送我一套这么名贵的衣裳。"
+
+translate schinese Rahim_Outfit_End_ae397942:
+
+    # r "Hmm..."
+    r "嗯……"
 
 translate schinese Rahim_Dialogue_End_8d660a05:
 

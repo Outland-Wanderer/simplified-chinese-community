@@ -72,9 +72,6 @@ translate schinese strings:
     # old "Report about the minotaur's essence"
     # new ""
 
-    # old "Ask about your outfit"
-    # new ""
-
     old "Ask about Ole's sickness"
     new "求助奥利的病情"
 
@@ -1023,125 +1020,126 @@ translate schinese Haskell_Buggbear_Quest_3cbb205f:
     # h "Go now. Before you accidentally sedate yourself with that powder."
     h "去吧。小心别把粉撒自己脸上了。"
 
-# translate schinese Haskell_Outfit_03_9143a877:
+translate schinese Haskell_Outfit_03_9143a877:
 
-#     # h "Are you here for another potion order? Haven't I told you that you can brew the potions yourself in the future?"
-#     h ""
+    # h "Are you here for another potion order? Haven't I told you that you can brew the potions yourself in the future?"
+    h "可别再来找我做药水了。之前不都跟你说过你可以自己配吗？"
 
-# translate schinese Haskell_Outfit_03_7e959bbb:
+translate schinese Haskell_Outfit_03_7e959bbb:
 
-#     # e "No. I'm actually here because Ole asked me to."
-#     e ""
+    # e "No. I'm actually here because Ole asked me to."
+    e "没、没，我这次来不是因为奥利叫我来的。"
 
-# translate schinese Haskell_Outfit_03_cb913600:
+translate schinese Haskell_Outfit_03_cb913600:
 
-#     # h "Huh? What is this about?"
-#     h ""
+    # h "Huh? What is this about?"
+    h "噢？那你今天来……？"
 
-# translate schinese Haskell_Outfit_03_acd911be:
+translate schinese Haskell_Outfit_03_acd911be:
 
-#     # e "It's nothing serious. Ole notices that you wear robes often and our town tailor is attempting to make a robe as an everyday wear. We would like to get your comments on it."
-#     e ""
+    # e "It's nothing serious. Ole notices that you wear robes often and our town tailor is attempting to make a robe as an everyday wear. We would like to get your comments on it."
+    e "也不是什么大事。我们村的裁缝新设计了一款居家长袍，奥利见你经常穿长袍，就想让你评价一下。"
 
-# translate schinese Haskell_Outfit_03_c4a3749e:
+translate schinese Haskell_Outfit_03_c4a3749e:
 
-#     # h "Your town tailor?"
-#     h ""
+    # h "Your town tailor?"
+    h "你们村的裁缝？"
 
-# translate schinese Haskell_Outfit_03_794d4c7b:
+translate schinese Haskell_Outfit_03_794d4c7b:
 
-#     # e "Yes. His name is Rahim."
-#     e ""
+    # e "Yes. His name is Rahim."
+    e "对，他叫雷希姆。"
 
-# translate schinese Haskell_Outfit_03_9c68c050:
+translate schinese Haskell_Outfit_03_9c68c050:
 
-#     # "Haskell examines the robe you're wearing with his eyes."
-#     ""
+    # "Haskell examines the robe you're wearing with his eyes."
+    "老龙上下仔细打量起你这身长袍。"
 
-# translate schinese Haskell_Outfit_03_aaf57869:
+translate schinese Haskell_Outfit_03_aaf57869:
 
-#     # h "Yes. He has good craftsmanship. Maybe I should visit him sometime to have him make me some new clothes."
-#     h ""
+    # h "Yes. He has good craftsmanship. Maybe I should visit him sometime to have him make me some new clothes."
+    h "嗯，很久没见到这么好的手艺了。改天我大概会请他帮我定做几件新衣服。"
 
-# translate schinese Haskell_Outfit_03_6e2d422b:
+translate schinese Haskell_Outfit_03_6e2d422b:
 
-#     # e "That is very high praise. I'll be sure to tell Rahim about it."
-#     e ""
+    # e "That is very high praise. I'll be sure to tell Rahim about it."
+    e "谢谢你这么高的评价，我会转告雷叔的。"
 
-# translate schinese Haskell_Outfit_03_f8947e23:
+translate schinese Haskell_Outfit_03_f8947e23:
 
-#     # "Haskell nods."
-#     ""
+    # "Haskell nods."
+    "哈斯克尔点头。"
 
-# translate schinese Haskell_Outfit_03_45e1d419:
+translate schinese Haskell_Outfit_03_45e1d419:
 
-#     # "You don't move because you have something to ask Haskell but don't know how to phrase it."
-#     ""
+    # "You don't move because you have something to ask Haskell but don't know how to phrase it."
+    "不过现在你还不想走，因为有件事你想问他，但不知道该如何开口。"
 
-# translate schinese Haskell_Outfit_03_f7a4cead:
+translate schinese Haskell_Outfit_03_f7a4cead:
 
-#     # "Haskell notices you fidgeting."
-#     ""
+    # "Haskell notices you fidgeting."
+    "哈斯克尔注意到了你踌躇的表情。"
 
-# translate schinese Haskell_Outfit_03_c4362b0f:
+translate schinese Haskell_Outfit_03_c4362b0f:
 
-#     # h "What is it? Is there anything else?"
-#     h ""
+    # h "What is it? Is there anything else?"
+    h "怎么？还有什么事？"
 
-# translate schinese Haskell_Outfit_03_c614b647:
+translate schinese Haskell_Outfit_03_c614b647:
 
-#     # "You decide it's best to be direct."
-#     ""
+    # "You decide it's best to be direct."
+    "你决定痛快点直说。"
 
-# translate schinese Haskell_Outfit_03_fa58f0be:
+translate schinese Haskell_Outfit_03_fa58f0be:
 
-#     # e "Haskell, is it true that you wear nothing under the robe?"
-#     e ""
+    # e "Haskell, is it true that you wear nothing under the robe?"
+    e "我想知道……你长袍下面真的什么都没穿吗？"
 
-# translate schinese Haskell_Outfit_03_bca5c9ee:
+translate schinese Haskell_Outfit_03_bca5c9ee:
 
-#     # "Haskell raises his brow at you."
-#     ""
+    # "Haskell raises his brow at you."
+    "一向面瘫的老龙难得挑起了眉毛。"
 
-# translate schinese Haskell_Outfit_03_b14280c1:
+translate schinese Haskell_Outfit_03_b14280c1:
 
-#     # h "Wouldn't you like to know, kiddo?"
-#     h ""
+    # h "Wouldn't you like to know, kiddo?"
+    h "好奇大人的私事？小朋友。"
 
-# translate schinese Haskell_Outfit_03_11052305:
+translate schinese Haskell_Outfit_03_11052305:
 
-#     # "You realize how that sounded in your ears and you blush."
-#     ""
+    # "You realize how that sounded in your ears and you blush."
+    "你回想自己刚才的问法，不禁涨红了脸，结结巴巴地为自己解释。"
 
-# translate schinese Haskell_Outfit_03_c1705aec:
+translate schinese Haskell_Outfit_03_c1705aec:
 
-#     # e "I mean, in general. Not you specifically, but if you want to tell me..."
-#     e ""
+    # e "I mean, in general. Not you specifically, but if you want to tell me..."
+    e "我、我是说你们，你们经常穿长袍的人。没有单单指你，但如果你愿意告诉我的话……"
 
-# translate schinese Haskell_Outfit_03_5d05da60:
+translate schinese Haskell_Outfit_03_5d05da60:
 
-#     # "Haskell chuckles lowly."
-#     ""
+    # "Haskell chuckles lowly."
+    "哈斯克尔暗笑。"
 
-# translate schinese Haskell_Outfit_03_8bddc7ca:
+translate schinese Haskell_Outfit_03_8bddc7ca:
 
-#     # h "It's different for everyone. Some do and some don't."
-#     h ""
+    # h "It's different for everyone. Some do and some don't."
+    h "因人而异。有些会穿打底的衣物，有些不会。"
 
-# translate schinese Haskell_Outfit_03_46a061fb:
+translate schinese Haskell_Outfit_03_46a061fb:
 
-#     # "You are quite disappointed and relieved that Haskell didn't hound you on the slip of the tongue."
-#     ""
+    # "You are quite disappointed and relieved that Haskell didn't hound you on the slip of the tongue."
+    "你既庆幸他没有因为刚刚的拌嘴为难你，又遗憾没能知道他里面到底穿没穿。"
 
-# translate schinese Haskell_Outfit_03_e0d2a478:
+translate schinese Haskell_Outfit_03_e0d2a478:
 
-#     # h "Personally, I don't wear anything underneath. Maybe one day I can show you."
-#     h ""
+    # h "Personally, I don't wear anything underneath. Maybe one day I can show you."
+    h "而我属于后者。"
+    h "指不定哪天我可以让你看看，彻底满足你的好奇心。"
 
-# translate schinese Haskell_Outfit_03_dd8b7616:
+translate schinese Haskell_Outfit_03_dd8b7616:
 
-#     # "Your face burns."
-#     ""
+    # "Your face burns."
+    "充满挑逗的话语让你耳根发烫。"
 
 translate schinese Haskell_Ask_Lusterfield_e61b03eb:
 

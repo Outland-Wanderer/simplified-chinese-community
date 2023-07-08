@@ -1044,14 +1044,14 @@ translate schinese strings:
     old "Visit the Potion maker"
     new "拜访药剂师"
 
-    # old "New Outfit" #09
-    # new "新装备"
+    old "New Outfit" #09
+    new "新人新装"
 
-    # old "Rahim is testing his new clothing design, he needs someone to become his model."
-    # new "雷希姆设计了几套新衣服，需要有人当模特试穿。"
+    old "Rahim is testing his new clothing design, he needs someone to become his model."
+    new "雷希姆设计了几套新衣服，需要有人当模特试穿。"
 
-    # old "Put on the Outfit and ask around the Village"
-    # new "穿上新衣服并询问大家的意见"
+    old "Put on the Outfit and ask around the Village"
+    new "穿上新衣服并询问大家的意见"
 
     old "Suspicious Activity" #10
     new "可疑的动向"
