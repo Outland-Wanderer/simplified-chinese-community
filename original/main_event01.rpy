@@ -1808,9 +1808,9 @@ translate schinese Event_Party01_4498a5ed:
     # l "W-who?"
     l ""
 
-translate schinese Event_Party01_4294da57:
+translate schinese Event_Party01_c126b7ca:
 
-    # j " The elk. He's near the werewolves' den."
+    # j "The elk. He's near the werewolves' den."
     j ""
 
 translate schinese Event_Party01_7543ea61:
@@ -4318,9 +4318,9 @@ translate schinese Event_Party01_End_797de81a:
     # "You take in the surroundings of Lusterfield."
     ""
 
-translate schinese Event_Party01_End_d86cf5d3:
+translate schinese Event_Party01_End_0987da05:
 
-    # "It is not Hawkaita. And your clanspeople are not here."
+    # "It is not Puro. And your clanspeople are not here."
     ""
 
 translate schinese Event_Party01_End_e0e9d104:

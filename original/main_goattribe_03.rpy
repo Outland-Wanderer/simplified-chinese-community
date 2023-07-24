@@ -443,61 +443,6 @@ translate schinese Gwyddyon_Normal_Talk_93d16ea9:
     # g "And until next time, Wanderer."
     g ""
 
-translate schinese Gwyddyon_Shopping_0eb295fc:
-
-    # g "See for yourself, these are some of the most wonderful adornments and incantations out here, I've got some odds and ends too."
-    g ""
-
-translate schinese Gwyddyon_Shopping_Loop_9cebefc3:
-
-    # g "Believe it or not, you can get this [ttt!t] for only [mmm] gold. One time offer."
-    g ""
-
-translate schinese Gwyddyon_Shopping_Loop_5f0c8525:
-
-    # g "That's not my specialty, but I say this [ttt!t] is worth... [mmm] gold, probably."
-    g ""
-
-translate schinese Gwyddyon_Shopping_Loop_2a750d15:
-
-    # g "Well, how about [mmm] gold for this [ttt!t]? It's of the best quality, obviously."
-    g ""
-
-translate schinese Gwyddyon_Shopping_Loop_63432e0c:
-
-    # g "You want this [ttt!t]? I can do [mmm] gold."
-    g ""
-
-translate schinese Gwyddyon_Shopping_Loop_c1582fa7:
-
-    # g "Let's see. I say it's at most [mmm] gold, do you wanna sell this [ttt!t]?"
-    g ""
-
-translate schinese Gwyddyon_Shopping_Loop_d3fa04b8:
-
-    # g "Doesn't look too bad. Though, you should probably keep this [ttt!t] for yourself, I can buy it for [mmm] gold."
-    g ""
-
-translate schinese Gwyddyon_Shopping_Loop_464acfb2:
-
-    # g "Could be useful, I think. How about [mmm] gold and I'll keep this [ttt!t] for you."
-    g ""
-
-translate schinese Gwyddyon_Shopping_Loop_9b079d01:
-
-    # g "Not a specialist, but I can probably go for... [mmm] gold for this [ttt!t]."
-    g ""
-
-translate schinese Gwyddyon_Shopping_Loop_9cb1baca:
-
-    # g "It was a great bargain, [e]. Thanks for the [mmm] gold and here's your [ttt!t]."
-    g ""
-
-translate schinese Gwyddyon_Shopping_Loop_28a63adc:
-
-    # g "Mmmph. That can be useful. Here's the [mmm] gold for your [ttt!t]."
-    g ""
-
 translate schinese Gwyddyon_Ask_Business_9c3193bd:
 
     # e "Gwyddyon, what is the bussiness like now?"
@@ -1033,6 +978,581 @@ translate schinese Gwyddyon_Ask_History_Cauldron_48916b18:
     # "Disheartened, you leave the sheep alone."
     ""
 
+translate schinese Gwyddyon_Mining_Task_59ca023c:
+
+    # e "What's up with the rocks."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_59066480:
+
+    # g "They're minerals! Wanderer."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_5684891d:
+
+    # g "I know you've been living with that dimwit of a lion, but please do not mistake my life-long invention just as another rock."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_d71a69f9:
+
+    # e "Oh... Is that why Seb has a weird rock collection in his shop?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_1e6bd3c6:
+
+    # g "Those are rocks, I taught him when he first started with the shop with his lizard friend."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_d5539639:
+
+    # g "But instead of getting fascinated by the amazing properties of magical crystals like a normal person would, he went to look at normal rocks!"
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_dac7d11f:
+
+    # g "Like this one."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_bd5ee5c8:
+
+    # "Gwyddyon takes out a crumbly rock from his counter, it's coarse with patches of moss on top."
+    ""
+
+translate schinese Gwyddyon_Mining_Task_d05a96aa:
+
+    # "You stare at it for a while, it looks just like what Sebas has in his rock collection."
+    ""
+
+translate schinese Gwyddyon_Mining_Task_77689845:
+
+    # e "Is this one magical?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_2d1b86a7:
+
+    # g "NO! It's a normal rock I picked up from the road!"
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_a113fe33:
+
+    # e "A-ah... alright. Seb would happily take it home and frame this thing along with the other rocks."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_92aae5ef:
+
+    # g "Yes, and don't get me started with his unwillingness of learning basic rock classifying."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_69582d41:
+
+    # e "But I think he knows what he's doing, if not for his study on the guardian's hand, I wouldn't have known about your Chief's situation."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_8fdd04e3:
+
+    # g "You're talking like I cared about the chief."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_5aceab4a:
+
+    # "He pauses suddenly, staring at you with a raised brow."
+    ""
+
+translate schinese Gwyddyon_Mining_Task_cf84932b:
+
+    # g "How are you still here anyway, shouldn't you be gone looking for your friend?"
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_f7dd8c38:
+
+    # e "Maybe if you give me the clues as to where he went... that'd be much appreciated."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_d8821b10:
+
+    # g "Ambitious, aren't you?"
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_f057211a:
+
+    # g "Look, there's something I needed, getting me enough of them could grant you a privilege of talking to me."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_9075a4cb:
+
+    # e "Is that a fair trade?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_0a8fedf5:
+
+    # g "Depends on whether you're hardworking and all."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_15257dd5:
+
+    # g "You've been in the mines?"
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_052b6518:
+
+    # e "Uh? What mines?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_6baff862:
+
+    # g "Any mines at all, presumably from the werewolves."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_dff85f8d:
+
+    # e "I did, how did you know?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_9d55979d:
+
+    # g "You're shining of crystals. Those who are dimwits can't see the light, but I can."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_7f4e3b05:
+
+    # "Gwyddyon taps his finger on the monocles. Perhaps the glass has something reflective in it?"
+    ""
+
+translate schinese Gwyddyon_Mining_Task_3a3dddce:
+
+    # e "Am I a dimwit?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_c6ee028c:
+
+    # g "Yes, a different kind of dimwit, I must say."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_c7dd6d15:
+
+    # g "I don't require much effort, just give me a few of the minerals you've seen in the cave."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_21b8f708:
+
+    # g "I used to get them all the time when the brown one was alive, but every day in the dark forest is a dangerous one."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_7b843e99:
+
+    # g "Now they're killing each other again."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_26307c75:
+
+    # e "Uhm... What do you need?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_1810ae7e:
+
+    # g "Like the last time, I'll need 10 pieces of [mineralofchoicy]."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_2fc56c6e:
+
+    # g "Have you seen Lodestones?"
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_5b0dabfc:
+
+    # g "Those are magical rocks that is embedded in nature."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_448dd460:
+
+    # e "Why are they magical?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_0031cde5:
+
+    # g "These rocks don't have magic. But they attract metal rocks, earlier folks used them for navigation dangerous forest."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_2609e333:
+
+    # e "They're magnetic, aren't they?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_ff35ab19:
+
+    # g "Correct, that's why they come in handy for some ingenious devices I'm making."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_74b61c2f:
+
+    # g "I don't need much, just 10 pieces of Lodestones would deem enough."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_d5a63896:
+
+    # e "Oh... ok."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_49ac0d09:
+
+    # g "You know about copper, right?"
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_ca113fb5:
+
+    # g "Nothing fancy, just give me 10 of them."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_ee5b99ff:
+
+    # g "After you finished, I'll give you what you deserve, 100 gold."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_0838ee03:
+
+    # e "That sounds fair."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_5fdc4c06:
+
+    # "You say sarcastically, with a raised voice."
+    ""
+
+translate schinese Gwyddyon_Mining_Task_9a0fbfc7:
+
+    # g "Fair? That's probably the greatest trade deal of the century, if not all time."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_fd56a20b:
+
+    # "You were not sure if he's not too bright to notice the sarcasm, or he's willfully ignoring the glaring difference in rewards."
+    ""
+
+translate schinese Gwyddyon_Mining_Task_3d6829c5:
+
+    # g "And on top of that, if you've done enough, I can sell you some information about what I know."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_987e3d37:
+
+    # e "Really?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_e01c9819:
+
+    # g "Real. For maybe 450 gold."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_a319ec39:
+
+    # e "But wait, doesn't that mean, I have to give you 350 gold, AND give you the [mineralofchoicy]?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_7a025b9a:
+
+    # "That was far too steep of a price, and you know Gwyddyon knows it too."
+    ""
+
+translate schinese Gwyddyon_Mining_Task_42bd778a:
+
+    # g "It's what it costs."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_c138f530:
+
+    # e "Damn, Gwyd. You're more of a ruthless businessman than Cane."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_bb29a33f:
+
+    # g "Maybe we're both eying that bulge in your pant for a long time."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_b995fac7:
+
+    # "Was he flirting at you? He doesn't look like the type but admittedly you feel your crotch getting hard just from Gwyddyon staring at it."
+    ""
+
+translate schinese Gwyddyon_Mining_Task_c18eb48e:
+
+    # e "W-what?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_9b1ddf7f:
+
+    # g "It's the gold in your pouch. As an ardent researcher it's normal to require a substantial sum of capital investment."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_623afffd:
+
+    # g "And I've not had access to anywhere up there because of those dimwits, so it makes sense why I'm squeezing every little gold out of you."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_c780c32a:
+
+    # g "I used to be an exception, under his father's order. But now, no one is allowed anywhere near the site."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_0ea53e24:
+
+    # g "It turns out that apple does fall far from the tree."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_b6054fb3:
+
+    # "Gwyddyon scractches at his monocle."
+    ""
+
+translate schinese Gwyddyon_Mining_Task_5309ab5e:
+
+    # e "I think Furkan is just a different leader than who Tevfik was."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_3a7bde85:
+
+    # "He raises his brow again, this time paired with a concerned look."
+    ""
+
+translate schinese Gwyddyon_Mining_Task_00633d11:
+
+    # g "Do you trust him?" nointeract
+    g "" nointeract
+
+translate schinese Gwyddyon_Mining_Task_b81c4a06:
+
+    # e "I do. He's loyal and capable."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_1be72bee:
+
+    # g "It's going to cost you a lot trusting someone who you know nothing about..."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_fb3b7603:
+
+    # "You still believe Furkan deserves some merits, regardless of what the goat tribe has been lately."
+    ""
+
+translate schinese Gwyddyon_Mining_Task_f8b23318:
+
+    # e "He is a good friend, but sometimes his decisions are... questionable."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_f7842e87:
+
+    # g "Well, see? I know we'd have more in common than a clueless ram who's out of his depth."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_7c194227:
+
+    # "You remain silent, even you've advocated for Furkan, you can't stop but see the deep troubles goat tribe has gotten into."
+    ""
+
+translate schinese Gwyddyon_Mining_Task_041c427f:
+
+    # g "Now I know a little more about you, with the price of nothing."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_6d4d3f5b:
+
+    # e "Still the same reward?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_5c4acffe:
+
+    # g "Yes, 100 gold, and an additional opportunity to talk about anything else you need."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_e335fe1f:
+
+    # e "You're really talking like it's worth the price."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_20bb1e92:
+
+    # "Gwyddyon shows you a faint smile, before he sends you away."
+    ""
+
+translate schinese Gwyddyon_Mining_Task_a1f619b4:
+
+    # g "Go now, Wanderer. Don't come back until you've gotten what I needed."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_Inquire_47680ae6:
+
+    # e "Hey, Gwyd. What do I need again?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_Inquire_881cb3c1:
+
+    # g "Lodestone, inside the cavern in the dark forest."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_Inquire_4a064de2:
+
+    # g "Copper, inside the cavern in the dark forest."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_Inquire_9c5fa07c:
+
+    # g "I need 10 of them so you better hurry up."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_Inquire_7634acec:
+
+    # e "O-ok..."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_End_8e60628c:
+
+    # e "Gwyd, I've returned with the [mineralofchoicy]."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_End_0f067bda:
+
+    # g "Is the number right?"
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_End_30a37427:
+
+    # e "You put forth all of the [mineralofchoicy], and push in front of him."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_End_a62003d1:
+
+    # e "Yes, all 10, on the counter, right now."
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_End_ceaa463e:
+
+    # g "Hmm. That one's a little funky, but I'll accept your effort."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_End_d512bb51:
+
+    # g "Here's your reward. all 100 gold, fair price, isn't it?"
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_End_2402de88:
+
+    # g "And I'll tell you what you needed, for another price, as promised."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_End_824ab7fd:
+
+    # e "T-thank you?"
+    e ""
+
+translate schinese Gwyddyon_Mining_Task_End_c7ffccca:
+
+    # g "That's not a sincere one but I'll let you off the hook for now."
+    g ""
+
+translate schinese Gwyddyon_Mining_Task_End_92a3c72d:
+
+    # msg "You received 100 gold from Gwyddyon."
+    msg ""
+
+translate schinese Gwyddyon_Mining_Task_End_39359a83:
+
+    # msg "New Shop Item from Gwyddyon Unlocked!"
+    msg ""
+
+translate schinese Gwyddyon_Research_Quest_edcb25a5:
+
+    # g "W-welcome to the Ardent Cauldron, we're almost closed-"
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_309bf759:
+
+    # "You hear the usual accosting, only this time it's in a raspy voice."
+    ""
+
+translate schinese Gwyddyon_Research_Quest_9178ee15:
+
+    # "The magic shopkeeper looks up, and he is greeted by your dumbfounded face."
+    ""
+
+translate schinese Gwyddyon_Research_Quest_d4b54357:
+
+    # g "Wanderer, you're just in time, look at this thing."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_5aa671f5:
+
+    # e "H-hey Gwyd, what's that?"
+    e ""
+
+translate schinese Gwyddyon_Research_Quest_2f3c68ce:
+
+    # g "A crystal I found in my stash. It was from near the primordial runes."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_c8e29bf1:
+
+    # g "I collected the crystal back before it was gone, I never got to learn of its true power."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_e792ce59:
+
+    # g "I just happened to remember it when you just arrived to my shop."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_673088e5:
+
+    # g "But I gotta say, the dust on that thing is going to give me hack of a cough no magic is going to cure."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_781b834b:
+
+    # "Gwyddyon points to his throat, you can still hear the croaky breathing as he speaks."
+    ""
+
+translate schinese Gwyddyon_Research_Quest_e752f764:
+
+    # e "Uh... I hope you recover soon?"
+    e ""
+
+translate schinese Gwyddyon_Research_Quest_5b976537:
+
+    # g "Yeah. We're talking crystal here, don't distract yourself from my sore throat."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_5f7743c9:
+
+    # g "Nothing is going to fit inside this for a while- I mean food, eating."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_41e9c065:
+
+    # "You give him a concerned glance, only to for him to ignore you entirely and stare back at the crystal."
+    ""
+
+translate schinese Gwyddyon_Research_Quest_6f071556:
+
+    # g "C-crystal. Don't you ever fiddle with this one, my friend. It can only be handled with a professional hand."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_74fc1d88:
+
+    # g "Especially when there's not many evidence or research ever done on the subject matter."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_673f7554:
+
+    # g "We shall be extra careful, regardless of how many times you helped me deliver the minerals, or the discount I spared you."
+    g ""
+
+translate schinese Gwyddyon_Research_Quest_ee6fb589:
+
+    # e "What discount?"
+    e ""
+
+translate schinese Gwyddyon_Research_Quest_89b7a043:
+
+    # g "That's the spirit, you need to forget they have ever existed."
+    g ""
+
 translate schinese strings:
 
     old "Why did you ask the reason I am still here?"
@@ -1042,6 +1562,15 @@ translate schinese strings:
     new ""
 
     old "Check out the shop"
+    new ""
+
+    old "Ask about his rocks"
+    new ""
+
+    old "Inquire about the mining task"
+    new ""
+
+    old "Report about the mining task"
     new ""
 
     old "Ask about the history of his shop"
@@ -1063,5 +1592,11 @@ translate schinese strings:
     new ""
 
     old "What was your life before being the shopkeeper"
+    new ""
+
+    old "I trust Furkan"
+    new ""
+
+    old "I do not trust Furkan"
     new ""
 

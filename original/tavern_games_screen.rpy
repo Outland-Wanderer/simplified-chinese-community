@@ -1,4 +1,545 @@
-﻿translate schinese Play_Disk_Game_47599636:
+﻿translate schinese Card_Game_Begin_b1c5c160:
+
+    # "Fokk hands each of you a pile of cards, and throws a 4-sided dice on the table."
+    ""
+
+translate schinese Card_Game_Begin_86c76b09:
+
+    # fokk "Our server 'ere will start the round."
+    fokk ""
+
+translate schinese Card_Game_Begin_9b7b397f:
+
+    # fokk "The dice's decided, I'll start the round."
+    fokk ""
+
+translate schinese Card_Game_Begin_4f38c0c8:
+
+    # fokk "Let's see, it says Gato gets the first turn."
+    fokk ""
+
+translate schinese Card_Game_Begin_12efa5bd:
+
+    # fokk "Coit's going to start this round."
+    fokk ""
+
+translate schinese Card_Game_Turn_5dba0788:
+
+    # "It's your turn!"
+    ""
+
+translate schinese Card_Game_Turn_15cf1240:
+
+    # "You played the kindler, and burnt the pile away."
+    ""
+
+translate schinese Card_Game_Turn_159ee3ad:
+
+    # "You played the watcher, and subsequently emptied your hand!"
+    ""
+
+translate schinese Card_Game_Turn_a74bde6d:
+
+    # "You played a watcher, and swapped your entire hand with Coit."
+    ""
+
+translate schinese Card_Game_Turn_0e0e9822:
+
+    # coit "Ye sly little creature, I'd had won with that hand."
+    coit ""
+
+translate schinese Card_Game_Turn_31266442:
+
+    # coit "Hah, take it. It's free fer ye."
+    coit ""
+
+translate schinese Card_Game_Turn_6e422b8b:
+
+    # "You played a watcher, and swapped your entire hand with Gato."
+    ""
+
+translate schinese Card_Game_Turn_5357be56:
+
+    gato ""
+
+translate schinese Card_Game_Turn_a117c54c:
+
+    gato ""
+
+translate schinese Card_Game_Turn_d86fb2d4:
+
+    # "You played a watcher, and swapped your entire hand with Fokk ."
+    ""
+
+translate schinese Card_Game_Turn_1df4b511:
+
+    # fokk "Ha! Yer making me sweat with this card, barely."
+    fokk ""
+
+translate schinese Card_Game_Turn_93ca7206:
+
+    # fokk "Oi, should've kept yer hand, don't cha think?"
+    fokk ""
+
+translate schinese Card_Game_Turn_ac2fc046:
+
+    # "You played a watcher, and kept the hand."
+    ""
+
+translate schinese Card_Game_Turn_9c6526b3:
+
+    # "You played a [cdg_action] to add onto the pile!"
+    ""
+
+translate schinese Card_Game_Turn_e3709d96:
+
+    # "You played a pair of [cdg_action]!"
+    ""
+
+translate schinese Card_Game_Turn_1b406566:
+
+    # "You played [stacked_card] cards of [cdg_action] right on the pile."
+    ""
+
+translate schinese Card_Game_Turn_c7471ad7:
+
+    # fokk "Not too shabby, but don't think the game's over yet."
+    fokk ""
+
+translate schinese Card_Game_Turn_2402ad47:
+
+    # coit "Hmm, decent move there."
+    coit ""
+
+translate schinese Card_Game_Turn_5f063826:
+
+    gato ""
+
+translate schinese Card_Game_Turn_7c0d374f:
+
+    # fokk "Heh, bummer isn't it, getting cozy with the party yer having in your hand?"
+    fokk ""
+
+translate schinese Card_Game_Turn_ce004342:
+
+    # coit "Aye, ye've got a lot to learn."
+    coit ""
+
+translate schinese Card_Game_Turn_b3a0ce4f:
+
+    # coit "Haha, keep ye wits taking plates and mugs, cards' definitely not a valid option for ye."
+    coit ""
+
+translate schinese Card_Game_Turn_55da46bf:
+
+    gato ""
+
+translate schinese Card_Game_Turn_0e23afc9:
+
+    gato ""
+
+translate schinese Card_Game_Turn_3746b6ac:
+
+    # "You took the entire Pile!"
+    ""
+
+translate schinese Card_Game_Turn_c540ba45:
+
+    # "Fokk burnt the whole pile."
+    ""
+
+translate schinese Card_Game_Turn_b24814a4:
+
+    # fokk "Don't need to thank me."
+    fokk ""
+
+translate schinese Card_Game_Turn_67f24f40:
+
+    # "Fokk plays a watcher, and finishes the game!"
+    ""
+
+translate schinese Card_Game_Turn_e6d2b588:
+
+    # fokk "Fancy little combo you've got there."
+    fokk ""
+
+translate schinese Card_Game_Turn_74497c44:
+
+    # "Fokk played a watcher, and decides to swap their hand with Coit!"
+    ""
+
+translate schinese Card_Game_Turn_17a392c4:
+
+    # coit "Feckin Fokk , that's MY hand."
+    coit ""
+
+translate schinese Card_Game_Turn_80f98da6:
+
+    # "Fokk played a watcher, and decides to swap their hand with Gato!"
+    ""
+
+translate schinese Card_Game_Turn_d1a449f6:
+
+    gato ""
+
+translate schinese Card_Game_Turn_7b3eac5c:
+
+    # "Fokk played a watcher, and decides to swap their hand with you!"
+    ""
+
+translate schinese Card_Game_Turn_50e53a44:
+
+    # fokk "Heh, keep ye hand."
+    fokk ""
+
+translate schinese Card_Game_Turn_029e0c28:
+
+    # "Fokk played a watcher, and decides not to swap their hand with Coit!"
+    ""
+
+translate schinese Card_Game_Turn_72f34827:
+
+    # "Fokk played a watcher, and decides not to swap their hand with Gato!"
+    ""
+
+translate schinese Card_Game_Turn_38b362f2:
+
+    # "Fokk played a watcher, and decides not to swap their hand with you!"
+    ""
+
+translate schinese Card_Game_Turn_4ecf3e2d:
+
+    # "Fokk played a card of [cdg_action]."
+    ""
+
+translate schinese Card_Game_Turn_96564b9e:
+
+    # "Fokk played a pair of [cdg_action]."
+    ""
+
+translate schinese Card_Game_Turn_d76c0bc3:
+
+    # "Fokk played [cdg_stacked] cards of [cdg_action]!"
+    ""
+
+translate schinese Card_Game_Turn_6d72a22a:
+
+    # fokk "Oi, take that. Didn't see this one coming didn't ye."
+    fokk ""
+
+translate schinese Card_Game_Turn_da3b2f10:
+
+    # fokk "Wonder if our server here can handle a little pressure, seen many a novice crumble under it, during and after the game."
+    fokk ""
+
+translate schinese Card_Game_Turn_05bb95a4:
+
+    # fokk "Damn, ye giving me headache with these drifter antics."
+    fokk ""
+
+translate schinese Card_Game_Turn_5e3ad427:
+
+    # fokk "What a shit hand I'm dealing with 'ere, but just so ye know, I've got more tricks up my sleeves."
+    fokk ""
+
+translate schinese Card_Game_Turn_1227e9c6:
+
+    # "Fokk took the whole pile!"
+    ""
+
+translate schinese Card_Game_Turn_119e9fdb:
+
+    gato ""
+
+translate schinese Card_Game_Turn_ee85d257:
+
+    # "Gato burnt the whole pile!"
+    ""
+
+translate schinese Card_Game_Turn_b0a2f3fb:
+
+    gato ""
+
+translate schinese Card_Game_Turn_88165e9b:
+
+    # "Gato uses a peeker, and finishes the game!"
+    ""
+
+translate schinese Card_Game_Turn_fd1d8a9c:
+
+    gato ""
+
+translate schinese Card_Game_Turn_45e1d2d5:
+
+    # "Gato played a watcher, and decides to swap their hand with Fokk !"
+    ""
+
+translate schinese Card_Game_Turn_5a78a06d:
+
+    # fokk "That's a bo'om of the barrel move there, Gato."
+    fokk ""
+
+translate schinese Card_Game_Turn_dabfc8e6:
+
+    # "Gato played a watcher, and decides to swap their hand with Coit!"
+    ""
+
+translate schinese Card_Game_Turn_e4fe6659:
+
+    # coit "Ye cheeky gator and yer devious tactics. Should've done it to Fokk instead!"
+    coit ""
+
+translate schinese Card_Game_Turn_c326b651:
+
+    # "Gato played a watcher, and decides to swap their hand with you!"
+    ""
+
+translate schinese Card_Game_Turn_37ff272c:
+
+    # "Gato played a watcher, and decides not to swap their hand with Fokk !"
+    ""
+
+translate schinese Card_Game_Turn_c63870d9:
+
+    # "Gato played a watcher, and decides not to swap their hand with Coit!"
+    ""
+
+translate schinese Card_Game_Turn_ea304a80:
+
+    # "Gato played a watcher, and decides not to swap their hand with you!"
+    ""
+
+translate schinese Card_Game_Turn_af9bbfc6:
+
+    # "Gato played a card of [cdg_action]!"
+    ""
+
+translate schinese Card_Game_Turn_756acb4d:
+
+    # "Gato played a pair of [cdg_action]!"
+    ""
+
+translate schinese Card_Game_Turn_dfc80260:
+
+    # "Gato played [cdg_stacked] cards of [cdg_action]!"
+    ""
+
+translate schinese Card_Game_Turn_8a877037:
+
+    gato ""
+
+translate schinese Card_Game_Turn_d7d5020a:
+
+    gato ""
+
+translate schinese Card_Game_Turn_72056210:
+
+    gato ""
+
+translate schinese Card_Game_Turn_653b5908:
+
+    gato ""
+
+translate schinese Card_Game_Turn_c4e55e37:
+
+    # "Gato took the whole pile!"
+    ""
+
+translate schinese Card_Game_Turn_0b54e09d:
+
+    # coit "Spicin things up little here, should've we?"
+    coit ""
+
+translate schinese Card_Game_Turn_3d1304cf:
+
+    # "Coit burnt the whole pile!"
+    ""
+
+translate schinese Card_Game_Turn_1d86e731:
+
+    # coit "Looks like lady luck is on me side here."
+    coit ""
+
+translate schinese Card_Game_Turn_26f13369:
+
+    # "Coit uses a peeker, and finishes the game!"
+    ""
+
+translate schinese Card_Game_Turn_fc8aab95:
+
+    # fokk "Well played, Coit. Take my entire hand with yer overpowered card."
+    fokk ""
+
+translate schinese Card_Game_Turn_3c4e1c27:
+
+    # "Coit played a watcher, and decides to swap their hand with Fokk !"
+    ""
+
+translate schinese Card_Game_Turn_56deca44:
+
+    gato ""
+
+translate schinese Card_Game_Turn_bdb043ae:
+
+    # "Coit played a watcher, and decides to swap their hand with Gato!"
+    ""
+
+translate schinese Card_Game_Turn_a17621ac:
+
+    # "Coit played a watcher, and decides to swap their hand with you!"
+    ""
+
+translate schinese Card_Game_Turn_909fa9c1:
+
+    # "Coit played a watcher, and decides not to swap their hand with Fokk !"
+    ""
+
+translate schinese Card_Game_Turn_f16e105a:
+
+    # "Coit played a watcher, and decides not to swap their hand with Gato!"
+    ""
+
+translate schinese Card_Game_Turn_1d862d3d:
+
+    # "Coit played a watcher, and decides not to swap their hand with you!"
+    ""
+
+translate schinese Card_Game_Turn_2cee5d2d:
+
+    # "Coit played a card of [cdg_action] onto the pile."
+    ""
+
+translate schinese Card_Game_Turn_7672a9ac:
+
+    # "Coit played a pair of [cdg_action]!"
+    ""
+
+translate schinese Card_Game_Turn_ddaded35:
+
+    # "Coit played [cdg_stacked] cards of [cdg_action] onto the pile."
+    ""
+
+translate schinese Card_Game_Turn_abbb7882:
+
+    # coit "Let's see if ye wankers can handle this one."
+    coit ""
+
+translate schinese Card_Game_Turn_c982a787:
+
+    # coit "I've been waiting to play this card!"
+    coit ""
+
+translate schinese Card_Game_Turn_b9dfdcb8:
+
+    # coit "Yer scoundrel! I swear ye're never winning with this shit move I tell ye."
+    coit ""
+
+translate schinese Card_Game_Turn_5d357d33:
+
+    # coit "Ugh, bet'cha my lady's going against me today. Serving a full pile o' crap right 'ere."
+    coit ""
+
+translate schinese Card_Game_Turn_b398e6de:
+
+    # "Coit took the pile!"
+    ""
+
+translate schinese Card_Game_Turn_121025cd:
+
+    # "All 4 cards of [burnt_card] on the top created a fire! The pile is burnt now."
+    ""
+
+translate schinese Card_Game_Turn_6bb01f10:
+
+    # fokk "Ha! I told ye all, I'm the bloody king of this game! Another game claimed right in my pocket."
+    fokk ""
+
+translate schinese Card_Game_Turn_a6e93ff6:
+
+    # fokk "Damn it! Well, if not for the cards I'd be winning right now."
+    fokk ""
+
+translate schinese Card_Game_Turn_1d3415b4:
+
+    # fokk "It must be this cursed deck! It's possessed, I tell ye."
+    fokk ""
+
+translate schinese Card_Game_Turn_e80ca08c:
+
+    gato ""
+
+translate schinese Card_Game_Turn_e4c40b19:
+
+    gato ""
+
+translate schinese Card_Game_Turn_8564d36b:
+
+    gato ""
+
+translate schinese Card_Game_Turn_0e011a26:
+
+    # coit "Haha! Look at that yall! Winner's 'ere. Who needs m' lady when we 'ave best goblet smacker in the tavern, ami' right?"
+    coit ""
+
+translate schinese Card_Game_Turn_a4b55580:
+
+    # coit "M' lady luck's on [cdg_winner[0]]'s side today, doesn't mean I'll be one of yall losers 'ere."
+    coit ""
+
+translate schinese Card_Game_Turn_4f05e0d7:
+
+    # coit "M' lady luck's on server's side today, doesn't mean I'll be one of yall losers 'ere."
+    coit ""
+
+translate schinese Card_Game_Turn_9a2b9567:
+
+    # coit "I'm blaming it on the stars, the moon, and every blasted celestial body! They were aligned against me, I swear!"
+    coit ""
+
+translate schinese Card_Game_Turn_52f6be7b:
+
+    # e "Damn, I've finished all my cards now."
+    e ""
+
+translate schinese Card_Game_Turn_a37f98b2:
+
+    gato ""
+
+translate schinese Card_Game_Turn_7579881d:
+
+    # fokk "Well, we gotta let Cane's favourite server's here win some games shouldn't we? I wasn't even playing seriously at all."
+    fokk ""
+
+translate schinese Card_Game_Turn_0e4a2633:
+
+    # coit "Did ye steal my remaining luck? How are ye winning against an experienced cardslinger like me."
+    coit ""
+
+translate schinese Card_Game_Turn_d6ca0a73:
+
+    # fokk "What a load of bollocks. Blame it on the server! He's clearly cloudin' me judgment..."
+    fokk ""
+
+translate schinese Card_Game_Turn_073727d9:
+
+    gato ""
+
+translate schinese Card_Game_Turn_1226dfc6:
+
+    # coit "Bugger me boots, that's a total bullshit. I've never seen this shit deck before. Lemme shuffle the cards next game!"
+    coit ""
+
+translate schinese Card_Game_Turn_25161131:
+
+    # e "O-oh, did you all finished all your cards?"
+    e ""
+
+translate schinese Card_Game_Turn_e4fb8f42:
+
+    # "This round is finished."
+    ""
+
+translate schinese Play_Disk_Game_47599636:
 
     # o "Alright, let me show you guys how it's done."
     o ""
@@ -585,5 +1126,44 @@ translate schinese strings:
     new ""
 
     old "Score"
+    new ""
+
+    old "Gato: [cdg_lc2]"
+    new ""
+
+    old "[e]: [cdg_lp]"
+    new ""
+
+    old "Fokk : [cdg_lc1]"
+    new ""
+
+    old "Coit: [cdg_lc3]"
+    new ""
+
+    old "Game Instruction"
+    new ""
+
+    old "[card_remaining] Cards in Deck"
+    new ""
+
+    old "Take the pile?"
+    new ""
+
+    old "It's not your turn yet!"
+    new ""
+
+    old "The card is too small!"
+    new ""
+
+    old "Special Cards can only be played on numbers higher than 6!"
+    new ""
+
+    old "Watcher: Watch and Swap with other."
+    new ""
+
+    old "Kindler: Burn the entire pile"
+    new ""
+
+    old "Drifter: Highest Rank in the game."
     new ""
 

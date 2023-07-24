@@ -1416,6 +1416,15 @@ translate schinese strings:
     old "[item_num] x Green Ointment"
     new ""
 
+    old "HP: [ally.hp] / [ally.max_hp]"
+    new ""
+
+    old "MP: [ally.mp] / [ally.max_mp]"
+    new ""
+
+    old "LUST: [ally.lust] / [ally.max_lust]"
+    new ""
+
     old "Yes{#slimelose}"
     new ""
 
@@ -1456,9 +1465,6 @@ translate schinese strings:
     new ""
 
     old "No{#buggbearlose}"
-    new ""
-
-    old "Continue"
     new ""
 
     old "Restart Quest"

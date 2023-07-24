@@ -1,4 +1,29 @@
-﻿translate schinese sundersilk_cascades_loop_e91ba75d:
+﻿translate schinese main_sundersilk_cascades_0a4771fd:
+
+    # "In the peripheral of your vision, you discover a young sprout wiggling around the waterfall."
+    ""
+
+translate schinese main_sundersilk_cascades_3641f075:
+
+    # "Perhaps it's what you believe to be the eversprout Gwyddyon's scroll talked about..."
+    ""
+
+translate schinese main_sundersilk_cascades_40514641:
+
+    # "You reach out and grab onto the herb, but the deceitful sprout jumps away as you reach out for it, bouncing its way out of your sight."
+    ""
+
+translate schinese main_sundersilk_cascades_afe910c8:
+
+    # e "Wait, where did it go..."
+    e ""
+
+translate schinese main_sundersilk_cascades_5ad7ac97:
+
+    # "The sprout must be close, you should chase after it before it disappears once more."
+    ""
+
+translate schinese sundersilk_cascades_loop_e91ba75d:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     ""
@@ -94,6 +119,31 @@ translate schinese grove_of_harvest_loop_e91ba75d:
     ""
 
 translate schinese grove_of_harvest_loop_e91ba75d_1:
+
+    # "You search around the area for a while, but there seem to be nothing worth noting nearby."
+    ""
+
+translate schinese prattlefell_meadow_loop_e91ba75d:
+
+    # "You search around the area for a while, but there seem to be nothing worth noting nearby."
+    ""
+
+translate schinese prattlefell_meadow_loop_e91ba75d_1:
+
+    # "You search around the area for a while, but there seem to be nothing worth noting nearby."
+    ""
+
+translate schinese main_bandits_hideout_bab1030c:
+
+    # "You enter the bandit's hideout."
+    ""
+
+translate schinese bandits_hideout_loop_e91ba75d:
+
+    # "You search around the area for a while, but there seem to be nothing worth noting nearby."
+    ""
+
+translate schinese bandits_hideout_loop_e91ba75d_1:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     ""

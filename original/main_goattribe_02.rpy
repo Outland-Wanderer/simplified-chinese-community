@@ -1258,6 +1258,36 @@ translate schinese goat_talking_sequence_097ffb2d:
     # gt "N-now... leave us alone. We're not training with these pieces of junk until the magics are back."
     gt ""
 
+translate schinese goat_talking_sequence_b6c14cb6:
+
+    # e "Why are you guys so stingy."
+    e ""
+
+translate schinese goat_talking_sequence_6c7f3d78:
+
+    # gt "Because, that's none of your business. Ah, I know what you're doing, trying to beat us even in the school of magic?"
+    gt ""
+
+translate schinese goat_talking_sequence_1e35e1ef:
+
+    # e "So, are you jealous that I am more capable?"
+    e ""
+
+translate schinese goat_talking_sequence_795ce74b:
+
+    # gt "H-hey! We're trained soldiers, not some random goat-lookalike non-goats going around like he's a hero just because he saved our chief."
+    gt ""
+
+translate schinese goat_talking_sequence_3a22914a:
+
+    # gt "You've got us scolded for not watching over our chief."
+    gt ""
+
+translate schinese goat_talking_sequence_6e95d101:
+
+    # gt "N-now... leave us alone."
+    gt ""
+
 translate schinese goat_training_battle_3f1230e1:
 
     # "You look at the goat practicing archery in front of you, his hand is trembling a bit."

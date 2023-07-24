@@ -90,6 +90,12 @@
     old ">"
     new ""
 
+    old "Upload Sync"
+    new ""
+
+    old "Download Sync"
+    new ""
+
     old "Display"
     new ""
 
@@ -109,15 +115,6 @@
     new ""
 
     old "Language"
-    new ""
-
-    old "Work in Progress"
-    new ""
-
-    old "Kinkier Text"
-    new ""
-
-    old "Redesigned MC"
     new ""
 
     old "Text Speed"
@@ -247,6 +244,9 @@
     new ""
 
     old "Calibrate"
+    new ""
+
+    old "Continue"
     new ""
 
     old "Yes"

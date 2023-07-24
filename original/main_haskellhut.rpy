@@ -5526,9 +5526,6 @@ translate schinese strings:
     old "Sit with Haskell"
     new ""
 
-    old "Decline"
-    new ""
-
     old "Accept"
     new ""
 

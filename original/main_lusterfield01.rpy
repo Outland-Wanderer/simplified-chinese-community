@@ -13,6 +13,46 @@ translate schinese main_bedroom_53add2df:
     # "You wake up 4 hours later, all of the lust in your body is gone now. You feel ready to go out again."
     ""
 
+translate schinese main_bedroom_1fed3c0a:
+
+    # msg "This is a debug screen for fixing all bugs related issues in some saves." nointeract
+    msg "" nointeract
+
+translate schinese main_bedroom_b1fe1731:
+
+    # msg "This fix is for when you constantly get approached by an error screen regarding quest progress."
+    msg ""
+
+translate schinese main_bedroom_9fca8cb1:
+
+    # msg "This fix is for when you are stuck in the whispering hollow, not able to turn in Uffe's quest."
+    msg ""
+
+translate schinese main_bedroom_b888a9f9:
+
+    # msg "If you hold a Moonstone Amulet. Proceeding while the quest is active will refresh your quest status, allowing you to complete the quest again." nointeract
+    msg "" nointeract
+
+translate schinese main_bedroom_0fe4e953:
+
+    # msg "You may need to cut the grass again to complete the quest."
+    msg ""
+
+translate schinese main_bedroom_e7343c25:
+
+    # msg "This fix is for when your stats are lower than normal after unequipping."
+    msg ""
+
+translate schinese main_bedroom_2416edc8:
+
+    # msg "Proceeding will unequip all your equipment and recalculate your stats." nointeract
+    msg "" nointeract
+
+translate schinese main_bedroom_20c24f88:
+
+    # msg "Done! Please put your clothes back on after reset, or not!"
+    msg ""
+
 translate schinese bedroom_sleep_6ad06346:
 
     # "You get on the bed and slowly fall asleep."
@@ -972,131 +1012,6 @@ translate schinese Sebas_Ole_Outfit_02_8e833270:
 
     # o "AHH! Nevermind! I get it..."
     o ""
-
-translate schinese Sebas_Shopping_17f68e7d:
-
-    # s "Take a look, here's our finest collections in the shop."
-    s ""
-
-translate schinese Sebas_Shopping_Loop_9d8ec6c6:
-
-    # s "Rahim sells me this Cloth a lot, seems to be a very popular components of many everyday items. Its [selected_shopItem.value] gold now."
-    s ""
-
-translate schinese Sebas_Shopping_Loop_9ffd8732:
-
-    # s "It's funny when I smell this one. I don't know what's inside that made me trip... Saw some traders smoke this stuff though. so... I'll make it [mmm] gold for you?"
-    s ""
-
-translate schinese Sebas_Shopping_Loop_eaa71874:
-
-    # s "This health potion is handmade from the most talented potion maker in the whole province of Mokken! Just [selected_shopItem.value] gold for you!"
-    s ""
-
-translate schinese Sebas_Shopping_Loop_58df1838:
-
-    # s "My precious Ole made these himself, he says it cleanses all your negative effect... Its [selected_shopItem.value] gold now."
-    s ""
-
-translate schinese Sebas_Shopping_Loop_66a9bb78:
-
-    # s "Ahhh... if you have an axe to grind, it's probably the best one out there, no lie. And only [selected_shopItem.value] for you!"
-    s ""
-
-translate schinese Sebas_Shopping_Loop_d3f1cb46:
-
-    # s "Hey! That's a little charm of me! It's only [selected_shopItem.value] gold for you now! In case you wanna bring this cute version of me with you to your little adventure!"
-    s ""
-
-translate schinese Sebas_Shopping_Loop_2533c1b6:
-
-    # s "Ha, this one I picked it up from the most famous merchant from the town, it's very expensive. But... [mmm] gold for my favourite buddy."
-    s ""
-
-translate schinese Sebas_Shopping_Loop_6a64b453:
-
-    # s "Let me tell you a secret, this bow, along with many other bows, comes with their arrows. So, no more worries about forgetting to buy your arrows! Just for [mmm] gold!"
-    s ""
-
-translate schinese Sebas_Shopping_Loop_0d494bca:
-
-    # s "That's the stone we got from the river! Remember it? [e], I think I'll give it to you... for [selected_shopItem.value] gold, if you buy it now!"
-    s ""
-
-translate schinese Sebas_Shopping_Loop_bd8065c8:
-
-    # s "Has this potion expired yet... I'm not sure. They're all the same, but you have to be really careful about it, especially when you're in danger. How about [selected_shopItem.value] gold."
-    s ""
-
-translate schinese Sebas_Shopping_Loop_4ff2fe82:
-
-    # s "Where did you find this potion, is this mine? Hmm... I think you can get [selected_shopItem.value] from this one."
-    s ""
-
-translate schinese Sebas_Shopping_Loop_3f40758f:
-
-    # s "I see what you're doing... selling beer to me. No I won't get drunk on work... b-but how about [selected_shopItem.value] gold?"
-    s ""
-
-translate schinese Sebas_Shopping_Loop_a5530bbf:
-
-    # s "That's... my key! You can't be selling that... to me?"
-    s ""
-
-translate schinese Sebas_Shopping_Loop_cfd28048:
-
-    # s "This is a letter for Rahim, right? I think you should let him see this first."
-    s ""
-
-translate schinese Sebas_Shopping_Loop_cb535884:
-
-    # s "[selected_shopItem.value] gold. Here's an advice. You can prevent fall damage when you jump and use the water bucket... Wait... We have no fall damage here."
-    s ""
-
-translate schinese Sebas_Shopping_Loop_dc4d1d37:
-
-    # s "Wasn't this what you were putting on...? You must got really desperate to sell your loincloth out like that, buddy."
-    s ""
-
-translate schinese Sebas_Shopping_Loop_801c5dae:
-
-    # s "Hmm... it was your sword! Must've gotten a new favourite I suppose? [selected_shopItem.value] gold to you!"
-    s ""
-
-translate schinese Sebas_Shopping_Loop_2276a9a4:
-
-    # s "That's my Lion Charm... [selected_shopItem.value] gold... You don't want to take me with you again?"
-    s ""
-
-translate schinese Sebas_Shopping_Loop_08001557:
-
-    # s "I like this one! Some slimy balls, how about [selected_shopItem.value] gold?"
-    s ""
-
-translate schinese Sebas_Shopping_Loop_a310eeee:
-
-    # s "Where did you find... Nevermind. You always get your hand on anyone, even the goats. [selected_shopItem.value] gold?"
-    s ""
-
-translate schinese Sebas_Shopping_Loop_2d18a2b3:
-
-    # s "Hey! That's where the green leaves went. I thought I lost it. Big old Ole gave it to you I presume? That'd be [selected_shopItem.value] gold."
-    s ""
-
-translate schinese Sebas_Shopping_Loop_1d31c630:
-
-    # s "You wanna sell this thing to me? Probably worth [selected_shopItem.value] in the market."
-    s ""
-
-translate schinese Sebas_Shopping_Loop_af57d61c:
-
-    # s "Okie Dokie! Thank you for your [selected_shopItem.name!t]! Mister [e]. Here's your [selected_shopItem.value]."
-    s ""
-
-translate schinese Sebas_Shopping_Loop_4d9dc5c6:
-
-    # s "Alrighty! Thank you for your [selected_shopItem.value] gold! Mister [e]. Here's your [selected_shopItem.name!t]."
-    s ""
 
 translate schinese Sebas_Ask_Lusterfield_3261991c:
 
@@ -10388,16 +10303,6 @@ translate schinese Rahim_Dialogue_14a73e88:
     # r "Put on whatever you wish, at least cover it up. Then we'll talk."
     r ""
 
-translate schinese Rahim_Dialogue_bd4531fa:
-
-    # e "I'm sorry about that, Rahim."
-    e ""
-
-translate schinese Rahim_Dialogue_b9b755e5_1:
-
-    # r "..."
-    r ""
-
 translate schinese Rahim_Dialogue_8217d26a:
 
     # r "You are naked again?"
@@ -10438,12 +10343,12 @@ translate schinese Rahim_Dialogue_35fbbd56:
     # r "I feel ashamed for you, [e]. Just put on your clothes. I'm not telling you again."
     r ""
 
-translate schinese Rahim_Dialogue_bd4531fa_1:
+translate schinese Rahim_Dialogue_bd4531fa:
 
     # e "I'm sorry about that, Rahim."
     e ""
 
-translate schinese Rahim_Dialogue_b9b755e5_2:
+translate schinese Rahim_Dialogue_b9b755e5_1:
 
     # r "..."
     r ""
@@ -15490,10 +15395,31 @@ translate schinese strings:
     old "Open Storage"
     new ""
 
+    old "Debugging"
+    new ""
+
+    old "Clear Quest Progress"
+    new ""
+
+    old "Fix/Complete Whispering Hollow's Quest (v0.0.16 up)"
+    new ""
+
+    old "Fixing Player Stats (v0.0.16 up)"
+    new ""
+
+    old "Proceeding will refresh your quest progress, and delete unnecessary progresses with string type."
+    new ""
+
+    old "Confirm"
+    new ""
+
     old "Ask about his betting"
     new ""
 
     old "Go to Tavern with Sebas and Ole tonight"
+    new ""
+
+    old "Ask about Pirkka's Prose"
     new ""
 
     old "Ask about Postal Training"
@@ -15530,12 +15456,6 @@ translate schinese strings:
     new ""
 
     old "Refuse"
-    new ""
-
-    old "Stunned"
-    new ""
-
-    old "Stunned: {p} Target cannot perform anything while you are stunned"
     new ""
 
     old "Ask about the villagers"
@@ -15632,12 +15552,6 @@ translate schinese strings:
     new ""
 
     old "Climb back down"
-    new ""
-
-    old "Mossy Artifact"
-    new ""
-
-    old "A Carved Stone discovered by Lothar, it seems to be a hand... from the Mossy Golem."
     new ""
 
     old "Accept the task"

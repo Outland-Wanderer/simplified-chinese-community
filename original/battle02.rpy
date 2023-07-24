@@ -43,24 +43,14 @@ translate schinese Ability_Self_Heal_90794f49:
     # "You used self heal, your health goes up by [healing] HP."
     ""
 
-translate schinese Ability_Fiery_Charge_c4aaf8f8:
+translate schinese Ability_Fiery_Charge_13bb8de1:
 
-    # "You use Fiery Charge on [enemy.name], dealing [fc_damage] HP Damage. [enemy.name] is now scorched."
+    # "You use Fiery Charge on [target.name], dealing [fc_damage] HP Damage. They are now scorched."
     ""
 
-translate schinese Ability_Fiery_Charge_935fdf95:
+translate schinese Ability_Fiery_Charge_c8ed4ac1:
 
-    # "You use Fiery Charge on [enemy.name], [enemy.name] continues to be scorched for two additional rounds."
-    ""
-
-translate schinese Ability_Fiery_Charge_093c999c:
-
-    # "You use Fiery Charge on all enemies, dealing [fc_damage] HP Damage. All enemies are now scorched."
-    ""
-
-translate schinese Ability_Fiery_Charge_fb4c2287:
-
-    # "You use Fiery Charge on the enemies, they continue to be scorched for two additional rounds."
+    # "You use Fiery Charge on [target.name], they continue to be scorched for two additional rounds."
     ""
 
 translate schinese Ability_Piercing_Blow_5065192f:
@@ -76,6 +66,11 @@ translate schinese Ability_Fortify_2faf436f:
 translate schinese Ability_Alluring_Lust_0f713c76:
 
     # "You cast the spell on your body. Your body appears much softer and pliable now, enticing the [enemy.name] to grab and grope at it."
+    ""
+
+translate schinese Ability_Tranquil_Mend_efcd6bbd:
+
+    # "You cast tranquil mend, and heals yourself for the next few rounds."
     ""
 
 translate schinese Ability_Camouflage_c4a40411:
@@ -108,14 +103,34 @@ translate schinese Battle_End_Check_78e7c049:
     # "Your health decreases by [wounded_damage] from the bleeding."
     ""
 
+translate schinese Battle_End_Check_1679761b:
+
+    # "You healed [healamount] from Traquil Mend!"
+    ""
+
+translate schinese Battle_End_Check_6c06d4d5:
+
+    # "[ally.name] healed [healamount] from Traquil Mend!"
+    ""
+
 translate schinese Battle_End_Check_2732cb22:
 
     # "[enemy.name] is still burning, receiving [scorched.effect] HP damage."
     ""
 
+translate schinese Battle_End_Check_c6a218ef:
+
+    # "[enemy.name]'s health decreases by [wounded_damage] from the bleeding."
+    ""
+
 translate schinese Battle_End_Check_b20e7375:
 
     # "[enemy2.name] is still burning, receiving [scorched.effect] HP damage."
+    ""
+
+translate schinese Battle_End_Check_0575b416:
+
+    # "[enemy2.name]'s health decreases by [wounded_damage] from the bleeding."
     ""
 
 translate schinese Battle_Mid_Check_5eb35099:

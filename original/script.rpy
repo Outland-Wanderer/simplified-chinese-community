@@ -23,24 +23,39 @@ translate schinese start_65c6d503:
     # "You walk along the path from your elder's camp, when you heard someone screaming, someone who sounds almost like Chime."
     ""
 
-translate schinese start_73fda4ed:
+translate schinese start_9b43455f:
 
-    # "He has been missing for a week, if not more. Your tribe looked for him every day, but to no avail."
+    # "He has been missing for a week, if not more. Your tribe has looked for him every day since, but to no avail."
     ""
 
-translate schinese start_ccc5208f:
+translate schinese start_0b538218:
 
-    # "You decided to investigate deeper into the noise in the forest. It seems definitely darker than you thought."
+    # "And now, everyone is sleeping, the lifeless silence has you shiver down to the core. Something is awry."
     ""
 
-translate schinese start_befa1802:
+translate schinese start_32abd6f2:
 
-    # "The wood is eeriely silent. You hold on to your piece of paper you drew for Chime... you keep wondering, where is he..."
+    # "Despite your instinct, you decided to investigate deeper into the noise in the forest. It seems definitely darker than you thought."
     ""
 
-translate schinese start_e06365eb:
+translate schinese start_33fde1ac:
 
-    # "As you snap back to reality, you realise you've lost sight of your fellow members."
+    # "The wood is eeriely silent. You hold on to your piece of paper you drew for Chime... and you keep wondering his whereabout."
+    ""
+
+translate schinese start_155ad839:
+
+    # "He was... someone you admired, a hero figure who saved you from the bullies, but you don't know if it's been like this, or when, you memory have been foggy."
+    ""
+
+translate schinese start_10ff4203:
+
+    # "It gets worse by each step you take, your mind is replaced with fear, even a slight breeze over your fur gives you a startle you've never had."
+    ""
+
+translate schinese start_0f973a7d:
+
+    # "As you snap back to reality, you realise you've lost sight of your tribe."
     ""
 
 translate schinese start_3a8c145e:
@@ -53,9 +68,14 @@ translate schinese start_f1a265b8:
     # "Standing in place, you could've sworn this place is the source of the scream you heard, But you see nothing."
     ""
 
-translate schinese start_4d967189:
+translate schinese start_251bd13c:
 
-    # "You are ready to go back to your tribe but suddenly, you hear a rustling sound in the bushes."
+    # "Nothing out of the ordinary, just grasses, not even footsteps, but where did the scream come from?"
+    ""
+
+translate schinese start_c8f0ef29:
+
+    # "You are ready to go back to your tribe but suddenly, a rustling sound in the bushes catches your attention."
     ""
 
 translate schinese start_d43ba4f2:
@@ -68,9 +88,9 @@ translate schinese start_6b790745:
     # "You turn your head... maybe it's Chime."
     ""
 
-translate schinese start_d52b69a6:
+translate schinese start_1a102cad:
 
-    # "The sound stopped, but you can sense something is coming."
+    # "The sound stops, but you can sense something is coming."
     ""
 
 translate schinese start_f6462e8e:
@@ -138,6 +158,11 @@ translate schinese start_91b94eb7:
     # "He is speaking in an unknown language. It is impossible to try to decipher it by any means."
     ""
 
+translate schinese start_bc731bef:
+
+    # "And by the tone, it seems he's asking a question."
+    ""
+
 translate schinese start_34e39862:
 
     # "Nothing you can do here to escape this situation. You're only grateful that he hasn't killed you yet."
@@ -158,9 +183,9 @@ translate schinese start_91a6d82d:
     # yu "uhh..."
     yu ""
 
-translate schinese start_65c3baec:
+translate schinese start_cf6378c2:
 
-    # "You nod, chances are he is talking about your friend, but with his unintelligible language you are not sure if he knows."
+    # "You nod, chances are he is talking about your friend, but with his unintelligible language you are not sure what the context even is."
     ""
 
 translate schinese start_b2357a72:
@@ -178,9 +203,9 @@ translate schinese start_107514d1:
     # my "Dresi vus, wwo juin."
     my ""
 
-translate schinese start_2c2fcce6:
+translate schinese start_e05f2c16:
 
-    # "He continues pointing downward, fiercely. You stand there, not sure what he mean."
+    # "The figure continues pointing downward, fiercely. You stand there, not sure what he mean."
     ""
 
 translate schinese start_b5ac0fb8:
@@ -253,14 +278,14 @@ translate schinese start_fe637a06:
     # "Whatever spell he is performing, you can only pray that you would come out of this alive, preferably unscathed."
     ""
 
-translate schinese start_17ec407c:
+translate schinese start_29d81d7b:
 
-    # "The beacon of light is gleaming stronger with every second. Your whole body is soon emasculated by it."
+    # "But it seems more and more unlikely, as the beacon of light is gleaming stronger with every second. Your whole body is soon emasculated by it."
     ""
 
-translate schinese start_126e3f0c:
+translate schinese start_1c6a4489:
 
-    # "You stare at the figure. He is not responding to your plead."
+    # "You stare at the figure. He is not responding to your plead. Your body is feeling different inside of this blue aura."
     ""
 
 translate schinese start_476a4933:
@@ -273,19 +298,14 @@ translate schinese start_9db5d92a:
     # "Slowly, you can feel your eyes growing more and more tired. The spell must be messing up your consciousness..."
     ""
 
-translate schinese start_88cb6496:
+translate schinese start_ebd460b9:
 
-    # "You struggle against the fatigue for a few seconds, but eventually, you drift to a slumber."
+    # "You struggle against the fatigue for a few seconds, but it eventually takes over, and you drift to a long slumber."
     ""
 
 translate schinese start_03aeea77:
 
     # "You collapse in front of the figure, you can feel something hitting on the back of your head."
-    ""
-
-translate schinese start_85f2e1e6:
-
-    # "The figure lowers himself and stands next to you, staring at your dormant state, and then slowly walks away."
     ""
 
 translate schinese start_8f64d531:
@@ -313,6 +333,11 @@ translate schinese start_53ae6d02:
     # "You don't know how much time has passed, minutes, hours."
     ""
 
+translate schinese start_dab9f398:
+
+    # "You don't know how many sun and moon passed right above you as you slumber."
+    ""
+
 translate schinese start_627ca2fb:
 
     # "You don't even know where you are."
@@ -321,6 +346,16 @@ translate schinese start_627ca2fb:
 translate schinese start_c9d14728:
 
     # "Everything became so fuzzy after you collapsed."
+    ""
+
+translate schinese start_f3f93295:
+
+    # "It's the sound of water, flowing around you, for a long while your consciousness is just floating in the sea of nothingness."
+    ""
+
+translate schinese start_3cd78a43:
+
+    # "Your memory is fading away, emptiness fills the space where your mind used to be."
     ""
 
 translate schinese start_aabd5131:
@@ -903,9 +938,9 @@ translate schinese name_done_3e6fedde:
     # o "Heh, good that you can talk pretty well now. I presume you aren't from our province right?"
     o ""
 
-translate schinese name_done_497eced6:
+translate schinese name_done_7ea099f1:
 
-    # e "Uhmm, I'm from Hawkaita... but where are we?"
+    # e "Uhmm, I'm from Puro... but where are we?"
     e ""
 
 translate schinese name_done_513ae3a9:
@@ -1123,9 +1158,9 @@ translate schinese name_done_c89772ef:
     # e "Thank you to you too! Sebas."
     e ""
 
-translate schinese name_done_16a11ef8:
+translate schinese name_done_35f1ad64:
 
-    # "You can almost hear Sebas rumbling under his breath, it doesn't sound like something you'd appreciate."
+    # "You can almost hear Sebas rumbling under his breath."
     ""
 
 translate schinese name_done_397b9049:
@@ -1253,9 +1288,9 @@ translate schinese name_done_7ed62e40:
     # e "I can understand you perfectly."
     e ""
 
-translate schinese name_done_381d838e:
+translate schinese name_done_796e065b:
 
-    # o "Don't inflate his ego that much, kiddo."
+    # o "Don't stroke his ego that much, kiddo."
     o ""
 
 translate schinese name_done_fd0f2814:
@@ -1373,9 +1408,9 @@ translate schinese name_done_2497b5fc:
     # "You follow Ole closely, while glancing backwards at the lion still hunching and nudging at his back."
     ""
 
-translate schinese name_done_bbdecfbd:
+translate schinese name_done_be6601fa:
 
-    # o "Welcome to the King's Pawns. We sell general goods and we do a little pawning!"
+    # o "Welcome to the King's Pawn. We sell general goods and we do a little pawning!"
     o ""
 
 translate schinese name_done_98583983:
@@ -1433,9 +1468,9 @@ translate schinese name_done_74eec826:
     # "You awkwardly smiles at Ole, who stands beside you and pats your back."
     ""
 
-translate schinese name_done_dcbdc445:
+translate schinese name_done_e142ac60:
 
-    # o "Hey... you can definitely stay as long as you wish. Our Seb here have been wanting a company for long time you know."
+    # o "Hey... you can definitely stay as long as you wish. Our Seb here have been wanting a company for a long time you know."
     o ""
 
 translate schinese name_done_64c70efd:
@@ -1463,9 +1498,9 @@ translate schinese name_done_809c6a88:
     # o "We have a lot of goods that's waiting to come to the shop recently."
     o ""
 
-translate schinese name_done_e9b2a242:
+translate schinese name_done_a3deb9c1:
 
-    # o "So, we would be very grateful if you can be our courier, and deliver those wares between us and our clients"
+    # o "So, we would be very grateful if you can be our courier, and deliver those wares between us and our clients."
     o ""
 
 translate schinese name_done_9fb179f0:
@@ -1768,6 +1803,11 @@ translate schinese name_done_5c5709dd:
     # s2 "Good! I made it last year, just picked it up from the storage, thought you'd probably like that in your room."
     s2 ""
 
+translate schinese name_done_fc7182b4:
+
+    # s2 "I have a spare one too, for if you want to get bring me with you outside!"
+    s2 ""
+
 translate schinese name_done_d408e786:
 
     # s2 "Ouch! Ole here is pinching me now. Gotta let you go to bed. Have a nice sleep, new roommate!"
@@ -1806,11 +1846,6 @@ translate schinese bedroom_beginning_ca03823d:
 translate schinese after_load_7a256475:
 
     # "Hey there! Here's a reminder that the protagonist's sprite is currently in the progress of redesign! You will see new designs as default while the rest of other content will be updated alongside! Thank you so much again~"
-    ""
-
-translate schinese after_load_0be072f2:
-
-    # "Hey there! If you're playing with old save on v0.0.10 or later, remember to take off your equipment(!) before using your next level point, that way it'll now accurately calculate your character stat."
     ""
 
 translate schinese strings:
@@ -1858,6 +1893,9 @@ translate schinese strings:
     new ""
 
     old "Werewolf"
+    new ""
+
+    old "Tetto"
     new ""
 
     old "Book"
@@ -1914,6 +1952,18 @@ translate schinese strings:
     old "Bandit Boss"
     new ""
 
+    old "Bandit"
+    new ""
+
+    old " Fokk "
+    new ""
+
+    old "Coit"
+    new ""
+
+    old "Gato"
+    new ""
+
     old "What's your name?"
     new ""
 
@@ -1951,5 +2001,11 @@ translate schinese strings:
     new ""
 
     old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI. Costs 35 MP. Cooldown: 2 Round."
+    new ""
+
+    old "A small red potion that replenishes the user's HP for a small amount."
+    new ""
+
+    old "A small blue potion that replenishes the user's MP for a small amount."
     new ""
 

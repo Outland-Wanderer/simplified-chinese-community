@@ -143,6 +143,1521 @@ translate schinese Cane_Normal_Talk_58e0fbb5:
     # "As you are about to ask, you realise you are not putting on the right clothes to judge..."
     ""
 
+translate schinese Cane_First_Time_Upstairs_316f8d81:
+
+    # c "Hey, lad. Right 'ere!"
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_904cca39:
+
+    # "Cane shouts from behind you as you go upstairs, you turn around and see him quickly leaves his usual counter."
+    ""
+
+translate schinese Cane_First_Time_Upstairs_3e8fb334:
+
+    # e "Oh! Cane, I was about to ask you about what's up there."
+    e ""
+
+translate schinese Cane_First_Time_Upstairs_3ef666e8:
+
+    # c "Well. And I was about to tell ya."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_4d7e00bc:
+
+    # c "Just renovated the place. With the pink bear lad's help too. We re-decorated everything from scratch, and cleaned up old tables for use."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_c5423812:
+
+    # e "Isn't it the same as down here?"
+    e ""
+
+translate schinese Cane_First_Time_Upstairs_354be2d4:
+
+    # c "Well, lad. For what it's worth, my knee's been sore for the better part of m' life, I can't keep handing out dishes and beer up there and down. That's why we'd closed off the floor at first."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_db61eaf7:
+
+    # e "What changed your mind?"
+    e ""
+
+translate schinese Cane_First_Time_Upstairs_8832ad98:
+
+    # "Your curiosity causes the old bat to smile nervously. A kind of friendliness that you seldom see with other patrons."
+    ""
+
+translate schinese Cane_First_Time_Upstairs_028a213e:
+
+    # c "I ought'a thought with yer help and everyone else, somethin' getting me all excited about..."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_717a2b3d:
+
+    # c "Cane smiled warmly at you, his eyes twinkling with affection."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_09818526:
+
+    # "Cane chuckles again."
+    ""
+
+translate schinese Cane_First_Time_Upstairs_e991bf3d:
+
+    # c "W-well, the tavern. It's gettin' quite filled 'ere. "
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_4420776c:
+
+    # c "The regulars understands and they'll get what they want themselves, so I thought, why not let 'em have their fun, y'know, bringing in all 'em customers and gold."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_a42030c2:
+
+    # e "That's really good to know, Cane. I'll do my best to help."
+    e ""
+
+translate schinese Cane_First_Time_Upstairs_fde0982a:
+
+    # c "Aye, after all, upstairs' reserved for the most loyal regulars and visitors..."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_6db7f304:
+
+    # c "...and the finest lad right 'ere. Haha, c'mon then, give ye old bat a hug."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_fa45db30:
+
+    # "Without thinking, Cane steps forward and wraps his arms around you on his giant belly."
+    ""
+
+translate schinese Cane_First_Time_Upstairs_6f89fa7d:
+
+    # "You are momentarily startled, but quickly recovers and returns the hug warmly."
+    ""
+
+translate schinese Cane_First_Time_Upstairs_1bc9bd8b:
+
+    # c "I'm gonna miss ye little sleazy ass when yer away."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_a3abc292:
+
+    # e "Cane, I'm not going anywhere else."
+    e ""
+
+translate schinese Cane_First_Time_Upstairs_364f609d:
+
+    # "You talk right inside of Cane's intimate embrace, his purple fur strokes your cheeks as you dig your head deeper into him."
+    ""
+
+translate schinese Cane_First_Time_Upstairs_96aeb4a8:
+
+    # c "Lad, I still haven't forgot that time we were in my room..."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_b2139233:
+
+    # e "You trust me, right?"
+    e ""
+
+translate schinese Cane_First_Time_Upstairs_35c0e700:
+
+    # c "I do, lad. I really do."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_15f36ae2:
+
+    # c "And I can't let you go that easily."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_93312a6f:
+
+    # "You can feel him hugging you tighter, one with an irrational amount of regret."
+    ""
+
+translate schinese Cane_First_Time_Upstairs_8349da6f:
+
+    # c "Mhmm... I wish ye'd stay with me, and the tavern every day."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_efa06011:
+
+    # c "But it's impossible to ask for an adventurer like ya."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_1bf3e661:
+
+    # c "So, this is the second greatest thing I'd wish for..."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_9fdbebdd:
+
+    # "You can feel him hugging you tighter, savouring what's happening in the present."
+    ""
+
+translate schinese Cane_First_Time_Upstairs_60dc01e6:
+
+    # "He doesn't speak, instead he hugs you tighter, savouring what's happening in the present."
+    ""
+
+translate schinese Cane_First_Time_Upstairs_0961af11:
+
+    # "Eventually, you two pull away from each other, you don't know if it's his unique odor or his cheeky smile, but a sense of warmth can still be felt across your body seconds later."
+    ""
+
+translate schinese Cane_First_Time_Upstairs_3b406514:
+
+    # c "Ya better be."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_1605dbc6:
+
+    # "His smile widens, his hand raises above your head, playfully scruffling your hair."
+    ""
+
+translate schinese Cane_First_Time_Upstairs_f195d2e0:
+
+    # c "There's no rules upstairs, and some of 'em I know, are... mischievous. So keep yer eyes out for me, ye?"
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_1fc00be2:
+
+    # e "I will."
+    e ""
+
+translate schinese Cane_First_Time_Upstairs_105503ff:
+
+    # c "Good, 'en I'll leave it up to ye."
+    c ""
+
+translate schinese Cane_First_Time_Upstairs_121212ee:
+
+    # "Cane turns away, and returns to take care of his business."
+    ""
+
+translate schinese Cane_First_Time_Upstairs_8f745cfa:
+
+    # "You unwittingly smiles at the kindness of the tavernkeeper, and quickly runs upstairs."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_96e7e6c7:
+
+    # "You walk over a table in the corner, it seems to be scattered with coins and bags, almost as if you've stumbled upon a treasure trove."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_a6918201:
+
+    # "As usual, it's the three regulars, playing and bantering around the table."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_34a031fd:
+
+    # "They take notice of your prescence rather quickly, and wave their cards at you."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_0c39021e:
+
+    # fokk "Well, well well. Look who he is! Our all and mighty server of the tavern."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_9b6a07a5:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_df882dcf:
+
+    # "Fokk chuckles, and motions you to sit on the chair."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_3179e8cb:
+
+    # fokk "Changed ye mind? There's always an empty chair for ye to sit on."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_91e7badb:
+
+    # e "Well... I'll pass."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_e0bf7eee:
+
+    # coit "What a party stopper ye're, get me some bread at least on yer way down, would ya?"
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_c3dd5e41:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_a9eb95ce:
+
+    # "Fokk awkwardly smiles."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_dd26be17:
+
+    # fokk "Alright then, the chair's not going away anytime soon."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_8e215a7a:
+
+    # fokk "And Coit's joking, he doesn't eat bread."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_eff65e66:
+
+    # fokk "Well, well, well. Look who it is! Our server here on the table."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_fdf80f23:
+
+    # e "Hey, are you all playing cards?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_cfb72ac5:
+
+    # fokk "Playing cards we are, just taking a break to count the coins and talk about yer arse."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_8e5e615d:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_163e5d1a:
+
+    # coit "If ye want to be the tavern's cum rag, we can always, ye know, skip to the main course."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_6e11ba0a:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_063199c4:
+
+    # fokk "'ey, ye tosspots, don't scare our precious server away with ye blabbering mouth, we can always go for a round of Cumrag, first."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_95b823c3:
+
+    # "You nod, getting yourself seated between the three large men."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_d6d49b94:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_c22b45d5:
+
+    # "The fox shuffles the cards, and hands each of you a stack of card before putting the rest in the center."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_219dcfa0:
+
+    # fokk "Good t' go."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_08542825:
+
+    # coit "Get ready, server. And may the best player wins."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_e73cdb83:
+
+    # e "Uhm, I think I'll pass."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_c5ec60cb:
+
+    # fokk "'ight then."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_2464a6dc:
+
+    # fokk "Either way I'll teach these two sods to behave around ya more, with their wallets."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_4740eedd:
+
+    # coit "Well, server ye be'ter not stay around. Gettin' me distracted and what not. Or-"
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_255d7122:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_4ebd3450:
+
+    # fokk "Playing cards we are, wanna join?"
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_fa9bb8c8:
+
+    # coit "Aye, don't think ye can escape us that easily! Ye're hooked now, like a fish on a line. Ye'll be back for more, mark me words!"
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_f85ee25f:
+
+    # fokk "I've come t' respect this scruffy lad a li' more, ye be shi'ing ye pants he's winning all yer money, along with me."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_95b823c3_1:
+
+    # "You nod, getting yourself seated between the three large men."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_8881975a:
+
+    # e "I must admit, the game was quite addicting. Count m' in, you lots."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_0aea5d93:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_c22b45d5_1:
+
+    # "The fox shuffles the cards, and hands each of you a stack of card before putting the rest in the center."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_219dcfa0_1:
+
+    # fokk "Good t' go."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_08542825_1:
+
+    # coit "Get ready, server. And may the best player wins."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_e73cdb83_1:
+
+    # e "Uhm, I think I'll pass."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_c5ec60cb_1:
+
+    # fokk "'ight then."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_0dc0c4b4:
+
+    # coit "What a stinker, ye be'ter be back next time yer' free from passing plates and mugs."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_1295bfad:
+
+    # patron2 "How did ye even get those 3 drifters in a row!"
+    patron2 ""
+
+translate schinese Nocturnal_Trunk_Cardy_6322873c:
+
+    # patron2 "Ah, bugger me with a rusty sword! My bloody pockets are emptier than a beggar's arse."
+    patron2 ""
+
+translate schinese Nocturnal_Trunk_Cardy_5cb37b08:
+
+    # "The table was cluttered with an assortment of playing cards and shimmering coins."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_10c6e11d:
+
+    # "Amongst which were the three men chattering, echoed with a symphony of gruff, deep voices of casual banters."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_e97eda7f:
+
+    # patron "Ain't that the truth, Gato? We need a feckin' miracle to turn this shite around."
+    patron ""
+
+translate schinese Nocturnal_Trunk_Cardy_78f0edac:
+
+    # "One of the tavern regular frowns, tossing the rest of his cards on the table without a care."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_bf9c79db:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_d11610ee:
+
+    # "The alligator shakes his head, pointing his finger towards the Lemur."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_ed3e25d4:
+
+    # fokk "Hold your bloody horses, ya gits! Hand m' yer coins before opening ye mouth would ya?"
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_9055d445:
+
+    # "The Lemur exclaims, glancing at the purse with his large round eyes."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_0eedb887:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_bfb5c1a3:
+
+    # "Another regular, a beefy wolf-like Coyote smirks."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_cb177be9:
+
+    # coit "Aye, A change of pace, Huh. A feckin' kick in the bollocks will change his pace perfectly fine."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_d6abf5b2:
+
+    # fokk "No change of pace will fix yer damn stinky mouth won't ya."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_39a8ad82:
+
+    # "Sensing unknown presence, the alligator turns his head around, and notices your glance."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_ac4607fc:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_03fa3b03:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_5883777d:
+
+    # fokk "Ye be carrying plates and mugs around the tavern don't ye. I've seen what's under that measly little cloth of yours."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_0dfdbbbd:
+
+    # "The regular speaks with mischievous glint, flipping a coin on the table as he speaks."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_70a97851:
+
+    # fokk "What's ye name again, server?"
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_6d629ae0:
+
+    # e "Hey, I've only served plates downstairs, I'm [e]."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_573a89ed:
+
+    # "You retort nervously, but the three patrons don't even give you another sign except for a quiet chuckle."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_f1efda5b:
+
+    # coit "Aye, that means yer nothing but a glorified mug carrier, so get yer ass over here. We could use some extra luck, or feast fer m' eyes will suffice."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_e710df45:
+
+    # e "I was just looking around, I'm not actually working right now."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_01ffa467:
+
+    # fokk "Ye, and maybe ye should start working full-time under our table. That'd be what Cane hired you for innit?"
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_978fbf38:
+
+    # "Their tease was rather playful, yet much more intimidating with their throaty voices."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_32206766:
+
+    # e "But I've never played this game before, wouldn't I just lose?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_110c7ef6:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_43d1f534:
+
+    # e "W-well, I'll just pass."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_f90f2b88:
+
+    # coit "Oh, listen to Mr. High and Mighty! Thinks he's too good for our little game, eh?"
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_09f00923:
+
+    # coit "Well, suit yourself. We'll manage just fine without your fancy help."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_7efe1d3c:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_ec1eaf92:
+
+    # fokk "Oi, server. These two are just sour about losing to the best card player of all time. If ye change yer mind, there's always a chair for yer to sit on, or under."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_95b823c3:
+
+    # "You nod, getting yourself seated between the three large men."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_49c45232:
+
+    # coit "'bout time, let's see if yer as skilled with cards as you are with mugs."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_1bca7125:
+
+    # e "Alright, I'm interested. How do I get started?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_07325e0e:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_1cd0bf11:
+
+    # e "W-what are you talking about? Cum Rag?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_b3b7eb80:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_d9a3008e:
+
+    # e "Ah, then who's last game's cum rag?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_6bc6001c:
+
+    # "You notice two hands pointing their fingers towards the one in front of you."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_25215995:
+
+    # coit "Feck off, I ain't do nothin' to ye sorry lot, we're paying with real gold 'ere anyway."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_3a4cd9bc:
+
+    # "The alligator squints his eyes towards you."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_4bda9485:
+
+    # coit "If ye don't know, ye can always ask. We're playing a fair game 'ere."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_3af613df:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_46fef336:
+
+    # fokk "The stake's simple, if ye the last one, yev gotta pay up."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_16cb3eca:
+
+    # e "What exact amount are we betting here?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_e81379ab:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_d91b0664:
+
+    # coit "Hush!"
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_0d47bb0d:
+
+    # "Coit slaps his finger in front of Gato's mouth, motioning for his silence."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_eacc540d:
+
+    # coit "Nothing servers like ye can't afford, we ain't got enough gold to bet on anyway, amirite, Gato?"
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_9c8ecaa5:
+
+    # "Gato glances at you for a while, then raises his voice once more."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_34da7c8c:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_382bb6e5:
+
+    # e "Spice things up?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_878ad830:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_45c358a3:
+
+    # e "W-wait, what favours are we talking about exactly?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_c45b8837:
+
+    # coit "Like I said, nothing ye can't do."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_9bfd683c:
+
+    # coit "Fokk here once had to sing a bawdy song in front of the tavern, let's say we lost some customers for our beloved Cane that day."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_ec22bac2:
+
+    # fokk "Ya wanker, Cane stopped me there right when I was about to reach the climax of the song, they never got to the end there."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_661b8851:
+
+    # "Fokk pouts, shuffling the cards on his hands thoroughly."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_05f187fc:
+
+    # fokk "Still, what a load of bullshit yer brewing with these {i}favours{/i}."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_e0137cb0:
+
+    # "Gato nods, with a mischievous glint in his eyes."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_45626c63:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_3ffd41bb:
+
+    # "Both Gato and Coit chuckle loudly."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_045e8ec4:
+
+    # e "B-but, am I not going to lose anyway, you all have played the game for far longer than I do."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_1b093ecc:
+
+    # coit "Don't fret, aren't ye the brightest server in the room? I'm sure yer'll handle it well."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_3a5e2d57:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_c5878ef2:
+
+    # "As you ponder the risk of such favours, Fokk hands you the last stack of cards, moving the rest on the center of the table."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_174001eb:
+
+    # e "I guess so. Favours' am I right?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_0198b87f:
+
+    # fokk "That's the spirit, server. Keeps ye eyes on the prize and soon, ye'll wake up a couple thousand gold richer."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_b9490bea:
+
+    # "Fokk grins, shuffling the cards on his hands thoroughly."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_7fd5a378:
+
+    # e "Take it easy on me though, I-I still don't know anything about the game."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_19669f11:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_2d620b0c:
+
+    # "Both Gato and Coit wink at each other and chuckle loudly, though you still don't know what's going on."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_8b61a7df:
+
+    # coit "I like yer attitude. Ye'll fit right in on our table."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_e0137cb0_1:
+
+    # "Gato nods, with a mischievous glint in his eyes."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_94fbf1b9:
+
+    # "As clueless as you are, you scratch your head as the regulars glancing at each other, which just makes them grin wider as they notice you."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_0a746f82:
+
+    # fokk "Now I see why Cane liked this one more. Definitely up his alley too."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_85d764d5:
+
+    # "The other two laugh wholeheartedly, as Fokk hands you the last stack of cards, moving the rest on the center of the table."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Ready_08542825:
+
+    # coit "Get ready, server. And may the best player wins."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_52c838ae:
+
+    # fokk "Alright, listen up, ye scoundrels."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_91221d4a:
+
+    # "Fokk clears his throat, showing you off the cards."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_44ab1726:
+
+    # fokk "Cards can be in the deck, your hand, or a pile. As the game starts, all 52 cards are in the deck."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_9327cb0a:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_907545ec:
+
+    # fokk "Don't ye worry, server. Losers loves acting like impatients lot."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_ab40919c:
+
+    # fokk "Anyway, each of us gets 5 cards. And the first one can play any number of cards of the same rank to start a new pile."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_19ae7c8c:
+
+    # fokk "Then, the next one plays, and they can only play cards with number higher than the one on top of the pile-"
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_048e07e8:
+
+    # coit "Unless it's them pilgrim cards, then there's a twist to it!"
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_54c847fe:
+
+    # "Fokk rolls his eyes, obviously annoyed at the interruption."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_9f2b9d96:
+
+    # fokk "Right, right. If there's 4 cards of the same rank on top of the pile, it'll burn the whole pile."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_3de7a90d:
+
+    # e "What does burning mean?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_76c349d2:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_78e1f522:
+
+    # fokk "Well he's not wrong. Now, where was I? Ah, if ye can't play or don't want to play, ye have to take the entire pile and add it to your hand, starting a new pile."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_fac9b7d2:
+
+    # coit "Or if ye're a wee coward and too scared to take the risk, like Fokk!"
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_7e19df10:
+
+    # fokk "Have it yer way, stinker, see who has yer gold now. Either way, if ye have less than 5 cards, then ye must take cards from the deck to refill yer hand."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_97a950dd:
+
+    # fokk "After that, it's the next player's turn."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_5ca07584:
+
+    # fokk "We'll repeat the same cycle until the deck is depleted. After that, you have no cards to refill and you'll win if you play all your cards."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_57442269:
+
+    # e "uhmm... so what does the pilgrim cards do?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_d38f795e:
+
+    # fokk "Ah, those pilgrim cards! They're special, see? The fire one is the kindler. It lets you burn down the pile, just like Gato mentioned earlier."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_0c7be73a:
+
+    # "The Coyote leans in, emphasizing on the symbols on the pilgrim cards."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_00009f5f:
+
+    # fokk "And the watcher lets you peek at one of the other players' hands. Then ye can choose to swap hands or keep 'em."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_02c0e8cb:
+
+    # fokk "Lastly, the drifter! It's the highest value in the entire game. If it's on the pile and ye don't have any other drifters, ye're stuck takin' the pile, me matey!"
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_c5cd96b1:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_Tutorial_d9498195:
+
+    # e "A-alright, I think I got a hang of it."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_f4ee0ae9:
+
+    # coit "That's no fair round. I had such a great hand and yer tactics be ruining all me plans, ughhh..."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_60fae672:
+
+    # fokk "Oi, we know who's the cumrag this round."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_f45b8810:
+
+    # coit "N-no wait, I still have money to spare yall. What was the stake, again. 40 gold per card?"
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_9b06564e:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_7ec1a6b7:
+
+    # fokk "Been losing for a while now. Aren't ya a proper cumrag?"
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_e59caa14:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_78a3fe48:
+
+    # coit "Aye, ye better pay us up, including our server right 'ere. 40 gold per card."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_975b3c7a:
+
+    # coit "Hah, Looks like our all and mighty Fokk ain't so invincible after all, I knew we'd take back the gold from ye."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_bcad17bc:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_3b9c0802:
+
+    # fokk "Ain't ye lots comedians. 'ight, 40 gold per card as promised."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_b119e45d:
+
+    # e "W-wait... How much would we get?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_783c00d4:
+
+    # fokk "The first gets about two third of the gold, and the rest are spread even by the second and third."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_2565cfc8:
+
+    # "The fox grins, accepting coins from the coyote."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_03be19e4:
+
+    # coit "There goes m' ale money for the week, but just so yer know, I'm makin' it back next round."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_1c476d46:
+
+    # "The fox grins, accepting coins from the alligator."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_ad0fa076:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_d1af2494:
+
+    # "The fox frowns, handing you three a pile of gold."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_a2d03d9c:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_848fe7b6:
+
+    # fokk "Aye, I ain't minding once in a while if m' medicine is winning."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_d16ee98a:
+
+    # "You take [cdg_stake_amount] gold from Fokk."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_fc2201dd:
+
+    # fokk "Well, 'twas a good game with our server here."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_2f8fbc28:
+
+    # e "It was quite fun playing with you guys too!"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_3b0bf714:
+
+    # coit "The more the merrier, and the chance of m' losing ain't going up too."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_345229ef:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_42cadf42:
+
+    # "The four of you laugh wholeheartedly, with Fokk patting your back."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_61ee45fa:
+
+    # fokk "Come back anytime, we'll be 'ere playing."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_c868cdd7:
+
+    # "You stand up from the chair, and take your leave."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_b4e0bbb8:
+
+    # fokk "Ah, today's cumrag - our little server here."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_5d817fd6:
+
+    # e "That was a confusing game... right?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_53fbbed5:
+
+    # coit "Aye, but ye lost. It looks like ye owe us a little something now, don't ya think?"
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_9464a195:
+
+    # e "Can't we... just let it slide this time? I ha- had a lot of fun playing with you guys."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_0dfd3d4f:
+
+    # "The three regulars smirks, it doesn't seem to affect them."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_d641d303:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_7421ff5d:
+
+    # "Fokk extends his hand, motioning you to hand over something."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_552bc15d:
+
+    # fokk "40 gold per card, ye'v got [cdg_stake] cards left 'ere. That's... [cdg_stake_amount] gold ye owe us."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_1409c024:
+
+    # e "W-well, I guess fair's fair."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_ae353743:
+
+    # "You take out your bag, handing it over to Fokk."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_b34a9d6d:
+
+    # "He quickly snatches it, and begins counting the coins."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_951ca3c1:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_258d2091:
+
+    # fokk "See, we'll take no more, and no less. Rules are rules and a few coins will do."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_4f129f8e:
+
+    # e "Still, you don't need to take all my gold to count it."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_8c4c00f0:
+
+    # "You grumble under your breath, and the fox quickly takes notice and looks up."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_127e1592:
+
+    # fokk "We'll put'em to good use, server. After all, some of these are hard earned gold you've gotten from serving mugs and plates."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_867f964c:
+
+    # coit "Ye mean more ale?"
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_63153e98:
+
+    # fokk "Especially more ale."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_137b8bc3:
+
+    # "Fokk returns the rest of the gold to you, and shares it with his cardmates."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_7b03cd9a:
+
+    # fokk "There goes [cdg_stake_amount] gold."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_ab02f608:
+
+    # e "Thanks for the game, anyway. I had a lot of fun."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_3b0bf714_1:
+
+    # coit "The more the merrier, and the chance of m' losing ain't going up too."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_345229ef_1:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_42cadf42_1:
+
+    # "The four of you laugh wholeheartedly, with Fokk patting your back."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_61ee45fa_1:
+
+    # fokk "Come back anytime, we'll be 'ere playing."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_c868cdd7_1:
+
+    # "You stand up from the chair, and take your leave."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_d4245b11:
+
+    # e "I don't have any gold on me right now."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_1fe7abb8:
+
+    # e "Mind if I l-leave to get them... very quickly?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_ac0f3d3f:
+
+    # "The three regulars lean forward almost at the same time, their intimidating gaze only causes you to stutter more."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_97af28b0:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_a2c2d516:
+
+    # e "T-there's nothing inside... Can't we just work something out? I promise I'll p-pay back."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_f881a9f9:
+
+    # coit "Work something out, ye say? Gimme yer wallet and we'll work something out."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_b8025451:
+
+    # "The Coyote smirks, his demeanor has shifted quite drastically, especially when they are all staring at you, not just your eyes but glancing over your whole body."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_3ec868a1:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_9f200c17:
+
+    # "Without hesitation, Fokk swipes the bag from you."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_69319bf1:
+
+    # e "Hey!"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_359f7b50:
+
+    # fokk "Well, a debt is a debt, and we'll take whatever ye can pay."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_181e9090:
+
+    # "He turns the bag upside down, but nothing falls out of the bag."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_5afbc271:
+
+    # "You awkwardly watch as the fox shakes your bag for a few times, just to confirm that no gold was ever in the bag."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_a4c7b574:
+
+    # fokk "Well, not even one gold?"
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_059073a5:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_34f595b1:
+
+    # e "I told you I don't have any money..."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_4afcd8fe:
+
+    # "He turns the bag upside down, and you see only a few coins drop on the table, one of them almost rolls out of the table's edge until Gato stops it."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_c0cff016:
+
+    # "The fox raises his brows."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_967efe9d:
+
+    # fokk "That wasn't enough for what ye owed us."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_92efe130:
+
+    # "Fokk scratches his chin for a bit, before coming up with an idea."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_b5215ed0:
+
+    # fokk "Look, server, we ain't a greedy bunch, I'll spare ye the rest of the coins, if ye pay with yer body."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_07f7e10c:
+
+    # fokk "I've seen what's underneath that apron of ye, when ye came forward to serve plates and mugs bare-furred."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_222d67f5:
+
+    # coit "That was a sight to behold, m' lad. I even got to squeeze ye bouncy arse down there."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_356326f9:
+
+    # "The regular walks out of their chairs, and blocks your exit in an uncomfortably close proximity."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_44bf1ac9:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_0cf3a87a:
+
+    # e "You can't do this..."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_d8442dd8:
+
+    # fokk "I hate to break it to ye, but this is our district 'ere. And we can do whatever we want with ye."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_63a6305b:
+
+    # e "I-I... that wasn't what I signed up for."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_1dcd4923:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_a29b9bcd:
+
+    # fokk "Ain't that a truth, ye've been eyeing us for a while now. So why don't we skip to the great part with ye."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_47755b90:
+
+    # coit "You've got no choice 'ere, server. Should've saved up a little before playing the game don't ye think?"
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_fbf17031:
+
+    # e "That was so unfair, all three of you are so experienced in the game."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_eb6160c0:
+
+    # fokk "Look, all we need is just some of your precious time. Considering ye've got no gold to pay, why not relax for the while."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_f8c19b08:
+
+    # "He turns the bag upside down, and coins immediately rain on the table, making a small pile that grows by each seconds."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_0221658f:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_ab831e17:
+
+    # e "Well, I... uh... guess I must have forgotten about those. Can I have my wallet back now?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_9711277a:
+
+    # fokk "Not so fast, server. Since ye conveniently forgot about these coins, they rightfully belong to us now. Consider it a lesson learned."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_9f474be6:
+
+    # e "W-wait, can't you just take what I owed?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_11da3474:
+
+    # coit "Not since ye lied to us. We value honesty more than ye think, little server."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_534a4682:
+
+    # fokk "But we ain't a greedy bunch, I'll spare ye the rest of the coins minus those ye owed us, in the form of another payment."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_272d932a:
+
+    # e "W-what another payment."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_07f7e10c_1:
+
+    # fokk "I've seen what's underneath that apron of ye, when ye came forward to serve plates and mugs bare-furred."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_222d67f5_1:
+
+    # coit "That was a sight to behold, m' lad. I even got to squeeze ye bouncy arse down there."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_356326f9_1:
+
+    # "The regular walks out of their chairs, and blocks your exit in an uncomfortably close proximity."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_44bf1ac9_1:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_0cf3a87a_1:
+
+    # e "You can't do this..."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_d8442dd8_1:
+
+    # fokk "I hate to break it to ye, but this is our district 'ere. And we can do whatever we want with ye."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_63a6305b_1:
+
+    # e "I-I... that wasn't what I signed up for."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_477e0921:
+
+    # coit "Maybe if ye're being honest with the gold ye've got, you could've got out of this properly clothed."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_dc2de89e:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_13aac4cf:
+
+    # "You turn your head."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_5b11ec52:
+
+    # fokk "Well, as a token of merit, and respect for Cane, I'll let ye choose, pay with ye body, or ye entire wallet belongs to us now." nointeract
+    fokk "" nointeract
+
+translate schinese Nocturnal_Trunk_Cardy_End_4aed3131:
+
+    # e "Body... I guess."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_1dcd4923_1:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_a29b9bcd_1:
+
+    # fokk "Ain't that a truth, ye've been eyeing us for a while now. So why don't we skip to the great part with ye."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_20ebf6cd:
+
+    # "You flinch as you feel a strong arm touches you from your side, he squeezes your shoulder harshly."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_8578e4d1:
+
+    # e "W-well... take the wallet then."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_16b6f87d:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_4bdd5695:
+
+    # "The fox scratches the back of his neck, either in confusion or disappointment."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_2cfd0180:
+
+    # "They all returns to their seat like nothing happened, and you can finally take a deep breath without smelling the regular's heavy scent of alcohol."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_cfa11ca6:
+
+    # fokk "Aye, it's what's fair. He really didn't want to have his arse plowed, must've heard how hard we fucked, haha."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_f6796962:
+
+    # coit "Keep ye gold, server. We've had enough of 'em. Well, Fokk has. Ain't no fun if ye don't come back later."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_95b1395d:
+
+    # e "W-wait, really?"
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_46ce8d0d:
+
+    # fokk "I'd have preferred ye paying with ye body, ye know, I've been gettin' my meat prepared for a tight hole."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_99aa07a0:
+
+    # "The fox scratches his crotch nonchalantly, as if it was to calm his nerve rather than releasing his lust."
+    ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_f7ede861:
+
+    # coit "Ye can trust us, server. We'll treat ye gold nicely, could've puttin'em mouth to good use though."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_e59ffa86:
+
+    gato ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_4a0dc3ce:
+
+    # e "I-... I've only just started with this game, I'll get better once I've gotten a hold of it."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_5bd064c5:
+
+    # coit "Aye, that's the spirit. Come back when you've refilled ye gold."
+    coit ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_0d4088fc:
+
+    # e "A-alright, thanks for... not taking away all my gold."
+    e ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_82a50a45:
+
+    # fokk "Ye're welcome."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_61ee45fa_2:
+
+    # fokk "Come back anytime, we'll be 'ere playing."
+    fokk ""
+
+translate schinese Nocturnal_Trunk_Cardy_End_c868cdd7_2:
+
+    # "You stand up from the chair, and take your leave."
+    ""
+
 translate schinese Cane_Beer_Task_Begin_ad06b023:
 
     # c "Ey, Lad. Care for a minute?"
@@ -10478,6 +11993,31 @@ translate schinese Lothar_Battle_Training_f33c3e16:
     # e "Is it really my fault though... it's not like I can get any bigger in size..."
     e ""
 
+translate schinese Lothar_Battle_Training_f10c9f24:
+
+    # l "Ugh, I'll give you the credit. For a smaller guy like you, you actually do fight like a warrior."
+    l ""
+
+translate schinese Lothar_Battle_Training_52daa19b:
+
+    # e "I'll bet I can beat you, quite easily."
+    e ""
+
+translate schinese Lothar_Battle_Training_81b131f5:
+
+    # e "I've had no problem punching these slimes into pulps, quite easily actually."
+    e ""
+
+translate schinese Lothar_Battle_Training_17c02a7e:
+
+    # l "You're a mere disciple, stop being so smug."
+    l ""
+
+translate schinese Lothar_Battle_Training_9e8cb1d4:
+
+    # e "Lothar, you just don't trust me enough."
+    e ""
+
 translate schinese Lothar_Battle_Training_c95939f5:
 
     # l "You know, that's the problem with you, everything negative about you reflects much worse on my name."
@@ -10508,9 +12048,9 @@ translate schinese Lothar_Battle_Training_61f23e3c:
     # e "How... did you know..."
     e ""
 
-translate schinese Lothar_Battle_Training_258afb94:
+translate schinese Lothar_Battle_Training_d6dcaf02:
 
-    # l "I really do need to train you myself... do I not...?"
+    # l "I really do need to train you myself, do I not...?"
     l ""
 
 translate schinese Lothar_Battle_Training_9e6e1f41:
@@ -15748,6 +17288,111 @@ translate schinese Patron3_Dialogue_a83f097b:
     # e "'He's so drunk I don't think I can talk to him now... But I wonder who he is talking about...'"
     e ""
 
+translate schinese Patron4_Dialogue_c6a5c177:
+
+    # e "Hey there..."
+    e ""
+
+translate schinese Patron4_Dialogue_2a055e4a:
+
+    # "You approach a pair of patrons standing on the edge, they raise their tankards and take a sip before turning their attention to you."
+    ""
+
+translate schinese Patron4_Dialogue_b88e39a1:
+
+    # e "How's it going?"
+    e ""
+
+translate schinese Patron4_Dialogue_c19b7643:
+
+    # patron2 "The bard's good, I tell ye."
+    patron2 ""
+
+translate schinese Patron4_Dialogue_f6ac164a:
+
+    # patron "Aye, he's got a voice that could charm a dragon. And his skills with that lute of his, simply mesmerizing."
+    patron ""
+
+translate schinese Patron4_Dialogue_e133c8b0:
+
+    # patron2 "I've seen my fair share of bards, but this one's got a unique flair. There's something about his performances that draws you in, makes you forget all your worries."
+    patron2 ""
+
+translate schinese Patron4_Dialogue_468b5186:
+
+    # e "He's a talented songsinger indeed."
+    e ""
+
+translate schinese Patron4_Dialogue_6eb80c97:
+
+    # patron "Remember that one tale about the hero? I wonder if it'd actually happen, the way he tells the stories almost feels as if I was there."
+    patron ""
+
+translate schinese Patron4_Dialogue_c574f939:
+
+    # patron2 "Are you serious, of course no. That's nothing but a mere ghost tale to scare kids."
+    patron2 ""
+
+translate schinese Patron4_Dialogue_e38565e6:
+
+    # patron2 "But still, credit's where credit's due, there's been more than a crowd paid to be here, just to listen to his songs and dance."
+    patron2 ""
+
+translate schinese Patron4_Dialogue_2bc23d29:
+
+    # patron "I've heard he's a travelling one, gonna miss him while he's gone."
+    patron ""
+
+translate schinese Patron4_Dialogue_1a8fda2d:
+
+    # patron2 "Cane's gonna pay him huge to stay, I tell ye. There's no way he'll be gone anytime soon considering the patrons he's brought."
+    patron2 ""
+
+translate schinese Patron4_Dialogue_c51e25cd:
+
+    # patron "Yeah right..."
+    patron ""
+
+translate schinese Patron4_Dialogue_aac1a24c:
+
+    # patron "Good, server. Cane just redecorated this floor, finally feels like we're breathing now."
+    patron ""
+
+translate schinese Patron4_Dialogue_bf1955c0:
+
+    # patron2 "Yea, I do get why he stopped opening the second floor since after that lad was gone, but the tavern's been too busy for casual dwellers like us."
+    patron2 ""
+
+translate schinese Patron4_Dialogue_0153c11d:
+
+    # e "Ah, is this floor any different?"
+    e ""
+
+translate schinese Patron4_Dialogue_66888412:
+
+    # patron "Well, incase you're still getting used to here, we've been one of the most loyal regulars here, so Cane lets us go up with a proper discount."
+    patron ""
+
+translate schinese Patron4_Dialogue_59462e81:
+
+    # patron "We just have to get food and drinks by ourselves, and we're more than capable to do that. Plus, this place is so much more quiet and cozy than downstairs."
+    patron ""
+
+translate schinese Patron4_Dialogue_41d35ea1:
+
+    # patron2 "He's right, server. Sorry to say but you'd better appeal to the newcomers of the tavern. Not saying I won't get my hand on you if ye want though."
+    patron2 ""
+
+translate schinese Patron4_Dialogue_1b5aed61:
+
+    # "You blush profusely."
+    ""
+
+translate schinese Patron4_Dialogue_5227365d:
+
+    # patron2 "Eh, that wasn't flirting, just saying you've gotta have to stay here for a while, else Cane's gonna close this floor down again."
+    patron2 ""
+
 translate schinese strings:
 
     old "Ask to work in the Tavern"
@@ -15784,6 +17429,45 @@ translate schinese strings:
     new ""
 
     old "Ask about the tavern"
+    new ""
+
+    old "Play Card Game with the regulars"
+    new ""
+
+    old "Sit down"
+    new ""
+
+    old "Decline the regulars' request"
+    new ""
+
+    old "Speaking of, do ye know how to play Cumrag?"
+    new ""
+
+    old "I need some guidance"
+    new ""
+
+    old "I'm good to go"
+    new ""
+
+    old "Ask for clarification"
+    new ""
+
+    old "Go along"
+    new ""
+
+    old "What should you say?"
+    new ""
+
+    old "Hand over the gold"
+    new ""
+
+    old "I don't have any gold"
+    new ""
+
+    old "Pay with body"
+    new ""
+
+    old "Give wallet"
     new ""
 
     old "Take the Task"

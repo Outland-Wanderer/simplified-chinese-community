@@ -51,7 +51,10 @@
     old "PUR: [pc.cor]"
     new ""
 
-    old "Level: [pc.level]"
+    old "Level [pc.level] (Max)"
+    new ""
+
+    old "Level [pc.level]"
     new ""
 
     old "EXP: [pc.exp]/[pc.expCap]"
@@ -106,5 +109,8 @@
     new ""
 
     old "Value: [hovered_item.value] Gold"
+    new ""
+
+    old "Retrieve"
     new ""
 

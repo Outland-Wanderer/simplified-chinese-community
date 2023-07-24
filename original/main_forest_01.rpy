@@ -1,6 +1,191 @@
-﻿translate schinese main_woodland_outpost_bc6a5c21:
+﻿translate schinese main_alchemists_cabin_cbb6bd7c:
 
-    # k "Hey, Where's Furkan?"
+    # "Once more, you've discovered the same sprout, this time it's much bigger, with a yellowish fruit under the usual two leaves."
+    ""
+
+translate schinese main_alchemists_cabin_c6157549:
+
+    # "It has mostly blended in with the other firs on the tree, almost as if it belongs here."
+    ""
+
+translate schinese main_alchemists_cabin_f84659d4:
+
+    # "You reach up to grab onto the sprout, and suddenly, a familiar voice catches your attention."
+    ""
+
+translate schinese main_alchemists_cabin_44276ca5:
+
+    # h "What do you think you're doing, kiddo."
+    h ""
+
+translate schinese main_alchemists_cabin_6be92e1e:
+
+    # "It was Haskell, the old dragon walks up from his small hut."
+    ""
+
+translate schinese main_alchemists_cabin_345648fb:
+
+    # e "Uh... I was picking up herbs, can I not... do that?"
+    e ""
+
+translate schinese main_alchemists_cabin_7f25484a:
+
+    # "Haskell looks at the direction of your hand, a squirming sprout still bouncing around your palm."
+    ""
+
+translate schinese main_alchemists_cabin_c9ee51ff:
+
+    # h "Did the goat shopkeeper send you here?"
+    h ""
+
+translate schinese main_alchemists_cabin_fdc766f3:
+
+    # e "Well I was looking for a trinket, called eversprout, Gwyd gave me the clues to find it and I followed the fruit here."
+    e ""
+
+translate schinese main_alchemists_cabin_95c1ecbb:
+
+    # "The dragon sighs, he walks towards you until you're both under the fir trees."
+    ""
+
+translate schinese main_alchemists_cabin_790310bb:
+
+    # h "Ugh, what did he tell you exactly."
+    h ""
+
+translate schinese main_alchemists_cabin_0c6a1960:
+
+    # e "He just sold me a scroll- Wait, do you know about the sprout?"
+    e ""
+
+translate schinese main_alchemists_cabin_78d92e77:
+
+    # "You loosen up your fist, and the sprout quickly bounces to Haskell's side."
+    ""
+
+translate schinese main_alchemists_cabin_93c6cb34:
+
+    # "He pats on the leaves for a moment, before letting it return to the bristling trees."
+    ""
+
+translate schinese main_alchemists_cabin_a1ce6a51:
+
+    # h "Of course I do! The sprout's from my garden, helps with tending to the herbs and flowers."
+    h ""
+
+translate schinese main_alchemists_cabin_d75f0564:
+
+    # h "He's a budding spirit, one born just like the other soulful trinkets, but he has his own mind."
+    h ""
+
+translate schinese main_alchemists_cabin_4cf86ea3:
+
+    # e "I thought those three trinkets were all you know."
+    e ""
+
+translate schinese main_alchemists_cabin_2381274b:
+
+    # h "It's not like I'll gladly let you take my garden tender and put it in a glass bottle, ugh..."
+    h ""
+
+translate schinese main_alchemists_cabin_2018efa8:
+
+    # "Haskell takes another sip, before he casually walks into the garden and returns with a sprout."
+    ""
+
+translate schinese main_alchemists_cabin_e5e7b6f9:
+
+    # h "Here, take it."
+    h ""
+
+translate schinese main_alchemists_cabin_959bb4a2:
+
+    # e "Oh? What's this...?"
+    e ""
+
+translate schinese main_alchemists_cabin_c7897e01:
+
+    # h "One of the sprouts that the spirit has stayed with, it should invoke a similar effect as though it was one of the trinkets."
+    h ""
+
+translate schinese main_alchemists_cabin_72c73954:
+
+    # h "The result is reduced, but just as spiritual as the real one."
+    h ""
+
+translate schinese main_alchemists_cabin_b73b6cb7:
+
+    # e "Thank you so much, Haskell."
+    e ""
+
+translate schinese main_alchemists_cabin_bd41a4e6:
+
+    # h "Well, next time Gwyddyon wants to sell you my own items, remember to stuff his mouth with his worthless crystals."
+    h ""
+
+translate schinese main_alchemists_cabin_69491b20:
+
+    # h "Now, let me finish my tea, and don't try to look for the young sprout anymore, kiddo. He's going to be scared of you for a while."
+    h ""
+
+translate schinese main_alchemists_cabin_cd2aa067:
+
+    # "You nod, before Haskell chuckles slightly and returns to his hut."
+    ""
+
+translate schinese main_woodland_outpost_134a4208:
+
+    # "Under the old outpost of the goats, you discover the hidden sprout once more, it wiggles as always, rhythm on the pace with the nature's frequency."
+    ""
+
+translate schinese main_woodland_outpost_c3d914a9:
+
+    # e "Don't you fuckin run away again!"
+    e ""
+
+translate schinese main_woodland_outpost_554537ac:
+
+    # "You angrily catches it, this time the small sprout is trapped right in your palm."
+    ""
+
+translate schinese main_woodland_outpost_65ab4a45:
+
+    # e "Haha, YES!"
+    e ""
+
+translate schinese main_woodland_outpost_e327378a:
+
+    # "The small sprout convulses, jiggling as if it was hurt by your force. Your eyes widen, and immediately relaxes your hand."
+    ""
+
+translate schinese main_woodland_outpost_72d88318:
+
+    # "Suddenly it jumps off your hand, you try to catch it once more but as soon as it touches the ground, it has vanished once more."
+    ""
+
+translate schinese main_woodland_outpost_b57712fd:
+
+    # "You stomp the ground impatiently, it's unbelievable how it manipulated with your empathy just to escape."
+    ""
+
+translate schinese main_woodland_outpost_2c3b668e:
+
+    # "But there's no time for your frustration, you should chase after it again. Just that the problem is, there's no way to know where it went..."
+    ""
+
+translate schinese main_woodland_outpost_21d7e940:
+
+    # "You walk over to the entrance of the goat tribe, two guards are standing there."
+    ""
+
+translate schinese main_woodland_outpost_4a5579c6:
+
+    # "One of them immediately rushes inside, and a moment later, the general walks out towards you, still exhausted."
+    ""
+
+translate schinese main_woodland_outpost_78c284fa:
+
+    # k "Hey... Where's Furkan?"
     k ""
 
 translate schinese main_woodland_outpost_cca30a87:
@@ -8,9 +193,14 @@ translate schinese main_woodland_outpost_cca30a87:
     # e "He's fine, he told me to ask your guards to take him back."
     e ""
 
-translate schinese main_woodland_outpost_64ddf4dd:
+translate schinese main_woodland_outpost_c2205134:
 
-    # k "Oh...?"
+    # "Kari looks at you with surprise."
+    ""
+
+translate schinese main_woodland_outpost_dcd86e92:
+
+    # k "Oh?"
     k ""
 
 translate schinese main_woodland_outpost_c52956bf:
@@ -18,10 +208,20 @@ translate schinese main_woodland_outpost_c52956bf:
     # k "Alright... Thanks, Courier."
     k ""
 
-translate schinese main_woodland_outpost_a4129b62:
+translate schinese main_woodland_outpost_57642efc:
 
-    # k "I think it's finished now, I'll take over now."
+    # "You can sense a sliver of gratitude in his voice, even when he doesn't spell it out loud."
+    ""
+
+translate schinese main_woodland_outpost_82c5b073:
+
+    # k "You should get some rest, I'll take over now."
     k ""
+
+translate schinese main_woodland_outpost_f9973791:
+
+    # "He hands you some paper."
+    ""
 
 translate schinese main_woodland_outpost_94e12146:
 
@@ -33,19 +233,14 @@ translate schinese main_woodland_outpost_44668cc5:
     # k "It's iron sword and axe."
     k ""
 
-translate schinese main_woodland_outpost_2d190ad7:
+translate schinese main_woodland_outpost_4509fa69:
 
-    # e "Ah... that sounds so great. Thanks a lot!"
+    # e "Ah, that sounds so great. Thanks a lot!"
     e ""
 
-translate schinese main_woodland_outpost_2576bdf9:
+translate schinese main_woodland_outpost_f622bd2d:
 
-    # k "We'll talk later after... Furkan and I recover a little."
-    k ""
-
-translate schinese main_woodland_outpost_10a7d307:
-
-    # k "See you, Courier."
+    # k "We'll talk later, both of us need to recover for a while."
     k ""
 
 translate schinese main_woodland_outpost_88472ec0:
@@ -81,6 +276,26 @@ translate schinese main_woodland_outpost_da9cd745:
 translate schinese main_woodland_outpost_146c26b8:
 
     # "You decide that the guards won't let you in, and you move on back to the main road."
+    ""
+
+translate schinese main_mossy_freshwater_f68a08be:
+
+    # "Just in the cave of the mossy river, you find the same sprout again, it wiggles again, convulsing with the flow of the water."
+    ""
+
+translate schinese main_mossy_freshwater_cdc43bd0:
+
+    # "You walk towards the river bank, before it slips away from the grasp of your hand, and wiggles away again."
+    ""
+
+translate schinese main_mossy_freshwater_436b3870:
+
+    # e "Argh! How did it escape again?"
+    e ""
+
+translate schinese main_mossy_freshwater_4706c9aa:
+
+    # "You turn your head left and right, there's no sign of which direction it had went, but you should chase after it before it disappears once more."
     ""
 
 translate schinese ancient_tree_chop_bd47983b:

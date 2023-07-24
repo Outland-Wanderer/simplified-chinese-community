@@ -83,6 +83,11 @@ translate schinese Split_Trail_Loop_e4bc7423:
     # "You quickly put the drawing back, perhaps there's something that can remove this bush."
     ""
 
+translate schinese Split_Trail_Loop_6fbeccd5:
+
+    # "You enter the northeast of the split trail."
+    ""
+
 translate schinese Split_Trail_Loop_9b2f2b1b_1:
 
     # "You are not sure... if you should leave with the flower in your hand."
@@ -2583,86 +2588,6 @@ translate schinese Chelforte_Cavern_Ore1_a5c03a12:
     # "After a long and grueling moments, you finally obtains an iron ore."
     ""
 
-translate schinese Chelforte_Cavern_Ore1_d9888168_1:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore1_a5c03a12_1:
-
-    # "After a long and grueling moments, you finally obtains an iron ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore1_d9888168_2:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore1_a5c03a12_2:
-
-    # "After a long and grueling moments, you finally obtains an iron ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore1_d9888168_3:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore1_a5c03a12_3:
-
-    # "After a long and grueling moments, you finally obtains an iron ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore1_d9888168_4:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore1_a5c03a12_4:
-
-    # "After a long and grueling moments, you finally obtains an iron ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore1_d9888168_5:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore1_a5c03a12_5:
-
-    # "After a long and grueling moments, you finally obtains an iron ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore1_d9888168_6:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore1_a5c03a12_6:
-
-    # "After a long and grueling moments, you finally obtains an iron ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore1_d9888168_7:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore1_a5c03a12_7:
-
-    # "After a long and grueling moments, you finally obtains an iron ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore1_d9888168_8:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore1_a5c03a12_8:
-
-    # "After a long and grueling moments, you finally obtains an iron ore."
-    ""
-
 translate schinese Chelforte_Cavern_Ore1_4eb2a229:
 
     # "There's nothing for you to mine for now..."
@@ -2693,66 +2618,6 @@ translate schinese Chelforte_Cavern_Ore2_684a288a:
     # "After a long and grueling moments, you finally obtains a lodestone ore."
     ""
 
-translate schinese Chelforte_Cavern_Ore2_d9888168_1:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore2_684a288a_1:
-
-    # "After a long and grueling moments, you finally obtains a lodestone ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore2_d9888168_2:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore2_684a288a_2:
-
-    # "After a long and grueling moments, you finally obtains a lodestone ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore2_d9888168_3:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore2_684a288a_3:
-
-    # "After a long and grueling moments, you finally obtains a lodestone ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore2_d9888168_4:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore2_684a288a_4:
-
-    # "After a long and grueling moments, you finally obtains a lodestone ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore2_d9888168_5:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore2_684a288a_5:
-
-    # "After a long and grueling moments, you finally obtains a lodestone ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore2_d9888168_6:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore2_684a288a_6:
-
-    # "After a long and grueling moments, you finally obtains a lodestone ore."
-    ""
-
 translate schinese Chelforte_Cavern_Ore2_4eb2a229:
 
     # "There's nothing for you to mine for now..."
@@ -2779,46 +2644,6 @@ translate schinese Chelforte_Cavern_Ore3_d9888168:
     ""
 
 translate schinese Chelforte_Cavern_Ore3_017e7293:
-
-    # "After a long and grueling moments, you finally obtains a copper ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore3_d9888168_1:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore3_017e7293_1:
-
-    # "After a long and grueling moments, you finally obtains a copper ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore3_d9888168_2:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore3_017e7293_2:
-
-    # "After a long and grueling moments, you finally obtains a copper ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore3_d9888168_3:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore3_017e7293_3:
-
-    # "After a long and grueling moments, you finally obtains a copper ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore3_d9888168_4:
-
-    # "You take out your pickaxe and start striking it against the ore."
-    ""
-
-translate schinese Chelforte_Cavern_Ore3_017e7293_4:
 
     # "After a long and grueling moments, you finally obtains a copper ore."
     ""

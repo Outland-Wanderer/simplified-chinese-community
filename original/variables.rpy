@@ -60,13 +60,19 @@
     old "Fiery Charge"
     new ""
 
-    old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP"
+    old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP."
     new ""
 
     old "Piercing Blow"
     new ""
 
     old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI. Costs 35 MP"
+    new ""
+
+    old "Tranquil Mend"
+    new ""
+
+    old "Tranquil Mend: {p} For the next 3 rounds, all allies are healed for an increased amount based on your TEN and INT. Costs 40 MP."
     new ""
 
     old "Trapped"
@@ -117,6 +123,12 @@
     old "Scorched: {p} Target's Health decreased by the same amount for each round. Additional application extends the effect duration instead."
     new ""
 
+    old "Mended"
+    new ""
+
+    old "Mended: {p} Target is healed for each round."
+    new ""
+
     old "Lindbloom"
     new ""
 
@@ -142,6 +154,30 @@
     new ""
 
     old "Found around the magical pond, the trinket hidden in the pond can be summoned by a mixture of a bovine's essence and the magical flowing water."
+    new ""
+
+    old "Eversprout"
+    new ""
+
+    old "A Trinket that heals and enhances your maximum health by every turn, but your initial health are lowered."
+    new ""
+
+    old "Found hidden in the forest, one must be perceptive to spot a sprout spirit's journey from the great waterfall, consecutively in four locations."
+    new ""
+
+    old "Small HP Potion"
+    new ""
+
+    old "An HP Potion that recovers 40 HP."
+    new ""
+
+    old "Small MP Potion"
+    new ""
+
+    old "An MP Potion that recovers 40 MP."
+    new ""
+
+    old "Red Berry"
     new ""
 
     old "A red berry I collected from the forest area, it can recover 10 HP."
@@ -204,6 +240,12 @@
     old "A short sword I brought from my Tribe.{p} Attack: +5 {p} Accuracy: +2 "
     new ""
 
+    old "Small Axe"
+    new ""
+
+    old "A small axe used for chopping woods, and probably fighting. {p} Attack: +7 "
+    new ""
+
     old "Iron Scythe"
     new ""
 
@@ -246,6 +288,12 @@
     old "A long spear crafted by a tribe, the magical power within gives its user an unusual boost. {p} Attack: +10 {p} INT: +1 {p} Max MP: +15"
     new ""
 
+    old "Crystal Staff"
+    new ""
+
+    old "A wooden staff with a blue crystal on the top, can be used to slap your enemy, and restore 5 mana each round. {p} Attack: +4 {p} INT: +3"
+    new ""
+
     old "Tribe Loincloth"
     new ""
 
@@ -258,6 +306,12 @@
     old "A skull necklace that represents my own tribe.{p} Defense: +4 {p} Attack: +2 "
     new ""
 
+    old "Lion Charm"
+    new ""
+
+    old "A Lion Charm made by Sebas, he told me it brings luck.{p} Defense: +5 {p} Dodge Rate: +2"
+    new ""
+
     old "Courier Badge"
     new ""
 
@@ -268,6 +322,18 @@
     new ""
 
     old "A Necklace with a slime crystal imbedded into the golden frame. {p} CHA: +1 {p} Lust Resistance: +5 {p} Flirt: +2"
+    new ""
+
+    old "Moonstone Amulet"
+    new ""
+
+    old "An ancient artifact in the werewolf territory, the wearer is granted a gust of strength at the cost of their health. {p} STR: +2 {p} Damage: +10 {p} Max Health: -100 {p} Flirt: +3"
+    new ""
+
+    old "Herbalist's Gloves"
+    new ""
+
+    old "A pair of old gloves from a herbalist in the dark forest, it can probably still be used to collect some dangerous herbs with ease. {p} Defense: +6 {p} Flirt: +1"
     new ""
 
     old "Torn Tavern Apron"
@@ -405,10 +471,28 @@
     old "The Botanical Journal is covered with slime, accompanied by a few loose pages, it describes details of different plants species around the dark forest."
     new ""
 
+    old "Book of Tranquil Mend"
+    new ""
+
+    old "The Book grants you a spell that heals you and your ally over time."
+    new ""
+
+    old "Scroll of Eversprout"
+    new ""
+
+    old "The Scroll grants you ability to discover a trinket that enhances your defense over time"
+    new ""
+
     old "Storage Room Key"
     new ""
 
     old "The key to the storage room in King's Pawn. Sebas gave it to me as my bedroom key."
+    new ""
+
+    old "Mossy Artifact"
+    new ""
+
+    old "A Carved Stone discovered by Lothar, it seems to be a hand... from the Mossy Golem."
     new ""
 
     old "Wooden Bucket"
@@ -427,6 +511,12 @@
     new ""
 
     old "A stone that is found by Lothar from where the caravan crashed."
+    new ""
+
+    old "Werewolf Whistle"
+    new ""
+
+    old "A werewolf whistle that turns the sound of one's whistle into a sound resembling howling of a werewolf. It was used in a now discontinued ceremony in the werewolf pack."
     new ""
 
     old "Stone"
@@ -511,6 +601,12 @@
     new ""
 
     old "A leather strap from a Buggbear, presumably stolen from the goat. It's used to hold something together."
+    new ""
+
+    old "Small Cloth"
+    new ""
+
+    old "A piece of cloth from Rahim, it is made with wool from somewhere."
     new ""
 
     old "Buggbear Sedative"
@@ -679,6 +775,12 @@
     new ""
 
     old "A plant with leaves that has strong scent that is said to repel canine folks, it also helps treat other user's common sicknesses."
+    new ""
+
+    old "Crystal Gem"
+    new ""
+
+    old "A gem that has magical energy embedded within the gem. Discovered at the unfathomable depth of the world, its potential can only be harnessed through experienced hands."
     new ""
 
     old "Slime"
@@ -871,6 +973,24 @@
     new ""
 
     old "The area connected to the Viscid Stream, it is filled with different kinds of Slime and Herbs suitable for research."
+    new ""
+
+    old "Whispering Hollow"
+    new ""
+
+    old "The excavated clearing within brimful forest, it's said that the soul of an ancient being wanders around the hollow."
+    new ""
+
+    old "Prattlefell Meadow"
+    new ""
+
+    old "A magical expanse of hills and flowers, serves as a hub for travelers and creatures alike, it is a place where stories and secrets are whispered on the wind."
+    new ""
+
+    old "Bandit's Hideout"
+    new ""
+
+    old "A fortress hidden by vines and guarded by ruthless thieves. A treacherous maze of traps and dangers awaits those who dare to enter, but for those who do, the promise of wealth and lawless freedom beckons."
     new ""
 
     old "Ole's Postal Training"
@@ -1074,6 +1194,24 @@
     old "Plums has been mysteriously disappearing lately, Jog asked me to track down the thief in the farm."
     new ""
 
+    old "Wisest of the Pack"
+    new ""
+
+    old "After eliminating a long-standing threat, Uffe wants me to explore the Whispering Hollow, cutting the weeds, and solving the riddles."
+    new ""
+
+    old "Prose and Cons"
+    new ""
+
+    old "A stranger in the plains lost his Lute to a group of bandits, Pirkka asks me to retrieve his favourite prose for him."
+    new ""
+
+    old "Brother's Keeper"
+    new ""
+
+    old "Uffe asks me to get into the hiding place of a pair of werewolves who planned to escape the forest. I need to make a choice."
+    new ""
+
     old "Potion Order"
     new ""
 
@@ -1096,6 +1234,15 @@
     new ""
 
     old "Rahim wants me to make clothes for him, maybe I'll get to know him more after this."
+    new ""
+
+    old "Miner Amendment"
+    new ""
+
+    old "Ardent Cauldron"
+    new ""
+
+    old "Gwyddyon wants me to collect 10 ores of his choosing, in the Chelforte Cavern."
     new ""
 
     old "Herbs and Harvests"

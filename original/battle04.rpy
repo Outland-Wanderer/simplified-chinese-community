@@ -128,9 +128,9 @@ translate schinese werewolf_battle_loop_679dfc1a:
     # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at the werewolf seductively."
     ""
 
-translate schinese werewolf_battle_loop_9422ab81:
+translate schinese werewolf_battle_loop_2f6606e7:
 
-    # "You cup at your fluffy , drawing circles around the area of your nipples. You smile at the werewolf while your bounce up and down slightly."
+    # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the werewolf while your bounce up and down slightly."
     ""
 
 translate schinese werewolf_battle_loop_69c73a8c:
@@ -258,9 +258,9 @@ translate schinese werewolf_battle_loop_84eba930:
     # "The werewolf flaunts his claw towards you, you manage to dodge the attack."
     ""
 
-translate schinese werewolf_battle_loop_708bbcea:
+translate schinese werewolf_battle_loop_4947dbcf:
 
-    # "The werewolf charges at you, trying to kick at your but you leap to your side in time."
+    # "The werewolf charges at you, trying to kick at your chest but you leap to your side in time."
     ""
 
 translate schinese werewolf_battle_loop_e034cdda:

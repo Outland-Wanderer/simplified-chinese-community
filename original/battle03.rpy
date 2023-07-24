@@ -898,9 +898,14 @@ translate schinese Bandit_Den_End_f397e375:
     # k "Alright, he's alive. Furk."
     k ""
 
-translate schinese Bandit_Den_End_3adfe0b8:
+translate schinese Bandit_Den_End_46661de9:
 
-    # "Kari performs healing magic to the unconscious ram, and soon... he wakes up..."
+    # "Kari performs healing magic to the unconscious ram."
+    ""
+
+translate schinese Bandit_Den_End_9a2b7cf9:
+
+    # "Furkan's eyes flutter open, as an anticipated deer watches in relief."
     ""
 
 translate schinese Bandit_Den_End_3ec57d49:
@@ -918,9 +923,14 @@ translate schinese Bandit_Den_End_02545655:
     # f "...W-where am I?"
     f ""
 
-translate schinese Bandit_Den_End_794797c2:
+translate schinese Bandit_Den_End_00f52772:
 
-    # k "Furk, you scared me to death... Are you feeling better now?"
+    # "Kari hugs the chief tightly, he positions himself on top of Furkan, feeling all his warmth as you watch from a distance."
+    ""
+
+translate schinese Bandit_Den_End_068112a1:
+
+    # k "Furk, you almost scared me to death. I thought you were gone."
     k ""
 
 translate schinese Bandit_Den_End_b7cc3345:
@@ -928,14 +938,19 @@ translate schinese Bandit_Den_End_b7cc3345:
     # f "Uhm... the cave... I came here looking for the golem did I not?"
     f ""
 
+translate schinese Bandit_Den_End_723c6101:
+
+    # "Kari nods."
+    ""
+
 translate schinese Bandit_Den_End_48014797:
 
     # e "Hey, Furkan."
     e ""
 
-translate schinese Bandit_Den_End_b68c09ac:
+translate schinese Bandit_Den_End_7c5afb1c:
 
-    # f "The courier? Why are you here..."
+    # f "The courier? Why are you here."
     f ""
 
 translate schinese Bandit_Den_End_e5aaaaa3:
@@ -948,10 +963,25 @@ translate schinese Bandit_Den_End_f4847294:
     # e "Did you pass out after the guardian attacked you?"
     e ""
 
-translate schinese Bandit_Den_End_90f09731:
+translate schinese Bandit_Den_End_ae4b54e1:
 
-    # f "No... it was someone else... the guardian was protecting me."
+    # f "No, it was someone else... the guardian was protecting me."
     f ""
+
+translate schinese Bandit_Den_End_3bea46d2:
+
+    # k "Please tell me who attacked you, Furkan. I will take my own revenge on them."
+    k ""
+
+translate schinese Bandit_Den_End_000b35c8:
+
+    # f "They hit me from the back, I have no idea."
+    f ""
+
+translate schinese Bandit_Den_End_d4a36c19:
+
+    # "Kari looks disappointed, it seems he cares about the chief a lot by the way he's still hugging him."
+    ""
 
 translate schinese Bandit_Den_End_4312d7b7:
 
@@ -968,6 +998,11 @@ translate schinese Bandit_Den_End_6a9d299d:
     # k "Father's basin?"
     k ""
 
+translate schinese Bandit_Den_End_32a6dc7b:
+
+    # "The general pulls away, looking at Furkan with concern."
+    ""
+
 translate schinese Bandit_Den_End_1b47d087:
 
     # k "Oh... No."
@@ -978,45 +1013,30 @@ translate schinese Bandit_Den_End_ead24320:
     # e "W-what's it?"
     e ""
 
-translate schinese Bandit_Den_End_4fcab62c:
+translate schinese Bandit_Den_End_07929565:
 
-    # k "We used it to summon our guardians... or what you called golem."
+    # k "We used it to summon our guardians, or what you called golem."
     k ""
-
-translate schinese Bandit_Den_End_1c9f8db5:
-
-    # k "Uhm Furk... did you see the attacker?"
-    k ""
-
-translate schinese Bandit_Den_End_dabf44c8:
-
-    # f "No."
-    f ""
 
 translate schinese Bandit_Den_End_b34597c1:
 
     # f "Is the guardian doing well?"
     f ""
 
-translate schinese Bandit_Den_End_2bbf79e9:
+translate schinese Bandit_Den_End_001113cc:
 
-    # k "Courier used the crystal on him..."
+    # k "Courier used a rock on him, I saw it."
     k ""
 
-translate schinese Bandit_Den_End_5ec9462d:
+translate schinese Bandit_Den_End_93902d70:
 
-    # f "Hmm... the crystal I was looking for?"
-    f ""
+    # "You nods slightly as the chief gives you an approving smile."
+    ""
 
-translate schinese Bandit_Den_End_51667721:
+translate schinese Bandit_Den_End_46a16c41:
 
-    # e "You were coming for the crystal?"
-    e ""
-
-translate schinese Bandit_Den_End_32fb7925:
-
-    # f "This place used to be the secret foundry... We had the crystal buried here somewhere."
-    f ""
+    # "But the smile fades away quickly as he looks back at Kari."
+    ""
 
 translate schinese Bandit_Den_End_5363b379:
 
@@ -1048,30 +1068,65 @@ translate schinese Bandit_Den_End_98e8204b:
     # k "We killed it. We thought he went rogue on you and he started attacking us."
     k ""
 
-translate schinese Bandit_Den_End_6b70fcfd:
+translate schinese Bandit_Den_End_f273e2bb:
 
-    # e "Uhmm..."
+    # f "Alright."
+    f ""
+
+translate schinese Bandit_Den_End_fa11c99b:
+
+    # "Furkan sighs, he looks down, eyes almost teary."
+    ""
+
+translate schinese Bandit_Den_End_a083357a:
+
+    # "He doesn't speak, instead, he grasps on Kari's hand. The general doesn't seem to flich away."
+    ""
+
+translate schinese Bandit_Den_End_ab4dee2a:
+
+    # "Both of them are just mourning, in their own way."
+    ""
+
+translate schinese Bandit_Den_End_f2da58de:
+
+    # f "So, all of what I did was for nothing."
+    f ""
+
+translate schinese Bandit_Den_End_87555c13:
+
+    # f "Guardian died, basin got stolen."
+    f ""
+
+translate schinese Bandit_Den_End_db3cd737:
+
+    # e "W-what's the basin actually?"
     e ""
 
-translate schinese Bandit_Den_End_e2474748:
+translate schinese Bandit_Den_End_f2575d7f:
 
-    # f "Alright. I was actually coming for something here..."
+    # f "It was what my father used to summon guardians, with the help of the runes."
     f ""
 
-translate schinese Bandit_Den_End_3687d8f5:
+translate schinese Bandit_Den_End_095e395f:
 
-    # f "Something resembling a crystal to return the golem to its normal state."
+    # f "In return, the guardians protect the runes."
     f ""
 
-translate schinese Bandit_Den_End_6895d577:
+translate schinese Bandit_Den_End_cd0075c1:
 
-    # k "We... didn't see anything here..."
-    k ""
-
-translate schinese Bandit_Den_End_9989e40d:
-
-    # f "It is no longer required now, considering the status of the golem..."
+    # f "And now I lost both of them."
     f ""
+
+translate schinese Bandit_Den_End_c3ed46ef:
+
+    # "Kari rubs his paws on Furkan's wound, tending to it carefully."
+    ""
+
+translate schinese Bandit_Den_End_a534077e:
+
+    # e "I'm really sorry to hear, but we'll try to get them back when you recover."
+    e ""
 
 translate schinese Bandit_Den_End_cebe6de1:
 
@@ -1103,9 +1158,9 @@ translate schinese Bandit_Den_End_e73388e9:
     # e "Oh... you guys... are going?"
     e ""
 
-translate schinese Bandit_Den_End_04ce795f:
+translate schinese Bandit_Den_End_a944e8ba:
 
-    # "Kari carries the furkan's weakened body on his back. The two men grunts a little before walking."
+    # "Kari carries the furkan's exhausted body on his back. The two men grunts a little before walking."
     ""
 
 translate schinese Bandit_Den_End_6409673d:
@@ -1123,10 +1178,15 @@ translate schinese Bandit_Den_End_44668cc5:
     # k "It's iron sword and axe."
     k ""
 
-translate schinese Bandit_Den_End_ca6dd60e:
+translate schinese Bandit_Den_End_a3ae056d:
 
-    # e "Thanks a lot, Kari."
+    # e "Thanks, general."
     e ""
+
+translate schinese Bandit_Den_End_84fcf348:
+
+    # "He hands you the paper, before tugging the chieftain upwards with his hands on his ass."
+    ""
 
 translate schinese Bandit_Den_End_127daacc:
 
@@ -1143,19 +1203,29 @@ translate schinese Bandit_Den_End_ce1cdeaf:
     # e "See you..."
     e ""
 
+translate schinese Bandit_Den_End_e0df77ea:
+
+    # "Kari turns away from you, and begin walking towards the exit."
+    ""
+
 translate schinese Bandit_Den_End_4c3c3c00:
 
     # k "{size=20}Furk, since when did you get this heavy.{/size}"
     k ""
+
+translate schinese Bandit_Den_End_2b1a552a:
+
+    # "They whispers, but the echo in the cave makes it clear even from afar."
+    ""
 
 translate schinese Bandit_Den_End_b055cfae:
 
     # f "{size=20}Uhmm... Heavier if I fall asleep on your shoulder...{/size}"
     f ""
 
-translate schinese Bandit_Den_End_b63be10c:
+translate schinese Bandit_Den_End_747772b0:
 
-    # "Kari and Furkan leaves you outside the cave..."
+    # "Kari and Furkan leaves you outside the cave."
     ""
 
 translate schinese Bandit_Den_End_ed08a457:
@@ -1163,20 +1233,30 @@ translate schinese Bandit_Den_End_ed08a457:
     # e "Fuck, Furkan? Are you awake?"
     e ""
 
-translate schinese Bandit_Den_End_559a4f55:
+translate schinese Bandit_Den_End_ad844077:
 
-    # "The Ram doesn't speak, in fact he still hasn't wake. You decide to presses on his chest for a few moment."
+    # "The Ram is completely passed out, you decide to presses on his chest for a few moment."
     ""
 
-translate schinese Bandit_Den_End_f685f4b4:
+translate schinese Bandit_Den_End_81fffab3:
 
-    # "You casts a weak healing magic to him."
+    # "With no avail, you lean your head against his chest, luckily his heart is still beating, albeit weakly."
+    ""
+
+translate schinese Bandit_Den_End_282a297e:
+
+    # "You cast a weak healing magic on him."
     ""
 
 translate schinese Bandit_Den_End_3ec57d49_1:
 
     # f "..."
     f ""
+
+translate schinese Bandit_Den_End_fca3c10c:
+
+    # "The chief's eyes flutter open. He looks stressful, and his pupils dilate."
+    ""
 
 translate schinese Bandit_Den_End_4e056dcb:
 
@@ -1187,6 +1267,11 @@ translate schinese Bandit_Den_End_2f3870eb:
 
     # e "Hey, Furkan. Are you alright?"
     e ""
+
+translate schinese Bandit_Den_End_bcda30d6:
+
+    # "He turns his attention to you."
+    ""
 
 translate schinese Bandit_Den_End_d06b9227:
 
@@ -1203,25 +1288,50 @@ translate schinese Bandit_Den_End_f0e70fe2:
     # e "He's resting in the tribe now."
     e ""
 
+translate schinese Bandit_Den_End_a3e1f029:
+
+    # "You try to give him a hand as he shifts his position to you, but he doesn't take it."
+    ""
+
 translate schinese Bandit_Den_End_9f93daa8:
 
     # f "W-what happened."
     f ""
 
-translate schinese Bandit_Den_End_c584b9e9:
+translate schinese Bandit_Den_End_713df877:
 
-    # e "He fought me, but I defeated him."
+    # e "He fought me as I entered your tribe, I defeated him at the end."
     e ""
+
+translate schinese Bandit_Den_End_c492b7b4:
+
+    # e "I didn't intend to, just trying to protect myself. He thought I kidnapped you."
+    e ""
+
+translate schinese Bandit_Den_End_b329270f:
+
+    # e "Afterwards he told me you might be here..."
+    e ""
+
+translate schinese Bandit_Den_End_bbdc0855:
+
+    # "Furkan stares forwards, seemingly pondering something you're not aware of."
+    ""
 
 translate schinese Bandit_Den_End_a9d62d89:
 
     # e "Uhm... Furkan... did you pass out after the guardian attacked you?"
     e ""
 
-translate schinese Bandit_Den_End_90f09731_1:
+translate schinese Bandit_Den_End_90f09731:
 
     # f "No... it was someone else... the guardian was protecting me."
     f ""
+
+translate schinese Bandit_Den_End_9168b5c7:
+
+    # "He looks around, distressed."
+    ""
 
 translate schinese Bandit_Den_End_4312d7b7_1:
 
@@ -1253,15 +1363,40 @@ translate schinese Bandit_Den_End_1dd4c735:
     # f "Fuck! Why am I so useless."
     f ""
 
-translate schinese Bandit_Den_End_1c94ba84:
+translate schinese Bandit_Den_End_a2ff6800:
 
-    # f "They stole the basin from me..."
+    # f "They stole the basin from me. The thieves."
     f ""
 
-translate schinese Bandit_Den_End_fa86efde:
+translate schinese Bandit_Den_End_2c5adaba:
 
-    # e "It's ok, Furkan. We can get it back later..."
+    # e "Who took it? I didn't see anyone else here in the cave."
     e ""
+
+translate schinese Bandit_Den_End_6fea8302:
+
+    # f "They're probably gone, I did not get to catch a glimpse but I sensed someone was there."
+    f ""
+
+translate schinese Bandit_Den_End_560a4f40:
+
+    # f "...Right before I was ambushed from behind."
+    f ""
+
+translate schinese Bandit_Den_End_33656c76:
+
+    # e "It's ok, Furkan. We can get it back later. You should focus on recovering first."
+    e ""
+
+translate schinese Bandit_Den_End_a13c0780:
+
+    # "You lend your hand again towards Furkan, this time he reluctantly accepts it."
+    ""
+
+translate schinese Bandit_Den_End_39000206:
+
+    # "With your assistance, Furkan turns against a huge rock to lean on."
+    ""
 
 translate schinese Bandit_Den_End_b34597c1_1:
 
@@ -1273,25 +1408,35 @@ translate schinese Bandit_Den_End_8d754181:
     # e "Yes, the stone was healing him quite a bit."
     e ""
 
-translate schinese Bandit_Den_End_cf0f92ea:
+translate schinese Bandit_Den_End_0e8db784:
 
-    # f "Wait... you found the slab?"
+    # f "What stone?"
     f ""
 
-translate schinese Bandit_Den_End_87b4652b:
+translate schinese Bandit_Den_End_9520fe9c:
 
-    # e "W-what slab?"
-    e ""
+    # "You show him the rock you found at the lake, apparently it's been soaked in magical energy enough to heal a golem."
+    ""
 
-translate schinese Bandit_Den_End_34def928:
+translate schinese Bandit_Den_End_051170e6:
 
-    # f "This place used to be the secret foundry... We had the slab buried here somewhere."
+    # f "Thank god."
     f ""
 
-translate schinese Bandit_Den_End_5363b379_1:
+translate schinese Bandit_Den_End_2ff7bb12:
 
-    # f "It was stupid of me to come here alone. I did not intend for anyone to follow me."
+    # "Furkan sighs, he is looking at the guardian, panting."
+    ""
+
+translate schinese Bandit_Den_End_85b84d75:
+
+    # f "It was stupid of me to come here alone. I know the guardian is here."
     f ""
+
+translate schinese Bandit_Den_End_d3d886a4:
+
+    # "He looks down, hands over his face."
+    ""
 
 translate schinese Bandit_Den_End_deb4c568_1:
 
@@ -1318,10 +1463,55 @@ translate schinese Bandit_Den_End_8fbbec14:
     # e "He attacked me... So I killed it."
     e ""
 
-translate schinese Bandit_Den_End_f273e2bb:
+translate schinese Bandit_Den_End_f273e2bb_1:
 
     # f "Alright."
     f ""
+
+translate schinese Bandit_Den_End_fa11c99b_1:
+
+    # "Furkan sighs, he looks down, eyes almost teary."
+    ""
+
+translate schinese Bandit_Den_End_f2da58de_1:
+
+    # f "So, all of what I did was for nothing."
+    f ""
+
+translate schinese Bandit_Den_End_87555c13_1:
+
+    # f "Guardian died, basin got stolen."
+    f ""
+
+translate schinese Bandit_Den_End_db3cd737_1:
+
+    # e "W-what's the basin actually?"
+    e ""
+
+translate schinese Bandit_Den_End_f2575d7f_1:
+
+    # f "It was what my father used to summon guardians, with the help of the runes."
+    f ""
+
+translate schinese Bandit_Den_End_095e395f_1:
+
+    # f "In return, the guardians protect the runes."
+    f ""
+
+translate schinese Bandit_Den_End_cd0075c1_1:
+
+    # f "And now I lost both of them."
+    f ""
+
+translate schinese Bandit_Den_End_534602b9:
+
+    # "He turns away, ears droop low."
+    ""
+
+translate schinese Bandit_Den_End_a534077e_1:
+
+    # e "I'm really sorry to hear, but we'll try to get them back when you recover."
+    e ""
 
 translate schinese Bandit_Den_End_0623b8b8:
 
@@ -1333,9 +1523,9 @@ translate schinese Bandit_Den_End_8c3907b5_1:
     # f "Hmm..."
     f ""
 
-translate schinese Bandit_Den_End_b6130c4d:
+translate schinese Bandit_Den_End_5685146e:
 
-    # "Furkan stumbles forward when he tries to stand up."
+    # "Furkan stumbles forward when he tries to stand up. He lands on the floor again with a loud thump."
     ""
 
 translate schinese Bandit_Den_End_3ec57d49_2:
@@ -1362,6 +1552,31 @@ translate schinese Bandit_Den_End_9d2f2d12:
 
     # e "Alright."
     e ""
+
+translate schinese Bandit_Den_End_bbec41a3:
+
+    # e "What about the guardian?"
+    e ""
+
+translate schinese Bandit_Den_End_85ee5c06:
+
+    # f "I suppose we will carry it back."
+    f ""
+
+translate schinese Bandit_Den_End_1d3e7715:
+
+    # f "Not sure if he will still go rogue, so we will put him in captivity."
+    f ""
+
+translate schinese Bandit_Den_End_41569b97:
+
+    # f "There is just nothing left for it to protect."
+    f ""
+
+translate schinese Bandit_Den_End_6619e846:
+
+    # "Furkan takes another pause."
+    ""
 
 translate schinese Bandit_Den_End_049ac92c:
 
@@ -1393,14 +1608,19 @@ translate schinese Bandit_Den_End_4dbb790a:
     # "You desperately want it to be this case."
     ""
 
-translate schinese Bandit_Den_End_cd737672:
+translate schinese Bandit_Den_End_ebfee94b:
 
-    # "That it is a nightmare you could find a way to wake up."
+    # "If it is a nightmare, maybe you can find a way to wake up."
     ""
 
 translate schinese Bandit_Den_End_23e939ae:
 
     # "Though..."
+    ""
+
+translate schinese Bandit_Den_End_4322f566:
+
+    # "What's even wrong with indulging yourself in this, nightmare?"
     ""
 
 translate schinese Bandit_Den_End_52f8d5eb:
@@ -1413,19 +1633,29 @@ translate schinese Bandit_Den_End_c4aaf428:
     # "The world you lived in, in the tribe. It was... bland, unfruitful."
     ""
 
+translate schinese Bandit_Den_End_5033d6bd:
+
+    # "You don't even remember any other person there, except for Chime."
+    ""
+
 translate schinese Bandit_Den_End_86e9aeda:
 
     # "But here you feel like you are doing something. You have the power to change something, for better or worse."
     ""
 
-translate schinese Bandit_Den_End_36304dbd:
+translate schinese Bandit_Den_End_d9da896d:
 
-    # "Still, your friend, Chime is somewhere lost in this world."
+    # "Here, you feel powerful, you feel as if there's a flame inside you, waiting to rekindle."
     ""
 
-translate schinese Bandit_Den_End_65d2e163:
+translate schinese Bandit_Den_End_742ea64e:
 
-    # "And even if you don't want to leave... You should do it for Chime."
+    # "You don't ever want to leave behind the friends you've made, if you ever found an exit."
+    ""
+
+translate schinese Bandit_Den_End_ab597d55:
+
+    # "Still, Chime is out there, alone, and you can't let that continue for long."
     ""
 
 translate schinese Bandit_Den_End_a20cefa7_1:
@@ -1438,9 +1668,9 @@ translate schinese Bandit_Den_End_ecc36c43:
     # "Quickly... you put all unnecessary thought in the back of your head."
     ""
 
-translate schinese Bandit_Den_End_bcfe3af7:
+translate schinese Bandit_Den_End_d8ce2a99:
 
-    # "You continues on your journey."
+    # "And you continue on your journey in this world."
     ""
 
 translate schinese runeguardian_lose_85fa647a:
@@ -1971,7 +2201,7 @@ translate schinese strings:
     old "No{#userockonguardian}"
     new ""
 
-    old "Visit the Goat Tribe after a day."
+    old "Inform Kari of the Chief's safety."
     new ""
 
     old "Restart Dungeon"

@@ -333,9 +333,9 @@ translate schinese Bandit_Den_Shelf_16401e07:
     # "You read from the paper..."
     ""
 
-translate schinese Bandit_Den_Shelf_6e0b30fe:
+translate schinese Bandit_Den_Shelf_2651c84d:
 
-    # "'T/e blessi/g of Coeshk/n: Date/ Year 12/07...'"
+    # "'T/e blessi/g of Tapj/o: Date/ Year 12/07...'"
     ""
 
 translate schinese Bandit_Den_Shelf_6442032d:
@@ -368,14 +368,14 @@ translate schinese Bandit_Den_Shelf_c2ecef11:
     # "'For now, Goat Tri//'s Leader Goek/emir refused to cooperate with ou/ research team."
     ""
 
-translate schinese Bandit_Den_Shelf_a241d3b2:
+translate schinese Bandit_Den_Shelf_2f1eb415:
 
-    # "'It cannot be de//rmined whether this fo/ce could be att//b/ted to the god of /////////ce...'"
+    # "'It cannot be de//rmined whether this fo/ce could be att//b/ted to the god of ////st...'"
     ""
 
-translate schinese Bandit_Den_Shelf_9dfcec64:
+translate schinese Bandit_Den_Shelf_58e865e6:
 
-    # "'A rumor of sighting of Atlo/h, another ce//stial being. was spr//d among the /e/r folks... although some sugge//ed it is a plo/ to invite ////'s inve/tment.'"
+    # "'A rumor of sighting of /ok//, another di//// being. was spr//d among the /e/r folks... although some sugge//ed it is a plo/ to invite ////'s inve/tment.'"
     ""
 
 translate schinese Bandit_Den_Shelf_06c1cc94:

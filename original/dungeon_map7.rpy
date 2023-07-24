@@ -125,6 +125,9 @@ translate schinese Bandit_Encounter_Bandit_c8742c33:
 
 translate schinese strings:
 
+    old "Do you wish to exit the bandit's hideout?"
+    new ""
+
     old "Report back to Pirkka"
     new ""
 

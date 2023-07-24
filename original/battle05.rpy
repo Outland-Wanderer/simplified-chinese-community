@@ -1618,3 +1618,816 @@ translate schinese nosferat_lose_4ba96869:
     # "You lost [gold_lost] gold."
     ""
 
+translate schinese werewolf_tetto_battle_9b5df742:
+
+    # "You are facing two werewolves, you are ready to fight them off alongside Tetto."
+    ""
+
+translate schinese werewolf_tetto_battle_45b2880a:
+
+    # "You are facing two werewolves, you hold out your [pc.weapon.name!t], you are ready to fight them off alongside Tetto."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_2cb72799:
+
+    # "It's your turn now."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_0d3408ce:
+
+    # "It's [ally.name]'s turn now."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_6cfd0245:
+
+    # "You slash your [pc.weapon.name!t] at the arms of the werewolf, it slides right off his fluffy arm, while you look back in disbelief."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_318e1d72:
+
+    # "You slam your [pc.weapon.name!t] at the arms of the werewolf, it slides right off his fluffy arm, while you look back in disbelief."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_d09ca2fc:
+
+    # "You aim and shoot your [pc.weapon.name!t] at the arms of the werewolf, it pierces right through his soft fur without touching his skin, leaving you frozen in disbelief."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_107bbb25:
+
+    # "You hold your fist and throw it at the werewolf, but it hits nothing and leaves you standing instead."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_48ed0abb:
+
+    # ww "Unlucky. But not surprised, hmmm..."
+    ww ""
+
+translate schinese werewolf_tetto_battle_loop_77505ec7:
+
+    # tt "You will make it next time."
+    tt ""
+
+translate schinese werewolf_tetto_battle_loop_797886eb:
+
+    # "The werewolf growls loudly while flexing his claws, it almost seems he's scoffing at your attempt of attack."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_070c20b1:
+
+    # "You slash your [pc.weapon.name!t] at the werewolf, your blade grazes through the werewolf's stomach. Drops of blood drips through his body."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_123404a1:
+
+    # "You slash your [pc.weapon.name!t] at the werewolf, knocking him on the ground. He growls at you before getting up, albeit disheveled."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_2ec11010:
+
+    # "You slam your [pc.weapon.name!t] at the werewolf, your blade grazes through the werewolf's stomach. Drops of blood drips through his body."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_f0f3f2a9:
+
+    # "You slam your [pc.weapon.name!t] at the werewolf, knocking him on the ground. He growls at you before getting up, albeit disheveled."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_2de98a20:
+
+    # "You aim and shoot your [pc.weapon.name!t] at the werewolf, the arrow hit right into his shoulder and he screams in agony."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_667501f6:
+
+    # "You run while shooting your [pc.weapon.name!t] at the werewolf, knocking him on the ground. He growls at you before getting up, albeit disheveled."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_9c3de814:
+
+    # "You throw your fist at the werewolf, hitting him right across his face, the sheer impact knocks him on the ground."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_12526b5f:
+
+    # "You punch into the werewolf's stomach, grabbing him and slam him on the ground hard."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_8a3d2c44:
+
+    # "Tetto slashes his claws into the werewolf, scraping against the long grey fur on his body."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_24bcc736:
+
+    # "His health decreases by [oa[4]] HP."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_260590ef:
+
+    # "The werewolf is critically hit, his health decreased by [oa[4]] HP!"
+    ""
+
+translate schinese werewolf_tetto_battle_loop_cf32bdd4:
+
+    # ww "Come here... little prey, stop resisting."
+    ww ""
+
+translate schinese werewolf_tetto_battle_loop_821b8d28:
+
+    # ww "Huh... This prey is definitely moving. And I'll prefer a moving one when I get a hold of you."
+    ww ""
+
+translate schinese werewolf_tetto_battle_loop_979cd9f8:
+
+    # "The werewolf howls in anger, you can feel the imminent danger as other werewolves in the forest respond to his howl."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_e1c89fe5:
+
+    # ww "Argh...! You can really pack a punch do you not? Can't wait to pin you down and get a taste of your flesh."
+    ww ""
+
+translate schinese werewolf_tetto_battle_loop_4be9928d:
+
+    # ww "Hnnngh!!! Now I'm getting real angry. And you don't want to see me when I'm angry, little prey."
+    ww ""
+
+translate schinese werewolf_tetto_battle_loop_eb2305d1:
+
+    # "You can barely hear barking sound of the werewolf, it seems like he doesn't appreciate a trespasser, and you've angered him further."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_948f4e9b:
+
+    # tt "Take my claw!"
+    tt ""
+
+translate schinese werewolf_tetto_battle_loop_c9e8bcae:
+
+    # tt "Hyaah! Leave it to me!"
+    tt ""
+
+translate schinese werewolf_tetto_battle_loop_39dfd204:
+
+    # "Tetto thrashes his claws at the werewolves, dealing [oa[4]] HP!"
+    ""
+
+translate schinese werewolf_tetto_battle_loop_8e14f488:
+
+    # ww "F-fuck! We'll take you down in no time!"
+    ww ""
+
+translate schinese werewolf_tetto_battle_loop_9f1c07d6:
+
+    # "The werewolf is now wounded."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_fdf9de27:
+
+    # "You turn around and rub your hand all over your own burly cheeks, feeling and brushing against your ass while you shake your hip."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_679dfc1a:
+
+    # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at the werewolf seductively."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_2f6606e7:
+
+    # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the werewolf while your bounce up and down slightly."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_31e76fe0:
+
+    # tt "What?"
+    tt ""
+
+translate schinese werewolf_tetto_battle_loop_01a63a00:
+
+    # e "You know, do something sexy..."
+    e ""
+
+translate schinese werewolf_tetto_battle_loop_c9f47a91:
+
+    # tt "W- Alright."
+    tt ""
+
+translate schinese werewolf_tetto_battle_loop_28543999:
+
+    # "Tetto puffs up his chest, flaunting his red brown fur in front of the werewolf."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_69c73a8c:
+
+    # "You continue your act for about a minute, but the werewolf just stares at you in confusion."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_5ded777e:
+
+    # "The werewolf just stares at Tetto... Eventually he stops out of embarrassment."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_482ade7e:
+
+    # "Within a few seconds you can already see some movements under the werewolf's ripped pants."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_bb33b631:
+
+    # "The sturdy beast man licks his lips, grumbling at your beautiful sight. His lust is increased by [player_flirt]."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_eaf69d5b:
+
+    # "You notice the werewolf is staring at your crotch, you slightly wink at him and he already looks like he can't breath under such arousal."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_877a56ed:
+
+    # "His lust is increased by [player_flirt]."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_8f8f53e6:
+
+    # ww "Hmm... Come closer... little prey."
+    ww ""
+
+translate schinese werewolf_tetto_battle_loop_b075c3a4:
+
+    # ww "You have a nice body, little prey. Our pack would be delighted to see you."
+    ww ""
+
+translate schinese werewolf_tetto_battle_loop_1876b221:
+
+    # "The werewolf is squirming in reaction to your advance."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_f1da305a:
+
+    # "You can already hear his rapid breathing and grunting, grasping at his own claws. His lust is increased by [player_flirt]."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_739aed5e:
+
+    # "You can tell the werewolf is already playing with himself when his claws goes under his pants, staring at your ass intently."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_877a56ed_1:
+
+    # "His lust is increased by [player_flirt]."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_aeda22d8:
+
+    # ww "I-I can't hold... back- if you keep being like that."
+    ww ""
+
+translate schinese werewolf_tetto_battle_loop_ec94cb21:
+
+    # ww "L-little prey, y-our hole is mine. Now give up already and let me... f-fuck."
+    ww ""
+
+translate schinese werewolf_tetto_battle_loop_1ff7aded:
+
+    # "You can see that for some reason, the werewolf is weirdly attracted by Tetto's performance."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_135bc787:
+
+    # ww "Hmmph...."
+    ww ""
+
+translate schinese werewolf_tetto_battle_loop_877a56ed_2:
+
+    # "His lust is increased by [player_flirt]."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_fa90019c:
+
+    # "You look around, there's no way to escape without abandoning Tetto, and you're not ready for that."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_f88cd8cd:
+
+    # "You raises your hand. Showing to the werewolves that you've accepted your fate."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_6311292d:
+
+    # tt "We can still win this... right? [e]?"
+    tt ""
+
+translate schinese werewolf_tetto_battle_loop_e98b05fd:
+
+    # "You remain silent as Tetto lowers his arms, staring at the two werewolves in defeat."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_7f10568a:
+
+    # tt "...I cannot fight them all by myself."
+    tt ""
+
+translate schinese werewolf_tetto_battle_loop_604ef9eb:
+
+    # "The werewolf flaunts his claw towards you. Your health decreases by [enemy_damage] HP."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_a42617c3:
+
+    # "The werewolf charges at you, knocking you on the ground. Your health decreases by [enemy_damage] HP."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_641212a4:
+
+    # "The werewolf flaunts his claw towards Tetto. His health decreases by [enemy_damage] HP."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_3cf7a290:
+
+    # "The werewolf charges at Tetto, clashing his body onto the ground. His health decreases by [enemy_damage] HP."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_84eba930:
+
+    # "The werewolf flaunts his claw towards you, you manage to dodge the attack."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_4947dbcf:
+
+    # "The werewolf charges at you, trying to kick at your chest but you leap to your side in time."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_585efc05:
+
+    # "The werewolf flaunts his claw towards Tetto, but he manage to dodge the attack."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_2d3d847d:
+
+    # "The werewolf charges at Tetto, trying to push him on the ground, but he leaps away in time."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_9519dcb5:
+
+    # ww "Heh... little prey. Give up now and maybe we'll give you and your friends a quick death."
+    ww ""
+
+translate schinese werewolf_tetto_battle_loop_849beb2b:
+
+    # ww "Tetto, we knew you're one of the weaklings, but we didn't expect such cowardice in you."
+    ww ""
+
+translate schinese werewolf_tetto_battle_loop_7365540a:
+
+    # ww "I'm almost done with you, little prey. Uffe will be elated to see your demise."
+    ww ""
+
+translate schinese werewolf_tetto_battle_loop_b7faf2ef:
+
+    # ww "It's time, my friend, you know we can't let you escape, so why not make this quick?"
+    ww ""
+
+translate schinese werewolf_tetto_battle_loop_078a90eb:
+
+    # "The werewolf swings his claw at you, scraping against your side. Your health decreases by [enemy_damage] HP."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_e1d1f7bb:
+
+    # "The werewolf swings his claw at Tetto, scraping against his side. His health decreases by [enemy_damage] HP."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_88f0fa84:
+
+    # "Your bleeding has gotten worse from the werewolf."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_3034cbd4:
+
+    # "Tetto is bleeding much worse now."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_23ba5b86:
+
+    # "You begin to bleed from your wound as the werewolf watches in jeer."
+    ""
+
+translate schinese werewolf_tetto_battle_loop_9ba2c9c7:
+
+    # "Tetto begins to bleed from the newly-formed wound clawed by the werewolf."
+    ""
+
+translate schinese werewolf_tetto_win_b7d13101:
+
+    # "You pant heavily as both werewolves falls on the ground."
+    ""
+
+translate schinese werewolf_tetto_win_2682f183:
+
+    # "Without hesitation, you turn around to leave, only to see Tetto still staring at the werewolves."
+    ""
+
+translate schinese werewolf_tetto_win_2fbd37a6:
+
+    # ww "F-fuck. Uffe is going to kill us for letting you two go."
+    ww ""
+
+translate schinese werewolf_tetto_win_bb29d3db:
+
+    # ww2 "Ugh..."
+    ww2 ""
+
+translate schinese werewolf_tetto_win_5aadbdd3:
+
+    # tt "You can leave with us, escape the forest. Uffe can't reach you outside."
+    tt ""
+
+translate schinese werewolf_tetto_win_a92be1d8:
+
+    # "You are quite honestly stunned by how quickly Tetto invites them to tag along, considering 10 seconds ago you were fighting to death."
+    ""
+
+translate schinese werewolf_tetto_win_230f111c:
+
+    # "The two defeated werewolves look at each other."
+    ""
+
+translate schinese werewolf_tetto_win_5e44a316:
+
+    # "Without another words, they staggers away from you two, towards the path you two took."
+    ""
+
+translate schinese werewolf_tetto_win_cce190d1:
+
+    # "It's clear the decision they've made was grim, but understandable."
+    ""
+
+translate schinese werewolf_tetto_win_a9d36594:
+
+    # ww2 "We didn't see anything."
+    ww2 ""
+
+translate schinese werewolf_tetto_win_d81c263e:
+
+    # "As they walk, the two turns to you and Tetto as they support each other's weights."
+    ""
+
+translate schinese werewolf_tetto_win_6307dd3a:
+
+    # "They slightly nods at you, eyes with a sorrowful look, before slowly disappearing into the mist."
+    ""
+
+translate schinese werewolf_tetto_win_8104fd8b:
+
+    # tt "Shall we continue? It's almost there."
+    tt ""
+
+translate schinese werewolf_tetto_win_6186867a:
+
+    # "You nod."
+    ""
+
+translate schinese werewolf_tetto_win_3c582672:
+
+    # "The maned werewolf picks up his brother, who's still in deep slumber."
+    ""
+
+translate schinese werewolf_tetto_win_71ff470d:
+
+    # "His step falters, but he manages to keep his balance despite the wounds and injuries."
+    ""
+
+translate schinese werewolf_tetto_win_861b13e4:
+
+    # tt "Say, [e]. You need to recommend me that lizard of yours, he's got a good recipe for an ointment, right?"
+    tt ""
+
+translate schinese werewolf_tetto_win_3bc1b836:
+
+    # e "Yeah, I think so."
+    e ""
+
+translate schinese werewolf_tetto_win_b022e1a0:
+
+    # tt "Good, I can use a whole jar right now."
+    tt ""
+
+translate schinese werewolf_tetto_win_d43a60eb:
+
+    # "Tetto smiles."
+    ""
+
+translate schinese werewolf_tetto_win_00fa044f:
+
+    # "It's clear Tetto has less of a mood to talk right now, considering what has panned out in the fight."
+    ""
+
+translate schinese werewolf_tetto_win_49147c8e:
+
+    # "And you decide to stay quiet as well, just to let your thought sinks in."
+    ""
+
+translate schinese werewolf_tetto_win_b6c6f86e:
+
+    # tt "What do you think the outside world has for us? Will it be good? Or the same."
+    tt ""
+
+translate schinese werewolf_tetto_win_0d2189b4:
+
+    # "After a while, the werewolf speaks once more."
+    ""
+
+translate schinese werewolf_tetto_win_a39befb0:
+
+    # e "I believe you will meet so much more people outside, there will be bad things within, but you'll also discover something good, something worthwhile."
+    e ""
+
+translate schinese werewolf_tetto_win_c710e707:
+
+    # tt "Good is good enough."
+    tt ""
+
+translate schinese werewolf_tetto_win_36ed6e52:
+
+    # "Tetto takes another step, before he comes to a halt."
+    ""
+
+translate schinese werewolf_tetto_win_340707dd:
+
+    # e "We're out of the forest now."
+    e ""
+
+translate schinese werewolf_tetto_win_2366ac62:
+
+    # "You look around, hearing the splurging sound of water, you three seem to be near the cascades now."
+    ""
+
+translate schinese werewolf_tetto_win_9acd25b7:
+
+    # tt "Oh my- Everything is so bright here."
+    tt ""
+
+translate schinese werewolf_tetto_win_8c4b00f0:
+
+    # e "Yeah!"
+    e ""
+
+translate schinese werewolf_tetto_win_ea7cc79e:
+
+    # "Tetto walks around in awe as he lays down his sleeping brother."
+    ""
+
+translate schinese werewolf_tetto_win_50044e74:
+
+    # e "You sure you two are fine here? There are still monsters around, even though they're not as vicious as your people."
+    e ""
+
+translate schinese werewolf_tetto_win_ada75c9e:
+
+    # tt "Well, we're werewolves too!"
+    tt ""
+
+translate schinese werewolf_tetto_win_57624fd4:
+
+    # "He chides loudly, with a friendly smile."
+    ""
+
+translate schinese werewolf_tetto_win_3aa2280f:
+
+    # tt "Rumma is almost awake here, we'll be okay."
+    tt ""
+
+translate schinese werewolf_tetto_win_a38549b4:
+
+    # tt "However, we still want to get away as far as possible from Uffe, for now."
+    tt ""
+
+translate schinese werewolf_tetto_win_bd7d5d0c:
+
+    # "The werewolf grins."
+    ""
+
+translate schinese werewolf_tetto_win_f9637a5b:
+
+    # e "I'm so glad to be able to help you."
+    e ""
+
+translate schinese werewolf_tetto_win_88a34193:
+
+    # "He turns to you, this time with a warm glance."
+    ""
+
+translate schinese werewolf_tetto_win_e6b7e0fb:
+
+    # tt "And I'm glad you turned around, from Uffe."
+    tt ""
+
+translate schinese werewolf_tetto_win_2b40a022:
+
+    # e "Huh?"
+    e ""
+
+translate schinese werewolf_tetto_win_b3c85c27:
+
+    # tt "I just deduced that you had some tasks given by the alpha, from how those two in the forest spoke."
+    tt ""
+
+translate schinese werewolf_tetto_win_9d4f9d3d:
+
+    # tt "But regardless, you defied his order just to help strangers like us. That just makes me admire you more, little friend."
+    tt ""
+
+translate schinese werewolf_tetto_win_134459a3:
+
+    # "Tetto gives you a warm embrace, covering you easily in his red brown fur."
+    ""
+
+translate schinese werewolf_tetto_win_3ba0ca2b:
+
+    # "You don't know how to respond, you felt as if you've betrayed Tetto's trust, but somehow, he's grown to like you more."
+    ""
+
+translate schinese werewolf_tetto_win_5132cd11:
+
+    # tt "You helped treat Rumma's wound, and you escaped with us. That'll spell you a lot of troubles from Uffe."
+    tt ""
+
+translate schinese werewolf_tetto_win_dd6039c0:
+
+    # tt "Don't ever get near the den, and remember to conceal your smell around if you decide to go back."
+    tt ""
+
+translate schinese werewolf_tetto_win_cf3278c6:
+
+    # e "Actually, I've had help from Wuldon, he's just like you two, very good at hiding."
+    e ""
+
+translate schinese werewolf_tetto_win_99c0e108:
+
+    # tt "W-wuldon? The herbalist's son?"
+    tt ""
+
+translate schinese werewolf_tetto_win_2b40a022_1:
+
+    # e "Huh?"
+    e ""
+
+translate schinese werewolf_tetto_win_6b21d205:
+
+    # tt "I've seen that big blue werewolf before, but it's been so long."
+    tt ""
+
+translate schinese werewolf_tetto_win_4b28a0e5:
+
+    # tt "What is he up to?"
+    tt ""
+
+translate schinese werewolf_tetto_win_1e99e1af:
+
+    # e "Well, a few things. Maybe after everything, you'll be able to return to the forest whenever you'd like."
+    e ""
+
+translate schinese werewolf_tetto_win_244a32e9:
+
+    # tt "Hah, well, don't get my hopes up like that."
+    tt ""
+
+translate schinese werewolf_tetto_win_16c96458:
+
+    # e "I- I know."
+    e ""
+
+translate schinese werewolf_tetto_win_142775fd:
+
+    # tt "Well, I've seen a big blue werewolf carrying water around the split trails, perhaps you should go visit him sometimes."
+    tt ""
+
+translate schinese werewolf_tetto_win_c72ef864:
+
+    # e "I think I know him, we talked quite a lot about the pack's history."
+    e ""
+
+translate schinese werewolf_tetto_win_cb23f038:
+
+    # tt "That's great, he was the herbalist's son, actually. So I suppose he can get you around the forest easily."
+    tt ""
+
+translate schinese werewolf_tetto_win_41ff77b5:
+
+    # e "Where can I find him?"
+    e ""
+
+translate schinese werewolf_tetto_win_f7e4afbb:
+
+    # tt "Through some sort of riddle in the split trails, I think he definitely has his genius method of concealing his location, unlike us."
+    tt ""
+
+translate schinese werewolf_tetto_win_d43a60eb_1:
+
+    # "Tetto smiles."
+    ""
+
+translate schinese werewolf_tetto_win_4ddba342:
+
+    # tt "Oh, and speaking of the herbalist, there's something that I want to give you."
+    tt ""
+
+translate schinese werewolf_tetto_win_b99fa1dc:
+
+    # "The werewolf takes out a pair of old gloves, and put them on your hand."
+    ""
+
+translate schinese werewolf_tetto_win_a252d62e:
+
+    # tt "Here, it was the herbalist's gloves, he gave it to me the last time I saw him. It should help you pick up some herbs very easily."
+    tt ""
+
+translate schinese werewolf_tetto_win_f1758625:
+
+    # e "Thank you, Tetto."
+    e ""
+
+translate schinese werewolf_tetto_win_47c16d24:
+
+    # tt "Anyway, my brother is still sleeping like a baby now. His wound's recovered, I should make a bed around here soon."
+    tt ""
+
+translate schinese werewolf_tetto_win_6a571956:
+
+    # e "I guess we'll split here."
+    e ""
+
+translate schinese werewolf_tetto_win_5ac1a863:
+
+    # tt "Yep. May we meet again, [e]."
+    tt ""
+
+translate schinese werewolf_tetto_win_5f051950:
+
+    # e "Take care, Tetto."
+    e ""
+
+translate schinese werewolf_tetto_win_06a2d283:
+
+    # "Tetto raises his hand to wave you goodbye as you leave."
+    ""
+
+translate schinese werewolf_tetto_lose_a1996fa6:
+
+    # "The werewolves jeer, instead of the usual banters, you see actual bloodlust in their eyes."
+    ""
+
+translate schinese werewolf_tetto_lose_30067e19:
+
+    # "And soon you realise, it's the end of the journey."
+    ""
+
+translate schinese werewolf_tetto_lose_50fe2d47:
+
+    # "Without another second thought, the werewolf in front of you swings his claws one last time, hitting across your face."
+    ""
+
+translate schinese werewolf_tetto_lose_55aed3f3:
+
+    # "He doesn't spare any energy left, just letting his claws bury inside your head for just the mere tenth of a seconds it collides."
+    ""
+
+translate schinese werewolf_tetto_lose_685e948d:
+
+    # "It was quicker than you thought, perhaps it was his unique method of showing mercy, your vision goes dark immediately."
+    ""
+
+translate schinese werewolf_tetto_lose_6cf48d8f:
+
+    # "You can hear Tetto gasps surprisingly as your body goes limp, and you slump on the ground hard, before he's taken away by the two werewolves."
+    ""
+
+translate schinese werewolf_tetto_lose_49d7d7a8:
+
+    # tt "G-get off me! You monsters."
+    tt ""
+
+translate schinese werewolf_tetto_lose_41871384:
+
+    # "The sound of Tetto being dragged away are faintly heard, but the majority of the senses goes to the pain from your crushed head."
+    ""
+
+translate schinese werewolf_tetto_lose_5846ad61:
+
+    # "Soon, you hear his brother is dragged away as well, leaving you alone on the forest floor."
+    ""
+
+translate schinese werewolf_tetto_lose_1cd7638a:
+
+    # "You take your last breath before everything comes to a halt."
+    ""
+
+translate schinese strings:
+
+    old "Continue to your End"
+    new ""
+
+    old "You died. Reload an old save to continue your journey."
+    new ""
+

@@ -1493,9 +1493,9 @@ translate schinese Kechioeren_Enter_683ebfb2:
     # e "Uhm I'm from." nointeract
     e "" nointeract
 
-translate schinese Kechioeren_Enter_d3b43202:
+translate schinese Kechioeren_Enter_412dde89:
 
-    # e "I'm from Hawkaita. Have you heard?"
+    # e "I'm from Puro. Have you heard?"
     e ""
 
 translate schinese Kechioeren_Enter_3a0ee0aa:
@@ -3553,9 +3553,9 @@ translate schinese Kari_Adventure_0af55a1b:
     # e "I uhh... come from another place. You know about that, right?"
     e ""
 
-translate schinese Kari_Adventure_22506db5:
+translate schinese Kari_Adventure_81762b7a:
 
-    # k "Yeah, Hawkaita. Furkan told me that."
+    # k "Yeah, Puro. Furkan told me that."
     k ""
 
 translate schinese Kari_Adventure_0a463124:
@@ -4188,9 +4188,9 @@ translate schinese Kari_Adventure_405ab4d3:
     # e "Do you people believe in any?"
     e ""
 
-translate schinese Kari_Adventure_99b0ab7e:
+translate schinese Kari_Adventure_888073a0:
 
-    # k "We did. The god of intelligence, Coeshkun. Like any other Tribes."
+    # k "We did. The god of intelligence, Tapjoo. Like any other Tribes."
     k ""
 
 translate schinese Kari_Adventure_aaa657f3:
@@ -4333,9 +4333,9 @@ translate schinese Furkan_First_Meet_78d17fe4:
     # m "Where are you from."
     m ""
 
-translate schinese Furkan_First_Meet_3884f69f:
+translate schinese Furkan_First_Meet_62159bf5:
 
-    # e "I am from Hawkaita, uhhh... I live in Lusterfield now."
+    # e "I am from Puro, uhhh... I live in Lusterfield now."
     e ""
 
 translate schinese Furkan_First_Meet_52f47dca:
@@ -4532,6 +4532,501 @@ translate schinese Furkan_First_Meet_038b3ad2:
 
     # f "I suppose so. You know where to find me."
     f ""
+
+translate schinese Furkan_Before_Reconciliation_d9093596:
+
+    # "You walk into Furkan's hut. The general and the chieftain are discussing as usual."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_747a0649:
+
+    # "But upon another look, it seems more clear that it wasn't just some discussion."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_65c7ecd3:
+
+    # k "What do you mean, Furkan. You already kno-"
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_35ecda47:
+
+    # "The general pauses as he notices your presence. Both of them turn to you with a face of surprise."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_a6be8290:
+
+    # k "Mert! Come escort the courier out."
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_f7c044ff:
+
+    # goatguard "Yes, general."
+    goatguard ""
+
+translate schinese Furkan_Before_Reconciliation_d3535d40:
+
+    # e "S-sorry, I'll be gone in a second."
+    e ""
+
+translate schinese Furkan_Before_Reconciliation_a8fd92e9:
+
+    # "You awkwardly smiles as a guard flips open the curtain from behind you."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_f472349f:
+
+    # "He grapples onto your arm, which causes you to flinch instinctively."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_788dc2d5:
+
+    # f "No, guard. Let him stay, he is trusted."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_cf7898f4:
+
+    # "Kari furrows his brows under the mask, but he remains silent as Furkan gives him a side glance."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_3464364a:
+
+    # "And without another word, the guard leaves the room almost immediately, as if he also knows the gravity of the situation."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_dc60bc50:
+
+    # "You can sense an aura of uneasiness emanating within this room, an unspoken aggression between the chieftain and the general."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_7b33d9dd:
+
+    # f "Come, take a seat, [e]."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_23634915:
+
+    # e "Uhmm... You sure that's fine? We can always talk later."
+    e ""
+
+translate schinese Furkan_Before_Reconciliation_3ac79564:
+
+    # f "Yes, I am sure."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_c4ad1225:
+
+    # "...And you're sure the tension raises tenfold as you sit across the table where Kari is standing, still silent."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_06875f72:
+
+    # "In fact, the room has been nothing but silence for a few seconds before Furkan speaks."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_f1863f3e:
+
+    # f "It has been a while since we last talked to Lusterfield, and we're thinking, if there is a possibility of reconciliation, a solution to the problem of both of us."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_d64ce8b3:
+
+    # f "Our primordial runes remains stolen, and we need a trusted ally that can help us fight this unknown entity."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_e7c3c041:
+
+    # e "How would this help Lusterfield in any way?"
+    e ""
+
+translate schinese Furkan_Before_Reconciliation_cdbc2098:
+
+    # f "Monsters are arriving from every corner of the world, ever since everything that happened."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_11c14426:
+
+    # f "We should combine our force, lest when the threat finally knocks on our door, we should stand together."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_147095b6:
+
+    # e "So, what's the threat exactly."
+    e ""
+
+translate schinese Furkan_Before_Reconciliation_c681a7ac:
+
+    # f "We don't know yet. It could be anyone who's powerful enough, it could be a tribe, like the bears from the far north."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_a3118740:
+
+    # "You glance at Kari, and he looks away."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_087ff10a:
+
+    # e "Uhm, general, what do you think?"
+    e ""
+
+translate schinese Furkan_Before_Reconciliation_f4d42c0d:
+
+    # k "You're not listening."
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_64346512:
+
+    # "The general is directly addressing Furkan, who sits on the chair, stoic to a disgruntled general."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_f9029c9d:
+
+    # f "I listened, and I said no, with respect."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_8a5c51aa:
+
+    # k "I trust your judgement, Furk. But you can't keep repeating the same mistake."
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_3d5d3219:
+
+    # k "The old bull has already made up his mind, nothing can change that."
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_84f284d0:
+
+    # f "Why are you so certain?"
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_76eb606d:
+
+    # k "Because we've already done that?"
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_ab49a62a:
+
+    # k "Tevfik died for this, and you're suggesting things can go back to what it really was?"
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_4b4fbc97:
+
+    # f "Don't you bring my father into this conversation."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_caaefa36:
+
+    # f "Tevfik died for us. You are not the one to speak on his behalf, like you did not send him on his path of destruction."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_8409c795:
+
+    # f "You were his advisor, Kari."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_0ca52f6b:
+
+    # k "What are you talking about?"
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_103c26bf:
+
+    # k "I was not the one that left us all alone when the tribe needs help the most, he thought you were gone for good."
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_935b2fb1:
+
+    # k "Did you know how that destroyed him while I was watching there?"
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_4fd65bf8:
+
+    # k "Every night, I can swear I hear him cr-"
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_6b9e720a:
+
+    # "Kari stops abruptly, he stares back at you again."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_9484a29c:
+
+    # f "Keep going."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_a6f29581:
+
+    # k "I don't think that's necessary."
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_d29f5f84:
+
+    # f "If you wanted to tear another hole in my heart, then do it now."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_66407530:
+
+    # k "That was not my intention."
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_4a23462f:
+
+    # f "Was it not?"
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_8bb8627e:
+
+    # k "You know I'd never mean it like that-"
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_0bd46bf2:
+
+    # k "I-"
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_26879c20:
+
+    # "Both of them look away from each other."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_395ccb6b:
+
+    # k "I apologise for my language, a general should not speak to his chief like this."
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_e2a70bbb:
+
+    # "He exclaims, looking at both of you."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_23339968:
+
+    # k "I'll excuse myself."
+    k ""
+
+translate schinese Furkan_Before_Reconciliation_5d1428b2:
+
+    # "Kari walks off with uncertainty, as Furkan stares."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_34570ee8:
+
+    # "The chieftain looks down and takes a deep breath."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_6ef35025:
+
+    # f "Kari."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_610f8455:
+
+    # "The general turns halfway towards the chieftain."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_4355a3a6:
+
+    # f "I'm sorry."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_c1306c2f:
+
+    # "It's hard to see emotion under his mask, but the general eventually leaves without another word."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_b65e38a6:
+
+    # "Moments of silence continues as sounds of Kari's footstep fades."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_6fc36745:
+
+    # "And now, it's just you and Furkan sitting across each other."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_dc4bb565:
+
+    # f "What do you think?"
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_3cc66981:
+
+    # "Furkan speaks as he elicit a faint smile."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_6e0f4cff:
+
+    # e "I'd say, go for it. Besides, I suppose you don't accept no as an answer."
+    e ""
+
+translate schinese Furkan_Before_Reconciliation_b44d2397:
+
+    # f "Something else in your mind?"
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_7150ce76:
+
+    # e "I don't really mean to talk about who's right or wrong, but maybe listen more to Kari?"
+    e ""
+
+translate schinese Furkan_Before_Reconciliation_fb1ce775:
+
+    # e "-And I know you've made up your mind. You make the final decision here."
+    e ""
+
+translate schinese Furkan_Before_Reconciliation_acd4b9cf:
+
+    # f "Then what is the problem?"
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_3e435330:
+
+    # e "He's been there, every time you need anything, and I can see the desperation in his eyes when you went missing."
+    e ""
+
+translate schinese Furkan_Before_Reconciliation_c840bed8:
+
+    # e "It's just, maybe it goes a long way to make Kari feel appreciated in the discussion."
+    e ""
+
+translate schinese Furkan_Before_Reconciliation_d2587bac:
+
+    # e "Either as your general, or... your friend."
+    e ""
+
+translate schinese Furkan_Before_Reconciliation_4939b13e:
+
+    # f "Do not worry, courier. I am not angry at him."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_9c6c51da:
+
+    # e "Nothing else, I think you're on the right path here."
+    e ""
+
+translate schinese Furkan_Before_Reconciliation_9b4732bd:
+
+    # e "Kari did suggest some troubles you might face, but I trust you'll prevail."
+    e ""
+
+translate schinese Furkan_Before_Reconciliation_f5ae68a5:
+
+    # f "It seems a courier has more faith in my leadership than my general."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_4158bddd:
+
+    # e "I just think that, Lusterfield's not looking for another war, so there's really nothing worse that can happen."
+    e ""
+
+translate schinese Furkan_Before_Reconciliation_74f570a1:
+
+    # f "Hah, you are hilarious, [e]."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_d5f25b19:
+
+    # f "Either way, do not worry about Kari, I am not angry at him."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_a4178f6d:
+
+    # "Furkan speaks as he looks at the shifting curtains, but it was just wind."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_28070c5a:
+
+    # f "We are caught between a rock and a hard place here, and as protectors of the tribe, we cannot let personal emotions get in the way of what is best for the tribe."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_8741c15a:
+
+    # f "I am sure Kari will soon come to understand."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_6186867a:
+
+    # "You nod."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_0bf91209:
+
+    # f "You should go now, do not let me bother you any further."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_3d802b34:
+
+    # e "I-it's ok."
+    e ""
+
+translate schinese Furkan_Before_Reconciliation_e74033f8:
+
+    # f "Guard!"
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_0692ac02:
+
+    # "The chieftain shouts, as a guard at the door arrives."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_9e690bb9:
+
+    # f "Please escort [e] outside. Make sure he is pampered and well."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_fe0923b9:
+
+    # goatguard "Yes, chief."
+    goatguard ""
+
+translate schinese Furkan_Before_Reconciliation_5941ea84:
+
+    # f "Thank you, Hakki."
+    f ""
+
+translate schinese Furkan_Before_Reconciliation_8ab5a3ff:
+
+    # goatguard "It's Mer-"
+    goatguard ""
+
+translate schinese Furkan_Before_Reconciliation_f8224250:
+
+    # "The guard stops midway through his sentence, before nervously leading you outside."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_497f83a7:
+
+    # "Furkan smiles awkwardly towards both of you."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_ba2539b2:
+
+    # "As you turn your head before the curtain closes, you notice Furkan rushing quickly towards the back of the hut."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_6dd61cfd:
+
+    # "It seems fairly obvious Furkan is using you to make Kari nervous, despite how uncomfortable it makes both of you feel."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_e3b20e03:
+
+    # "But it's still surprising that he dismissed you this fast."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_1ac9a110:
+
+    # "Maybe there's pent-up emotion after arguing about the former chief, underneath the smile he's putting up."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_54447f87:
+
+    # "Or maybe he's brewing up another actual plan, you don't know what it is."
+    ""
+
+translate schinese Furkan_Before_Reconciliation_ecb2bdc3:
+
+    # "You can only hope it's better for everyone involved."
+    ""
 
 translate schinese Furkan_Second_Meet_2cd10dc5:
 
@@ -4803,7 +5298,7 @@ translate schinese strings:
     old "Ask Furkan what he has to say"
     new ""
 
-    old "Hawkaita"
+    old "Puro"
     new ""
 
     old "Lusterfield{#goattribeenter1}"
@@ -4888,5 +5383,11 @@ translate schinese strings:
     new ""
 
     old "Give the letter to Rahim"
+    new ""
+
+    old "Tell Furkan to Listen to Kari"
+    new ""
+
+    old "Support Furkan's Decision"
     new ""
 
