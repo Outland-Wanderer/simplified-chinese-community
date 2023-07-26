@@ -1107,11 +1107,14 @@ translate schinese strings:
     # old "Lothar has given me another set of training to prove myself. I have to learn from the work of Amble and Jog."
     # new "洛萨尔又让我去找别人训练来证明我自己。我得向安布和乔格请教他们的工作。"
 
-    # old "The Minotaur Riddle" #14
-    # new "弥诺陶洛斯之谜"
+    old "The Minotaur Riddle" #14
+    new "弥诺陶洛斯之谜"
 
-    # old "As a client's request, Haskell wanted me to explore the underground dungeon to extract a minotaur's essence."
-    # new "哈斯克尔应客户请托，想让我探索地下宫殿并取得一份弥诺陶洛斯的精华。"
+    old "As a client's request, Haskell wanted me to explore the underground dungeon to extract a minotaur's essence."
+    new "哈斯克尔应客户请托，想让我探索地下宫殿并取得一份弥诺陶洛斯的精华。"
+
+    old "Visit the Minotaur Cave in Dark Forest"
+    new "前往幽暗森林附近的山洞"
 
     old "Sick Leave" #15
     new "病假"

@@ -66,11 +66,11 @@ translate schinese strings:
     old "Ask about Haskell's Apothecary"
     new "好奇他的药剂学知识"
 
-    # old "Ask about his Special Request"
-    # new ""
+    old "Ask about his Special Request"
+    new "打听他的“特殊委托”"
 
-    # old "Report about the minotaur's essence"
-    # new ""
+    old "Report about the minotaur's essence"
+    new "交付弥诺陶洛斯精华"
 
     old "Ask about Ole's sickness"
     new "求助奥利的病情"
