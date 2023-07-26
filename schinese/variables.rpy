@@ -5,49 +5,55 @@ translate schinese strings:
     old "Self Heal"
     new "自愈"
 
-    old "Self Heal: {p} You can heal back a portion of your health scaling with your INT. Costs 30 MP. Cooldown: 1 Round."
-    new "根据你的智慧属性值回复部分体力。消耗 30 点魔力，每回合可发动一次。"
+    old "Self Heal: {p} You can heal back a portion of your health scaling with your INT. Costs 30 MP."
+    new "根据你的智慧属性值回复部分体力。消耗 30 点魔力。"
 
     old "Fortify"
     new "设防"
 
-    old "Fortify: {p} Your defense is increased by a significant amount for this round. Costs 20 MP. Cooldown: 2 Round."
-    new "显著增强 1 回合的防御力。消耗 20 点魔力，每 2 回合可发动一次。"
+    old "Fortify: {p} Your defense is increased by a significant amount for this round. Costs 20 MP."
+    new "显著增强 1 回合的防御力。消耗 20 点魔力。"
 
     old "Alluring Lust"
     new "勾人"
 
-    old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA. Costs 20 MP. Cooldown: 2 Round."
-    new "根据你的智慧和魅力属性值增强 3 回合的诱惑效果。消耗 20 点魔力，每 2 回合可发动一次。"
+    old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA. Costs 20 MP."
+    new "根据你的智慧和魅力属性值增强 3 回合的诱惑效果。消耗 20 点魔力。"
 
     old "Camouflage"
     new "乱眼"
 
-    old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI. Costs 20 MP. Cooldown: 3 Round."
-    new "根据你的智慧和敏捷属性值增强本场战斗的闪避几率。消耗 20 点魔力，每 3 回合可发动一次。"
+    old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI. Costs 20 MP."
+    new "根据你的智慧和敏捷属性值增强本场战斗的闪避几率。消耗 20 点魔力。"
 
     old "Core Strike"
     new "溃敌"
 
-    old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round. Costs 35 MP. Cooldown: 1 Round."
-    new "根据你的智慧和坚韧属性值对目标造成大量伤害，并使其眩晕 1 回合。消耗 35 点魔力，每回合可发动一次。"
+    old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round. Costs 35 MP."
+    new "根据你的智慧和坚韧属性值对目标造成大量伤害，并使其眩晕 1 回合。消耗 35 点魔力。"
 
     old "Resolution"
     new "净心"
 
-    old "Resolution: {p} Reduce your Lust based on your INT. Costs 25 MP. Cooldown: 1 Round."
-    new "根据你的智慧属性值清除部分欲望。消耗 25 点魔力，每回合可发动一次。"
+    old "Resolution: {p} Reduce your Lust based on your INT. Costs 25 MP."
+    new "根据你的智慧属性值清除部分欲望。消耗 25 点魔力。"
 
-    # old "Fiery Charge"
-    # new ""
+    old "Fiery Charge"
+    new "爆炎冲锋"
 
-    # old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP. Cooldown: 1 Round."
-    # new ""
+    old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP."
+    new "根据你的智慧属性值对敌方所有成员施加伤害与灼烧效果。消耗 10 点魔力。"
 
     # old "Piercing Blow"
     # new ""
 
-    # old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI. Costs 35 MP. Cooldown: 2 Round."
+    # old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI. Costs 35 MP"
+    # new ""
+
+    # old "Tranquil Mend"
+    # new ""
+
+    # old "Tranquil Mend: {p} For the next 3 rounds, all allies are healed for an increased amount based on your TEN and INT. Costs 40 MP."
     # new ""
 
     #物品-标本
@@ -78,6 +84,15 @@ translate schinese strings:
 
     old "Found around the magical pond, the trinket hidden in the pond can be summoned by a mixture of a bovine's essence and the magical flowing water."
     new "可以在一座神奇的池塘周围找到，不过它深藏水中，需要将牛的生命精华混进池水才能召唤出这朵曼陀罗花。"
+
+    # old "Eversprout"
+    # new ""
+
+    # old "A Trinket that heals and enhances your maximum health by every turn, but your initial health are lowered."
+    # new ""
+
+    # old "Found hidden in the forest, one must be perceptive to spot a sprout spirit's journey from the great waterfall, consecutively in four locations."
+    # new ""
 
     #物品-摄入品
 
@@ -267,7 +282,7 @@ translate schinese strings:
 
     old "Bandana"
     new "花头巾"
-    
+
     old "A piece of cloth tied around the head of the wearer, usually promises good luck. {p} Defense: +7 {p} Dodge: +5 {p} Flirt -2"
     new "一块用来绑在头上的方形毛巾，寓意吉星高照。{p}防御 +7{p}闪避 +5{p}诱惑 -2"
 
@@ -285,7 +300,7 @@ translate schinese strings:
 
     old "Tavern Cloth"
     new "酒馆抹布"
-    
+
     old "One of the outfit from Rahim...? A piece of Cloth, for cleaning purposes in the Tavern. {p} Defense: +2"
     new "用来清理酒馆吧台或者桌面的抹布。大概也是雷希姆做的……吧？{p}防御 +2"
 
@@ -303,7 +318,7 @@ translate schinese strings:
 
     old "Adventurer Leggings"
     new "探险家绑腿"
-    
+
     old "One of the outfit from Rahim, a collection of straps designed for those who frequent adventures. {p} Defense: +9 {p} Dodge: +7"
     new "由雷希姆制作的条带裤，为频繁历险场景而设计。{p}防御 +9{p}闪避 +7"
 
@@ -372,11 +387,11 @@ translate schinese strings:
     # old "{i}Botanical Journal of Plants In and Around the Dark Forest: Species, Uses, and Dangers{/i}"
     # new ""
 
-    # old "Book of Fiery Charge"
-    # new ""
+    old "Book of Fiery Charge"
+    new "爆炎冲锋技能书"
 
-    # old "The Book grants you a spell that burns all enemies."
-    # new ""
+    old "The Book grants you a spell that burns all enemies."
+    new "可以学到一种烧伤所有敌人的咒语。"
 
     # old "Medicinal Botany, by ???"
     # new ""
@@ -1072,10 +1087,13 @@ translate schinese strings:
     new "前往潮湿山洞"
 
     old "Visit the Damp Cave with Kari"
-    new "前往潮湿山洞"
+    new "同卡里前往潮湿山洞"
 
     old "Visit the Damp Cave with the general"
-    new "前往潮湿山洞"
+    new "同羊族将军前往潮湿山洞"
+
+    old "Inform Kari of the Chief's safety."
+    new "向卡里回报族长平安"
 
     old "Advanced Battle Practice" #12
     new "高级作战教学"
@@ -1302,3 +1320,15 @@ translate schinese strings:
 
     old "Scorched: {p} Target's Health decreased by the same amount for each round. Additional application extends the effect duration instead."
     new "灼伤：{p}目标每回合持续减少一定体力。仅能叠加状态持续时间。"
+
+    old "Mended"
+    new "康复"
+
+    old "Mended: {p} Target is healed for each round."
+    new "康复：{p}目标每回合将回复一定体力。"
+
+    old "Charmed"
+    new "淫溺"
+
+    old "Charmed: {p} Target's lust increases by multiple of each effective round. Stackable."
+    new "淫溺：{p}目标的性欲将成倍增长。状态可叠加。"

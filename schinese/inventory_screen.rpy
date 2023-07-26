@@ -69,6 +69,9 @@ translate schinese strings:
     old "Purity (PUR) determines [e]'s sexual innocence, and interaction with characters."
     new "纯洁值（PUR）决定了[e]的纯洁程度，主要影响同其他角色的互动。"
 
+    old "Level [pc.level] (Max)"
+    new "等级 [pc.level]（已达上限）"
+
     old "Level: [pc.level]"
     new "等级 [pc.level]"
 
@@ -107,3 +110,6 @@ translate schinese strings:
 
     old "Value: [hovered_item.value] Gold"
     new "价值：[hovered_item.value]金币"
+
+    old "Retrieve"
+    new "取出"

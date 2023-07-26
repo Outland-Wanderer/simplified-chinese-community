@@ -190,15 +190,9 @@ translate schinese scene_lothargrope_d688a5fe:
     # l "Yeah... Yeah..."
     l "嗯，嗯……"
 
-translate schinese scene_mimiclose_556c7193:
-
-    # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
-    pass
-
 translate schinese scene_mimiclose_eee32a65:
 
     # "You linger on the edge of the mimic chest for a while..."
-    $ renpy.notify("该场景画面仍在重绘中")
     "这个诡异的造物似乎还不急着生吞你。它将你卷至开口，用触手细细品尝你的滋味。"
 
 translate schinese scene_mimiclose_9bc0535b:

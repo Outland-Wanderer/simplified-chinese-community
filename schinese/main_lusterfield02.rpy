@@ -6626,6 +6626,31 @@ translate schinese Lothar_Battle_Training_f33c3e16:
     # e "Is it really my fault though... it's not like I can get any bigger in size..."
     e "怎么可能……长多大个又不是我能决定的……"
 
+translate schinese Lothar_Battle_Training_f10c9f24:
+
+    # l "Ugh, I'll give you the credit. For a smaller guy like you, you actually do fight like a warrior."
+    l "啐，姑且信你一回。矮子里拔将军，对比其他羸弱的小家伙，你确实算能打仗的战士。"
+
+translate schinese Lothar_Battle_Training_52daa19b:
+
+    # e "I'll bet I can beat you, quite easily."
+    e "哪止，我赌我能三两下打败你，就像我三两下把史莱姆打成浆糊。"
+
+translate schinese Lothar_Battle_Training_81b131f5:
+
+    # e "I've had no problem punching these slimes into pulps, quite easily actually."
+    pass
+
+translate schinese Lothar_Battle_Training_17c02a7e:
+
+    # l "You're a mere disciple, stop being so smug."
+    l "区区小徒弟，在师傅面前逞什么能耐。"
+
+translate schinese Lothar_Battle_Training_9e8cb1d4:
+
+    # e "Lothar, you just don't trust me enough."
+    e "洛萨尔，所以你就是不够相信我。"
+
 translate schinese Lothar_Battle_Training_c95939f5:
 
     # l "You know, that's the problem with you, everything negative about you reflects much worse on my name."
@@ -6657,9 +6682,9 @@ translate schinese Lothar_Battle_Training_61f23e3c:
     # e "How... did you know..."
     e "你……你们怎么知道的……"
 
-translate schinese Lothar_Battle_Training_258afb94:
+translate schinese Lothar_Battle_Training_d6dcaf02:
 
-    # l "I really do need to train you myself... do I not...?"
+    # l "I really do need to train you myself, do I not...?"
     l "看来为师不亲自辅导你不行了……哼？"
 
 translate schinese Lothar_Battle_Training_9e6e1f41:

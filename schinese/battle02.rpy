@@ -43,25 +43,15 @@ translate schinese Ability_Self_Heal_90794f49:
     # "You used self heal, your health goes up by [healing] HP."
     "自愈技能发动，你回复了 [healing] 体力。"
 
-# translate schinese Ability_Fiery_Charge_c4aaf8f8:
+translate schinese Ability_Fiery_Charge_13bb8de1:
 
-#     # "You use Fiery Charge on [enemy.name], dealing [fc_damage] HP Damage. [enemy.name] is now scorched."
-#     ""
+    # "You use Fiery Charge on [target.name], dealing [fc_damage] HP Damage. They are now scorched."
+    "你对所有敌人发动了爆炎冲锋，使他们失去了 [fc_damage] 点体力，并附加灼烧效果。"
 
-# translate schinese Ability_Fiery_Charge_935fdf95:
+translate schinese Ability_Fiery_Charge_c8ed4ac1:
 
-#     # "You use Fiery Charge on [enemy.name], [enemy.name] continues to be scorched for two additional rounds."
-#     ""
-
-# translate schinese Ability_Fiery_Charge_093c999c:
-
-#     # "You use Fiery Charge on all enemies, dealing [fc_damage] HP Damage. All enemies are now scorched."
-#     ""
-
-# translate schinese Ability_Fiery_Charge_fb4c2287:
-
-#     # "You use Fiery Charge on the enemies, they continue to be scorched for two additional rounds."
-#     ""
+    # "You use Fiery Charge on [target.name], they continue to be scorched for two additional rounds."
+    "你对所有敌人发动了爆炎冲锋，他们的灼烧效果将持续多 2 回合。"
 
 # translate schinese Ability_Piercing_Blow_5065192f:
 
@@ -77,6 +67,11 @@ translate schinese Ability_Alluring_Lust_0f713c76:
 
     # "You cast the spell on your body. Your body appears much softer and pliable now, enticing the [enemy.name] to grab and grope at it."
     "勾人技能发动，你的身体变得更加柔软灵活，引诱着[enemy.name]亲手抚玩。"
+
+# translate schinese Ability_Tranquil_Mend_efcd6bbd:
+
+#     # "You cast tranquil mend, and heals yourself for the next few rounds."
+#     ""
 
 translate schinese Ability_Camouflage_c4a40411:
 
@@ -108,15 +103,40 @@ translate schinese Battle_End_Check_78e7c049:
     # "Your health decreases by [wounded_damage] from the bleeding."
     "你的伤口还在流血，使你失去了 [wounded_damage] 点体力。"
 
-# translate schinese Battle_End_Check_2732cb22:
+translate schinese Battle_End_Check_ec76cae4:
 
-#     # "[enemy.name] is still burning, receiving [scorched.effect] HP damage."
+    # "Your lust increases by [charmed_damage] by the charm."
+    "色气的画面在你脑中挥之不去，你的性欲上升了 [charmed_damage] 点。"
+
+# translate schinese Battle_End_Check_1679761b:
+
+#     # "You healed [healamount] from Traquil Mend!"
 #     ""
 
-# translate schinese Battle_End_Check_b20e7375:
+# translate schinese Battle_End_Check_6c06d4d5:
 
-#     # "[enemy2.name] is still burning, receiving [scorched.effect] HP damage."
+#     # "[ally.name] healed [healamount] from Traquil Mend!"
 #     ""
+
+translate schinese Battle_End_Check_2732cb22:
+
+    # "[enemy.name] is still burning, receiving [scorched.effect] HP damage."
+    "[enemy.name]灼烧效果持续，由此失去了[scorched.effect]点体力。"
+
+translate schinese Battle_End_Check_c6a218ef:
+
+    # "[enemy.name]'s health decreases by [wounded_damage] from the bleeding."
+    "[enemy.name]因伤口出血失去了[wounded_damage]点体力。"
+
+translate schinese Battle_End_Check_b20e7375:
+
+    # "[enemy2.name] is still burning, receiving [scorched.effect] HP damage."
+    "[enemy2.name]灼烧效果持续，由此失去了[scorched.effect]点体力。"
+
+translate schinese Battle_End_Check_0575b416:
+
+    # "[enemy2.name]'s health decreases by [wounded_damage] from the bleeding."
+    "[enemy2.name]因伤口出血失去了[wounded_damage]点体力。"
 
 translate schinese Battle_Mid_Check_5eb35099:
 

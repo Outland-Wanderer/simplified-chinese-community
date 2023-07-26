@@ -1,6 +1,4 @@
-﻿#序幕
-
-translate schinese start_7dc95fde:
+﻿translate schinese start_7dc95fde:
 
     # "It was late in the night, everything is so dark, your fingers are anxiously holding onto the torch."
     "那是一个月黑风高的深夜，你不安地举着火炬。"
@@ -26,26 +24,42 @@ translate schinese start_65c6d503:
     # "You walk along the path from your elder's camp, when you heard someone screaming, someone who sounds almost like Chime."
     "你正沿小路走过长辈的帐篷。这时，森林远处传来一声惊叫，听起来特别像齐门的声音。"
 
-translate schinese start_73fda4ed:
+translate schinese start_9b43455f:
 
-    # "He has been missing for a week, if not more. Your tribe looked for him every day, but to no avail."
+    # "He has been missing for a week, if not more. Your tribe has looked for him every day since, but to no avail."
     "齐门已经失踪有一个星期，甚至一个星期多了。大伙每天都在寻找他的踪迹，却至今毫无所获。"
 
-translate schinese start_ccc5208f:
+translate schinese start_0b538218:
 
-    # "You decided to investigate deeper into the noise in the forest. It seems definitely darker than you thought."
-    "你决定去弄清楚那惊叫声是怎么回事。"
-    "密林寂静得令人毛骨悚然，越往里走视野愈发黑暗。"
+    # "And now, everyone is sleeping, the lifeless silence has you shiver down to the core. Something is awry."
+    "夜深时分大家都已睡去，空荡荡的部落安静得出奇。"
+    "你心里发毛，隐约感觉有些不太对劲。"
 
-translate schinese start_befa1802:
+translate schinese start_32abd6f2:
 
-    # "The wood is eeriely silent. You hold on to your piece of paper you drew for Chime... you keep wondering, where is he..."
-    "你攥着自己为齐门画的肖像画……不停思考他究竟去了哪里……"
+    # "Despite your instinct, you decided to investigate deeper into the noise in the forest. It seems definitely darker than you thought."
+    "然而你不顾直觉的警告，毅然决定去弄清楚那惊叫声是怎么回事。"
+    "密林同样一片肃静，越往里走视野愈发黑暗，令人毛骨悚然。"
 
-translate schinese start_e06365eb:
+translate schinese start_33fde1ac:
 
-    # "As you snap back to reality, you realise you've lost sight of your fellow members."
-    "时间悄悄流逝，当你回过神来，才意识到自己已经走了很远很远。"
+    # "The wood is eeriely silent. You hold on to your piece of paper you drew for Chime... and you keep wondering his whereabout."
+    "你攥着自己为齐门画的肖像画……不停思考他究竟去了哪里。"
+
+translate schinese start_155ad839:
+
+    # "He was... someone you admired, a hero figure who saved you from the bullies, but you don't know if it's been like this, or when, you memory have been foggy."
+    "在你心目中，齐门是保护你免受霸凌的英雄。但如今你却回忆不起那段往事，只留存着模糊的印象。"
+
+translate schinese start_10ff4203:
+
+    # "It gets worse by each step you take, your mind is replaced with fear, even a slight breeze over your fur gives you a startle you've never had."
+    "每前进走一步不祥的感觉便增进一分。惶恐逐渐占据了你的心智，现在即使一缕微风拂过皮毛也能把你吓个半死。"
+
+translate schinese start_0f973a7d:
+
+    # "As you snap back to reality, you realise you've lost sight of your tribe."
+    "时间悄悄流逝，当你回过神来，才发现已经看不见部落的火光了。"
 
 translate schinese start_3a8c145e:
 
@@ -57,9 +71,15 @@ translate schinese start_f1a265b8:
     # "Standing in place, you could've sworn this place is the source of the scream you heard, But you see nothing."
     "你驻足原地，坚信这里就是那惊叫声的源头。可你的确什么也没有发现。"
 
-translate schinese start_4d967189:
+translate schinese start_251bd13c:
 
-    # "You are ready to go back to your tribe but suddenly, you hear a rustling sound in the bushes."
+    # "Nothing out of the ordinary, just grasses, not even footsteps, but where did the scream come from?"
+    "绿地没有踩过的足迹，一切正常。"
+    "那刚刚的叫声到底是从哪来的？"
+
+translate schinese start_c8f0ef29:
+
+    # "You are ready to go back to your tribe but suddenly, a rustling sound in the bushes catches your attention."
     "无奈之下你决定返回部落，不料树丛忽然沙沙作响。"
 
 translate schinese start_d43ba4f2:
@@ -72,9 +92,9 @@ translate schinese start_6b790745:
     # "You turn your head... maybe it's Chime."
     "你侧过头……或许是齐门。"
 
-translate schinese start_d52b69a6:
+translate schinese start_1a102cad:
 
-    # "The sound stopped, but you can sense something is coming."
+    # "The sound stops, but you can sense something is coming."
     "寂静重归森林，然而你感觉有什么东西正逐渐靠近。"
 
 translate schinese start_f6462e8e:
@@ -142,10 +162,15 @@ translate schinese start_91b94eb7:
     # "He is speaking in an unknown language. It is impossible to try to decipher it by any means."
     "黑影口中的语言你闻所未闻，更何况去理解。"
 
+translate schinese start_bc731bef:
+
+    # "And by the tone, it seems he's asking a question."
+    pass
+
 translate schinese start_34e39862:
 
     # "Nothing you can do here to escape this situation. You're only grateful that he hasn't killed you yet."
-    "你无处可逃，只能庆幸他还没有杀死自己。"
+    "你无处可逃，只能从音调推测他在问你问题，只能庆幸他还没有杀死自己。"
 
 translate schinese start_d644e62a:
 
@@ -162,10 +187,10 @@ translate schinese start_91a6d82d:
     # yu "uhh..."
     yu "嗯……"
 
-translate schinese start_65c3baec:
+translate schinese start_cf6378c2:
 
-    # "You nod, chances are he is talking about your friend, but with his unintelligible language you are not sure if he knows."
-    "你点点头，他可能说的是你那位同伴。但你们之间语言不通，哪怕他知道齐门的下落也没有用。"
+    # "You nod, chances are he is talking about your friend, but with his unintelligible language you are not sure what the context even is."
+    "你点点头，他可能说的是你那位同伴。但你们之间语言不通，你完全猜不出这跟之前他说的话有什么联系。"
 
 translate schinese start_b2357a72:
 
@@ -182,9 +207,9 @@ translate schinese start_107514d1:
     # my "Dresi vus, wwo juin."
     my "刂色，兀冂。"
 
-translate schinese start_2c2fcce6:
+translate schinese start_e05f2c16:
 
-    # "He continues pointing downward, fiercely. You stand there, not sure what he mean."
+    # "The figure continues pointing downward, fiercely. You stand there, not sure what he mean."
     "他不停重复向下指的手势，动作越来越急躁。你僵在原地，想不通他要表达什么。"
 
 translate schinese start_b5ac0fb8:
@@ -257,40 +282,36 @@ translate schinese start_fe637a06:
     # "Whatever spell he is performing, you can only pray that you would come out of this alive, preferably unscathed."
     "不管他施展何种魔法，你祈祷着自己只要能活命就行，当然别受伤最好。"
 
-translate schinese start_17ec407c:
+translate schinese start_29d81d7b:
 
-    # "The beacon of light is gleaming stronger with every second. Your whole body is soon emasculated by it."
-    "光芒很快从耀眼变到刺眼，紧接着完全吞没了你。"
+    # "But it seems more and more unlikely, as the beacon of light is gleaming stronger with every second. Your whole body is soon emasculated by it."
+    "可惜事态好像正往反方向发展。"
+    "光芒很快从耀眼变到刺眼，紧接着彻底吞没了你。"
 
-translate schinese start_126e3f0c:
+translate schinese start_1c6a4489:
 
-    # "You stare at the figure. He is not responding to your plead."
+    # "You stare at the figure. He is not responding to your plead. Your body is feeling different inside of this blue aura."
     "你巴望黑影，而他没有理会你恳求的神情。"
 
 translate schinese start_476a4933:
 
     # "There's nothing you can do now."
-    "你什么也做不了。"
+    "你的感官在蓝色光晕的影响下开始扭曲，可你却什么也做不了。"
 
 translate schinese start_9db5d92a:
 
     # "Slowly, you can feel your eyes growing more and more tired. The spell must be messing up your consciousness..."
-    "渐渐地，你的眼皮开始打架，法术肯定影响了你的意识……"
+    "渐渐地，你的眼皮开始打架。法术肯定影响了你的意识……"
 
-translate schinese start_88cb6496:
+translate schinese start_ebd460b9:
 
-    # "You struggle against the fatigue for a few seconds, but eventually, you drift to a slumber."
-    "你不过挣扎了几秒钟，终究还是敌不过疲惫感，缓缓陷入沉睡。"
+    # "You struggle against the fatigue for a few seconds, but it eventually takes over, and you drift to a long slumber."
+    "不过挣扎了几秒钟，你终究还是敌不过疲惫感，缓缓陷入沉睡。"
 
 translate schinese start_03aeea77:
 
     # "You collapse in front of the figure, you can feel something hitting on the back of your head."
     "你倒在黑影面前，不知被什么东西击中了后脑勺。"
-
-translate schinese start_85f2e1e6:
-
-    # "The figure lowers himself and stands next to you, staring at your dormant state, and then slowly walks away."
-    "黑影落到你身边，弯腰确认你已经昏了过去，才徐徐离开。"
 
 translate schinese start_8f64d531:
 
@@ -317,6 +338,11 @@ translate schinese start_53ae6d02:
     # "You don't know how much time has passed, minutes, hours."
     "你不清楚自己经历了多久，抑分钟，抑小时。"
 
+translate schinese start_dab9f398:
+
+    # "You don't know how many sun and moon passed right above you as you slumber."
+    "甚至多少次日月轮回，多少个斗转星移。"
+
 translate schinese start_627ca2fb:
 
     # "You don't even know where you are."
@@ -327,10 +353,20 @@ translate schinese start_c9d14728:
     # "Everything became so fuzzy after you collapsed."
     "倒地后，你的世界便只有恍惚。"
 
+translate schinese start_f3f93295:
+
+    # "It's the sound of water, flowing around you, for a long while your consciousness is just floating in the sea of nothingness."
+    "这种恍惚好似浮游小溪，伴随潺潺水声飘入无物之海。"
+
+translate schinese start_3cd78a43:
+
+    # "Your memory is fading away, emptiness fills the space where your mind used to be."
+    "仅剩的记忆逐渐消散，时间失去意义，连空洞都再无概念。"
+
 translate schinese start_aabd5131:
 
     # "Time doesn't matter now, at least you are still alive."
-    "时间已经失去意义。你还活着，这才是最重要的。"
+    "好在你还活着，这才是最重要的。"
 
 translate schinese start_a20cefa7_1:
 
@@ -721,7 +757,7 @@ translate schinese name_done_e7191ecf:
 translate schinese name_done_b41097bd:
 
     # s "Hey, if you can go back to wherever you were. I would pray for you and your tribe, but I don't even know where to begin with."
-    s "嘿，假如你知道回去的路，我会祝你和你的族人一切安好，可我现在连你部落在哪个方向都不知道。"
+    s "嘿，假如你知道回去的路，我会祝你和你的族人一切安好，可我连你部落在哪个方向都不知道。"
 
 translate schinese name_done_6acb642a:
 
@@ -925,9 +961,9 @@ translate schinese name_done_3e6fedde:
     o "哈，你的语气不虚了。"
     o "我猜你不是莫肯大陆这边的人？"
 
-translate schinese name_done_497eced6:
+translate schinese name_done_7ea099f1:
 
-    # e "Uhmm, I'm from Hawkaita... but where are we?"
+    # e "Uhmm, I'm from Puro... but where are we?"
     e "呃，我从普罗来……这里是哪里？"
 
 translate schinese name_done_513ae3a9:
@@ -971,25 +1007,25 @@ translate schinese name_done_546f3a6c:
     # e "...I need to bring him back to my Tribe."
     e "……可我得带他回我们部落。"
 
-translate schinese name_done_3e0e3547:
+translate schinese name_done_8d8dea42:
 
-    # o "Wait... you meant... the other outsider?"
-    o "等等……你说的齐门……是你的族人吗？"
+    # o "Wait, you meant... the other outsider?"
+    o "等等，你说的齐门……是你的族人吗？"
 
-translate schinese name_done_74db1a7f:
+translate schinese name_done_118adec5:
 
-    # e "Yes..."
-    e "是的……"
+    # e "Yes."
+    e "是的。"
 
-translate schinese name_done_a37eb5db:
+translate schinese name_done_d6c538de:
 
-    # o "He... I don't even know where he is now..."
-    o "他的话……我也不清楚他现在去了哪……"
+    # o "He... I don't even know where he is now."
+    o "他的话……我也不清楚他现在去了哪。"
 
-translate schinese name_done_fd95900d:
+translate schinese name_done_8249dc3e:
 
-    # e "I thought uh... the lion... Sebas told me he's in a goat tribe?"
-    e "好像呃……他……塞巴斯说齐门去了山羊部落？"
+    # e "I thought uh, the lion... Sebas told me he's in a goat tribe?"
+    e "好像呃，他……塞巴斯说齐门去了山羊部落？"
 
 translate schinese name_done_9753a10b:
 
@@ -1096,7 +1132,7 @@ translate schinese name_done_d4f61c8e:
 translate schinese name_done_5b6cf70c:
 
     # s "You sure he can walk with that in the head?"
-    s "他脑袋流了这么多血，你现在就让他走路啊？"
+    s "他脑袋流了这么多血，你就让他走路啊？"
 
 translate schinese name_done_3c3b4316:
 
@@ -1148,9 +1184,9 @@ translate schinese name_done_c89772ef:
     # e "Thank you to you too! Sebas."
     e "也谢谢你！塞巴斯。"
 
-translate schinese name_done_16a11ef8:
+translate schinese name_done_35f1ad64:
 
-    # "You can almost hear Sebas rumbling under his breath, it doesn't sound like something you'd appreciate."
+    # "You can almost hear Sebas rumbling under his breath."
     "黄毛狮子撅撅嘴，你听不清他在嘟哝什么。"
 
 translate schinese name_done_397b9049:
@@ -1279,9 +1315,9 @@ translate schinese name_done_7ed62e40:
     # e "I can understand you perfectly."
     e "彼此，彼此。"
 
-translate schinese name_done_381d838e:
+translate schinese name_done_796e065b:
 
-    # o "Don't inflate his ego that much, kiddo."
+    # o "Don't stroke his ego that much, kiddo."
     o "别太惯着他的虚荣心，小兄弟。"
 
 translate schinese name_done_fd0f2814:
@@ -1399,9 +1435,9 @@ translate schinese name_done_2497b5fc:
     # "You follow Ole closely, while glancing backwards at the lion still hunching and nudging at his back."
     "你紧跟奥利身后，趁机回头瞄了眼塞巴斯。他正弓着背，不停揉搓被教训的地方，显然还没缓过劲来。"
 
-translate schinese name_done_bbdecfbd:
+translate schinese name_done_be6601fa:
 
-    # o "Welcome to the King's Pawns. We sell general goods and we do a little pawning!"
+    # o "Welcome to the King's Pawn. We sell general goods and we do a little pawning!"
     o "欢迎光临“君临典当”，本店主营商品零售，副营收押放贷。"
 
 translate schinese name_done_98583983:
@@ -1459,9 +1495,9 @@ translate schinese name_done_74eec826:
     # "You awkwardly smiles at Ole, who stands beside you and pats your back."
     "你尴尬地向奥利赔笑，他站到你身旁，拍了拍你的背。"
 
-translate schinese name_done_dcbdc445:
+translate schinese name_done_e142ac60:
 
-    # o "Hey... you can definitely stay as long as you wish. Our Seb here have been wanting a company for long time you know."
+    # o "Hey... you can definitely stay as long as you wish. Our Seb here have been wanting a company for a long time you know."
     o "嘿……你想住多久都可以。阿塞其实盼着这天好久了，他特别缺一个愿意陪他玩的人。"
 
 translate schinese name_done_64c70efd:
@@ -1489,9 +1525,9 @@ translate schinese name_done_809c6a88:
     # o "We have a lot of goods that's waiting to come to the shop recently."
     o "最近当铺的收货量有些大，我们忙不过来。"
 
-translate schinese name_done_e9b2a242:
+translate schinese name_done_a3deb9c1:
 
-    # o "So, we would be very grateful if you can be our courier, and deliver those wares between us and our clients"
+    # o "So, we would be very grateful if you can be our courier, and deliver those wares between us and our clients."
     o "所以如果你能当邮差，为我们和客户运送货物的话，可就帮大忙了。"
 
 translate schinese name_done_9fb179f0:
@@ -1794,6 +1830,11 @@ translate schinese name_done_5c5709dd:
     # s2 "Good! I made it last year, just picked it up from the storage, thought you'd probably like that in your room."
     s2 "你喜欢就好！那是我去年做的，今天收拾的时候碰巧翻到，想着你可能需要点装饰。"
 
+translate schinese name_done_fc7182b4:
+
+    # s2 "I have a spare one too, for if you want to get bring me with you outside!"
+    s2 "如果想让小塞巴斯陪你冒险，我这里还多做了一个可以带在身上噢！"
+
 translate schinese name_done_d408e786:
 
     # s2 "Ouch! Ole here is pinching me now. Gotta let you go to bed. Have a nice sleep, new roommate!"
@@ -1814,8 +1855,6 @@ translate schinese name_done_a20cefa7:
     # "..."
     "……"
 
-#睡醒
-
 translate schinese bedroom_beginning_4255fc2d:
 
     # "You wake up full of energy, you try to clutch the back of your head but the wound apparently had already healed itself over the night."
@@ -1832,19 +1871,10 @@ translate schinese bedroom_beginning_ca03823d:
     # "You feel ready to start the day."
     "屋外崭新的一天正向你招手。"
 
-#加载后
-
 translate schinese after_load_7a256475:
 
     # "Hey there! Here's a reminder that the protagonist's sprite is currently in the progress of redesign! You will see new designs as default while the rest of other content will be updated alongside! Thank you so much again~"
     "注意！主角的部分立绘和相关CG仍在重绘中！现在新老形象混在一起属于正常现象！谢谢你的理解~"
-
-translate schinese after_load_0be072f2:
-
-    # "Hey there! If you're playing with old save on v0.0.10 or later, remember to take off your equipment(!) before using your next level point, that way it'll now accurately calculate your character stat."
-    "注意！如果你载入的是 0.0.10 以及之前版本游戏的存档，记得加属性点之前先脱光你的装备，这样游戏才能正确计算加点后的属性值。"
-
-#选择
 
 translate schinese strings:
 
@@ -1859,8 +1889,6 @@ translate schinese strings:
 
     old "No{#name}"
     new "否"
-
-#人名
 
 translate schinese strings:
 

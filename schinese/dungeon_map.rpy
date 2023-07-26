@@ -402,11 +402,11 @@ translate schinese Bandit_Den_Shelf_16401e07:
     # "You read from the paper..."
     "你努力辨识着纸上的字迹……"
 
-translate schinese Bandit_Den_Shelf_6e0b30fe:
+translate schinese Bandit_Den_Shelf_2651c84d:
 
-    # "'T/e blessi/g of Coeshk/n: Date/ Year 12/07...'"
-    # The blessing of Coeshkun: Date/ Year 12/07...
-    "窍舍{font=LXGWWenKaiLite-Bold.ttf}{size=-2}堃{/size}{/font}之恩泽，七年十二月……"
+    # "'T/e blessi/g of Tapj/o: Date/ Year 12/07...'"
+    # The blessing of Tapjoo: Date/ Year 12/07...
+    "闼丕瓯之恩泽，七年十二月……"
 
 translate schinese Bandit_Den_Shelf_6442032d:
 
@@ -424,7 +424,7 @@ translate schinese Bandit_Den_Shelf_98366e4c:
 
     # "'Thi/ force... o/ what the locals called the blessing of Coe/hk//. Has been speculated to contamin//e the water source.'"
     # This force... of what the locals called the blessing of Coeshkun. Has been speculated to contaminate the water source.
-    "此力为乡人所称……什么神窍舍——{font=LXGWWenKaiLite-Bold.ttf}{size=-2}堃{/size}{/font}之恩泽，疑为苍耀湖受亏——受污之故。"
+    "此力为乡人所称……什么神闼丕——瓯之恩泽，疑为苍耀湖受亏——受污之故。"
 
 translate schinese Bandit_Den_Shelf_cc4fb772:
 
@@ -442,19 +442,19 @@ translate schinese Bandit_Den_Shelf_c2ecef11:
 
     # "'For now, Goat Tri//'s Leader Goek/emir refused to cooperate with ou/ research team."
     # For now, Goat Tribe's Leader Goekdemir refused to cooperate with our research team.
-    "今羊氏之长格、格米——格克代米尔拒与吾方合作，此力是否出自窍舍{font=LXGWWenKaiLite-Bold.ttf}{size=-2}堃{/size}{/font}，莫可断定也……"
+    "今羊氏之长格、格米——格克代米尔拒与吾方合作，此力是否出自闼丕瓯，莫可断定也……"
 
-translate schinese Bandit_Den_Shelf_a241d3b2:
+translate schinese Bandit_Den_Shelf_2f1eb415:
 
-    # "'It cannot be de//rmined whether this fo/ce could be att//b/ted to the god of /////////ce...'"
-    # It cannot be determined whether this force could be attributed to the god of intelligence...
+    # "'It cannot be de//rmined whether this fo/ce could be att//b/ted to the god of ////st...'"
+    # It cannot be determined whether this force could be attributed to the god of forest...
     pass
 
-translate schinese Bandit_Den_Shelf_9dfcec64:
+translate schinese Bandit_Den_Shelf_58e865e6:
 
-    # "'A rumor of sighting of Atlo/h, another ce//stial being. was spr//d among the /e/r folks... although some sugge//ed it is a plo/ to invite ////'s inve/tment.'"
-    # A rumor of sighting of Atlosh, another celestial being. was spread among the bear folks... although some suggested it is a plot to invite king's investment.
-    "又熊氏之民传言见另一神话人物阿特洛——呃，又看不清了。或言为争……什么关切而出此计。"
+    # "'A rumor of sighting of /ok//, another di//// being. was spr//d among the /e/r folks... although some sugge//ed it is a plo/ to invite ////'s inve/tment.'"
+    # A rumor of sighting of Ookko, another divine being. was spread among the bear folks... although some suggested it is a plot to invite king's investment.
+    "又熊氏之民传言见另一神话人物——欧……呃，又看不清了。或言为争……什么关切而出此计。"
 
 translate schinese Bandit_Den_Shelf_06c1cc94:
 

@@ -87,6 +87,21 @@ translate schinese strings:
     # old "{color=#000}Losing to Bandit Boss{/color}"
     # new ""
 
+    # old "{color=#000}Captured by Bandits{/color}"
+    # new ""
+
+    # old "{color=#000}Joining Uffe's Celebration{/color}"
+    # new ""
+
+    # old "{color=#000} Paying Debt to Tavern Regulars{/color}"
+    # new ""
+
+    # old "{color=#000} Losing in Gnoll Battle{/color}"
+    # new ""
+
+    # old "{color=#000} Winning and Topping the Gnoll{/color}"
+    # new ""
+
     # old "{color=#000}Losing to Feral Werewolf with 80 Purity{/color}"
     # new ""
 

@@ -920,10 +920,15 @@ translate schinese Bandit_Den_End_f397e375:
     # k "Alright, he's alive. Furk."
     k "太好了，你还活着。"
 
-translate schinese Bandit_Den_End_3adfe0b8:
+translate schinese Bandit_Den_End_46661de9:
 
-    # "Kari performs healing magic to the unconscious ram, and soon... he wakes up..."
-    "卡里立刻为弗坎施展治疗魔法……不一会，弗坎睁开了眼睛……"
+    # "Kari performs healing magic to the unconscious ram."
+    "卡里立刻为昏迷的弗坎施展治疗魔法。"
+
+translate schinese Bandit_Den_End_9a2b7cf9:
+
+    # "Furkan's eyes flutter open, as an anticipated deer watches in relief."
+    "不一会，身下人睁开了眼睛，卡里忧心忡忡的面容总算舒展开来。"
 
 translate schinese Bandit_Den_End_3ec57d49:
 
@@ -940,25 +945,35 @@ translate schinese Bandit_Den_End_02545655:
     # f "...W-where am I?"
     f "……这是哪？"
 
-translate schinese Bandit_Den_End_794797c2:
+translate schinese Bandit_Den_End_00f52772:
 
-    # k "Furk, you scared me to death... Are you feeling better now?"
-    k "我快被你吓死了……现在感觉好点了吗？"
+    # "Kari hugs the chief tightly, he positions himself on top of Furkan, feeling all his warmth as you watch from a distance."
+    "卡里张开双臂将兄长抱入怀中，感受他的体温，确信他真的活着。"
+
+translate schinese Bandit_Den_End_068112a1:
+
+    # k "Furk, you almost scared me to death. I thought you were gone."
+    k "吓死了，还以为我来迟一步。"
 
 translate schinese Bandit_Den_End_b7cc3345:
 
     # f "Uhm... the cave... I came here looking for the golem did I not?"
     f "我没事……我记得我来找符石护卫……"
 
+translate schinese Bandit_Den_End_723c6101:
+
+    # "Kari nods."
+    "卡里点头。"
+
 translate schinese Bandit_Den_End_48014797:
 
     # e "Hey, Furkan."
-    e "嘿，弗坎。"
+    e "嗨，弗坎。"
 
-translate schinese Bandit_Den_End_b68c09ac:
+translate schinese Bandit_Den_End_7c5afb1c:
 
-    # f "The courier? Why are you here..."
-    f "乐村的邮差？你怎么在这……"
+    # f "The courier? Why are you here."
+    f "乐村的邮差？你怎么在这。"
 
 translate schinese Bandit_Den_End_e5aaaaa3:
 
@@ -970,10 +985,25 @@ translate schinese Bandit_Den_End_f4847294:
     # e "Did you pass out after the guardian attacked you?"
     e "是符石护卫把你打晕的吗？"
 
-translate schinese Bandit_Den_End_90f09731:
+translate schinese Bandit_Den_End_ae4b54e1:
 
-    # f "No... it was someone else... the guardian was protecting me."
-    f "不……是别人……纳伊姆当时在保护我。"
+    # f "No, it was someone else... the guardian was protecting me."
+    f "不，是别人……纳伊姆当时在保护我。"
+
+translate schinese Bandit_Den_End_3bea46d2:
+
+    # k "Please tell me who attacked you, Furkan. I will take my own revenge on them."
+    k "谁？谁要害你？他们死定了。"
+
+translate schinese Bandit_Den_End_000b35c8:
+
+    # f "They hit me from the back, I have no idea."
+    f "他们从我身后偷袭，我没看见他们的模样。"
+
+translate schinese Bandit_Den_End_d4a36c19:
+
+    # "Kari looks disappointed, it seems he cares about the chief a lot by the way he's still hugging him."
+    "卡里顿时又变得愁眉苦脸。他没有松开怀抱，能看出他真的非常关心弗坎。"
 
 translate schinese Bandit_Den_End_4312d7b7:
 
@@ -990,6 +1020,11 @@ translate schinese Bandit_Den_End_6a9d299d:
     # k "Father's basin?"
     k "父亲的法盅？"
 
+translate schinese Bandit_Den_End_32a6dc7b:
+
+    # "The general pulls away, looking at Furkan with concern."
+    "卡里撑开与弗坎的距离，难以置信地看着对方。"
+
 translate schinese Bandit_Den_End_1b47d087:
 
     # k "Oh... No."
@@ -1000,45 +1035,30 @@ translate schinese Bandit_Den_End_ead24320:
     # e "W-what's it?"
     e "法盅？"
 
-translate schinese Bandit_Den_End_4fcab62c:
+translate schinese Bandit_Den_End_07929565:
 
-    # k "We used it to summon our guardians... or what you called golem."
-    k "可以用来召唤巨石护卫……也就是你说的石魔像的法器。"
-
-translate schinese Bandit_Den_End_1c9f8db5:
-
-    # k "Uhm Furk... did you see the attacker?"
-    k "呃弗坎……你还认得袭击者的样子吗？"
-
-translate schinese Bandit_Den_End_dabf44c8:
-
-    # f "No."
-    f "认不得了……"
+    # k "We used it to summon our guardians, or what you called golem."
+    k "可以用来召唤巨石护卫，也就是你说的石魔像的法器。"
 
 translate schinese Bandit_Den_End_b34597c1:
 
     # f "Is the guardian doing well?"
     f "纳伊姆，纳伊姆呢？"
 
-translate schinese Bandit_Den_End_2bbf79e9:
+translate schinese Bandit_Den_End_001113cc:
 
-    # k "Courier used the crystal on him..."
-    k "他没事，[e]用水晶治好了他……"
+    # k "Courier used a rock on him, I saw it."
+    k "他没事，[e]用水晶治好了他。"
 
-translate schinese Bandit_Den_End_5ec9462d:
+translate schinese Bandit_Den_End_93902d70:
 
-    # f "Hmm... the crystal I was looking for?"
-    f "噢……你找到了我在找的那块水晶。"
+    # "You nods slightly as the chief gives you an approving smile."
+    "你不太敢肯定，只是微微点了下头。"
 
-translate schinese Bandit_Den_End_51667721:
+translate schinese Bandit_Den_End_46a16c41:
 
-    # e "You were coming for the crystal?"
-    e "原来你是来找水晶的？"
-
-translate schinese Bandit_Den_End_32fb7925:
-
-    # f "This place used to be the secret foundry... We had the crystal buried here somewhere."
-    f "这个山洞曾经是一处秘密铸造厂……那块水晶就是我们族人埋起来的。"
+    # "But the smile fades away quickly as he looks back at Kari."
+    "弗坎对你露出满意的笑容，但这个笑容转瞬即逝。他很快又看向卡里。"
 
 translate schinese Bandit_Den_End_5363b379:
 
@@ -1070,64 +1090,99 @@ translate schinese Bandit_Den_End_98e8204b:
     # k "We killed it. We thought he went rogue on you and he started attacking us."
     k "我们以为是他害了你，再加上他主动攻击我们，所以我们不得已杀了他。"
 
-translate schinese Bandit_Den_End_6b70fcfd:
+translate schinese Bandit_Den_End_f273e2bb:
 
-    # e "Uhmm..."
-    e "唔嗯……"
+    # f "Alright."
+    f "哎，好吧。"
 
-translate schinese Bandit_Den_End_e2474748:
+translate schinese Bandit_Den_End_fa11c99b:
 
-    # f "Alright. I was actually coming for something here..."
-    f "这样啊。其实我来这里，就是为了找到能让符石护卫恢复正常的东西……"
+    # "Furkan sighs, he looks down, eyes almost teary."
+    "弗坎眼睛突然湿润起来，他低下头握住卡里的手，没有再说话。"
 
-translate schinese Bandit_Den_End_3687d8f5:
+translate schinese Bandit_Den_End_a083357a:
 
-    # f "Something resembling a crystal to return the golem to its normal state."
-    pass
+    # "He doesn't speak, instead, he grasps on Kari's hand. The general doesn't seem to flich away."
+    "卡里也握紧了对方的手。"
 
-translate schinese Bandit_Den_End_6895d577:
+translate schinese Bandit_Den_End_ab4dee2a:
 
-    # k "We... didn't see anything here..."
-    k "我们来的路上……好像没有发现什么特别的……"
+    # "Both of them are just mourning, in their own way."
+    "你猜他们正以他们的方式缅怀。"
 
-translate schinese Bandit_Den_End_9989e40d:
+translate schinese Bandit_Den_End_f2da58de:
 
-    # f "It is no longer required now, considering the status of the golem..."
-    f "事已至此……就让他安息吧……"
+    # f "So, all of what I did was for nothing."
+    f "到头来，我什么都没办成。"
+
+translate schinese Bandit_Den_End_87555c13:
+
+    # f "Guardian died, basin got stolen."
+    f "反而白白牺牲了部族的战士，失去了祖先的遗珍。"
+
+translate schinese Bandit_Den_End_db3cd737:
+
+    # e "W-what's the basin actually?"
+    e "法盅究竟是什么东西呢？"
+
+translate schinese Bandit_Den_End_f2575d7f:
+
+    # f "It was what my father used to summon guardians, with the help of the runes."
+    f "那是我父亲曾经用来结合符石召唤石像的法器。"
+
+translate schinese Bandit_Den_End_095e395f:
+
+    # f "In return, the guardians protect the runes."
+    f "作为生的回报，石像便会成为守护符石的护卫。"
+
+translate schinese Bandit_Den_End_cd0075c1:
+
+    # f "And now I lost both of them."
+    f "如今我却让两个护卫都牺牲了。"
+
+translate schinese Bandit_Den_End_c3ed46ef:
+
+    # "Kari rubs his paws on Furkan's wound, tending to it carefully."
+    "卡里摩挲着弗坎身上的伤口，小心翼翼地为他处理。"
+
+translate schinese Bandit_Den_End_a534077e:
+
+    # e "I'm really sorry to hear, but we'll try to get them back when you recover."
+    e "节哀顺变。等你养好伤，我们可以一起把法盅夺回来复活他们。"
 
 translate schinese Bandit_Den_End_cebe6de1:
 
     # f "Thanks, both of you. I need to get back to the tribe now."
-    f "谢谢你们为了救我冒这么大的险。只是村里还有很多事情等着我处理，我得赶快回去——嘶……"
+    f "[e]，谢谢你为了救我冒这么大的险。还有你，卡里。"
 
 translate schinese Bandit_Den_End_8c3907b5:
 
     # f "Hmm..."
-    pass
+    f "只是村里还有很多事情等着我处理，我得赶快回去——嘶……"
 
 translate schinese Bandit_Den_End_486f5a9b:
 
     # "Furkan stumbles forward when he tries to stand up, you see Kari intuitively lifts him back up."
-    "弗坎摇摇晃晃地试着站起来，突然一个没站稳往前倒去，卡里立马上前让他靠在自己身上。"
+    "弗坎摇摇晃晃地试着站起来，突然一个没站稳往前倒去。卡里立马上前让他靠在自己身上。"
 
 translate schinese Bandit_Den_End_6cd031f3:
 
     # f "Kari?"
-    f "卡里？"
+    f "我……"
 
 translate schinese Bandit_Den_End_6d3d914b:
 
     # k "Yeah... Let's go."
-    k "没事……我们走吧。"
+    k "没事，我们走吧。"
 
 translate schinese Bandit_Den_End_e73388e9:
 
     # e "Oh... you guys... are going?"
     e "噢……你们……要回去了？"
 
-translate schinese Bandit_Den_End_04ce795f:
+translate schinese Bandit_Den_End_a944e8ba:
 
-    # "Kari carries the furkan's weakened body on his back. The two men grunts a little before walking."
+    # "Kari carries the furkan's exhausted body on his back. The two men grunts a little before walking."
     "卡里背起虚弱的弗坎准备离开山洞，还互相说了几句悄悄话。"
 
 translate schinese Bandit_Den_End_6409673d:
@@ -1138,17 +1193,22 @@ translate schinese Bandit_Den_End_6409673d:
 translate schinese Bandit_Den_End_b213370a:
 
     # k "Here's some recipe that you might want to take a look."
-    k "我这有份铁剑和铁斧的制作方法，你应该用得上，拿去吧。"
+    k "我这有份铁剑和铁斧的锻造方法，你应该用得上，拿去吧。"
 
 translate schinese Bandit_Den_End_44668cc5:
 
     # k "It's iron sword and axe."
     pass
 
-translate schinese Bandit_Den_End_ca6dd60e:
+translate schinese Bandit_Den_End_a3ae056d:
 
-    # e "Thanks a lot, Kari."
+    # e "Thanks, general."
     e "非常感谢。"
+
+translate schinese Bandit_Den_End_84fcf348:
+
+    # "He hands you the paper, before tugging the chieftain upwards with his hands on his ass."
+    "他将一张清单递给你，而后双手包住弗坎的屁股往上掂了掂，稳住自己和对方的姿势。"
 
 translate schinese Bandit_Den_End_127daacc:
 
@@ -1165,41 +1225,61 @@ translate schinese Bandit_Den_End_ce1cdeaf:
     # e "See you..."
     e "再见……"
 
+translate schinese Bandit_Den_End_e0df77ea:
+
+    # "Kari turns away from you, and begin walking towards the exit."
+    "你目送他们二人朝洞口外离去。"
+
 translate schinese Bandit_Den_End_4c3c3c00:
 
     # k "{size=20}Furk, since when did you get this heavy.{/size}"
     k "{size=-8}哥，你什么时候变这么重了。{/size}"
+
+translate schinese Bandit_Den_End_2b1a552a:
+
+    # "They whispers, but the echo in the cave makes it clear even from afar."
+    "他们故意压低声音，但在幽闭的洞穴里回声自然躲不过你的耳朵。"
 
 translate schinese Bandit_Den_End_b055cfae:
 
     # f "{size=20}Uhmm... Heavier if I fall asleep on your shoulder...{/size}"
     f "{size=-8}哼哼……要是我待会睡着了会更重……{/size}"
 
-translate schinese Bandit_Den_End_b63be10c:
+translate schinese Bandit_Den_End_747772b0:
 
-    # "Kari and Furkan leaves you outside the cave..."
-    "你目送二人离开，脑海里开始回忆起这趟旅程。"
+    # "Kari and Furkan leaves you outside the cave."
+    "他们的身影逐渐融入洞外日光消失不见，你开始回忆这趟旅程。"
 
 translate schinese Bandit_Den_End_ed08a457:
 
     # e "Fuck, Furkan? Are you awake?"
     e "嘿，弗坎！你醒醒！"
 
-translate schinese Bandit_Den_End_559a4f55:
+translate schinese Bandit_Den_End_ad844077:
 
-    # "The Ram doesn't speak, in fact he still hasn't wake. You decide to presses on his chest for a few moment."
-    "羊族族长没有回应你，他甚至没有一点动静。你赶忙将手掌盖上他胸口感受他的心跳。"
+    # "The Ram is completely passed out, you decide to presses on his chest for a few moment."
+    "面前这头山羊已经不省人事，你赶忙将手放在他胸口感受心跳。"
 
-translate schinese Bandit_Den_End_f685f4b4:
+translate schinese Bandit_Den_End_81fffab3:
 
-    # "You casts a weak healing magic to him."
-    "他还活着。"
+    # "With no avail, you lean your head against his chest, luckily his heart is still beating, albeit weakly."
+    "感觉不到搏动传来，你便俯下身侧头贴住他的胸口去听。"
+    "万幸，他还活着，只是心跳非常虚弱。"
+
+translate schinese Bandit_Den_End_282a297e:
+
+    # "You cast a weak healing magic on him."
     "你立即向他施展治疗术，但你知道自己的法术不一定顶用。"
 
 translate schinese Bandit_Den_End_3ec57d49_1:
 
     # f "..."
     f "……"
+
+translate schinese Bandit_Den_End_fca3c10c:
+
+    # "The chief's eyes flutter open. He looks stressful, and his pupils dilate."
+    "羊族族长慢慢睁开双眼，神情涣散。"
 
 translate schinese Bandit_Den_End_4e056dcb:
 
@@ -1209,7 +1289,12 @@ translate schinese Bandit_Den_End_4e056dcb:
 translate schinese Bandit_Den_End_2f3870eb:
 
     # e "Hey, Furkan. Are you alright?"
-    e "嗨，弗坎。你有哪里受伤吗？"
+    e "嗨，弗坎。你现在感觉怎么样？"
+
+translate schinese Bandit_Den_End_bcda30d6:
+
+    # "He turns his attention to you."
+    "他的眼神突然变得犀利起来。"
 
 translate schinese Bandit_Den_End_d06b9227:
 
@@ -1226,25 +1311,50 @@ translate schinese Bandit_Den_End_f0e70fe2:
     # e "He's resting in the tribe now."
     e "他还在村里修养。"
 
+translate schinese Bandit_Den_End_a3e1f029:
+
+    # "You try to give him a hand as he shifts his position to you, but he doesn't take it."
+    "见弗坎想要起身你伸手去扶，但他却马上躲开了。"
+
 translate schinese Bandit_Den_End_9f93daa8:
 
     # f "W-what happened."
-    f "怎么回事？"
+    f "这到底怎么回事？"
 
-translate schinese Bandit_Den_End_c584b9e9:
+translate schinese Bandit_Den_End_713df877:
 
-    # e "He fought me, but I defeated him."
-    e "我和他打了一架……"
+    # e "He fought me as I entered your tribe, I defeated him at the end."
+    e "我进村的时候你的将军拦住我，他以为我绑架了你，所以想要从我这逼问出你的下落。"
+
+translate schinese Bandit_Den_End_c492b7b4:
+
+    # e "I didn't intend to, just trying to protect myself. He thought I kidnapped you."
+    e "所以，没办法，我得保护自己。"
+
+translate schinese Bandit_Den_End_b329270f:
+
+    # e "Afterwards he told me you might be here..."
+    e "再之后他告诉我你可能去了这个山洞……"
+
+translate schinese Bandit_Den_End_bbdc0855:
+
+    # "Furkan stares forwards, seemingly pondering something you're not aware of."
+    "弗坎呆呆盯着前方，似乎在思考什么你不知道的事情。"
 
 translate schinese Bandit_Den_End_a9d62d89:
 
     # e "Uhm... Furkan... did you pass out after the guardian attacked you?"
     e "呃……弗坎……你是被这个石魔像打晕了吗？"
 
-translate schinese Bandit_Den_End_90f09731_1:
+translate schinese Bandit_Den_End_90f09731:
 
     # f "No... it was someone else... the guardian was protecting me."
-    f "不……是别人……符石护卫在保护我。"
+    f "不……是别人……符石护卫保护了我。"
+
+translate schinese Bandit_Den_End_9168b5c7:
+
+    # "He looks around, distressed."
+    "弗坎环顾四周，面容突然紧绷。"
 
 translate schinese Bandit_Den_End_4312d7b7_1:
 
@@ -1276,15 +1386,40 @@ translate schinese Bandit_Den_End_1dd4c735:
     # f "Fuck! Why am I so useless."
     f "该死！我怎么这么没用。"
 
-translate schinese Bandit_Den_End_1c94ba84:
+translate schinese Bandit_Den_End_a2ff6800:
 
-    # f "They stole the basin from me..."
-    f "他们偷走了法盅……"
+    # f "They stole the basin from me. The thieves."
+    f "那些盗贼，他们偷走了法盅。"
 
-translate schinese Bandit_Den_End_fa86efde:
+translate schinese Bandit_Den_End_2c5adaba:
 
-    # e "It's ok, Furkan. We can get it back later..."
-    e "别担心，弗坎。我们一定会找回法盅的……"
+    # e "Who took it? I didn't see anyone else here in the cave."
+    e "盗贼？我进来的时候没看到有别人。"
+
+translate schinese Bandit_Den_End_6fea8302:
+
+    # f "They're probably gone, I did not get to catch a glimpse but I sensed someone was there."
+    f "应该早逃走了。当时我就感觉到山洞里有其他人。"
+
+translate schinese Bandit_Den_End_560a4f40:
+
+    # f "...Right before I was ambushed from behind."
+    f "……他们从背后偷袭了我，我没能看见他们的样子。"
+
+translate schinese Bandit_Den_End_33656c76:
+
+    # e "It's ok, Furkan. We can get it back later. You should focus on recovering first."
+    e "别担心，弗坎。我们一定会找回法盅的。现在最要紧的是疗伤。"
+
+translate schinese Bandit_Den_End_a13c0780:
+
+    # "You lend your hand again towards Furkan, this time he reluctantly accepts it."
+    "你再次伸手想扶他起来，这次他勉为其难地接受了。"
+
+translate schinese Bandit_Den_End_39000206:
+
+    # "With your assistance, Furkan turns against a huge rock to lean on."
+    "有你的帮助，弗坎得以背靠石墙坐下。"
 
 translate schinese Bandit_Den_End_b34597c1_1:
 
@@ -1296,35 +1431,45 @@ translate schinese Bandit_Den_End_8d754181:
     # e "Yes, the stone was healing him quite a bit."
     e "他没事，我往他胸口放了块石头他就活过来了。"
 
-translate schinese Bandit_Den_End_cf0f92ea:
+translate schinese Bandit_Den_End_0e8db784:
 
-    # f "Wait... you found the slab?"
-    f "这么说……你找到了那块水晶？"
+    # f "What stone?"
+    f "什么石头？"
 
-translate schinese Bandit_Den_End_87b4652b:
+translate schinese Bandit_Den_End_9520fe9c:
 
-    # e "W-what slab?"
-    e "什么水晶？"
+    # "You show him the rock you found at the lake, apparently it's been soaked in magical energy enough to heal a golem."
+    "你拿出在池塘旁边发现的石头。看来长期浸染饱含魔力的池水使它储蓄了充足的能量，因而能够治疗石像。"
 
-translate schinese Bandit_Den_End_34def928:
+translate schinese Bandit_Den_End_051170e6:
 
-    # f "This place used to be the secret foundry... We had the slab buried here somewhere."
-    f "能让符石护卫恢复正常的水晶。这个山洞曾经是一处秘密铸造厂……那块水晶就是我们族人埋起来的。"
+    # f "Thank god."
+    f "谢天谢地。"
 
-translate schinese Bandit_Den_End_5363b379_1:
+translate schinese Bandit_Den_End_2ff7bb12:
 
-    # f "It was stupid of me to come here alone. I did not intend for anyone to follow me."
-    f "哎，我竟然傻到一个人来这么隐秘的地方，被其他人跟踪了都不知道。"
+    # "Furkan sighs, he is looking at the guardian, panting."
+    "弗坎长舒一口气，却转而望着石像哀叹。"
+
+translate schinese Bandit_Den_End_85b84d75:
+
+    # f "It was stupid of me to come here alone. I know the guardian is here."
+    f "哎，我竟然傻到一个人来这么隐秘的地方，正好遂了那群盗贼的愿。"
+
+translate schinese Bandit_Den_End_d3d886a4:
+
+    # "He looks down, hands over his face."
+    "他垂头掩面，看起来十分懊悔。"
 
 translate schinese Bandit_Den_End_deb4c568_1:
 
     # f "But that made the perfect opportunity for an ambush."
-    f "真是活该……"
+    f "就算有符石护卫也防不住阴招。"
 
 translate schinese Bandit_Den_End_da4677b2:
 
     # f "How silly am I..."
-    pass
+    f "我真是活该……"
 
 translate schinese Bandit_Den_End_6e1fdc41:
 
@@ -1339,27 +1484,72 @@ translate schinese Bandit_Den_End_68914fef_1:
 translate schinese Bandit_Den_End_8fbbec14:
 
     # e "He attacked me... So I killed it."
-    e "他主动攻击了我……所以我杀了他。"
+    e "他主动攻击我……所以我杀了他。"
 
-translate schinese Bandit_Den_End_f273e2bb:
+translate schinese Bandit_Den_End_f273e2bb_1:
 
     # f "Alright."
-    f "嗯……"
+    f "哎……"
+
+translate schinese Bandit_Den_End_fa11c99b_1:
+
+    # "Furkan sighs, he looks down, eyes almost teary."
+    "弗坎垂头，眼角闪烁着泪光。"
+
+translate schinese Bandit_Den_End_f2da58de_1:
+
+    # f "So, all of what I did was for nothing."
+    f "到头来，我什么都没办成。"
+
+translate schinese Bandit_Den_End_87555c13_1:
+
+    # f "Guardian died, basin got stolen."
+    f "反而白白牺牲了部族的战士，失去了祖先的遗珍。"
+
+translate schinese Bandit_Den_End_db3cd737_1:
+
+    # e "W-what's the basin actually?"
+    e "法盅究竟是什么东西呢？"
+
+translate schinese Bandit_Den_End_f2575d7f_1:
+
+    # f "It was what my father used to summon guardians, with the help of the runes."
+    f "那是我父亲曾经用来结合符石召唤石像的法器。"
+
+translate schinese Bandit_Den_End_095e395f_1:
+
+    # f "In return, the guardians protect the runes."
+    f "作为生的回报，石像便会成为守护符石的护卫。"
+
+translate schinese Bandit_Den_End_cd0075c1_1:
+
+    # f "And now I lost both of them."
+    f "如今我却让两个护卫都牺牲了。"
+
+translate schinese Bandit_Den_End_534602b9:
+
+    # "He turns away, ears droop low."
+    "弗坎撇过头，双耳耷拉。"
+
+translate schinese Bandit_Den_End_a534077e_1:
+
+    # e "I'm really sorry to hear, but we'll try to get them back when you recover."
+    e "节哀顺变。等你养好伤，我们可以一起把法盅夺回来复活他们。"
 
 translate schinese Bandit_Den_End_0623b8b8:
 
     # f "Thanks, Courier. I need to get back to the tribe now."
-    f "谢谢你，[e]。我得赶快回去处理——嘶……"
+    f "谢谢你，[e]。现在我得赶快回去处理——嘶……"
 
 translate schinese Bandit_Den_End_8c3907b5_1:
 
     # f "Hmm..."
     pass
 
-translate schinese Bandit_Den_End_b6130c4d:
+translate schinese Bandit_Den_End_5685146e:
 
-    # "Furkan stumbles forward when he tries to stand up."
-    "弗坎摇摇晃晃地试着站起来，显然没法自己走回去。"
+    # "Furkan stumbles forward when he tries to stand up. He lands on the floor again with a loud thump."
+    "弗坎摇摇晃晃地试着站起来，却重重地摔回原地，显然没法自己走回去。"
 
 translate schinese Bandit_Den_End_3ec57d49_2:
 
@@ -1379,17 +1569,42 @@ translate schinese Bandit_Den_End_6d9927f9:
 translate schinese Bandit_Den_End_ec3f1531:
 
     # f "No need. You've been a great help already. I just need the guards to take me back."
-    f "你已经帮了我们大忙，再麻烦你太不好意思了。就让我的人来接我吧。"
+    f "你已经帮了我们大忙，再麻烦你太不好意思。就让我的人来接我吧。"
 
 translate schinese Bandit_Den_End_9d2f2d12:
 
     # e "Alright."
-    e "好的，没问题。"
+    e "好，没问题。"
+
+translate schinese Bandit_Den_End_bbec41a3:
+
+    # e "What about the guardian?"
+    e "这尊符石护卫要怎么办呢？"
+
+translate schinese Bandit_Den_End_85ee5c06:
+
+    # f "I suppose we will carry it back."
+    f "我们应该会带他回村先关起来。"
+
+translate schinese Bandit_Den_End_1d3e7715:
+
+    # f "Not sure if he will still go rogue, so we will put him in captivity."
+    f "毕竟他已经没有要守护的东西了，不知道他会不会再次失控。"
+
+translate schinese Bandit_Den_End_41569b97:
+
+    # f "There is just nothing left for it to protect."
+    pass
+
+translate schinese Bandit_Den_End_6619e846:
+
+    # "Furkan takes another pause."
+    "弗坎一时语塞。"
 
 translate schinese Bandit_Den_End_049ac92c:
 
     # f "You can leave me here now... Thank you again, Courier."
-    f "你去吧……我没事了。谢谢，[e]。"
+    f "你去吧……我没事的。谢谢，[e]。"
 
 translate schinese Bandit_Den_End_a20cefa7:
 
@@ -1424,27 +1639,47 @@ translate schinese Bandit_Den_End_cd737672:
 translate schinese Bandit_Den_End_23e939ae:
 
     # "Though..."
-    "可是你要醒来吗……"
+    "可你一定要醒来吗……"
+
+translate schinese Bandit_Den_End_4322f566:
+
+    # "What's even wrong with indulging yourself in this, nightmare?"
+    pass
 
 translate schinese Bandit_Den_End_52f8d5eb:
 
     # "You've never been in charge for the longest of your life."
-    "曾经你在家乡只是按部就班、平淡无奇地活着。"
+    "曾经你在家乡只是按部就班、平淡无奇地活着。如今你甚至已经记不起你的曾经，除了齐门。"
 
 translate schinese Bandit_Den_End_c4aaf428:
 
     # "The world you lived in, in the tribe. It was... bland, unfruitful."
     "而在这个世界，你第一次感受到把握自己人生的感觉。"
 
+translate schinese Bandit_Den_End_5033d6bd:
+
+    # "You don't even remember any other person there, except for Chime."
+    pass
+
 translate schinese Bandit_Den_End_86e9aeda:
 
     # "But here you feel like you are doing something. You have the power to change something, for better or worse."
     "你能为自己、为人们、为这个世界带来实实在在的改变，无论结果是好是坏。"
 
-translate schinese Bandit_Den_End_36304dbd:
+translate schinese Bandit_Den_End_d9da896d:
 
-    # "Still, your friend, Chime is somewhere lost in this world."
-    "但别忘了，你的好朋友齐门还不知去向、生死未卜。"
+    # "Here, you feel powerful, you feel as if there's a flame inside you, waiting to rekindle."
+    "此刻你感觉意气风发，心里好像有股气焰等着被重新点燃。"
+
+translate schinese Bandit_Den_End_742ea64e:
+
+    # "You don't ever want to leave behind the friends you've made, if you ever found an exit."
+    "就算你成功找到回家的路，你也绝不会抛下你在这个世界结交的朋友。"
+
+translate schinese Bandit_Den_End_ab597d55:
+
+    # "Still, Chime is out there, alone, and you can't let that continue for long."
+    "但别忘了，齐门还不知去向、生死未卜。"
 
 translate schinese Bandit_Den_End_65d2e163:
 
@@ -1459,11 +1694,11 @@ translate schinese Bandit_Den_End_a20cefa7_1:
 translate schinese Bandit_Den_End_ecc36c43:
 
     # "Quickly... you put all unnecessary thought in the back of your head."
-    "空想无用，你决定抛开多余的想法，继续踏上这充满未知的旅程。"
+    "空想无用，你决定抛开多余的想法，继续踏上在这个世界的旅程。"
 
-translate schinese Bandit_Den_End_bcfe3af7:
+translate schinese Bandit_Den_End_d8ce2a99:
 
-    # "You continues on your journey."
+    # "And you continue on your journey in this world."
     pass
 
 translate schinese runeguardian_lose_85fa647a:

@@ -1479,6 +1479,15 @@ translate schinese strings:
     old "[item_num] x Green Ointment"
     new "[item_num]绿色药膏"
 
+    old "HP: [ally.hp] / [ally.max_hp]"
+    new "体力：[ally.hp] / [ally.max_hp]"
+
+    old "MP: [ally.mp] / [ally.max_mp]"
+    new "魔力：[ally.mp] / [ally.max_mp]"
+
+    old "LUST: [ally.lust] / [ally.max_lust]"
+    new "性欲：[ally.lust] / [ally.max_lust]"
+
     old "Continue"
     new "继续"
 

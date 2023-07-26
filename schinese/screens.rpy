@@ -76,6 +76,12 @@ translate schinese strings:
     old "empty slot"
     new "空存档位"
 
+    old "Upload Sync"
+    new "上传存档"
+
+    old "Download Sync"
+    new "下载存档"
+
     old "Display"
     new "显示"
 
@@ -240,12 +246,3 @@ translate schinese strings:
 
     old "Gallery"
     new "画廊"
-
-    old "Work in Progress"
-    new "测试内容"
-
-    old "Kinkier Text"
-    new "更猎奇的叙述"
-
-    old "Redesigned MC"
-    new "重绘版主角"

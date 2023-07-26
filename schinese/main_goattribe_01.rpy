@@ -1516,7 +1516,7 @@ translate schinese Kechioeren_Enter_683ebfb2:
 
 translate schinese strings:
 
-    old "Hawkaita"
+    old "Puro"
     new "普罗部落"
 
     old "Lusterfield{#goattribeenter1}"
@@ -1525,9 +1525,9 @@ translate schinese strings:
     old "The Town"
     new "镇子"
 
-translate schinese Kechioeren_Enter_d3b43202:
+translate schinese Kechioeren_Enter_412dde89:
 
-    # e "I'm from Hawkaita. Have you heard?"
+    # e "I'm from Puro. Have you heard?"
     e "我从普罗来，你有听说过吗？"
 
 translate schinese Kechioeren_Enter_3a0ee0aa:
@@ -2675,9 +2675,9 @@ translate schinese Kari_Adventure_0af55a1b:
     # e "I uhh... come from another place. You know about that, right?"
     e "我呃……我是从别的地方穿越来的，你知道吧？"
 
-translate schinese Kari_Adventure_22506db5:
+translate schinese Kari_Adventure_81762b7a:
 
-    # k "Yeah, Hawkaita. Furkan told me that."
+    # k "Yeah, Puro. Furkan told me that."
     k "嗯，普罗。弗坎告诉过我。"
 
 translate schinese Kari_Adventure_0a463124:
@@ -2700,9 +2700,9 @@ translate schinese Kari_Adventure_72a33094:
     # e "..."
     e "……"
 
-translate schinese Kari_Adventure_12c5b6df:
+translate schinese Kari_Adventure_f272b11d:
 
-    # e "He's my best friend, we've been together since I have any memory of existence."
+    # e "He's my best friend, we've been together since I have any memories of existence."
     e "齐门是我最好最好的朋友，我们从小到大不管做什么事都在一起。"
 
 translate schinese Kari_Adventure_9c0aa805:
@@ -2730,9 +2730,9 @@ translate schinese Kari_Adventure_0af40f6d:
     # k "What happened after?"
     k "然后？"
 
-translate schinese Kari_Adventure_d60117e4:
+translate schinese Kari_Adventure_e4e76482:
 
-    # e "Well. I stumbled upon some masked guy, and he was speaking gibberish. All I remembered was that he casted a blue... spell."
+    # e "Well. I stumbled upon some masked guy, and he was speaking gibberish. All I remembered was that he cast a blue... spell."
     e "呃，然后我碰见了一个戴面罩、穿斗篷的怪人，他说着我听不懂的话。我只记得他施展了一种……会发蓝光的法术。"
 
 translate schinese Kari_Adventure_233fc561:
@@ -2755,14 +2755,14 @@ translate schinese Kari_Adventure_cb956a27:
     # k "Tribesmen."
     k "你其他族人。"
 
-translate schinese Kari_Adventure_df1cd9e8:
+translate schinese Kari_Adventure_3d2883bb:
 
-    # e "I-I'm not sure. Now that I think of it, my memory has been really blurred since I woke up in this place."
+    # e "I-I'm not sure. Now that I think of it, my memory has been really blurry since I woke up in this place."
     e "我、我不知道。现在回想起来，我穿越来之前的记忆都特别模糊。"
 
-translate schinese Kari_Adventure_8b5f02a8:
+translate schinese Kari_Adventure_59e48a69:
 
-    # e "My memory has been foggy ever since, but I can still remember everything that happened here."
+    # e "I can't remember anything concrete ever since, but I can still remember everything that happened right here."
     e "穿越来之后的事情我倒是记得非常清楚。"
 
 translate schinese Kari_Adventure_3314395c:
@@ -2999,10 +2999,10 @@ translate schinese Kari_Adventure_a03b677d:
     # "Kari takes off his mask for a second, before putting it back on."
     "卡里干脆地摘下面具，很快又戴了回去。"
 
-translate schinese Kari_Adventure_5149571a:
+translate schinese Kari_Adventure_024ef151:
 
-    # "The face behind his mask is a surprisingly young face, "
-    "面具下的脸孔年轻得令你难以置信。"
+    # "The face behind his mask is a surprisingly young face, with a cleanly kept beard on his chin."
+    "面具下的脸孔毛色光亮，蓄须干净利落，年轻得令你难以置信。"
 
 translate schinese Kari_Adventure_ae3d1075:
 
@@ -3335,10 +3335,10 @@ translate schinese Kari_Adventure_405ab4d3:
     # e "Do you people believe in any?"
     e "比如你们有没有信仰什么……？"
 
-translate schinese Kari_Adventure_99b0ab7e:
+translate schinese Kari_Adventure_888073a0:
 
-    # k "We did. The god of intelligence, Coeshkun. Like any other Tribes."
-    k "我们和其他部族一样也有信仰。我们信仰的是智慧之神——窍舍{font=LXGWWenKaiLite-Bold.ttf}{size=-2}堃{/size}{/font}。"
+    # k "We did. The god of intelligence, Tapjoo. Like any other Tribes."
+    k "我们和其他部族一样也有信仰。我们信仰的是森林之神——闼丕瓯。"
 
 translate schinese Kari_Adventure_aaa657f3:
 
@@ -3481,9 +3481,9 @@ translate schinese Furkan_First_Meet_78d17fe4:
     # m "Where are you from."
     m "你从哪里来？"
 
-translate schinese Furkan_First_Meet_3884f69f:
+translate schinese Furkan_First_Meet_62159bf5:
 
-    # e "I am from Hawkaita, uhhh... I live in Lusterfield now."
+    # e "I am from Puro, uhhh... I live in Lusterfield now."
     e "我从普罗来。呃……我现在住在乐斯民菲尔德。"
 
 translate schinese Furkan_First_Meet_52f47dca:
