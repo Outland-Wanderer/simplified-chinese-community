@@ -2605,177 +2605,177 @@ translate schinese Haskell_First_Meet_3934b3e4_1:
 
 translate schinese Haskell_Minotaur_Dungeon_20335060:
 
-#     # h "[e], you remember me telling you about how sometimes I'd receive special requests?"
+    # h "[e], you remember me telling you about how sometimes I'd receive special requests?"
     h "[e]，你还记得我给你说过我有时会接到过一些特殊的任务吗？"
 
 translate schinese Haskell_Minotaur_Dungeon_118adec5:
 
-#     # e "Yes."
+    # e "Yes."
     e "嗯。"
 
 translate schinese Haskell_Minotaur_Dungeon_eee0134d:
 
-#     # h "Well, one just came in."
+    # h "Well, one just came in."
     h "那就行，正好来了一个。"
 
 translate schinese Haskell_Minotaur_Dungeon_a8122f62:
 
-#     # h "A special customer has requested me to mix a unique potion."
+    # h "A special customer has requested me to mix a unique potion."
     h "一位特殊的客人托我做一种特殊的药剂。"
 
 translate schinese Haskell_Minotaur_Dungeon_2a0a155d:
 
-#     # h "However, it requires an ingredient that is exceptionally rare."
+    # h "However, it requires an ingredient that is exceptionally rare."
     h "不过这里面需要一味极为稀有的原料。"
 
 translate schinese Haskell_Minotaur_Dungeon_924d27d3:
 
-#     # e "What is it?"
+    # e "What is it?"
     e "什么原料啊？"
 
 translate schinese Haskell_Minotaur_Dungeon_b2b8c49e:
 
-#     # h "The essence of a Minotaur."
+    # h "The essence of a Minotaur."
     h "弥诺陶洛斯的精华。"
 
 translate schinese Haskell_Minotaur_Dungeon_b732ba87:
 
-#     # e "A Minotaur?"
+    # e "A Minotaur?"
     e "弥诺陶洛斯？"
 
 translate schinese Haskell_Minotaur_Dungeon_9cb08916:
 
-#     # h "Yes. A large bullman that is capable of smashing through pure stone walls with ebrut force alone."
+    # h "Yes. A large bullman that is capable of smashing through pure stone walls with ebrut force alone."
     h "是的。那是一种能靠蛮力撞碎几堵石墙的巨大的牛头人。"
 
 translate schinese Haskell_Minotaur_Dungeon_3a288b2b:
 
-#     # h "However, there are not many of them left."
+    # h "However, there are not many of them left."
     h "不过，他们剩余的数量已经不多了。"
 
 translate schinese Haskell_Minotaur_Dungeon_01fc2b21:
 
-#     # e "Then, how are we supposed to get its essence?"
+    # e "Then, how are we supposed to get its essence?"
     e "那，咱们怎么才能弄到它的精华啊？"
 
 translate schinese Haskell_Minotaur_Dungeon_ee5320ab:
 
-#     # h "Through my channels, I've caught wind of a living Minotaur trapped inside a sandstone cave."
+    # h "Through my channels, I've caught wind of a living Minotaur trapped inside a sandstone cave."
     h "根据我的情报，曾有过传染说一只活着的牛头人正被关在一个砂石洞穴里面。"
 
 translate schinese Haskell_Minotaur_Dungeon_10d7a1e9:
 
-#     # h "Leave the hut and find a path through the outpost. Hurry past the dark forest and you should be able to find the dungeon."
+    # h "Leave the hut and find a path through the outpost. Hurry past the dark forest and you should be able to find the dungeon."
     h "从小屋出去后，能找到一条穿过哨所的小路。快速经过幽暗森林后应该就可以看到那个地牢了。"
 
 translate schinese Haskell_Minotaur_Dungeon_65ee07ff:
 
-#     # e "Okay. Sounds easy enough."
+    # e "Okay. Sounds easy enough."
     e "行。听着还挺简单的。"
 
 translate schinese Haskell_Minotaur_Dungeon_fc80c67d:
 
-#     # "Haskell smiles indulgently at your naivete."
+    # "Haskell smiles indulgently at your naivete."
     "你的天真让哈斯克尔宠溺一笑。"
 
 translate schinese Haskell_Minotaur_Dungeon_49d715ee:
 
-#     # h "The confidence of youth."
+    # h "The confidence of youth."
     h "年轻人的自信啊。"
 
 translate schinese Haskell_Minotaur_Dungeon_2b1d8bba:
 
-#     # "Then, his tone turns serious."
+    # "Then, his tone turns serious."
     "接着，他的语气严肃起来。"
 
 translate schinese Haskell_Minotaur_Dungeon_7392eb40:
 
-#     # h "Listen. A Minotaur is unlike any enemy that you face in the wilds. There is a reason why this one is trapped inside a cave."
+    # h "Listen. A Minotaur is unlike any enemy that you face in the wilds. There is a reason why this one is trapped inside a cave."
     h "听好了。弥诺陶洛斯和你在野外遇到的敌人不一样。不然这一位也不会被关在地牢里了。"
 
 translate schinese Haskell_Minotaur_Dungeon_4b297fd2:
 
-#     # h "It is highly dangerous and can probably snap you in half in a twig. Plus, there are also the dangers lurking within the cave itself."
+    # h "It is highly dangerous and can probably snap you in half in a twig. Plus, there are also the dangers lurking within the cave itself."
     h "它很危险，一下子就能给你拦腰折断。而且，洞穴本身也潜伏着不少危险。"
 
 translate schinese Haskell_Minotaur_Dungeon_57c5ceed:
 
-#     # h "According to rumors, the cave was owned by a powerful mage and the Minotaur was his captive."
+    # h "According to rumors, the cave was owned by a powerful mage and the Minotaur was his captive."
     h "传言说这个洞穴的主人是个厉害的大法师，而那个弥诺陶洛斯就是他的俘虏。"
 
 translate schinese Haskell_Minotaur_Dungeon_747bea2b:
 
-#     # h "Beware."
+    # h "Beware."
     h "一定要小心。"
 
 translate schinese Haskell_Minotaur_Dungeon_b3be7750:
 
-#     # h "They say that only an adventurer with well-rounded five attributes will be able to face the Minotaur in combat."
+    # h "They say that only an adventurer with well-rounded five attributes will be able to face the Minotaur in combat."
     h "还有人说只有五种属性全面发展的冒险者才有资格挑战弥诺陶洛斯。"
 
 translate schinese Haskell_Minotaur_Dungeon_90b010ad:
 
-#     # "Haskell sizes you up and nods."
+    # "Haskell sizes you up and nods."
     "哈斯克尔打量了你一番，点点头。"
 
 translate schinese Haskell_Minotaur_Dungeon_8888dbab:
 
-#     # h "I believe you have what it takes, courier."
+    # h "I believe you have what it takes, courier."
     h "我相信你有这个资格，邮递员。"
 
 translate schinese Haskell_Minotaur_Dungeon_8ee1196f:
 
-#     # e "Uhm? Me...?"
+    # e "Uhm? Me...?"
     e "诶？我吗……？"
 
 translate schinese Haskell_Minotaur_Dungeon_359948c6:
 
-#     # h "Plus, unlike me, you haven't gotten tired of adventures yet."
+    # h "Plus, unlike me, you haven't gotten tired of adventures yet."
     h "况且你还没像我一样失去了冒险的热情。"
 
 translate schinese Haskell_Minotaur_Dungeon_294dd13a:
 
-#     # h "I'd rather stay here and work with my salves."
+    # h "I'd rather stay here and work with my salves."
     h "我现在更乐意呆在这儿摆弄我的药膏。"
 
 translate schinese Haskell_Minotaur_Dungeon_7d94c50f:
 
-#     # h "Speaking of..."
+    # h "Speaking of..."
     h "这样一说……"
 
 translate schinese Haskell_Minotaur_Dungeon_7753e7c9:
 
-#     # "Haskell turns to rummage in his shelves before turning back."
+    # "Haskell turns to rummage in his shelves before turning back."
     "哈斯克尔转身，在柜子中一通翻找，接着扭回来。"
 
 translate schinese Haskell_Minotaur_Dungeon_042ed226:
 
-#     # h "These are health potions. They might come in handy."
+    # h "These are health potions. They might come in handy."
     h "这是些生命药剂。迟早能用到。"
 
 translate schinese Haskell_Minotaur_Dungeon_afa921c3:
 
-#     # h "And I've prepared you some vials. It's for you to store the Minotaur's essence."
+    # h "And I've prepared you some vials. It's for you to store the Minotaur's essence."
     h "还有这些小瓶，你就用它来装弥诺陶洛斯的精华吧。"
 
 translate schinese Haskell_Minotaur_Dungeon_2452fcf1:
 
-#     # e "By essence, do you mean..."
+    # e "By essence, do you mean..."
     e "说起来这个精华是……"
 
 translate schinese Haskell_Minotaur_Dungeon_910b4a06:
 
-#     # "Haskell raises his brow."
+    # "Haskell raises his brow."
     "哈斯克尔挑挑眉。"
 
 translate schinese Haskell_Minotaur_Dungeon_73c21c08:
 
-#     # h "Yes, courier. Your adventure will be hard but well-rewarded."
+    # h "Yes, courier. Your adventure will be hard but well-rewarded."
     h "是的，邮递员。你的冒险虽然辛苦，但奖励也很丰厚。"
 
 translate schinese Haskell_Minotaur_Dungeon_db17c069:
 
-#     # h "So, will you take this on this job for me?" nointeract
+    # h "So, will you take this on this job for me?" nointeract
     h "怎么说，愿意为我接下这个任务吗？" nointeract
 
 translate schinese Haskell_Minotaur_Dungeon_118adec5_1:
@@ -2785,32 +2785,32 @@ translate schinese Haskell_Minotaur_Dungeon_118adec5_1:
 
 translate schinese Haskell_Minotaur_Dungeon_f75cb567:
 
-#     # h "Alright... then."
+    # h "Alright... then."
     h "行。然后……"
 
 translate schinese Haskell_Minotaur_Dungeon_d752473d:
 
-#     # h "Take these potions."
+    # h "Take these potions."
     h "拿上这些药剂。"
 
 translate schinese Haskell_Minotaur_Dungeon_a5374a47:
 
-#     # h "Stay safe, courier."
+    # h "Stay safe, courier."
     h "一定要平安啊，邮递员。"
 
 translate schinese Haskell_Minotaur_Dungeon_cf2822a3:
 
-#     # e "Thank you, Haskell."
+    # e "Thank you, Haskell."
     e "谢谢你，哈斯克尔。"
 
 translate schinese Haskell_Minotaur_Dungeon_80a746b4:
 
-#     # e "Maybe... later?"
+    # e "Maybe... later?"
     e "要不……以后再说？"
 
 translate schinese Haskell_Minotaur_Dungeon_b84cbfa2:
 
-#     # h "Huh. I'll be patiently waiting, very patiently..."
+    # h "Huh. I'll be patiently waiting, very patiently..."
     h "哼。那我就耐心等着了，非常，非常地耐心……"
 
 translate schinese Haskell_Sick_Quest_ebcc1dc8:
