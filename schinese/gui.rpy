@@ -9,13 +9,39 @@ translate schinese python:
 
     gui.name_text_size = 48
 
+    gui.headline_text_font = FontGroup().add("Source_Han_Serif_CN-Bold.otf", 0x2E80, 0xffff).add("kingthing.ttf", 0x0000, 0xffff)
+
     @gui.variant
     def small():
         gui.text_size = 48
         gui.name_text_size = 42
 
 translate schinese style _default:
-    font "SourceHanSansSC-Regular.otf"
+    font "Source_Han_Sans_CN-Regular.otf"
+
+translate schinese style pling_button_text:
+    font gui.text_font
+
+translate schinese style screen_title_text:
+    font gui.headline_text_font
+
+translate schinese style screen_content_button_text:
+    font gui.headline_text_font
+
+translate schinese style screen_content_text:
+    font gui.headline_text_font
+
+translate schinese style page_button_text:
+    font gui.headline_text_font
+
+translate schinese style click_button_text:
+    font gui.headline_text_font
+
+translate schinese style footstep_button_text:
+    font gui.headline_text_font
+
+translate schinese style stash_button_text:
+    font gui.headline_text_font
 
 translate schinese style ruby_style is default:
     size 24
