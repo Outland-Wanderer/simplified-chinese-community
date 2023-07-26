@@ -188,11 +188,6 @@ translate schinese scene_lothargrope_d688a5fe:
     # l "Yeah... Yeah..."
     l ""
 
-translate schinese scene_mimiclose_556c7193:
-
-    # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
-    msg ""
-
 translate schinese scene_mimiclose_eee32a65:
 
     # "You linger on the edge of the mimic chest for a while..."
@@ -2352,11 +2347,6 @@ translate schinese Scene_Exhibition_Masturbation_8f497eee:
 
     # "With that dream in mind, you drift off from wasted energy."
     ""
-
-translate schinese scene_werewolf_lose_556c7193:
-
-    # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
-    msg ""
 
 translate schinese scene_werewolf_lose_d794ba77:
 

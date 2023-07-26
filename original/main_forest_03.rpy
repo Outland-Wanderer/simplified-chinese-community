@@ -138,6 +138,56 @@ translate schinese main_bandits_hideout_bab1030c:
     # "You enter the bandit's hideout."
     ""
 
+translate schinese main_bandits_hideout_01fc2cf8:
+
+    # "A gruff voice calls out as you stand in front of the stone structure."
+    ""
+
+translate schinese main_bandits_hideout_9bbb5037:
+
+    # bd "Well, well, what do we have here? A traveler, eh?"
+    bd ""
+
+translate schinese main_bandits_hideout_49cfe7d7:
+
+    # e "Hey! Back off, I've got weapons."
+    e ""
+
+translate schinese main_bandits_hideout_bf5d361c:
+
+    # bd "You've got guts, I'll give you that. But I'm afraid this is our territory, and you'll have to pay the toll to pass."
+    bd ""
+
+translate schinese main_bandits_hideout_0a85cc04:
+
+    # bd "Nothing much. 100 gold and I'll let you go." nointeract
+    bd "" nointeract
+
+translate schinese main_bandits_hideout_3089a27b:
+
+    # e "Well, I don't want any trouble. Here's 100 gold."
+    e ""
+
+translate schinese main_bandits_hideout_31d284d7:
+
+    # bd "Wise choice. We'll put these gold into good use. Pass now before I change my mind and take you in."
+    bd ""
+
+translate schinese main_bandits_hideout_f02ad6b5:
+
+    # "The bandit smirks."
+    ""
+
+translate schinese main_bandits_hideout_f7d081f0:
+
+    # e "I won't budge so easily, let's fight then!"
+    e ""
+
+translate schinese main_bandits_hideout_50681a75:
+
+    # bd "Ha, what a dumb decision. Prepare yourself, for when we take you in after this."
+    bd ""
+
 translate schinese bandits_hideout_loop_e91ba75d:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
@@ -147,4 +197,12 @@ translate schinese bandits_hideout_loop_e91ba75d_1:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     ""
+
+translate schinese strings:
+
+    old "Pay the toll"
+    new ""
+
+    old "Fight"
+    new ""
 

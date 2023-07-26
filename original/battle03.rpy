@@ -1,4 +1,374 @@
-﻿translate schinese mimic_battle_89067aa9:
+﻿translate schinese battle_attack_script_d8a1e631:
+
+    # "You slash your [pc.weapon.name!t] at the arms of the [target.name!t], it slides right off his fluffy arm, while you look back in disbelief."
+    ""
+
+translate schinese battle_attack_script_bce5b210:
+
+    # "You slam your [pc.weapon.name!t] at the arms of the [target.name!t], it slides right off his fluffy arm, while you look back in disbelief."
+    ""
+
+translate schinese battle_attack_script_9857982e:
+
+    # "You aim and shoot your [pc.weapon.name!t] at the arms of the [target.name!t], it pierces right through his soft fur without touching his skin, leaving you frozen in disbelief."
+    ""
+
+translate schinese battle_attack_script_dba94e4a:
+
+    # "You hold your fist and throw it at the [target.name!t], but it hits nothing and leaves you standing instead."
+    ""
+
+translate schinese battle_attack_script_1b735359:
+
+    # "The [target.name!t] laughs loudly while flexing his claws, it almost seems he's scoffing at your attempt of attack."
+    ""
+
+translate schinese battle_attack_script_dbd57fbe:
+
+    # "You slash your [pc.weapon.name!t] at the [target.name!t], but he hops away in time, dodging from your attack."
+    ""
+
+translate schinese battle_attack_script_464c0cbb:
+
+    # "You slam your [pc.weapon.name!t] at the [target.name!t], but he hops away in time, dodging from your attack."
+    ""
+
+translate schinese battle_attack_script_1c09c114:
+
+    # "You aim and shoot your [pc.weapon.name!t] at the [target.name!t], but he hops away in time, dodging from your attack."
+    ""
+
+translate schinese battle_attack_script_2719255f:
+
+    # "You hold your fist and throw it at the [target.name!t], but he hops away in time, dodging from your attack."
+    ""
+
+translate schinese battle_attack_script_9ff75fbd:
+
+    # bd "Come on, try harder! You'll never defeat me with such sloppy attacks!"
+    bd ""
+
+translate schinese battle_attack_script_c5ca6854:
+
+    # bd "Swing and a miss! You'll have to do better than that! "
+    bd ""
+
+translate schinese battle_attack_script_911caff7:
+
+    # gnl "You swing, I dance!"
+    gnl ""
+
+translate schinese battle_attack_script_619312a4:
+
+    # gnl "Jump, spin, you miss!"
+    gnl ""
+
+translate schinese battle_attack_script_0cbff535:
+
+    # "The [target.name!t] laughs loudly while crouching on the grass, it almost seems he's scoffing at your attempt of attack."
+    ""
+
+translate schinese battle_attack_script_12680f06:
+
+    # "You slash your [pc.weapon.name!t] at the [target.name!t], your blade grazes through the [target.name!t]'s stomach. Drops of blood drips through his body."
+    ""
+
+translate schinese battle_attack_script_151b9439:
+
+    # "You slash your [pc.weapon.name!t] at the [target.name!t], knocking him on the ground. He growls at you before getting up, albeit disheveled."
+    ""
+
+translate schinese battle_attack_script_e5a49a17:
+
+    # "You slam your [pc.weapon.name!t] at the [target.name!t], your blade grazes through the [target.name!t]'s stomach. Drops of blood drips through his body."
+    ""
+
+translate schinese battle_attack_script_3d3f0282:
+
+    # "You slam your [pc.weapon.name!t] at the [target.name!t], knocking him on the ground. He growls at you before getting up, albeit disheveled."
+    ""
+
+translate schinese battle_attack_script_3aed5a1a:
+
+    # "You aim and shoot your [pc.weapon.name!t] at the [target.name!t], the arrow hit right into his shoulder and he screams in agony."
+    ""
+
+translate schinese battle_attack_script_e4ccce4c:
+
+    # "You run while shooting your [pc.weapon.name!t] at the [target.name!t], knocking him on the ground. He growls at you before getting up, albeit disheveled."
+    ""
+
+translate schinese battle_attack_script_a0f9e82d:
+
+    # "You throw your fist at the [target.name!t], hitting him right across his face, the sheer impact knocks him on the ground."
+    ""
+
+translate schinese battle_attack_script_f237f06f:
+
+    # "You punch into the [target.name!t]'s stomach, grabbing him and slam him on the ground hard."
+    ""
+
+translate schinese battle_attack_script_24bcc736:
+
+    # "His health decreases by [oa[4]] HP."
+    ""
+
+translate schinese battle_attack_script_dc0c57e6:
+
+    # "You've critically hit the [target.name!t], dealing [oa[4]] HP!"
+    ""
+
+translate schinese battle_attack_script_cf32bdd4:
+
+    # ww "Come here... little prey, stop resisting."
+    ww ""
+
+translate schinese battle_attack_script_821b8d28:
+
+    # ww "Huh... This prey is definitely moving. And I'll prefer a moving one when I get a hold of you."
+    ww ""
+
+translate schinese battle_attack_script_8ffa9b69:
+
+    # "The [target.name!t] howls in anger, you can feel the imminent danger as other werewolves in the forest respond to his howl."
+    ""
+
+translate schinese battle_attack_script_c5074ad8:
+
+    # gnl "O-Ouch! Fingertips graze, almost!"
+    gnl ""
+
+translate schinese battle_attack_script_3c0044de:
+
+    # gnl "Y-your blow, it finds me!"
+    gnl ""
+
+translate schinese battle_attack_script_ef32e0d1:
+
+    # bd "Not bad, not bad at all. But I'm not done with you yet!"
+    bd ""
+
+translate schinese battle_attack_script_9e05dcb6:
+
+    # bd "Alright, this is gonna worth my gold so much."
+    bd ""
+
+translate schinese battle_attack_script_e1c89fe5:
+
+    # ww "Argh...! You can really pack a punch do you not? Can't wait to pin you down and get a taste of your flesh."
+    ww ""
+
+translate schinese battle_attack_script_4be9928d:
+
+    # ww "Hnnngh!!! Now I'm getting real angry. And you don't want to see me when I'm angry, little prey."
+    ww ""
+
+translate schinese battle_attack_script_29d84905:
+
+    # "You can barely hear barking sound of the [target.name!t], it seems like he doesn't appreciate a trespasser, and you've angered him further."
+    ""
+
+translate schinese battle_attack_script_f1fbe73b:
+
+    # gnl "Gnoll feels that, argh!"
+    gnl ""
+
+translate schinese battle_attack_script_be54626b:
+
+    # gnl "Y-ou strong... I-I see."
+    gnl ""
+
+translate schinese battle_attack_script_c678487d:
+
+    # bd "Argh! Lucky shot! But don't get cocky, I've got plenty more fight in me!"
+    bd ""
+
+translate schinese battle_attack_script_69eb351b:
+
+    # bd "Hey, let's talk this out, huh? I'll make it worth your while!"
+    bd ""
+
+translate schinese battle_flirt_script_fdf9de27:
+
+    # "You turn around and rub your hand all over your own burly cheeks, feeling and brushing against your ass while you shake your hip."
+    ""
+
+translate schinese battle_flirt_script_f8c9ea12:
+
+    # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at [target.name!t] seductively."
+    ""
+
+translate schinese battle_flirt_script_38976fda:
+
+    # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the [target.name!t] while your chest bounce up and down slightly."
+    ""
+
+translate schinese battle_flirt_script_cba7f25f:
+
+    # "You continue your act for about a minute, but the [target.name!t] just stares at you in confusion."
+    ""
+
+translate schinese battle_flirt_script_37523263:
+
+    # "Within a few seconds you can already see some movements under the [target.name!t]'s ripped pants."
+    ""
+
+translate schinese battle_flirt_script_bb33b631:
+
+    # "The sturdy beast man licks his lips, grumbling at your beautiful sight. His lust is increased by [player_flirt]."
+    ""
+
+translate schinese battle_flirt_script_60331d20:
+
+    # "You notice the [target.name!t] is staring at your crotch, you slightly wink at him and he already looks like he can't breath under such arousal."
+    ""
+
+translate schinese battle_flirt_script_877a56ed:
+
+    # "His lust is increased by [player_flirt]."
+    ""
+
+translate schinese battle_flirt_script_8f8f53e6:
+
+    # ww "Hmm... Come closer... little prey."
+    ww ""
+
+translate schinese battle_flirt_script_b075c3a4:
+
+    # ww "You have a nice body, little prey. Our pack would be delighted to see you."
+    ww ""
+
+translate schinese battle_flirt_script_2534d3ec:
+
+    # gnl "What's underneath? Gnoll wonders..."
+    gnl ""
+
+translate schinese battle_flirt_script_d8ea3f64:
+
+    # gnl "Come... we play instead."
+    gnl ""
+
+translate schinese battle_flirt_script_699d0eb4:
+
+    # bd "Well... our brothers would like to greet you."
+    bd ""
+
+translate schinese battle_flirt_script_92b78b8c:
+
+    # bd "Adventurers like you are so slutty, I'd plow your ass right now."
+    bd ""
+
+translate schinese battle_flirt_script_bf758ce5:
+
+    # "The [target.name!t] is squirming in reaction to your advance."
+    ""
+
+translate schinese battle_flirt_script_f1da305a:
+
+    # "You can already hear his rapid breathing and grunting, grasping at his own claws. His lust is increased by [player_flirt]."
+    ""
+
+translate schinese battle_flirt_script_21e8d611:
+
+    # "You can tell the [target.name!t] is already playing with himself when his claws goes under his pants, staring at your ass intently."
+    ""
+
+translate schinese battle_flirt_script_877a56ed_1:
+
+    # "His lust is increased by [player_flirt]."
+    ""
+
+translate schinese battle_flirt_script_aeda22d8:
+
+    # ww "I-I can't hold... back- if you keep being like that."
+    ww ""
+
+translate schinese battle_flirt_script_ec94cb21:
+
+    # ww "L-little prey, y-our hole is mine. Now give up already and let me... f-fuck."
+    ww ""
+
+translate schinese battle_flirt_script_a3289262:
+
+    # gnl "Mmmmmph... I sense a wild growth. Can't hold-"
+    gnl ""
+
+translate schinese battle_flirt_script_f7049853:
+
+    # gnl "No think- Not... g-giving in..."
+    gnl ""
+
+translate schinese battle_flirt_script_13188d4d:
+
+    # bd "Mmmmph..."
+    bd ""
+
+translate schinese battle_flirt_script_756769c4:
+
+    # bd "N-not even... c-close."
+    bd ""
+
+translate schinese battle_escape_surrender_script_13fbd82f:
+
+    # "You slowly back down from the [target.name!t]'s attack, you turn around and run as fast as you can."
+    ""
+
+translate schinese battle_escape_surrender_script_b1144d70:
+
+    # "But the [target.name!t]'s claw instantly grips onto your tail and you fall on the ground. Your escape seems to have failed!"
+    ""
+
+translate schinese battle_escape_surrender_script_dd94ae58:
+
+    # ww "Do not ever think about escaping, little prey. You are mine now."
+    ww ""
+
+translate schinese battle_escape_surrender_script_13fbd82f_1:
+
+    # "You slowly back down from the [target.name!t]'s attack, you turn around and run as fast as you can."
+    ""
+
+translate schinese battle_escape_surrender_script_50b7b402:
+
+    # "The [target.name!t] tries to outrun you but he trips and falls on the ground, You successfully escaped from the [target.name!t]!"
+    ""
+
+translate schinese battle_escape_surrender_script_75066d56:
+
+    # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground."
+    ""
+
+translate schinese battle_escape_surrender_script_ec66902a:
+
+    # "Maybe surrendering yourself to the [target.name!t] is the best choice."
+    ""
+
+translate schinese battle_escape_surrender_script_6ef9c502:
+
+    # "The beast man jeers at your submission, and he paces around you, poking you to see if you'd still react."
+    ""
+
+translate schinese battle_escape_surrender_script_b2a8349a:
+
+    # "You slowly close your eyes and wait for him to decide your fate."
+    ""
+
+translate schinese level_up_check_1ca53c77:
+
+    # "You have gained [exp_drop] experience points and [found_gold] gold."
+    ""
+
+translate schinese level_up_check_91f1d522:
+
+    # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
+    msg ""
+
+translate schinese lost_gold_check_a0930d76:
+
+    # "You lost [lost_gold] Gold."
+    ""
+
+translate schinese mimic_battle_89067aa9:
 
     # "You are facing a mimic chest, it is licking its lips, drooling at your body. You raise your fist in response."
     ""

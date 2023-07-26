@@ -983,24 +983,24 @@ translate schinese name_done_546f3a6c:
     # e "...I need to bring him back to my Tribe."
     e ""
 
-translate schinese name_done_3e0e3547:
+translate schinese name_done_8d8dea42:
 
-    # o "Wait... you meant... the other outsider?"
+    # o "Wait, you meant... the other outsider?"
     o ""
 
-translate schinese name_done_74db1a7f:
+translate schinese name_done_118adec5:
 
-    # e "Yes..."
+    # e "Yes."
     e ""
 
-translate schinese name_done_a37eb5db:
+translate schinese name_done_d6c538de:
 
-    # o "He... I don't even know where he is now..."
+    # o "He... I don't even know where he is now."
     o ""
 
-translate schinese name_done_fd95900d:
+translate schinese name_done_8249dc3e:
 
-    # e "I thought uh... the lion... Sebas told me he's in a goat tribe?"
+    # e "I thought uh, the lion... Sebas told me he's in a goat tribe?"
     e ""
 
 translate schinese name_done_9753a10b:
@@ -1953,6 +1953,9 @@ translate schinese strings:
     new ""
 
     old "Bandit"
+    new ""
+
+    old "Gnoll"
     new ""
 
     old " Fokk "

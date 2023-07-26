@@ -129,6 +129,12 @@
     old "Mended: {p} Target is healed for each round."
     new ""
 
+    old "Charmed"
+    new ""
+
+    old "Charmed: {p} Target's lust increases by multiple of each effective round. Stackable."
+    new ""
+
     old "Lindbloom"
     new ""
 
@@ -781,6 +787,18 @@
     new ""
 
     old "A gem that has magical energy embedded within the gem. Discovered at the unfathomable depth of the world, its potential can only be harnessed through experienced hands."
+    new ""
+
+    old "Soft Fur"
+    new ""
+
+    old "A bundle of fur fell from a feral fellow. Its softness is useful to withstand extreme situations of various terrains."
+    new ""
+
+    old "Leather Strips"
+    new ""
+
+    old "A tall and thin leather strips, grouped together by a frisky hand, it's one of the components of many leather-made items."
     new ""
 
     old "Slime"

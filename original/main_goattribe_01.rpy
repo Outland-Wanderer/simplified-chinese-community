@@ -3578,9 +3578,9 @@ translate schinese Kari_Adventure_72a33094:
     # e "..."
     e ""
 
-translate schinese Kari_Adventure_12c5b6df:
+translate schinese Kari_Adventure_f272b11d:
 
-    # e "He's my best friend, we've been together since I have any memory of existence."
+    # e "He's my best friend, we've been together since I have any memories of existence."
     e ""
 
 translate schinese Kari_Adventure_9c0aa805:
@@ -3608,9 +3608,9 @@ translate schinese Kari_Adventure_0af40f6d:
     # k "What happened after?"
     k ""
 
-translate schinese Kari_Adventure_d60117e4:
+translate schinese Kari_Adventure_e4e76482:
 
-    # e "Well. I stumbled upon some masked guy, and he was speaking gibberish. All I remembered was that he casted a blue... spell."
+    # e "Well. I stumbled upon some masked guy, and he was speaking gibberish. All I remembered was that he cast a blue... spell."
     e ""
 
 translate schinese Kari_Adventure_233fc561:
@@ -3633,14 +3633,14 @@ translate schinese Kari_Adventure_cb956a27:
     # k "Tribesmen."
     k ""
 
-translate schinese Kari_Adventure_df1cd9e8:
+translate schinese Kari_Adventure_3d2883bb:
 
-    # e "I-I'm not sure. Now that I think of it, my memory has been really blurred since I woke up in this place."
+    # e "I-I'm not sure. Now that I think of it, my memory has been really blurry since I woke up in this place."
     e ""
 
-translate schinese Kari_Adventure_8b5f02a8:
+translate schinese Kari_Adventure_59e48a69:
 
-    # e "My memory has been foggy ever since, but I can still remember everything that happened here."
+    # e "I can't remember anything concrete ever since, but I can still remember everything that happened right here."
     e ""
 
 translate schinese Kari_Adventure_3314395c:
@@ -3863,9 +3863,9 @@ translate schinese Kari_Adventure_a03b677d:
     # "Kari takes off his mask for a second, before putting it back on."
     ""
 
-translate schinese Kari_Adventure_5149571a:
+translate schinese Kari_Adventure_024ef151:
 
-    # "The face behind his mask is a surprisingly young face, "
+    # "The face behind his mask is a surprisingly young face, with a cleanly kept beard on his chin."
     ""
 
 translate schinese Kari_Adventure_ae3d1075:

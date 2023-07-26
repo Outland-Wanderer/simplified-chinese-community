@@ -15368,6 +15368,1286 @@ translate schinese Rahim_Outfit_End_ae397942:
     # r "Hmm..."
     r ""
 
+translate schinese Rahim_Reconciliation_Begin_eda3fc98:
+
+    # r "That's been the final decision for years, Sebas. I am not changing my mind whatever you say."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_8a45bf3b:
+
+    # "A calm and collected voice emerges from inside the house, who you assume to be the house' owner."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_de3d5d0f:
+
+    # s "That was YOUR decision, not our village's. Stop living in the past, old bull."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_a885819a:
+
+    # r "If you want to go and get kil-"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_e722cccd:
+
+    # "You enter the house, rather casually, pretending you didn't hear anything from them."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_3171675f:
+
+    # s "Hey, there buddy."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_9095243f:
+
+    # "Sebas' eyes widen as he notices you, waving his hands nervously."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_b21f6698:
+
+    # e "Oh... am I interrupting?"
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_241a4587:
+
+    # s "Nah, not even slightly, we were just chatting. Buddy you should just join in!"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_28fa195d:
+
+    # "Rahim crosses his arms, staying on his chair while you find a chair to sit on."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_b728c220:
+
+    # r "Sebas, anything else you want to know...?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_fb6e8863:
+
+    # s "Oh, well. How about fixing the bridge..."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_73ae705d:
+
+    # r "No."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_d4223b9f:
+
+    # s "...Between us and the goat tribe."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_0b3e6b23:
+
+    # "Sebas coughs."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_cfbe3e2d:
+
+    # s "You know, our relationships are like ropes, you can cut them off, but when you put them back in, you pull both ends closer together."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_7e8d1f28:
+
+    # "It was a weird metaphor, but the way Sebas presents it he doesn't seem to find it odd."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_1db76dc9:
+
+    # e "Is that really how it works."
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_73ae705d_1:
+
+    # r "No."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_b92e5eeb:
+
+    # "He scritches his chins again."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_956e1f75:
+
+    # s "You must know this one. Well, relationships are like stray threads, when it frays. It's our hands that must mend it, weaving... trust, and understanding, back into the fabric."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_011724ec:
+
+    # r "That's the same thing."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_edd51907:
+
+    # s "N-no it's not. If you keep those relationship unchecked, they'll unweave and you get a huge hole, in your fabric, but also, your heart. It's a different metaphor."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_73ae705d_2:
+
+    # r "No."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_561546ec:
+
+    # s "Relationship is a garden that needs nurturing, forgivness is the fertilizer and magic-"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_73ae705d_3:
+
+    # r "No."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_ffd18b2b:
+
+    # s "Relationship is a ship that sails-"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_73ae705d_4:
+
+    # r "No."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_af6b8f68:
+
+    # s "Relat-"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_252a87f5:
+
+    # e "I don't think Rahim is gonna be convinced by you, Seb."
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_1484d302:
+
+    # s "Well, Ole loved these lines from his books, ughhh. Mister Rahim please reconsider your position before I go absolutely insane."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_673d529e:
+
+    # "Sebas turns to you, with the same pleading eyes he uses on Rahim."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_2084ba48:
+
+    # s "Buddy, don't you also agree that we should keep the peace?"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_db314ce0:
+
+    # e "Well, I've been there lately, so yeah, I agree with Seb."
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_5b8fe2d3:
+
+    # "You notice Rahim scoffs at your response."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_3ef29fb0:
+
+    # r "Goats? I've heard you became their hero overnight. Saving the chief from a cave?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_393186ae:
+
+    # e "Well-"
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_0bc63d98:
+
+    # r "I'm actually not interested."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_b438c76c:
+
+    # r "I'm not going to change my mind, so you two conspirators better give up soon and leave, the door's right ther-."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_be9052d6:
+
+    # "Just as he was about to point at the door, it opens to reveal a familiar figure."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_7926dd1f:
+
+    # o "Hey, Rahim, door's not closed."
+    o ""
+
+translate schinese Rahim_Reconciliation_Begin_ef4ca43a:
+
+    # r "What is it, Ole."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_8d03c570:
+
+    # o "Someone wants to see you now."
+    o ""
+
+translate schinese Rahim_Reconciliation_Begin_5ebfc027:
+
+    # r "W-who?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_b0d87eca:
+
+    # r "If you want to go and get killed by those treachous goats, so be it. But you're not dragging us with you. There's no way I'm allowing this."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_37ca7bc1:
+
+    # s "See, I don't even fucking kno-"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_9272e4f9:
+
+    # r "Language, kid."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_da26c88d:
+
+    # s "I don't even know why you're so... pressed. It's been years. What happened to Hala, it wasn't even the goat's fault, it was just an accident!"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_06324a76:
+
+    # r "If you put my daughter's name in your mouth one more time, I'll stitch you up with this needle right here, kid."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_2d026608:
+
+    # r "How about you stop crying all over the ground and accept what's been reality for years already, I'm not your father."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_5aca47fa:
+
+    # r "Go on with your own life, didn't I give all my business to your pawn? Isn't that enough?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_49715fd3:
+
+    # s "Rahim. You know how much we earn."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_493858a4:
+
+    # s "The most I've earned was from that blue werewolf [e] brought us the other day. And it was... "
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_a160cdb4:
+
+    # r "[e] brought a werewolf to our village?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_3840a120:
+
+    # s "I-I... he doesn't look ferocious. O-Or something."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_4bef95e7:
+
+    # s "My point is, only regulars are in the shop, travelling merchant's been getting rar-"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_6e952f8d:
+
+    # s "The shop's been dead, and in a few months it's going away for real."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_bfac63a2:
+
+    # r "You're supposed to have the biggest shop in the village, if anything, it's on you. No one else."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_c5e035c0:
+
+    # s "There's something else-"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_86de5497:
+
+    # "Your hand slips, making a loud thumping sound right on the wall, you can feel they pause just to your voice."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_1059247f:
+
+    # s "What's that sound?"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_852e6883:
+
+    # "Someone is approaching..."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_7b78b635:
+
+    # "Instinctively, you hop and throw yourself right under the window."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_a389d874:
+
+    # "A lion, peeks out of the window. Sebas looks left and right, unaware of you under the window."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_7d073b9c:
+
+    # "You can barely hold your breath, just enough for Sebas to take a sigh and returns to Rahim."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_3bfbf24a:
+
+    # s "Doesn't seem like anything out there."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_38830f17:
+
+    # r "What were you talk about again."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_f918492f:
+
+    # s "Uh, I forgot. That sound distracted me."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_82a29a47:
+
+    # "The two takes a quick pause, before you hear someone reaching into their pockets."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_7c182da3:
+
+    # r "Are they coming after you."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_4c4bfca5:
+
+    # s "No, not them. And... well."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_efddd633:
+
+    # r "For gods' sake. How much trouble are you going to get into before learning your lessons."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_c41d5b84:
+
+    # s "Shhh! Stop shouting like you're talking to a goat."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_c387597f:
+
+    # r "Huh, I'll turn you into a proper goat these two needles on your head."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_a22efe53:
+
+    # s "O-OUCH! Fuck! Alright, now can you talk to the goats."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_afc60f27:
+
+    # r "W-what, did I not make myself clear enough, don't ever mention them in front of me again. It's all useless."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_1c936252:
+
+    # r "Kid, you're giving me a headache, as if two aren't already enough."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_b6a95233:
+
+    # r "I'm tired of all of you trying to ruin the only thing left for me to live."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_04236127:
+
+    # s "Mister Rahim..."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_7fc2f5b4:
+
+    # r "I could have just minded my own business here, but no, you have to going around buzzing like a fly in my ears."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_c6a62f64:
+
+    # r "Everything would've been fine if you young people do your job, live for the day, and learn to listen for once."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_ad0ce4b8:
+
+    # "He pauses for a moment, scratching his head."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_ddf885b9:
+
+    # r "No more talks, aren't you here for the shop's spares?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_7c598581:
+
+    # "As you press your ear against the wall, a shadow looms over you."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_958c1992:
+
+    # "Your eyes widen, but the familiar shape of a lizard tells you it's Ole."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_c2957718:
+
+    # o "{size=30}W-what are you doing here, [e].{/size}"
+    o ""
+
+translate schinese Rahim_Reconciliation_Begin_236eff27:
+
+    # "He whispers quietly, seems to have understood your intention perfectly without you answering."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_f85303ab:
+
+    # "You turn your head and face the lizard, who just smiles at you."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_25414e7e:
+
+    # o "Well, Kiddo. Next time find a better hiding spot if you want to listen more clearly."
+    o ""
+
+translate schinese Rahim_Reconciliation_Begin_2b40a022:
+
+    # e "Huh?"
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_72944a05:
+
+    # o "There's something more important now, stand up."
+    o ""
+
+translate schinese Rahim_Reconciliation_Begin_9a2f1569:
+
+    # "He pats your shoulder to gesture you to stand, while you're still in shock."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_aae91936:
+
+    # "You follow behind Ole as he knocks on the door three times, the discussion has stopped, almost immediately."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_5bb5c819:
+
+    # o "Hey, Rahim. Someone's outside our village."
+    o ""
+
+translate schinese Rahim_Reconciliation_Begin_4e124331:
+
+    # "You glances at the lion and the bull, staring at the lizard awkwardly."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_92a51f9c:
+
+    # s "Goooooood F-"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_8172e429:
+
+    # r "Who?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_7b78b635_1:
+
+    # "Instinctively, you hop and throw yourself right under the window."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_7856aa36:
+
+    # "But a small misstep plunges you into the grass right next to you."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_9d332801:
+
+    # "Sebas pokes his head out of the window, and immediately notices your weak attempt at hiding."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_1262880f:
+
+    # s "Uh...buddy? You cozy right here?"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_fd47bfaa:
+
+    # "You see the lion stares at your posture, face full of grasses and leaves."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_fbfb4027:
+
+    # e "Y-yes."
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_ed36c118:
+
+    # "Caught right in the act, you nod slowly and get up from the greenery."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_a69402f6:
+
+    # r "[e]? How much did you hear."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_6dbeea97:
+
+    # "The bull peeks from the window, noticing your feeble attempt at hiding yourself."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_34926850:
+
+    # e "Uh... not much, I was about to come in like a minute ago."
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_b2688fa3:
+
+    # r "R-right..."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_de43e975:
+
+    # s "Our buddy's just curious haha! I've been listening into the nature lately too."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_cfa9ca5f:
+
+    # r "That's not the same!"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_073e266f:
+
+    # e "I'm so sorry, Rahim. I didn't mean to interrupt you two talking."
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_8a661687:
+
+    # r "And those words wasn't meant for you to listen, yet you choose to sneak up."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_dbb1f3a2:
+
+    # r "Ugh... you young people are really the same, huh? No matter the worlds you live in."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_77ad53f1:
+
+    # s "Well, you should still come in, [e]."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_934f862e:
+
+    # "You reluctantly enter Rahim's house, directly facing the frustrated bull."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_468112f4:
+
+    # r "Should I mistake your honesty as a virtue?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_509f5657:
+
+    # r "So, what are you doing here? Just casually spying on us like a fly on the wall?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_09af5b7f:
+
+    # s "Or, a flea on the bull."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_1965f947:
+
+    # "Rahim shakes his head."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_724696b0:
+
+    # "Just as Rahim opens his mouth once more, a familiar figure emerges from behind you."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_52cbf4fc:
+
+    # o "Hey, door's not closed."
+    o ""
+
+translate schinese Rahim_Reconciliation_Begin_0b40cd4e:
+
+    # "Ole walks in casually, not aware of the situation you're currently in."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_aa33783d:
+
+    # r "What! Are everyone going to come here right now?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_8d03c570_1:
+
+    # o "Someone wants to see you now."
+    o ""
+
+translate schinese Rahim_Reconciliation_Begin_5ebfc027_1:
+
+    # r "W-who?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_7d2e2993:
+
+    # "You walk over the door, right as Sebas was about to peek out of the window."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_fa787f0d:
+
+    # e "Hey, R-... Seb?"
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_a3a2cd11:
+
+    # "Sebas turns right, glancing at you with an awkward smile."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_1c9cd6f9:
+
+    # s "Well, good fu-"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_bcee6ec3:
+
+    # r "Language."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_55f6af1a:
+
+    # s "-King Morning, [e]."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_93160067:
+
+    # "You see Rahim rolls his eyes, obviously tired of Sebas' shenanigans."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_f8cd7b02:
+
+    # e "Hey, I heard someone talking here, what were you guys talking about?"
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_825320a6:
+
+    # s "Of course it's you, buddy. Haha, guess we spoke of the devil."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_1915b094:
+
+    # s "Whoops, Rahim might not seem like it but he's obviously enjoying his time with you!"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_2ac6ee9c:
+
+    # r "Huh...?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_909287b8:
+
+    # s "Just kidding haha, if Rahim does, he's definitely the one who doesn't say anything about it."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_dc4eb06b:
+
+    # s "Buddy, did you hear anything? Like... anything while you came through the door."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_f27df6d4:
+
+    # e "N-nothing really, I just wanted to use Rahim's tool."
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_ab0bc760:
+
+    # r "I-it's right ther-."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_724696b0_1:
+
+    # "Just as Rahim opens his mouth once more, a familiar figure emerges from behind you."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_52cbf4fc_1:
+
+    # o "Hey, door's not closed."
+    o ""
+
+translate schinese Rahim_Reconciliation_Begin_ef4ca43a_1:
+
+    # r "What is it, Ole."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_8d03c570_2:
+
+    # o "Someone wants to see you now."
+    o ""
+
+translate schinese Rahim_Reconciliation_Begin_5ebfc027_2:
+
+    # r "W-who?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_ef4d2b63:
+
+    # o "Furkan. He said he wants to see you, in person."
+    o ""
+
+translate schinese Rahim_Reconciliation_Begin_abcdfa2d:
+
+    # r "T-that... You are joking right? Isn't the lion enough of a nuisance already?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_c836fe7f:
+
+    # s "He didn't mean that."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_5ac169b0:
+
+    # "Sebas whispers to you."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_7d4de124:
+
+    # r "Bring me to him right now! I need to know what he's thinking coming to our place like this."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_df9f995d:
+
+    # r "And Sebas, I don't want to hear a words about the goats again."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_2e754991:
+
+    # "He points at you and Sebas."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_fea4027b:
+
+    # r "Stay put until I come back."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_69f45981:
+
+    # "You nod, along with the oblivious lion."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_2597308b:
+
+    # s "Well, roomie. Didn't know our bull has so much visitors today."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_2c00434d:
+
+    # s "Me, you, Ole, Furkan. That's four more buddies than the average buddies he sees in a day!"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_9cd4fc93:
+
+    # e "So that was... zero?"
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_eb619674:
+
+    # s "Uh..."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_4a9d0a1b:
+
+    # s "Anyway, that's pretty silly for him to think we're staying here until he's back, isn't that right roomie?"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_50f7ba6d:
+
+    # s "Speaking of, are we following Rahim?" nointeract
+    s "" nointeract
+
+translate schinese Rahim_Reconciliation_Begin_cf5b4096:
+
+    # e "Maybe we should take a look?"
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_c9aa9c90:
+
+    # s "Good idea! It's gonna be something very important. Well, that's why we should join in!"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_40871fda:
+
+    # "You are not sure if he is sarcastic or genuinely oblivious. But, you've made the choice to go along with Sebas."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_c1b3b3e4:
+
+    # "Walking through the paths in Lusterfield, it's actually not too far until you hear the familiar grumpy voice of Rahim."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_52fe6365:
+
+    # r "You had the guts to talk to me right here... we could've had you killed here for what your people had done on this land."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_012d25a2:
+
+    # f "You can, you are too reasonable to be doing that."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_2f8a0a51:
+
+    # "You soon realise it's a bad idea to join in. Sebas takes a few steps backwards as the bull rolls his eyes, furiously."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_9db60de5:
+
+    # r "Leave."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_999dab99:
+
+    # s "We're just-"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_e42b9247:
+
+    # r "Don't make me say it again."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_9554a7ee:
+
+    # "Sebas immediately turns back, he brings you a few steps away from the two leaders."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_677730ba:
+
+    # s "Let's go back to our shop instead, buddy."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_be8ab3d0:
+
+    # "You nod. It's certainly not a good idea to have a target on your back when Rahim is angry."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_6e40606d:
+
+    # "Entering the shop, you can still faintly hear Rahim and Furkan talking in the middle of the village."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_e46e855b:
+
+    # "Ole is nowhere to be seen. You assume perhaps he's working on the shop inventory upstairs."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_e64a4aa6:
+
+    # "Sebas presses his ears against the wall curiously. Trying to figure out what they're talking about as you join in."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_f1e70186:
+
+    # r "-talk me through your thought process, what happened to your measly little goat brain- why do you think coming up to me is not a complete waste of time?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_3405614f:
+
+    # f "Well, there's something we need to discuss. Something is coming, I'm not sure what it is. But something is meddling with the balance of this land."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_03366da0:
+
+    # f "The primordial runes, it is not something ordinar-"
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_74713bc0:
+
+    # r "We know it's capability."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_ce0a6b95:
+
+    # f "But-... it's not the problem. The problem is, the runes vanished."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_12bc92cf:
+
+    # f "Not just from our tribe, but the whole world, Kari told me its energy had been unleashed from the stone, roughly sometimes before we found the first wanderer, and I'm afraid perhaps it was used on something disastrous."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_bf985ea6:
+
+    # f "Someone is brewing up a plan, and it's unfathomable what those massive amount of arcane energy would be used for."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_84877592:
+
+    # r "Get to the point."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_8d1fe9ab:
+
+    # f "We should join our forces, our people, and your people. To prepare for what's coming."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_b29baad6:
+
+    # f "We're the closest to each other, we need to rebuild the bridg- and figure out what exactly happened. At least if someone is preparing for an attack, we will be ready for it."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_970b96ef:
+
+    # r "Why?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_43ef0e84:
+
+    # f "W-why... Because it's for our people. Do you really believe we have the intention to hurt your people at any point."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_bec3b4af:
+
+    # r "Yes."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_bd0b5cd6:
+
+    # "Furkan shakes his head."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_54e83f5f:
+
+    # f "It was all a misunderstanding from the beginning to the end. We were about to retreat from you when casualties happene-"
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_209926a0:
+
+    # r "Casualties."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_12c98ca7:
+
+    # r "So you think the lost lives here were just casualties out of nowhere?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_0d899c36:
+
+    # r "It was your people's doing. Your father and his reckless soldiers' spell crumpled our houses like they were his playthings, must be accidents that people happen to be inside."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_e51d452c:
+
+    # f "We didn't mea-"
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_5a35ae99:
+
+    # r "Your spells and magicks doesn't work now, so you come here and do what? Beg me to lend you more casualties to spend?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_4de8da1d:
+
+    # f "Someone was behind what happened between us, Rahim. And, I think you know this. My father would never... risk his whole tribe to conquer your village."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_fcf2d4dd:
+
+    # r "Maybe you don't know your father, then."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_de3ecacb:
+
+    # f "Look, I don't know what you two had talked about, right before the war broke out. But Tevfik would never try to do something like this, to their most loyal ally."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_cad6a584:
+
+    # f "Rahim, I know it's a difficult situation, and it takes time to consider. We all trusted you, and I trust you to make the wise decision that's the best for both of us."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_626b4f23:
+
+    # "Furkan turns around with a nod, he turns around slowly until Rahim shouts."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_419a8a12:
+
+    # r "...Don't you walk away from me, coward."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_8efab021:
+
+    # "The chief turns back, with a doubtful glance."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_ec3a180d:
+
+    # f "Excuse me?"
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_024ad65b:
+
+    # r "You come here all alone, showing me all this grand gesture of peace. Yet you walk away, right after you lay all that duty onto me?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_87577517:
+
+    # r "Is that what you always end up doing, Furkan. Just walk away from all the troubles you've made."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_de460849:
+
+    # f "That's not my intention."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_102692ff:
+
+    # "Furkan retorts, crossing his arms as Rahim chides."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_3e3b8830:
+
+    # r "I can't even imagine, how naive are you to think that things could ever go back to the way it was."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_b0ce0ebc:
+
+    # r "Or are you so braindead in the head that you want to live with the person who killed your father right there."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_d06b153b:
+
+    # "You and Sebas stare at each other in disbelief as Rahim shouts louder and louder."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_dd6f3625:
+
+    # f "I- I will try, if it means my tribe will thriv-."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_ed512338:
+
+    # r "Y-you... you have no idea how little that matters to me, for years we have been living through the loss of our loved ones. A-and you come here and tell me that I should move on... like you?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_6954ca1f:
+
+    # "It's rare to see Rahim gets, this emotional. His voices are trembling and he's choking in his words."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_7dbad3d3:
+
+    # f "We... I just think we should put away personal agendas when it comes to the safety of the tribe."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_6925417b:
+
+    # r "Personal Agenda? How noble was that? Do you even know how insulting that was. You're lucky enough to born a son of a wise man, living inside this tiny little bubble with nothing to worry about and now you are lecturing me how I should live my life."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_932ab619:
+
+    # r "How charitable, I should just forget about everything that had happened because you did. Because you weren't even there for your father when everything went down."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_b8598a8a:
+
+    # f "Rahim, I don't think that's fair-"
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_cf1b993b:
+
+    # r "Fair what? Tell me, what else is fair when all I wanted was a peaceful life, and it all went to ruins because you goats were too stubborn to take a hint."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_9050c1f2:
+
+    # r "Ever since what your father has done to my home, I've felt nothing but bitterness and contrition. Every waking second I'd been living through that moment over and over again, and just as I was about to- You showed up."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_f994ea6a:
+
+    # f "I'm sorry you fel-"
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_ed3ad097:
+
+    # r "Shut your damn mouth up!"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_ea815256:
+
+    # f "Look, Rahim. I came here alone for you and your people's consideration, alone."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_687e19a6:
+
+    # f "But I- guess there's no reason for me to stay this long. Take care, Rahim."
+    f ""
+
+translate schinese Rahim_Reconciliation_Begin_2ef8c524:
+
+    # "Furkan turns around once more."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_fb8c2f2a:
+
+    # r "Leave, that's all you know."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_5b972187:
+
+    # "The streets falls into dead silence as Furkan leaves the village. There is not a sound of footsteps so you assume Rahim is still standing there."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_ef42fccc:
+
+    # "You and Sebas are in shock, the lion steps away from the wall soon after."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_0f29cad7:
+
+    # s "Damn..."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_882cff6f:
+
+    # "He whispers, trying to keep it low as you both can still feel the anger of Rahim looming by."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_8795d133:
+
+    # s "That- just happened."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_60997360:
+
+    # "You shake your head as the both of you get back to work."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_1e1571bb:
+
+    # e "Should we go check on Rahim?"
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_5cdb0e1d:
+
+    # s "Wait it out, roomie. With this loud he's screaming today, he's gonna sew your mouth shut if you're existing within his visible distance."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_730d6c80:
+
+    # "Sebas grins for the while. But he's right, perhaps it'd really be a good idea not to bother Rahim soon."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_123a599b:
+
+    # e "Maybe... we should stay here for a while, like what he talked about?"
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_f740e14b:
+
+    # s "Eh, yeah you're right, roomie. It's between him and Furk."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_7b2752b2:
+
+    # "Sebas grins as you two stay put, occasionally you hear Rahim's shout, though it's not loud enough for you to make out what he's saying. And soon Rahim is back."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_82d1dc8f:
+
+    # r "Y-you two are still here...?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_20bf78a6:
+
+    # s "So... shall we contin-"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_b461a52b:
+
+    # r "Leave me be, would you?"
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_8e2701be:
+
+    # "Rahim is completely exhausted. His eyes watering up."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_5d4a0355:
+
+    # e "We understand."
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_7a89dc01:
+
+    # "You feel he's desperately holding back his breath, his teeth gritting against each other."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_089c7764:
+
+    # r "T-thank you."
+    r ""
+
+translate schinese Rahim_Reconciliation_Begin_88d681a2:
+
+    # "Sebas raises his brows, tugging on his snouts curiously."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_2afb8986:
+
+    # "Without any question, you lead the still confused Sebas out of his house."
+    ""
+
+translate schinese Rahim_Reconciliation_Begin_6bbfd321:
+
+    # s "Uh, that was weird."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_0c8c2b2e:
+
+    # e "I- I'm not sure what has happened there."
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_f3c0c5a6:
+
+    # s "I told you buddy we should've followed Rahim, the mystery is making me go absolutely insane like he does!"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_10d541a5:
+
+    # s "But, uh. Yeah, privacy. I get it, how fucking cool was that."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_7a941fb9:
+
+    # s "Anyway, how long were you sitting there, well. Usually Rahim really doesn't like people being sneaky around him."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_9d789091:
+
+    # e "Uh... just a minute. I was wondering if I should knock on the door."
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_7eb588a0:
+
+    # s "Hah, fair, fair. I guess he's not really that angry with you anyway, not after what he and Furkan talked about."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_1c02d480:
+
+    # s "But wait it out before you go knock on his door again, roomie. With this loud he's screaming today, he's gonna sew your mouth shut if you're existing within his visible distance."
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_730d6c80_1:
+
+    # "Sebas grins for the while. But he's right, perhaps it'd really be a good idea not to bother Rahim soon."
+    ""
+
 translate schinese Rahim_Dialogue_End_8d660a05:
 
     # e "That's all, thank you for chatting, Rahim."
@@ -15753,5 +17033,29 @@ translate schinese strings:
     new ""
 
     old "Flowy Outfit"
+    new ""
+
+    old "Should you go in, or continue to eavasdrop from outside?"
+    new ""
+
+    old "Get into Rahim's House"
+    new ""
+
+    old "Eavesdrop their conversation"
+    new ""
+
+    old "There's a small spot right under the window, if you have enough agility, maybe you can hide undetected."
+    new ""
+
+    old "Hide under the window"
+    new ""
+
+    old "Enter the door"
+    new ""
+
+    old "Follow Rahim"
+    new ""
+
+    old "Stay put"
     new ""
 

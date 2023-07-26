@@ -103,6 +103,11 @@ translate schinese Battle_End_Check_78e7c049:
     # "Your health decreases by [wounded_damage] from the bleeding."
     ""
 
+translate schinese Battle_End_Check_ec76cae4:
+
+    # "Your lust increases by [charmed_damage] by the charm."
+    ""
+
 translate schinese Battle_End_Check_1679761b:
 
     # "You healed [healamount] from Traquil Mend!"

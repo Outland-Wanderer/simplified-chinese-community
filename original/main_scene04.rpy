@@ -1880,6 +1880,11 @@ translate schinese Scene_Bandit_Gangbang_68a30731:
     # e "Fuck... get off me!"
     e ""
 
+translate schinese Scene_Bandit_Gangbang_159d7ad5:
+
+    # bd "Ha, struggle more, adventurer. You either pay us the gold, or pay us with your body right here, and now it's both."
+    bd ""
+
 translate schinese Scene_Bandit_Gangbang_10b951da:
 
     # bd "Ha, struggle more, adventurer. We've caught you right here, trying to steal our properties?"
@@ -1890,9 +1895,9 @@ translate schinese Scene_Bandit_Gangbang_32290d11:
     # "The bandit tugs at your back, you struggle to get away but his strong arm is holding your body tight."
     ""
 
-translate schinese Scene_Bandit_Gangbang_7304d711:
+translate schinese Scene_Bandit_Gangbang_56e645f0:
 
-    # bd "Tell you what, you're becoming our property instead."
+    # bd "Tell you what, you're becoming our property."
     bd ""
 
 translate schinese Scene_Bandit_Gangbang_0c19bbcd:
@@ -1929,6 +1934,11 @@ translate schinese Scene_Bandit_Gangbang_3102c70d:
 
     # "The first bandit motions you to sit on the table, and then lie on it as he undresses you completely."
     ""
+
+translate schinese Scene_Bandit_Gangbang_5f145f34:
+
+    # bd "Look, I found this one, a proper adventurer he said, didn't want to pay our toll so I got him here."
+    bd ""
 
 translate schinese Scene_Bandit_Gangbang_1444ef41:
 
@@ -1990,6 +2000,11 @@ translate schinese Scene_Bandit_Gangbang_15bb8667:
     # bd5 "What's he looking for, actually?"
     bd5 ""
 
+translate schinese Scene_Bandit_Gangbang_71dae6f8:
+
+    # bd2 "No shit, he's probably way out of his head thinking he can walk around without paying us toll."
+    bd2 ""
+
 translate schinese Scene_Bandit_Gangbang_b6387659:
 
     # "The bandit's hand rests on your cock, its warmth is giving you all sorts of lewd thoughts."
@@ -2014,6 +2029,11 @@ translate schinese Scene_Bandit_Gangbang_adb84887:
 
     # e "Uh, just looking around."
     e ""
+
+translate schinese Scene_Bandit_Gangbang_18b164d7:
+
+    # bd5 "And now he ends up where an adventurer deserves, haha."
+    bd5 ""
 
 translate schinese Scene_Bandit_Gangbang_2bf43125:
 
@@ -3168,5 +3188,1230 @@ translate schinese Scene_Werewolf_Gangbang_0da70317:
 translate schinese Scene_Werewolf_Gangbang_72a4168a:
 
     # "Without another choice, you shrug it off, and get ready to continue on your adventure."
+    ""
+
+translate schinese scene_gnoll_lose_77a43152:
+
+    # e "A-ah-..."
+    e ""
+
+translate schinese scene_gnoll_lose_04649dbb:
+
+    # "You stumbles across the grass field, your strides shaky. You can feel your strength waning before the crazed gnoll."
+    ""
+
+translate schinese scene_gnoll_lose_262a7b5d:
+
+    # "Without hesitation, he lands a final blow, knocking you to the ground."
+    ""
+
+translate schinese scene_gnoll_lose_fa903a90:
+
+    # "Luckily, the grass softly cushions your fall, but it is still painful without getting back your health."
+    ""
+
+translate schinese scene_gnoll_lose_b03a3755:
+
+    # "The gnoll trails around you, walking in circle. His frenzied gaze fixated on your body."
+    ""
+
+translate schinese scene_gnoll_lose_fa35bcf2:
+
+    # "His fur is brown and looks somewhat scruffy, with patches and spots of dark brown over his furs."
+    ""
+
+translate schinese scene_gnoll_lose_64d2372a:
+
+    # e "Oof- F-fuck. I can't get up."
+    e ""
+
+translate schinese scene_gnoll_lose_d2078eb7:
+
+    # "He laughs maniacally, you still can't for the life of you figure out what's the deal with the gnoll."
+    ""
+
+translate schinese scene_gnoll_lose_2f618482:
+
+    # "Is he a natural trickster? A hyena who has gone feral? Or a sane man merely taking advantage of the situation."
+    ""
+
+translate schinese scene_gnoll_lose_c8581a54:
+
+    # "The gnoll approaches with a casual quip, his eloquent hand moves around your fluffy chest smoothly, toying over the loose strands between his claws."
+    ""
+
+translate schinese scene_gnoll_lose_88b414ec:
+
+    # "He casually sits on your stomach, receiving a weak gasp from you."
+    ""
+
+translate schinese scene_gnoll_lose_84d1004f:
+
+    # "You can't move, not with how your body aches, and his whole weight pressing against you."
+    ""
+
+translate schinese scene_gnoll_lose_e6f7cfc9:
+
+    # "With another sniff of the air, the gnoll makes sure of a safe surroundings, before leaning his snout forward."
+    ""
+
+translate schinese scene_gnoll_lose_1db8831a:
+
+    # gnl "Grrr...argh!"
+    gnl ""
+
+translate schinese scene_gnoll_lose_9727f25c:
+
+    # "He's still sitting on top of you, but it seems like he's waiting for something. His paw rests on your chest, and he looks at it, as if inspecting it."
+    ""
+
+translate schinese scene_gnoll_lose_ee3672e3:
+
+    # "His fingers feel long and dexterous, as if they're going to puncture you any second."
+    ""
+
+translate schinese scene_gnoll_lose_d82e78dc:
+
+    # e "A-alright... take whatever y-you want-"
+    e ""
+
+translate schinese scene_gnoll_lose_7cda6ca4:
+
+    # "Defeated, you whisper, your voice trembling against the weight of the feral creature."
+    ""
+
+translate schinese scene_gnoll_lose_7796ac0d:
+
+    # e "Please-"
+    e ""
+
+translate schinese scene_gnoll_lose_1551d43c:
+
+    # "His sharp claws scratches against your skin playfully, while his head tilts to an absurd degree, laughing uncontrollably."
+    ""
+
+translate schinese scene_gnoll_lose_f42c8ace:
+
+    # gnl "W-we, no, kill."
+    gnl ""
+
+translate schinese scene_gnoll_lose_c99bada4:
+
+    # "His voice is deep and slow. It was as if he's trying to communicate in the best way he can, but his words are stilted and difficult for him to say."
+    ""
+
+translate schinese scene_gnoll_lose_8b3ddef1:
+
+    # "You still can't tell if he's mocking at your pathetic plead, or that you're underneath him, your body entirely in his control now."
+    ""
+
+translate schinese scene_gnoll_lose_4f8dcc80:
+
+    # gnl "I, up."
+    gnl ""
+
+translate schinese scene_gnoll_lose_72ceb7bb:
+
+    # "Presenting a closed fist with his thumb extended upwards, the gnoll communicates with only a simple language that you're still trying to understand."
+    ""
+
+translate schinese scene_gnoll_lose_d88cb547:
+
+    # gnl "Prey, down."
+    gnl ""
+
+translate schinese scene_gnoll_lose_b52ff750:
+
+    # "He points at you, then shows a thumb-down gesture, only to receive a confused squint from you."
+    ""
+
+translate schinese scene_gnoll_lose_d2199e7a:
+
+    # "His amused face slowly turns into one of frustration, but it doesn't last long until the gnoll leans his body towards you."
+    ""
+
+translate schinese scene_gnoll_lose_5c317a75:
+
+    # "Your stomach begins to feel a circular movement, as you glances forward, the gnoll is grinding his ass against you, giving you a wide smirk."
+    ""
+
+translate schinese scene_gnoll_lose_e835f77b:
+
+    # gnl "W-we, make, happy. Hmmm?"
+    gnl ""
+
+translate schinese scene_gnoll_lose_6adb4cfc:
+
+    # "Still in confusion, you nod slightly. Whatever that happens next, must not be worse than you being killed by this maniac out in the open, right?"
+    ""
+
+translate schinese scene_gnoll_lose_67038650:
+
+    # "Well, unless killing is what he meant by happy."
+    ""
+
+translate schinese scene_gnoll_lose_e14817eb:
+
+    # e "U-uh... c-can I move?"
+    e ""
+
+translate schinese scene_gnoll_lose_e9358460:
+
+    # "Your plead falls on deaf ears, but the gnoll's swift movement to grapple onto your arms quickly tells you his answer."
+    ""
+
+translate schinese scene_gnoll_lose_c0c7d4b6:
+
+    # gnl "No, no. Prey, no, move."
+    gnl ""
+
+translate schinese scene_gnoll_lose_cb9e7cb0:
+
+    # "Continuously, your predator moves his buttocks in a rhythm, his weight pressing against your abs as you feel his soft bottom gripping onto your muscles from all directions."
+    ""
+
+translate schinese scene_gnoll_lose_fe529eaf:
+
+    # "Menawhile, his lean arms caresses your shoulder affectionately. You close your eyes and feel his rough fingers run along your frames."
+    ""
+
+translate schinese scene_gnoll_lose_6b09dc14:
+
+    # "You look up at the gnoll and can't help but admire his features, you've encoutered a lot of different enemies in this world, but this gnoll, he seems to have a certain charm that you can't help but be entranced by."
+    ""
+
+translate schinese scene_gnoll_lose_d5903eca:
+
+    # "He moves closer to you, and you can smell his musky scent. It's not something that you're particularly used to. He smells like an stinking animal, with his scent mixing in with the smell of the outdoors over a long span of years."
+    ""
+
+translate schinese scene_gnoll_lose_c6ed56ac:
+
+    # "And despite all that, you find yourself enjoying it, even taking a big whiff as he leans closer towards you."
+    ""
+
+translate schinese scene_gnoll_lose_3944944f:
+
+    # gnl "Happy. Hmmm?"
+    gnl ""
+
+translate schinese scene_gnoll_lose_7d63c3e6:
+
+    # "The gnoll lets out a low groan, his ass rubs against you as he lowers himself onto you. His weight feels heavy, and it's pressing down on your chest."
+    ""
+
+translate schinese scene_gnoll_lose_c0f6bea4:
+
+    # "His body heat radiates through his fur, and the warmth carries on to your body. You find yourself blushing a little at this, your crotch is getting hard."
+    ""
+
+translate schinese scene_gnoll_lose_8a488450:
+
+    # "You open your eyes once more, meeting his fixated gaze. His eyes are filled with desire, and you can see that he's panting heavily."
+    ""
+
+translate schinese scene_gnoll_lose_f4d76d52:
+
+    # "His breathing is coming out in short, hot gasps, and it makes him look somewhat cute, behind such a crazed demeanor."
+    ""
+
+translate schinese scene_gnoll_lose_263da613:
+
+    # "The gnoll lifts his paw and places it on your chest. He pushes down, and you feel him shifting his weight on you as his leans backwards."
+    ""
+
+translate schinese scene_gnoll_lose_27bb39b8:
+
+    # "And soon, his ass is positioned on top of your crotch. You feel him sliding down, and you let out a small gasp as you feel his ass pressing against the hard cock."
+    ""
+
+translate schinese scene_gnoll_lose_56fe9a6c:
+
+    # gnl "Gnoll... wants."
+    gnl ""
+
+translate schinese scene_gnoll_lose_618f958a:
+
+    # "He says, grinding against you again. He's desperately staring into your eyes, and it's making you feel all sorts of things."
+    ""
+
+translate schinese scene_gnoll_lose_44c68575:
+
+    # "You feel yourself growing hard, pulsating right underneath the gnoll's bottom. You can see the bulge in his loincloth, and it's making your heart pound even harder."
+    ""
+
+translate schinese scene_gnoll_lose_fda80295:
+
+    # "You don't think you've ever wanted anything more than this."
+    ""
+
+translate schinese scene_gnoll_lose_72a113c4:
+
+    # "The gnoll's hips thrust down, grinding against your crotch harder right along the shape of your cock."
+    ""
+
+translate schinese scene_gnoll_lose_1f15d846:
+
+    # "He reaches out and places his hand on your thigh, you are trembling slightly, he caresses your fur and slowly move his hand towards your crotch."
+    ""
+
+translate schinese scene_gnoll_lose_5f984084:
+
+    # "Without any resistance, he rubs his claws against your erection, and you can feel yourself throb at his grasp, bucking against his touch."
+    ""
+
+translate schinese scene_gnoll_lose_bf88431c:
+
+    # e "A-agh... be gentle."
+    e ""
+
+translate schinese scene_gnoll_lose_18fba0f7:
+
+    # "You let out a low moan, glancing at the frenzied gnoll intently."
+    ""
+
+translate schinese scene_gnoll_lose_497b8dfc:
+
+    # "He pulls away from you, and his bare ass is left on the air. He pulls down the stretched loincloth as his cock springs up. It's red and swollen, with a glistening drop of pre already coming out the tip."
+    ""
+
+translate schinese scene_gnoll_lose_e5baaa54:
+
+    # "You can see his precum leaking out of him, dripping on your stomach."
+    ""
+
+translate schinese scene_gnoll_lose_64f7fdc8:
+
+    # "He reaches behind him and slowly starts stroking himself, looking you right in the eyes."
+    ""
+
+translate schinese scene_gnoll_lose_cffec783:
+
+    # "He bites his lip and groans. He's really putting on a show for you, and it's turning you on."
+    ""
+
+translate schinese scene_gnoll_lose_45eee025:
+
+    # gnl "Gnoll mates."
+    gnl ""
+
+translate schinese scene_gnoll_lose_4b56c1dd:
+
+    # "He says, letting out a low moan. You nod your head, and he lowers himself onto you again."
+    ""
+
+translate schinese scene_gnoll_lose_f848a8f2:
+
+    # "The gnoll positions your cock at his entrance."
+    ""
+
+translate schinese scene_gnoll_lose_00f23011:
+
+    # "You feel a warm wetness as he slowly begins taking you in. His ass is so hot, and it feels amazing."
+    ""
+
+translate schinese scene_gnoll_lose_15a0f71e:
+
+    # "He lets out a loud cry, and you can see tears welling in his eyes."
+    ""
+
+translate schinese scene_gnoll_lose_19e25bab:
+
+    # "His cheeks turn a bright shade of red, and he's trembling, as if he's struggling to control himself."
+    ""
+
+translate schinese scene_gnoll_lose_bc0de452:
+
+    # "He slowly begins moving his hips, grinding against you. His movements are slow, but his ass is so tight."
+    ""
+
+translate schinese scene_gnoll_lose_6a2e72d5:
+
+    # "You can feel his fur rubbing against your cock, and it's driving you crazy."
+    ""
+
+translate schinese scene_gnoll_lose_69def6cd:
+
+    # gnl "Your Cock, fills Gnoll."
+    gnl ""
+
+translate schinese scene_gnoll_lose_7aa0df63:
+
+    # "The gnoll pants, looking down at you with a lust-filled expression on his face."
+    ""
+
+translate schinese scene_gnoll_lose_4d1c5ec2:
+
+    # "His eyes are hazy, and he's drooling a little bit. His tongue is hanging out of his mouth."
+    ""
+
+translate schinese scene_gnoll_lose_7d2e8779:
+
+    # "He places his paw on your chest, and begins pushing you back. You get the hint and slowly begin moving your hips, thrusting inside him."
+    ""
+
+translate schinese scene_gnoll_lose_5be381ed:
+
+    # "He's panting heavily, and the only sound filling the air is his loud cries, and the squishy sounds of his ass meeting your cock."
+    ""
+
+translate schinese scene_gnoll_lose_920291a7:
+
+    # "You can feel him tighten around you, and you let out a small cry. He's so warm, and he feels amazing around your cock."
+    ""
+
+translate schinese scene_gnoll_lose_f5f70794:
+
+    # "And it was so amazing, that you leak some precum right inside of his ass, creating a squi"
+    ""
+
+translate schinese scene_gnoll_lose_d940e64f:
+
+    # "The gnoll reaches between his legs and grabs onto his own balls, gently squeezing them in his grasp. He lets out another loud moan."
+    ""
+
+translate schinese scene_gnoll_lose_522a7b51:
+
+    # "You continue moving your hips, thrusting inside him. You can feel his ass clench around your cock as you hit his prostate."
+    ""
+
+translate schinese scene_gnoll_lose_92e20700:
+
+    # "He's letting out little whimpers, and you can see his cock twitch."
+    ""
+
+translate schinese scene_gnoll_lose_0fc83b96:
+
+    # "His ass is squeezes your cock, causing you to let out a loud moan. The gnoll grins, and his tail wags happily."
+    ""
+
+translate schinese scene_gnoll_lose_328eb13a:
+
+    # "It's wild to think that you're being used like this, pinning on the ground as he thrusts himself up and down like a dildo."
+    ""
+
+translate schinese scene_gnoll_lose_51b6b24d:
+
+    # "But the gnoll clearly knows his way, for a grinning little trickster, his adorable demeanor has pulled you into enjoying the moment as well."
+    ""
+
+translate schinese scene_gnoll_lose_61ce459a:
+
+    # "The gnoll lifts himself off you, and you feel him rise to his feet. His erection is throbbing, and you can see the precum dripping down the shaft."
+    ""
+
+translate schinese scene_gnoll_lose_6957bdc8:
+
+    # "His fur is messy, and his body is covered in sweat. You can feel his cock is begging for release."
+    ""
+
+translate schinese scene_gnoll_lose_25cc0d7a:
+
+    # gnl "Prey, mate, m-more!"
+    gnl ""
+
+translate schinese scene_gnoll_lose_ace7bdce:
+
+    # "The gnoll moves his hand down once more, and grabs his own cheeks, kneading them between his finger right in front of you."
+    ""
+
+translate schinese scene_gnoll_lose_f69efa08:
+
+    # "Carelessly, he spreads them apart, and his hole begins gaping open. And with such a lustful view, you can't help but to stare."
+    ""
+
+translate schinese scene_gnoll_lose_2497d775:
+
+    # "Just before you've come to your senses, he plants his ass onto your throbbing member once more again. This time of a much more desirous nature, as you feel your cock being sucked deeper and deeper into him."
+    ""
+
+translate schinese scene_gnoll_lose_a1669ccd:
+
+    # "The little trickster moves his hands down, and continues to jerk himself off, his movements becoming more frantic by each second."
+    ""
+
+translate schinese scene_gnoll_lose_b544b6cb:
+
+    # e "N-no... I can't. You're sucking me so hard there."
+    e ""
+
+translate schinese scene_gnoll_lose_d1e0fc35:
+
+    # "You can feel his tight ass squeezing around your cock, making a sensual sloshing sound each time he thrusts his hips into you."
+    ""
+
+translate schinese scene_gnoll_lose_2c17097a:
+
+    # "He's sweating profusely, working to rub your cock against his prostate everytime you're thrusted deeper and deeper inside of him."
+    ""
+
+translate schinese scene_gnoll_lose_c7848595:
+
+    # "Frantically, he opens his mouth, and you can see his pink tongue sticking out."
+    ""
+
+translate schinese scene_gnoll_lose_d95b775b:
+
+    # "He gazes into your eyes again, before his lips turn into a smile. And his eyes are filled with lust."
+    ""
+
+translate schinese scene_gnoll_lose_ea368a48:
+
+    # "You can feel your orgasm building up. You feel the pressure in your lower stomach, and it's making you move faster."
+    ""
+
+translate schinese scene_gnoll_lose_f5812985:
+
+    # "Driven by pure lust, you jerk your hips upwards, and you can feel the gnoll's weight as he bounces on your lap."
+    ""
+
+translate schinese scene_gnoll_lose_8c2c3c01:
+
+    # "You can feel your body moving against the grass, as you thrust up into the gnoll."
+    ""
+
+translate schinese scene_gnoll_lose_e26a5c4c:
+
+    # "The gnoll is trembling above you, and he's letting out low, animalistic groans."
+    ""
+
+translate schinese scene_gnoll_lose_9f81d705:
+
+    # gnl "I-I. come...soon- Araghhh-"
+    gnl ""
+
+translate schinese scene_gnoll_lose_3f529abe:
+
+    # "He's slamming his hips against yours, and he's shaking like a leaf in the wind."
+    ""
+
+translate schinese scene_gnoll_lose_6345f9ba:
+
+    # "You can see a strand of drool dripping from his mouth as he rides out his orgasm."
+    ""
+
+translate schinese scene_gnoll_lose_61b5c7d8:
+
+    # gnl "Y-yargh!! Gnn-... Gnargh--.."
+    gnl ""
+
+translate schinese scene_gnoll_lose_98f1081a:
+
+    # "Letting out a loud groan, the gnoll clasps onto you tightly,before experiencing a blissful release."
+    ""
+
+translate schinese scene_gnoll_lose_c4c93367:
+
+    # "Strings of cum spilling from his cock and onto your chest. You feel his cum seeping into your fur. He's panting heavily, as you can still see waves of his seeds dripping, leaking out of him."
+    ""
+
+translate schinese scene_gnoll_lose_98503e11:
+
+    # "He is panting profusely, his hips grinds down onto your cock, forcing it deeper inside him while he is still stroking himself well after orgasm."
+    ""
+
+translate schinese scene_gnoll_lose_75d2912e:
+
+    # "His thick cum dribbles waves by waves, painting your chest with his viscous seeds."
+    ""
+
+translate schinese scene_gnoll_lose_5a8a1244:
+
+    # "As he continues grinding against you, his cock throbs and pulsates for a few more times to drain the rest of his cum right onto your body."
+    ""
+
+translate schinese scene_gnoll_lose_65ef1b56:
+
+    # gnl "Prey, n-need come. mhmmm?"
+    gnl ""
+
+translate schinese scene_gnoll_lose_6efc652a:
+
+    # "You nod pleadingly, the way he rams his tight ass onto you is just sending you over the edge. You can feel your own orgasm building up."
+    ""
+
+translate schinese scene_gnoll_lose_01387b1d:
+
+    # "His hole is grasping onto your cock softly, meaty rings of his entrances are sucking your cock rhythmically, juicing the orgasm out of you."
+    ""
+
+translate schinese scene_gnoll_lose_e56fccac:
+
+    # e "F-fuck, you're-... keep going-"
+    e ""
+
+translate schinese scene_gnoll_lose_2ad87fb8:
+
+    # "His legs are quivering, he's squeezing so hard around you, as if he's commanding you to cum. You are beginning to lose control over yourself."
+    ""
+
+translate schinese scene_gnoll_lose_06000887:
+
+    # "The last thing you feel before orgasm is your cock throbbing inside of the gnoll's ass."
+    ""
+
+translate schinese scene_gnoll_lose_c15be535:
+
+    # e "HArrgh---!"
+    e ""
+
+translate schinese scene_gnoll_lose_ef32ad63:
+
+    # "You let out a loud moan that traverses over the green plains, your hands are clenching down on the grass tightly, same way his ass around your cock."
+    ""
+
+translate schinese scene_gnoll_lose_05bf35f1:
+
+    # "You feel yourself releasing a thick stream of cum, shooting it inside the gnoll's tight hole."
+    ""
+
+translate schinese scene_gnoll_lose_2586e08b:
+
+    # gnl "Y-yess... give cum."
+    gnl ""
+
+translate schinese scene_gnoll_lose_784693cd:
+
+    # "The gnoll's eyes roll backwards to such pleasure as loads and loads of your seeds are spilling inside of him."
+    ""
+
+translate schinese scene_gnoll_lose_2bfcf312:
+
+    # "And that you are still, unloading your remaining cum, filling him to the brim with much needed seeds."
+    ""
+
+translate schinese scene_gnoll_lose_7716f1b5:
+
+    # "You're panting heavily. Your head is swimming, and you feel your body tingle as you ride out your orgasm."
+    ""
+
+translate schinese scene_gnoll_lose_74b29620:
+
+    # "And yet, your cock is still throbbing uncontrollably, your cum spill into the gnoll's depths, and you feel his ass squeezing around you again, milking out every last drop."
+    ""
+
+translate schinese scene_gnoll_lose_baa768d3:
+
+    # "He pulls your cock out of him lazily, drips of cum begins leaking from his gaping ass."
+    ""
+
+translate schinese scene_gnoll_lose_f3d5660e:
+
+    # "The gnoll's grin turns wider as his gaze fixates onto you again, recognizing that his cum is messily drizzled all over your chest and stomach."
+    ""
+
+translate schinese scene_gnoll_lose_4e134ace:
+
+    # "You can feel the gnoll's tail swishing around, and he looks down at you, with a big, dopey grin on his face."
+    ""
+
+translate schinese scene_gnoll_lose_4dd72734:
+
+    # gnl "Happy... mhmmm?"
+    gnl ""
+
+translate schinese scene_gnoll_lose_575b1720:
+
+    # "He lets out a low groan and collapses on top of you, burying his face in your neck. His warm breath feels good against your skin."
+    ""
+
+translate schinese scene_gnoll_lose_c6c74686:
+
+    # "You reach up and gently stroke his back, and you can feel him shudder at your touch."
+    ""
+
+translate schinese scene_gnoll_lose_e4c40ee6:
+
+    # "The gnoll lets out a happy moan, and his tongue comes out and licks your neck affectionately, gently gnawing his sharp teeth against you."
+    ""
+
+translate schinese scene_gnoll_lose_309c10c9:
+
+    # gnl "You... g-good mate."
+    gnl ""
+
+translate schinese scene_gnoll_lose_5ec0de2d:
+
+    # "Slowly, he moves closer to you, and he rests his head on your chest, closing his eyes shut."
+    ""
+
+translate schinese scene_gnoll_lose_7f33c837:
+
+    # "He repositions himself around for a few times, mostly looking for a position more comfortable with your cock still inside."
+    ""
+
+translate schinese scene_gnoll_lose_f0901664:
+
+    # "You continue stroking the gnoll's back, and you feel a warmth filling your body, one that's calling you for a nap time."
+    ""
+
+translate schinese scene_gnoll_lose_825e913d:
+
+    # e "mmmphm..."
+    e ""
+
+translate schinese scene_gnoll_lose_91cd7e1c:
+
+    # "The gnoll looks cute when he's sleeping, and he's snoring slightly, with his chest rising and falling."
+    ""
+
+translate schinese scene_gnoll_lose_bb003bd8:
+
+    # "You feel your cum slowly leaks out of him as your cock gets softer, but no matter, you smile and wrap your arms around the gnoll, and soon, you drift off to sleep."
+    ""
+
+translate schinese scene_gnoll_lose_2b58abc6:
+
+    # "When you wake up, the gnoll is no where to be found."
+    ""
+
+translate schinese scene_gnoll_lose_e6b89087:
+
+    # "But, the warmth that he has left, still feels as if he's still on top of you, you cock throbs just by that thought."
+    ""
+
+translate schinese scene_gnoll_lose_870e0be6:
+
+    # "You get up, finding yourself alone and naked on the grass plains, you're probably lucky someone else hasn't found you here, trying to do devious things..."
+    ""
+
+translate schinese scene_gnoll_lose_2b387e00:
+
+    # "Nevertheless, you pick up your clothes and equipment, and continue on the journey."
+    ""
+
+translate schinese scene_gnoll_lose_f2f7c743:
+
+    # "Perhaps next time you'll get revenge to him, perhaps one day..."
+    ""
+
+translate schinese scene_gnoll_win_top_1bffedc5:
+
+    # gnl "U-ugh... Gnoll, must..."
+    gnl ""
+
+translate schinese scene_gnoll_win_top_5d61834d:
+
+    # "The gnoll slumps on the ground after his defeat, his usual frenziness has ceased."
+    ""
+
+translate schinese scene_gnoll_win_top_c810fbaf:
+
+    # "He notices your presence and looks up, before lowering his head again in submission."
+    ""
+
+translate schinese scene_gnoll_win_top_d79beacf:
+
+    # gnl "kill!"
+    gnl ""
+
+translate schinese scene_gnoll_win_top_a6356f68:
+
+    # "The gnoll yells with his face down, covered in dirt and grass, his limp cock lies freely in between his legs."
+    ""
+
+translate schinese scene_gnoll_win_top_336d99ec:
+
+    # "You hear his raspy breathing, his heartbeats loud in your ears."
+    ""
+
+translate schinese scene_gnoll_win_top_61fd5fce:
+
+    # "His face is painted red with embarrassment and anger, and his tongue is licking his lips as he gazes at his loincloth."
+    ""
+
+translate schinese scene_gnoll_win_top_7d249602:
+
+    # "You pick up the light blue loincloth, the cloth is a bit sweaty and dirtied, but it has a nice musky smell to it."
+    ""
+
+translate schinese scene_gnoll_win_top_5163e76a:
+
+    # "Incidentally, you smile at the gnoll as you toss the loincloth at his feet."
+    ""
+
+translate schinese scene_gnoll_win_top_2a024b36:
+
+    # gnl "N-no..."
+    gnl ""
+
+translate schinese scene_gnoll_win_top_086f4ad3:
+
+    # "He stares at the cloth with bewilderment, one that makes his orange eyes widen."
+    ""
+
+translate schinese scene_gnoll_win_top_8c11f559:
+
+    # "You walk to the exhausted gnoll, and start to take off your equipment."
+    ""
+
+translate schinese scene_gnoll_win_top_b85c9614:
+
+    # e "Easy there, just wanted to have some fun, you and me."
+    e ""
+
+translate schinese scene_gnoll_win_top_a97a91b4:
+
+    # "Naturally, he averts his gaze upon your physiques, but he just stares at your clothes, which you have dropped to the ground unceremoniously."
+    ""
+
+translate schinese scene_gnoll_win_top_05bf4503:
+
+    # "His face is as red as a beet, the gnoll is about to say something, but he holds back. As if he knows what's about to happen in a moment."
+    ""
+
+translate schinese scene_gnoll_win_top_b997da2b:
+
+    # "Slowly but surely, you approach the defeated gnoll, close enough to feel his hot breath."
+    ""
+
+translate schinese scene_gnoll_win_top_1bbad1cc:
+
+    # "You put your hands around the gnoll's waist, and lay your face against his stomach, rubbing it against the soft fur."
+    ""
+
+translate schinese scene_gnoll_win_top_3c90ea8b:
+
+    # "The gnoll's breath gets more rapid, his face is burning up, and seeing this, you can feel yourself getting more aroused."
+    ""
+
+translate schinese scene_gnoll_win_top_b5a3e303:
+
+    # "Quickly, you put your hands under the gnoll's body, and begin to carry him up."
+    ""
+
+translate schinese scene_gnoll_win_top_a637724c:
+
+    # "He lets out a small yelp, but holds still without struggling, his legs freely dangling in the air."
+    ""
+
+translate schinese scene_gnoll_win_top_999572d6:
+
+    # "As you walk, you feel his cock stir under you, a sense of suspense and confusion is present on his face."
+    ""
+
+translate schinese scene_gnoll_win_top_b33c49a6:
+
+    # "You lay him down on a large rock, and put your hands on his furry legs."
+    ""
+
+translate schinese scene_gnoll_win_top_e7b21af0:
+
+    # "The gnoll groans as you start to rub your groin against him."
+    ""
+
+translate schinese scene_gnoll_win_top_496456d4:
+
+    # "He reaches his hands towards your cock, but you grab them and force them against the rock. You stare at him with an angry glare, and he meekly lowers his arms."
+    ""
+
+translate schinese scene_gnoll_win_top_f37b0260:
+
+    # "You keep on rubbing yourself against the gnoll's stomach, his groin. His soft fur tickles your skin."
+    ""
+
+translate schinese scene_gnoll_win_top_fbcbcff9:
+
+    # "The gnoll lies on his back, watching you. He has a smile on his face, and his tongue is sticking out, just as he does with his sharp teeth."
+    ""
+
+translate schinese scene_gnoll_win_top_313b4433:
+
+    # gnl "Gnoll... must be... down?"
+    gnl ""
+
+translate schinese scene_gnoll_win_top_1e7dfb65:
+
+    # "The gnoll murmurs. You are not sure what he means, but you continue your rubbing motions."
+    ""
+
+translate schinese scene_gnoll_win_top_4ae22003:
+
+    # e "Well, I guess so."
+    e ""
+
+translate schinese scene_gnoll_win_top_278e43ba:
+
+    # "Hearing the short and concise answer, the gnoll finally grins after moments of embarrassment and anger."
+    ""
+
+translate schinese scene_gnoll_win_top_1a6a3370:
+
+    # "You keep rubbing his stomach and his chest, and then start to move lower. You rub the soft fur between the gnoll's legs."
+    ""
+
+translate schinese scene_gnoll_win_top_4c15923a:
+
+    # "He moans loudly. His cock has grown large, its head peeking out of its foreskin."
+    ""
+
+translate schinese scene_gnoll_win_top_851b74aa:
+
+    # "Seeing his flushed face, you rub it more and it grows harder, like a knot of warm furry flesh."
+    ""
+
+translate schinese scene_gnoll_win_top_681c7636:
+
+    # "You brush your crotch against the gnoll's cock, and then start to rub it with your fingers. The gnoll lets out a soft moan. You look down, and his face is covered with a soft red glow."
+    ""
+
+translate schinese scene_gnoll_win_top_1e5acfaf:
+
+    # "The gnoll opens his legs wide, and you press yourself against him."
+    ""
+
+translate schinese scene_gnoll_win_top_1cfcc9a1:
+
+    # "His soft fur tickles the skin of your cock as you leak a few drops of precum onto him."
+    ""
+
+translate schinese scene_gnoll_win_top_0058467f:
+
+    # "You rub the gnoll's crotch, and he puts his hand on top of yours."
+    ""
+
+translate schinese scene_gnoll_win_top_b2daffa2:
+
+    # "His cock is fully exposed now. His foreskin has been lifted all the way back, and it is slippery with your precum."
+    ""
+
+translate schinese scene_gnoll_win_top_3c176242:
+
+    # "You put your other hand under him, and lift his tail up, exposing his butt."
+    ""
+
+translate schinese scene_gnoll_win_top_28fcc870:
+
+    # "Looking at the gnoll's face. He is lying on his back, his legs are wide open, his furry hand is holding your hand, and his tongue is sticking out, his mouth half open, his eyes shut."
+    ""
+
+translate schinese scene_gnoll_win_top_193cd885:
+
+    # "You move your hips faster, and the gnoll's breathing is getting deeper, more intense."
+    ""
+
+translate schinese scene_gnoll_win_top_097c6b12:
+
+    # "You rub your cock against his butt cheek, and he begins to push himself against you."
+    ""
+
+translate schinese scene_gnoll_win_top_81de30d9:
+
+    # "Your paws press onto his cheeks, spreading the gnoll's entrance open, and you let out a soft gasp as you see his dark pink hole."
+    ""
+
+translate schinese scene_gnoll_win_top_4c5e6b84:
+
+    # "Without hesitation, you start to trace your finger around his butt cheeks. The gnoll groans softly, and his tail wags from side to side."
+    ""
+
+translate schinese scene_gnoll_win_top_fec87cc5:
+
+    # "Obviously he is enjoying all of this, and you're somewhat surprised to see his... frenzied snout grinning at your violation."
+    ""
+
+translate schinese scene_gnoll_win_top_bdcae33e:
+
+    # "Not mentioning how he keeps sucking your finger inside of him, shamelessly drooling at your every movement."
+    ""
+
+translate schinese scene_gnoll_win_top_1fa9eb6b:
+
+    # gnl "P-put... in... Gnoll?"
+    gnl ""
+
+translate schinese scene_gnoll_win_top_6b50a9c1:
+
+    # "The gnoll grows impatient, much as you do. He groans loudly as he scratches his head."
+    ""
+
+translate schinese scene_gnoll_win_top_510c5bcd:
+
+    # e "Hey, who just fucked you up right here? Pay some respect to your winner."
+    e ""
+
+translate schinese scene_gnoll_win_top_92c23533:
+
+    # "You lick your fingers, and continue to massage and cover his slick entrance with your saliva."
+    ""
+
+translate schinese scene_gnoll_win_top_c1a79b85:
+
+    # "His butt cheeks are firm and soft, and his hole is small and tight. Your cock is getting hard just by staring at it."
+    ""
+
+translate schinese scene_gnoll_win_top_58025a30:
+
+    # "In a sense of anticipation, you position your cock in front of his hole, smearing your precum onto its wrinkly skin."
+    ""
+
+translate schinese scene_gnoll_win_top_5eca3f2a:
+
+    # "You press the tip against the hole, and hear the gnoll's breath stop. You look at him. He looks back at you. You put your other hand against his chest, and start to push yourself inside further."
+    ""
+
+translate schinese scene_gnoll_win_top_de3f786f:
+
+    # gnl "Ha-ahhh!"
+    gnl ""
+
+translate schinese scene_gnoll_win_top_6bdcc750:
+
+    # "The tip slides inside, and you begin to thrust slowly. The gnoll moans. His breathing is heavy and fast."
+    ""
+
+translate schinese scene_gnoll_win_top_693b5896:
+
+    # "His fingers dig into the rock, and his other hand holds onto yours tight. The rock is smooth and slippery with sweat, but you continue to move your hips slowly, trying to get the whole length inside."
+    ""
+
+translate schinese scene_gnoll_win_top_350e7a40:
+
+    # "The gnoll is biting his lower lip under his sharp teeth, and he lets out a loud moan as you slide inside him to the hilt."
+    ""
+
+translate schinese scene_gnoll_win_top_4010e41e:
+
+    # "You hold yourself inside the gnoll, enjoying the feeling of his tight warmth, and you look at his face. His mouth is half open, and his tongue is hanging out."
+    ""
+
+translate schinese scene_gnoll_win_top_4404b7fc:
+
+    # "You can see him struggling to catch his breath. You pull out slowly, and then slide back in, and he lets out a loud moan."
+    ""
+
+translate schinese scene_gnoll_win_top_ea5a7d79:
+
+    # "Slowly, you move your hips once more. The gnoll starts to move his hips along with you, and the both of you move in a rhythmic motion."
+    ""
+
+translate schinese scene_gnoll_win_top_6daa2bce:
+
+    # "His eyes roll back as he arches his back, holding his leg for balance. You increase the speed, and the gnoll moans with each thrust. The sensation is incredible for the both of you."
+    ""
+
+translate schinese scene_gnoll_win_top_ffb825b8:
+
+    # "You push yourself inside the gnoll until you are sure you have reached his deepest parts, your cock is completely enveloped by his stretchy entrance."
+    ""
+
+translate schinese scene_gnoll_win_top_67213318:
+
+    # "Your body is on fire, and sweat is dripping down your chest. You moan softly, and lean forward, putting your hand on top of his."
+    ""
+
+translate schinese scene_gnoll_win_top_4a4c4b03:
+
+    # "His hand is soft and warm, his fur is smooth. You lean on top of him, and move your hips faster."
+    ""
+
+translate schinese scene_gnoll_win_top_475fae08:
+
+    # "The gnoll holds your hips with his other hand, and pushes back against you, moving his hips to meet your thrusts."
+    ""
+
+translate schinese scene_gnoll_win_top_751638b7:
+
+    # "He begins to rock his hips along with you, and you match his movements. The gnoll's body starts to shake."
+    ""
+
+translate schinese scene_gnoll_win_top_700eee89:
+
+    # "Your legs are weak, but you hold onto the rock and thrust harder and faster. Your groin smacks against the gnoll's ass, and he lets out a loud moan. You press yourself against the gnoll, and stay still."
+    ""
+
+translate schinese scene_gnoll_win_top_fe3d92a3:
+
+    # "The sensation is overwhelming. You hold yourself inside him and stare at his face. The gnoll looks up at you with half closed eyes, and you see a small tear of joy run down his cheek. Visibly he is enjoying every second of being filled by your warm member."
+    ""
+
+translate schinese scene_gnoll_win_top_364043e4:
+
+    # "His lips are parted, and he is looking at you with lust. You smile and begin to move your hips again, slowly, savoring the sensation of being inside the gnoll. The gnoll moans softly."
+    ""
+
+translate schinese scene_gnoll_win_top_cc8c068c:
+
+    # "You pick up the pace again, and thrust harder, smacking your groins against each other. You want to make it last as long as you can."
+    ""
+
+translate schinese scene_gnoll_win_top_3d3e958d:
+
+    # "The gnoll moves his hips in time with yours. His tongue is sticking out, and his breathing is fast. His arms are shaking. You press yourself against the gnoll, and move your hips slowly. You look at his face, and he looks back at you, smiling."
+    ""
+
+translate schinese scene_gnoll_win_top_7f20ffdd:
+
+    # e "Aren't you scared of getting found out you like to take it in the butt, you little slut."
+    e ""
+
+translate schinese scene_gnoll_win_top_2bccba0e:
+
+    # "You tease the gnoll as you thrust into him once more with all the might you have, and he seems mildly annoyed at your comment."
+    ""
+
+translate schinese scene_gnoll_win_top_9cc5bf46:
+
+    # gnl "N-no, no! Gnoll... not s-same."
+    gnl ""
+
+translate schinese scene_gnoll_win_top_333d874c:
+
+    # gnl "Gnoll... only do- what you pleased."
+    gnl ""
+
+translate schinese scene_gnoll_win_top_d79023f4:
+
+    # "You stare at him as he briefly turn his face of pure lust and desire, into an awkward stare, as he furrows his brows."
+    ""
+
+translate schinese scene_gnoll_win_top_47897768:
+
+    # gnl "M-mate no- AAAA-argh!"
+    gnl ""
+
+translate schinese scene_gnoll_win_top_62b4b036:
+
+    # "Just as he was pondering your words, you suddenly ram your hips inside of him as deep as you can. Causing him to scream out loud."
+    ""
+
+translate schinese scene_gnoll_win_top_68f55a0f:
+
+    # "You chuckle loudly just as his face returned to the previous state as his eyes roll backwards, totally forgetting whatever you were talking about."
+    ""
+
+translate schinese scene_gnoll_win_top_bd17dc53:
+
+    # "You see the soft red glow on his cheeks, his white teeth shining through the black fur of his mouth. You move your hips faster, and the gnoll moans loudly."
+    ""
+
+translate schinese scene_gnoll_win_top_a937ec92:
+
+    # "He does not resist you, he is completely absorbed in pleasure, moving his body to meet your thrusts, his mouth half open, his eyes closed. You move your hips slowly, enjoying every thrust."
+    ""
+
+translate schinese scene_gnoll_win_top_d0e3c7e7:
+
+    # "The gnoll's hands are trembling. His tail is raised high, and wags from side to side with each time you enter him. You smile as you stare at the gnoll's cock. It is fully exposed, its skin wrinkly."
+    ""
+
+translate schinese scene_gnoll_win_top_06a09a5b:
+
+    # "It is thick, and its shaft is curved a little. Precum drips down its tip and slowly runs along the shaft onto his stomach. You can see it pulsate as you thrust."
+    ""
+
+translate schinese scene_gnoll_win_top_461613a3:
+
+    # "You move faster and faster, your hips smacking against the gnoll's ass."
+    ""
+
+translate schinese scene_gnoll_win_top_8cffa03e:
+
+    # "The rock is slippery, and you are sweating, but the gnoll's warm fur keeps you calm."
+    ""
+
+translate schinese scene_gnoll_win_top_623cca90:
+
+    # "His groans are getting louder and more frequent. It almost seems like it's getting closer and closer."
+    ""
+
+translate schinese scene_gnoll_win_top_d858fee5:
+
+    # "You can feel his hole tighten around your cock, squeezing it with his lust, and he pushes back hard against you, moaning loudly as he cums."
+    ""
+
+translate schinese scene_gnoll_win_top_0ce23fe3:
+
+    # e "A-ahh..."
+    e ""
+
+translate schinese scene_gnoll_win_top_8a8e5d95:
+
+    # "You feel a warm liquid splash on your stomach and chest. The gnoll is moaning loudly. His body is trembling. His cock is pulsating as he cums. You continue to thrust despite his plead."
+    ""
+
+translate schinese scene_gnoll_win_top_9d593d78:
+
+    # "The gnoll moans, his tongue hanging out of his mouth, his body shuddering."
+    ""
+
+translate schinese scene_gnoll_win_top_b6357eca:
+
+    # "His moans are loud, and his hands are shaking profusely. The rock is slippery with sweat, but you hold onto it, thrusting as hard as you can, moving faster and faster. You feel like you are going to explode soon after."
+    ""
+
+translate schinese scene_gnoll_win_top_7ccec075:
+
+    # "You hold onto the gnoll tightly, and thrust your cock inside him, moving faster, pushing harder. You feel like your heart is going to burst. Your cock twitches inside the gnoll, and then it throbs."
+    ""
+
+translate schinese scene_gnoll_win_top_3f6bd38e:
+
+    # "You thrust as deep as you can inside the gnoll, and then hold yourself there. Your cock starts to twitch inside the gnoll. You move your hips, thrusting slowly, enjoying the feeling."
+    ""
+
+translate schinese scene_gnoll_win_top_4f5cfcf3:
+
+    # "The sensation is incredible. You feel a wave of pleasure surge through your body. Your cock twitches inside the gnoll again and again, and then you feel something warm leaking out of his ass."
+    ""
+
+translate schinese scene_gnoll_win_top_c1666e59:
+
+    # "The gnoll moans loudly. You can feel him quiver inside as your cock spasms inside him."
+    ""
+
+translate schinese scene_gnoll_win_top_757d1af4:
+
+    # "You move slowly, thrusting as you empty your seed inside him, savoring every second."
+    ""
+
+translate schinese scene_gnoll_win_top_fc014a53:
+
+    # "Your cum fills the gnoll's hole. Your body feels weak, but you thrust a few more times, your cock pulsating. You hold the gnoll tight, trying not to let him move an inch."
+    ""
+
+translate schinese scene_gnoll_win_top_5613c9f6:
+
+    # "The gnoll moans softly, holding your hand tightly. He arches his back, his arms are shaking."
+    ""
+
+translate schinese scene_gnoll_win_top_f527de7f:
+
+    # "The rock is wet with his semen. You pull out slowly, and sit down on the rock, exhausted."
+    ""
+
+translate schinese scene_gnoll_win_top_973b6a7c:
+
+    # "You sit up slowly and look at the gnoll, who is lying on his back, his eyes closed, a soft smile on his face. His cock is still exposed, with trails of cum dribbling messily on his stomach."
+    ""
+
+translate schinese scene_gnoll_win_top_947a48a5:
+
+    # "You pick up his loincloth, which you have tossed on the grass, and wipe the mess from his cock. He opens his eyes slowly, and watches you with a soft gaze."
+    ""
+
+translate schinese scene_gnoll_win_top_41a20df3:
+
+    # "You lay there for a few moments along with the gnoll, enjoying the pleasure, the warmth of the sun."
+    ""
+
+translate schinese scene_gnoll_win_top_955041a9:
+
+    # gnl "Gnoll did... g-good?"
+    gnl ""
+
+translate schinese scene_gnoll_win_top_0e730682:
+
+    # "You nod, there's really no complain although you'd like him to be less... vocal about it. The gnoll closes his eyes with satisfaction, before you follow suit soon after."
+    ""
+
+translate schinese scene_gnoll_win_top_b02e20b0:
+
+    # "You wake up from the short nap soon after. He's still passed out on the rock."
+    ""
+
+translate schinese scene_gnoll_win_top_c9df201d:
+
+    # "Packing all your clothes and equipment, you set off for your next destination, letting the gnoll take his rest."
     ""
 

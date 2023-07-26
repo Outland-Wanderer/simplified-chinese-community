@@ -1793,9 +1793,9 @@ translate schinese werewolf_tetto_battle_loop_679dfc1a:
     # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at the werewolf seductively."
     ""
 
-translate schinese werewolf_tetto_battle_loop_2f6606e7:
+translate schinese werewolf_tetto_battle_loop_ca0f53ec:
 
-    # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the werewolf while your bounce up and down slightly."
+    # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the werewolf while your chest bounce up and down slightly."
     ""
 
 translate schinese werewolf_tetto_battle_loop_31e76fe0:
