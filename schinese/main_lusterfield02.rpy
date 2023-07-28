@@ -969,342 +969,342 @@ translate schinese strings:
 # translate schinese Cane_Private_Show_Quest_Accept_02bce3f8:
 
 #     # e "Cane, I think I'll accept doing the private shows."
-    e "凯恩，我决定接受私人演出的工作了。"
+#     e ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_00a4418a:
 
 #     # c "Heh, guess I was right about ya."
-    c "呵，跟俺想嘞一样。"
+#     c ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_dcabf27e:
 
 #     # "Cane nonchalantly smacks you on the ass, eliciting a surprised yelp out of you."
-    "凯恩淡定地拍了下你的屁股，激的你发出一声惊叫。"
+#     ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_120e7b68:
 
 #     # c "Very nice, kid. Know that yer gonna make them very happy."
-    c "中吧，小孩儿。你肯定能给他们弄嘞可得劲儿。"
+#     c ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_86ba5b94:
 
 #     # "Your face reddens."
-    "你的脸一下子红了。"
+#     ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_b35433e6:
 
 #     # e "So... When do I start?"
-    e "那么……我什么时候开始做呢？"
+#     e ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_c4665027:
 
 #     # "Cane chuckles."
-    "凯恩笑了。"
+#     ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_6ac00643:
 
 #     # c "Not so fast, me sexy lad. We'll do them in the backroom."
-    c "没恁快，小帅哥。俺到时候得让他们进密室里面。"
+#     c ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_69251512:
 
 #     # c "Cause, ya know.. We don't wanna make a mess in the guest rooms. That be bad business."
-    c "因为，你也知道。俺不想给客房弄得又脏又乱。这样的交易可不咋着。"
+#     c ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_0e754dac:
 
 #     # c "I've cleared out a space for ya, but we need to spruce it up some. Ya know, make it look all prettylike to match ye."
-    c "俺已经给你捯饬出个地方了，但得拾掇得利亮点儿。反正就是得弄嘞像那回事儿。"
+#     c ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_c39a4666:
 
 #     # c "Ye'll also need somethin' more suitable to wear for the job…"
-    c "还得给你买点儿合适工作的衣服……"
+#     c ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_9c44ef3e:
 
 #     # c "Ye often won' be wearin' any, but ye know how it be, some patrons like the tease."
-    c "一般你得是光肚的，但你也着，说不定有嘞顾客会喜欢调个情。"
+#     c ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_0e707758:
 
 #     # e "That... sounds like a lot."
-    e "这……听起来内容还不少。"
+#     e ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_2245d267:
 
 #     # c "Already done most o' the work. Only need ye to help with the finishin' touches."
-    c "差不多全给你弄好了。你就需要收个尾就中。"
+#     c ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_ccd6eb5a:
 
 #     # "Cane hands you a list. It's the recipe for pillows."
-    "凯恩交给你一个单子，那是枕头的制作清单。"
+#     ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_7633e33a:
 
 #     # c "'Ve moved some chairs into the room, but they're a bit nekkid. Believe me, ya don't want to have splinters in certain places."
-    c "给屋里弄了几把板凳，但有点儿寒碜。俺肯定你也不想某个地儿被木刺儿扎住吧。"
+#     c ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_60eff8d3:
 
 #     # "Cane winks at you. Seems like he's had experience, or past mistakes with this before."
-    "凯恩朝你眨了眨眼睛。看起来他有过这种经验，或者是曾经因此翻车过。"
+#     ""
 
 # translate schinese Cane_Private_Show_Quest_Accept_61b6436f:
 
 #     # c "So get'em done and we'll proceed."
-    c "中，你弄好了咱就开张。"
+#     c ""
 
 # translate schinese Cane_Private_Show_Quest_Finish_a1e89c3b:
 
 #     # e "Cane! I've got the... pillows."
-    e "凯恩！我做好……枕头了。"
+#     e ""
 
 # translate schinese Cane_Private_Show_Quest_Finish_7f16c15a:
 
 #     # c "Ah...lemme see."
-    c "啊……让俺瞅瞅。"
+#     c ""
 
 # translate schinese Cane_Private_Show_Quest_Finish_9fb93d3f:
 
 #     # c "Well done with the preparations, lad."
-    c "做嘞不赖啊，小孩儿。"
+#     c ""
 
 # translate schinese Cane_Private_Show_Quest_Finish_949bbae2:
 
 #     # c "Everything is set up and ready."
-    c "这样一来啥都准备好了。"
+#     c ""
 
 # translate schinese Cane_Private_Show_Quest_Finish_285d392e:
 
 #     # c "In the future, just come to me and I'll inform you if there's any patron that needs attending in the backroom."
-    c "你之后直接找我说，如果有顾客给密室里需要服务的话，俺就告诉你。"
+#     c ""
 
 # translate schinese Cane_Private_Show_03cf1996:
 
 #     # "Cane ruffles your hair, and smacks your ass, ushering you to the back of the tavern."
-    "凯恩猛地把你头发抓了一把，然后拍拍你的屁股，催促你去到酒馆的后面。"
+#     ""
 
 # translate schinese Cane_Private_Show_506cc63f:
 
 #     # c "Hey, kid. Here's the payment for the job."
-    c "嘿，小孩儿。这是你工作的报酬。"
+#     c ""
 
 # translate schinese Cane_Private_Show_a84dcabc:
 
 #     # "You take the money."
-    "你接过钱。"
+#     ""
 
 # translate schinese Cane_Private_Show_68789800:
 
 #     # c "Must'a put in quite a bit of work, eh?"
-    c "工作嘞挺努力的吧，嗯？"
+#     c ""
 
 # translate schinese Cane_Private_Show_1c878877:
 
 #     # "Cane gives you a wink and a smack on the ass."
-    "凯恩对你抛了个媚眼而，然后拍了下你的屁股。"
+#     ""
 
 # translate schinese Cane_Private_Show_3b1a7504:
 
 #     # e "Eep!"
-    e "咿呀！"
+#     e ""
 
 # translate schinese Cane_Private_Show_0a33bf2f:
 
 #     # c "I could 'ear the voices from 'ere"
-    c "俺搁这儿都听得到。"
+#     c ""
 
 # translate schinese Cane_Private_Show_6c039a14:
 
 #     # "You're embarrassed to death, but you can't let Cane get away with this much teasing without trying to get some in return."
-    "你尴尬得要死，但也不能让凯恩这么调戏你后不反击一下就走。"
+#     ""
 
 # translate schinese Cane_Private_Show_f8bda3c4:
 
 #     # e "Maybe I wanted you to hear."
-    e "说不定是我想让你听到呢。"
+#     e ""
 
 # translate schinese Cane_Private_Show_e23948d0:
 
 #     # c "Well if ya did, ya did a good job of it."
-    c "要真是这，那你做嘞还挺好。"
+#     c ""
 
 # translate schinese Cane_Private_Show_23743068:
 
 #     # c "Me an' 'alf the tavern heard yous goin' at it."
-    c "俺大半个酒馆都听到你的全力以赴了。"
+#     c ""
 
 # translate schinese Cane_Private_Show_18c66091:
 
 #     # c "Sounded like ye did a good job, 'specially if the patron's faces were anything to go by"
-    c "听起来你做嘞不错，尤其是看到路过的客人的脸后。"
+#     c ""
 
 # translate schinese Cane_Private_Show_806fee95:
 
 #     # "Cane lets out a hearty laugh, before lowering his voice a bit."
-    "凯恩爽朗地笑笑，然后降低了些声音。"
+#     ""
 
 # translate schinese Cane_Private_Show_643867fa:
 
 #     # c "Can't say I blame 'em with a lad like you."
-    c "跟你这娃儿一块的话，俺也能理解他们了。"
+#     c ""
 
 # translate schinese Cane_Private_Show_579cd8c3:
 
 #     # "Having looked down from how flustered you were, you notice a particular protrusion and wet spot on Cane's pants."
-    "你含羞地低下了头，却注意到了凯恩裤子中有个特定位置的凸起与一个潮湿的圆点。"
+#     ""
 
 # translate schinese Cane_Private_Show_3cd8d1f1:
 
 #     # e "Looks like they weren't the only ones that enjoyed the show. Bet you were thinking about getting in there sometime too."
-    e "看样子，他们也不是唯一享受这场表演的人。你绝对也在想着找个时间一起参与进来。"
+#     e ""
 
 # translate schinese Cane_Private_Show_09bc1806:
 
 #     # c "Hah! Don' get ahead o' yourself lad. Ye'll need more than that to woo this old bat."
-    c "哈！别恁自信了，小哥儿。你还不够让俺这老蝙蝠服气。"
+#     c ""
 
 # translate schinese Cane_Private_Show_28bae33c:
 
 #     # c "Ye keep this up, and soon enough the backrooms'll be more popular than the front of the tavern!"
-    c "你好好干，没准儿再过几天密室的生意该比前台还好了。"
+#     c ""
 
 # translate schinese Cane_Private_Show_eaf1f12d:
 
 #     # "You blush."
-    "你脸红了。"
+#     ""
 
 # translate schinese Cane_Private_Show_0901abbc:
 
 #     # e "I... I only did what felt natural."
-    e "我……我只是顺其自然地去做了。"
+#     e ""
 
 # translate schinese Cane_Private_Show_d22d7266:
 
 #     # c "Chin up, lad, ye did a great job, just like I knew ye would."
-    c "么事儿，孩子。你做嘞不错，跟俺认为的差不多。"
+#     c ""
 
 # translate schinese Cane_Private_Show_898c37db:
 
 #     # c "Did ye make sure to clean everythin'?"
-    c "你把屋子拾掇干净了吧？"
+#     c ""
 
 # translate schinese Cane_Private_Show_9a941dbf:
 
 #     # e "I did."
-    e "嗯。"
+#     e ""
 
 # translate schinese Cane_Private_Show_631f560d:
 
 #     # "Cane once again ruffles the fur between your horns."
-    "凯恩再次揉了揉你双角之中的毛发。"
+#     ""
 
 # translate schinese Cane_Private_Show_8b6c73e7:
 
 #     # c "Good lad."
-    c "乖。"
+#     c ""
 
 # translate schinese Cane_Private_Show_c8708ab7:
 
 #     # "His voice is unusually warm when he says this, his husky voice tinged in a way you never heard before."
-    "他的语气是异于平常的温暖，是你从未于他浓厚的口音上发觉过的质感。"
+#     ""
 
 # translate schinese Cane_Private_Show_4abba32f:
 
 #     # c "Things keep goin' this way, we might need ta add some new features to the tavern soon, to highlight our star lad, ye know."
-    c "你好好弄，也许俺以后得给酒馆加点儿新特色，给咱盘靓条顺的小帅哥铺铺排面。"
+#     c ""
 
 # translate schinese Cane_Private_Show_42241238:
 
 #     # "Your body heats, and your face flushes red with equal parts excitement and embarrassment from the potential inherent to that sentence."
-    "你的身体燥热起来，这句话的弦外之意让你脸发红了，既是尴尬也是兴奋。"
+#     ""
 
 # translate schinese Cane_Private_Show_f65290eb:
 
 #     # e "You got it, boss."
-    e "没问题，老板。"
+#     e ""
 
 # translate schinese Cane_Private_Show_3f6aac37:
 
 #     # c "Jus' call me Cane, lad. Ye deserve at least that."
-    c "叫俺凯恩就中，孩子。你至少跟俺不用镇客气。"
+#     c ""
 
 # translate schinese Cane_Private_Show_e05d7a03:
 
 #     # "Cane greets you with a ruffle of the head when you leave the backroom."
-    "你刚从密室中出来，凯恩直接上手摸了摸你的脑袋。"
+#     ""
 
 # translate schinese Cane_Private_Show_1fe01610:
 
 #     # c "Ye did a great job, my lad."
-    c "你干得真不错啊，孩子。"
+#     c ""
 
 # translate schinese Cane_Private_Show_8bdd27fa:
 
 #     # e "Well... I can't say it's not fun."
-    e "嗯……我也不能说这工作是没意思的。"
+#     e ""
 
 # translate schinese Cane_Private_Show_c6cf328d:
 
 #     # "Cane lets out a gruff laugh."
-    "凯恩发出了一声粗哑的笑声。"
+#     ""
 
 # translate schinese Cane_Private_Show_81412631:
 
 #     # c "'S easy to tell, ye keep comin' back for more."
-    c "很明显了，你最近不一直往后屋来。"
+#     c ""
 
 # translate schinese Cane_Private_Show_784b1f25:
 
 #     # c "Well, I won't stop ye, 's good business."
-    c "不过俺也不会说啥，这挺赚的。"
+#     c ""
 
 # translate schinese Cane_Private_Show_af7bfca1:
 
 #     # e "I have a feeling you get a bit more than money out of this..."
-    e "俺晓得你干着也不是只为了钱呐……"
+#     e ""
 
 # translate schinese Cane_Private_Show_b6c34351:
 
 #     # c "Won' deny that. 'S nice to see ya like this, lad."
-    c "俺说实话，看到你这小伙着样可美。"
+#     c ""
 
 # translate schinese Cane_Private_Show_41431b1b:
 
 #     # "Cane flicks his eyes down to the tent pitched in his pants, where the thick outline of his cockhead is clearly visible. He leans in to whisper, warm breath tickling your ear."
-    "凯恩朝着他裤子支起的帐篷使了个眼色，他龟头的粗大轮廓已经清晰可见了。他贴近你的耳朵，呼出的热气让你耳朵一阵痒痒。"
+#     ""
 
 # translate schinese Cane_Private_Show_b334ef30:
 
 #     # c "I know fer sure the guy down don't mind. 'F it were up to him, yed be comin' with me to the backroom to give me some o' that special service o' yours."
-    c "俺下面嘞那活儿肯定不介意。要是听它嘞，那你肯定得跟俺去密室为它提供点儿特殊服务了。"
+#     c ""
 
 # translate schinese Cane_Private_Show_e6c24586:
 
 #     # e "I... wouldn't mind doing that at all."
-    e "我……也根本不会介意这种事儿啦。"
+#     e ""
 
 # translate schinese Cane_Private_Show_4bda3ab2:
 
 #     # "You hear Cane tut, chastising your desire to rush, leaning away again to stop whispering."
-    "你听到凯恩咂咂嘴，以对你的急不可耐表示嫌弃，然后拉开身子，结束了悄悄话。"
+#     ""
 
 # translate schinese Cane_Private_Show_f94ef217:
 
 #     # c "Enough talkin' 'bout this now. 'Ve gotta get back to servin' these layabouts."
-    c "行了行了，俺得回去伺候那帮鳖孙了。"
+#     c ""
 
 # translate schinese Cane_Private_Show_ee71b727:
 
 #     # "Cane gives you a firm smack on the ass, and a devilish smile."
-    "凯恩用力地捏了下你的屁股，朝你邪恶一笑。"
+#     ""
 
 # translate schinese Cane_Private_Show_3f06c7ad:
 
 #     # c "Lookin' forward to yer next visit to the backroom."
-    c "期待你下次光临密室那地儿哈。"
+#     c ""
 
 translate schinese Cane_Ask_Lusterfield_325e8898:
 
@@ -3057,285 +3057,285 @@ translate schinese strings:
     old "No{#caneserverjob}"
     new "拒绝"
 
-# translate schinese Cane_Outfit_02_c237210e:
+translate schinese Cane_Outfit_02_c237210e:
 
-#     # "As you enters the tavern, you immediately draw the attention of everyone present."
-#     ""
+    # "As you enters the tavern, you immediately draw the attention of everyone present."
+    "你从进门开始便吸引了在场所有人的目光。"
 
-# translate schinese Cane_Outfit_02_24a1b6eb:
+translate schinese Cane_Outfit_02_24a1b6eb:
 
-#     # "You feel hot even though you were used to serving this crowd with the trusty apron and sometimes even less than that... Perhaps its the effect of the new outfit."
-#     ""
+    # "You feel hot even though you were used to serving this crowd with the trusty apron and sometimes even less than that... Perhaps its the effect of the new outfit."
+    "虽然你已经习惯穿那条侧漏的围裙招待这些顾客，甚至有时还漏得更多。但你现在却像第一次上岗时那样心跳加速……可能这正是这条皮套裤的“魔力”。"
 
-# translate schinese Cane_Outfit_02_49c6b942:
+translate schinese Cane_Outfit_02_49c6b942:
 
-#     # "You quickly slinks over to the counter where Cane stands waiting. He observes you with a glint in his eyes."
-#     ""
+    # "You quickly slinks over to the counter where Cane stands waiting. He observes you with a glint in his eyes."
+    "你避开人群飞快走向凯恩所侯的吧台。他正两眼放光紧盯着你，就等你主动送上他跟前。"
 
-# translate schinese Cane_Outfit_02_8798ac62:
+translate schinese Cane_Outfit_02_8798ac62:
 
-#     # c "Ahem... Nice new outfit. I don't know where yau get the idea, but I'll have to consider paying ya extra if ya keep coming up with ideas and drawing in my customers like this."
-#     c ""
+    # c "Ahem... Nice new outfit. I don't know where yau get the idea, but I'll have to consider paying ya extra if ya keep coming up with ideas and drawing in my customers like this."
+    c "嚯……小娃娃通时尚嘞。哪来的鬼主意，要不我加你工钱多帮我想几个揽客的点子啊。"
 
-# translate schinese Cane_Outfit_02_ec6b2001:
+translate schinese Cane_Outfit_02_ec6b2001:
 
-#     # e "This is not my idea. Rahim made this outfit and he wanted to get your feedback on it."
-#     e ""
+    # e "This is not my idea. Rahim made this outfit and he wanted to get your feedback on it."
+    e "不是我的主意，是雷叔请我继续当他新作品的模特，他还让我特地来问问你的意见。"
 
-# translate schinese Cane_Outfit_02_4e87df44:
+translate schinese Cane_Outfit_02_4e87df44:
 
-#     # c "Rahim made this? For the tavern?"
-#     c ""
+    # c "Rahim made this? For the tavern?"
+    c "雷希姆做的？还专门给酒馆定做？"
 
-# translate schinese Cane_Outfit_02_3502150c:
+translate schinese Cane_Outfit_02_3502150c:
 
-#     # "You can see Cane's normal smile waver slightly."
-#     ""
+    # "You can see Cane's normal smile waver slightly."
+    "酒馆老板平日待客的标准笑脸此时有些抽搐。"
 
-# translate schinese Cane_Outfit_02_0cd853e9:
+translate schinese Cane_Outfit_02_0cd853e9:
 
-#     # "You are about to explain the situation and defend Rahim when Cane continues."
-#     ""
+    # "You are about to explain the situation and defend Rahim when Cane continues."
+    "你刚要开口为雷希姆解释，他继续说了下去。"
 
-# translate schinese Cane_Outfit_02_fa492f64:
+translate schinese Cane_Outfit_02_fa492f64:
 
-#     # c "Eh, now that yer here. Come and let me take a look."
-#     c ""
+    # c "Eh, now that yer here. Come and let me take a look."
+    c "呃，来都来了，凑近点让我看仔细些。我又不会踢你个小浪蛋出店门。"
 
-# translate schinese Cane_Outfit_02_692c2aef:
+translate schinese Cane_Outfit_02_692c2aef:
 
-#     # c "It's not like I can chase yer sleazy little ass out."
-#     c ""
+    # c "It's not like I can chase yer sleazy little ass out."
+    pass
 
-# translate schinese Cane_Outfit_02_39f59339:
+translate schinese Cane_Outfit_02_39f59339:
 
-#     # "You shuffles over to Cane. Cane suddenly pats your butt that is exposed through the chaps."
-#     ""
+    # "You shuffles over to Cane. Cane suddenly pats your butt that is exposed through the chaps."
+    "你迟疑地绕到柜台后面。凯恩却突然瞄准你露出来的屁股拍了下去，令你发出一声惊叫。"
 
-# translate schinese Cane_Outfit_02_4d24d623:
+translate schinese Cane_Outfit_02_4d24d623:
 
-#     # "You yelp."
-#     ""
+    # "You yelp."
+    pass
 
-# translate schinese Cane_Outfit_02_a226137d:
+translate schinese Cane_Outfit_02_a226137d:
 
-#     # c "Heh, that bull has done a good job of capturing the shape of the buns. The cutting cups and highlights everything."
-#     c ""
+    # c "Heh, that bull has done a good job of capturing the shape of the buns. The cutting cups and highlights everything."
+    c "哼，还是老裁缝懂咋个叫前凸后翘，拿块布剪剪就显出来了。"
 
-# translate schinese Cane_Outfit_02_375234e0:
+translate schinese Cane_Outfit_02_375234e0:
 
-#     # "Cane proceeds to pat down the insides of your thighs."
-#     ""
+    # "Cane proceeds to pat down the insides of your thighs."
+    "凯恩又接着将手伸进裤子里面扯了扯。"
 
-# translate schinese Cane_Outfit_02_95143db0:
+translate schinese Cane_Outfit_02_95143db0:
 
-#     # c "The fabric is tough and can stand a washing. A good quality when ya work around drunk patrons."
-#     c ""
+    # c "The fabric is tough and can stand a washing. A good quality when ya work around drunk patrons."
+    c "嗯，用料结实耐得住搓洗，有喝醉酒的顾客吐身上也不怕。"
 
-# translate schinese Cane_Outfit_02_78e408d3:
+translate schinese Cane_Outfit_02_78e408d3:
 
-#     # c "It also sticks close to yer muscles."
-#     c ""
+    # c "It also sticks close to yer muscles."
+    c "还很贴合你一身腱子肉。"
 
-# translate schinese Cane_Outfit_02_dea701bd:
+translate schinese Cane_Outfit_02_dea701bd:
 
-#     # "As Cane pulls his hands away, his fingers hooks the buttons that held your shorts inside the chaps togethers."
-#     ""
+    # "As Cane pulls his hands away, his fingers hooks the buttons that held your shorts inside the chaps togethers."
+    "他抽出双手，却留下两根手指勾住你身前的皮带扣。"
 
-# translate schinese Cane_Outfit_02_e3fee1d1:
+translate schinese Cane_Outfit_02_e3fee1d1:
 
-#     # "You feel a jolt of electricity."
-#     ""
+    # "You feel a jolt of electricity."
+    "你下体一紧，如同触电一般。"
 
-# translate schinese Cane_Outfit_02_b68593a9:
+translate schinese Cane_Outfit_02_b68593a9:
 
-#     # c "Maybe you should consider coming to work just in the chaps and without the shorts. I'm sure many customers will like that."
-#     c ""
+    # c "Maybe you should consider coming to work just in the chaps and without the shorts. I'm sure many customers will like that."
+    c "考虑考虑下回不穿内裤打工？我相信顾客们会爱死你嘞。"
 
-# translate schinese Cane_Outfit_02_38083b75:
+translate schinese Cane_Outfit_02_38083b75:
 
-#     # "You blush just thinking about it. The cutouts on the chaps allow your digit to hang freely should you want to go commando."
-#     ""
+    # "You blush just thinking about it. The cutouts on the chaps allow your digit to hang freely should you want to go commando."
+    "没有内裤约束，让鸡巴自由搭在两腿间的扣带上任人观赏。你光是想想就感觉脑袋发热。"
 
-# translate schinese Cane_Outfit_02_f969354f:
+translate schinese Cane_Outfit_02_f969354f:
 
-#     # "Cane notices your discomfort and chuckles."
-#     ""
+    # "Cane notices your discomfort and chuckles."
+    "凯恩察觉到你难为情的样子，笑了笑接着说。"
 
-# translate schinese Cane_Outfit_02_5c32895f:
+translate schinese Cane_Outfit_02_5c32895f:
 
-#     # c "The bandana is a nice touch. It'll be handy to clean up spilled drink and other... liquids."
-#     c ""
+    # c "The bandana is a nice touch. It'll be handy to clean up spilled drink and other... liquids."
+    c "手臂上绑个方巾很不错，方便随时清理撒出来的酒或者……其他液体。"
 
-# translate schinese Cane_Outfit_02_2a0a0ae6:
+translate schinese Cane_Outfit_02_2a0a0ae6:
 
-#     # c "I'd say this outfit is a homerun. If ya still have any doubt, look around."
-#     c ""
+    # c "I'd say this outfit is a homerun. If ya still have any doubt, look around."
+    c "就这件嘞，完美。不信看看你身后这群老色鬼。"
 
-# translate schinese Cane_Outfit_02_0a2c8122:
+translate schinese Cane_Outfit_02_0a2c8122:
 
-#     # "You did and saw the whole tavern looking at you hungrily."
-#     ""
+    # "You did and saw the whole tavern looking at you hungrily."
+    "确实，余光看去整间酒馆的人都在饥渴地盯着你。"
 
-# translate schinese Cane_Outfit_02_24cbafd3:
+translate schinese Cane_Outfit_02_24cbafd3:
 
-#     # "Part of you want to hide but another part of you want to surrender to that desire."
-#     ""
+    # "Part of you want to hide but another part of you want to surrender to that desire."
+    "裤裆前头逐渐绷紧，你既害羞得想赶快躲起来，又兴奋得想屈服于那表现欲。"
 
-# translate schinese Cane_Outfit_02_67aa781d:
+translate schinese Cane_Outfit_02_67aa781d:
 
-#     # "You feel the front of your pants stretching. This is a problem because opening of the chaps mean that your boner can be seen clearly."
-#     ""
+    # "You feel the front of your pants stretching. This is a problem because opening of the chaps mean that your boner can be seen clearly."
+    "要知道，穿着这条开裆裤所有人都看见你的勃起，但公开暴露的羞耻感和被发现的刺激感似乎只会令你更加兴奋。"
 
-# translate schinese Cane_Outfit_02_25d3faf7:
+translate schinese Cane_Outfit_02_25d3faf7:
 
-#     # "The shame and thrill of being discovered seem to excite you even more."
-#     ""
+    # "The shame and thrill of being discovered seem to excite you even more."
+    pass
 
-# translate schinese Cane_Outfit_02_84a9047f:
+translate schinese Cane_Outfit_02_84a9047f:
 
-#     # "At that moment, you feel a pinch on your butt. The pain slightly silences the lust."
-#     ""
+    # "At that moment, you feel a pinch on your butt. The pain slightly silences the lust."
+    "忽然屁股传来一阵被掐的刺痛，让你满是色欲的大脑稍微清醒了少许。"
 
-# translate schinese Cane_Outfit_02_a22e8a18:
+translate schinese Cane_Outfit_02_a22e8a18:
 
-#     # c "Alright lad, ya better get back to the bull. Believe me, that bull has a temper and he doesn't like to wait."
-#     c ""
+    # c "Alright lad, ya better get back to the bull. Believe me, that bull has a temper and he doesn't like to wait."
+    c "好了小崽子，快去给雷长官报信吧。依我看他那暴脾气可耐不住等你太久。"
 
-# translate schinese Cane_Outfit_02_b6e7ab11:
+translate schinese Cane_Outfit_02_b6e7ab11:
 
-#     # "Cane glances down at the front of your chaps."
-#     ""
+    # "Cane glances down at the front of your chaps."
+    "凯恩往下瞥了一眼。"
 
-# translate schinese Cane_Outfit_02_fc4aee89:
+translate schinese Cane_Outfit_02_fc4aee89:
 
-#     # c "And it seems, neither do ya."
-#     c ""
+    # c "And it seems, neither do ya."
+    c "看样子有人也耐不住哩。"
 
-# translate schinese Cane_Outfit_02_1d3d4dd1:
+translate schinese Cane_Outfit_02_1d3d4dd1:
 
-#     # "You quickly shuffles out of the tavern."
-#     ""
+    # "You quickly shuffles out of the tavern."
+    "你立马捂住私处，红着脸低着头就要跑出酒馆。夺门而出时，你确信自己听到凯恩说——"
 
-# translate schinese Cane_Outfit_02_b9f8d13e:
+translate schinese Cane_Outfit_02_b9f8d13e:
 
-#     # "Before you exit, you believe you heard the barkeep say, Thank the bull for me."
-#     ""
+    # "Before you exit, you believe you heard the barkeep say, Thank the bull for me."
+    "“替我谢谢那头倔牛。”"
 
-# translate schinese Cane_Outfit_03_813e17cd:
+translate schinese Cane_Outfit_03_813e17cd:
 
-#     # "Cane thumps his fingers on his cheek as he examines you."
-#     ""
+    # "Cane thumps his fingers on his cheek as he examines you."
+    "凯恩捏捏下巴检视着你。"
 
-# translate schinese Cane_Outfit_03_f58a580d:
+translate schinese Cane_Outfit_03_f58a580d:
 
-#     # c "Can't say I'm a fan of this one."
-#     c ""
+    # c "Can't say I'm a fan of this one."
+    c "我要给差评。"
 
-# translate schinese Cane_Outfit_03_a780084e:
+translate schinese Cane_Outfit_03_a780084e:
 
-#     # c "The bull's design is either hit or miss. This one is a miss."
-#     c ""
+    # c "The bull's design is either hit or miss. This one is a miss."
+    c "老裁缝的设计总是走极端，要么正要么歪。这件就歪了。"
 
-# translate schinese Cane_Outfit_03_2c5d558b:
+translate schinese Cane_Outfit_03_2c5d558b:
 
-#     # c "With how long the clothes is dragging, it'll keep hitting the floor."
-#     c ""
+    # c "With how long the clothes is dragging, it'll keep hitting the floor."
+    c "瞧这大袖袍，都耷拉到可以拖地哩。你也知道俺这人来人往的地板有多邋遢。"
 
-# translate schinese Cane_Outfit_03_bb765b5b:
+translate schinese Cane_Outfit_03_bb765b5b:
 
-#     # c "And you know how dirty our floors are."
-#     c ""
+    # c "And you know how dirty our floors are."
+    pass
 
-# translate schinese Cane_Outfit_03_5eb1fa12:
+translate schinese Cane_Outfit_03_5eb1fa12:
 
-#     # "Cane winks at you when he says the word dirty."
-#     ""
+    # "Cane winks at you when he says the word dirty."
+    "凯恩对你使了个眼色，故意将重音放在“邋遢”二字上。"
 
-# translate schinese Cane_Outfit_03_65c38e23:
+translate schinese Cane_Outfit_03_65c38e23:
 
-#     # "You think you have gathered enough feedback from Cane when you notice the barkeep staring at your crotch. You can't help but blush."
-#     ""
+    # "You think you have gathered enough feedback from Cane when you notice the barkeep staring at your crotch. You can't help but blush."
+    "你正想道谢离开，却发现凯恩又在盯着你的裆部看。你不由得害羞起来。"
 
-# translate schinese Cane_Outfit_03_9f87a138:
+translate schinese Cane_Outfit_03_9f87a138:
 
-#     # c "No worries. This set does less for your figure than the other set."
-#     c ""
+    # c "No worries. This set does less for your figure than the other set."
+    c "甭担心，这件没上件那么容易走光。不过我倒是更好奇这一层层布盖着什么好东西嘞。"
 
-# translate schinese Cane_Outfit_03_11ad1cb8:
+translate schinese Cane_Outfit_03_11ad1cb8:
 
-#     # c "However, I am wondering. What is under all those layers?"
-#     c ""
+    # c "However, I am wondering. What is under all those layers?"
+    pass
 
-# translate schinese Cane_Outfit_03_63617f03:
+translate schinese Cane_Outfit_03_63617f03:
 
-#     # "You blush even harder."
-#     ""
+    # "You blush even harder."
+    "凯恩窃笑，而你脸红得更厉害了。"
 
-# translate schinese Cane_Outfit_03_c4665027:
+translate schinese Cane_Outfit_03_c4665027:
 
-#     # "Cane chuckles."
-#     ""
+    # "Cane chuckles."
+    pass
 
-# translate schinese Cane_Outfit_03_b766f14f:
+translate schinese Cane_Outfit_03_b766f14f:
 
-#     # c "Alright. Maybe my impression of this set has improved slightly."
-#     c ""
+    # c "Alright. Maybe my impression of this set has improved slightly."
+    c "呵呵呵，现在我对这件衣裳稍稍有点改观了。下回别把自己包得那么厚，让大家一起来评评裸体装好不好看。"
 
-# translate schinese Cane_Outfit_03_0932bdaa:
+translate schinese Cane_Outfit_03_0932bdaa:
 
-#     # c "Next time, consider coming without so many layers and we'll see how the patrons will react."
-#     c ""
+    # c "Next time, consider coming without so many layers and we'll see how the patrons will react."
+    pass
 
-# translate schinese Cane_Outfit_03_5b6cb0de:
+translate schinese Cane_Outfit_03_5b6cb0de:
 
-#     # c "Out you go. I have to get on with business."
-#     c ""
+    # c "Out you go. I have to get on with business."
+    c "去吧，后边的客人还等着我招待嘞。"
 
-# translate schinese Cane_Outfit_01_5c7daca6:
+translate schinese Cane_Outfit_01_5c7daca6:
 
-#     # c "Now, ya look a bit more like a real adventurer."
-#     c ""
+    # c "Now, ya look a bit more like a real adventurer."
+    c "不得不说，你今儿打扮得更像个真正的冒险家了。"
 
-# translate schinese Cane_Outfit_01_82bdf8b3:
+translate schinese Cane_Outfit_01_82bdf8b3:
 
-#     # e "I am an adventurer."
-#     e ""
+    # e "I am an adventurer."
+    e "我就是冒险家。"
 
-# translate schinese Cane_Outfit_01_e26845bd:
+translate schinese Cane_Outfit_01_e26845bd:
 
-#     # c "Never said you're not. Now you just look the part a bit more."
-#     c ""
+    # c "Never said you're not. Now you just look the part a bit more."
+    c "我可没说你不是。人靠衣装马靠鞍，现在你比之前有模有样罢。"
 
-# translate schinese Cane_Outfit_01_1d96165d:
+translate schinese Cane_Outfit_01_1d96165d:
 
-#     # e "So, you like it?"
-#     e ""
+    # e "So, you like it?"
+    e "那么……你觉得好看吗？"
 
-# translate schinese Cane_Outfit_01_c8421c97:
+translate schinese Cane_Outfit_01_c8421c97:
 
-#     # c "I suppose. Although I do wonder if this armor set makes you more adventurous in bed too."
-#     c ""
+    # c "I suppose. Although I do wonder if this armor set makes you more adventurous in bed too."
+    c "蛮不错的，我更好奇这身装备会不会让你在床上更有冒险家精神？"
 
-# translate schinese Cane_Outfit_01_54ce99aa:
+translate schinese Cane_Outfit_01_54ce99aa:
 
-#     # "Your cheeks color."
-#     ""
+    # "Your cheeks color."
+    "你不好意思地挠挠头。"
 
-# translate schinese Cane_Outfit_01_6f32839c:
+translate schinese Cane_Outfit_01_6f32839c:
 
-#     # c "It's not bad. But it's not for me or for this place."
-#     c ""
+    # c "It's not bad. But it's not for me or for this place."
+    c "行头不坏，只是不合我的口味，而且穿着这套也不适合出入酒馆。"
 
-# translate schinese Cane_Outfit_01_7720cabb:
+translate schinese Cane_Outfit_01_7720cabb:
 
-#     # c "Those armor plates are more likely to hurt and bruise my patrons."
-#     c ""
+    # c "Those armor plates are more likely to hurt and bruise my patrons."
+    c "要是那些张牙舞爪的护甲片刮到我的宝贝顾客们可就不好嘞。"
 
-# translate schinese Cane_Outfit_01_0cb5e7d9:
+translate schinese Cane_Outfit_01_0cb5e7d9:
 
-#     # e "Hmm... Alright."
-#     e ""
+    # e "Hmm... Alright."
+    e "嗯……你说得对。"
 
 translate schinese Cane_Serve_Later_8f110e74:
 
@@ -3987,7 +3987,7 @@ translate schinese Scene_Nocturnal_Serve_ac317df8:
 translate schinese Scene_Nocturnal_Serve_fb60ad70:
 
     # "You lower your pants gradually, teasing the patrons with inches and inches of your skin revealed to the public."
-    "你一点一点褪下裤子，一点一点将私处的皮毛展现出来，挑逗着四面八方的顾客。"
+    "你接着一点一点褪下裤子，将私处的皮毛展现出来，挑逗着四面八方的顾客。"
 
 translate schinese Scene_Nocturnal_Serve_ce4b91f2:
 
@@ -6626,6 +6626,31 @@ translate schinese Lothar_Battle_Training_f33c3e16:
     # e "Is it really my fault though... it's not like I can get any bigger in size..."
     e "怎么可能……长多大个又不是我能决定的……"
 
+translate schinese Lothar_Battle_Training_f10c9f24:
+
+    # l "Ugh, I'll give you the credit. For a smaller guy like you, you actually do fight like a warrior."
+    l "啐，姑且信你一回。矮子里拔将军，对比其他羸弱的小家伙，你确实算能打仗的战士。"
+
+translate schinese Lothar_Battle_Training_52daa19b:
+
+    # e "I'll bet I can beat you, quite easily."
+    e "哪止，我赌我能三两下打败你，就像我三两下把史莱姆打成浆糊。"
+
+translate schinese Lothar_Battle_Training_81b131f5:
+
+    # e "I've had no problem punching these slimes into pulps, quite easily actually."
+    pass
+
+translate schinese Lothar_Battle_Training_17c02a7e:
+
+    # l "You're a mere disciple, stop being so smug."
+    l "区区小徒弟，在师傅面前逞什么能耐。"
+
+translate schinese Lothar_Battle_Training_9e8cb1d4:
+
+    # e "Lothar, you just don't trust me enough."
+    e "洛萨尔，所以你就是不够相信我。"
+
 translate schinese Lothar_Battle_Training_c95939f5:
 
     # l "You know, that's the problem with you, everything negative about you reflects much worse on my name."
@@ -6657,9 +6682,9 @@ translate schinese Lothar_Battle_Training_61f23e3c:
     # e "How... did you know..."
     e "你……你们怎么知道的……"
 
-translate schinese Lothar_Battle_Training_258afb94:
+translate schinese Lothar_Battle_Training_d6dcaf02:
 
-    # l "I really do need to train you myself... do I not...?"
+    # l "I really do need to train you myself, do I not...?"
     l "看来为师不亲自辅导你不行了……哼？"
 
 translate schinese Lothar_Battle_Training_9e6e1f41:
@@ -8472,125 +8497,125 @@ translate schinese Lothar_Report_Goat_0b9ce1a9:
     # e "See you, Lothar."
     e "回头见。"
 
-# translate schinese Lothar_Outfit_01_63265da8:
+translate schinese Lothar_Outfit_01_63265da8:
 
-#     # e "Lothar, do you have some time?"
-#     e ""
+    # e "Lothar, do you have some time?"
+    e "你现在有空吗？"
 
-# translate schinese Lothar_Outfit_01_e2ac1690:
+translate schinese Lothar_Outfit_01_e2ac1690:
 
-#     # l "Disciple, what do you want? Don't you know my time is precious? And what the fuck are you wearing?"
-#     l ""
+    # l "Disciple, what do you want? Don't you know my time is precious? And what the fuck are you wearing?"
+    l "怎么了，你可要知道本大英雄的时间宝贵得很。还有你今天——穿的什么玩意？"
 
-# translate schinese Lothar_Outfit_01_e0a8bbac:
+translate schinese Lothar_Outfit_01_e0a8bbac:
 
-#     # "Lothar's eyes wandered over to your lower body and you cheeks turn red."
-#     ""
+    # "Lothar's eyes wandered over to your lower body and you cheeks turn red."
+    "洛萨尔的视线在你身上游荡，最终落到你的私处，令你不禁羞红了脸。"
 
-# translate schinese Lothar_Outfit_01_6ab3d170:
+translate schinese Lothar_Outfit_01_6ab3d170:
 
-#     # e "Does this look weird? Rahim wants me to get your opinion regarding this set of clothes as adventuring gear. Its stupid, right?"
-#     e ""
+    # e "Does this look weird? Rahim wants me to get your opinion regarding this set of clothes as adventuring gear. Its stupid, right?"
+    e "看起来会不会很奇怪？雷叔想听听你的评价，他说这是为外出探险设计的。果然很奇怪吧？"
 
-# translate schinese Lothar_Outfit_01_f3862c90:
+translate schinese Lothar_Outfit_01_f3862c90:
 
-#     # l "Disciple, what are you talking about? This is marvelous. Despite his pissy behaviour, that bull's creations are the best in town."
-#     l ""
+    # l "Disciple, what are you talking about? This is marvelous. Despite his pissy behaviour, that bull's creations are the best in town."
+    l "说什么胡话，你简直帅炸了，没见过世面的小徒弟。抛开暴脾气不说，那头老牛可是从镇里出来的一行宗师。"
 
-# translate schinese Lothar_Outfit_01_ea296b01:
+translate schinese Lothar_Outfit_01_ea296b01:
 
-#     # "This armor will provide all the arsenal you need in battle to distract and overcome your opponent."
-#     ""
+    # "This armor will provide all the arsenal you need in battle to distract and overcome your opponent."
+    l "这套护甲既适合色诱又适合强攻，你穿上它可以说战无不胜、攻无不克。"
 
-# translate schinese Lothar_Outfit_01_6512c56e:
+translate schinese Lothar_Outfit_01_6512c56e:
 
-#     # e "... If you say so."
-#     e ""
+    # e "... If you say so."
+    e "……这样啊。"
 
-# translate schinese Lothar_Outfit_02_589c65f7:
+translate schinese Lothar_Outfit_02_589c65f7:
 
-#     # l "What is it that you're wearing?"
-#     l ""
+    # l "What is it that you're wearing?"
+    l "我正想问，你怎么穿成这副鬼样？"
 
-# translate schinese Lothar_Outfit_02_de7406c0:
+translate schinese Lothar_Outfit_02_de7406c0:
 
-#     # l "Does it even provide any protection?"
-#     l ""
+    # l "Does it even provide any protection?"
+    l "一点保护都没有，不要命啦？"
 
-# translate schinese Lothar_Outfit_02_ce02f860:
+translate schinese Lothar_Outfit_02_ce02f860:
 
-#     # e "Well, it's not really an outfit to go fighting in..."
-#     e ""
+    # e "Well, it's not really an outfit to go fighting in..."
+    e "呃，因为这本来就不是穿去打架的……"
 
-# translate schinese Lothar_Outfit_02_f2ba61d4:
+translate schinese Lothar_Outfit_02_f2ba61d4:
 
-#     # l "Hmm, perhaps the lack of protection is intentional."
-#     l ""
+    # l "Hmm, perhaps the lack of protection is intentional."
+    l "唔……或许雷希姆想故意这么设计，来增大身体暴露的面积。"
 
-# translate schinese Lothar_Outfit_02_d38d1ab2:
+translate schinese Lothar_Outfit_02_d38d1ab2:
 
-#     # l "That's not a bad way to win some battles."
-#     l ""
+    # l "That's not a bad way to win some battles."
+    l "对于某些战局确实帮助很大。"
 
-# translate schinese Lothar_Outfit_02_04e0394c:
+translate schinese Lothar_Outfit_02_04e0394c:
 
-#     # l "Disciple, it looks like you've been practicing hard at the art of seduction."
-#     l ""
+    # l "Disciple, it looks like you've been practicing hard at the art of seduction."
+    l "徒儿，看来你最近一直有在苦练诱敌技艺。"
 
-# translate schinese Lothar_Outfit_02_57de4d63:
+translate schinese Lothar_Outfit_02_57de4d63:
 
-#     # l "However, you can't just focus on one style of fighting."
-#     l ""
+    # l "However, you can't just focus on one style of fighting."
+    l "但你不能单纯依赖于一种战斗方式。"
 
-# translate schinese Lothar_Outfit_02_b7edd410:
+translate schinese Lothar_Outfit_02_b7edd410:
 
-#     # "Lothar closes his eyes and starts to launch into a lecture..."
-#     ""
+    # "Lothar closes his eyes and starts to launch into a lecture..."
+    "洛萨尔闭上眼睛即将进入说教模式……"
 
-# translate schinese Lothar_Outfit_02_19dcc86a:
+translate schinese Lothar_Outfit_02_19dcc86a:
 
-#     # "You decide to thank him and slip away before he notices."
-#     ""
+    # "You decide to thank him and slip away before he notices."
+    "你立马说了句谢谢，赶在他注意到之前逃出了经文地狱。"
 
-# translate schinese Lothar_Outfit_03_d8fcb5c2:
+translate schinese Lothar_Outfit_03_d8fcb5c2:
 
-#     # l "I have seen combat outfits like that before."
-#     l ""
+    # l "I have seen combat outfits like that before."
+    l "像这样的战术长袍我以前有见过，但长袍一般都是法师穿的，我不感兴趣。"
 
-# translate schinese Lothar_Outfit_03_83fa63b9:
+translate schinese Lothar_Outfit_03_83fa63b9:
 
-#     # l "Can't say that I'm a fan of it."
-#     l ""
+    # l "Can't say that I'm a fan of it."
+    pass
 
-# translate schinese Lothar_Outfit_03_4aa80492:
+translate schinese Lothar_Outfit_03_4aa80492:
 
-#     # l "They're normally worn by magic users."
-#     l ""
+    # l "They're normally worn by magic users."
+    pass
 
-# translate schinese Lothar_Outfit_03_eec4515d:
+translate schinese Lothar_Outfit_03_eec4515d:
 
-#     # l "Real heroes charge in the front. Get it, Disciple?"
-#     l ""
+    # l "Real heroes charge in the front. Get it, Disciple?"
+    l "真正的战场英雄永远冲锋在前，明白吗徒儿？"
 
-# translate schinese Lothar_Outfit_03_b2267a89:
+translate schinese Lothar_Outfit_03_b2267a89:
 
-#     # e "Uhmm... Yes?"
-#     e ""
+    # e "Uhmm... Yes?"
+    e "呃……好的？"
 
-# translate schinese Lothar_Outfit_03_d5bbc949:
+translate schinese Lothar_Outfit_03_d5bbc949:
 
-#     # l "Now, move so I can continue with my training."
-#     l ""
+    # l "Now, move so I can continue with my training."
+    l "嗯，现在走几步路看看，好让我继续我的训练。"
 
-# translate schinese Lothar_Outfit_03_2e5aa5fd:
+translate schinese Lothar_Outfit_03_2e5aa5fd:
 
-#     # e "What training?"
-#     e ""
+    # e "What training?"
+    e "什么训练？"
 
-# translate schinese Lothar_Outfit_03_31e14484:
+translate schinese Lothar_Outfit_03_31e14484:
 
-#     # l "Endurance training. For if I see that outfit one more second."
-#     l ""
+    # l "Endurance training. For if I see that outfit one more second."
+    l "心性训练。试一下我还能再忍住几秒钟不掀开你的衣服。"
 
 translate schinese Lothar_Invasion_Quest_a00f4662:
 
