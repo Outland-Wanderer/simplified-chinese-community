@@ -753,11 +753,11 @@ translate schinese strings:
     old "Rune Guardian"
     new "符石护卫"
 
-    # old "Minotaur Statue"
-    # new "弥诺陶洛斯雕像"
+    old "Minotaur Statue"
+    new "弥诺陶洛斯雕像"
 
-    # old "Minotaur"
-    # new "弥诺陶洛斯"
+    old "Minotaur"
+    new "弥诺陶洛斯"
 
     # old "Scarecrow"
     # new "稻草人"
@@ -869,11 +869,11 @@ translate schinese strings:
     old "A Forest mostly shrouded by the dense area of trees."
     new "茂密的树木笼罩了这片区域。"
 
-    # old "Gloomy Mountainside"
-    # new "阴郁山腹"
+    old "Gloomy Mountainside"
+    new "阴郁山腹"
 
-    # old "An area near the mountain of the goats, it leads to a mythical cave where the minotaur rumoured to be located."
-    # new "山羊部落群山附近的区域，由此可以进入神话生物弥诺陶洛斯所在的山洞。"
+    old "An area near the mountain of the goats, it leads to a mythical cave where the minotaur rumoured to be located."
+    new "山羊部落群山附近的区域，由此可以进入神话生物弥诺陶洛斯所在的山洞。"
 
     # old "Summery Farmland"
     # new "骄阳农场"
