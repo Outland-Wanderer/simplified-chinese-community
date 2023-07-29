@@ -1826,387 +1826,392 @@ translate schinese runeguardian_lose_4ba96869:
     # "You lost [gold_lost] gold."
     "你失去了 [gold_lost] 枚金币。"
 
-# translate schinese minostatue_battle_e42b0c88:
+translate schinese minostatue_battle_e42b0c88:
 
-#     # "You are facing the statue of minotaur, You feel that this battle will be quite different than you are used to. You raise your fist."
-#     ""
+    # "You are facing the statue of minotaur, You feel that this battle will be quite different than you are used to. You raise your fist."
+    "你握紧拳头紧盯石雕，感觉这场战斗并不寻常。"
 
-# translate schinese minostatue_battle_7a41cd1f:
+translate schinese minostatue_battle_7a41cd1f:
 
-#     # "You are facing the statue of minotaur, You feel that this battle will be quite different than you are used to. You raise your fist instead of your [pc.weapon.name!t]."
-#     ""
+    # "You are facing the statue of minotaur, You feel that this battle will be quite different than you are used to. You raise your fist instead of your [pc.weapon.name!t]."
+    "你紧盯石雕，感觉这场战斗并不寻常。于是你选择收起武器，摆出格斗姿势。"
 
-# translate schinese minostatue_battle_loop_415443c8:
+translate schinese minostatue_battle_loop_415443c8:
 
-#     # "You throw your punch at the statue. Regardless of your strength, the statue's health dropped by 1."
-#     ""
+    # "You throw your punch at the statue. Regardless of your strength, the statue's health dropped by 1."
+    "你一拳捶向石雕，令它失去了 1 点体力。好像再大力也只能伤到它这么多。"
 
-# translate schinese minostatue_battle_loop_72486f84:
+translate schinese minostatue_battle_loop_72486f84:
 
-#     # "The statue seems to be unfazed by all your attempts at seduction..."
-#     ""
+    # "The statue seems to be unfazed by all your attempts at seduction..."
+    "石雕对你的搔首弄姿毫无反应……"
 
-# translate schinese minostatue_battle_loop_6bd76fe0:
+translate schinese minostatue_battle_loop_6bd76fe0:
 
-#     # "You cannot escape from the battle."
-#     ""
+    # "You cannot escape from the battle."
+    "石雕不会追着你，逃跑没有意义。"
 
-# translate schinese minostatue_battle_loop_e53087dd:
+translate schinese minostatue_battle_loop_e53087dd:
 
-#     # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the Statue."
-#     ""
+    # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the Statue."
+    "你耗尽了所有气力，双膝一软跪倒在地。"
 
-# translate schinese minostatue_battle_loop_8273253b:
+translate schinese minostatue_battle_loop_8273253b:
 
-#     # "The statue casts a few pebbles onto you, each dealing [enemy_damage] HP."
-#     ""
+    # "The statue casts a few pebbles onto you, each dealing [enemy_damage] HP."
+    "石雕凭空变出几块碎石砸到你头上，每颗碎石都会令你失去 [enemy_damage] 点体力。"
 
-# translate schinese minostatue_battle_loop_6cd74592:
+translate schinese minostatue_battle_loop_6cd74592:
 
-#     # "Your health decreased by [ed] in total."
-#     ""
+    # "Your health decreased by [ed] in total."
+    "你总共失去了 [ed] 点体力。"
 
-# translate schinese minostatue_win_aafcefe4:
+translate schinese minostatue_win_aafcefe4:
 
-#     # "As you defeat the statue, it begins to glow in green in front of your eyes."
-#     ""
+    # "As you defeat the statue, it begins to glow in green in front of your eyes."
+    "石雕被打败后，身上逐渐显现出绿色斑纹。"
 
-# translate schinese minostatue_win_1f92bb3e:
+translate schinese minostatue_win_1f92bb3e:
 
-#     # "You feel that the gem flickered for a moment. You must have completed something..."
-#     ""
+    # "You feel that the gem flickered for a moment. You must have completed something..."
+    "远处石柱上的宝石好像闪了一下。你应该是打通了某个机关……"
 
-# translate schinese minostatue_win_9a89312e:
+translate schinese minostatue_win_9a89312e:
 
-#     # "You also found [gold_drop] gold and [exp_drop] EXP."
-#     ""
+    # "You also found [gold_drop] gold and [exp_drop] EXP."
+    "你还同时获得了 [gold_drop] 枚金币和 [exp_drop] 点经验。"
 
-# translate schinese minostatue_win_91f1d522:
+translate schinese minostatue_win_91f1d522:
 
-#     # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
-#     msg ""
+    # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
+    msg "你的等级已升至 [pc.level] 级！请进入背包界面分配新增属性点。"
 
-# translate schinese minostatue_lose_bff43b3c:
+translate schinese minostatue_lose_bff43b3c:
 
-#     # "You lost to the statue. It seems to be unfazed still."
-#     ""
+    # "You lost to the statue. It seems to be unfazed still."
+    "你只得仰望纹丝未动的弥诺陶洛斯雕像，狼狈地起身退回远处。"
 
-# translate schinese minostatue_lose_d3da0aff:
+translate schinese minostatue_lose_d3da0aff:
 
-#     # "You return to your position."
-#     ""
+    # "You return to your position."
+    pass
 
-# translate schinese mino_battle_d488a282:
+translate schinese mino_battle_d488a282:
 
-#     # "The minotaur is standing before you, he looks enraged by your intrusion."
-#     ""
+    # "The minotaur is standing before you, he looks enraged by your intrusion."
+    "你的闯入激怒了弥诺陶洛斯。他裸露的鸡巴就垂在你面前……诗中“擎天大雕惹垂涎”果然不假。"
 
-# translate schinese mino_battle_d5e446e1:
+translate schinese mino_battle_d5e446e1:
 
-#     # "You can feel his... member dangling in front of you, that must be what the scripture described as hard, and majestic."
-#     ""
+    # "You can feel his... member dangling in front of you, that must be what the scripture described as hard, and majestic."
+    pass
 
-# translate schinese mino_battle_4300fbe8:
+translate schinese mino_battle_4300fbe8:
 
-#     # "You raise your [pc.weapon.name!t], defending yourself from the minotaur's attack."
-#     ""
+    # "You raise your [pc.weapon.name!t], defending yourself from the minotaur's attack."
+    "你手持[pc.weapon.name!t]，准备抵御接下来的攻击。"
 
-# translate schinese mino_battle_5a9a9a3b:
+translate schinese mino_battle_5a9a9a3b:
 
-#     # "You raise your fist, defending yourself from the minotaur's attack."
-#     ""
+    # "You raise your fist, defending yourself from the minotaur's attack."
+    "你交臂架好了格斗姿态，准备抵御接下来的攻击。"
 
-# translate schinese mino_battle_loop_522af612:
+translate schinese mino_battle_loop_522af612:
 
-#     # "You slash your [pc.weapon.name!t] at the arm of the minotaur, but he dodges the attack in time."
-#     ""
+    # "You slash your [pc.weapon.name!t] at the arm of the minotaur, but he dodges the attack in time."
+    "你挥动[pc.weapon.name!t]划向弥诺陶洛斯的手臂，但他及时躲开了。"
 
-# translate schinese mino_battle_loop_cddd3861:
+translate schinese mino_battle_loop_cddd3861:
 
-#     # "You slam your [pc.weapon.name!t] at the minotaur's head, but he dodges the attack in time."
-#     ""
+    # "You slam your [pc.weapon.name!t] at the minotaur's head, but he dodges the attack in time."
+    "你舞动[pc.weapon.name!t]劈向弥诺陶洛斯的脑袋，但他及时躲开了。"
 
-# translate schinese mino_battle_loop_f9c3b393:
+translate schinese mino_battle_loop_f9c3b393:
 
-#     # "You aim and shoot your [pc.weapon.name!t] at the minotaur, but it seems to have missed."
-#     ""
+    # "You aim and shoot your [pc.weapon.name!t] at the minotaur, but it seems to have missed."
+    "你架设[pc.weapon.name!t]飞箭射向弥诺陶洛斯，可惜只差一点点就射中了。"
 
-# translate schinese mino_battle_loop_ef73b906:
+translate schinese mino_battle_loop_ef73b906:
 
-#     # "You throw your fist at the minotaur, but you punch into the air instead."
-#     ""
+    # "You throw your fist at the minotaur, but you punch into the air instead."
+    "你举拳奋力捶向弥诺陶洛斯，但你这一拳只打中了空气。"
 
-# translate schinese mino_battle_loop_b5605c07:
+translate schinese mino_battle_loop_b5605c07:
 
-#     # "You slash your [pc.weapon.name!t] at the arm of the minotaur, your blade scraps against his fur."
-#     ""
+    # "You slash your [pc.weapon.name!t] at the arm of the minotaur, your blade scraps against his fur."
+    "你挥动[pc.weapon.name!t]划向对方手臂，剑刃刮过他的皮毛。"
 
-# translate schinese mino_battle_loop_a03754cb:
+translate schinese mino_battle_loop_a03754cb:
 
-#     # "The minotaur stomps on the ground, clearly protesting against your attack."
-#     ""
+    # "The minotaur stomps on the ground, clearly protesting against your attack."
+    "弥诺陶洛斯捶胸顿足，显然对受到的伤害十分不悦。"
 
-# translate schinese mino_battle_loop_f3e942f7:
+translate schinese mino_battle_loop_f3e942f7:
 
-#     # "You slash your [pc.weapon.name!t] across the minotaur's body, knocking him back a few steps."
-#     ""
+    # "You slash your [pc.weapon.name!t] across the minotaur's body, knocking him back a few steps."
+    "你攒动[pc.weapon.name!t]劈向对方身体，将他挡在几步开外。"
 
-# translate schinese mino_battle_loop_6c4c87d5:
+translate schinese mino_battle_loop_6c4c87d5:
 
-#     # "The minotaur grunts silently in anger."
-#     ""
+    # "The minotaur grunts silently in anger."
+    "弥诺陶洛斯发出愤怒的低吼。"
 
-# translate schinese mino_battle_loop_229b142c:
+translate schinese mino_battle_loop_229b142c:
 
-#     # "You aim and shoot your [pc.weapon.name!t] at the minotaur, the arrow hits right into his arm."
-#     ""
+    # "You aim and shoot your [pc.weapon.name!t] at the minotaur, the arrow hits right into his arm."
+    "你找准时机拉动[pc.weapon.name!t]，飞箭正中对方的手臂。"
 
-# translate schinese mino_battle_loop_a03754cb_1:
+translate schinese mino_battle_loop_a03754cb_1:
 
-#     # "The minotaur stomps on the ground, clearly protesting against your attack."
-#     ""
+    # "The minotaur stomps on the ground, clearly protesting against your attack."
+    "弥诺陶洛斯捶胸顿足，显然对受到的伤害十分不悦。"
 
-# translate schinese mino_battle_loop_5acc2781:
+translate schinese mino_battle_loop_5acc2781:
 
-#     # "You run while shooting your [pc.weapon.name!t] across the minotaur's body, knocking him back a few steps."
-#     ""
+    # "You run while shooting your [pc.weapon.name!t] across the minotaur's body, knocking him back a few steps."
+    "你一边变换方位一边拉动[pc.weapon.name!t]飞箭射向对方身体，将他挡在几步开外。"
 
-# translate schinese mino_battle_loop_6c4c87d5_1:
+translate schinese mino_battle_loop_6c4c87d5_1:
 
-#     # "The minotaur grunts silently in anger."
-#     ""
+    # "The minotaur grunts silently in anger."
+    "弥诺陶洛斯发出愤怒的低吼。"
 
-# translate schinese mino_battle_loop_057bbe22:
+translate schinese mino_battle_loop_057bbe22:
 
-#     # "You throw your fist at the arm of the minotaur, your blade scraps against his fur."
-#     ""
+    # "You throw your fist at the arm of the minotaur, your blade scraps against his fur."
+    "你一拳挥向巨兽，正中脸部。"
 
-# translate schinese mino_battle_loop_a03754cb_2:
+translate schinese mino_battle_loop_a03754cb_2:
 
-#     # "The minotaur stomps on the ground, clearly protesting against your attack."
-#     ""
+    # "The minotaur stomps on the ground, clearly protesting against your attack."
+    "弥诺陶洛斯捶胸顿足，显然对受到的伤害十分不悦。"
 
-# translate schinese mino_battle_loop_be17f835:
+translate schinese mino_battle_loop_be17f835:
 
-#     # "You punch into the minotaur's stomach, knocking him back a few steps."
-#     ""
+    # "You punch into the minotaur's stomach, knocking him back a few steps."
+    "你勾拳猛击对手腹部，将他挡在几步开外。"
 
-# translate schinese mino_battle_loop_6c4c87d5_2:
+translate schinese mino_battle_loop_6c4c87d5_2:
 
-#     # "The minotaur grunts silently in anger."
-#     ""
+    # "The minotaur grunts silently in anger."
+    "弥诺陶洛斯发出愤怒的低吼。"
 
-# translate schinese mino_battle_loop_24bcc736:
+translate schinese mino_battle_loop_24bcc736:
 
-#     # "His health decreases by [oa[4]] HP."
-#     ""
+    # "His health decreases by [oa[4]] HP."
+    "对方的体力损失了 [oa[4]] 点。"
 
-# translate schinese mino_battle_loop_aafc665e:
+translate schinese mino_battle_loop_aafc665e:
 
-#     # "You've critically hit the minotaur, dealing [oa[4]] HP!"
-#     ""
+    # "You've critically hit the minotaur, dealing [oa[4]] HP!"
+    "暴击！对方失去了 [oa[4]] 点体力！"
 
-# translate schinese mino_battle_loop_241c58ed:
+translate schinese mino_battle_loop_241c58ed:
 
-#     # "You struggle against the arm of the minotaur, trying to break free. You dealt [oa[4]] damage to the minotaur in the process, his grip has loosen as well."
-#     ""
+    # "You struggle against the arm of the minotaur, trying to break free. You dealt [oa[4]] damage to the minotaur in the process, his grip has loosen as well."
+    "你极力挣扎摆脱巨兽的束缚，同时对他造成了 [oa[4]] 点伤害。他松开了手掌。"
 
-# translate schinese mino_battle_loop_c9974a20:
+translate schinese mino_battle_loop_c9974a20:
 
-#     # "You struggle against the minotaur as you try to reach under the minotaur's crotch, trying to get a reaction from the minotaur."
-#     ""
+    # "You struggle against the minotaur as you try to reach under the minotaur's crotch, trying to get a reaction from the minotaur."
+    "你一边挣扎一边伸手掏弄对方胯下，意图激起他的性趣。"
 
-# translate schinese mino_battle_loop_471bd576:
+translate schinese mino_battle_loop_471bd576:
 
-#     # "The minotaur instanly react with your advance, grunting profusely as his cock twitches. His grip is weakening as well."
-#     ""
+    # "The minotaur instanly react with your advance, grunting profusely as his cock twitches. His grip is weakening as well."
+    "如此大胆的举动令弥诺陶洛斯立马起了反应，他喘着粗气，鸡巴一翘一翘的。握力似乎减弱了几分。"
 
-# translate schinese mino_battle_loop_fdf9de27:
+translate schinese mino_battle_loop_fdf9de27:
 
-#     # "You turn around and rub your hand all over your own burly cheeks, feeling and brushing against your ass while you shake your hip."
-#     ""
+    # "You turn around and rub your hand all over your own burly cheeks, feeling and brushing against your ass while you shake your hip."
+    "你慢腾腾背向弥诺陶洛斯，双手盖上饱满的臀部，把玩着、抚摸着，不时左右摇摆。"
 
-# translate schinese mino_battle_loop_b3fc0b8d:
+translate schinese mino_battle_loop_b3fc0b8d:
 
-#     # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at the Rune minotaur seductively."
-#     ""
+    # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at the Rune minotaur seductively."
+    "你深情地盯着弥诺陶洛斯，伸爪轻轻爱抚自己的下体，慢慢从大腿根滑向阴囊，紧紧箍着诱人的鼓包。"
 
-# translate schinese mino_battle_loop_20199561:
+translate schinese mino_battle_loop_20199561:
 
-#     # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the Rune minotaur while your chest bounce up and down slightly."
-#     ""
+    # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the Rune minotaur while your chest bounce up and down slightly."
+    "你双手捧持你鼓起的胸肌，手指在乳头周围画着圆圈。一边对着这个神话生物微笑，一边轻轻掂量自己的厚物。"
 
-# translate schinese mino_battle_loop_a37a7ed0:
+translate schinese mino_battle_loop_a37a7ed0:
 
-#     # "You approach to the minotaur closely, letting your hands wander inside the huge bush in his crotch area."
-#     ""
+    # "You approach to the minotaur closely, letting your hands wander inside the huge bush in his crotch area."
+    "接着你走近弥诺陶洛斯，伸手插入他胯下的耻毛轻轻揉搓。"
 
-# translate schinese mino_battle_loop_959a28a6:
+translate schinese mino_battle_loop_959a28a6:
 
-#     # "You continue your act for about a minute, but the minotaur doesn't even flinch."
-#     ""
+    # "You continue your act for about a minute, but the minotaur doesn't even flinch."
+    "这场戏你自导自演了快一分钟，但对方完全不为所动。"
 
-# translate schinese mino_battle_loop_f96ea304:
+translate schinese mino_battle_loop_f96ea304:
 
-#     # "Disappointed, you back away before the minotaur can grab a hold of you."
-#     ""
+    # "Disappointed, you back away before the minotaur can grab a hold of you."
+    "在这头猛兽抓住你之前，你失望地退回了原位。"
 
-# translate schinese mino_battle_loop_7af37212:
+translate schinese mino_battle_loop_7af37212:
 
-#     # "Within a few seconds you can already see some movements in his cock."
-#     ""
+    # "Within a few seconds you can already see some movements in his cock."
+    "不过几秒钟，弥诺陶洛斯的下体就有了些许动静。尽管他只是舔了舔嘴唇，什么也没说，他的性欲还是增加了 [player_flirt] 点。"
 
-# translate schinese mino_battle_loop_eae9c4ee:
+translate schinese mino_battle_loop_eae9c4ee:
 
-#     # "The minotaur doesn't say anything, except for licking his lips. His lust is increased by [player_flirt]."
-#     ""
+    # "The minotaur doesn't say anything, except for licking his lips. His lust is increased by [player_flirt]."
+    pass
 
-# translate schinese mino_battle_loop_05de855b:
+translate schinese mino_battle_loop_05de855b:
 
-#     # mn "...H...Hnnnnngh..."
-#     mn ""
+    # mn "...H...Hnnnnngh..."
+    mn "……哞……"
 
-# translate schinese mino_battle_loop_bcf9859c:
+translate schinese mino_battle_loop_bcf9859c:
 
-#     # "You notice the minotaur is floundering, trying his best not to get aroused by your seduction."
-#     ""
+    # "You notice the minotaur is floundering, trying his best not to get aroused by your seduction."
+    "弥诺陶洛斯极力抵御你的勾引，但他通红的脸颊和鼓胀的下体已经宣告了一切。他的性欲增加了 [player_flirt] 点。"
 
-# translate schinese mino_battle_loop_31d7e065:
+translate schinese mino_battle_loop_31d7e065:
 
-#     # "But it is evident that his flushed face tells it all. His lust is increased by [player_flirt]."
-#     ""
+    # "But it is evident that his flushed face tells it all. His lust is increased by [player_flirt]."
+    pass
 
-# translate schinese mino_battle_loop_e593565c:
+translate schinese mino_battle_loop_e593565c:
 
-#     # mn "No... more... cum..."
-#     mn ""
+    # mn "No... more... cum..."
+    mn "要……要射……"
 
-# translate schinese mino_battle_loop_d8052ded:
+translate schinese mino_battle_loop_d8052ded:
 
-#     # "The minotaur is squirming in reaction to your advance."
-#     ""
+    # "The minotaur is squirming in reaction to your advance."
+    "弥诺陶洛斯不安地扭动着身体。你听见他呼吸变得急促，还带着哼哼呻吟。对方的性欲增加了 [player_flirt] 点。"
 
-# translate schinese mino_battle_loop_aa7d256f:
+translate schinese mino_battle_loop_aa7d256f:
 
-#     # "You can already hear his rapid breathing and grunting. His lust is increased by [player_flirt]."
-#     ""
+    # "You can already hear his rapid breathing and grunting. His lust is increased by [player_flirt]."
+    pass
 
-# translate schinese mino_battle_loop_9ce31d8e:
+translate schinese mino_battle_loop_9ce31d8e:
 
-#     # mn "Hnnngh... As..ass...?"
-#     mn ""
+    # mn "Hnnngh... As..ass...?"
+    mn "哞……大、大屁股……"
 
-# translate schinese mino_battle_loop_ada73862:
+translate schinese mino_battle_loop_ada73862:
 
-#     # "You can tell the minotaur is already playing with himself when his hand nudges against his erect cock, staring at your ass intently."
-#     ""
+    # "You can tell the minotaur is already playing with himself when his hand nudges against his erect cock, staring at your ass intently."
+    "弥诺陶洛斯紧盯你肥美的臀部，伸手套弄自己的勃起。他的性欲增加了 [player_flirt] 点。"
 
-# translate schinese mino_battle_loop_877a56ed:
+translate schinese mino_battle_loop_877a56ed:
 
-#     # "His lust is increased by [player_flirt]."
-#     ""
+    # "His lust is increased by [player_flirt]."
+    pass
 
-# translate schinese mino_battle_loop_a2c49fea:
+translate schinese mino_battle_loop_a2c49fea:
 
-#     # mn "No..."
-#     mn ""
+    # mn "No..."
+    mn "不行……"
 
-# translate schinese mino_battle_loop_4570dce2:
+translate schinese mino_battle_loop_4570dce2:
 
-#     # "You can tell by the minotaur's fury, he now deals much more damage, as his lust increases."
-#     ""
+    # "You can tell by the minotaur's fury, he now deals much more damage, as his lust increases."
+    "弥诺陶洛斯因情欲渐长而愈发狂躁，接下来他的攻击将会更加猛烈。"
 
-# translate schinese mino_battle_loop_77197b5f:
+translate schinese mino_battle_loop_77197b5f:
 
-#     # "As much as you try, you cannot escape from the barrier behind you."
-#     ""
+    # "As much as you try, you cannot escape from the barrier behind you."
+    "你不管怎么攻击都无法破除入口的魔法屏障。"
 
-# translate schinese mino_battle_loop_a9c8dad7:
+translate schinese mino_battle_loop_a9c8dad7:
 
-#     # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the minotaur."
-#     ""
+    # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the minotaur."
+    "你耗尽了所有气力，双膝一软跪倒在地。你躺在地上大口喘息，将自己完全暴露给了这头巨兽。"
 
-# translate schinese mino_battle_loop_386704da:
+translate schinese mino_battle_loop_386704da:
 
-#     # mn "U-ughh...not a-again..."
-#     mn ""
+    # mn "U-ughh...not a-again..."
+    mn "呃啊啊啊……又、又要……"
 
-# translate schinese mino_battle_loop_644be555:
+translate schinese mino_battle_loop_644be555:
 
-#     # "The minotaur falls with a loud thud on the ground."
-#     ""
+    # "The minotaur falls with a loud thud on the ground."
+    "伴随一声巨响，这头巨兽轰然倒地，掀起一阵沙尘。"
 
-# translate schinese mino_battle_loop_92b59618:
+translate schinese mino_battle_loop_92b59618:
 
-#     # "The minotaur holds you in place with his right arm. You try to struggle free but it doesn't work."
-#     ""
+    # "The minotaur holds you in place with his right arm. You try to struggle free but it doesn't work."
+    "弥诺陶洛斯伸手一把抓起你，你拼命挣扎却无济于事。"
 
-# translate schinese mino_battle_loop_0a75f7de:
+translate schinese mino_battle_loop_0a75f7de:
 
-#     # "The minotaur swing his fist toward your direction, hitting you in the chest. Your health decreases by [enemy_damage] HP."
-#     ""
+    # "The minotaur swing his fist toward your direction, hitting you in the chest. Your health decreases by [enemy_damage] HP."
+    "弥诺陶洛斯挥拳击中了你的胸膛，令你损失了 [enemy_damage] 点体力。"
 
-# translate schinese mino_battle_loop_48f7c770:
+translate schinese mino_battle_loop_48f7c770:
 
-#     # "The minotaur strike you down with his palm, you pass out for a few seconds before getting up. Your health decreases by [enemy_damage] HP."
-#     ""
+    # "The minotaur strike you down with his palm, you pass out for a few seconds before getting up. Your health decreases by [enemy_damage] HP."
+    "弥诺陶洛斯一巴掌拍中了你，你在失去意识的几秒钟内损失了 [enemy_damage] 点体力。"
 
-# translate schinese mino_battle_loop_febb9f14:
+translate schinese mino_battle_loop_febb9f14:
 
-#     # "The minotaur swing his fist toward your direction, but you manage to dodge his blow."
-#     ""
+    # "The minotaur swing his fist toward your direction, but you manage to dodge his blow."
+    "弥诺陶洛斯挥拳向你袭来，但你成功躲过了这一击。"
 
-# translate schinese mino_battle_loop_ecd5dd80:
+translate schinese mino_battle_loop_ecd5dd80:
 
-#     # "The minotaur tries to strike you down with his palm, but he missed the attack just by inches."
-#     ""
+    # "The minotaur tries to strike you down with his palm, but he missed the attack just by inches."
+    "弥诺陶洛斯出手向你拍来，所幸只打中了离你几寸之外的虚空。"
 
-# translate schinese mino_battle_loop_b7a71d54:
+translate schinese mino_battle_loop_b7a71d54:
 
-#     # "The minotaur chants and sings a warsong, his damage seems to have been increased."
-#     ""
+    # "The minotaur chants and sings a warsong, his damage seems to have been increased."
+    "弥诺陶洛斯开始颂唱战歌，似乎让他的攻击力提升了不少。"
 
-# translate schinese mino_battle_loop_8d6713cf:
+translate schinese mino_battle_loop_8d6713cf:
 
-#     # "You can still feel yourself being wrapped around by the minotaur's strong arm, refusing to let you go."
-#     ""
+    # "You can still feel yourself being wrapped around by the minotaur's strong arm, refusing to let you go."
+    "弥诺陶洛斯屈臂紧紧扣住你，不肯松手。"
 
-# translate schinese mino_battle_loop_a8885461:
+translate schinese mino_battle_loop_a8885461:
 
-#     # "He buries your face into his warm and fuzzy chest, your lust has increased by 9."
-#     ""
+    # "He buries your face into his warm and fuzzy chest, your lust has increased by 9."
+    "你被迫挤在他又毛绒又暖和的胸膛中，享受之余性欲上升了 9 点。"
 
-# translate schinese mino_win_2d2ab173:
+translate schinese mino_win_2d2ab173:
 
-#     # "You have won against the minotaur."
-#     ""
+    # "You have won against the minotaur."
+    "孤战告捷，你立马掏出哈斯克尔要你带着的容器……"
 
-# translate schinese mino_win_595d80d7:
+translate schinese mino_win_595d80d7:
 
-#     # "You take out the vial that Haskell asked you to bring..."
-#     ""
+    # "You take out the vial that Haskell asked you to bring..."
+    pass
 
-# translate schinese mino_win_81a696e3:
+translate schinese mino_win_81a696e3:
 
-#     # "You retrieved a bottle of minotaur's essence."
-#     ""
+    # "You retrieved a bottle of minotaur's essence."
+    "你取得了一瓶弥诺陶洛斯精华。"
 
-# translate schinese mino_win_9a89312e:
+translate schinese mino_win_9a89312e:
 
-#     # "You also found [gold_drop] gold and [exp_drop] EXP."
-#     ""
+    # "You also found [gold_drop] gold and [exp_drop] EXP."
+    "还同时收获了 [gold_drop] 枚金币和 [exp_drop] 点经验。"
 
-# translate schinese mino_win_91f1d522:
+translate schinese mino_win_91f1d522:
 
-#     # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
-#     msg ""
+    # msg "You are now Level [pc.level]! Check your inventory to allocate your level points."
+    msg "你的等级已升至 [pc.level] 级！请进入背包界面分配新增属性点。"
 
-# translate schinese mino_win_5d236da7:
+translate schinese mino_win_5d236da7:
 
-#     # "You leave the dungeon soon after."
-#     ""
+    # "You leave the dungeon soon after."
+    "你随后离开了山洞。"
 
-# translate schinese mino_lose_7240b865:
+translate schinese mino_lose_7240b865:
 
-#     # "You lost against the minotaur...he seems to be very satisfied with your slumped form."
-#     ""
+    # "You lost against the minotaur...he seems to be very satisfied with your slumped form."
+    "你输了……而现在这副孱弱的模样正中巨兽下怀。"
+
+translate schinese strings:
+
+    old "Do you want to play the scene?"
+    new "你想重放情色场景吗？"

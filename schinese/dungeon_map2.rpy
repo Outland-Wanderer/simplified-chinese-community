@@ -119,7 +119,7 @@ translate schinese Mino_Maze_Loop_0b98a90b:
 translate schinese Mino_Maze_Loop_55948bf0:
 
     # "This only made the minotaur more angry..."
-    "而这仅会令他更加愤怒……"
+    "而这更是火上浇油……"
 
 translate schinese strings:
 
@@ -589,7 +589,7 @@ translate schinese Mino_Maze_Loop_4dc279d7:
 translate schinese Mino_Maze_Loop_7ff59fd1:
 
     # "'A beast I have captured with sorcery and magic.'"
-    "上边写着：“妖术巫术叠法术，挥汗捉得神兽归。”"
+    "上边写着：“妖术巫术叠法术，挥汗擒得神牛束。”"
 
 translate schinese Mino_Maze_Loop_2647fb51:
 
