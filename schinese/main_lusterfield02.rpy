@@ -160,11 +160,11 @@ translate schinese strings:
     # old "Ask about the favour"
     # new "询问还有什么能帮忙的"
 
-    # old "Accept the Private Show Offer"
-    # new "答应为酒馆提供私人服务"
+    old "Accept the Private Show Offer"
+    new "答应为酒馆提供私人服务"
 
-    # old "Report for the Private Show Preparation"
-    # new "报告包间的准备完成情况"
+    old "Report for the Private Show Preparation"
+    new "报告包间的准备完成情况"
 
     old "Order something"
     new "购买酒水"
