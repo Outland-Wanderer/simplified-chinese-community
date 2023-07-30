@@ -2645,7 +2645,7 @@ translate schinese Haskell_Minotaur_Dungeon_b732ba87:
 
 translate schinese Haskell_Minotaur_Dungeon_9cb08916:
 
-    # h "Yes. A large bullman that is capable of smashing through pure stone walls with ebrut force alone."
+    # h "Yes. A large bullman that is capable of smashing through pure stone walls with brute force alone."
     h "是的。那是一种能靠蛮力撞碎几堵石墙的巨大的牛头人。"
 
 translate schinese Haskell_Minotaur_Dungeon_3a288b2b:
@@ -2904,109 +2904,109 @@ translate schinese Haskell_Sick_Quest_e206f31b:
     # e "Of course!"
     e "没问题！"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_475197a1:
+translate schinese Haskell_Report_Minotaur_Dungeon_475197a1:
 
-#     # e "Haskell, I got the essence."
+    # e "Haskell, I got the essence."
     e "哈斯克尔，我拿到精华了。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_c17671b3:
+translate schinese Haskell_Report_Minotaur_Dungeon_c17671b3:
 
-#     # "You hand the vial over to Haskell."
+    # "You hand the vial over to Haskell."
     "你将小瓶子递给哈斯克尔。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_34fcfa42:
+translate schinese Haskell_Report_Minotaur_Dungeon_34fcfa42:
 
-#     # "Haskell swirls the viscous liquid."
+    # "Haskell swirls the viscous liquid."
     "哈斯克尔摇晃了一下那粘稠的液体。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_fbe9fb19:
+translate schinese Haskell_Report_Minotaur_Dungeon_fbe9fb19:
 
-#     # h "It looks like you have a good time harvesting this product."
+    # h "It looks like you have a good time harvesting this product."
     h "看起来你收获这些东西的时候很爽啊。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_1cd9bf6b:
+translate schinese Haskell_Report_Minotaur_Dungeon_1cd9bf6b:
 
-#     # "You scratch your head and nod shyly."
+    # "You scratch your head and nod shyly."
     "你挠挠头，害羞的点了点。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_6a4609e4:
+translate schinese Haskell_Report_Minotaur_Dungeon_6a4609e4:
 
-#     # "To change the subject, you ask."
+    # "To change the subject, you ask."
     "为了换个话题，你开口问道。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_b969e471:
+translate schinese Haskell_Report_Minotaur_Dungeon_b969e471:
 
-#     # e "Haskell, who is your client that gave you this request anyway?"
+    # e "Haskell, who is your client that gave you this request anyway?"
     e "说起来哈斯克尔，给你这个委托的客户是谁啊?"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_b3834a8b:
+translate schinese Haskell_Report_Minotaur_Dungeon_b3834a8b:
 
-#     # h "That's for me to know, and not for you to find out."
+    # h "That's for me to know, and not for you to find out."
     h "这是我可以知道，而你不可以的内容。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_632dde61:
+translate schinese Haskell_Report_Minotaur_Dungeon_632dde61:
 
-#     # h "But I can tell you this. He is actually the source that told me about the minotaur cave."
+    # h "But I can tell you this. He is actually the source that told me about the minotaur cave."
     h "但我可以透露一点。他其实是告诉了我那个牛头人洞窟的人。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_43b53d27:
+translate schinese Haskell_Report_Minotaur_Dungeon_43b53d27:
 
-#     # h "I did some research while you were off in the dungeon."
+    # h "I did some research while you were off in the dungeon."
     h "在你去地牢的时候我还做了点调查。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_94699b04:
+translate schinese Haskell_Report_Minotaur_Dungeon_94699b04:
 
-#     # h "The minotaur you fought is technically not an evil monster."
+    # h "The minotaur you fought is technically not an evil monster."
     h "你所击败的那个弥诺陶洛斯严格来说并不是一个邪恶的怪物。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_f6faf2fc:
+translate schinese Haskell_Report_Minotaur_Dungeon_f6faf2fc:
 
-#     # h "It was imprisoned for it didn't know how to control its immense power."
+    # h "It was imprisoned for it didn't know how to control its immense power."
     h "他是因为不知道如何控制自己强大的力量而被监禁的。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_fc4fabcc:
+translate schinese Haskell_Report_Minotaur_Dungeon_fc4fabcc:
 
-#     # h "It has been sometime since the beast had some company in its captivity."
+    # h "It has been sometime since the beast had some company in its captivity."
     h "那个野兽自从被抓到之后，已经挺长时间没见过外人了。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_248a167b:
+translate schinese Haskell_Report_Minotaur_Dungeon_248a167b:
 
-#     # h "So, I believe it is thankful that a courier went to visit it, regardless of the outcome."
+    # h "So, I believe it is thankful that a courier went to visit it, regardless of the outcome."
     h "所以，我相信他很感谢有一个邮递员去拜访了他，不管最后是什么结局。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_601f1b5c:
+translate schinese Haskell_Report_Minotaur_Dungeon_601f1b5c:
 
-#     # e "That's... quite sad."
+    # e "That's... quite sad."
     e "这还挺……悲哀的。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_d395c31b:
+translate schinese Haskell_Report_Minotaur_Dungeon_d395c31b:
 
-#     # h "Well, don't get too attached. The beast is ultimately a freak of nature."
+    # h "Well, don't get too attached. The beast is ultimately a freak of nature."
     h "哎呀，别过度怜爱了。这个野兽说到底是个自然的怪胎。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_8e46ef1a:
+translate schinese Haskell_Report_Minotaur_Dungeon_8e46ef1a:
 
-#     # h "It might not mean harm but it was imprisoned for a reason."
+    # h "It might not mean harm but it was imprisoned for a reason."
     h "哪怕他并非有意伤害别人，他被关起来也是有原因的。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_84574523:
+translate schinese Haskell_Report_Minotaur_Dungeon_84574523:
 
-#     # h "If one can't control lightning, one has to bottle it."
+    # h "If one can't control lightning, one has to bottle it."
     h "如果不能控制住雷电，那就收起召唤它的力量。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_5022ce7e:
+translate schinese Haskell_Report_Minotaur_Dungeon_5022ce7e:
 
-#     # h "Anyway, enough story. Now let me get on with the potion making."
+    # h "Anyway, enough story. Now let me get on with the potion making."
     h "好了，故事就讲到这里。现在我要去继续制作药剂了。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_5f1650c7:
+translate schinese Haskell_Report_Minotaur_Dungeon_5f1650c7:
 
-#     # h "With the amount you've harvested, I should be able to make an extra potion for you."
+    # h "With the amount you've harvested, I should be able to make an extra potion for you."
     h "你获取的数量可能足够我在为你额外制作一瓶了。"
 
-# translate schinese Haskell_Report_Minotaur_Dungeon_b73b6cb7:
+translate schinese Haskell_Report_Minotaur_Dungeon_b73b6cb7:
 
-#     # e "Thank you so much, Haskell."
+    # e "Thank you so much, Haskell."
     e "非常感谢，哈斯克尔。"
 
 translate schinese Haskell_After_Sick_Quest_1ddad8d8:
