@@ -760,50 +760,61 @@ translate schinese Cane_Ask_Goat_Tribe_bba3d5dd:
     # c "No problem, good lad."
     c "甭客气，好孩子。"
 
-# translate schinese Cane_Work_b9eb2c1d:
+translate schinese Cane_Work_b9eb2c1d:
 
-#     # e "Cane, Can I get some work here?"
-#     e ""
+    # e "Cane, Can I get some work here?"
+    e ""
 
-# translate schinese Cane_Work_482cb8d8:
+translate schinese Cane_Work_482cb8d8:
 
-#     # c "What'cha thinkin. Ya be a Server or show yer patron some ass?" nointeract
-#     c "" nointeract
+    # c "What'cha thinkin. Ya be a Server or show yer patron some ass?" nointeract
+    c "" nointeract
 
-# translate schinese Cane_Work_76aa60a3:
+translate schinese strings:
 
-#     # e "Hey, Cane! Can I... ask if I can work on the private show?"
-#     e ""
+    old "Work in the Private Show"
+    new ""
 
-# translate schinese Cane_Work_392c40f8:
+    old "Work as a server"
+    new ""
 
-#     # c "Yer in luck, my lad! Or rather, we've got a lucky patron."
-#     c ""
+    old "The pay's 100 gold, ya in?"
+    new ""
 
-# translate schinese Cane_Work_572c9742:
+translate schinese Cane_Work_76aa60a3:
 
-#     # c "Ye've a patron waitin' for ye in the backroom."
-#     c ""
+    # e "Hey, Cane! Can I... ask if I can work on the private show?"
+    e ""
 
-# translate schinese Cane_Work_46f4825c:
+translate schinese Cane_Work_392c40f8:
 
-#     # c "I'll hand ye the pay once yer done."
-#     c ""
+    # c "Yer in luck, my lad! Or rather, we've got a lucky patron."
+    c ""
 
-# translate schinese Cane_Work_d4392b56:
+translate schinese Cane_Work_572c9742:
 
-#     # e "I'll need to think more, thanks Cane."
-#     e ""
+    # c "Ye've a patron waitin' for ye in the backroom."
+    c ""
 
-# translate schinese Cane_Work_99900951:
+translate schinese Cane_Work_46f4825c:
 
-#     # c "Eh... Alright. don't leave 'em hanging for too long, lad."
-#     c ""
+    # c "I'll hand ye the pay once yer done."
+    c ""
 
-# translate schinese Cane_Work_e0696090:
+translate schinese Cane_Work_d4392b56:
 
-#     # e "O-ok! Thank you, Cane."
-#     e ""
+    # e "I'll need to think more, thanks Cane."
+    e ""
+
+translate schinese Cane_Work_99900951:
+
+    # c "Eh... Alright. don't leave 'em hanging for too long, lad."
+    c ""
+
+translate schinese Cane_Work_e0696090:
+
+    # e "O-ok! Thank you, Cane."
+    e ""
 
 translate schinese Cane_Work_0c1134d3:
 
