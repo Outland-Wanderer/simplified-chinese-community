@@ -966,6 +966,161 @@ translate schinese strings:
     old "I'll think about it."
     new "改天再喝"
 
+translate schinese Cane_Event_Patron_Show_5518bece:
+
+    # "After a hard day of working at the tavern, you walk over to the counter to get your pay."
+    ""
+
+translate schinese Cane_Event_Patron_Show_f617c069:
+
+    # "As Cane hands you the gold, he stops you for a moment."
+    ""
+
+translate schinese Cane_Event_Patron_Show_516ca083:
+
+    # c "Wait- care for a proposal, lad?"
+    c ""
+
+translate schinese Cane_Event_Patron_Show_95bcf042:
+
+    # e "What is it, Cane?"
+    e ""
+
+translate schinese Cane_Event_Patron_Show_e90c070a:
+
+    # c "Let's say... Yer service at the tavern has drawn quite a bit of attention."
+    c ""
+
+translate schinese Cane_Event_Patron_Show_b0638855:
+
+    # c "I've gotten a lotta requests... for a private show."
+    c ""
+
+translate schinese Cane_Event_Patron_Show_c4cf029f:
+
+    # e "Private show? What does that mean?"
+    e ""
+
+translate schinese Cane_Event_Patron_Show_d8315c4a:
+
+    # c "It means yer gonna put that body to use and spend some quality time with patrons who have ya ass reserved... for their enjoyment."
+    c ""
+
+translate schinese Cane_Event_Patron_Show_d766802a:
+
+    # "The idea makes your face blush cherry red."
+    ""
+
+translate schinese Cane_Event_Patron_Show_fb111845:
+
+    # e "H-huh? But... Why would I do that?"
+    e ""
+
+translate schinese Cane_Event_Patron_Show_dec9f2ac:
+
+    # c "Money?"
+    c ""
+
+translate schinese Cane_Event_Patron_Show_7d400763:
+
+    # c "...And ah get the feelin' that yed have a good time doin' it."
+    c ""
+
+translate schinese Cane_Event_Patron_Show_b3514972:
+
+    # "Cane gives you a wink, and purposefully looks down at crotch"
+    ""
+
+translate schinese Cane_Event_Patron_Show_bc802a52:
+
+    # c "Don't think I can't see mah special lad perkin' up at the idea down there."
+    c ""
+
+translate schinese Cane_Event_Patron_Show_cab05363:
+
+    # "If you were cherry red before, now you've somehow hit a shade of red brighter than a raspberry."
+    ""
+
+translate schinese Cane_Event_Patron_Show_3a554196:
+
+    # c "Cute as it is to watch ye flounder all embarrassed like, I do got to get back to work at some point."
+    c ""
+
+translate schinese Cane_Event_Patron_Show_1f6a82a9:
+
+    # c "These goons're gonna be payin' extra to spend some quality alone time with my tavern's star server."
+    c ""
+
+translate schinese Cane_Event_Patron_Show_a2ea2729:
+
+    # e "W-would people really pay for that?"
+    e ""
+
+translate schinese Cane_Event_Patron_Show_4dec8e3a:
+
+    # "Cane gives you a skeptical look, only to grin devilishly when he realizes you're being genuine."
+    ""
+
+translate schinese Cane_Event_Patron_Show_3206b9ff:
+
+    # c "My lad, ya have no idea how many people in this here tavern want a piece of ya."
+    c ""
+
+translate schinese Cane_Event_Patron_Show_6cdba73c:
+
+    # "You are too shy to respond."
+    ""
+
+translate schinese Cane_Event_Patron_Show_605821f2:
+
+    # c "Anyway, I know this is a lil' sudden. Why don't ya go and sleep on it? No pressure."
+    c ""
+
+translate schinese Cane_Event_Patron_Show_c93dad57:
+
+    # c "Just talk to me... if ya tight on money, or wanna have a good time."
+    c ""
+
+translate schinese Cane_Event_Patron_Show_12bbaf7f:
+
+    # e "I- Uh... I'll think about it..."
+    e ""
+
+translate schinese Cane_Event_Patron_Show_0072c632:
+
+    # c "Think on it, my lad. I wouldn't hold a grudge... It's yer choice, and I won't push ya either way."
+    c ""
+
+translate schinese Cane_Event_Patron_Show_25e10c77:
+
+    # c "Yer my special lad, I owe ye at least that much."
+    c ""
+
+translate schinese Cane_Event_Patron_Show_62df6135:
+
+    # c "But do make sure yer ready if ye say yes."
+    c ""
+
+translate schinese Cane_Event_Patron_Show_74b6cd0d:
+
+    # c "Because once you've taken their money, the patron'd be yer king... mmhmm..."
+    c ""
+
+translate schinese Cane_Event_Patron_Show_ed31745b:
+
+    # "Suddenly, Cane walks out from behind the counter, and gets up behind you, making sure to look you in the eyes, continuing only when he sees your approval."
+    ""
+
+translate schinese Cane_Event_Patron_Show_b080ab2b:
+
+    # "He grasps your hips lightly before brushing his hands up your side and whispering in your ear."
+    ""
+
+translate schinese Cane_Event_Patron_Show_8231776a:
+
+    # c "Let 'em have the time o' their life with me sexy lad."
+    c ""
+
 translate schinese Cane_Private_Show_Quest_Accept_02bce3f8:
 
     # e "Cane, I think I'll accept doing the private shows."
