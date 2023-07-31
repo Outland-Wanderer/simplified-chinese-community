@@ -2661,7 +2661,7 @@ translate schinese Haskell_Minotaur_Dungeon_01fc2b21:
 translate schinese Haskell_Minotaur_Dungeon_ee5320ab:
 
     # h "Through my channels, I've caught wind of a living Minotaur trapped inside a sandstone cave."
-    h "根据我的情报，曾有过传染说一只活着的牛头人正被关在一个砂石洞穴里面。"
+    h "根据我的情报，曾有过传言说一只活着的牛头人正被关在一个砂石洞穴里面。"
 
 translate schinese Haskell_Minotaur_Dungeon_10d7a1e9:
 
@@ -2721,7 +2721,7 @@ translate schinese Haskell_Minotaur_Dungeon_90b010ad:
 translate schinese Haskell_Minotaur_Dungeon_8888dbab:
 
     # h "I believe you have what it takes, courier."
-    h "我相信你有这个资格，邮递员。"
+    h "我相信你有这个资格，[e]。"
 
 translate schinese Haskell_Minotaur_Dungeon_8ee1196f:
 
@@ -2761,7 +2761,7 @@ translate schinese Haskell_Minotaur_Dungeon_afa921c3:
 translate schinese Haskell_Minotaur_Dungeon_2452fcf1:
 
     # e "By essence, do you mean..."
-    e "说起来这个精华是……"
+    e "那个精华该不会是……"
 
 translate schinese Haskell_Minotaur_Dungeon_910b4a06:
 
@@ -2771,7 +2771,7 @@ translate schinese Haskell_Minotaur_Dungeon_910b4a06:
 translate schinese Haskell_Minotaur_Dungeon_73c21c08:
 
     # h "Yes, courier. Your adventure will be hard but well-rewarded."
-    h "是的，邮递员。你的冒险虽然辛苦，但奖励也很丰厚。"
+    h "是的，孩子。你的冒险虽然辛苦，但奖励也很丰厚。"
 
 translate schinese Haskell_Minotaur_Dungeon_db17c069:
 
@@ -2796,7 +2796,7 @@ translate schinese Haskell_Minotaur_Dungeon_d752473d:
 translate schinese Haskell_Minotaur_Dungeon_a5374a47:
 
     # h "Stay safe, courier."
-    h "一定要平安啊，邮递员。"
+    h "一定要平安啊，[e]。"
 
 translate schinese Haskell_Minotaur_Dungeon_cf2822a3:
 
@@ -2992,7 +2992,7 @@ translate schinese Haskell_Report_Minotaur_Dungeon_8e46ef1a:
 translate schinese Haskell_Report_Minotaur_Dungeon_84574523:
 
     # h "If one can't control lightning, one has to bottle it."
-    h "如果不能控制住雷电，那就收起召唤它的力量。"
+    h "如果没有控制龙的力量，那还是别给他画上眼睛了。"
 
 translate schinese Haskell_Report_Minotaur_Dungeon_5022ce7e:
 
