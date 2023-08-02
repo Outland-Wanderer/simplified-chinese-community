@@ -92,7 +92,7 @@ translate schinese Jog_Normal_Talk_58e0fbb5:
 translate schinese Jog_Lothar_Training_d608835b:
 
     # j "Courier, are you sure you can handle this?"
-    j "喂，邮递员，你确定你够资格吗？"
+    j "喂，哥们儿，你确定你够资格吗？"
 
 translate schinese Jog_Lothar_Training_314eca71:
 
