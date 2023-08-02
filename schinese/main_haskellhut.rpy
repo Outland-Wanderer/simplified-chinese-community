@@ -2992,7 +2992,7 @@ translate schinese Haskell_Report_Minotaur_Dungeon_8e46ef1a:
 translate schinese Haskell_Report_Minotaur_Dungeon_84574523:
 
     # h "If one can't control lightning, one has to bottle it."
-    h "如果没有控制龙的力量，那还是别给他画上眼睛了。"
+    h "一如火元素，若不能控制便去使用只会玩火自焚。"
 
 translate schinese Haskell_Report_Minotaur_Dungeon_5022ce7e:
 
