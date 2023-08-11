@@ -92,977 +92,977 @@ translate schinese Jog_Normal_Talk_58e0fbb5:
 translate schinese Jog_Lothar_Training_d608835b:
 
     # j "Courier, are you sure you can handle this?"
-    j "喂，哥们儿，你确定你够资格吗？"
+    j ""
 
 translate schinese Jog_Lothar_Training_314eca71:
 
     # j "Lot told us that you can't even beat the training dummy."
-    j "洛哥给我们说你连个训练木偶都打不过。"
+    j ""
 
 translate schinese Jog_Lothar_Training_5ebadbf1:
 
     # e "That is not true."
-    e "他说得不对。"
+    e ""
 
 translate schinese Jog_Lothar_Training_27bc135c:
 
     # j "Now why would Lot lie about that?"
-    j "那洛哥骗我们的理由是啥？"
+    j ""
 
 translate schinese Jog_Lothar_Training_772a9682:
 
     # "You don't know what to say..."
-    "你一时无语凝噎……"
+    ""
 
 translate schinese Jog_Lothar_Training_4c0a8685:
 
     # j "It doesn't matter. Because I actually have a mission from him and I figure this is the perfect training opportunity for you."
-    j "甭说这个了。理由就是他其实给了我个任务，但我觉得这是一个极好的训练你的机会。"
+    j ""
 
 translate schinese Jog_Lothar_Training_924d27d3:
 
     # e "What is it?"
-    e "是什么内容？"
+    e ""
 
 translate schinese Jog_Lothar_Training_d2600c43:
 
     # j "We're going to infiltrate into the nucleus of the goat tribe."
-    j "咱俩要一起潜入到山羊部落的中心去窃取情报。"
+    j ""
 
 translate schinese Jog_Lothar_Training_1ea97b2d:
 
     # e "Why?"
-    e "为何是我？"
+    e ""
 
 translate schinese Jog_Lothar_Training_98b00ceb:
 
     # j "I've heard everything from Lot. You did good Courier."
-    j "洛哥啥都跟我说了。你情报员干得不错。"
+    j ""
 
 translate schinese Jog_Lothar_Training_39182b12:
 
     # j "But you are too trusting. We have to check if the goats are lying. I won't be surprised if they are."
-    j "但你也太轻信别人了。咱得去查查那帮山羊说的是真是假。如果是假的我也一点儿都不会奇怪。"
+    j ""
 
 translate schinese Jog_Lothar_Training_2a03d930:
 
     # j "He said you don't have the balls to go face the goats."
-    j "他还说你没那胆子去直面山羊。"
+    j ""
 
 translate schinese Jog_Lothar_Training_9c54f0e2:
 
     # j "So this will be your training. Don't worry. I'll be there to watch over your ass, figuratively and maybe literally too."
-    j "所以，这就是你的训练了。你放心，我会在后面给你擦屁股的，不管是比喻意义上还是字面意义上。"
+    j ""
 
 translate schinese Jog_Lothar_Training_e4c0c14f:
 
     # j "He said that you got nothing even though you've successfully gained access into their tribe."
-    j "他说你哪怕是都能自由进出他们部落了也啥都没套出来。"
+    j ""
 
 translate schinese Jog_Lothar_Training_15f0701e:
 
     # j "That won't do. But we're going to fix that."
-    j "这可不行。所以咱得给这块儿补一补。"
+    j ""
 
 translate schinese Jog_Lothar_Training_6f57a41c:
 
     # j "Either way, we have to find out what the goats are really up to."
-    j "不管用啥手段，咱都得去探探那帮山羊葫芦里卖的究竟是什么药。"
+    j ""
 
 translate schinese Jog_Lothar_Training_607b1c0c:
 
     # e "So..."
-    e "那个……"
+    e ""
 
 translate schinese Jog_Lothar_Training_e1a8650b:
 
     # e "What do you think they're up to?"
-    e "那你觉得他们在谋划什么呢？"
+    e ""
 
 translate schinese Jog_Lothar_Training_1e310360:
 
     # j "I don't know, based on their recent activity it seems they're searching for something."
-    j "我咋知道，看他们最近的表现似乎是在找啥玩意儿。"
+    j ""
 
 translate schinese Jog_Lothar_Training_87107475:
 
     # j "Not like I'd be interested unless they're taking their pants off in the middle of the forest."
-    j "我可不是对他们感兴趣啊，但谁让他们在森林里脱裤子。"
+    j ""
 
 translate schinese Jog_Lothar_Training_47e7942f:
 
     # e "Have they?"
-    e "有吗？"
+    e ""
 
 translate schinese Jog_Lothar_Training_1501d0e9:
 
     # j "Maybe they have. That's the perks of being a scout, you get to see all sorts of thing."
-    j "也许有。这可是当侦察员的好处了，你啥玩意儿都能看到。"
+    j ""
 
 translate schinese Jog_Lothar_Training_bf825c4a:
 
     # e "Huh, what does a scout do?"
-    e "嗯，那侦察员的工作是什么？"
+    e ""
 
 translate schinese Jog_Lothar_Training_cc082576:
 
     # j "Watching out for danger, being the first to explore a new area, and all."
-    j "警戒危险，探索新地区时打头阵，类似这些。"
+    j ""
 
 translate schinese Jog_Lothar_Training_1a58be18:
 
     # j "Sometimes I do see people pulling pants off, and that's why I like what I'm doing."
-    j "不过有时候我确实能看到一些人脱掉他们的裤子，而这也是我喜欢我工作的原因。"
+    j ""
 
 translate schinese Jog_Lothar_Training_d255c973:
 
     # e "Wouldn't you rather be the one that's... pulling their pants off?"
-    e "难道你不更应该想当那个……脱掉他们裤子的人吗？"
+    e ""
 
 translate schinese Jog_Lothar_Training_497e4581:
 
     # j "What? Your brain is filled with lewd stuff much more than I do, and I won't tolerate being the second horniest person here."
-    j "啥？你脑子里的淫荡想法可比我多多了，我可不能接受有人比我更好色。"
+    j ""
 
 translate schinese Jog_Lothar_Training_100baa4b:
 
     # e "I mean, do you enjoy watching people from afar more than engaging with people?"
-    e "我的意思是，比起直接上手你更喜欢远远地看着他们吗？"
+    e ""
 
 translate schinese Jog_Lothar_Training_bed7e178:
 
     # j "I don't see anything wrong with that. If it's what I'm good at then it's what it is."
-    j "我没觉得这有啥问题。要是我更擅长这个，那我就做这个就是了。"
+    j ""
 
 translate schinese Jog_Lothar_Training_54d4952d:
 
     # e "Fair enough."
-    e "也有道理。"
+    e ""
 
 translate schinese Jog_Lothar_Training_f1effd07:
 
     # j "Plus, if I needed any sex I'd come to you first since you're all up for this, aren't you."
-    j "更何况，我要是想做爱了肯定会先找你，毕竟你随时随地都可以做的，对吧。"
+    j ""
 
 translate schinese Jog_Lothar_Training_2a31ed0c:
 
     # e "M-maybe?"
-    e "也——也许吧？"
+    e ""
 
 translate schinese Jog_Lothar_Training_24e28dbc:
 
     # "Jog chuckles slightly."
-    "乔格轻轻一笑。"
+    ""
 
 translate schinese Jog_Lothar_Training_2b28d25c:
 
     # j "Now, I've scouted ahead and determined that our biggest obstacles is the two guards at the tribe entrance."
-    j "行了，我已经提前侦查过了，咱们最大的障碍就是部落入口的那两个收尾。"
+    j ""
 
 translate schinese Jog_Lothar_Training_8f17d807:
 
     # j "How do you suggest we deal with them?"
-    j "你觉得咱们要咋过他俩？"
+    j ""
 
 translate schinese Jog_Lothar_Training_ec0a65b5:
 
     # e "Uhmm... what do you think?"
-    e "呃……你认为呢？"
+    e ""
 
 translate schinese Jog_Lothar_Training_80f17ee8:
 
     # j "I can see there's two ways we can approach."
-    j "我认为咱们有两种进入方法。"
+    j ""
 
 translate schinese Jog_Lothar_Training_f0ad2a79:
 
     # j "First way, I see there's a rock wall near the outer wall of the goat tribe. We can hike the rock and leap over the walls."
-    j "第一种，我发现山羊部落外墙附近有个石头。我们可以踩着石头翻墙进去。"
+    j ""
 
 translate schinese Jog_Lothar_Training_9145174a:
 
     # j "Or, I can fire an arrow and distract the two guards away from the entrance. Then, we'll sneak in."
-    j "要么就是我射一支火箭，吸引开门口守卫，咱俩再溜进去。"
+    j ""
 
 translate schinese Jog_Lothar_Training_5e733535:
 
     # j "Either way, we'll have to be fast."
-    j "但不管那种咱们都得利索点儿。"
+    j ""
 
 translate schinese Jog_Lothar_Training_1328e229:
 
     # j "What do you think?" nointeract
-    j "你认为呢？" nointeract
+    j "" nointeract
 
 translate schinese Jog_Lothar_Training_690be16e:
 
     # e "I'll choose... Distraction?"
-    e "我觉得……调虎离山？"
+    e ""
 
 translate schinese Jog_Lothar_Training_4ba3281c:
 
     # j "Alright, then."
-    j "那行。"
+    j ""
 
 translate schinese Jog_Lothar_Training_faa7d97b:
 
     # e "Hmm..."
-    e "嗯……"
+    e ""
 
 translate schinese Jog_Lothar_Training_cf6bcb30:
 
     # e "Jog, how did you pick up archery?"
-    e "乔格，你是怎么学会箭术的？"
+    e ""
 
 translate schinese Jog_Lothar_Training_a4ed5cf0:
 
     # j "It... well... I never was a good survivor."
-    j "那是……那个……我的生存技能一直都不太行。"
+    j ""
 
 translate schinese Jog_Lothar_Training_70b84424:
 
     # j "I was left all alone, when I was very very young. Much like a little kid."
-    j "在我非常非常小的时候，我就被抛弃了。完全就是个小孩儿。"
+    j ""
 
 translate schinese Jog_Lothar_Training_ab989c47:
 
     # j "And, I have to tell you this, I never liked being in the village. Most of the time I go to the forest and have fun."
-    j "然后，我必须告诉你，我一直都不喜欢呆在村子里。绝大多数时间我都是在森林里玩。"
+    j ""
 
 translate schinese Jog_Lothar_Training_0af3dc39:
 
     # j "I picked up the bow pretty early on, not an exciting story really. I just practised outside with Amble."
-    j "我挺早就开始玩弓了，也没啥兴奋的故事。我只是和安步一起在外面练习。"
+    j ""
 
 translate schinese Jog_Lothar_Training_30aabf79:
 
     # j "But I didn't live with him until much later on."
-    j "不过直到很后面我才和他住在一起。"
+    j ""
 
 translate schinese Jog_Lothar_Training_00ea2360:
 
     # e "Did you practice a lot?"
-    e "你练得很多吗？"
+    e ""
 
 translate schinese Jog_Lothar_Training_8fcd8f9d:
 
     # j "Of course. Speaking of, it was Amble who carved and set up the archery range in town."
-    j "废话。说起来还是安步在镇上搞了个射箭场出来。"
+    j ""
 
 translate schinese Jog_Lothar_Training_71ac22ca:
 
     # j "We hang out there when we're in the village."
-    j "在村里的时候我们就一起闲逛。"
+    j ""
 
 translate schinese Jog_Lothar_Training_bdf5e14e:
 
     # j "But sometimes, the bear and I are up to something else."
-    j "但是，有时候我和那只熊会做些别的事情。"
+    j ""
 
 translate schinese Jog_Lothar_Training_1eee6c19:
 
     # j "Let's just say on those times, I'd be handling something a lot more heftier than my bow."
-    j "只能说在那些时候，我得处理一些比我的弓要健壮得多的玩意儿。"
+    j ""
 
 translate schinese Jog_Lothar_Training_0013fb52:
 
     # e "...heftier?"
-    e "……健壮？"
+    e ""
 
 translate schinese Jog_Lothar_Training_e580fec2:
 
     # j "If I explain it it wouldn't be as much fun, [e]."
-    j "我要是说太直白就没意思了，[e]。"
+    j ""
 
 translate schinese Jog_Lothar_Training_8760c7a4:
 
     # e "I'll choose... Sneaking?"
-    e "我觉得……翻墙？"
+    e ""
 
 translate schinese Jog_Lothar_Training_4ba3281c_1:
 
     # j "Alright, then."
-    j "那行。"
+    j ""
 
 translate schinese Jog_Lothar_Training_74c0edcd:
 
     # e "So... Jog, how did you get designated as the scout?"
-    e "说起来……乔格，你是怎么当侦察员的？"
+    e ""
 
 translate schinese Jog_Lothar_Training_7dba1335:
 
     # j "The role came naturally to me."
-    j "自然而然就成了。"
+    j ""
 
 translate schinese Jog_Lothar_Training_1bc4428a:
 
     # j "I was born... well. not as strong as the others."
-    j "我出生的时候……呃，没别人那么强壮。"
+    j ""
 
 translate schinese Jog_Lothar_Training_08b467f6:
 
     # j "But, you know. It has its benefits, despite those other's pesky jeering and all."
-    j "但，你也知道。除了会被一帮讨厌的人嘲笑啥的，这也有优势。"
+    j ""
 
 translate schinese Jog_Lothar_Training_b29c0448:
 
     # j "I can escape people's detection quite easily and I can fit into small crooks others can't."
-    j "我可以轻松地逃过人们的搜查，而且可以钻进其他人进不去的小缝里面。"
+    j ""
 
 translate schinese Jog_Lothar_Training_9ab8d17c:
 
     # e "That sounds useful."
-    e "这还挺实用的。"
+    e ""
 
 translate schinese Jog_Lothar_Training_32aa90e9:
 
     # "Jog looks over and cracks a smile."
-    "乔格看了你一眼，咧嘴一笑。"
+    ""
 
 translate schinese Jog_Lothar_Training_7f14f4ef:
 
     # j "Well, you have no idea how many perks you'll get by just staying hidden."
-    j "哼哼，你可想象不到躲在暗处能蹲到多少福利。"
+    j ""
 
 translate schinese Jog_Lothar_Training_7ba49542:
 
     # j "Let's just say Lusterfield lives up to the Lust in its name."
-    j "毕竟咱乐斯民菲尔德村，乐就乐在淫乐。"
+    j ""
 
 translate schinese Jog_Lothar_Training_0bfa5f0f:
 
     # j "Stuff sometimes get left behind after sex."
-    j "有时村里人翻云覆雨过后，还会留下些好东西。"
+    j ""
 
 translate schinese Jog_Lothar_Training_4707b364:
 
     # j "Speaking of, a free tip."
-    j "说到这儿，免费给你个建议。"
+    j ""
 
 translate schinese Jog_Lothar_Training_6ef4031b:
 
     # j "That lizard friend of yours at the shop packs a big one. You might want to prepare yourself before you proceed further."
-    j "你那个商店里的蜥蜴朋友可有个大包。你俩要是想更进一步的话你也许得好好准备。"
+    j ""
 
 translate schinese Jog_Lothar_Training_734ba8f5:
 
     # "Jog winks mischievously at you."
-    "乔格俏皮地朝你抛了个媚眼。"
+    ""
 
 translate schinese Jog_Lothar_Training_6092ec23:
 
     # j "I may or may not know from experience. Haha."
-    j "我可能是，也可能不是从实践中得来的经验哦。哈哈哈。"
+    j ""
 
 translate schinese Jog_Lothar_Training_a968419e:
 
     # "Soon... you and Jog arrive at the Goat Tribe."
-    "过了一会儿……你和乔格便到了山羊部落。"
+    ""
 
 translate schinese Jog_Lothar_Training_9b0cb92c:
 
     # "You hide behind a bush."
-    "你们藏在一片灌木后面。"
+    ""
 
 translate schinese Jog_Lothar_Training_740732b9:
 
     # j "Be prepared. I'll shoot an arrow."
-    j "做好准备。我准备射箭了。"
+    j ""
 
 translate schinese Jog_Lothar_Training_eff8f55b:
 
     # j "Once the goats go investigating after it, we'll leg it into the tribe."
-    j "只要看到那些山羊去调查，咱们就赶紧溜进去。"
+    j ""
 
 translate schinese Jog_Lothar_Training_7edf1262:
 
     # j "Keep your body low to the ground."
-    j "记得将身体尽可能伏低。"
+    j ""
 
 translate schinese Jog_Lothar_Training_6186867a:
 
     # "You nod."
-    "你点点头。"
+    ""
 
 translate schinese Jog_Lothar_Training_93933b83:
 
     # "You and Jog stop at the rock wall."
-    "你和乔格来到了石墙。"
+    ""
 
 translate schinese Jog_Lothar_Training_3db81432:
 
     # j "You should be able to find purchases on the crevices."
-    j "你应该能在那些裂缝里找到抓的地方。"
+    j ""
 
 translate schinese Jog_Lothar_Training_be498226:
 
     # j "When you reach a certain height, just jump over the wall."
-    j "等爬到一定高度后，就直接跳过墙壁。"
+    j ""
 
 translate schinese Jog_Lothar_Training_a60bdef1:
 
     # j "There are bushes on the other side to cushion your fall."
-    j "那边有灌木丛给你做降落缓冲。"
+    j ""
 
 translate schinese Jog_Lothar_Training_83fa10b1:
 
     # "Jog stares at your butt."
-    "乔格盯着你的屁股。"
+    ""
 
 translate schinese Jog_Lothar_Training_1d6570d5:
 
     # j "You have some padding back there to help with your landing too. They are more than just pleasing to the eyes."
-    j "不过你后面也有些帮助你落地的垫料哈。可不只有给人眼福的功能。"
+    j ""
 
 translate schinese Jog_Lothar_Training_2116348c:
 
     # "The plan carries on smoothly. You and Jog find your way to the window of the chieftain's hut."
-    "计划实施地很顺利。"
+    ""
 
 translate schinese Jog_Lothar_Training_7eb028bb:
 
     # "You hear conversation drifting out from inside."
-    "你能听到里面飘来的对话声。"
+    ""
 
 translate schinese Jog_Lothar_Training_82091822:
 
     # k "..."
-    k "……"
+    k ""
 
 translate schinese Jog_Lothar_Training_f9e4b388:
 
     # k "This is so hard. Furk, this is impossible."
-    k "这也太难了，操。根本不可能。"
+    k ""
 
 translate schinese Jog_Lothar_Training_bcf8625c:
 
     # "You hear Kari groans."
-    "你们听到卡里抱怨道。"
+    ""
 
 translate schinese Jog_Lothar_Training_de185e2c:
 
     # f "You just need to power it through like we usually do."
-    f "你只需要像咱们平时那样，努努力推进去就行。"
+    f ""
 
 translate schinese Jog_Lothar_Training_07ee055c:
 
     # k "It's too tight. It won't go through."
-    k "那根本紧得进不去！"
+    k ""
 
 translate schinese Jog_Lothar_Training_567dd6c7:
 
     # f "How about we oil them a little to loosen things up?"
-    f "那我们来润滑一下，使其放松下来如何？"
+    f ""
 
 translate schinese Jog_Lothar_Training_344aa336:
 
     # k "You're asking for too much. There's no way it'll fit."
-    k "你要求也太多了。根本没有塞进去的空间。"
+    k ""
 
 translate schinese Jog_Lothar_Training_2ef9cfa7:
 
     # f "We've done it before, so why won't it work now?"
-    f "我们之前都能做到，为什么现在不行？"
+    f ""
 
 translate schinese Jog_Lothar_Training_ed1372b0:
 
     # k "Things have changed. That has gotten bigger."
-    k "很多事情都变了。变得比之前大多了。"
+    k ""
 
 translate schinese Jog_Lothar_Training_1b15e498:
 
     # "You blush hearing the conversation. You look over at Jog."
-    "这对话让你听得面红耳赤。你看向了乔格。"
+    ""
 
 translate schinese Jog_Lothar_Training_591a075a:
 
     # "Jog was looking at you with a dirty grin."
-    "乔格一脸淫笑地看着你。"
+    ""
 
 translate schinese Jog_Lothar_Training_912d8371:
 
     # j "{size=30} Well, I was not expecting that.{/size}"
-    j "{size=30} 哇塞，这我可真没想到。{/size}"
+    j ""
 
 translate schinese Jog_Lothar_Training_a1e06bf6:
 
     # e "{size=30} What should we do?{/size}"
-    e "{size=30} 我们要怎么做？{/size}"
+    e ""
 
 translate schinese Jog_Lothar_Training_84b45f52:
 
     # "The two in the hut begins to talk again."
-    "屋子里的两人又说了起来。"
+    ""
 
 translate schinese Jog_Lothar_Training_5781f082:
 
     # k "Furkan, you are not going to get Lusterfield to agree to this."
-    k "弗坎，你根本没办法让乐斯菲尔德赞同这件事的。"
+    k ""
 
 translate schinese Jog_Lothar_Training_5f5be285:
 
     # "Kari sighs."
-    "卡里叹了口气。"
+    ""
 
 translate schinese Jog_Lothar_Training_552c3ed8:
 
     # f "...There must be some way."
-    f "……一定会有办法的。"
+    f ""
 
 translate schinese Jog_Lothar_Training_bb197bef:
 
     # k "Their defenses are too tight."
-    k "他们的戒心绷太紧了。"
+    k ""
 
 translate schinese Jog_Lothar_Training_8449470e:
 
     # k "You have already tried a truce. How did that go? Things are not loosening up any time soon."
-    k "你已经试过写一份停战协议了。结果呢？之后的形式一点都没有放松下来。"
+    k ""
 
 translate schinese Jog_Lothar_Training_69cf8182:
 
     # k "You are demanding too much of them. Do you think it'll fit their agenda?"
-    k "你对他们的要求太高了。你觉得这能被塞进他们的日后计划中吗？"
+    k ""
 
 translate schinese Jog_Lothar_Training_cb69d2ba:
 
     # "You hear Furkan lets out a big sigh."
-    "你听到弗坎长叹一声。"
+    ""
 
 translate schinese Jog_Lothar_Training_c42b6e09:
 
     # k "Furkan, you have to see the bigger picture."
-    k "弗坎，你需要有更宏大的眼界。"
+    k ""
 
 translate schinese Jog_Lothar_Training_7dc0015e:
 
     # "Things start to make sense again."
-    "事情开始变得合理起来。"
+    ""
 
 translate schinese Jog_Lothar_Training_41117292:
 
     # "Beside you, Jog rolls his eyes."
-    "乔格在你身边翻了个白眼。"
+    ""
 
 translate schinese Jog_Lothar_Training_3ae06940:
 
     # j "{size=30} lame.{/size}"
-    j "{size=30} 没劲。{/size}"
+    j ""
 
 translate schinese Jog_Lothar_Training_2261e291:
 
     # f "Kari, yes. The bigger picture. The center of our conflict is the caravan attack."
-    f "你说的没错，卡里。更宏大的眼界。我们冲突的核心就是对商队的攻击。"
+    f ""
 
 translate schinese Jog_Lothar_Training_73a9c278:
 
     # f "The stories didn't add up. We should look into it. It could ease the tension with Lusterfield if we find something."
-    f "事情要一码归一码。我们需要好好调差这件事。若是找到了线索，便可缓和与乐斯菲尔德的关系。"
+    f ""
 
 translate schinese Jog_Lothar_Training_e23a8c25:
 
     # "Your eyes shine. This appears to be valuable information."
-    "你眼睛一亮。这看起来是很有价值的信息。"
+    ""
 
 translate schinese Jog_Lothar_Training_50da8814:
 
     # "Jog appears to agree with you because you feel his hand closes around your wrist."
-    "乔格看样子和你想的一样，因为你感到他的手抓紧了你的手腕。"
+    ""
 
 translate schinese Jog_Lothar_Training_a4f0ca21:
 
     # "There's a warning in the village."
-    "村子里传来了警报。"
+    ""
 
 translate schinese Jog_Lothar_Training_dc04250a:
 
     # goatguard "There are signs of intruders. Search every corner!"
-    goatguard "有入侵者！搜索周围！"
+    goatguard ""
 
 translate schinese Jog_Lothar_Training_9c6666cd:
 
     # j "{size=30}Crap! Time to disappear.{/size}"
-    j "{size=30}靠！该跑路了。{/size}"
+    j ""
 
 translate schinese Jog_Lothar_Training_c3da33ab:
 
     # "Jog pulls you along and you tries your best to keep up with the sprinting hyena. It's not that easy."
-    "乔格一路拉着你，你拼尽全力跟上这全速奔跑的鬣狗。这并不简单。"
+    ""
 
 translate schinese Jog_Lothar_Training_271d96a5:
 
     # "It amazes you how Jog manages to move at such a high speed without making much noise."
-    "速度快而动静小的乔格让你刮目相看。"
+    ""
 
 translate schinese Jog_Lothar_Training_7a7c5445:
 
     # "You are not as graceful as Jog is but you try your best."
-    "你没法和他一样赏心悦目，但你也尽了最大的努力。"
+    ""
 
 translate schinese Jog_Lothar_Training_b3cf026d:
 
     # "However, your heavy steps mean that you are unable to lose the trail of goat guards fast closing up on you two."
-    "不过，你沉重的脚步意味着你完全没法让快速朝你们靠近的山羊守卫失去踪迹。"
+    ""
 
 translate schinese Jog_Lothar_Training_5ccdc49f:
 
     # j "Damn! We can't keep running!"
-    j "操！我们不能跑了。"
+    j ""
 
 translate schinese Jog_Lothar_Training_fe87ec8e:
 
     # j "Change of plans!"
-    j "改变计划！"
+    j ""
 
 translate schinese Jog_Lothar_Training_f00932fe:
 
     # "Jog leads you into a bush."
-    "乔格带着你钻进了一片灌木。"
+    ""
 
 translate schinese Jog_Lothar_Training_6681e327:
 
     # "You look around and see nothing but foliage."
-    "你看了看周围，除了枝叶一无所有。"
+    ""
 
 translate schinese Jog_Lothar_Training_06f198fc:
 
     # "You are sure that this is not a good hiding spot. The foliage is not dense enough to hide both of you."
-    "你相信这不是一个好的隐藏点。枝叶的茂密程度不足以遮住你们两个人。"
+    ""
 
 translate schinese Jog_Lothar_Training_5787f181:
 
     # "Just as you are going to ask Jog what's going on, Jog pulls you along and pushes you into a nook hidden behind the bush."
-    "就在你准备问乔格情况时，他一把将你拉过去，然后把你藏到了灌木的凹处。"
+    ""
 
 translate schinese Jog_Lothar_Training_92cfb191:
 
     # "You wedge into the nook. Jog squeezes in after you."
-    "你挤了进去，乔格紧跟其后。"
+    ""
 
 translate schinese Jog_Lothar_Training_818c99be:
 
     # "The nook is just enough for two."
-    "这个凹陷将将够你们两人躲藏。"
+    ""
 
 translate schinese Jog_Lothar_Training_45d85bb7:
 
     # "Jog leans into you and arranges the bush to shield the nook from outside view."
-    "乔格贴住你的身体，用周围的灌木将个角落从外界的视野中屏蔽开来。"
+    ""
 
 translate schinese Jog_Lothar_Training_14f39257:
 
     # "With Jog blocking the entrance, you are basically stuck in place."
-    "乔格在遮挡入口的时候，你基本只能被卡在原地。"
+    ""
 
 translate schinese Jog_Lothar_Training_1201a542:
 
     # "You have your back to the wall and Jog has his back to you."
-    "你背靠着墙，乔格用背抵住了你。"
+    ""
 
 translate schinese Jog_Lothar_Training_87be2bbf:
 
     # j "{size=30} Stay still.{/size}"
-    j "{size=30} 别动。{/size}"
+    j ""
 
 translate schinese Jog_Lothar_Training_9fe95bb7:
 
     # "You want to heed Jog's advice but you find it hard to do because one part of you refuses to stay still."
-    "你很想照做，但这很难，因为你身体的某个部位拒绝如此。"
+    ""
 
 translate schinese Jog_Lothar_Training_a047b33c:
 
     # "As Jog backed into the space earlier, his butt landed right before your crotch."
-    "在乔格钻回到这里前，他的屁股正好落在了你的裆部。"
+    ""
 
 translate schinese Jog_Lothar_Training_bb3c2176:
 
     # "Your heated breath from the running heats up the confined space."
-    "狭小空间里的热量让你的呼吸也灼热起来。"
+    ""
 
 translate schinese Jog_Lothar_Training_7caa2ba0:
 
     # "You don't know where to put your hands but somehow they land on Jog's narrow waist."
-    "你无处安放的双手不知怎的就放在了乔格的腰间。"
+    ""
 
 translate schinese Jog_Lothar_Training_479b27cc:
 
     # "The fabric of Jog's briefs is extremely thin and you can feel the suppleness of his ass readily."
-    "乔格短裤的布料很薄，你轻而易举地便能感受到他屁股的柔软。"
+    ""
 
 translate schinese Jog_Lothar_Training_47064251:
 
     # "The close proximity and the confined space makes you feel heady."
-    "空间上的贴近与狭窄让你开始头晕。"
+    ""
 
 translate schinese Jog_Lothar_Training_3494db80:
 
     # "Your cock rises to attention. The tip brushes along the crack of Jog's ass."
-    "你的鸡巴注意到这情况，硬了起来。尖端处磨蹭着乔格的股沟。"
+    ""
 
 translate schinese Jog_Lothar_Training_224c29c6:
 
     # "You hope that Jog doesn't notice it."
-    "你祈祷乔格不会注意到。"
+    ""
 
 translate schinese Jog_Lothar_Training_a187e81f:
 
     # "At that moment, Jog turns around and rewards you with a naughty lift of his brow."
-    "正在这时，乔格转过身来，眉毛俏皮地挑起。"
+    ""
 
 translate schinese Jog_Lothar_Training_9d45f771:
 
     # "You take his advice and freeze. Your cock is erect but at least it is standing still."
-    "你遵循了他的命令，一动也不动。虽然你的鸡巴挺起来了，但也没用继续的动作。"
+    ""
 
 translate schinese Jog_Lothar_Training_b4d6619a:
 
     # "At that moment, there is a rustling coming from outside."
-    "正在这时，外面传来了一阵脚步声。"
+    ""
 
 translate schinese Jog_Lothar_Training_a394744a:
 
     # "Jog leans deeper into you."
-    "乔格贴得更近了。"
+    ""
 
 translate schinese Jog_Lothar_Training_723215d9:
 
     # "His back lay into your body."
-    "他的背部完全靠在了你身上。"
+    ""
 
 translate schinese Jog_Lothar_Training_974f7d70:
 
     # "The warmth from his skin spread through your pecs and stomach."
-    "他皮肤传来的温度散布到你的胸部和腹部的位置。"
+    ""
 
 translate schinese Jog_Lothar_Training_522bf826:
 
     # "Your cock tinkles as the warmth travels through your body."
-    "传到你全身的他身体的热量让你鸡巴开始轻轻跳动。"
+    ""
 
 translate schinese Jog_Lothar_Training_cc4efd1c:
 
     # "Your boner pitches a tent through your loincloth."
-    "你的鸡巴给腰布顶出了一个帐篷。"
+    ""
 
 translate schinese Jog_Lothar_Training_b2fd451b:
 
     # "Even to you, your cock feels hot. You wonder how Jog is handling it considering he has your cock wedged between his buns."
-    "你都能感到你的鸡巴在发烫。你在想用屁股夹住你鸡巴的乔格是怎么忍受的。"
+    ""
 
 translate schinese Jog_Lothar_Training_9b961348:
 
     # "The rustling slowly moves away. You relax a little."
-    "脚步声渐渐远去。你放松了些许。"
+    ""
 
 translate schinese Jog_Lothar_Training_fed7fbef:
 
     # "Once you let your guard down, your cock leaks some precum."
-    "你刚一放下戒备，你的鸡巴便渗出了一些前列腺液。"
+    ""
 
 translate schinese Jog_Lothar_Training_3b738a22:
 
     # "You can feel your underwear getting wet. The spot where your tip brushes against your underwear become sticky with precum."
-    "你都能感到内裤被弄湿了。与龟头摩擦的部位已被前列腺液弄成了黏糊糊一片。"
+    ""
 
 translate schinese Jog_Lothar_Training_9c1efa6d:
 
     # "You try your best to move your head. You can see the wet spot where your dick has made a stain."
-    "你尽可能地将头偏过去。你甚至能看到你鸡巴的前端位置拉出的银丝。"
+    ""
 
 translate schinese Jog_Lothar_Training_f2b6ce5a:
 
     # "The sight of your wet underwear excites you. You feel your cock pulses and more precum makes their way out of your penis."
-    "被染湿的内裤的景象令你兴奋不已。随着你鸡巴的搏动，更多的前列腺液从你的鸡巴里流了出来。"
+    ""
 
 translate schinese Jog_Lothar_Training_f0f21904:
 
     # "The wet spot on your underwear gets larger."
-    "内裤上的潮湿的地方变得更大了。"
+    ""
 
 translate schinese Jog_Lothar_Training_4f0addf4:
 
     # "Jog's ass is poised right before your dick."
-    "乔格的屁股正好对着你的鸡巴。"
+    ""
 
 translate schinese Jog_Lothar_Training_9eb41ce6:
 
     # "As your dick releases more precum, the liquid seeps through the front of your underwear and stains the back of Jog's briefs."
-    "随着你前列腺液的分泌，液体从你内裤渗出，并滴落在乔格短裤的后面。"
+    ""
 
 translate schinese Jog_Lothar_Training_f0767c2b:
 
     # "You feel like saying something but fate appears to play a cruel trick on you."
-    "你想开口说点什么，但命运似乎要给你开一个残酷的玩笑。"
+    ""
 
 translate schinese Jog_Lothar_Training_4735f7c1:
 
     # goatguard "Maybe they're here."
-    goatguard "他们可能在这儿。"
+    goatguard ""
 
 translate schinese Jog_Lothar_Training_a80bd4b1:
 
     # "The goats announce their presence."
-    "山羊们彰显着他们的存在。"
+    ""
 
 translate schinese Jog_Lothar_Training_17a61f6f:
 
     # "Jog wiggles further into the crook."
-    "乔格扭着身体，躲进了缝隙更深处。"
+    ""
 
 translate schinese Jog_Lothar_Training_3f510ad3:
 
     # "As he moves, Jog's ass tenses."
-    "随着他的移动，他的屁股也开始收紧。"
+    ""
 
 translate schinese Jog_Lothar_Training_8769aea5:
 
     # "His butt cheeks pinch your boner."
-    "他的臀瓣夹住了你的勃起。"
+    ""
 
 translate schinese Jog_Lothar_Training_d190a387:
 
     # "A jolt of electricity powers through you."
-    "一股电流击中了你。"
+    ""
 
 translate schinese Jog_Lothar_Training_81766e13:
 
     # "You feel a moan escaping your throat. You know you have to swallow it out lest you risk exposure."
-    "一声呻吟差点从嘴里漏出。你明白你必须忍住，以免暴露。"
+    ""
 
 translate schinese Jog_Lothar_Training_1cebd300:
 
     # "Your cock charges with tension. You feel like your cock is about to poke through your underwear."
-    "你的鸡巴也因压力而兴奋。感觉它都要冲破内裤的束缚了。"
+    ""
 
 translate schinese Jog_Lothar_Training_7b86de91:
 
     # "Perhaps even through Jog's briefs and into his ready hole..."
-    "甚至更进一步冲破乔格的短裤，然后进入他已经做好准备的小穴……"
+    ""
 
 translate schinese Jog_Lothar_Training_7e1bcfa5:
 
     # "Perhaps sensing the effect it's having on you, Jog tightens his ass a few more times."
-    "乔格还夹紧了几次屁股，仿佛感到了这对你的影响。"
+    ""
 
 translate schinese Jog_Lothar_Training_b1a19c57:
 
     # "The effect this has on you is electric."
-    "而这影响于你宛如电击。"
+    ""
 
 translate schinese Jog_Lothar_Training_7c0eaadf:
 
     # "Jog's soft cheeks massage your boner at quick intervals."
-    "乔格高频率地用他的屁股按摩你的勃起。"
+    ""
 
 translate schinese Jog_Lothar_Training_dc2a9cbf:
 
     # "You are hit at all the right places and you can feel your blood rushing to your boner."
-    "每一次都让你欲罢不能，你可以感到血液在涌向你的坚挺。"
+    ""
 
 translate schinese Jog_Lothar_Training_5f2ef3d5:
 
     # "You grit your teeth and is approaching ejaculation."
-    "你咬紧牙关，即将冲破精关。"
+    ""
 
 translate schinese Jog_Lothar_Training_429b354e:
 
     # "At the cusp of release, Jog suddenly moves away."
-    "就在释放的隘口，乔格突然移开了身体。"
+    ""
 
 translate schinese Jog_Lothar_Training_a782aac9:
 
     # "You pull him back."
-    "你一把给他拽了回来。"
+    ""
 
 translate schinese Jog_Lothar_Training_650a3e72:
 
     # e "{size=30} Wait! Aren't you worried about being caught?{/size}"
-    e "{size=30} 喂！你不怕被抓到吗？{/size}"
+    e ""
 
 translate schinese Jog_Lothar_Training_8d74ec9e:
 
     # j "Getting caught?"
-    j "被抓到？"
+    j ""
 
 translate schinese Jog_Lothar_Training_61b654d9:
 
     # "Jog raises his brow and looks at the front of your wet underwear."
-    "乔格挑挑眉，看向了你潮湿的内裤。"
+    ""
 
 translate schinese Jog_Lothar_Training_ee275b4b:
 
     # "Under his stare, your cock twitches at the attention."
-    "在他的注视下，你的鸡巴开始抽搐。"
+    ""
 
 translate schinese Jog_Lothar_Training_b57b0f61:
 
     # "It is yearning for release."
-    "它已经叫嚣着要射了呢。"
+    ""
 
 translate schinese Jog_Lothar_Training_2e174b1d:
 
     # "Jog grins wickedly."
-    "乔格坏笑着。"
+    ""
 
 translate schinese Jog_Lothar_Training_f4035700:
 
     # j "Maybe you should be the one worried about getting caught."
-    j "也许你才是应该担心被抓到的那个。"
+    j ""
 
 translate schinese Jog_Lothar_Training_1d9d35d5:
 
     # "Jog opens his arms and continues in a normal voice."
-    "乔格张开双臂，继续以正常的音量说道。"
+    ""
 
 translate schinese Jog_Lothar_Training_03c847eb:
 
     # j "The goats are already gone."
-    j "山羊们已经离开了。"
+    j ""
 
 translate schinese Jog_Lothar_Training_5c673153:
 
     # e "When?"
-    e "啥时候？"
+    e ""
 
 translate schinese Jog_Lothar_Training_83cb2a2d:
 
     # j "When that sexy moan escaped your mouth."
-    j "在你发出那声性感的呻吟的时候。"
+    j ""
 
 translate schinese Jog_Lothar_Training_9bb99280:
 
     # "Jog chuckles as your cheeks flush red. You thought you had suppressed that moan but apparently you didn't."
-    "你的脸刷地红了，乔格开始大笑。你还以为你忍住了，但很明显没成功。"
+    ""
 
 translate schinese Jog_Lothar_Training_59b016e6:
 
     # j "Thank you for showing me many things today. Overall you did help me complete the mission. I'll report that to Lothar."
-    j "感谢你今天给我的精彩表演。总的来说你确实帮助我完成了任务。我会给洛萨尔汇报的。"
+    j ""
 
 translate schinese Jog_Lothar_Training_8233b00a:
 
     # "Jog touches the back of the briefs where it's stained by your precum."
-    "乔格摸了下他短裤后方被你前列腺液弄湿的地方。"
+    ""
 
 translate schinese Jog_Lothar_Training_e4671c48:
 
     # "He rubs it between his fingers and grins at you."
-    "他用手指摩擦了一阵，然后朝你微微一笑。"
+    ""
 
 translate schinese Jog_Lothar_Training_bb36a334:
 
     # j "Nice to know what you're sporting."
-    j "能了解你显摆的资本也挺好的。"
+    j ""
 
 translate schinese Jog_Lothar_Training_fd7d0339:
 
     # j "The things earlier are just a teaser. Maybe in the future, I'll show you more what I can do with my ass."
-    j "刚才那些只是调戏。也许以后我会让你知道我的屁股能做到的不止这些。"
+    j ""
 
 translate schinese Jog_Lothar_Training_5c591fd1:
 
     # "Jogs chuckles and disappears into the woods as your face flames with embarrassment."
-    "乔格大笑着钻进了树林，留你一人因尴尬而面部通红。"
+    ""
 
 # translate schinese Arthur_Bandit_Meet_Quest_0e4c8860:
 
