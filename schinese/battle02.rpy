@@ -1766,7 +1766,7 @@ translate schinese lothar_battle_loop_2f4586bc:
 translate schinese lothar_battle_loop_4f54fc56:
 
     # l "Your flirting... well... that was embarrassing..."
-    l "谁教你这么诱惑了……有够尴尬的……"
+    l "谁教你这么诱惑的……有够尴尬……"
 
 translate schinese lothar_battle_loop_5a42ba42:
 
