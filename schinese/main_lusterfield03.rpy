@@ -21,7 +21,7 @@ translate schinese Jog_Dialogue_e9575ac9:
 translate schinese Jog_Dialogue_0584414f:
 
     # j "Lothar's disciple, courier, outsider?"
-    j "你是洛萨尔的徒弟，和海外来的邮差。"
+    j "你是洛萨尔的徒弟，和海外来的邮差？"
 
 translate schinese Jog_Dialogue_42ab47ad:
 
@@ -41,7 +41,7 @@ translate schinese Jog_Dialogue_d7bf05f9:
 translate schinese Jog_Dialogue_cea61cd1:
 
     # j "Just don't break anything here, Lot's order."
-    j "记得别搞坏训练场的东西，洛哥特地交代的。"
+    j "注意别搞坏训练场的东西，洛哥特地交代的。"
 
 translate schinese Jog_Dialogue_a71007f0:
 
@@ -68,6 +68,9 @@ translate schinese strings:
     old "Ask about Lusterfield{#JogAAL}"
     new "询问乐斯民菲尔德的事情"
 
+    old "Ask about Training from Lothar"
+    new "提起洛萨尔要求的训练"
+
     old "Ask about the team"
     new "询问他的小团体"
 
@@ -92,337 +95,345 @@ translate schinese Jog_Normal_Talk_58e0fbb5:
 translate schinese Jog_Lothar_Training_d608835b:
 
     # j "Courier, are you sure you can handle this?"
-    j ""
+    j "哥们儿，你确定你够资格吗？"
 
 translate schinese Jog_Lothar_Training_314eca71:
 
     # j "Lot told us that you can't even beat the training dummy."
-    j ""
+    j "洛哥说你连个训练人偶都打不过。"
 
 translate schinese Jog_Lothar_Training_5ebadbf1:
 
     # e "That is not true."
-    e ""
+    e "才没有！他骗人。"
 
 translate schinese Jog_Lothar_Training_27bc135c:
 
     # j "Now why would Lot lie about that?"
-    j ""
+    j "洛哥骗我们的理由是？"
 
 translate schinese Jog_Lothar_Training_772a9682:
 
     # "You don't know what to say..."
-    ""
+    "你一时无言以对……"
 
 translate schinese Jog_Lothar_Training_4c0a8685:
 
     # j "It doesn't matter. Because I actually have a mission from him and I figure this is the perfect training opportunity for you."
-    j ""
+    j "算了，反正他嘱咐我要好好训练你，现在正是时候。"
 
 translate schinese Jog_Lothar_Training_924d27d3:
 
     # e "What is it?"
-    e ""
+    e "做什么训练呢？"
 
 translate schinese Jog_Lothar_Training_d2600c43:
 
     # j "We're going to infiltrate into the nucleus of the goat tribe."
-    j ""
+    j "你和我一起潜入山羊部落的首领帐篷窃取情报。"
 
 translate schinese Jog_Lothar_Training_1ea97b2d:
 
     # e "Why?"
-    e ""
+    e "去那里干什么？"
 
 translate schinese Jog_Lothar_Training_98b00ceb:
 
     # j "I've heard everything from Lot. You did good Courier."
-    j ""
+    j "之前的事我已经听洛哥说了。干得漂亮。"
 
 translate schinese Jog_Lothar_Training_39182b12:
 
     # j "But you are too trusting. We have to check if the goats are lying. I won't be surprised if they are."
-    j ""
+    j "但你不能太轻信那帮山羊。山羊说的是真是假得我们亲自去验证，如果是假的那也难怪。"
 
 translate schinese Jog_Lothar_Training_2a03d930:
 
     # j "He said you don't have the balls to go face the goats."
-    j ""
+    j "洛哥说你没胆子直面山羊，所以今天我要练练你的胆量。"
 
 translate schinese Jog_Lothar_Training_9c54f0e2:
 
     # j "So this will be your training. Don't worry. I'll be there to watch over your ass, figuratively and maybe literally too."
-    j ""
+    j "放心，假如出事了我会在后头帮你擦屁股。不管是比喻上的还是字面上的。"
 
 translate schinese Jog_Lothar_Training_e4c0c14f:
 
     # j "He said that you got nothing even though you've successfully gained access into their tribe."
-    j ""
+    j "洛哥说你哪怕能自由进出他们部落了，也啥都没套出来。"
 
 translate schinese Jog_Lothar_Training_15f0701e:
 
     # j "That won't do. But we're going to fix that."
-    j ""
+    j "作为大乐村的邮差这怎么行，今天我得给你特别补习。"
 
 translate schinese Jog_Lothar_Training_6f57a41c:
 
     # j "Either way, we have to find out what the goats are really up to."
-    j ""
+    j "走吧，我们去探探他们葫芦里究竟卖的什么药。"
 
 translate schinese Jog_Lothar_Training_607b1c0c:
 
     # e "So..."
-    e ""
+    e "所以……"
 
 translate schinese Jog_Lothar_Training_e1a8650b:
 
     # e "What do you think they're up to?"
-    e ""
+    e "你觉得他们在谋划什么呢？"
 
 translate schinese Jog_Lothar_Training_1e310360:
 
     # j "I don't know, based on their recent activity it seems they're searching for something."
-    j ""
+    j "还不清楚，看他们最近的动向似乎是在找东西。"
 
 translate schinese Jog_Lothar_Training_87107475:
 
     # j "Not like I'd be interested unless they're taking their pants off in the middle of the forest."
-    j ""
+    j "要不是看见他们在小树林里脱了个精光，我才懒得在他们身上花时间。"
 
 translate schinese Jog_Lothar_Training_47e7942f:
 
     # e "Have they?"
-    e ""
+    e "真的假的？"
 
 translate schinese Jog_Lothar_Training_1501d0e9:
 
     # j "Maybe they have. That's the perks of being a scout, you get to see all sorts of thing."
-    j ""
+    j "信不信由你。这就是当侦察员的好处，什么事情都有机会看到。"
 
 translate schinese Jog_Lothar_Training_bf825c4a:
 
     # e "Huh, what does a scout do?"
-    e ""
+    e "噢？那侦察员平常是做什么的？"
 
 translate schinese Jog_Lothar_Training_cc082576:
 
     # j "Watching out for danger, being the first to explore a new area, and all."
-    j ""
+    j "警惕四周的危险，探路的时候打头阵，类似这些。"
 
 translate schinese Jog_Lothar_Training_1a58be18:
 
     # j "Sometimes I do see people pulling pants off, and that's why I like what I'm doing."
-    j ""
+    j "有时候我确实能看到有些人脱裤子做羞羞的事，这也是我喜欢干这行的原因。"
 
 translate schinese Jog_Lothar_Training_d255c973:
 
     # e "Wouldn't you rather be the one that's... pulling their pants off?"
-    e ""
+    e "你难道不更想当那个……脱掉他们裤子的人吗？"
 
 translate schinese Jog_Lothar_Training_497e4581:
 
     # j "What? Your brain is filled with lewd stuff much more than I do, and I won't tolerate being the second horniest person here."
-    j ""
+    j "嚯？你脑子里的淫荡想法可比我多多了。乐村可不能有人比我更好色。"
 
 translate schinese Jog_Lothar_Training_100baa4b:
 
     # e "I mean, do you enjoy watching people from afar more than engaging with people?"
-    e ""
+    e "我的意思是，比起直接加入你更喜欢远远看着他们？"
 
 translate schinese Jog_Lothar_Training_bed7e178:
 
     # j "I don't see anything wrong with that. If it's what I'm good at then it's what it is."
-    j ""
+    j "对啊，这种事情又不分好坏对错。既然我擅长偷窥，我就做我擅长的事情。"
 
 translate schinese Jog_Lothar_Training_54d4952d:
 
     # e "Fair enough."
-    e ""
+    e "有道理。"
 
 translate schinese Jog_Lothar_Training_f1effd07:
 
     # j "Plus, if I needed any sex I'd come to you first since you're all up for this, aren't you."
-    j ""
+    j "更何况，假如我想做爱了肯定会先找你，毕竟你随时随地都可以做的，对吧。"
 
 translate schinese Jog_Lothar_Training_2a31ed0c:
 
     # e "M-maybe?"
-    e ""
+    e "或——或许吧？"
 
 translate schinese Jog_Lothar_Training_24e28dbc:
 
     # "Jog chuckles slightly."
-    ""
+    "乔格微微一笑。"
 
 translate schinese Jog_Lothar_Training_2b28d25c:
 
     # j "Now, I've scouted ahead and determined that our biggest obstacles is the two guards at the tribe entrance."
-    j ""
+    j "回归正题。我之前侦察过，我们这趟最大的难关就是部落入口那两个守卫。"
 
 translate schinese Jog_Lothar_Training_8f17d807:
 
     # j "How do you suggest we deal with them?"
-    j ""
+    j "你觉得我们待会要怎么突破？"
 
 translate schinese Jog_Lothar_Training_ec0a65b5:
 
     # e "Uhmm... what do you think?"
-    e ""
+    e "呃……我想先听听你的想法。"
 
 translate schinese Jog_Lothar_Training_80f17ee8:
 
     # j "I can see there's two ways we can approach."
-    j ""
+    j "我想到两种方法。"
 
 translate schinese Jog_Lothar_Training_f0ad2a79:
 
     # j "First way, I see there's a rock wall near the outer wall of the goat tribe. We can hike the rock and leap over the walls."
-    j ""
+    j "第一种，我发现部落外墙附近有个石头，我们可以踩着石头翻墙进去。"
 
 translate schinese Jog_Lothar_Training_9145174a:
 
     # j "Or, I can fire an arrow and distract the two guards away from the entrance. Then, we'll sneak in."
-    j ""
+    j "第二种，我往远处射支箭把他们引开后，我们再溜进去。"
 
 translate schinese Jog_Lothar_Training_5e733535:
 
     # j "Either way, we'll have to be fast."
-    j ""
+    j "但不管那种方式我们动作都要快。"
 
 translate schinese Jog_Lothar_Training_1328e229:
 
     # j "What do you think?" nointeract
-    j "" nointeract
+    j "如何？" nointeract
+
+translate schinese strings:
+
+    old "Distract the guards"
+    new "选择调虎离山"
+
+    old "Sneak through with agility"
+    new "选择另辟蹊径"
 
 translate schinese Jog_Lothar_Training_690be16e:
 
     # e "I'll choose... Distraction?"
-    e ""
+    e "我觉得……还是引开他们好？"
 
 translate schinese Jog_Lothar_Training_4ba3281c:
 
     # j "Alright, then."
-    j ""
+    j "没问题。"
 
 translate schinese Jog_Lothar_Training_faa7d97b:
 
     # e "Hmm..."
-    e ""
+    e "唔……"
 
 translate schinese Jog_Lothar_Training_cf6bcb30:
 
     # e "Jog, how did you pick up archery?"
-    e ""
+    e "乔格，你的箭术是谁教你的？"
 
 translate schinese Jog_Lothar_Training_a4ed5cf0:
 
     # j "It... well... I never was a good survivor."
-    j ""
+    j "这个……呵……命苦，没人教我。"
 
 translate schinese Jog_Lothar_Training_70b84424:
 
     # j "I was left all alone, when I was very very young. Much like a little kid."
-    j ""
+    j "我在很小很小的时候就被遗弃了，甚至都还不记事。"
 
 translate schinese Jog_Lothar_Training_ab989c47:
 
     # j "And, I have to tell you this, I never liked being in the village. Most of the time I go to the forest and have fun."
-    j ""
+    j "实话实说我一直都不喜欢呆村子里，我更爱往深山野林跑。"
 
 translate schinese Jog_Lothar_Training_0af3dc39:
 
     # j "I picked up the bow pretty early on, not an exciting story really. I just practised outside with Amble."
-    j ""
+    j "至于箭术，只是我从小就开始接触射箭，熟能生巧，没什么特别的故事。"
 
 translate schinese Jog_Lothar_Training_30aabf79:
 
     # j "But I didn't live with him until much later on."
-    j ""
+    j "从前我和安布在村外练习，再后面我索性跟他住一块了。"
 
 translate schinese Jog_Lothar_Training_00ea2360:
 
     # e "Did you practice a lot?"
-    e ""
+    e "你们应该训练得非常勤吧？"
 
 translate schinese Jog_Lothar_Training_8fcd8f9d:
 
     # j "Of course. Speaking of, it was Amble who carved and set up the archery range in town."
-    j ""
+    j "那肯定。说起来村里的射箭场还是安布搭建的。"
 
 translate schinese Jog_Lothar_Training_71ac22ca:
 
     # j "We hang out there when we're in the village."
-    j ""
+    j "如果我们在村里就一定会去那里。"
 
 translate schinese Jog_Lothar_Training_bdf5e14e:
 
     # j "But sometimes, the bear and I are up to something else."
-    j ""
+    j "只不过，我和他偶尔得去别的地方做些别的事情。"
 
 translate schinese Jog_Lothar_Training_1eee6c19:
 
     # j "Let's just say on those times, I'd be handling something a lot more heftier than my bow."
-    j ""
+    j "到那时候，我可要上手比一捆箭还要粗的东西。"
 
 translate schinese Jog_Lothar_Training_0013fb52:
 
     # e "...heftier?"
-    e ""
+    e "……粗？"
 
 translate schinese Jog_Lothar_Training_e580fec2:
 
     # j "If I explain it it wouldn't be as much fun, [e]."
-    j ""
+    j "把话说得太直白就没意思了，[e]。"
 
 translate schinese Jog_Lothar_Training_8760c7a4:
 
     # e "I'll choose... Sneaking?"
-    e ""
+    e "我觉得……还是偷溜进去比较好？"
 
 translate schinese Jog_Lothar_Training_4ba3281c_1:
 
     # j "Alright, then."
-    j ""
+    j "没问题。"
 
 translate schinese Jog_Lothar_Training_74c0edcd:
 
     # e "So... Jog, how did you get designated as the scout?"
-    e ""
+    e "说起来……乔格，你是怎么当上侦察员的？"
 
 translate schinese Jog_Lothar_Training_7dba1335:
 
     # j "The role came naturally to me."
-    j ""
+    j "我天生就适合这个职业。"
 
 translate schinese Jog_Lothar_Training_1bc4428a:
 
     # j "I was born... well. not as strong as the others."
-    j ""
+    j "你看……呃……我的体型没大多数人那么魁梧。"
 
 translate schinese Jog_Lothar_Training_08b467f6:
 
     # j "But, you know. It has its benefits, despite those other's pesky jeering and all."
-    j ""
+    j "虽然容易被某些傻屄嘲笑之类的，但个子小其实有很多优势。"
 
 translate schinese Jog_Lothar_Training_b29c0448:
 
     # j "I can escape people's detection quite easily and I can fit into small crooks others can't."
-    j ""
+    j "比如我可以轻松逃过搜查，还可以钻进其他人进不去的缝隙或通道里。"
 
 translate schinese Jog_Lothar_Training_9ab8d17c:
 
     # e "That sounds useful."
-    e ""
+    e "听起来的确很有用。"
 
 translate schinese Jog_Lothar_Training_32aa90e9:
 
     # "Jog looks over and cracks a smile."
-    ""
+    "乔格转头朝你坏笑。"
 
 translate schinese Jog_Lothar_Training_7f14f4ef:
 
     # j "Well, you have no idea how many perks you'll get by just staying hidden."
-    j "哼哼，你可想象不到躲在暗处能蹲到多少福利。"
+    j "哼哼，你可想象不到躲在那些地方能蹲到多少福利。"
 
 translate schinese Jog_Lothar_Training_7ba49542:
 
@@ -437,632 +448,633 @@ translate schinese Jog_Lothar_Training_0bfa5f0f:
 translate schinese Jog_Lothar_Training_4707b364:
 
     # j "Speaking of, a free tip."
-    j ""
+    j "说到这儿，送你一个小贴士。"
 
 translate schinese Jog_Lothar_Training_6ef4031b:
 
     # j "That lizard friend of yours at the shop packs a big one. You might want to prepare yourself before you proceed further."
-    j ""
+    j "你的蜥蜴房东有根大家伙，要是想和他发展的话记得提前做好准备噢。"
 
 translate schinese Jog_Lothar_Training_734ba8f5:
 
     # "Jog winks mischievously at you."
-    ""
+    "乔格俏皮地朝你抛了个媚眼。"
 
 translate schinese Jog_Lothar_Training_6092ec23:
 
     # j "I may or may not know from experience. Haha."
-    j ""
+    j "不要问我怎么知道的，哈哈哈。"
 
 translate schinese Jog_Lothar_Training_a968419e:
 
     # "Soon... you and Jog arrive at the Goat Tribe."
-    ""
+    "沿路树干逐渐稀落，没过多久你们便来到了山羊部落外围。"
 
 translate schinese Jog_Lothar_Training_9b0cb92c:
 
     # "You hide behind a bush."
-    ""
+    "乔格拉你藏在靠近大门的一丛灌木后面。"
 
 translate schinese Jog_Lothar_Training_740732b9:
 
     # j "Be prepared. I'll shoot an arrow."
-    j ""
+    j "待会箭射出去，只要山羊一跑远我们就行动。"
 
 translate schinese Jog_Lothar_Training_eff8f55b:
 
     # j "Once the goats go investigating after it, we'll leg it into the tribe."
-    j ""
+    j "俯身半蹲前进，身体能压多低压多低。"
 
 translate schinese Jog_Lothar_Training_7edf1262:
 
     # j "Keep your body low to the ground."
-    j ""
+    j "准备好了吗？"
 
 translate schinese Jog_Lothar_Training_6186867a:
 
     # "You nod."
-    ""
+    "你点点头。"
 
 translate schinese Jog_Lothar_Training_93933b83:
 
     # "You and Jog stop at the rock wall."
-    ""
+    "乔格接着带你绕到了那堵石墙前。"
 
 translate schinese Jog_Lothar_Training_3db81432:
 
     # j "You should be able to find purchases on the crevices."
-    j ""
+    j "抓着石头间的缝隙往上爬，爬到你觉得可以翻过去的高度就直接翻过去。"
 
 translate schinese Jog_Lothar_Training_be498226:
 
     # j "When you reach a certain height, just jump over the wall."
-    j ""
+    pass
 
 translate schinese Jog_Lothar_Training_a60bdef1:
 
     # j "There are bushes on the other side to cushion your fall."
-    j ""
+    j "下边有树丛给你垫着，不怕摔。"
 
 translate schinese Jog_Lothar_Training_83fa10b1:
 
     # "Jog stares at your butt."
-    ""
+    "乔格盯着你的屁股继续说："
 
 translate schinese Jog_Lothar_Training_1d6570d5:
 
     # j "You have some padding back there to help with your landing too. They are more than just pleasing to the eyes."
-    j ""
+    j "而且我看你这两瓣也不是光是给人饱眼福的嘛。"
 
 translate schinese Jog_Lothar_Training_2116348c:
 
     # "The plan carries on smoothly. You and Jog find your way to the window of the chieftain's hut."
-    ""
+    "计划实施得很顺利，你们成功潜入到了族长的帐篷附近。"
 
 translate schinese Jog_Lothar_Training_7eb028bb:
 
     # "You hear conversation drifting out from inside."
-    ""
+    "对话声透过帷幕传到你耳边。"
 
 translate schinese Jog_Lothar_Training_82091822:
 
     # k "..."
-    k ""
+    k "……"
 
 translate schinese Jog_Lothar_Training_f9e4b388:
 
     # k "This is so hard. Furk, this is impossible."
-    k ""
+    k "不可能。哥，别试了。"
 
 translate schinese Jog_Lothar_Training_bcf8625c:
 
     # "You hear Kari groans."
-    ""
+    "你听见卡里在抱怨。"
 
 translate schinese Jog_Lothar_Training_de185e2c:
 
     # f "You just need to power it through like we usually do."
-    f ""
+    f "只要咬咬牙加把劲就行，我们不是一直这样过来的吗？"
 
 translate schinese Jog_Lothar_Training_07ee055c:
 
     # k "It's too tight. It won't go through."
-    k ""
+    k "这么紧怎么插得进去。"
 
 translate schinese Jog_Lothar_Training_567dd6c7:
 
     # f "How about we oil them a little to loosen things up?"
-    f ""
+    f "我可以再润滑润滑，看能不能放松些。"
 
 translate schinese Jog_Lothar_Training_344aa336:
 
     # k "You're asking for too much. There's no way it'll fit."
-    k ""
+    k "你不要再为难自己了，插不进去就是插不进去。"
 
 translate schinese Jog_Lothar_Training_2ef9cfa7:
 
     # f "We've done it before, so why won't it work now?"
-    f ""
+    f "我们从前都能做成，没道理现在不能。"
 
 translate schinese Jog_Lothar_Training_ed1372b0:
 
     # k "Things have changed. That has gotten bigger."
-    k ""
+    k "你看看，现在变这么大，哪能跟小时候比。"
 
 translate schinese Jog_Lothar_Training_1b15e498:
 
     # "You blush hearing the conversation. You look over at Jog."
-    ""
+    "这段令人浮想联翩的对话你越听越害臊，不知所措地看向乔格。"
 
 translate schinese Jog_Lothar_Training_591a075a:
 
     # "Jog was looking at you with a dirty grin."
-    ""
+    "他则一脸淫笑地与你对视。"
 
 translate schinese Jog_Lothar_Training_912d8371:
 
     # j "{size=30} Well, I was not expecting that.{/size}"
-    j ""
+    j "{size=24}哇噻，没想到这么劲爆。{/size}"
 
 translate schinese Jog_Lothar_Training_a1e06bf6:
 
     # e "{size=30} What should we do?{/size}"
-    e ""
+    e "{size=24}接下来怎么办？{/size}"
 
 translate schinese Jog_Lothar_Training_84b45f52:
 
     # "The two in the hut begins to talk again."
-    ""
+    "屋子里的两人又说了起来。"
 
 translate schinese Jog_Lothar_Training_5781f082:
 
     # k "Furkan, you are not going to get Lusterfield to agree to this."
-    k ""
+    k "哥，你根本没办法让乐斯民菲尔德同意这件事。"
 
 translate schinese Jog_Lothar_Training_5f5be285:
 
     # "Kari sighs."
-    ""
+    "卡里叹了口气。"
 
 translate schinese Jog_Lothar_Training_552c3ed8:
 
     # f "...There must be some way."
-    f ""
+    f "……一定会有办法的。"
 
 translate schinese Jog_Lothar_Training_bb197bef:
 
     # k "Their defenses are too tight."
-    k ""
+    k "你已经写过一份停战协议了，结果呢？"
 
 translate schinese Jog_Lothar_Training_8449470e:
 
     # k "You have already tried a truce. How did that go? Things are not loosening up any time soon."
-    k ""
+    k "他们戒心绷那么紧，谈和的事完全插不进他们的议程。"
 
 translate schinese Jog_Lothar_Training_69cf8182:
 
     # k "You are demanding too much of them. Do you think it'll fit their agenda?"
-    k ""
+    k "所以说，你想让他们当战争没发生过是不可能的，更何况在这么短的时间内。"
 
 translate schinese Jog_Lothar_Training_cb69d2ba:
 
     # "You hear Furkan lets out a big sigh."
-    ""
+    "轮到弗坎发出长长的哀叹。"
 
 translate schinese Jog_Lothar_Training_c42b6e09:
 
     # k "Furkan, you have to see the bigger picture."
-    k ""
+    k "哥，四年过去局势变化太大，你要从更高的角度纵览这些事。"
 
 translate schinese Jog_Lothar_Training_7dc0015e:
 
     # "Things start to make sense again."
-    ""
+    "事情又开始变得合理起来。"
 
 translate schinese Jog_Lothar_Training_41117292:
 
     # "Beside you, Jog rolls his eyes."
-    ""
+    "乔格翻了个大大的白眼。"
 
 translate schinese Jog_Lothar_Training_3ae06940:
 
     # j "{size=30} lame.{/size}"
-    j ""
+    j "{size=24}没劲。{/size}"
 
 translate schinese Jog_Lothar_Training_2261e291:
 
     # f "Kari, yes. The bigger picture. The center of our conflict is the caravan attack."
-    f ""
+    f "对，不能只着眼于当下。战争的起因是那场商队遇袭事件，至今还疑点重重。"
 
 translate schinese Jog_Lothar_Training_73a9c278:
 
     # f "The stories didn't add up. We should look into it. It could ease the tension with Lusterfield if we find something."
-    f ""
+    f "如果我们调查清楚，说不定能找到缓和两村关系的突破口。"
 
 translate schinese Jog_Lothar_Training_e23a8c25:
 
     # "Your eyes shine. This appears to be valuable information."
-    ""
+    "你眼睛一亮。这听起来是很有价值的信息。"
 
 translate schinese Jog_Lothar_Training_50da8814:
 
     # "Jog appears to agree with you because you feel his hand closes around your wrist."
-    ""
+    "乔格抓紧了你的手腕，看样子他也是这么想的。"
 
 translate schinese Jog_Lothar_Training_a4f0ca21:
 
     # "There's a warning in the village."
-    ""
+    "不料这时外头传来警报。"
 
 translate schinese Jog_Lothar_Training_dc04250a:
 
     # goatguard "There are signs of intruders. Search every corner!"
-    goatguard ""
+    goatguard "有入侵者！搜仔细了，每个角落都不要放过！"
 
 translate schinese Jog_Lothar_Training_9c6666cd:
 
     # j "{size=30}Crap! Time to disappear.{/size}"
-    j ""
+    j "{size=24}靠！跑路跑路。{/size}"
 
 translate schinese Jog_Lothar_Training_c3da33ab:
 
     # "Jog pulls you along and you tries your best to keep up with the sprinting hyena. It's not that easy."
-    ""
+    "乔格拉着你一路狂奔，你拼尽全力才能勉强跟上这头全速奔跑的鬣狗。"
 
 translate schinese Jog_Lothar_Training_271d96a5:
 
     # "It amazes you how Jog manages to move at such a high speed without making much noise."
-    ""
+    "他健步如飞却几乎不声不响，令你大开眼界。"
 
 translate schinese Jog_Lothar_Training_7a7c5445:
 
     # "You are not as graceful as Jog is but you try your best."
-    ""
+    "虽然你没法做到和他一样步伐优雅，但你已经尽力了。"
 
 translate schinese Jog_Lothar_Training_b3cf026d:
 
     # "However, your heavy steps mean that you are unable to lose the trail of goat guards fast closing up on you two."
-    ""
+    "可惜你沉重的脚步声还是能让穷追不舍的山羊士兵识别出方位。"
 
 translate schinese Jog_Lothar_Training_5ccdc49f:
 
     # j "Damn! We can't keep running!"
-    j ""
+    j "操！这样跑下去不是办法。"
 
 translate schinese Jog_Lothar_Training_fe87ec8e:
 
     # j "Change of plans!"
-    j ""
+    j "改变计划！"
 
 translate schinese Jog_Lothar_Training_f00932fe:
 
     # "Jog leads you into a bush."
-    ""
+    "乔格带着你钻进了一丛灌木。"
 
 translate schinese Jog_Lothar_Training_6681e327:
 
     # "You look around and see nothing but foliage."
-    ""
+    "你环顾四周，除了树叶什么也看不到。但树叶不够密，遮不住你们俩。"
 
 translate schinese Jog_Lothar_Training_06f198fc:
 
     # "You are sure that this is not a good hiding spot. The foliage is not dense enough to hide both of you."
-    ""
+    pass
 
 translate schinese Jog_Lothar_Training_5787f181:
 
     # "Just as you are going to ask Jog what's going on, Jog pulls you along and pushes you into a nook hidden behind the bush."
-    ""
+    "就在你要提议换个地方的时候，乔格把你推进了灌木后面的一个小洞里。"
 
 translate schinese Jog_Lothar_Training_92cfb191:
 
     # "You wedge into the nook. Jog squeezes in after you."
-    ""
+    "你勉为其难挤了进去，他紧跟其后。"
 
 translate schinese Jog_Lothar_Training_818c99be:
 
     # "The nook is just enough for two."
-    ""
+    "这个小洞刚好够你们两人躲在里面，任谁再大块一点都不行。"
 
 translate schinese Jog_Lothar_Training_45d85bb7:
 
     # "Jog leans into you and arranges the bush to shield the nook from outside view."
-    ""
+    "乔格伸手把周围的灌木往中间拉拢，遮住洞口躲避追兵的视线。"
 
 translate schinese Jog_Lothar_Training_14f39257:
 
     # "With Jog blocking the entrance, you are basically stuck in place."
-    ""
+    "而你却只能被卡在原地动弹不得。你靠着墙，他靠着你。"
 
 translate schinese Jog_Lothar_Training_1201a542:
 
     # "You have your back to the wall and Jog has his back to you."
-    ""
+    pass
 
 translate schinese Jog_Lothar_Training_87be2bbf:
 
     # j "{size=30} Stay still.{/size}"
-    j ""
+    j "{size=24}别动。{/size}"
 
 translate schinese Jog_Lothar_Training_9fe95bb7:
 
     # "You want to heed Jog's advice but you find it hard to do because one part of you refuses to stay still."
-    ""
+    "你也想保持不动，但某个部位不安分让你很是难办。"
 
 translate schinese Jog_Lothar_Training_a047b33c:
 
     # "As Jog backed into the space earlier, his butt landed right before your crotch."
-    ""
+    "乔格伪装好洞口后身子压回来，屁股正好抵住了你的裆部。"
 
 translate schinese Jog_Lothar_Training_bb3c2176:
 
     # "Your heated breath from the running heats up the confined space."
-    ""
+    "狭小的空间密不透风，你的呼吸逐渐灼热。无处安放的双手不知怎的就挪到了对方胯间。"
 
 translate schinese Jog_Lothar_Training_7caa2ba0:
 
     # "You don't know where to put your hands but somehow they land on Jog's narrow waist."
-    ""
+    pass
 
 translate schinese Jog_Lothar_Training_479b27cc:
 
     # "The fabric of Jog's briefs is extremely thin and you can feel the suppleness of his ass readily."
-    ""
+    "乔格的内裤布料很薄，你一按便能感受到他臀部的柔软触感。"
 
 translate schinese Jog_Lothar_Training_47064251:
 
     # "The close proximity and the confined space makes you feel heady."
-    ""
+    "缺氧状态下的零距离接触令你有些忘乎所以。"
 
 translate schinese Jog_Lothar_Training_3494db80:
 
     # "Your cock rises to attention. The tip brushes along the crack of Jog's ass."
-    ""
+    "不一会，你的鸡巴便抬起头来，磨蹭着乔格的股沟。"
 
 translate schinese Jog_Lothar_Training_224c29c6:
 
     # "You hope that Jog doesn't notice it."
-    ""
+    "你祈祷他不要注意到。"
 
 translate schinese Jog_Lothar_Training_a187e81f:
 
     # "At that moment, Jog turns around and rewards you with a naughty lift of his brow."
-    ""
+    pass
 
 translate schinese Jog_Lothar_Training_9d45f771:
 
     # "You take his advice and freeze. Your cock is erect but at least it is standing still."
-    ""
+    pass
 
 translate schinese Jog_Lothar_Training_b4d6619a:
 
     # "At that moment, there is a rustling coming from outside."
-    ""
+    "突然，外面传来零碎的脚步声。"
 
 translate schinese Jog_Lothar_Training_a394744a:
 
     # "Jog leans deeper into you."
-    ""
+    "乔格压得更紧了，就这么陷在你的胸腹中。"
 
 translate schinese Jog_Lothar_Training_723215d9:
 
     # "His back lay into your body."
-    ""
+    pass
 
 translate schinese Jog_Lothar_Training_974f7d70:
 
     # "The warmth from his skin spread through your pecs and stomach."
-    ""
+    "体温随之传导至你的肉棒，一跳一跳顶出了个帐篷。"
 
 translate schinese Jog_Lothar_Training_522bf826:
 
     # "Your cock tinkles as the warmth travels through your body."
-    ""
+    pass
 
 translate schinese Jog_Lothar_Training_cc4efd1c:
 
     # "Your boner pitches a tent through your loincloth."
-    ""
+    pass
 
 translate schinese Jog_Lothar_Training_b2fd451b:
 
     # "Even to you, your cock feels hot. You wonder how Jog is handling it considering he has your cock wedged between his buns."
-    ""
+    "别说乔格了，你都能感到自己鸡巴在发烫。"
+    "身后有根外人的生殖器顶着，不知他心里是什么滋味。"
 
 translate schinese Jog_Lothar_Training_9b961348:
 
     # "The rustling slowly moves away. You relax a little."
-    ""
+    "脚步声渐渐远去，你们放松了些许。"
 
 translate schinese Jog_Lothar_Training_fed7fbef:
 
     # "Once you let your guard down, your cock leaks some precum."
-    ""
+    "刚一放下戒备，你的鸡巴便渗出了爱液。"
 
 translate schinese Jog_Lothar_Training_3b738a22:
 
     # "You can feel your underwear getting wet. The spot where your tip brushes against your underwear become sticky with precum."
-    ""
+    "下装前端湿漉漉的，龟头顶起的地方早已黏成一片。"
 
 translate schinese Jog_Lothar_Training_9c1efa6d:
 
     # "You try your best to move your head. You can see the wet spot where your dick has made a stain."
-    ""
+    "你费力撇过头继续观察自己的杰作。眼见这样令人性奋的景象，爱液源源不断从马眼流出来。"
 
 translate schinese Jog_Lothar_Training_f2b6ce5a:
 
     # "The sight of your wet underwear excites you. You feel your cock pulses and more precum makes their way out of your penis."
-    ""
+    pass
 
 translate schinese Jog_Lothar_Training_f0f21904:
 
     # "The wet spot on your underwear gets larger."
-    ""
+    "被浸润的区域慢慢延展，而乔格的屁股不偏不倚正对着淫棍。"
 
 translate schinese Jog_Lothar_Training_4f0addf4:
 
     # "Jog's ass is poised right before your dick."
-    ""
+    pass
 
 translate schinese Jog_Lothar_Training_9eb41ce6:
 
     # "As your dick releases more precum, the liquid seeps through the front of your underwear and stains the back of Jog's briefs."
-    ""
+    "粘液从布料渗出，悉数滴在他的股沟上拉出道道银丝。"
 
 translate schinese Jog_Lothar_Training_f0767c2b:
 
     # "You feel like saying something but fate appears to play a cruel trick on you."
-    ""
+    "你想开口说点什么，可惜祸不单行。"
 
 translate schinese Jog_Lothar_Training_4735f7c1:
 
     # goatguard "Maybe they're here."
-    goatguard ""
+    goatguard "他们可能在这儿。"
 
 translate schinese Jog_Lothar_Training_a80bd4b1:
 
     # "The goats announce their presence."
-    ""
+    "山羊们忽然又寻回了这块地方。"
 
 translate schinese Jog_Lothar_Training_17a61f6f:
 
     # "Jog wiggles further into the crook."
-    ""
+    "乔格扭动身体与你全身相贴，躲进小洞更深处。"
 
 translate schinese Jog_Lothar_Training_3f510ad3:
 
     # "As he moves, Jog's ass tenses."
-    ""
+    "与此同时他的屁股也开始收紧，臀瓣夹住你的勃起。"
 
 translate schinese Jog_Lothar_Training_8769aea5:
 
     # "His butt cheeks pinch your boner."
-    ""
+    pass
 
 translate schinese Jog_Lothar_Training_d190a387:
 
     # "A jolt of electricity powers through you."
-    ""
+    "一股电流瞬间从鸡巴直穿天灵盖。"
 
 translate schinese Jog_Lothar_Training_81766e13:
 
     # "You feel a moan escaping your throat. You know you have to swallow it out lest you risk exposure."
-    ""
+    "你爽到差点叫出来，但你明白现在必须忍住，不能暴露。"
 
 translate schinese Jog_Lothar_Training_1cebd300:
 
     # "Your cock charges with tension. You feel like your cock is about to poke through your underwear."
-    ""
+    "然而情况越是危险你的鸡巴越是兴奋，你感觉他硬到就要捅破裤子了。"
 
 translate schinese Jog_Lothar_Training_7b86de91:
 
     # "Perhaps even through Jog's briefs and into his ready hole..."
-    ""
+    "甚至捅穿乔格的内裤，插进你帮他润滑好的小穴……"
 
 translate schinese Jog_Lothar_Training_7e1bcfa5:
 
     # "Perhaps sensing the effect it's having on you, Jog tightens his ass a few more times."
-    ""
+    "小鬣狗像是知道你已经被他拿捏住了一样，快速重复着之前的动作，夹紧、放松、夹紧、放松……"
 
 translate schinese Jog_Lothar_Training_b1a19c57:
 
     # "The effect this has on you is electric."
-    ""
+    "肉感十足的屁股像给你的鸡巴做推拿，每一下都让你欲罢不能。"
 
 translate schinese Jog_Lothar_Training_7c0eaadf:
 
     # "Jog's soft cheeks massage your boner at quick intervals."
-    ""
+    pass
 
 translate schinese Jog_Lothar_Training_dc2a9cbf:
 
     # "You are hit at all the right places and you can feel your blood rushing to your boner."
-    ""
+    "电流般的快感刺激得你浑身发麻，全身血液都在涌向命根。"
 
 translate schinese Jog_Lothar_Training_5f2ef3d5:
 
     # "You grit your teeth and is approaching ejaculation."
-    ""
+    "你咬紧牙关，即将冲破精关。"
 
 translate schinese Jog_Lothar_Training_429b354e:
 
     # "At the cusp of release, Jog suddenly moves away."
-    ""
+    "就在释放的隘口，乔格猛然移开身体。"
 
 translate schinese Jog_Lothar_Training_a782aac9:
 
     # "You pull him back."
-    ""
+    "你一把给他拽了回来。"
 
 translate schinese Jog_Lothar_Training_650a3e72:
 
     # e "{size=30} Wait! Aren't you worried about being caught?{/size}"
-    e ""
+    e "{size=24}喂！你不怕被抓到吗？{/size}"
 
 translate schinese Jog_Lothar_Training_8d74ec9e:
 
     # j "Getting caught?"
-    j ""
+    j "被抓到？"
 
 translate schinese Jog_Lothar_Training_61b654d9:
 
     # "Jog raises his brow and looks at the front of your wet underwear."
-    ""
+    "乔格挑挑眉拱起身子，显现出你湿透的裤裆。"
 
 translate schinese Jog_Lothar_Training_ee275b4b:
 
     # "Under his stare, your cock twitches at the attention."
-    ""
+    "在他的注视下，你的鸡巴依然顶着裤头不停抽搐。"
 
 translate schinese Jog_Lothar_Training_b57b0f61:
 
     # "It is yearning for release."
-    ""
+    pass
 
 translate schinese Jog_Lothar_Training_2e174b1d:
 
     # "Jog grins wickedly."
-    ""
+    "乔格咧出坏笑。"
 
 translate schinese Jog_Lothar_Training_f4035700:
 
     # j "Maybe you should be the one worried about getting caught."
-    j ""
+    j "不如先担心自己会不会被抓到吧。"
 
 translate schinese Jog_Lothar_Training_1d9d35d5:
 
     # "Jog opens his arms and continues in a normal voice."
-    ""
+    "乔格扒开树丛离开小洞，继续以正常音量说道："
 
 translate schinese Jog_Lothar_Training_03c847eb:
 
     # j "The goats are already gone."
-    j ""
+    j "山羊早走了。"
 
 translate schinese Jog_Lothar_Training_5c673153:
 
     # e "When?"
-    e ""
+    e "什么时候？我怎么不知道。"
 
 translate schinese Jog_Lothar_Training_83cb2a2d:
 
     # j "When that sexy moan escaped your mouth."
-    j ""
+    j "在你爽到“啊”的时候。"
 
 translate schinese Jog_Lothar_Training_9bb99280:
 
     # "Jog chuckles as your cheeks flush red. You thought you had suppressed that moan but apparently you didn't."
-    ""
+    "乔格放声大笑。而你却羞愧万分，还以为自己忍住了。"
 
 translate schinese Jog_Lothar_Training_59b016e6:
 
     # j "Thank you for showing me many things today. Overall you did help me complete the mission. I'll report that to Lothar."
-    j ""
+    j "今天刺探到这么多情报要多谢你。不管怎样，训练都算圆满完成，我会向洛哥汇报的。"
 
 translate schinese Jog_Lothar_Training_8233b00a:
 
     # "Jog touches the back of the briefs where it's stained by your precum."
-    ""
+    "乔格摸了摸身后被你弄湿的地方，将沾有体液的手指摆到眼前。"
 
 translate schinese Jog_Lothar_Training_e4671c48:
 
     # "He rubs it between his fingers and grins at you."
-    ""
+    pass
 
 translate schinese Jog_Lothar_Training_bb36a334:
 
     # j "Nice to know what you're sporting."
-    j ""
+    j "今天还有幸和你爱显摆的大家伙打个照面。"
 
 translate schinese Jog_Lothar_Training_fd7d0339:
 
     # j "The things earlier are just a teaser. Maybe in the future, I'll show you more what I can do with my ass."
-    j ""
+    j "刚才那些只是前戏，以后有机会我会让他知道我的屁股不止这点能耐。"
 
 translate schinese Jog_Lothar_Training_5c591fd1:
 
     # "Jogs chuckles and disappears into the woods as your face flames with embarrassment."
-    ""
+    "乔格嬉笑着钻进树林，独留面红耳赤的你一人原地尴尬。"
 
 # translate schinese Arthur_Bandit_Meet_Quest_0e4c8860:
 
@@ -4621,6 +4633,9 @@ translate schinese strings:
     old "Ask about Lusterfield{#AmbleAAL}"
     new "询问乐斯民菲尔德的事情"
 
+    old "Ask for Training"
+    new "提起洛萨尔要求的训练"
+
 # translate schinese Amble_Normal_Talk_e1b4b9b5:
 
 #     # e "What about the other dudes?"
@@ -4861,695 +4876,706 @@ translate schinese strings:
 #     # "Jog rustles away."
 #     ""
 
-# translate schinese Amble_Lothar_Training_a39ae20a:
+translate schinese Amble_Lothar_Training_a39ae20a:
 
-#     # a "A training? Are you sure you can handle it, puny thing?"
-#     a ""
+    # a "A training? Are you sure you can handle it, puny thing?"
+    a "训练？你确定受得了吗，小不点？"
 
-# translate schinese Amble_Lothar_Training_33fa59ca:
+translate schinese Amble_Lothar_Training_33fa59ca:
 
-#     # a "We heard from Lot that you can barely handle yourself against a slime."
-#     a ""
+    # a "We heard from Lot that you can barely handle yourself against a slime."
+    a "我们听洛哥说你连对付一滩史莱姆都很勉强。"
 
-# translate schinese Amble_Lothar_Training_89eee3c7:
+translate schinese Amble_Lothar_Training_89eee3c7:
 
-#     # e "That is not true. I've beaten many slimes on my journey."
-#     e ""
+    # e "That is not true. I've beaten many slimes on my journey."
+    e "胡扯，我在外头打败了不知多少个史莱姆。"
 
-# translate schinese Amble_Lothar_Training_01894521:
+translate schinese Amble_Lothar_Training_01894521:
 
-#     # a "That's not what he said."
-#     a ""
+    # a "That's not what he said."
+    a "洛哥可没有这么说。"
 
-# translate schinese Amble_Lothar_Training_c08d8386:
+translate schinese Amble_Lothar_Training_c08d8386:
 
-#     # "You really don't know what to say."
-#     ""
+    # "You really don't know what to say."
+    "你一时不知该怎么劝他绕过“洛哥”。"
 
-# translate schinese Amble_Lothar_Training_84b16e0b:
+translate schinese Amble_Lothar_Training_84b16e0b:
 
-#     # "Amble sizes you up and down."
-#     ""
+    # "Amble sizes you up and down."
+    "安布俯下身，从头到脚打量了你一番。"
 
-# translate schinese Amble_Lothar_Training_cc759cb6:
+translate schinese Amble_Lothar_Training_cc759cb6:
 
-#     # a "Regardless, he did say that you are to go on a training with me."
-#     a ""
+    # a "Regardless, he did say that you are to go on a training with me."
+    a "但他确实有说你会来找我训练。"
 
-# translate schinese Amble_Lothar_Training_37d399ce:
+translate schinese Amble_Lothar_Training_37d399ce:
 
-#     # a "It'll prove that whether you have the strength to be part of the team or not."
-#     a ""
+    # a "It'll prove that whether you have the strength to be part of the team or not."
+    a "这样就能证明你到底够不够力气加入我们。"
 
-# translate schinese Amble_Lothar_Training_9d2f2d12:
+translate schinese Amble_Lothar_Training_9d2f2d12:
 
-#     # e "Alright."
-#     e ""
+    # e "Alright."
+    e "行啊。"
 
-# translate schinese Amble_Lothar_Training_64c7bbd9:
+translate schinese Amble_Lothar_Training_64c7bbd9:
 
-#     # a "Come with me and be prepared for a grueling training session."
-#     a ""
+    # a "Come with me and be prepared for a grueling training session."
+    a "那跟我来吧，小不点，可要做好吃苦的心理准备噢。"
 
-# translate schinese Amble_Lothar_Training_dec7ccff:
+translate schinese Amble_Lothar_Training_dec7ccff:
 
-#     # "You anticipate a strenuous physical exercise as you follow Amble to the Sparkling Lagoon."
-#     ""
+    # "You anticipate a strenuous physical exercise as you follow Amble to the Sparkling Lagoon."
+    "想必这将是一场累死人不偿命的体能训练，你边暗自打气边跟着安布来到了苍耀湖。"
 
-# translate schinese Amble_Lothar_Training_bc380d88:
+translate schinese Amble_Lothar_Training_bc380d88:
 
-#     # "You two stop at the forest near the lagoon."
-#     ""
+    # "You two stop at the forest near the lagoon."
+    "你们在湖泊附近的林地驻足。"
 
-# translate schinese Amble_Lothar_Training_5d45a640:
+translate schinese Amble_Lothar_Training_5d45a640:
 
-#     # a "Alright, puny dragon. Start chopping."
-#     a ""
+    # a "Alright, puny dragon. Start chopping."
+    a "我们到啦。开始砍树吧，小龙龙。"
 
-# translate schinese Amble_Lothar_Training_ecb1401c:
+translate schinese Amble_Lothar_Training_ecb1401c:
 
-#     # "With you looking on in shock, Amble grabs the axe off his back and starts hacking at a giant tree."
-#     ""
+    # "With you looking on in shock, Amble grabs the axe off his back and starts hacking at a giant tree."
+    "安布从背后取下斧头，毫不犹豫便向一棵大树砍去。"
 
-# translate schinese Amble_Lothar_Training_92796454:
+translate schinese Amble_Lothar_Training_92796454:
 
-#     # "Amble pauses and looks at you with confusion."
-#     ""
+    # "Amble pauses and looks at you with confusion."
+    "他注意到一旁震惊又困惑的你，停了下来。"
 
-# translate schinese Amble_Lothar_Training_9aedd728:
+translate schinese Amble_Lothar_Training_9aedd728:
 
-#     # a "Of course. This is how I normally train my strength. Lot wants you to get stronger like him, right?"
-#     a ""
+    # a "Of course. This is how I normally train my strength. Lot wants you to get stronger like him, right?"
+    a "我平常就是这么锻炼的。洛哥想让你变得和他一样强壮，对吧？"
 
-# translate schinese Amble_Lothar_Training_121d1a20:
+translate schinese Amble_Lothar_Training_121d1a20:
 
-#     # a "This is the most effective way."
-#     a ""
+    # a "This is the most effective way."
+    a "我保证这是最高效的方法。"
 
-# translate schinese Amble_Lothar_Training_a899c8ab:
+translate schinese Amble_Lothar_Training_a899c8ab:
 
-#     # "Amble points to an axe on the ground."
-#     ""
+    # "Amble points to an axe on the ground."
+    "安布手指地上闲置的斧头。"
 
-# translate schinese Amble_Lothar_Training_d76bdb54:
+translate schinese Amble_Lothar_Training_d76bdb54:
 
-#     # a "That's another one of my axes. You can use it."
-#     a ""
+    # a "That's another one of my axes. You can use it."
+    a "我这还有很多，你可以先用这个。"
 
-# translate schinese Amble_Lothar_Training_7dc58651:
+translate schinese Amble_Lothar_Training_7dc58651:
 
-#     # "Amble resumes his work. You pick up the axe and ponder your situation."
-#     ""
+    # "Amble resumes his work. You pick up the axe and ponder your situation."
+    "说完，安布抡起斧头继续伐木。你则拾起另一把，思考接下来该怎么办。"
 
-# translate schinese Amble_Lothar_Training_7ab8df83:
+translate schinese Amble_Lothar_Training_7ab8df83:
 
-#     # "There is a big tree and a small tree near you."
-#     ""
+    # "There is a big tree and a small tree near you."
+    "你面前有一棵大树和一颗小树。"
 
-# translate schinese Amble_Lothar_Training_10176b4e:
+translate schinese Amble_Lothar_Training_10176b4e:
 
-#     # "The big tree is about the size of the tree Amble is chopping. It dwarfs you easily. Chopping this down will require a lot of energy."
-#     ""
+    # "The big tree is about the size of the tree Amble is chopping. It dwarfs you easily. Chopping this down will require a lot of energy."
+    "大的遮天蔽日，树干就跟安布现在砍的差不多粗。砍倒它肯定要出不少力。"
 
-# translate schinese Amble_Lothar_Training_fabba0dc:
+translate schinese Amble_Lothar_Training_fabba0dc:
 
-#     # "The small tree is about twice your size. The trunk is thinner so it should be easier to fell this tree compared to the other one."
-#     ""
+    # "The small tree is about twice your size. The trunk is thinner so it should be easier to fell this tree compared to the other one."
+    "小的树干大概有你身体两倍粗，应该比另外那棵容易砍。"
 
-# translate schinese Amble_Lothar_Training_127b90ad:
+translate schinese strings:
 
-#     # "Since Amble chose the big tree, you follow his example."
-#     ""
+    old "Which will you chop?"
+    new "你要砍哪棵？"
 
-# translate schinese Amble_Lothar_Training_3abcf478:
+    old "The big tree"
+    new "大的"
 
-#     # "You raise the axe and swing. The axe cut into the bark and you arms buzz from impact."
-#     ""
+    old "The small tree"
+    new "小的"
 
-# translate schinese Amble_Lothar_Training_53645d39:
+translate schinese Amble_Lothar_Training_127b90ad:
 
-#     # "This job is harder than it looks."
-#     ""
+    # "Since Amble chose the big tree, you follow his example."
+    "既然安布挑大的砍，你也亦步亦趋地去砍大树。"
 
-# translate schinese Amble_Lothar_Training_2d8d22cc:
+translate schinese Amble_Lothar_Training_3abcf478:
 
-#     # a "You swing with your shoulders, not your arms."
-#     a ""
+    # "You raise the axe and swing. The axe cut into the bark and you arms buzz from impact."
+    "你横过斧头用力砍向树干。斧头嵌进树皮，你的胳膊被震得发麻。"
 
-# translate schinese Amble_Lothar_Training_69740393:
+translate schinese Amble_Lothar_Training_53645d39:
 
-#     # "Amble walks over."
-#     ""
+    # "This job is harder than it looks."
+    "这活比你想象中的难多了。"
 
-# translate schinese Amble_Lothar_Training_794efd2c:
+translate schinese Amble_Lothar_Training_2d8d22cc:
 
-#     # a "Let me show you."
-#     a ""
+    # a "You swing with your shoulders, not your arms."
+    a "要用肩膀带动手臂，不能光靠手臂发力。"
 
-# translate schinese Amble_Lothar_Training_cc29f67c:
+translate schinese Amble_Lothar_Training_69740393:
 
-#     # "Amble put his large hands over yours."
-#     ""
+    # "Amble walks over."
+    "安布见状向你走来。"
 
-# translate schinese Amble_Lothar_Training_1aa033a9:
+translate schinese Amble_Lothar_Training_794efd2c:
 
-#     # "He encircles you from behind."
-#     ""
+    # a "Let me show you."
+    a "我教你。"
 
-# translate schinese Amble_Lothar_Training_4ff4e3e7:
+translate schinese Amble_Lothar_Training_cc29f67c:
 
-#     # "You feel a fuzzy warmth from the close contact."
-#     ""
+    # "Amble put his large hands over yours."
+    "红熊从背后环抱住你，一双大手盖住小手亲自纠正你的姿势。"
 
-# translate schinese Amble_Lothar_Training_8a432a64:
+translate schinese Amble_Lothar_Training_1aa033a9:
 
-#     # "Amble corrects your stance and the second swing you made feel smoother."
-#     ""
+    # "He encircles you from behind."
+    pass
 
-# translate schinese Amble_Lothar_Training_70f7d9f1:
+translate schinese Amble_Lothar_Training_4ff4e3e7:
 
-#     # a "Better."
-#     a ""
+    # "You feel a fuzzy warmth from the close contact."
+    "突如其来的亲密接触和温暖毛感让你有些飘飘然。"
 
-# translate schinese Amble_Lothar_Training_16c33780:
+translate schinese Amble_Lothar_Training_8a432a64:
 
-#     # e "Thank you, Amble."
-#     e ""
+    # "Amble corrects your stance and the second swing you made feel smoother."
+    "你照着他的指导再挥下去，这次感觉顺畅多了。"
 
-# translate schinese Amble_Lothar_Training_8027d74f:
+translate schinese Amble_Lothar_Training_70f7d9f1:
 
-#     # "Amble nods, smiles and heads back to his work, leaving you with yours."
-#     ""
+    # a "Better."
+    a "好多啦。"
 
-# translate schinese Amble_Lothar_Training_00fc2730:
+translate schinese Amble_Lothar_Training_16c33780:
 
-#     # "You are too inexperienced of a logger to go for the big tree."
-#     ""
+    # e "Thank you, Amble."
+    e "谢谢。"
 
-# translate schinese Amble_Lothar_Training_e75efc04:
+translate schinese Amble_Lothar_Training_8027d74f:
 
-#     # "Plus, one has to work smart on top of working hard."
-#     ""
+    # "Amble nods, smiles and heads back to his work, leaving you with yours."
+    "安布点头微笑，回到他的工作岗位上，留你继续练习伐木技巧。"
 
-# translate schinese Amble_Lothar_Training_aa9c64fc:
+translate schinese Amble_Lothar_Training_00fc2730:
 
-#     # "You pick up the axe and ready to chop down the smaller tree."
-#     ""
+    # "You are too inexperienced of a logger to go for the big tree."
+    "选择比努力更重要，你作为新手自然要从简单的开始。"
 
-# translate schinese Amble_Lothar_Training_1f9dff36:
+translate schinese Amble_Lothar_Training_e75efc04:
 
-#     # "Suddenly, there is a roar."
-#     ""
+    # "Plus, one has to work smart on top of working hard."
+    pass
 
-# translate schinese Amble_Lothar_Training_7f7287c5:
+translate schinese Amble_Lothar_Training_aa9c64fc:
 
-#     # a "Wait!"
-#     a ""
+    # "You pick up the axe and ready to chop down the smaller tree."
+    "你走向那棵相对小点的树，举起斧头就要向它砍去。"
 
-# translate schinese Amble_Lothar_Training_a4d7bbda:
+translate schinese Amble_Lothar_Training_1f9dff36:
 
-#     # "You halt. You turn and see Amble trundle over. He looks rather mad."
-#     ""
+    # "Suddenly, there is a roar."
+    pass
 
-# translate schinese Amble_Lothar_Training_1f25b469:
+translate schinese Amble_Lothar_Training_7f7287c5:
 
-#     # a "What are you doing?"
-#     a ""
+    # a "Wait!"
+    a "住手！"
 
-# translate schinese Amble_Lothar_Training_0c220409:
+translate schinese Amble_Lothar_Training_a4d7bbda:
 
-#     # e "Chopping... tree?"
-#     e ""
+    # "You halt. You turn and see Amble trundle over. He looks rather mad."
+    "一声怒吼喝住了你。你转身看见安布重步向你走来。"
 
-# translate schinese Amble_Lothar_Training_aefda267:
+translate schinese Amble_Lothar_Training_1f25b469:
 
-#     # a "Not this one!"
-#     a ""
+    # a "What are you doing?"
+    a "你在干什么？"
 
-# translate schinese Amble_Lothar_Training_1ea97b2d:
+translate schinese Amble_Lothar_Training_0c220409:
 
-#     # e "Why?"
-#     e ""
+    # e "Chopping... tree?"
+    e "砍……树？"
 
-# translate schinese Amble_Lothar_Training_46961dc6:
+translate schinese Amble_Lothar_Training_aefda267:
 
-#     # a "This one still needs the time to grow."
-#     a ""
+    # a "Not this one!"
+    a "这棵不能砍！"
 
-# translate schinese Amble_Lothar_Training_1758f2c6:
+translate schinese Amble_Lothar_Training_1ea97b2d:
 
-#     # e "Does it make a difference?"
-#     e ""
+    # e "Why?"
+    e "为什么？"
 
-# translate schinese Amble_Lothar_Training_a6be5e3c:
+translate schinese Amble_Lothar_Training_46961dc6:
 
-#     # a "Of course!"
-#     a ""
+    # a "This one still needs the time to grow."
+    a "它还没长大呢。"
 
-# translate schinese Amble_Lothar_Training_51867de1:
+translate schinese Amble_Lothar_Training_1758f2c6:
 
-#     # a "Nature is venerable. We have to respect it for the life that it has provided us."
-#     a ""
+    # e "Does it make a difference?"
+    e "长没长大有区别吗？"
 
-# translate schinese Amble_Lothar_Training_7923e6ce:
+translate schinese Amble_Lothar_Training_a6be5e3c:
 
-#     # a "If we cut down all the saplings, will we even have enough logs to harvest in the future?"
-#     a ""
+    # a "Of course!"
+    a "区别大了！"
 
-# translate schinese Amble_Lothar_Training_738610f2:
+translate schinese Amble_Lothar_Training_51867de1:
 
-#     # "You nod. You do not expect to see this philosophical side of Amble."
-#     ""
+    # a "Nature is venerable. We have to respect it for the life that it has provided us."
+    a "万物各得其和以生，各得其养以成，我们必须保持对大自然的敬畏之心。"
 
-# translate schinese Amble_Lothar_Training_4996d38e:
+translate schinese Amble_Lothar_Training_7923e6ce:
 
-#     # e "I understand now. Sorry, Amble."
-#     e ""
+    # a "If we cut down all the saplings, will we even have enough logs to harvest in the future?"
+    a "如果今天我们把树苗都砍光了，那明天我们又有什么可砍呢？"
 
-# translate schinese Amble_Lothar_Training_2ec7ef7c:
+translate schinese Amble_Lothar_Training_738610f2:
 
-#     # a "It's alright. I shouldn't have roared at you. You are new at this too."
-#     a ""
+    # "You nod. You do not expect to see this philosophical side of Amble."
+    "你点点头，没想到安布还有精于哲思的一面。"
 
-# translate schinese Amble_Lothar_Training_6039d4a7:
+translate schinese Amble_Lothar_Training_4996d38e:
 
-#     # "The two of you fall into a comfortable rhythm. Eventually, there's quite a sizeable pile of logs on the ground."
-#     ""
+    # e "I understand now. Sorry, Amble."
+    e "我现在明白了。对不起，安布。"
 
-# translate schinese Amble_Lothar_Training_5129380e:
+translate schinese Amble_Lothar_Training_2ec7ef7c:
 
-#     # a "Phew. That was quite a workout."
-#     a ""
+    # a "It's alright. I shouldn't have roared at you. You are new at this too."
+    a "没关系，我也不该朝你大吼大叫。毕竟你才刚刚接触这一行。"
 
-# translate schinese Amble_Lothar_Training_31dc0814:
+translate schinese Amble_Lothar_Training_6039d4a7:
 
-#     # "You nod. The training was unexpected but you did get to know more of Amble."
-#     ""
+    # "The two of you fall into a comfortable rhythm. Eventually, there's quite a sizeable pile of logs on the ground."
+    "接下来你们逐渐进入状态专心砍树。最终，原木一层层垒成了个小金字塔。"
 
-# translate schinese Amble_Lothar_Training_c5a262fd:
+translate schinese Amble_Lothar_Training_5129380e:
 
-#     # a "Courier, that was not bad. Keep this up and I'm sure you'll be stronger soon."
-#     a ""
+    # a "Phew. That was quite a workout."
+    a "呼，今天的运动量可真够大。"
 
-# translate schinese Amble_Lothar_Training_faaa1496:
+translate schinese Amble_Lothar_Training_31dc0814:
 
-#     # a "You'll never be as strong as him but it'll still be an improvement."
-#     a ""
+    # "You nod. The training was unexpected but you did get to know more of Amble."
+    "你点头。虽然没想到安布的训练会是伐木，但你确实更加了解他了。"
 
-# translate schinese Amble_Lothar_Training_d8a184b8:
+translate schinese Amble_Lothar_Training_c5a262fd:
 
-#     # e "... Thanks?"
-#     e ""
+    # a "Courier, that was not bad. Keep this up and I'm sure you'll be stronger soon."
+    a "不错噢，[e]。坚持下去你肯定很快就能变得更强壮。"
 
-# translate schinese Amble_Lothar_Training_f6872efa:
+translate schinese Amble_Lothar_Training_faaa1496:
 
-#     # a "Nature is always there to provide. These logs will help Lusterfield and you get a good workout in the process."
-#     a ""
+    # a "You'll never be as strong as him but it'll still be an improvement."
+    a "虽然没法比肩洛哥，但有进步就是好事。"
 
-# translate schinese Amble_Lothar_Training_669fd024:
+translate schinese Amble_Lothar_Training_d8a184b8:
 
-#     # a "However, courier, understand that sometimes Nature can be dangerous too."
-#     a ""
+    # e "... Thanks?"
+    e "……谢谢？"
 
-# translate schinese Amble_Lothar_Training_9e15db04:
+translate schinese Amble_Lothar_Training_f6872efa:
 
-#     # e "What do you mean?"
-#     e ""
+    # a "Nature is always there to provide. These logs will help Lusterfield and you get a good workout in the process."
+    a "你瞧，大自然总是这么慷慨。这些树木既可以满足村里大家生活所需，又可以让我们在砍伐的过程中锻炼身心。"
 
-# translate schinese Amble_Lothar_Training_a38fc0f6:
+translate schinese Amble_Lothar_Training_669fd024:
 
-#     # a "Dad was a logger too. He had come across many strange things in the forest."
-#     a ""
+    # a "However, courier, understand that sometimes Nature can be dangerous too."
+    a "不过，大自然也有它残酷的一面。"
 
-# translate schinese Amble_Lothar_Training_1260045d:
+translate schinese Amble_Lothar_Training_9e15db04:
 
-#     # a "He used to warn us of treekins in the forest. People who are fiercely protective of nature."
-#     a ""
+    # e "What do you mean?"
+    e "你的意思是？"
 
-# translate schinese Amble_Lothar_Training_a149575e:
+translate schinese Amble_Lothar_Training_a38fc0f6:
 
-#     # a "However, other than the goats who worship the big glowing tree, I've never seen any creature like that."
-#     a ""
+    # a "Dad was a logger too. He had come across many strange things in the forest."
+    a "我老爸曾经也是个伐木工。他在森林里碰见过不少怪事。"
 
-# translate schinese Amble_Lothar_Training_cbd4b3b1:
+translate schinese Amble_Lothar_Training_1260045d:
 
-#     # a "Or perhaps Dad was talking about the goats?"
-#     a ""
+    # a "He used to warn us of treekins in the forest. People who are fiercely protective of nature."
+    a "他还警告过我们小心“护林员”，说这是一群用极端方式保护自然的狂热分子。"
 
-# translate schinese Amble_Lothar_Training_6602ad90:
+translate schinese Amble_Lothar_Training_a149575e:
 
-#     # a "Anyway, I'm sure it's nothing to worry about."
-#     a ""
+    # a "However, other than the goats who worship the big glowing tree, I've never seen any creature like that."
+    a "但除了崇拜那棵发光大树的山羊，我就没见过有谁能对应我爸的描述。"
 
-# translate schinese Amble_Lothar_Training_a54d72e3:
+translate schinese Amble_Lothar_Training_cbd4b3b1:
 
-#     # "Amble scratches his head and smiles."
-#     ""
+    # a "Or perhaps Dad was talking about the goats?"
+    a "或许老爸说的就是山羊？"
 
-# translate schinese Amble_Lothar_Training_163bc2f7:
+translate schinese Amble_Lothar_Training_6602ad90:
 
-#     # "You ponder this legend."
-#     ""
+    # a "Anyway, I'm sure it's nothing to worry about."
+    a "不管怎样，我相信那种事没必要担心啦。"
 
-# translate schinese Amble_Lothar_Training_08a963e8:
+translate schinese Amble_Lothar_Training_a54d72e3:
 
-#     # "Amble puts down the axe and walks to the nearby lagoon."
-#     ""
+    # "Amble scratches his head and smiles."
+    "安布挠挠头，憨态可掬。"
 
-# translate schinese Amble_Lothar_Training_dd6e671f:
+translate schinese Amble_Lothar_Training_163bc2f7:
 
-#     # a "Puny courier, I'm sure you are all sweaty from the training. We should wash ourselves in this lagoon."
-#     a ""
+    # "You ponder this legend."
+    "你则继续思索着这个诡秘传言。"
 
-# translate schinese Amble_Lothar_Training_35fd5a15:
+translate schinese Amble_Lothar_Training_08a963e8:
 
-#     # "You think that it is a good idea too. You follow Amble to the lagoon."
-#     ""
+    # "Amble puts down the axe and walks to the nearby lagoon."
+    "安布放下斧头，准备往湖泊走去。"
 
-# translate schinese Amble_Lothar_Training_27d6013a:
+translate schinese Amble_Lothar_Training_dd6e671f:
 
-#     # e "Amble, wait a moment."
-#     e ""
+    # a "Puny courier, I'm sure you are all sweaty from the training. We should wash ourselves in this lagoon."
+    a "小不点，你肯定已经出汗出到浑身湿透了吧。我们去湖里洗洗怎么样。"
 
-# translate schinese Amble_Lothar_Training_6ff45593:
+translate schinese Amble_Lothar_Training_35fd5a15:
 
-#     # "You look at the crystal clear water."
-#     ""
+    # "You think that it is a good idea too. You follow Amble to the lagoon."
+    "你也觉得这个主意挺好的。就这样，你跟随他来到了湖边。"
 
-# translate schinese Amble_Lothar_Training_b1d64c76:
+translate schinese Amble_Lothar_Training_27d6013a:
 
-#     # e "Amble, is this safe?"
-#     e ""
+    # e "Amble, wait a moment."
+    e "安布，等等。"
 
-# translate schinese Amble_Lothar_Training_9c3e0b29:
+translate schinese Amble_Lothar_Training_6ff45593:
 
-#     # "Amble guffaws."
-#     ""
+    # "You look at the crystal clear water."
+    "你凝视着脚下湖水，清澈见底。"
 
-# translate schinese Amble_Lothar_Training_0ca24a33:
+translate schinese Amble_Lothar_Training_b1d64c76:
 
-#     # a "Of course, it is. I've done this many times."
-#     a ""
+    # e "Amble, is this safe?"
+    e "我们下去真的没事吗？"
 
-# translate schinese Amble_Lothar_Training_4990c437:
+translate schinese Amble_Lothar_Training_9c3e0b29:
 
-#     # a "You are just like Jog. There is no hidden danger everywhere."
-#     a ""
+    # "Amble guffaws."
+    "安布大笑。"
 
-# translate schinese Amble_Lothar_Training_819e79be:
+translate schinese Amble_Lothar_Training_0ca24a33:
 
-#     # a "Well, at least I'm sure there's no danger here."
-#     a ""
+    # a "Of course, it is. I've done this many times."
+    a "当然啦，我已经在这里洗过好多次了。"
 
-# translate schinese Amble_Lothar_Training_9d2f2d12_1:
+translate schinese Amble_Lothar_Training_4990c437:
 
-#     # e "Alright."
-#     e ""
+    # a "You are just like Jog. There is no hidden danger everywhere."
+    a "你呀，和乔格一样疑神疑鬼。这世上怎么可能到处都有危险。"
 
-# translate schinese Amble_Lothar_Training_86dfce74:
+translate schinese Amble_Lothar_Training_819e79be:
 
-#     # "You strip down to your loincloth."
-#     ""
+    # a "Well, at least I'm sure there's no danger here."
+    a "唔，至少我确定这里是安全的。"
 
-# translate schinese Amble_Lothar_Training_45b36013:
+translate schinese Amble_Lothar_Training_9d2f2d12_1:
 
-#     # "Tired of waiting for you, Amble scoops up the water and splashes you."
-#     ""
+    # e "Alright."
+    e "好吧。"
 
-# translate schinese Amble_Lothar_Training_0b0f6d63:
+translate schinese Amble_Lothar_Training_86dfce74:
 
-#     # a "Come on. The water is really relaxing."
-#     a ""
+    # "You strip down to your loincloth."
+    "你慢腾腾脱下衣服裤子，脱到只剩条遮裆布。"
 
-# translate schinese Amble_Lothar_Training_99541952:
+translate schinese Amble_Lothar_Training_45b36013:
 
-#     # "The water drips from your fur."
-#     ""
+    # "Tired of waiting for you, Amble scoops up the water and splashes you."
+    "而安布已经等倦了，他捧起一抔水就往你身上泼。"
 
-# translate schinese Amble_Lothar_Training_9dc31a80:
+translate schinese Amble_Lothar_Training_0b0f6d63:
 
-#     # e "Why did you do that for?"
-#     e ""
+    # a "Come on. The water is really relaxing."
+    a "快下来，水里真的很舒服。"
 
-# translate schinese Amble_Lothar_Training_af5a8b2c:
+translate schinese Amble_Lothar_Training_99541952:
 
-#     # a "To get you to stop wasting time."
-#     a ""
+    # "The water drips from your fur."
+    "水珠从你的毛发滴下。"
 
-# translate schinese Amble_Lothar_Training_44c11ec5:
+translate schinese Amble_Lothar_Training_9dc31a80:
 
-#     # "You pout as you wade into the water."
-#     ""
+    # e "Why did you do that for?"
+    e "安布，你干嘛？"
 
-# translate schinese Amble_Lothar_Training_a0d410ab:
+translate schinese Amble_Lothar_Training_af5a8b2c:
 
-#     # "Amble is right. As the water laps around your body, you can feel the exertion of the day being washed away."
-#     ""
+    # a "To get you to stop wasting time."
+    a "提醒你不要浪费时间。"
 
-# translate schinese Amble_Lothar_Training_af650652:
+translate schinese Amble_Lothar_Training_44c11ec5:
 
-#     # "You ease into a spot right beside Amble."
-#     ""
+    # "You pout as you wade into the water."
+    "你瘪瘪嘴，也走进了湖水。"
 
-# translate schinese Amble_Lothar_Training_542551cd:
+translate schinese Amble_Lothar_Training_a0d410ab:
 
-#     # e "This is nice."
-#     e ""
+    # "Amble is right. As the water laps around your body, you can feel the exertion of the day being washed away."
+    "安布说得没错，你能感觉到清凉的湖水洗刷掉了自己所有的疲惫。"
 
-# translate schinese Amble_Lothar_Training_deb16359:
+translate schinese Amble_Lothar_Training_af650652:
 
-#     # a "Yea..."
-#     a ""
+    # "You ease into a spot right beside Amble."
+    "你缓缓划到他身边。"
 
-# translate schinese Amble_Lothar_Training_e20a7d71:
+translate schinese Amble_Lothar_Training_542551cd:
 
-#     # "Amble lets out a satisfied moans as he leans his head back and closes his eyes."
-#     ""
+    # e "This is nice."
+    e "确实舒服。"
 
-# translate schinese Amble_Lothar_Training_f747c667:
+translate schinese Amble_Lothar_Training_deb16359:
 
-#     # "You try to relax but something catches your attention from the corner of your eyes."
-#     ""
+    # a "Yea..."
+    a "嗯……"
 
-# translate schinese Amble_Lothar_Training_06418ccf:
+translate schinese Amble_Lothar_Training_e20a7d71:
 
-#     # "Amble's briefs have turned semi-transparent in the water."
-#     ""
+    # "Amble lets out a satisfied moans as he leans his head back and closes his eyes."
+    "安布发出一声惬意的呻吟，仰头闭上眼睛继续享受。"
 
-# translate schinese Amble_Lothar_Training_12f69db8:
+translate schinese Amble_Lothar_Training_f747c667:
 
-#     # "You turn your hardest not to look."
-#     ""
+    # "You try to relax but something catches your attention from the corner of your eyes."
+    "你正打算像他一样闭目养神，但余光中有个东西吸引了你的注意。"
 
-# translate schinese Amble_Lothar_Training_933a644c:
+translate schinese Amble_Lothar_Training_06418ccf:
 
-#     # "You notice that Amble's eyes are still closed. Your eyes subconsciously wander south."
-#     ""
+    # "Amble's briefs have turned semi-transparent in the water."
+    "那就是安布的内裤，被水浸湿之后已经变得半透明了。"
 
-# translate schinese Amble_Lothar_Training_d8a61409:
+translate schinese Amble_Lothar_Training_12f69db8:
 
-#     # "Even in a limp state, Amble's cock is huge."
-#     ""
+    # "You turn your hardest not to look."
+    "你竭尽全力移开视线，抬头看向安布。"
 
-# translate schinese Amble_Lothar_Training_328058ac:
+translate schinese Amble_Lothar_Training_933a644c:
 
-#     # "You cannot help but wonder how large it'll be when it's fully erect."
-#     ""
+    # "You notice that Amble's eyes are still closed. Your eyes subconsciously wander south."
+    "他还闭着眼。而你的眼睛却不由自主地往下瞟。"
 
-# translate schinese Amble_Lothar_Training_62693d8c:
+translate schinese Amble_Lothar_Training_d8a61409:
 
-#     # "The cock is so large that you can see the details of the veins clearly."
-#     ""
+    # "Even in a limp state, Amble's cock is huge."
+    "即使只是匆匆一瞥，他那里的大小也让人过目不忘。"
 
-# translate schinese Amble_Lothar_Training_5ed96bd9:
+translate schinese Amble_Lothar_Training_328058ac:
 
-#     # "Some of the veins pulse as the blood pumps through them."
-#     ""
+    # "You cannot help but wonder how large it'll be when it's fully erect."
+    "你不禁幻想这条沉睡的巨蟒要是醒了该有多雄伟。"
 
-# translate schinese Amble_Lothar_Training_21e60453:
+translate schinese Amble_Lothar_Training_62693d8c:
 
-#     # "Suddenly, the water doesn't feel as relaxing anymore."
-#     ""
+    # "The cock is so large that you can see the details of the veins clearly."
+    "至少现在已经大到连血管都清晰可见。"
 
-# translate schinese Amble_Lothar_Training_e67fa1a3:
+translate schinese Amble_Lothar_Training_5ed96bd9:
 
-#     # "Amble's cock curves downward."
-#     ""
+    # "Some of the veins pulse as the blood pumps through them."
+    "你甚至能看见有几根正随着心跳搏动。"
 
-# translate schinese Amble_Lothar_Training_6341139c:
+translate schinese Amble_Lothar_Training_21e60453:
 
-#     # "The foreskin is pulled back because Amble's cock is so large."
-#     ""
+    # "Suddenly, the water doesn't feel as relaxing anymore."
+    "这片让人心旷神怡的湖水突然变得没那么……心旷神怡了。"
 
-# translate schinese Amble_Lothar_Training_d03e0e53:
+translate schinese Amble_Lothar_Training_e67fa1a3:
 
-#     # "A bit of the pinkish crown is peeking through near the tip."
-#     ""
+    # "Amble's cock curves downward."
+    "安布的巨根是往下摆的。"
 
-# translate schinese Amble_Lothar_Training_fe5fe9bb:
+translate schinese Amble_Lothar_Training_6341139c:
 
-#     # "As the water flows, Amble's cock and balls jostle slightly inside his briefs."
-#     ""
+    # "The foreskin is pulled back because Amble's cock is so large."
+    "因为龟头够大所以包皮一直都会被撑开，露出冠状沟下一小块嫩肉。"
 
-# translate schinese Amble_Lothar_Training_2596c7ff:
+translate schinese Amble_Lothar_Training_d03e0e53:
 
-#     # "You wonder how he manage to fit all of them in."
-#     ""
+    # "A bit of the pinkish crown is peeking through near the tip."
+    pass
 
-# translate schinese Amble_Lothar_Training_c1ca572b:
+translate schinese Amble_Lothar_Training_fe5fe9bb:
 
-#     # "The briefs look like it's already stretching to breaking point from your perspective."
-#     ""
+    # "As the water flows, Amble's cock and balls jostle slightly inside his briefs."
+    "湖底水流涌动，三角裤下的鸡巴和卵蛋也随之浮动。"
 
-# translate schinese Amble_Lothar_Training_7cb74a94:
+translate schinese Amble_Lothar_Training_2596c7ff:
 
-#     # "Your mind wanders and you can't help but ponders if you could fit Amble's ample digit in your mouth... or even your hole."
-#     ""
+    # "You wonder how he manage to fit all of them in."
+    "你好奇这头壮熊怎么能穿得进这条内裤。"
 
-# translate schinese Amble_Lothar_Training_49d37dc9:
+translate schinese Amble_Lothar_Training_c1ca572b:
 
-#     # "You swallow nervously. You feel the front of your loincloth rising."
-#     ""
+    # "The briefs look like it's already stretching to breaking point from your perspective."
+    "在你看来，要是他稍微用点力，那脆弱的布料一定会当场炸裂。"
 
-# translate schinese Amble_Lothar_Training_9e8cf183:
+translate schinese Amble_Lothar_Training_7cb74a94:
 
-#     # "This is not a good situation."
-#     ""
+    # "Your mind wanders and you can't help but ponders if you could fit Amble's ample digit in your mouth... or even your hole."
+    "你的思绪越来越奔放，想象自己用嘴……甚至用后穴去丈量这根大肉棒。"
 
-# translate schinese Amble_Lothar_Training_f37eb080:
+translate schinese Amble_Lothar_Training_49d37dc9:
 
-#     # "You need to calm down before Amble wakes up and catches you ogling him."
-#     ""
+    # "You swallow nervously. You feel the front of your loincloth rising."
+    "你激动得咽了口唾沫，才注意到自己也开始支帐篷了。"
 
-# translate schinese Amble_Lothar_Training_ed053066:
+translate schinese Amble_Lothar_Training_9e8cf183:
 
-#     # "You scoop up the lagoon water and splash it on your face."
-#     ""
+    # "This is not a good situation."
+    "这可不妙。你得在安布睁眼抓到你偷看他之前赶紧把勃起消下去。"
 
-# translate schinese Amble_Lothar_Training_c0fd5635:
+translate schinese Amble_Lothar_Training_f37eb080:
 
-#     # "You whips your head around to clear your mind."
-#     ""
+    # "You need to calm down before Amble wakes up and catches you ogling him."
+    pass
 
-# translate schinese Amble_Lothar_Training_18e21f84:
+translate schinese Amble_Lothar_Training_ed053066:
 
-#     # "The water splashes on Amble beside you."
-#     ""
+    # "You scoop up the lagoon water and splash it on your face."
+    "于是你捧起湖水往脸上拍，甩甩脑袋，期望这能让自己静下心来。"
 
-# translate schinese Amble_Lothar_Training_2bab4561:
+translate schinese Amble_Lothar_Training_c0fd5635:
 
-#     # "The giant bear groans and opens his eyes."
-#     ""
+    # "You whips your head around to clear your mind."
+    pass
 
-# translate schinese Amble_Lothar_Training_7803f4b0:
+translate schinese Amble_Lothar_Training_18e21f84:
 
-#     # a "That was too comfortable. Did I fall asleep again?"
-#     a ""
+    # "The water splashes on Amble beside you."
+    "但这水却溅到了身旁的安布。"
 
-# translate schinese Amble_Lothar_Training_0666468b:
+translate schinese Amble_Lothar_Training_2bab4561:
 
-#     # "Amble turns to smile at you."
-#     ""
+    # "The giant bear groans and opens his eyes."
+    "他低吼着睁开眼睛。"
 
-# translate schinese Amble_Lothar_Training_c3f37521:
+translate schinese Amble_Lothar_Training_7803f4b0:
 
-#     # a "Sorry for that. I hope you found this soak in the lagoon as relaxing as I do."
-#     a ""
+    # a "That was too comfortable. Did I fall asleep again?"
+    a "哎呀，泡在水里实在太舒服了。我刚刚又睡着了吗？"
 
-# translate schinese Amble_Lothar_Training_5f29fbb0:
+translate schinese Amble_Lothar_Training_0666468b:
 
-#     # "Your mouth feels dry and you could only nod."
-#     ""
+    # "Amble turns to smile at you."
+    "安布扭头向你微笑。"
 
-# translate schinese Amble_Lothar_Training_b9ca5077:
+translate schinese Amble_Lothar_Training_c3f37521:
 
-#     # "Amble chuckles."
-#     ""
+    # a "Sorry for that. I hope you found this soak in the lagoon as relaxing as I do."
+    a "不好意思。希望你也有像我一样享受到。"
 
-# translate schinese Amble_Lothar_Training_d75eeca4:
+translate schinese Amble_Lothar_Training_5f29fbb0:
 
-#     # a "Good. Shall we go back?"
-#     a ""
+    # "Your mouth feels dry and you could only nod."
+    "口干舌燥的你只顾点头，换来安布一阵咯咯咯地笑。"
 
-# translate schinese Amble_Lothar_Training_6aac5314:
+translate schinese Amble_Lothar_Training_b9ca5077:
 
-#     # "Without waiting for your answer, Amble stands up and water flows off his body."
-#     ""
+    # "Amble chuckles."
+    pass
 
-# translate schinese Amble_Lothar_Training_14c75ee2:
+translate schinese Amble_Lothar_Training_d75eeca4:
 
-#     # "The surface of the water ripples violently, which is probably a good thing since it means that Amble won't see your waking boner."
-#     ""
+    # a "Good. Shall we go back?"
+    a "那就好，我们回去吧？"
 
-# translate schinese Amble_Lothar_Training_b8b2ce2e:
+translate schinese Amble_Lothar_Training_6aac5314:
 
-#     # "You clear your throat and force out."
-#     ""
+    # "Without waiting for your answer, Amble stands up and water flows off his body."
+    "他径直起立，没等你回话。水珠从他身上散落湖面泛起无数涟漪。"
 
-# translate schinese Amble_Lothar_Training_a1c8554c:
+translate schinese Amble_Lothar_Training_14c75ee2:
 
-#     # e "Amble, perhaps you can go back on your own first. I feel like soaking here a little longer."
-#     e ""
+    # "The surface of the water ripples violently, which is probably a good thing since it means that Amble won't see your waking boner."
+    "这样安布就看不见你下面的窘况了。"
 
-# translate schinese Amble_Lothar_Training_cc9e8aa3:
+translate schinese Amble_Lothar_Training_b8b2ce2e:
 
-#     # a "Alright, puny friend. I'll tell Lot that you've finished your training with me. See you back in town."
-#     a ""
+    # "You clear your throat and force out."
+    "你清清嗓子，硬着头皮对他说："
 
-# translate schinese Amble_Lothar_Training_d351a918:
+translate schinese Amble_Lothar_Training_a1c8554c:
 
-#     # "Amble climbs out of the lagoon."
-#     ""
+    # e "Amble, perhaps you can go back on your own first. I feel like soaking here a little longer."
+    e "要不你先走吧，我还想再多泡一会。"
 
-# translate schinese Amble_Lothar_Training_45adff28:
+translate schinese Amble_Lothar_Training_cc9e8aa3:
 
-#     # "He waves at you."
-#     ""
+    # a "Alright, puny friend. I'll tell Lot that you've finished your training with me. See you back in town."
+    a "没问题小不点，我会和洛哥说你训练完了。我们村里见。"
 
-# translate schinese Amble_Lothar_Training_9298969b:
+translate schinese Amble_Lothar_Training_d351a918:
 
-#     # "You cover your boner with one hand and wave back at him with another."
-#     ""
+    # "Amble climbs out of the lagoon."
+    "安布爬上岸，朝你挥挥手。"
 
-# translate schinese Amble_Lothar_Training_388eb240:
+translate schinese Amble_Lothar_Training_45adff28:
 
-#     # "Amble shakes off the water from his body."
-#     ""
+    # "He waves at you."
+    pass
 
-# translate schinese Amble_Lothar_Training_d815126d:
+translate schinese Amble_Lothar_Training_9298969b:
 
-#     # "All you can see is his cock swinging around in his briefs."
-#     ""
+    # "You cover your boner with one hand and wave back at him with another."
+    "你只好一只手盖住勃起，一只手向他挥手告别。"
 
-# translate schinese Amble_Lothar_Training_ddb6e6d4:
+translate schinese Amble_Lothar_Training_388eb240:
 
-#     # "Out of the water, the fabric of the briefs stuck even closer to Amble's cock and balls."
-#     ""
+    # "Amble shakes off the water from his body."
+    "安布抖抖身子甩掉身上的水，而你全程都在盯着他飞悬的大屌看。"
 
-# translate schinese Amble_Lothar_Training_d1e923f7:
+translate schinese Amble_Lothar_Training_d815126d:
 
-#     # "It makes the outlines even clearer."
-#     ""
+    # "All you can see is his cock swinging around in his briefs."
+    pass
 
-# translate schinese Amble_Lothar_Training_e657627f:
+translate schinese Amble_Lothar_Training_ddb6e6d4:
 
-#     # "Amble turns around, rewarding with your another amazing sight."
-#     ""
+    # "Out of the water, the fabric of the briefs stuck even closer to Amble's cock and balls."
+    "出水之后他的内裤好像贴得更紧了，更加凸显巨蟒的轮廓。"
 
-# translate schinese Amble_Lothar_Training_f9e0271a:
+translate schinese Amble_Lothar_Training_d1e923f7:
 
-#     # "The back of the briefs hugs Amble's perky ass."
-#     ""
+    # "It makes the outlines even clearer."
+    pass
 
-# translate schinese Amble_Lothar_Training_a0a733c3:
+translate schinese Amble_Lothar_Training_e657627f:
 
-#     # "As Amble leaves, his asscheeks spring with each of his steps."
-#     ""
+    # "Amble turns around, rewarding with your another amazing sight."
+    "安布转身离开。丰满的臀部被内裤紧紧包裹，随着步伐上下摇晃，为你展示另一幅靓丽的风景线。"
 
-# translate schinese Amble_Lothar_Training_f407b3d4:
+translate schinese Amble_Lothar_Training_f9e0271a:
 
-#     # "After Amble disappear from view, you relax fully into the water. However, there's one part of you that refuses to calm down."
-#     ""
+    # "The back of the briefs hugs Amble's perky ass."
+    pass
+
+translate schinese Amble_Lothar_Training_a0a733c3:
+
+    # "As Amble leaves, his asscheeks spring with each of his steps."
+    pass
+
+translate schinese Amble_Lothar_Training_f407b3d4:
+
+    # "After Amble disappear from view, you relax fully into the water. However, there's one part of you that refuses to calm down."
+    "待他走远后，你终于能真正静下心来放松。不过你的小兄弟好像并不那么想……"
 
 # translate schinese Amble_Ole_Training_Scene_9ac7cf24:
 

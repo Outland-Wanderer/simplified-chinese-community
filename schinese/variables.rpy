@@ -1101,11 +1101,14 @@ translate schinese strings:
     old "In order to train with Lothar, I need to fight against the strong dummy."
     new "要想洛萨尔亲自教导我，就得先打败强化过的人偶。"
 
-    # old "Logger and Scout" #13
-    # new "伐木工与侦察员"
+    old "Logger and Scout" #13
+    new "伐木工与侦察员"
 
-    # old "Lothar has given me another set of training to prove myself. I have to learn from the work of Amble and Jog."
-    # new "洛萨尔又让我去找别人训练来证明我自己。我得向安布和乔格请教他们的工作。"
+    old "Lothar has given me another set of training to prove myself. I have to learn from the work of Amble and Jog."
+    new "洛萨尔又让我去找别人训练来证明我自己。我得向安布和乔格请教他们的工作。"
+
+    old "Train with Amble and Jog"
+    new "分别找安布和乔格训练"
 
     # old "The Minotaur Riddle" #14
     # new "弥诺陶洛斯之谜"
