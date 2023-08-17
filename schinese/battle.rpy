@@ -1220,7 +1220,7 @@ translate schinese mossgolem_battle_loop_631c22d5:
 translate schinese mossgolem_battle_loop_60659c1c:
 
     # "You approach the golem before gently letting your hands wander inside the huge bush in his crotch area."
-    "接着你走近石魔像，伸手插入他胯下的那从苔藓轻轻揉搓。"
+    "接着你走近石魔像，伸手插入他胯下的那丛苔藓轻轻揉搓。"
 
 translate schinese mossgolem_battle_loop_b4cf221d:
 

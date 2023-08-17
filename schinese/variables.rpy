@@ -5,11 +5,17 @@ translate schinese strings:
     old "Self Heal"
     new "自愈"
 
+    old "Self Heal: {p} You can heal back a portion of your health scaling with your INT. Costs 30 MP. Cooldown: 1 Round."
+    new "根据你的智慧属性值回复部分体力。消耗 30 点魔力，每回合可发动一次。"
+
     old "Self Heal: {p} You can heal back a portion of your health scaling with your INT. Costs 30 MP."
     new "根据你的智慧属性值回复部分体力。消耗 30 点魔力。"
 
     old "Fortify"
     new "设防"
+
+    old "Fortify: {p} Your defense is increased by a significant amount for this round. Costs 20 MP. Cooldown: 2 Round."
+    new "显著增强 1 回合的防御力。消耗 20 点魔力，每 2 回合可发动一次。"
 
     old "Fortify: {p} Your defense is increased by a significant amount for this round. Costs 20 MP."
     new "显著增强 1 回合的防御力。消耗 20 点魔力。"
@@ -17,11 +23,17 @@ translate schinese strings:
     old "Alluring Lust"
     new "勾人"
 
+    old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA. Costs 20 MP. Cooldown: 2 Round."
+    new "根据你的智慧和魅力属性值增强 3 回合的诱惑效果。消耗 20 点魔力，每 2 回合可发动一次。"
+
     old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA. Costs 20 MP."
     new "根据你的智慧和魅力属性值增强 3 回合的诱惑效果。消耗 20 点魔力。"
 
     old "Camouflage"
     new "乱眼"
+
+    old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI. Costs 20 MP. Cooldown: 3 Round."
+    new "根据你的智慧和敏捷属性值增强本场战斗的闪避几率。消耗 20 点魔力，每 3 回合可发动一次。"
 
     old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI. Costs 20 MP."
     new "根据你的智慧和敏捷属性值增强本场战斗的闪避几率。消耗 20 点魔力。"
@@ -29,17 +41,26 @@ translate schinese strings:
     old "Core Strike"
     new "溃敌"
 
+    old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round. Costs 35 MP. Cooldown: 1 Round."
+    new "根据你的智慧和坚韧属性值对目标造成大量伤害，并使其眩晕 1 回合。消耗 35 点魔力，每回合可发动一次。"
+
     old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round. Costs 35 MP."
     new "根据你的智慧和坚韧属性值对目标造成大量伤害，并使其眩晕 1 回合。消耗 35 点魔力。"
 
     old "Resolution"
     new "净心"
 
+    old "Resolution: {p} Reduce your Lust based on your INT. Costs 25 MP. Cooldown: 1 Round."
+    new "根据你的智慧属性值清除部分欲望。消耗 25 点魔力，每回合可发动一次。"
+
     old "Resolution: {p} Reduce your Lust based on your INT. Costs 25 MP."
     new "根据你的智慧属性值清除部分欲望。消耗 25 点魔力。"
 
     old "Fiery Charge"
     new "爆炎冲锋"
+
+    old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP. Cooldown: 1 Round."
+    new "根据你的智慧属性值对敌方所有成员施加伤害与灼烧效果。消耗 10 点魔力，每回合可发动一次。"
 
     old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP."
     new "根据你的智慧属性值对敌方所有成员施加伤害与灼烧效果。消耗 10 点魔力。"
@@ -1101,11 +1122,14 @@ translate schinese strings:
     old "In order to train with Lothar, I need to fight against the strong dummy."
     new "要想洛萨尔亲自教导我，就得先打败强化过的人偶。"
 
-    # old "Logger and Scout" #13
-    # new "伐木工与侦察员"
+    old "Logger and Scout" #13
+    new "伐木工与侦察员"
 
-    # old "Lothar has given me another set of training to prove myself. I have to learn from the work of Amble and Jog."
-    # new "洛萨尔又让我去找别人训练来证明我自己。我得向安布和乔格请教他们的工作。"
+    old "Lothar has given me another set of training to prove myself. I have to learn from the work of Amble and Jog."
+    new "洛萨尔又让我去找别人训练来证明我自己。我得向安布和乔格请教他们的工作。"
+
+    old "Train with Amble and Jog"
+    new "分别找安布和乔格训练"
 
     # old "The Minotaur Riddle" #14
     # new "弥诺陶洛斯之谜"
