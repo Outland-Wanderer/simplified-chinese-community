@@ -4909,11 +4909,11 @@ translate schinese strings:
     # old "Ask about the stone from the caravan"
     # new "Ask about the stone from the caravan"
 
-    # old "Ask about Amble and Jog"
-    # new "询问安布和乔格的事情"
+    old "Ask about Amble and Jog"
+    new "询问安布和乔格的事情"
 
-    # old "Report for Amble and Jog's Training"
-    # new "报告同安布和乔格训练的成果"
+    old "Report for Amble and Jog's Training"
+    new "报告同安布和乔格训练的成果"
 
     old "Ask about his Loot"
     new "询问洛萨尔手中的东西"
@@ -9075,475 +9075,475 @@ translate schinese Lothar_Invasion_Quest_30666182:
     # l "So, let me know if you're read-... when you're ready."
     l "嗯，如果你想——要是你准备好出发了就和我说。"
 
-# translate schinese Lothar_Report_Amble_Jog_ecfd17f1:
+translate schinese Lothar_Report_Amble_Jog_ecfd17f1:
 
-#     # l "Disciple, I've heard back from Jog and Amble about your training."
-#     l ""
+    # l "Disciple, I've heard back from Jog and Amble about your training."
+    l "嗯，我已经听他们汇报了。"
 
-# translate schinese Lothar_Report_Amble_Jog_38f7fab4:
+translate schinese Lothar_Report_Amble_Jog_38f7fab4:
 
-#     # e "Did I pass?"
-#     e ""
+    # e "Did I pass?"
+    e "那我够格了吗？"
 
-# translate schinese Lothar_Report_Amble_Jog_9002e171:
+translate schinese Lothar_Report_Amble_Jog_9002e171:
 
-#     # l "You have passed by their standards, but by the hero's standards, you still have a long way to go."
-#     l ""
+    # l "You have passed by their standards, but by the hero's standards, you still have a long way to go."
+    l "你只是在他们看来够格了，但以英雄的标准来看你还有很长的路要走。"
 
-# translate schinese Lothar_Report_Amble_Jog_0a390f53:
+translate schinese Lothar_Report_Amble_Jog_0a390f53:
 
-#     # l "Amble said that you showed good form during his training."
-#     l ""
+    # l "Amble said that you showed good form during his training."
+    l "安布说你表现得很好。"
 
-# translate schinese Lothar_Report_Amble_Jog_39b1f6b7:
+translate schinese Lothar_Report_Amble_Jog_39b1f6b7:
 
-#     # l "With enough, you should be as large as he is... or at least that's what Amble thinks."
-#     l ""
+    # l "With enough, you should be as large as he is... or at least that's what Amble thinks."
+    l "“只要肯努力，你一定能像我一样强壮”……他要我这么叮嘱你。"
 
-# translate schinese Lothar_Report_Amble_Jog_37675825:
+translate schinese Lothar_Report_Amble_Jog_37675825:
 
-#     # e "Thanks? I'll continue to work hard."
-#     e ""
+    # e "Thanks? I'll continue to work hard."
+    e "好的？我会继续加油的。"
 
-# translate schinese Lothar_Report_Amble_Jog_9af5ef95:
+translate schinese Lothar_Report_Amble_Jog_9af5ef95:
 
-#     # l "Amble also provides some notes here for you on how to tone your muscles."
-#     l ""
+    # l "Amble also provides some notes here for you on how to tone your muscles."
+    l "他还画了这些示意图教你怎么锻炼肌肉。"
 
-# translate schinese Lothar_Report_Amble_Jog_4bec1455:
+translate schinese Lothar_Report_Amble_Jog_4bec1455:
 
-#     # "Lothar hands you what appears to be a drawing of yourself."
-#     ""
+    # "Lothar hands you what appears to be a drawing of yourself."
+    "洛萨尔递给你一张纸，上面描绘着你做出各种健身动作的样子。"
 
-# translate schinese Lothar_Report_Amble_Jog_7bb05f89:
+translate schinese Lothar_Report_Amble_Jog_7bb05f89:
 
-#     # e "This is very nice. I shall thank Amble later."
-#     e ""
+    # e "This is very nice. I shall thank Amble later."
+    e "太有心了，待会我要好好谢谢他。"
 
-# translate schinese Lothar_Report_Amble_Jog_60b1c570:
+translate schinese Lothar_Report_Amble_Jog_60b1c570:
 
-#     # l "Amble said you are a bit unsteady at first."
-#     l ""
+    # l "Amble said you are a bit unsteady at first."
+    l "安布说你刚开始姿势还不太稳当。"
 
-# translate schinese Lothar_Report_Amble_Jog_86aa6ba8:
+translate schinese Lothar_Report_Amble_Jog_86aa6ba8:
 
-#     # l "But after some lessons, you starts to get it."
-#     l ""
+    # l "But after some lessons, you starts to get it."
+    l "但稍加指导你就纠正过来了。"
 
-# translate schinese Lothar_Report_Amble_Jog_9ecc73c2:
+translate schinese Lothar_Report_Amble_Jog_9ecc73c2:
 
-#     # e "I learned a lot from Amble."
-#     e ""
+    # e "I learned a lot from Amble."
+    e "是的，我从他那学到了很多。"
 
-# translate schinese Lothar_Report_Amble_Jog_0871d0d8:
+translate schinese Lothar_Report_Amble_Jog_0871d0d8:
 
-#     # l "So... he concludes that you have great potential, but will keep his eyes on you."
-#     l ""
+    # l "So... he concludes that you have great potential, but will keep his eyes on you."
+    l "总之……安布评价你潜力很大，他会继续关注你的。"
 
-# translate schinese Lothar_Report_Amble_Jog_1ee2ec0a:
+translate schinese Lothar_Report_Amble_Jog_1ee2ec0a:
 
-#     # l "And... for Jog..."
-#     l ""
+    # l "And... for Jog..."
+    l "然后乔格这边……"
 
-# translate schinese Lothar_Report_Amble_Jog_0b2d15fc:
+translate schinese Lothar_Report_Amble_Jog_0b2d15fc:
 
-#     # l "He commented that you are quick on your feet."
-#     l ""
+    # l "He commented that you are quick on your feet."
+    l "他夸你腿脚够麻利，能跟上他的速度，计划进行得很成功。"
 
-# translate schinese Lothar_Report_Amble_Jog_addb5d09:
+translate schinese Lothar_Report_Amble_Jog_addb5d09:
 
-#     # l "Nice job following through with the plan."
-#     l ""
+    # l "Nice job following through with the plan."
+    pass
 
-# translate schinese Lothar_Report_Amble_Jog_5d0f1bbd:
+translate schinese Lothar_Report_Amble_Jog_5d0f1bbd:
 
-#     # e "All I did was follow his lead."
-#     e ""
+    # e "All I did was follow his lead."
+    e "多亏有他带我，我只是听了他的话而已。"
 
-# translate schinese Lothar_Report_Amble_Jog_ae62ea9d:
+translate schinese Lothar_Report_Amble_Jog_ae62ea9d:
 
-#     # l "He observed that you are light on your feet."
-#     l ""
+    # l "He observed that you are light on your feet."
+    l "他夸你腿脚够轻盈，翻下墙的时候没有砸地，不过降落技巧还可以多用这个练练。"
 
-# translate schinese Lothar_Report_Amble_Jog_0ef3590b:
+translate schinese Lothar_Report_Amble_Jog_0ef3590b:
 
-#     # l "But he says you can use some more practice in your landing."
-#     l ""
+    # l "But he says you can use some more practice in your landing."
+    pass
 
-# translate schinese Lothar_Report_Amble_Jog_576d3d1f:
+translate schinese Lothar_Report_Amble_Jog_576d3d1f:
 
-#     # l "Then, he drew something that looks like a W here."
-#     l ""
+    # l "Then, he drew something that looks like a W here."
+    l "然后他两只手弯成半圆比了一个图案。就像这样，有点像“山”字。"
 
-# translate schinese Lothar_Report_Amble_Jog_72a33094:
+translate schinese Lothar_Report_Amble_Jog_72a33094:
 
-#     # e "..."
-#     e ""
+    # e "..."
+    e "……"
 
-# translate schinese Lothar_Report_Amble_Jog_0887788f:
+translate schinese Lothar_Report_Amble_Jog_0887788f:
 
-#     # "You believe that is a butt but you say nothing."
-#     ""
+    # "You believe that is a butt but you say nothing."
+    "你一眼就看出乔格在指你的屁股，但你决定缄口不语。"
 
-# translate schinese Lothar_Report_Amble_Jog_6e2794e5:
+translate schinese Lothar_Report_Amble_Jog_6e2794e5:
 
-#     # l "So disciple, you and Jog have discovered something important."
-#     l ""
+    # l "So disciple, you and Jog have discovered something important."
+    l "终归你和乔格收获了一些非常重要的情报。"
 
-# translate schinese Lothar_Report_Amble_Jog_7266d719:
+translate schinese Lothar_Report_Amble_Jog_7266d719:
 
-#     # e "But we're not sure what they..."
-#     e ""
+    # e "But we're not sure what they..."
+    e "但我们还不清楚他们——"
 
-# translate schinese Lothar_Report_Amble_Jog_91b7aef3:
+translate schinese Lothar_Report_Amble_Jog_91b7aef3:
 
-#     # l "The goats are clearly up to no good."
-#     l ""
+    # l "The goats are clearly up to no good."
+    l "那帮山羊能干什么好事。"
 
-# translate schinese Lothar_Report_Amble_Jog_15b69183:
+translate schinese Lothar_Report_Amble_Jog_15b69183:
 
-#     # l "As the hero predicted, the goats are not trustworthy people."
-#     l ""
+    # l "As the hero predicted, the goats are not trustworthy people."
+    l "本大英雄神机妙算，早就知道他们不值得信任。"
 
-# translate schinese Lothar_Report_Amble_Jog_f69bde0e:
+translate schinese Lothar_Report_Amble_Jog_f69bde0e:
 
-#     # l "They said they've been outright and are willing to form a truce."
-#     l ""
+    # l "They said they've been outright and are willing to form a truce."
+    l "他们表面说已经坦白了部落危机，还愿意签和平条约。"
 
-# translate schinese Lothar_Report_Amble_Jog_62a910ae:
+translate schinese Lothar_Report_Amble_Jog_62a910ae:
 
-#     # l "But they are still plotting something without telling Lusterfield."
-#     l ""
+    # l "But they are still plotting something without telling Lusterfield."
+    l "但背地里一定还有什么阴谋没告诉我们。"
 
-# translate schinese Lothar_Report_Amble_Jog_7931cd72:
+translate schinese Lothar_Report_Amble_Jog_7931cd72:
 
-#     # e "But it sounds like they're not really trying to harm Lusterfield."
-#     e ""
+    # e "But it sounds like they're not really trying to harm Lusterfield."
+    e "我真心觉得他们没有想要害我们的意思。"
 
-# translate schinese Lothar_Report_Amble_Jog_cd794762:
+translate schinese Lothar_Report_Amble_Jog_cd794762:
 
-#     # l "You have helped saved one of their own and take down their rampaging golem."
-#     l ""
+    # l "You have helped saved one of their own and take down their rampaging golem."
+    l "你不过是救了他们其中一个人，打倒了一块石魔像。就以为他们会对你赤诚相待吗？"
 
-# translate schinese Lothar_Report_Amble_Jog_0c674126:
+translate schinese Lothar_Report_Amble_Jog_0c674126:
 
-#     # l "You'd think that will help you earn their trust."
-#     l ""
+    # l "You'd think that will help you earn their trust."
+    pass
 
-# translate schinese Lothar_Report_Amble_Jog_e0c31ea7:
+translate schinese Lothar_Report_Amble_Jog_e0c31ea7:
 
-#     # l "Clearly, everything is a front with the goats."
-#     l ""
+    # l "Clearly, everything is a front with the goats."
+    l "显然山羊们还在死命掩饰，连在自己人面前都不懈怠。"
 
-# translate schinese Lothar_Report_Amble_Jog_5191b36e:
+translate schinese Lothar_Report_Amble_Jog_5191b36e:
 
-#     # l "They are not as forthcoming as this Hero."
-#     l ""
+    # l "They are not as forthcoming as this Hero."
+    l "他们永远都不可能如本大英雄这般诚实。"
 
-# translate schinese Lothar_Report_Amble_Jog_21f55ede:
+translate schinese Lothar_Report_Amble_Jog_21f55ede:
 
-#     # l "The goats are clearly still wary of outsiders."
-#     l ""
+    # l "The goats are clearly still wary of outsiders."
+    l "现在看来他们对外人防备心还很强。"
 
-# translate schinese Lothar_Report_Amble_Jog_3b37e225:
+translate schinese Lothar_Report_Amble_Jog_3b37e225:
 
-#     # l "You've been invited into their tribes, but they didn't really reveal anything to you."
-#     l ""
+    # l "You've been invited into their tribes, but they didn't really reveal anything to you."
+    l "就算你都被邀请进村了，他们还不肯向你透露一点真相。"
 
-# translate schinese Lothar_Report_Amble_Jog_a70346a2:
+translate schinese Lothar_Report_Amble_Jog_a70346a2:
 
-#     # l "This showcases a lack of trust."
-#     l ""
+    # l "This showcases a lack of trust."
+    l "这就是不信任的表现。"
 
-# translate schinese Lothar_Report_Amble_Jog_cee9579a:
+translate schinese Lothar_Report_Amble_Jog_cee9579a:
 
-#     # "You feel rather guilty that you didn't tell the truth earlier."
-#     ""
+    # "You feel rather guilty that you didn't tell the truth earlier."
+    "你想起之前对洛萨尔撒了谎，心里有点过意不去。"
 
-# translate schinese Lothar_Report_Amble_Jog_0019737f:
+translate schinese Lothar_Report_Amble_Jog_0019737f:
 
-#     # l "Something is fishy. Perhaps they have something to do with the golem attack at the river."
-#     l ""
+    # l "Something is fishy. Perhaps they have something to do with the golem attack at the river."
+    l "越想越不对劲，或许真相跟河边的那个石魔像有关。"
 
-# translate schinese Lothar_Report_Amble_Jog_6ebf581b:
+translate schinese Lothar_Report_Amble_Jog_6ebf581b:
 
-#     # l "I wouldn't put it past them."
-#     l ""
+    # l "I wouldn't put it past them."
+    l "反正我决不会放过他们。"
 
-# translate schinese Lothar_Report_Amble_Jog_0d05c3be:
+translate schinese Lothar_Report_Amble_Jog_0d05c3be:
 
-#     # l "I know I can count on Jog to infiltrate into the goat tribe."
-#     l ""
+    # l "I know I can count on Jog to infiltrate into the goat tribe."
+    l "派乔格潜入山羊部落我很放心。"
 
-# translate schinese Lothar_Report_Amble_Jog_1b7451b6:
+translate schinese Lothar_Report_Amble_Jog_1b7451b6:
 
-#     # l "You... still have more to learn from him, Disciple."
-#     l ""
+    # l "You... still have more to learn from him, Disciple."
+    l "至于你……你还要跟他多学学，小徒弟。"
 
-# translate schinese Lothar_Report_Amble_Jog_cdf3ee5c:
+translate schinese Lothar_Report_Amble_Jog_cdf3ee5c:
 
-#     # l "After you dared to argue with me last time. Now I got you to go there either way."
-#     l ""
+    # l "After you dared to argue with me last time. Now I got you to go there either way."
+    l "上次你竟然胆敢抗拒为师，看你这次不还是乖乖去了山羊部落。"
 
-# translate schinese Lothar_Report_Amble_Jog_faa7d97b:
+translate schinese Lothar_Report_Amble_Jog_faa7d97b:
 
-#     # e "Hmm..."
-#     e ""
+    # e "Hmm..."
+    e "呃……"
 
-# translate schinese Lothar_Report_Amble_Jog_5a81f3de:
+translate schinese Lothar_Report_Amble_Jog_5a81f3de:
 
-#     # l "But thanks to you two, now we have this valuable info."
-#     l ""
+    # l "But thanks to you two, now we have this valuable info."
+    l "看在你带回情报的份上，算你将功抵过。"
 
-# translate schinese Lothar_Report_Amble_Jog_be721b65:
+translate schinese Lothar_Report_Amble_Jog_be721b65:
 
-#     # e "But we don't know what to do with it..."
-#     e ""
+    # e "But we don't know what to do with it..."
+    e "但我们接下来要怎么办……"
 
-# translate schinese Lothar_Report_Amble_Jog_347537b7:
+translate schinese Lothar_Report_Amble_Jog_347537b7:
 
-#     # l "Either way, it is clear that the goats are up to coming."
-#     l ""
+    # l "Either way, it is clear that the goats are up to coming."
+    l "不管怎么说，山羊部落绝对有大动作。"
 
-# translate schinese Lothar_Report_Amble_Jog_a6fb820c:
+translate schinese Lothar_Report_Amble_Jog_a6fb820c:
 
-#     # l "The hero will naturally thwart them."
-#     l ""
+    # l "The hero will naturally thwart them."
+    l "本大英雄自然不会让他们得逞。"
 
-# translate schinese Lothar_Report_Amble_Jog_5ab30c4e:
+translate schinese Lothar_Report_Amble_Jog_5ab30c4e:
 
-#     # l "They mention something about the caravan?"
-#     l ""
+    # l "They mention something about the caravan?"
+    l "对了，你听他们提到商队是吗？"
 
-# translate schinese Lothar_Report_Amble_Jog_399607c2:
+translate schinese Lothar_Report_Amble_Jog_399607c2:
 
-#     # e "Yes, I believe so. Something about the attack that doesn't sit right with them."
-#     e ""
+    # e "Yes, I believe so. Something about the attack that doesn't sit right with them."
+    e "是的……吧。他们觉得那场袭击还有很多疑点，安不下心。"
 
-# translate schinese Lothar_Report_Amble_Jog_23d5111c:
+translate schinese Lothar_Report_Amble_Jog_23d5111c:
 
-#     # l "They have so much blood on their hands. Of course, it would never sit right with them."
-#     l ""
+    # l "They have so much blood on their hands. Of course, it would never sit right with them."
+    l "呵，他们回想起自己犯下的滔天罪行当然没法安心。"
 
-# translate schinese Lothar_Report_Amble_Jog_929c75e5:
+translate schinese Lothar_Report_Amble_Jog_929c75e5:
 
-#     # l "So, the Hero will look further into this."
-#     l ""
+    # l "So, the Hero will look further into this."
+    l "那么我也要去一探究竟。"
 
-# translate schinese Lothar_Report_Amble_Jog_b0f341a9:
+translate schinese Lothar_Report_Amble_Jog_b0f341a9:
 
-#     # l "Do not worry now... I will handle everything... Heh."
-#     l ""
+    # l "Do not worry now... I will handle everything... Heh."
+    l "这件事不用你操心，我会处理好一切的，哼哼。"
 
-# translate schinese Lothar_Report_Amble_Jog_21c94aca:
+translate schinese Lothar_Report_Amble_Jog_21c94aca:
 
-#     # l "And..."
-#     l ""
+    # l "And..."
+    l "然后……"
 
-# translate schinese Lothar_Report_Amble_Jog_d4286f7e:
+translate schinese Lothar_Report_Amble_Jog_d4286f7e:
 
-#     # "Lothar coughs and then straightens himself."
-#     ""
+    # "Lothar coughs and then straightens himself."
+    "洛萨尔清清嗓子，把身板挺得更直了。"
 
-# translate schinese Lothar_Report_Amble_Jog_79222641:
+translate schinese Lothar_Report_Amble_Jog_79222641:
 
-#     # "You believe he is examining your body."
-#     ""
+    # "You believe he is examining your body."
+    "你感觉他在检视你的身体。"
 
-# translate schinese Lothar_Report_Amble_Jog_52d929a9:
+translate schinese Lothar_Report_Amble_Jog_52d929a9:
 
-#     # l "Ahem. Both Jog and Amble suggest that you join us for the special training."
-#     l ""
+    # l "Ahem. Both Jog and Amble suggest that you join us for the special training."
+    l "安布和乔格提议让你加入战队，好开展下一次特别训练。"
 
-# translate schinese Lothar_Report_Amble_Jog_14abcdb8:
+translate schinese Lothar_Report_Amble_Jog_14abcdb8:
 
-#     # l "They think you'll be an interesting asset."
-#     l ""
+    # l "They think you'll be an interesting asset."
+    l "他们一致认为你会成为我们重要的后备力量。"
 
-# translate schinese Lothar_Report_Amble_Jog_9c056960:
+translate schinese Lothar_Report_Amble_Jog_9c056960:
 
-#     # e "What is the special training?"
-#     e ""
+    # e "What is the special training?"
+    e "什么特别训练？"
 
-# translate schinese Lothar_Report_Amble_Jog_4cd0f256:
+translate schinese Lothar_Report_Amble_Jog_4cd0f256:
 
-#     # "You believe you see Lothar's cheeks redden slightly."
-#     ""
+    # "You believe you see Lothar's cheeks redden slightly."
+    "洛萨尔脸上泛起淡淡的红晕。"
 
-# translate schinese Lothar_Report_Amble_Jog_22b7d9b6:
+translate schinese Lothar_Report_Amble_Jog_22b7d9b6:
 
-#     # l "It is a group training that is currently between us."
-#     l ""
+    # l "It is a group training that is currently between us."
+    l "这是仅限我们战队内部成员的训练。"
 
-# translate schinese Lothar_Report_Amble_Jog_1294872c:
+translate schinese Lothar_Report_Amble_Jog_1294872c:
 
-#     # l "Jog has specially mentioned that you will have a lot to contribute to the training."
-#     l ""
+    # l "Jog has specially mentioned that you will have a lot to contribute to the training."
+    l "乔格特别强调了有你加入训练效果会好得多。"
 
-# translate schinese Lothar_Report_Amble_Jog_3993c3c6:
+translate schinese Lothar_Report_Amble_Jog_3993c3c6:
 
-#     # "Maybe you have imagined it, but there appears to be a stress when Lothar said the word, a lot."
-#     ""
+    # "Maybe you have imagined it, but there appears to be a stress when Lothar said the word, a lot."
+    "不知是不是你的错觉，洛萨尔好像故意把“多”说得很重。"
 
-# translate schinese Lothar_Report_Amble_Jog_f0c0894f:
+translate schinese Lothar_Report_Amble_Jog_f0c0894f:
 
-#     # e "It sounds fun. If the training can help with my adventure, I'm all for it."
-#     e ""
+    # e "It sounds fun. If the training can help with my adventure, I'm all for it."
+    e "听起来挺有意思的。能磨练生存技巧的话，我现在就加入。"
 
-# translate schinese Lothar_Report_Amble_Jog_c43d4d70:
+translate schinese Lothar_Report_Amble_Jog_c43d4d70:
 
-#     # l "Not so fast, Disciple."
-#     l ""
+    # l "Not so fast, Disciple."
+    l "冒失的徒弟，心急什么。"
 
-# translate schinese Lothar_Report_Amble_Jog_ae408075:
+translate schinese Lothar_Report_Amble_Jog_ae408075:
 
-#     # l "They might have suggested that you can join."
-#     l ""
+    # l "They might have suggested that you can join."
+    l "他们可能默许你加入我的战队，但我还没放话呢。"
 
-# translate schinese Lothar_Report_Amble_Jog_5aa71d2d:
+translate schinese Lothar_Report_Amble_Jog_5aa71d2d:
 
-#     # l "But my judgement on you is still out."
-#     l ""
+    # l "But my judgement on you is still out."
+    pass
 
-# translate schinese Lothar_Report_Amble_Jog_3728a917:
+translate schinese Lothar_Report_Amble_Jog_3728a917:
 
-#     # l "You need to prove yourself further."
-#     l ""
+    # l "You need to prove yourself further."
+    l "你需要进一步证明自己的资格。"
 
-# translate schinese Lothar_Report_Amble_Jog_be1533d7:
+translate schinese Lothar_Report_Amble_Jog_be1533d7:
 
-#     # e "How can I do that?"
-#     e ""
+    # e "How can I do that?"
+    e "你又想让我做什么？"
 
-# translate schinese Lothar_Report_Amble_Jog_6eee1048:
+translate schinese Lothar_Report_Amble_Jog_6eee1048:
 
-#     # l "I haven't thought about it yet..."
-#     l ""
+    # l "I haven't thought about it yet..."
+    l "这个……我还没想好。"
 
-# translate schinese Lothar_Report_Amble_Jog_76a80ea3:
+translate schinese Lothar_Report_Amble_Jog_76a80ea3:
 
-#     # l "Now, leave the hero in front of you to his thoughts."
-#     l ""
+    # l "Now, leave the hero in front of you to his thoughts."
+    l "忙活你的事去吧。本大英雄要自个运筹帷幄。"
 
-# translate schinese Lothar_Ask_Amble_Jog_b8d70634:
+translate schinese Lothar_Ask_Amble_Jog_b8d70634:
 
-#     # l "Those two? They are good company."
-#     l ""
+    # l "Those two? They are good company."
+    l "嗯？他俩是我的好战友。"
 
-# translate schinese Lothar_Ask_Amble_Jog_4e3bc616:
+translate schinese Lothar_Ask_Amble_Jog_4e3bc616:
 
-#     # l "Amble can be a bit gullible and Jog sometimes takes thing too lightly."
-#     l ""
+    # l "Amble can be a bit gullible and Jog sometimes takes thing too lightly."
+    l "虽然安布心思太单纯容易被骗，乔格有时做事会吊儿郎当的。"
 
-# translate schinese Lothar_Ask_Amble_Jog_47c8b60e:
+translate schinese Lothar_Ask_Amble_Jog_47c8b60e:
 
-#     # "You think to yourself. 'They don't sound that reliable'."
-#     ""
+    # "You think to yourself. 'They don't sound that reliable'."
+    "你心想，这不是在说他俩不怎么靠谱吗。"
 
-# translate schinese Lothar_Ask_Amble_Jog_bea7af26:
+translate schinese Lothar_Ask_Amble_Jog_bea7af26:
 
-#     # l "However, they are very good at their job."
-#     l ""
+    # l "However, they are very good at their job."
+    l "然而，他们也有各自的长处。"
 
-# translate schinese Lothar_Ask_Amble_Jog_3c09c96d:
+translate schinese Lothar_Ask_Amble_Jog_3c09c96d:
 
-#     # l "For example, Amble can crush the training dummy with one direct smash."
-#     l ""
+    # l "For example, Amble can crush the training dummy with one direct smash."
+    l "比如安布能一口气撞碎人偶，乔格能从三里开外一箭射穿人偶的头。"
 
-# translate schinese Lothar_Ask_Amble_Jog_557a2e00:
+translate schinese Lothar_Ask_Amble_Jog_557a2e00:
 
-#     # l "Jog can shoot through its head from a mile away."
-#     l ""
+    # l "Jog can shoot through its head from a mile away."
+    pass
 
-# translate schinese Lothar_Ask_Amble_Jog_3e1a05bd:
+translate schinese Lothar_Ask_Amble_Jog_3e1a05bd:
 
-#     # l "However, neither of them is a match for me."
-#     l ""
+    # l "However, neither of them is a match for me."
+    l "然而的然而，他们都不是我的对手。"
 
-# translate schinese Lothar_Ask_Amble_Jog_f7c09558:
+translate schinese Lothar_Ask_Amble_Jog_f7c09558:
 
-#     # "Lothar puffs up his chest proudly."
-#     ""
+    # "Lothar puffs up his chest proudly."
+    "洛萨尔骄傲地挺起胸膛。"
 
-# translate schinese Lothar_Ask_Amble_Jog_a764de8f:
+translate schinese Lothar_Ask_Amble_Jog_a764de8f:
 
-#     # l "You're going to be fine because you lost to the hero as well. You're in good company."
-#     l ""
+    # l "You're going to be fine because you lost to the hero as well. You're in good company."
+    l "和你一样，他们都没能打败本大英雄。"
 
-# translate schinese Lothar_Ask_Amble_Jog_8e25979f:
+translate schinese Lothar_Ask_Amble_Jog_8e25979f:
 
-#     # l "Similar to you, they have not beaten the hero in a battle either."
-#     l ""
+    # l "Similar to you, they have not beaten the hero in a battle either."
+    l "所以，别自卑小徒弟，继续安心当我的“好战友”吧。"
 
-# translate schinese Lothar_Ask_Amble_Jog_bef6165e:
+translate schinese Lothar_Ask_Amble_Jog_bef6165e:
 
-#     # l "I doubt you can win either of them, so in a way, you would still have lost to this hero."
-#     l ""
+    # l "I doubt you can win either of them, so in a way, you would still have lost to this hero."
+    l "你十有八九打不过他们，所以从逻辑上讲，你上回不算真正打败了我。"
 
-# translate schinese Lothar_Ask_Amble_Jog_70e07659:
+translate schinese Lothar_Ask_Amble_Jog_70e07659:
 
-#     # l "Uhh... They will prove that your win last time is just a lucky coincidence..."
-#     l ""
+    # l "Uhh... They will prove that your win last time is just a lucky coincidence..."
+    l "呃……他们会证明你上回险胜只是一个巧合……"
 
-# translate schinese Lothar_Ask_Amble_Jog_72a33094:
+translate schinese Lothar_Ask_Amble_Jog_72a33094:
 
-#     # e "..."
-#     e ""
+    # e "..."
+    e "……"
 
-# translate schinese Lothar_Ask_Amble_Jog_864fa840:
+translate schinese Lothar_Ask_Amble_Jog_864fa840:
 
-#     # l "In any case, since they call me their Boss, I have a responsibility to watch over them."
-#     l ""
+    # l "In any case, since they call me their Boss, I have a responsibility to watch over them."
+    l "虽然我把他俩当战友，但既然他们喊我大哥，我就有义务照顾好他们。"
 
-# translate schinese Lothar_Ask_Amble_Jog_1376ca92:
+translate schinese Lothar_Ask_Amble_Jog_1376ca92:
 
-#     # e "That's very nice of you, Lothar."
-#     e ""
+    # e "That's very nice of you, Lothar."
+    e "哇，你可真够义气。"
 
-# translate schinese Lothar_Ask_Amble_Jog_325beb27:
+translate schinese Lothar_Ask_Amble_Jog_325beb27:
 
-#     # "Lothar's cheeks redden a bit at your compliment. He coughs to cover it."
-#     ""
+    # "Lothar's cheeks redden a bit at your compliment. He coughs to cover it."
+    "洛萨尔脸颊微微发红，连忙咳嗽几声以掩饰溢出的喜悦。"
 
-# translate schinese Lothar_Ask_Amble_Jog_f5eb309e:
+translate schinese Lothar_Ask_Amble_Jog_f5eb309e:
 
-#     # l "This is nothing, Disciple. It's part of my job as the hero of Lusterfield."
-#     l ""
+    # l "This is nothing, Disciple. It's part of my job as the hero of Lusterfield."
+    l "哼哼，这不算什么。作为乐斯民菲尔德的大英雄，讲义气是我的职责。"
 
-# translate schinese Lothar_Ask_Amble_Jog_49738d93:
+translate schinese Lothar_Ask_Amble_Jog_49738d93:
 
-#     # l "Speaking of, Disciple. They seem to have a less-than-favorable view of you."
-#     l ""
+    # l "Speaking of, Disciple. They seem to have a less-than-favorable view of you."
+    l "话说回来，安布和乔格好像还不太认可你和他们平起平坐。"
 
-# translate schinese Lothar_Ask_Amble_Jog_a247e6aa:
+translate schinese Lothar_Ask_Amble_Jog_a247e6aa:
 
-#     # e "Why would they think that?"
-#     e ""
+    # e "Why would they think that?"
+    e "啊？为什么？"
 
-# translate schinese Lothar_Ask_Amble_Jog_4d21639f:
+translate schinese Lothar_Ask_Amble_Jog_4d21639f:
 
-#     # l "No idea."
-#     l ""
+    # l "No idea."
+    l "我哪知道。"
 
-# translate schinese Lothar_Ask_Amble_Jog_2a5603fb:
+translate schinese Lothar_Ask_Amble_Jog_2a5603fb:
 
-#     # "Lothar shrugs."
-#     ""
+    # "Lothar shrugs."
+    "灰狼耸耸肩。"
 
-# translate schinese Lothar_Ask_Amble_Jog_a88199e7:
+translate schinese Lothar_Ask_Amble_Jog_a88199e7:
 
-#     # l "However, I need you to prove to them that no Disciple of this hero is a weakling."
-#     l ""
+    # l "However, I need you to prove to them that no Disciple of this hero is a weakling."
+    l "战场见真格。想得到你应有的承认……就分别去找他们训练吧。"
 
-# translate schinese Lothar_Ask_Amble_Jog_9d7658d3:
+translate schinese Lothar_Ask_Amble_Jog_9d7658d3:
 
-#     # l "So... Go on solo training with each of them."
-#     l ""
+    # l "So... Go on solo training with each of them."
+    l "为师也需要你去向他们证明“英雄麾下无弱徒”。"
 
-# translate schinese Lothar_Ask_Amble_Jog_83871318:
+translate schinese Lothar_Ask_Amble_Jog_83871318:
 
-#     # l "Don't let me down, Disciple."
-#     l ""
+    # l "Don't let me down, Disciple."
+    l "别让我失望了，好徒儿。"
 
 translate schinese Lothar_Night_Greet_06ccd779:
 
