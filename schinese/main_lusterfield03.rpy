@@ -77,15 +77,20 @@ translate schinese strings:
     old "Ask How is he doing"
     new "询问近来的情况"
 
-# translate schinese Jog_Normal_Talk_e1b4b9b5:
+translate schinese Jog_Normal_Talk_e1b4b9b5:
 
-#     # e "What about the other dudes?"
-#     e ""
+    # e "What about the other dudes?"
+    pass
 
-# translate schinese Jog_Normal_Talk_edf38b14:
+translate schinese Jog_Normal_Talk_edf38b14:
 
-#     # j "Amble, and Lothar?" nointeract
-#     j "" nointeract
+    # j "Amble, and Lothar?" nointeract
+    j "谁？安布还是洛哥？" nointeract
+
+translate schinese strings:
+
+    old "Ask about Amble"
+    new "打听安布"
 
 translate schinese Jog_Normal_Talk_58e0fbb5:
 
@@ -3994,242 +3999,242 @@ translate schinese Jog_Lothar_Training_5c591fd1:
 translate schinese Jog_Ask_How_Doing_24c5ec78:
 
     # e "How are you doing, Jog?"
-    e ""
+    e "你现在在做什么呢？"
 
 translate schinese Jog_Ask_How_Doing_e2de1f19:
 
     # j "Just practicing some archery."
-    j ""
+    j "随便练一练箭术。"
 
 translate schinese Jog_Ask_How_Doing_3643a1d9:
 
     # j "I'm the scout of the team."
-    j ""
+    j "我是队里的侦察员，正面接触敌人之前要靠我摸清情况。"
 
 translate schinese Jog_Ask_How_Doing_7319cda1:
 
     # j "So the team relies on me to get some shots in before we get close and personal with the enemies."
-    j ""
+    pass
 
 translate schinese Jog_Ask_How_Doing_1b1650ec:
 
     # "Then, Jog looks around and lowers his voice to a whisper."
-    ""
+    "乔格突然左望望右望望，压低了声音。"
 
 translate schinese Jog_Ask_How_Doing_629fc2cf:
 
     # j "Also if you hear anyone around town whispering about a thief fitting my profile."
-    j ""
+    j "如果你听到村里有人谈起一个特征和我很像的小偷，我发誓那不是我。"
 
 translate schinese Jog_Ask_How_Doing_01f2d519:
 
     # j "I can swear that it's not me."
-    j ""
+    pass
 
 translate schinese Jog_Ask_How_Doing_37a3c5d8:
 
     # "Jog winks at you."
-    ""
+    "乔格朝你眨了半边眼睛。"
 
 translate schinese Jog_Ask_How_Doing_5c03ac6b:
 
     # e "Ehm... Ok."
-    e ""
+    e "呃……好的。"
 
 translate schinese Jog_Ask_How_Doing_29227e9d:
 
     # "You have no idea how to make of it."
-    ""
+    "你不知道他什么意思。"
 
 translate schinese Jog_Ask_Amble_de56a969:
 
     # e "What do you think about Amble?"
-    e ""
+    e "你对安布有什么看法？"
 
 translate schinese Jog_Ask_Amble_68b9f216:
 
     # j "That block of wood?"
-    j ""
+    j "那块木头脑袋？"
 
 translate schinese Jog_Ask_Amble_ecd24179:
 
     # j "I guess he's alright."
-    j ""
+    j "还行吧，我觉得。"
 
 translate schinese Jog_Ask_Amble_e291175d:
 
     # j "Every team must have a meatshield and there you have it."
-    j ""
+    j "每支队伍都得有个肉盾，他不就是咯。"
 
 translate schinese Jog_Ask_Amble_f6271eac:
 
     # e "I don't think he's just a meatshield to you... right?"
-    e ""
+    e "但安布对你不仅仅只是个肉盾……吧？"
 
 translate schinese Jog_Ask_Amble_fa1e4dd4:
 
     # j "Not the sharpest nail in the toolbox, if you know what I mean."
-    j ""
+    j "能字添四点——熊样，懂我意思？"
 
 translate schinese Jog_Ask_Amble_b0dc4a0b:
 
     # j "But hey. With a body like that, why would you need brain?"
-    j ""
+    j "嘿，不过说真的。有他那一副身板，还要啥脑子？"
 
 translate schinese Jog_Ask_Amble_67274057:
 
     # "Jog nudges you."
-    ""
+    "乔格用胳膊肘戳戳你。"
 
 translate schinese Jog_Ask_Amble_7e6abc6c:
 
     # j "Plus, the view's nice, isn't it?"
-    j ""
+    j "再说了，这也很养眼，对吧？"
 
 translate schinese Jog_Ask_Lothar_097b2d98:
 
     # e "What's Lothar to you, Jog?"
-    e ""
+    e "你对洛萨尔有什么看法？"
 
 translate schinese Jog_Ask_Lothar_3f6bfd29:
 
     # j "Well, as you must know by now, Lot is the village hero."
-    j ""
+    j "嚯，现在你肯定知道了，洛哥是乐村的大英雄。"
 
 translate schinese Jog_Ask_Lothar_0404ab33:
 
     # j "He's also a very GOOD leader!"
-    j ""
+    j "他还是个非——常好的队长！"
 
 translate schinese Jog_Ask_Lothar_8830de33:
 
     # "There is a rare trace of sincerity in Jog's tone."
-    ""
+    "你从乔格的语气中听出了少有的真挚。"
 
 translate schinese Jog_Ask_Lothar_00be9f9e:
 
     # e "Ehm..."
-    e ""
+    e "嗯……"
 
 translate schinese Jog_Ask_Lothar_b457b0f4:
 
     # j "You might not have the best impression of Lot."
-    j ""
+    j "或许你对洛哥的印象不是很好。"
 
 translate schinese Jog_Ask_Lothar_8f6a0f8e:
 
     # j "I know how he might come across sometimes."
-    j ""
+    j "他确实有时会太自我，但他是打心底为每个村民的利益着想。"
 
 translate schinese Jog_Ask_Lothar_5c8419e3:
 
     # j "But he has everyone's best interest at heart."
-    j ""
+    pass
 
 translate schinese Jog_Ask_Lothar_1a60a167:
 
     # j "Just don't ever tell him that I said these things or I'll never hear the end of it."
-    j ""
+    j "千万别告诉他我这么说过，不然我又要听他吹个没完。"
 
 translate schinese Jog_Ask_Lothar_2b03b73d:
 
     # e "Ok, I won't tell Lothar..."
-    e ""
+    e "当然，我不会的……"
 
 translate schinese Jog_Ask_Lusterfield_2dedfb7c:
 
     # e "How is the life in Lusterfield?"
-    e ""
+    e "你在乐村的生活怎么样？"
 
 translate schinese Jog_Ask_Lusterfield_a619ec14:
 
     # j "The place's not bad."
-    j ""
+    j "不算坏。"
 
 translate schinese Jog_Ask_Lusterfield_88861419:
 
     # j "Born and raised here with Amble."
-    j ""
+    j "我和安布一块在这里出生长大。"
 
 translate schinese Jog_Ask_Lusterfield_1087d040:
 
     # j "There are some interesting characters around here."
-    j ""
+    j "村里村外有很多有意思的人。"
 
 translate schinese Jog_Ask_Lusterfield_8bc16b8b:
 
     # j "For example, the lizard at the shop."
-    j ""
+    j "比如说，典当的蜥蜴二老板。"
 
 translate schinese Jog_Ask_Lusterfield_6e665586:
 
     # j "I don't get why people would go around giving away medicine for free."
-    j ""
+    j "我不明白为什么会有人免费分发药物，但我不反对就是。"
 
 translate schinese Jog_Ask_Lusterfield_bce8c5b8:
 
     # j "But I ain't complaining."
-    j ""
+    pass
 
 translate schinese Jog_Ask_Lusterfield_74c54712:
 
     # j "That means the team has more budget for other things."
-    j ""
+    j "因为这意味着我们战队有更多预算可以买其他东西。"
 
 translate schinese Jog_Ask_Lusterfield_d8aa5cf2:
 
     # j "And the lion, Sebasti-... Sebas."
-    j ""
+    j "还有那头狮子，塞巴斯蒂——塞巴斯。"
 
 translate schinese Jog_Ask_Lusterfield_70887afb:
 
     # j "Let's just say we have some history."
-    j ""
+    j "这么说吧，我们有过一些交情。"
 
 translate schinese Jog_Ask_Lusterfield_e196989a:
 
     # e "Hmm? What histor-"
-    e ""
+    e "嗯？哪种交——"
 
 translate schinese Jog_Ask_Lusterfield_b3b6f0fb:
 
     # j "The tavern barkeep is fine."
-    j ""
+    j "还有酒馆老板，他人不错。"
 
 translate schinese Jog_Ask_Lusterfield_d6f478a9:
 
     # j "At least he doesn't kick us out when Amble is making chaos in his tavern."
-    j ""
+    j "至少安布在他的酒馆里大吵大闹的时候没给我们轰出去。"
 
 translate schinese Jog_Ask_Lusterfield_25c7ac3b:
 
     # j "Rahim makes Lot's armor."
-    j ""
+    j "雷希姆会给洛哥做护甲，我很尊敬这个男人。"
 
 translate schinese Jog_Ask_Lusterfield_2ed36206:
 
     # j "Lots of respect for the man."
-    j ""
+    pass
 
 translate schinese Jog_Ask_Lusterfield_50f340c2:
 
     # j "But wouldn't you like to see what he's packing?"
-    j ""
+    j "但他胯下鼓起那么大一块，难道你不好奇里面多有料吗？"
 
 translate schinese Jog_Ask_Lusterfield_ad4c7271:
 
     # e "Uhm... I didn't notice."
-    e ""
+    e "呃……我没特地关注过。"
 
 translate schinese Jog_Ask_Lusterfield_c6a1cf8b:
 
     # "Jog chuckles."
-    ""
+    "乔格又露出他那贱贱的笑容。"
 
 translate schinese Jog_Dialogue_End_323e23d6:
 
     # e "That's it, thank you so much for bearing with me, Jog."
-    e "我说完了，谢谢你愿意听我啰嗦这么多。"
+    e "我说完了，谢谢你愿意听我絮叨这么多。"
 
 translate schinese Jog_Dialogue_End_a933d18f:
 
