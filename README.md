@@ -40,3 +40,7 @@
 Dcl5
 
 [GitHub](https://github.com/1910857)
+
+机器熊猫
+
+[邮箱](mailto:cx_zhang94@126.com)
