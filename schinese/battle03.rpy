@@ -2134,7 +2134,7 @@ translate schinese mino_battle_loop_386704da:
 translate schinese mino_battle_loop_644be555:
 
     # "The minotaur falls with a loud thud on the ground."
-    "伴随一声巨响，这头巨兽轰然倒地，掀起一阵沙尘。"
+    "伴随一声巨响，这头猛兽轰然倒地，掀起漫天沙尘。"
 
 translate schinese mino_battle_loop_92b59618:
 
@@ -2179,7 +2179,7 @@ translate schinese mino_battle_loop_a8885461:
 translate schinese mino_win_2d2ab173:
 
     # "You have won against the minotaur."
-    "孤战告捷，你立马掏出哈斯克尔要你带着的容器……"
+    "孤战告捷，你掏出哈斯克尔要你带着的容器……"
 
 translate schinese mino_win_595d80d7:
 
@@ -2204,12 +2204,12 @@ translate schinese mino_win_91f1d522:
 translate schinese mino_win_5d236da7:
 
     # "You leave the dungeon soon after."
-    "你随后离开了山洞。"
+    pass
 
 translate schinese mino_lose_7240b865:
 
     # "You lost against the minotaur...he seems to be very satisfied with your slumped form."
-    "你输了……而现在这副孱弱的模样正中巨兽下怀。"
+    "你输了……而你现在这副孱弱的模样正中巨兽下怀。"
 
 translate schinese strings:
 

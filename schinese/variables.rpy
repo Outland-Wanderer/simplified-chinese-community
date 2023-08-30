@@ -83,7 +83,7 @@ translate schinese strings:
     new "影响你攻击的标本收藏品，挂着它能让你普通攻击得伤害附加上诱惑的伤害，但会使你的最大性欲值降低 15。"
 
     old "Found around the magical pond, the trinket hidden in the pond can be summoned by a mixture of a bovine's essence and the magical flowing water."
-    new "可以在一座神奇的池塘周围找到，不过它深藏水中，需要将牛的生命精华混进池水才能召唤出这朵曼陀罗花。"
+    new "可以在一座神奇的池塘周围找到，不过它深藏水中，需要将神牛精华混进池水才能召唤出这朵曼陀罗花。"
 
     # old "Eversprout"
     # new ""
