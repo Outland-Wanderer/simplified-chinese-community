@@ -2059,302 +2059,302 @@ translate schinese scene_mimiclose_a388bafc:
 
 translate schinese Scene_Exhibition_Masturbation_e8881af4:
 
-#     # "The lust is very strong. You wonder how you made it back to your room without anyone noticing your raging boner."
+    # "The lust is very strong. You wonder how you made it back to your room without anyone noticing your raging boner."
     "欲望十分强烈。你都不知道自己是怎么成功在没让任何人注意到你立起的肉棒便回到房间的。"
 
 translate schinese Scene_Exhibition_Masturbation_f7305e09:
 
-#     # "Perhaps someone did. The thought of that excites you."
+    # "Perhaps someone did. The thought of that excites you."
     "也许有人注意到了吧。这种想法让你更加兴奋了。"
 
 translate schinese Scene_Exhibition_Masturbation_1a281dea:
 
-#     # "Your breath is hot as the heat warms up your body."
+    # "Your breath is hot as the heat warms up your body."
     "灼热的身体让你呼吸也变得炽热。"
 
 translate schinese Scene_Exhibition_Masturbation_c11a3f82:
 
-#     # "Suddenly, the clothing on your body feels so restrictive and oppressive."
+    # "Suddenly, the clothing on your body feels so restrictive and oppressive."
     "身上的衣服一下子变得束缚且难以忍受。"
 
 translate schinese Scene_Exhibition_Masturbation_7e2a9c1f:
 
-#     # "Without a second thought, you throw off every layer except the loincloth."
+    # "Without a second thought, you throw off every layer except the loincloth."
     "你毫不犹豫将除了缠腰布以外的全部衣服脱了下去。"
 
 translate schinese Scene_Exhibition_Masturbation_ff98ceff:
 
-#     # "The very air around you feels charged with sensuality."
+    # "The very air around you feels charged with sensuality."
     "贴紧皮肤的空气感觉已被性快感所充斥。"
 
 translate schinese Scene_Exhibition_Masturbation_62bd0edb:
 
-#     # "You crawl into bed. The smoothness of the sheets makes it feel like someone is caressing you."
+    # "You crawl into bed. The smoothness of the sheets makes it feel like someone is caressing you."
     "你爬到了床上。柔滑的床单仿佛某人的爱抚。"
 
 translate schinese Scene_Exhibition_Masturbation_55b1ad53:
 
-#     # "You heave a hot breath and your nipples perk up at attention."
+    # "You heave a hot breath and your nipples perk up at attention."
     "你呼出一口热息，乳头也直直地挺起。"
 
 translate schinese Scene_Exhibition_Masturbation_de860dd1:
 
-#     # "Your hand quickly travels to your loincloth. Your cock is eager for the attention."
+    # "Your hand quickly travels to your loincloth. Your cock is eager for the attention."
     "你的一只手迅速摸向了缠腰布。你的鸡巴正极度渴望着关照。"
 
 translate schinese Scene_Exhibition_Masturbation_6601068e:
 
-#     # "At that moment, a wild cheer came from outside the window. Your hand pauses over the tent in your loincloth."
+    # "At that moment, a wild cheer came from outside the window. Your hand pauses over the tent in your loincloth."
     "正在这时，窗外传来了一声嘹亮的口哨声。你的手停在了缠腰布的小帐篷的位置。"
 
 translate schinese Scene_Exhibition_Masturbation_d166fabc:
 
-#     # "For a moment, it feels like you might have been discovered."
+    # "For a moment, it feels like you might have been discovered."
     "有那么一会儿你都感到自己被人发现了。"
 
 translate schinese Scene_Exhibition_Masturbation_4e85471b:
 
-#     # "With trepidation and anticipation, you look out the window."
+    # "With trepidation and anticipation, you look out the window."
     "你带着恐惧和期待，望向了窗外。"
 
 translate schinese Scene_Exhibition_Masturbation_6420c980:
 
-#     # "At the back of your mind, you feel like it wouldn't be such a bad idea to invite whoever it was to join you in your bed."
+    # "At the back of your mind, you feel like it wouldn't be such a bad idea to invite whoever it was to join you in your bed."
     "在你的心底，你其实觉得邀请那位不管是谁的家伙到你床上并不是一个很坏的主意。"
 
 translate schinese Scene_Exhibition_Masturbation_df733417:
 
-#     # "To your disappointment, it was merely a cheer from one of the patrons at the tavern. The tavern is always busy at night."
+    # "To your disappointment, it was merely a cheer from one of the patrons at the tavern. The tavern is always busy at night."
     "令你失望的是，那声口哨只不过是酒馆的一个客人发出来的。夜晚的酒馆总是很繁忙。"
 
 translate schinese Scene_Exhibition_Masturbation_da97c51b:
 
-#     # "As you feel like going back to business, you believe you feel eyes on you coming from outside the window."
+    # "As you feel like going back to business, you believe you feel eyes on you coming from outside the window."
     "在你正要回去处理自己的事情时，你确信你感到了来自窗外的视线。"
 
 translate schinese Scene_Exhibition_Masturbation_31fbad20:
 
-#     # "You look around but can't seem to find anyone paying specific attention to you."
+    # "You look around but can't seem to find anyone paying specific attention to you."
     "你扫视了一圈，但根本没发现有谁在特别关注着你。"
 
 translate schinese Scene_Exhibition_Masturbation_46d417e3:
 
-#     # "There are people coming and going but no one appear to notice you at the window of your room, nursing a hard-on in your hand."
+    # "There are people coming and going but no one appear to notice you at the window of your room, nursing a hard-on in your hand."
     "附近有人来往，但似乎没人注意到你，正在自己房间的窗边，手里握着一根坚挺。"
 
 translate schinese Scene_Exhibition_Masturbation_38d0c1b9:
 
-#     # "However, the feeling of being seen hits a trigger in your mind. Your cock jumps up at the prospect even."
+    # "However, the feeling of being seen hits a trigger in your mind. Your cock jumps up at the prospect even."
     "但是，被注视的感觉仿佛在你脑海中打开了一个开关。你的鸡巴甚至为这种期待而跳动起来。"
 
 translate schinese Scene_Exhibition_Masturbation_13b4d738:
 
-#     # "Your cock is so hard that it feels painful bound inside your loincloth. Screw inhibition."
+    # "Your cock is so hard that it feels painful bound inside your loincloth. Screw inhibition."
     "你的鸡巴已经硬到在缠腰布中开始发疼。被紧紧地缠住的疼。"
 
 translate schinese Scene_Exhibition_Masturbation_3417b308:
 
-#     # "You tear the loincloth off and your cock bounces with freedom. The thrill of being discovered causes sticky precum to leak out of the tip of your penis."
+    # "You tear the loincloth off and your cock bounces with freedom. The thrill of being discovered causes sticky precum to leak out of the tip of your penis."
     "你薅下缠腰布，鸡巴终于自由的弹了几下。被人发现的快感让浓厚的前列腺液从你的龟头中分泌了出来。"
 
 translate schinese Scene_Exhibition_Masturbation_638b141a:
 
-#     # "The night breeze brings a chill to your exposed skin and penis. It feels like the wind is leaving icy kisses on your skin. It perks up your nipples even more. "
+    # "The night breeze brings a chill to your exposed skin and penis. It feels like the wind is leaving icy kisses on your skin. It perks up your nipples even more. "
     "夜晚的清风给你暴露的皮肤和鸡巴一个激灵。仿佛是风在你皮肤上留下了冰冷的亲吻。这使你的乳头更坚挺了。"
 
 translate schinese Scene_Exhibition_Masturbation_ab247b5e:
 
-#     # "You have no idea if someone is really watching but the prospect of it makes your determined to put on a good show. Your leaking penis bounces in agreement."
+    # "You have no idea if someone is really watching but the prospect of it makes your determined to put on a good show. Your leaking penis bounces in agreement."
     "你不知道是不是真的有人在看你，但这种期待让你决定进行一个完美的展示。流着水的鸡巴也弹跳着表示赞同。"
 
 translate schinese Scene_Exhibition_Masturbation_161f6597:
 
-#     # "One of your hands grips the edge of the window, leaving your other hand to work on your cock."
+    # "One of your hands grips the edge of the window, leaving your other hand to work on your cock."
     "你一手扒着窗台，另一手握住鸡巴。"
 
 translate schinese Scene_Exhibition_Masturbation_84ea2327:
 
-#     # "Your cock throbs eagerly in your paw. You slowly run your hand down your cock, feeling every veins and hitting all your sensitive spots."
+    # "Your cock throbs eagerly in your paw. You slowly run your hand down your cock, feeling every veins and hitting all your sensitive spots."
     "鸡巴激动地在你的掌中搏动着。你缓缓用手撸动着鸡巴，感受着每一根血管，刺激着你所有的敏感点。"
 
 translate schinese Scene_Exhibition_Masturbation_96e71e72:
 
-#     # "You lightly pinch on your shaft, causing your penis to stand up even firmer. The erection pulls back your foreskin. The tip of your hard dick is exposed."
+    # "You lightly pinch on your shaft, causing your penis to stand up even firmer. The erection pulls back your foreskin. The tip of your hard dick is exposed."
     "你轻轻捏了下你的阴茎，让它变得更硬了。勃起使你的包皮向后褪去，露出了你坚硬的鸡巴的顶端。"
 
 translate schinese Scene_Exhibition_Masturbation_ae341734:
 
-#     # "The caressing wind touches the head of your dick and you shiver from the chill and pleasure."
+    # "The caressing wind touches the head of your dick and you shiver from the chill and pleasure."
     "爱抚的微风触摸着你的龟头，凉爽和快感让你浑身发抖。"
 
 translate schinese Scene_Exhibition_Masturbation_97c2fb20:
 
-#     # "You move your hand away from the shaft and used your fingers to rub at the tip of your cock. The friction immediately causes you to shiver in exhilaration."
+    # "You move your hand away from the shaft and used your fingers to rub at the tip of your cock. The friction immediately causes you to shiver in exhilaration."
     "你将手从阴茎上移开，开始用手指剐蹭龟头。这摩擦使你瞬间因兴奋而颤抖不止。"
 
 translate schinese Scene_Exhibition_Masturbation_91562ecd:
 
-#     # "It feels so good. Your shaft bounces and swells in response to you massage."
+    # "It feels so good. Your shaft bounces and swells in response to you massage."
     "这感觉非常爽。伴随着你的按摩，你的鸡巴也在跳动与膨胀着回应。"
 
 translate schinese Scene_Exhibition_Masturbation_d9f41f5f:
 
-#     # "The sensations make your cock leaks out more precum."
+    # "The sensations make your cock leaks out more precum."
     "这种触觉使你的鸡巴流出了更多的前列腺液。"
 
 translate schinese Scene_Exhibition_Masturbation_f2e77a48:
 
-#     # "You gather the liquid that oozes slightly out of the slit of your penis and run the sticky precum along the bulging veins of your penis."
+    # "You gather the liquid that oozes slightly out of the slit of your penis and run the sticky precum along the bulging veins of your penis."
     "你收集起从马眼中微微分泌出的液体，然后将着粘稠的前列腺液涂在暴起的青筋上。"
 
 translate schinese Scene_Exhibition_Masturbation_300b2654:
 
-#     # "You grab your shaft with your paw and grit your teeth in preparation."
+    # "You grab your shaft with your paw and grit your teeth in preparation."
     "你用手掌抓住了鸡巴，在期待中咬紧牙关。"
 
 translate schinese Scene_Exhibition_Masturbation_98c2d716:
 
-#     # "Your hips tightened and your waist bucks forward. You run your closed paw along your shaft with feverish ecstasy."
+    # "Your hips tightened and your waist bucks forward. You run your closed paw along your shaft with feverish ecstasy."
     "你的屁股开始收紧，腰部向前挺起。你用紧握的手掌沿着鸡巴极度痴迷地撸动着。"
 
 translate schinese Scene_Exhibition_Masturbation_ff4f1187:
 
-#     # "The puffs of cold wind coming through the window tease your exposed tip."
+    # "The puffs of cold wind coming through the window tease your exposed tip."
     "窗外的阵阵冷风挑逗着你暴露的龟头。"
 
 translate schinese Scene_Exhibition_Masturbation_2f61cd8a:
 
-#     # "At that moment, there is another cheer. You do not even want to confirm that if it has anything to do with you anymore."
+    # "At that moment, there is another cheer. You do not even want to confirm that if it has anything to do with you anymore."
     "正在这时，传来了又一声口哨。你甚至已经不想去确认是不是和你有关系了。"
 
 translate schinese Scene_Exhibition_Masturbation_aed959dd:
 
-#     # "In your mind, you want to believe that it is."
+    # "In your mind, you want to believe that it is."
     "你心里想要相信这和你有关。"
 
 translate schinese Scene_Exhibition_Masturbation_b5a2304a:
 
-#     # e "Hng..."
+    # e "Hng..."
     e "哼……"
 
 translate schinese Scene_Exhibition_Masturbation_3f0fbe31:
 
-#     # "You moan with pleasure."
+    # "You moan with pleasure."
     "你因快感呻吟着。"
 
 translate schinese Scene_Exhibition_Masturbation_e3ea7f86:
 
-#     # "As if in reply, there was a whisper. Your hand freezes but your pent-up cock continues to pulse."
+    # "As if in reply, there was a whisper. Your hand freezes but your pent-up cock continues to pulse."
     "如回应一般传来了一句低语。你的手僵住了，但你的鸡巴还在脉动。"
 
 translate schinese Scene_Exhibition_Masturbation_cbdcc546:
 
-#     # "You have no idea if the whisper came from an interested watcher or was it the hiss of the breeze."
+    # "You have no idea if the whisper came from an interested watcher or was it the hiss of the breeze."
     "你不知道那句低语是来自一个感兴趣的观众，还是微风的声音。"
 
 translate schinese Scene_Exhibition_Masturbation_f6458cd0:
 
-#     # "A small voice at the back of your head warns of the potential of being discovered with your cock in your hand."
+    # "A small voice at the back of your head warns of the potential of being discovered with your cock in your hand."
     "你心底有一个小小的声音，警告着你就这样握着鸡巴被发现的可能。"
 
 translate schinese Scene_Exhibition_Masturbation_d21ebab5:
 
-#     # "However, the very same possibility causes your penis to tremble with excitement and your nipples to perk at attention."
+    # "However, the very same possibility causes your penis to tremble with excitement and your nipples to perk at attention."
     "但是，恰好是这同样可能性也让你的鸡巴兴奋地发抖，乳头也硬到挺立。"
 
 translate schinese Scene_Exhibition_Masturbation_37e38b5a:
 
-#     # "Before you knew it, your hand continues to pump your shaft voraciously again."
+    # "Before you knew it, your hand continues to pump your shaft voraciously again."
     "当你回过神，你的手已经在继续贪婪地撸动着你的鸡巴了。"
 
 translate schinese Scene_Exhibition_Masturbation_fc319ed8:
 
-#     # "The thought of being caught heightens your senses."
+    # "The thought of being caught heightens your senses."
     "会被抓到的想法提升了你的敏感度。"
 
 translate schinese Scene_Exhibition_Masturbation_72f47bf0:
 
-#     # "You shudders with pleasure as your hand hits the sensitive spots along your penis that you never thought you have."
+    # "You shudders with pleasure as your hand hits the sensitive spots along your penis that you never thought you have."
     "手部不断刺激你从没想过你有的鸡巴上的敏感点让你兴奋地战栗。"
 
 translate schinese Scene_Exhibition_Masturbation_38fc170e:
 
-#     # "Imagining an eye wandering over your exposed body causes your body to grow hot despite the blowing wind."
+    # "Imagining an eye wandering over your exposed body causes your body to grow hot despite the blowing wind."
     "想象着有人正扫射着你暴露的身体让你更加燥热，即使有风吹进来。"
 
 translate schinese Scene_Exhibition_Masturbation_fdb68c47:
 
-#     # "The small voice in your brain has been shut down by lust."
+    # "The small voice in your brain has been shut down by lust."
     "脑海中的微弱的声音被欲望关闭了。"
 
 translate schinese Scene_Exhibition_Masturbation_115cf1f7:
 
-#     # "For a moment, you wonder what would it be like to be in public, to have an audience to witness your masturbation."
+    # "For a moment, you wonder what would it be like to be in public, to have an audience to witness your masturbation."
     "刹那间，你开始想假如你是在公众面前，让一个观众看着你自慰会是什么感觉。"
 
 translate schinese Scene_Exhibition_Masturbation_7ee7c768:
 
-#     # "Your hand never stops pumping."
+    # "Your hand never stops pumping."
     "你的手根本停不下来。"
 
 translate schinese Scene_Exhibition_Masturbation_e21545b0:
 
-#     # "Your body reacts positively to that notion. You buck with intensity."
+    # "Your body reacts positively to that notion. You buck with intensity."
     "你的身体积极回应着这份关照。你全身开始紧绷。"
 
 translate schinese Scene_Exhibition_Masturbation_1a657ae7:
 
-#     # "The thrill courses through your body and causes your cock to jolt."
+    # "The thrill courses through your body and causes your cock to jolt."
     "贯穿全身的性快感让你的鸡巴开始震动。"
 
 translate schinese Scene_Exhibition_Masturbation_538d37e7:
 
-#     # "The constant pulsing of your cock signals that you are close to climax."
+    # "The constant pulsing of your cock signals that you are close to climax."
     "持续的脉动发出了你即将高潮的信号。"
 
 translate schinese Scene_Exhibition_Masturbation_2c3f9333:
 
-#     # "Ropes of cum shoot out of your cock. Beads of cum even fly out of the window. Your whole body convulses from the released tension."
+    # "Ropes of cum shoot out of your cock. Beads of cum even fly out of the window. Your whole body convulses from the released tension."
     "数股精液从你鸡巴中射出。好几滴甚至飞出了窗户。你全都在为这释放的快感而抽搐。"
 
 translate schinese Scene_Exhibition_Masturbation_e55f3af9:
 
-#     # e "Argh!"
+    # e "Argh!"
     e "啊！"
 
 translate schinese Scene_Exhibition_Masturbation_4741c504:
 
-#     # "Before you knew it, a loud moan escapes from your lips."
+    # "Before you knew it, a loud moan escapes from your lips."
     "你都没反应过来，一声巨大的呻吟便从你的嘴里溜出。"
 
 translate schinese Scene_Exhibition_Masturbation_8f462f11:
 
-#     # "It sounded so loud to your ears. With the lust escaping your body, you suddenly realize how exposed you are."
+    # "It sounded so loud to your ears. With the lust escaping your body, you suddenly realize how exposed you are."
     "你听着都觉得响。随着欲望从身体里褪去，你突然意识到自己有多么暴露。"
 
 translate schinese Scene_Exhibition_Masturbation_2bf8f355:
 
-#     # "If no one was attracted by your show earlier, that last moan would have caught their attention."
+    # "If no one was attracted by your show earlier, that last moan would have caught their attention."
     "哪怕之前没人被你的表演吸引，这最后的淫叫也会引起他们的注意。"
 
 translate schinese Scene_Exhibition_Masturbation_39ef1afe:
 
-#     # "With that in mind, you quickly shrink back behind the curtain without even cleaning the cum that is dripping down your thighs and staining your sheets."
+    # "With that in mind, you quickly shrink back behind the curtain without even cleaning the cum that is dripping down your thighs and staining your sheets."
     "想到这里，你迅速缩到了窗帘后面，甚至没有清理那些从你大腿流下并黏在床单上的精液。"
 
 translate schinese Scene_Exhibition_Masturbation_da658a55:
 
-#     # "You collapse into the bed. You realize this was an exhilarating experience."
+    # "You collapse into the bed. You realize this was an exhilarating experience."
     "你瘫在了床上，发现这种体验有多么刺激。"
 
 translate schinese Scene_Exhibition_Masturbation_dca17716:
 
-#     # "Perhaps you can do it again next time. Maybe someone might accept your invitation in the future."
+    # "Perhaps you can do it again next time. Maybe someone might accept your invitation in the future."
     "也许下次你可以再来一回。也许以后会有人接受你的邀请。"
 
 translate schinese Scene_Exhibition_Masturbation_8f497eee:
 
-#     # "With that dream in mind, you drift off from wasted energy."
+    # "With that dream in mind, you drift off from wasted energy."
     "伴随着这些想法，你疲惫地慢慢坠入了梦乡。"
 
 # translate schinese scene_werewolf_lose_556c7193:
