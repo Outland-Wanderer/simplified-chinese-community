@@ -104,7 +104,7 @@ translate schinese strings:
     new "影响你攻击的标本收藏品，挂着它能让你普通攻击得伤害附加上诱惑的伤害，但会使你的最大性欲值降低 15。"
 
     old "Found around the magical pond, the trinket hidden in the pond can be summoned by a mixture of a bovine's essence and the magical flowing water."
-    new "可以在一座神奇的池塘周围找到，不过它深藏水中，需要将牛的生命精华混进池水才能召唤出这朵曼陀罗花。"
+    new "可以在一座神奇的池塘周围找到，不过它深藏水中，需要将神牛精华混进池水才能召唤出这朵曼陀罗花。"
 
     # old "Eversprout"
     # new ""
@@ -774,11 +774,11 @@ translate schinese strings:
     old "Rune Guardian"
     new "符石护卫"
 
-    # old "Minotaur Statue"
-    # new "弥诺陶洛斯雕像"
+    old "Minotaur Statue"
+    new "弥诺陶洛斯雕像"
 
-    # old "Minotaur"
-    # new "弥诺陶洛斯"
+    old "Minotaur"
+    new "弥诺陶洛斯"
 
     # old "Scarecrow"
     # new "稻草人"
@@ -890,11 +890,11 @@ translate schinese strings:
     old "A Forest mostly shrouded by the dense area of trees."
     new "茂密的树木笼罩了这片区域。"
 
-    # old "Gloomy Mountainside"
-    # new "阴郁山腹"
+    old "Gloomy Mountainside"
+    new "阴郁山腹"
 
-    # old "An area near the mountain of the goats, it leads to a mythical cave where the minotaur rumoured to be located."
-    # new "山羊部落群山附近的区域，由此可以进入神话生物弥诺陶洛斯所在的山洞。"
+    old "An area near the mountain of the goats, it leads to a mythical cave where the minotaur rumoured to be located."
+    new "山羊部落群山附近的区域，由此可以进入神话生物弥诺陶洛斯所在的山洞。"
 
     # old "Summery Farmland"
     # new "骄阳农场"
@@ -1131,11 +1131,14 @@ translate schinese strings:
     old "Train with Amble and Jog"
     new "分别找安布和乔格训练"
 
-    # old "The Minotaur Riddle" #14
-    # new "弥诺陶洛斯之谜"
+    old "The Minotaur Riddle" #14
+    new "弥诺陶洛斯之谜"
 
-    # old "As a client's request, Haskell wanted me to explore the underground dungeon to extract a minotaur's essence."
-    # new "哈斯克尔应客户请托，想让我探索地下宫殿并取得一份弥诺陶洛斯的精华。"
+    old "As a client's request, Haskell wanted me to explore the underground dungeon to extract a minotaur's essence."
+    new "哈斯克尔应客户请托，想让我探索地下宫殿并取得一份弥诺陶洛斯的精华。"
+
+    old "Visit the Minotaur Cave in Dark Forest"
+    new "前往幽暗森林附近的山洞"
 
     old "Sick Leave" #15
     new "病假"
