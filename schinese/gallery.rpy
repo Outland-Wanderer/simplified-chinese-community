@@ -9,8 +9,8 @@ translate schinese strings:
     old "{color=#000}Masturbating at Day Time{/color}"
     new "{color=#000}日间自慰{/color}"
 
-    # old "{color=#000}Masturbating at Night Time{/color}"
-    # new "{color=#000}夜间自慰{/color}"
+    old "{color=#000}Masturbating at Night Time{/color}"
+    new "{color=#000}夜间自慰{/color}"
 
     old "{color=#000}Giving Sebas at work a blowjob{/color}"
     new "{color=#000}给塞巴斯口交{/color}"
