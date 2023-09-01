@@ -6,7 +6,7 @@
 平地起风波，你跌入了陌生的莫肯大陆。独在异乡为异客，在漫漫归乡路中，你会与这片土地的人们建立何种牵绊？你要如何应对冥冥之中的神秘力量？而你的命数又是几何？
 
 
-## 本体相关链接
+## 官方相关链接
 
 [itch.io](https://f1shsticker.itch.io/outland-wanderer)
 
@@ -17,9 +17,16 @@
 [Patreon](https://www.patreon.com/OutlandWanderer)
 
 
+## 非官方相关链接
+
+[游戏攻略](https://docs.google.com/document/d/1iVpfOl9_5MuRJGP1GADNVf63GPt6uRqxhLEVIJEneoI/edit?usp=sharing)
+
+[中文 Telegram 讨论群组](https://t.me/+YLrWVW2kEipmMjVl)
+
+
 ## 协作相关
 
-本项目大体进度可至[里程碑](https://github.com/COPtimer/Outland-Wanderer-Simplified-Chinese/milestones)页面查询。
+本项目大体进度可至[计划](https://github.com/users/COPtimer/projects/1)页面查询。
 
 为了避免撞车和给各位译者提供更丰富的支持，若欲参与本项目，请先联系本项目负责人洽谈。
 
