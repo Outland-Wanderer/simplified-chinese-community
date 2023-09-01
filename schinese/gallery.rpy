@@ -39,11 +39,11 @@ translate schinese strings:
     old "{color=#000}Groping Lothar after Sparring{/color}"
     new "{color=#000}玩弄洛萨尔的胸肌{/color}"
 
-    # old "{color=#000}Losing in Minotaur Battle{/color}"
-    # new "{color=#000}战败弥诺陶洛斯{/color}"
+    old "{color=#000}Losing in Minotaur Battle{/color}"
+    new "{color=#000}战败弥诺陶洛斯{/color}"
 
-    # old "{color=#000}Winning in Minotaur Battle{/color}"
-    # new "{color=#000}战胜弥诺陶洛斯{/color}"
+    old "{color=#000}Winning in Minotaur Battle{/color}"
+    new "{color=#000}战胜弥诺陶洛斯{/color}"
 
     old "{color=#000}Losing in Mimic Battle{/color}"
     new "{color=#000}战败宝箱怪{/color}"
