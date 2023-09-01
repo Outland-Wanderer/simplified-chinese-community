@@ -4641,15 +4641,20 @@ translate schinese strings:
     old "Ask for Training"
     new "提起洛萨尔要求的训练"
 
-# translate schinese Amble_Normal_Talk_e1b4b9b5:
+translate schinese Amble_Normal_Talk_e1b4b9b5:
 
-#     # e "What about the other dudes?"
-#     e ""
+    # e "What about the other dudes?"
+    pass
 
-# translate schinese Amble_Normal_Talk_602e6952:
+translate schinese Amble_Normal_Talk_602e6952:
 
-#     # a "My team?" nointeract
-#     a "" nointeract
+    # a "My team?" nointeract
+    a "哪个伙伴呀？" nointeract
+
+translate schinese strings:
+
+    old "Ask about Jog"
+    new "打听乔格"
 
 # translate schinese Amble_Ole_Training_de33b095:
 
@@ -6192,210 +6197,211 @@ translate schinese Amble_Lothar_Training_f407b3d4:
 #     # "That... was an amazing training."
 #     ""
 
-# translate schinese Amble_Ask_Lusterfield_2dedfb7c:
+translate schinese Amble_Ask_Lusterfield_2dedfb7c:
 
-#     # e "How is the life in Lusterfield?"
-#     e ""
+    # e "How is the life in Lusterfield?"
+    e "你感觉在乐村的生活怎么样？"
 
-# translate schinese Amble_Ask_Lusterfield_88fdc460:
+translate schinese Amble_Ask_Lusterfield_88fdc460:
 
-#     # a "The town is wonderful. Many fine people here. And I know most of them, so you've come to the right people to ask about this!"
-#     a ""
+    # a "The town is wonderful. Many fine people here. And I know most of them, so you've come to the right people to ask about this!"
+    a "好得不能再好了。大家都很友善。基本每个人我都认识，你来问我可算问对人啦！"
 
-# translate schinese Amble_Ask_Lusterfield_1e96fc0d:
+translate schinese Amble_Ask_Lusterfield_1e96fc0d:
 
-#     # a "Was raised a logger. So I've helped built most of the buildings in the town. Picked up the craft from dad."
-#     a ""
+    # a "Was raised a logger. So I've helped built most of the buildings in the town. Picked up the craft from dad."
+    a "我作为伐木工帮村里造过不少屋子，技艺都是从我爸那传下来的。"
 
-# translate schinese Amble_Ask_Lusterfield_3f04151d:
+translate schinese Amble_Ask_Lusterfield_3f04151d:
 
-#     # "Amble's eyes dim a bit at the mention of his father but then he perks up again."
-#     ""
+    # "Amble's eyes dim a bit at the mention of his father but then he perks up again."
+    "提到父亲，安布眼神有些黯淡，但很快又恢复了活力。"
 
-# translate schinese Amble_Ask_Lusterfield_6fbdc346:
+translate schinese Amble_Ask_Lusterfield_6fbdc346:
 
-#     # e "How is the Tavern?"
-#     e ""
+    # e "How is the Tavern?"
+    e "嘿，说说酒馆吧？"
 
-# translate schinese Amble_Ask_Lusterfield_8c73a502:
+translate schinese Amble_Ask_Lusterfield_8c73a502:
 
-#     # a "Cane at the tavern is more ancient than you might expect. He's already keeping the tavern running when I was a mere cub."
-#     a ""
+    # a "Cane at the tavern is more ancient than you might expect. He's already keeping the tavern running when I was a mere cub."
+    a "唔，别看凯恩红光满面，他可能比你想象的年长得多。我还是个小熊崽的时候他就当酒馆老板了。"
 
-# translate schinese Amble_Ask_Lusterfield_9e14003f:
+translate schinese Amble_Ask_Lusterfield_9e14003f:
 
-#     # a "Rahim is amazing. He packs a mean punch. No one else in town can beat me in an arm wrestle but Rahim. But I've learned a lot from him."
-#     a ""
+    # a "Rahim is amazing. He packs a mean punch. No one else in town can beat me in an arm wrestle but Rahim. But I've learned a lot from him."
+    a "这里不得不提住隔壁的雷叔。他超级厉害，全村只有他掰手腕能赢过我，我从这位长辈身上学到了很多。"
 
-# translate schinese Amble_Ask_Lusterfield_e5961362:
+translate schinese Amble_Ask_Lusterfield_e5961362:
 
-#     # a "It's doubly amazing that he can refine his strength into something as delicate as tailoring."
-#     a ""
+    # a "It's doubly amazing that he can refine his strength into something as delicate as tailoring."
+    a "更厉害的是他五大三粗的，做起缝纫这种精细活却能做到一等一的精致。"
 
-# translate schinese Amble_Ask_Lusterfield_77ead26b:
+translate schinese Amble_Ask_Lusterfield_77ead26b:
 
-#     # a "Can you imagine me at a sewing table? Haha."
-#     a ""
+    # a "Can you imagine me at a sewing table? Haha."
+    a "换做我，你能想象我坐在缝纫机前织衣服吗？哈哈哈。"
 
-# translate schinese Amble_Ask_Lusterfield_37592623:
+translate schinese Amble_Ask_Lusterfield_37592623:
 
-#     # e "What about the shop?"
-#     e ""
+    # e "What about the shop?"
+    e "那典当呢？"
 
-# translate schinese Amble_Ask_Lusterfield_befee3d3:
+translate schinese Amble_Ask_Lusterfield_befee3d3:
 
-#     # a "Ole is very kind. You wouldn't think so but accidents happen more often than you think during logging."
-#     a ""
+    # a "Ole is very kind. You wouldn't think so but accidents happen more often than you think during logging."
+    a "奥利特别好心肠，他帮我包扎过很多次伤口。"
+    a "你可能不太了解，伐木其实是个很危险的活，经常发生意外。"
 
-# translate schinese Amble_Ask_Lusterfield_be9629f4:
+translate schinese Amble_Ask_Lusterfield_be9629f4:
 
-#     # "Large falling woods and a giant axe? Recipe for disaster."
-#     ""
+    # "Large falling woods and a giant axe? Recipe for disaster."
+    "倾倒的大树加上锋利的巨斧？不出事才怪。"
 
-# translate schinese Amble_Ask_Lusterfield_30f13181:
+translate schinese Amble_Ask_Lusterfield_30f13181:
 
-#     # a "Ole has patched me up many times."
-#     a ""
+    # a "Ole has patched me up many times."
+    pass
 
-# translate schinese Amble_Ask_Lusterfield_cc265291:
+translate schinese Amble_Ask_Lusterfield_cc265291:
 
-#     # a "Used to be quite close to Sebas."
-#     a ""
+    # a "Used to be quite close to Sebas."
+    a "至于塞巴斯，以前我和他玩得可熟了。"
 
-# translate schinese Amble_Ask_Lusterfield_bcda57e5:
+translate schinese Amble_Ask_Lusterfield_bcda57e5:
 
-#     # a "But ever since Lot formed a group with Jog and me, He would give us the evil eyes from time to time."
-#     a ""
+    # a "But ever since Lot formed a group with Jog and me, He would give us the evil eyes from time to time."
+    a "但自从洛哥拉我和乔格入队之后，他老是一见到我们就摆出很凶的样子。"
 
-# translate schinese Amble_Ask_Lusterfield_937703a1:
+translate schinese Amble_Ask_Lusterfield_937703a1:
 
-#     # "Amble frowns."
-#     ""
+    # "Amble frowns."
+    "安布低下头，微微皱眉。"
 
-# translate schinese Amble_Ask_Lusterfield_400e88ee:
+translate schinese Amble_Ask_Lusterfield_400e88ee:
 
-#     # a "Jog told me that I was imagining it. Perhaps he's right."
-#     a ""
+    # a "Jog told me that I was imagining it. Perhaps he's right."
+    a "乔格说我想太多了，也许他是对的吧。"
 
-# translate schinese Amble_Ask_How_Doing_2400df22:
+translate schinese Amble_Ask_How_Doing_2400df22:
 
-#     # e "How are you doing, Amble?"
-#     e ""
+    # e "How are you doing, Amble?"
+    e "在忙什么呢，安布？"
 
-# translate schinese Amble_Ask_How_Doing_1c4c838e:
+translate schinese Amble_Ask_How_Doing_1c4c838e:
 
-#     # a "Not doing much."
-#     a ""
+    # a "Not doing much."
+    a "没什么，照常和乔格来晒晒太阳。"
 
-# translate schinese Amble_Ask_How_Doing_1db603d1:
+translate schinese Amble_Ask_How_Doing_1db603d1:
 
-#     # a "Just hanging out with Jog and working on the anvil."
-#     a ""
+    # a "Just hanging out with Jog and working on the anvil."
+    pass
 
-# translate schinese Amble_Ask_How_Doing_c75f36e5:
+translate schinese Amble_Ask_How_Doing_c75f36e5:
 
-#     # a "Ironing out the kinks in the armor and sharpening the blade."
-#     a ""
+    # a "Ironing out the kinks in the armor and sharpening the blade."
+    a "顺便拿铁砧磨磨变钝的刀剑和盔甲上的毛刺，保养装备。"
 
-# translate schinese Amble_Ask_How_Doing_00633eca:
+translate schinese Amble_Ask_How_Doing_00633eca:
 
-#     # a "But honestly, I'm just waiting for night to come so the real fun starts at the tavern."
-#     a ""
+    # a "But honestly, I'm just waiting for night to come so the real fun starts at the tavern."
+    a "但说实话现在我只是在消磨时间，真正的生活要等晚上去酒馆才算开始嘞。"
 
-# translate schinese Amble_Ask_Lothar_2097b8f6:
+translate schinese Amble_Ask_Lothar_2097b8f6:
 
-#     # e "How about Lothar?"
-#     e ""
+    # e "How about Lothar?"
+    e "你对洛萨尔有什么看法？"
 
-# translate schinese Amble_Ask_Lothar_a1c5eca7:
+translate schinese Amble_Ask_Lothar_a1c5eca7:
 
-#     # a "He's my role model and he should be yours too."
-#     a ""
+    # a "He's my role model and he should be yours too."
+    a "洛哥是我的偶像，[e]你也应该把他当偶像。"
 
-# translate schinese Amble_Ask_Lothar_6b2c2279:
+translate schinese Amble_Ask_Lothar_6b2c2279:
 
-#     # a "Jog and I weren't in the best shape when Lot found us."
-#     a ""
+    # a "Jog and I weren't in the best shape when Lot found us."
+    a "当年遇上洛哥时，我和乔格都灰头土脸的。"
 
-# translate schinese Amble_Ask_Lothar_3e55750b:
+translate schinese Amble_Ask_Lothar_3e55750b:
 
-#     # a "He was the one who helped us get clean clothes, food. After what went down with the goats."
-#     a ""
+    # a "He was the one who helped us get clean clothes, food. After what went down with the goats."
+    a "那场大战后，是他给了我们干净衣服穿，热乎东西吃。"
 
-# translate schinese Amble_Ask_Lothar_8186b1fc:
+translate schinese Amble_Ask_Lothar_8186b1fc:
 
-#     # a "We owed him a lot."
-#     a ""
+    # a "We owed him a lot."
+    a "我们亏欠他很多很多。"
 
-# translate schinese Amble_Ask_Lothar_aa474a85:
+translate schinese Amble_Ask_Lothar_aa474a85:
 
-#     # e "Why do you like him so much?"
-#     e ""
+    # e "Why do you like him so much?"
+    e "但你为什么这么黏他呢？"
 
-# translate schinese Amble_Ask_Lothar_6b56ea75:
+translate schinese Amble_Ask_Lothar_6b56ea75:
 
-#     # a "He is a simple man, if you treat him well, you'll be treated the same way."
-#     a ""
+    # a "He is a simple man, if you treat him well, you'll be treated the same way."
+    a "因为洛哥是一个单纯的人。你对他好，他也会对你好。"
 
-# translate schinese Amble_Ask_Lothar_b4e4aed5:
+translate schinese Amble_Ask_Lothar_b4e4aed5:
 
-#     # a "And I love simple stuff. Life doesn't have to be all complicated if you'd just take it easy."
-#     a ""
+    # a "And I love simple stuff. Life doesn't have to be all complicated if you'd just take it easy."
+    a "而我喜欢简单的东西。我相信如果人人都能怀着赤子之心，生活就不会有那么多猜忌顾虑。"
 
-# translate schinese Amble_Ask_Lothar_c49f352b:
+translate schinese Amble_Ask_Lothar_c49f352b:
 
-#     # a "That's how I see things."
-#     a ""
+    # a "That's how I see things."
+    pass
 
-# translate schinese Amble_Ask_Lothar_815bfb88:
+translate schinese Amble_Ask_Lothar_815bfb88:
 
-#     # e "Was it Lothar's idea that you two are taking care of the road?"
-#     e ""
+    # e "Was it Lothar's idea that you two are taking care of the road?"
+    e "那是洛萨尔派你和乔格上路巡逻吗？"
 
-# translate schinese Amble_Ask_Lothar_5ba5a265:
+translate schinese Amble_Ask_Lothar_5ba5a265:
 
-#     # a "After that incident with the goat's wagon, we thought we needed a better road protection."
-#     a ""
+    # a "After that incident with the goat's wagon, we thought we needed a better road protection."
+    a "山羊的商队被袭击后，不只是洛哥，大家都觉得必须要加强对村路的保护。"
 
-# translate schinese Amble_Ask_Lothar_f687201f:
+translate schinese Amble_Ask_Lothar_f687201f:
 
-#     # a "Plus, Lot got a lot of gold from his reputation in the village, he just gifted them to us to help killing monsters."
-#     a ""
+    # a "Plus, Lot got a lot of gold from his reputation in the village, he just gifted them to us to help killing monsters."
+    a "刚好他凭名声攒了不少钱，他就拿这些钱作为我们帮他消灭沿路怪物的谢礼。"
 
-# translate schinese Amble_Ask_Lothar_8a876d19:
+translate schinese Amble_Ask_Lothar_8a876d19:
 
-#     # a "We just wanted to keep the area around Lusterfield safe for travellers like you."
-#     a ""
+    # a "We just wanted to keep the area around Lusterfield safe for travellers like you."
+    a "我们只希望让乐村附近更安全，特别是对于像你一样的旅人。"
 
-# translate schinese Amble_Ask_Jog_192662ed:
+translate schinese Amble_Ask_Jog_192662ed:
 
-#     # a "I like the puny little thing."
-#     a ""
+    # a "I like the puny little thing."
+    a "他也是我喜欢的小不点。"
 
-# translate schinese Amble_Ask_Jog_dcb06a63:
+translate schinese Amble_Ask_Jog_dcb06a63:
 
-#     # a "We're complete opposites but that's probably why we work so good together."
-#     a ""
+    # a "We're complete opposites but that's probably why we work so good together."
+    a "虽然我们长相性格完全不同，但或许正因如此我们才成了最佳拍档。"
 
-# translate schinese Amble_Ask_Jog_099a6a6e:
+translate schinese Amble_Ask_Jog_099a6a6e:
 
-#     # a "Lot keeps telling me that I have the tendency to charge into the battle. It's a bad habit I have to kick. Have no idea how."
-#     a ""
+    # a "Lot keeps telling me that I have the tendency to charge into the battle. It's a bad habit I have to kick. Have no idea how."
+    a "洛哥经常批评我爱乱冲锋，我却总改不掉这个坏习惯。"
 
-# translate schinese Amble_Ask_Jog_da076756:
+translate schinese Amble_Ask_Jog_da076756:
 
-#     # a "Therefore. I'm always caught in a pickle. Jog has saved my ass so many times now with his great scouting and archery skills."
-#     a ""
+    # a "Therefore. I'm always caught in a pickle. Jog has saved my ass so many times now with his great scouting and archery skills."
+    a "所以每当我遇到困难，都得靠乔格发挥他的情报优势和箭术帮我脱困。"
 
-# translate schinese Amble_Ask_Jog_2f59ebc3:
+translate schinese Amble_Ask_Jog_2f59ebc3:
 
-#     # a "I'm glad to know that he has my back."
-#     a ""
+    # a "I'm glad to know that he has my back."
+    a "有他罩我我很放心。我也会永远罩他。"
 
-# translate schinese Amble_Ask_Jog_d58dfe05:
+translate schinese Amble_Ask_Jog_d58dfe05:
 
-#     # a "I have his too."
-#     a ""
+    # a "I have his too."
+    pass
 
 # translate schinese Amble_Patrol_Quest_a2c06dc8:
 
