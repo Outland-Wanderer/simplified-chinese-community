@@ -128,6 +128,11 @@ translate schinese prattlefell_meadow_loop_e91ba75d:
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     ""
 
+translate schinese prattlefell_meadow_loop_74bcfd4b:
+
+    # "You found a small piece of paper that details the recipe for a... stylistic hat that is usually worn by a famous bard."
+    ""
+
 translate schinese prattlefell_meadow_loop_e91ba75d_1:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
@@ -194,6 +199,76 @@ translate schinese bandits_hideout_loop_e91ba75d:
     ""
 
 translate schinese bandits_hideout_loop_e91ba75d_1:
+
+    # "You search around the area for a while, but there seem to be nothing worth noting nearby."
+    ""
+
+translate schinese riverside_crossing_loop_752145e3:
+
+    # "Around the lagoon, you notice that there's a patch of small flowers nearby, you go and pick it up, it was a flax flower."
+    ""
+
+translate schinese riverside_crossing_loop_bde92c53:
+
+    # "You put the flax flower in your bag, you now have [item_number] flax flower."
+    ""
+
+translate schinese riverside_crossing_loop_c2ae7326:
+
+    # "You put the flax flower in your bag, you now have [item_number] flax flowers."
+    ""
+
+translate schinese riverside_crossing_loop_0c517644:
+
+    # "You look around the sparkling lagoon, under the bright sun you see something tinted red in the bush, you went and pick it up. It was a red berry."
+    ""
+
+translate schinese riverside_crossing_loop_3a490989:
+
+    # "You put the red berry in your bag, you now have [item_number] red berry."
+    ""
+
+translate schinese riverside_crossing_loop_88e4ec00:
+
+    # "You put the red berry in your bag, you now have [item_number] red berries."
+    ""
+
+translate schinese riverside_crossing_loop_e3eefdaf:
+
+    # "You look around the sparkling lagoon, under the bright sun you see something tinted blue in the bush, you went and pick it up. It was a blue berry."
+    ""
+
+translate schinese riverside_crossing_loop_b2dcd073:
+
+    # "You put the blue berry in your bag, you now have [item_number] blue berry."
+    ""
+
+translate schinese riverside_crossing_loop_c44940ab:
+
+    # "You put the blue berry in your bag, you now have [item_number] blue berries."
+    ""
+
+translate schinese riverside_crossing_loop_c4468641:
+
+    # "Along the lagoon, you found a leftover paper detailing the process to make a bucket."
+    ""
+
+translate schinese riverside_crossing_loop_6248f077:
+
+    # "It says making a wooden bucket requires 6 Wooden Logs and 4 Slime Balls. You mark down the recipe on your journal."
+    ""
+
+translate schinese riverside_crossing_loop_28cfe685:
+
+    # msg "New Recipe learned, check out Rahim's Workstation for more detail."
+    msg ""
+
+translate schinese riverside_crossing_loop_e91ba75d:
+
+    # "You search around the area for a while, but there seem to be nothing worth noting nearby."
+    ""
+
+translate schinese riverside_crossing_loop_e91ba75d_1:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     ""

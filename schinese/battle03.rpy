@@ -328,10 +328,15 @@ translate schinese stoneward_win_e92d4827:
     # "There's nothing useful for now..."
     "一堆无用的尘土……"
 
-translate schinese stoneward_win_697d45ec:
+translate schinese stoneward_win_86e38b05:
 
-    # "You search around the stone ward, you found a normal stone..."
-    "你在周围找了又找，还是发现了一块普通的石头……"
+    # "Searching around the stone ward, you found a normal stone and a slate rock!"
+    "你在周围找了又找，还是发现了一块普通的石头和一块板岩块！"
+
+translate schinese stoneward_win_bc0f6ea8:
+
+    # "Searching around the stone ward, you found a normal stone!"
+    "你在周围找了又找，还是发现了一块普通的石头！"
 
 translate schinese stoneward_win_015d740f:
 

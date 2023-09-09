@@ -7431,6 +7431,12 @@ translate schinese strings:
     old "Maybe Jog was one of them"
     new ""
 
+    old "Report about the material for the bridge"
+    new ""
+
+    old "Ask about the required material for the bridge"
+    new ""
+
     old "Ask about Lusterfield{#AmbleAAL}"
     new ""
 

@@ -343,10 +343,30 @@ translate schinese main_moonlit_wolf_den_fc60caf0:
     # "You do not dare to enter the werewolf den after helping tetto escape..."
     ""
 
-translate schinese main_moonlit_wolf_den_7e753359:
+translate schinese main_moonlit_wolf_den_db99f681:
 
-    # msg "This part of the story is currently WIP!"
-    msg ""
+    # "You slowly enter the cave, holding your weapon to defend yourself properly."
+    ""
+
+translate schinese main_moonlit_wolf_den_390dee0d:
+
+    # "The cave seems just as normal as you'd expec-"
+    ""
+
+translate schinese main_moonlit_wolf_den_a27baced:
+
+    # "T-THUNK!"
+    ""
+
+translate schinese main_moonlit_wolf_den_5c3fa92f:
+
+    # "Something hits you in the head from behind, and you instantly fall on the ground, unconscious."
+    ""
+
+translate schinese main_moonlit_wolf_den_c7fb321b:
+
+    # "As you wake up, a familiar face greets you from above, someone that you know, but never wants to meet again."
+    ""
 
 translate schinese Uffe_Celebration_Orgy_8780b041:
 
@@ -2864,6 +2884,12 @@ translate schinese Uffe_Normal_Talk_b260f100:
     u ""
 
 translate schinese strings:
+
+    old "Are you sure it's a right choice to enter the cave?"
+    new ""
+
+    old "Enter the werewolf cave"
+    new ""
 
     old "Join the feast"
     new ""

@@ -383,6 +383,11 @@ translate schinese werewolf_win_d13a5aec:
     # "You also found a pair of trousers... from a Hunter."
     ""
 
+translate schinese werewolf_win_5d97b2b7:
+
+    # "You also found a "
+    ""
+
 translate schinese werewolf_win_3f761eff:
 
     # "You also found [found_gold] gold from the werewolf. You pick them up swiftly."
@@ -411,6 +416,21 @@ translate schinese werewolf_lose_a8de14f8:
 translate schinese werewolf_lose_3a3f9013:
 
     # "You struggle against the werewolf, your mind is filled with unquenchable lust over the werewolf. He pounces on your helpless body like you are a feast to be served."
+    ""
+
+translate schinese werewolf_lose_3d9e673f:
+
+    # "But, instead of searching around your body, he just knocks you out in one mere punch, you fall unconscious soon as the werewolf brings you somewhere else."
+    ""
+
+translate schinese werewolf_lose_eceaf863:
+
+    # ww "Uffe's gotta love this one, heh."
+    ww ""
+
+translate schinese werewolf_lose_c7fb321b:
+
+    # "As you wake up, a familiar face greets you from above, someone that you know, but never wants to meet again."
     ""
 
 translate schinese werewolf_lose_a20cefa7:

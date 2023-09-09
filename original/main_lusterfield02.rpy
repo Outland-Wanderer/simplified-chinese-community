@@ -10118,6 +10118,46 @@ translate schinese Lothar_First_Ending_ed3b0d65:
     # "Lothar frowns upon you as he walks away towards the stairs on the other side of the road. You sigh heavily, finally getting out of the sticky situation."
     ""
 
+translate schinese Lothar_Dialogue_52132ed0:
+
+    # l "Hey! Are you trying to hide from me, disciple?"
+    l ""
+
+translate schinese Lothar_Dialogue_e6ae2b07:
+
+    # e "N-no! I was looking for you."
+    e ""
+
+translate schinese Lothar_Dialogue_9268d720:
+
+    # l "{b}Meet, me, in, the, tavern, at, night.{/b} And don't tell me you don't drink. I don't care."
+    l ""
+
+translate schinese Lothar_Dialogue_db165e53:
+
+    # e "Uh, alright."
+    e ""
+
+translate schinese Lothar_Dialogue_62feb791:
+
+    # l "Hey, I see you here, disciple."
+    l ""
+
+translate schinese Lothar_Dialogue_0c8df589:
+
+    # e "Uh... Lothar?"
+    e ""
+
+translate schinese Lothar_Dialogue_6fd97e81:
+
+    # l "Meet me in the tavern at night if you want to learn from the best."
+    l ""
+
+translate schinese Lothar_Dialogue_55fa2d86:
+
+    # l "Don't you make me wait further."
+    l ""
+
 translate schinese Lothar_Dialogue_08fa49ce:
 
     # e "Heyyyy, Lothar."
@@ -17711,9 +17751,6 @@ translate schinese strings:
     new ""
 
     old "Apologise"
-    new ""
-
-    old "Protest"
     new ""
 
     old "I'll get into it"

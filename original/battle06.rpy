@@ -323,6 +323,11 @@ translate schinese gnoll_win_57fa0099:
     # "As you search around the gnoll, you found a bundle of soft fur!"
     ""
 
+translate schinese gnoll_win_aaa2a610:
+
+    # "You also found a piece of colourful garment, a cloak that seems to be worn by... a famous bard?"
+    ""
+
 translate schinese gnoll_win_a20cefa7:
 
     # "..."
@@ -342,6 +347,251 @@ translate schinese gnoll_lose_8ae31ccb:
 
     # "You struggle against the gnoll, your mind is filled with unquenchable lust over the gnoll. He pounces on your helpless body like you are a feast to be served."
     ""
+
+translate schinese bridgeroot_battle_e809c187:
+
+    # "You are facing a bridgeroot, he slowly stands up in defense as you prepare to chase away the mossy creature with Amble."
+    ""
+
+translate schinese bridgeroot_battle_loop_2cb72799:
+
+    # "It's your turn now."
+    ""
+
+translate schinese bridgeroot_battle_loop_0d3408ce:
+
+    # "It's [ally.name]'s turn now."
+    ""
+
+translate schinese bridgeroot_turn_3a5e0cff:
+
+    # "The bridgeroot swings his grass fist, knocking you back with his sheer strength. Your health decreases by [enemy_damage] HP."
+    ""
+
+translate schinese bridgeroot_turn_8fd8c645:
+
+    # "He has recovered [healing] HP."
+    ""
+
+translate schinese bridgeroot_turn_6aad7534:
+
+    # "The bridgeroot swings his grass fist, but you manage to dodge the attack."
+    ""
+
+translate schinese bridgeroot_turn_5f5e7d6a:
+
+    # "It healed by "
+    ""
+
+translate schinese bridgeroot_turn_d4969122:
+
+    # "The bridgeroot holds you in place. You try to struggle free, but it doesn't work."
+    ""
+
+translate schinese bridgeroot_turn_d46fb688:
+
+    # "The bridgeroot lurches, he shoots some sort of sharp grasses onto you. Both of your healths decrease by [enemy_damage] HP."
+    ""
+
+translate schinese bridgeroot_turn_8fd8c645_1:
+
+    # "He has recovered [healing] HP."
+    ""
+
+translate schinese bridgeroot_turn_456edd0d:
+
+    # "The bridgeroot lurches, but you quickly dodge his attack."
+    ""
+
+translate schinese bridgeroot_turn_e04297a7:
+
+    # "Every green part of the bridgeroot begins to convulse. His body is suddenly revitalised by the power of water."
+    ""
+
+translate schinese bridgeroot_turn_8fd8c645_2:
+
+    # "He has recovered [healing] HP."
+    ""
+
+translate schinese bridgeroot_turn_0060a055:
+
+    # "You can still feel yourself being wrapped around by the bridgeroot, refusing to let you go."
+    ""
+
+translate schinese bridgeroot_turn_d7021d82:
+
+    # "The herbs on his body is unbearably strong, causing your mind to go fuzzy... your lust is increased by 15."
+    ""
+
+translate schinese bridgeroot_win_cabf617f:
+
+    # "A loud, shrieking growl of pain can be heard from the mossy monster, its pulsation can almost be felt as you take a step back."
+    ""
+
+translate schinese bridgeroot_win_241e1773:
+
+    # "It... it doesn't look normal, and the bridgeroot charges at you, knocking you on the ground."
+    ""
+
+translate schinese bridgeroot_win_363a7514:
+
+    # "You try to make his arm let go, but his grasps are too tight. You can feel moss growing around you, locking you in place."
+    ""
+
+translate schinese bridgeroot_win_0199b6cf:
+
+    # "Perhaps this is a last resort from the brigeroot, as it keeps itself on top of you, the sheer weight of this giant is suffocating you bit by bit."
+    ""
+
+translate schinese bridgeroot_win_8860462c:
+
+    # e "A-amb!"
+    e ""
+
+translate schinese bridgeroot_win_a3a4af4e:
+
+    # "You stare at Amble, who just stands here, he is completely petrified, glancing between you and the bridgeroot."
+    ""
+
+translate schinese bridgeroot_win_276b2bc8:
+
+    # "He remains frozen for a few more seconds, and you seem to be running out of air, your vision blurs as it is replaced by patches of greenery."
+    ""
+
+translate schinese bridgeroot_win_d5f3c927:
+
+    # a "Haargh!"
+    a ""
+
+translate schinese bridgeroot_win_9b56a923:
+
+    # "Amble swings his hammer towards its head, and its shrieks just get louder all at once, which has shaken your very soul."
+    ""
+
+translate schinese bridgeroot_win_785c4d2e:
+
+    # "The bridgeroot rises up, and then suddenly, it falls to the side with a resounding thump."
+    ""
+
+translate schinese bridgeroot_win_71b459d6:
+
+    # "It's a long time since you take a breath, so you just lie there, trying to take in your breath as Amble extends his hand for you to stand up."
+    ""
+
+translate schinese bridgeroot_win_a7b4cf16:
+
+    # "You stare at the scene, the moss monster quickly fades into stillness as its green colour turns into a dull brown, before sinking itself into the earth."
+    ""
+
+translate schinese bridgeroot_win_71bb5413:
+
+    # e "I-I am so sorry, I know I promised we wouldn't kill him."
+    e ""
+
+translate schinese bridgeroot_win_c63515ac:
+
+    # "He nods, almost hesitantly."
+    ""
+
+translate schinese bridgeroot_win_4693e987:
+
+    # a "You were in danger right there, I had to."
+    a ""
+
+translate schinese bridgeroot_win_824577c7:
+
+    # "Amble kneels down, swirling his finger against the dirts where the monster once resided."
+    ""
+
+translate schinese bridgeroot_win_dfe99824:
+
+    # a "It was like what Lot described."
+    a ""
+
+translate schinese bridgeroot_win_ce753a35:
+
+    # "You notice he slowly closes aimless eyes shut, his ears only droop lower."
+    ""
+
+translate schinese bridgeroot_win_a994b4a9:
+
+    # e "The monster?"
+    e ""
+
+translate schinese bridgeroot_win_4faacc80:
+
+    # a "Oh, yes. The monster, was it the golem... he mentioned to me that the one from the goats was making some troubles around the river."
+    a ""
+
+translate schinese bridgeroot_win_cb7f1ca7:
+
+    # a "Maybe, he made a good friend in the river here?"
+    a ""
+
+translate schinese bridgeroot_win_e416dd78:
+
+    # e "Well, at least this one didn't want to outright murder us, immediately."
+    e ""
+
+translate schinese bridgeroot_win_060fd6d8:
+
+    # "He gives you a few glances."
+    ""
+
+translate schinese bridgeroot_win_6d2f005d:
+
+    # a "Let's continue our work, good friend."
+    a ""
+
+translate schinese bridgeroot_win_04ab9d9d:
+
+    # "Amble grins, but you can tell there's still tint of sadness in his glistening eyes, even as he doesn't like to show this side of him."
+    ""
+
+translate schinese bridgeroot_lose_c75ee311:
+
+    # "You notice the bridgeroot staring at you for a moment, before sitting back on the pedestal again."
+    ""
+
+translate schinese bridgeroot_lose_3b690530:
+
+    # "Both you and Amble shakes your head as you sigh in exhaustion."
+    ""
+
+translate schinese bridgeroot_lose_2fa95d2c:
+
+    # a "Ahhh! What a bummer, it doesn't look like we're scaring him away."
+    a ""
+
+translate schinese bridgeroot_lose_7053e14e:
+
+    # e "W-what should we do?"
+    e ""
+
+translate schinese bridgeroot_lose_f78da463:
+
+    # a "I think we should just take some rest, and then come back and hope he's gone."
+    a ""
+
+translate schinese bridgeroot_lose_56a1c9cc:
+
+    # e "Shouldn't we try again?"
+    e ""
+
+translate schinese bridgeroot_lose_fb0eda12:
+
+    # a "I... I don't want to kill him, if he's being this stubborn, we'll soon left with no choice if we keep on fighting."
+    a ""
+
+translate schinese bridgeroot_lose_385a3a41:
+
+    # "Amble points at the bridgeroot, who's sitting on the bridge, watching water flow by."
+    ""
+
+translate schinese bridgeroot_lose_c4531b39:
+
+    # e "I suppopse you're right, Amble."
+    e ""
 
 translate schinese strings:
 

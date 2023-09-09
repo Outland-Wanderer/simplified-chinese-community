@@ -316,11 +316,11 @@
     old "Quick load."
     new ""
 
-    # renpy/common/00action_other.rpy:381
+    # renpy/common/00action_other.rpy:383
     old "Language [text]"
     new ""
 
-    # renpy/common/00action_other.rpy:722
+    # renpy/common/00action_other.rpy:724
     old "Open [text] directory."
     new ""
 
@@ -488,7 +488,7 @@
     old "Skip Mode"
     new ""
 
-    # renpy/common/00library.rpy:353
+    # renpy/common/00library.rpy:335
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
     new ""
 
@@ -496,211 +496,211 @@
     old "display"
     new ""
 
-    # renpy/common/00preferences.rpy:283
+    # renpy/common/00preferences.rpy:287
     old "transitions"
     new ""
 
-    # renpy/common/00preferences.rpy:292
+    # renpy/common/00preferences.rpy:296
     old "skip transitions"
     new ""
 
-    # renpy/common/00preferences.rpy:294
+    # renpy/common/00preferences.rpy:298
     old "video sprites"
     new ""
 
-    # renpy/common/00preferences.rpy:303
+    # renpy/common/00preferences.rpy:307
     old "show empty window"
     new ""
 
-    # renpy/common/00preferences.rpy:312
+    # renpy/common/00preferences.rpy:316
     old "text speed"
     new ""
 
-    # renpy/common/00preferences.rpy:320
+    # renpy/common/00preferences.rpy:324
     old "joystick"
     new ""
 
-    # renpy/common/00preferences.rpy:320
+    # renpy/common/00preferences.rpy:324
     old "joystick..."
     new ""
 
-    # renpy/common/00preferences.rpy:327
+    # renpy/common/00preferences.rpy:331
     old "skip"
     new ""
 
-    # renpy/common/00preferences.rpy:330
+    # renpy/common/00preferences.rpy:334
     old "skip unseen [text]"
     new ""
 
-    # renpy/common/00preferences.rpy:335
+    # renpy/common/00preferences.rpy:339
     old "skip unseen text"
     new ""
 
-    # renpy/common/00preferences.rpy:337
+    # renpy/common/00preferences.rpy:341
     old "begin skipping"
     new ""
 
-    # renpy/common/00preferences.rpy:341
+    # renpy/common/00preferences.rpy:345
     old "after choices"
     new ""
 
-    # renpy/common/00preferences.rpy:348
+    # renpy/common/00preferences.rpy:352
     old "skip after choices"
     new ""
 
-    # renpy/common/00preferences.rpy:350
+    # renpy/common/00preferences.rpy:354
     old "auto-forward time"
     new ""
 
-    # renpy/common/00preferences.rpy:364
+    # renpy/common/00preferences.rpy:368
     old "auto-forward"
     new ""
 
-    # renpy/common/00preferences.rpy:371
+    # renpy/common/00preferences.rpy:375
     old "Auto forward"
     new ""
 
-    # renpy/common/00preferences.rpy:374
+    # renpy/common/00preferences.rpy:378
     old "auto-forward after click"
     new ""
 
-    # renpy/common/00preferences.rpy:383
+    # renpy/common/00preferences.rpy:387
     old "automatic move"
     new ""
 
-    # renpy/common/00preferences.rpy:392
+    # renpy/common/00preferences.rpy:396
     old "wait for voice"
     new ""
 
-    # renpy/common/00preferences.rpy:401
+    # renpy/common/00preferences.rpy:405
     old "voice sustain"
     new ""
 
-    # renpy/common/00preferences.rpy:410
+    # renpy/common/00preferences.rpy:414
     old "self voicing"
     new ""
 
-    # renpy/common/00preferences.rpy:419
+    # renpy/common/00preferences.rpy:423
     old "self voicing volume drop"
     new ""
 
-    # renpy/common/00preferences.rpy:427
+    # renpy/common/00preferences.rpy:431
     old "clipboard voicing"
     new ""
 
-    # renpy/common/00preferences.rpy:436
+    # renpy/common/00preferences.rpy:440
     old "debug voicing"
     new ""
 
-    # renpy/common/00preferences.rpy:445
+    # renpy/common/00preferences.rpy:449
     old "emphasize audio"
     new ""
 
-    # renpy/common/00preferences.rpy:454
+    # renpy/common/00preferences.rpy:458
     old "rollback side"
     new ""
 
-    # renpy/common/00preferences.rpy:464
+    # renpy/common/00preferences.rpy:468
     old "gl powersave"
     new ""
 
-    # renpy/common/00preferences.rpy:470
+    # renpy/common/00preferences.rpy:474
     old "gl framerate"
     new ""
 
-    # renpy/common/00preferences.rpy:473
+    # renpy/common/00preferences.rpy:477
     old "gl tearing"
     new ""
 
-    # renpy/common/00preferences.rpy:476
+    # renpy/common/00preferences.rpy:480
     old "font transform"
     new ""
 
-    # renpy/common/00preferences.rpy:479
+    # renpy/common/00preferences.rpy:483
     old "font size"
     new ""
 
-    # renpy/common/00preferences.rpy:487
+    # renpy/common/00preferences.rpy:491
     old "font line spacing"
     new ""
 
-    # renpy/common/00preferences.rpy:495
+    # renpy/common/00preferences.rpy:499
     old "system cursor"
     new ""
 
-    # renpy/common/00preferences.rpy:504
+    # renpy/common/00preferences.rpy:508
     old "renderer menu"
     new ""
 
-    # renpy/common/00preferences.rpy:507
+    # renpy/common/00preferences.rpy:511
     old "accessibility menu"
     new ""
 
-    # renpy/common/00preferences.rpy:510
+    # renpy/common/00preferences.rpy:514
     old "high contrast text"
     new ""
 
-    # renpy/common/00preferences.rpy:519
+    # renpy/common/00preferences.rpy:523
     old "audio when minimized"
     new ""
 
-    # renpy/common/00preferences.rpy:528
+    # renpy/common/00preferences.rpy:532
     old "audio when unfocused"
     new ""
 
-    # renpy/common/00preferences.rpy:537
+    # renpy/common/00preferences.rpy:541
     old "web cache preload"
     new ""
 
-    # renpy/common/00preferences.rpy:552
+    # renpy/common/00preferences.rpy:556
     old "voice after game menu"
     new ""
 
-    # renpy/common/00preferences.rpy:571
+    # renpy/common/00preferences.rpy:575
     old "main volume"
     new ""
 
-    # renpy/common/00preferences.rpy:572
+    # renpy/common/00preferences.rpy:576
     old "music volume"
     new ""
 
-    # renpy/common/00preferences.rpy:573
+    # renpy/common/00preferences.rpy:577
     old "sound volume"
     new ""
 
-    # renpy/common/00preferences.rpy:574
+    # renpy/common/00preferences.rpy:578
     old "voice volume"
     new ""
 
-    # renpy/common/00preferences.rpy:575
+    # renpy/common/00preferences.rpy:579
     old "mute main"
     new ""
 
-    # renpy/common/00preferences.rpy:576
+    # renpy/common/00preferences.rpy:580
     old "mute music"
     new ""
 
-    # renpy/common/00preferences.rpy:577
+    # renpy/common/00preferences.rpy:581
     old "mute sound"
     new ""
 
-    # renpy/common/00preferences.rpy:578
+    # renpy/common/00preferences.rpy:582
     old "mute voice"
     new ""
 
-    # renpy/common/00preferences.rpy:579
+    # renpy/common/00preferences.rpy:583
     old "mute all"
     new ""
 
-    # renpy/common/00preferences.rpy:653
+    # renpy/common/00preferences.rpy:657
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
     new ""
 
-    # renpy/common/00preferences.rpy:655
+    # renpy/common/00preferences.rpy:659
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
     new ""
 
-    # renpy/common/00preferences.rpy:657
+    # renpy/common/00preferences.rpy:661
     old "Self-voicing enabled. Press 'v' to disable."
     new ""
 

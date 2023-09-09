@@ -5502,9 +5502,6 @@ translate schinese strings:
     old "Return and Report to Ole"
     new ""
 
-    old "Report to Ole"
-    new ""
-
     old "As my courier job, Ole told me about helping him get potion from an old friend. {p} I need to report back to Ole for the 30 strength potion."
     new ""
 

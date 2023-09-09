@@ -13,6 +13,236 @@ translate schinese Bandits_Hideout_Loop_70506bfb:
     # "You work on the tripwire, disabling it from making any loud noise."
     ""
 
+translate schinese Bandits_Hideout_Loop_40981576:
+
+    # bd "Fella, what cha doing here? Go guard outside or raid a house with the rest of us."
+    bd ""
+
+translate schinese Bandits_Hideout_Loop_743752d2:
+
+    # e "A-aye!"
+    e ""
+
+translate schinese Bandits_Hideout_Loop_c1c10e9b_1:
+
+    # bd "Ha, caught cha sneaking right here!"
+    bd ""
+
+translate schinese Bandits_Hideout_Loop_bf1e9928:
+
+    # "You take a look at the mirror, it is too foggy for you to see your own image."
+    ""
+
+translate schinese Bandits_Hideout_Loop_6250e604:
+
+    # "Searching around the dresser, you found a dusty piece of clothing."
+    ""
+
+translate schinese Bandits_Hideout_Loop_6a1c47a6:
+
+    # "It's only after patting away some of the dust, you discovered that it's a pair of colourful pants, something that a famous bard may wear..."
+    ""
+
+translate schinese Bandits_Hideout_Loop_6e2114f6:
+
+    # "Without a second thought, you put the piece of garment into your bag."
+    ""
+
+translate schinese Bandits_Hideout_Loop_9c1d415c:
+
+    # "Searching around the dresser leaves nothing important. Only a few rusty coins here and there."
+    ""
+
+translate schinese Bandits_Hideout_Loop_c7db288d:
+
+    # "With a few old notes, coming from the bandit's gibberish."
+    ""
+
+translate schinese Bandits_Hideout_Loop_4c2376e9:
+
+    # "You take a gander around the bookshelf, it's all old books with a wide variety of colours."
+    ""
+
+translate schinese Bandits_Hideout_Loop_cfd2ad74:
+
+    # "Doesn't seem it's been used at all."
+    ""
+
+translate schinese Bandits_Hideout_Loop_698e1e57:
+
+    # "You open the cabinet, it seems to be mostly empty. Some of them can't even be opened properly."
+    ""
+
+translate schinese Bandits_Hideout_Loop_5eac75cd:
+
+    # "There were a little food, some treasures and shiny loot scattered across the table."
+    ""
+
+translate schinese Bandits_Hideout_Loop_ce836cf2:
+
+    # "Books, and some pen and pencils can be seen on this table, but there's no chair. Do the bandits never sit down?"
+    ""
+
+translate schinese Bandits_Hideout_Loop_ac4dffcc:
+
+    # "You stare at the empty bed, it seems to be owned by a rather hefty man, with the way these frames bend down."
+    ""
+
+translate schinese Bandits_Hideout_Loop_d4c547b3:
+
+    # "The worst is, you can still smell the heavy sweaty scent, one that is rather fishy..."
+    ""
+
+translate schinese Bandits_Hideout_Loop_8048e087:
+
+    # "You see the bandit boss sitting on the bed casually, loudly munching on the apple or plum on his hand."
+    ""
+
+translate schinese Bandits_Hideout_Loop_ab47fb71:
+
+    # sbd "What are you looking at?"
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_7a43849b:
+
+    # sbd "Get back to work, or bring me my plums. We need some more gold otherwise."
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_ab47fb71_1:
+
+    # sbd "What are you looking at?"
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_209707be:
+
+    # e "Uh..."
+    e ""
+
+translate schinese Bandits_Hideout_Loop_308c1da6:
+
+    # sbd "Ugh, I remembered you, you should be out of training by now, where's your hood?"
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_494548f0:
+
+    # e "Hood? I didn't get a hood, boss."
+    e ""
+
+translate schinese Bandits_Hideout_Loop_641ffa31:
+
+    # sbd "Fine."
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_ca1000ec:
+
+    # sbd "Hey! Come here."
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_99e85742:
+
+    # bd "What's it, boss?"
+    bd ""
+
+translate schinese Bandits_Hideout_Loop_c403a4d0:
+
+    # sbd "How did the newcomer not get a hood?"
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_e15d1aeb:
+
+    # bd "Wait, did we not just banged his as-"
+    bd ""
+
+translate schinese Bandits_Hideout_Loop_f2084440:
+
+    # bd "I think we must have mistaken something..."
+    bd ""
+
+translate schinese Bandits_Hideout_Loop_15f4af97:
+
+    # sbd "What?"
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_f2de0556:
+
+    # bd "I'll get him a hood, sorry boss."
+    bd ""
+
+translate schinese Bandits_Hideout_Loop_bbff2cc1:
+
+    # bd "Uh newcomer? I've never seen him before"
+    bd ""
+
+translate schinese Bandits_Hideout_Loop_c2054931:
+
+    # sbd "I don't want to hear any excuses, now get him a hood."
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_965b39ae:
+
+    # bd "Y-yes, boss."
+    bd ""
+
+translate schinese Bandits_Hideout_Loop_5f4462c8:
+
+    # "The bandit quickly grabs a hood and brings it to you."
+    ""
+
+translate schinese Bandits_Hideout_Loop_b1b76aab:
+
+    # bd "Well, put it on if you don't want us to mistake you as an adventurer."
+    bd ""
+
+translate schinese Bandits_Hideout_Loop_ab47fb71_2:
+
+    # sbd "What are you looking at?"
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_7a43849b_1:
+
+    # sbd "Get back to work, or bring me my plums. We need some more gold otherwise."
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_ab47fb71_3:
+
+    # sbd "What are you looking at?"
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_2035b78b:
+
+    # sbd "And where's your hood? Didn't we just gave you one?"
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_4d69c576:
+
+    # sbd "Hey! Who the fuck are you?"
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_7ad5c623:
+
+    # e "I- I was just walking by..."
+    e ""
+
+translate schinese Bandits_Hideout_Loop_1383db54:
+
+    # sbd "How dare you walking up to me like nothing happened."
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_c33fa1ce:
+
+    # sbd "Ugh... pesky adventurer. My men will catch you one way or the other. Start running now."
+    sbd ""
+
+translate schinese Bandits_Hideout_Loop_f97ba34f:
+
+    # e "Are you... not going to do anything?"
+    e ""
+
+translate schinese Bandits_Hideout_Loop_98a56686:
+
+    # sbd "Trust me, you don't want me to be the one catching you, adventurer. Now let me finish my plum in peace."
+    sbd ""
+
 translate schinese Bandits_Hideout_Loop_2776c93e:
 
     # "You open the chest, it contains a few stolen goods, there's no prose inside, but you found an accounting journal..."

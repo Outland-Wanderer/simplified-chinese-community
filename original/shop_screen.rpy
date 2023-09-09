@@ -188,6 +188,31 @@ translate schinese Gwyddyon_Shopping_Loop_8fc4508f:
     # g "Horehound. they're useful in repelling a particular neighbour of our settlement. No, not Lusterfield. Should get yourself some from up there near the dimwits, or buy some for [mmm] gold."
     g ""
 
+translate schinese Gwyddyon_Shopping_Loop_5e675378:
+
+    # g "Oh, moonstone. These are quite the rare rocks. You'd think they would have gone depleted by now but some people keep discovering more moonstone veins around, just get some one [mmm] gold."
+    g ""
+
+translate schinese Gwyddyon_Shopping_Loop_0cb66860:
+
+    # g "This one? It's just gut strings covered in crystal shards- What? You don't know what guts are...? Ahem... well you don't need to know, nonetheless, these are [mmm] gold."
+    g ""
+
+translate schinese Gwyddyon_Shopping_Loop_d290fb34:
+
+    # g "Good fabric, very resilient, and believe this or not, the fabric is popular among the nobles and rich people in the high castles, yes it's real. We can sell this for [mmm] gold."
+    g ""
+
+translate schinese Gwyddyon_Shopping_Loop_a6f8384b:
+
+    # g "At first, people called its tree - Alder, but at some point I guess someone projected their personal experience into the name of a tree. What a tragedy... Heh, maybe you too would like some for [mmm] gold?"
+    g ""
+
+translate schinese Gwyddyon_Shopping_Loop_2c65202d:
+
+    # g "Years ago, vines were ratherly popular as decorations around one's house, but over time they've outgrown where they are supposed to live, and quickly became a danger to the house and people made a huge fuzz over that. Thoughts and Prayer, and [mmm] gold."
+    g ""
+
 translate schinese Gwyddyon_Shopping_Loop_63432e0c:
 
     # g "You want this [ttt!t]? I can do [mmm] gold."
