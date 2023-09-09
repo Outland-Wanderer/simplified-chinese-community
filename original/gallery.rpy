@@ -105,3 +105,6 @@
     old "{color=#000}Losing to Malignant/Hefty Slime with 70 Purity{/color}"
     new ""
 
+    old "{color=#000}Captured by the werewolves after Tetto Escapes{/color}"
+    new ""
+

@@ -21,6 +21,27 @@
     old "Sun"
     new ""
 
+    old "Monday"
+    new ""
+
+    old "Tuesday"
+    new ""
+
+    old "Wednesday"
+    new ""
+
+    old "Thursday"
+    new ""
+
+    old "Friday"
+    new ""
+
+    old "Saturday"
+    new ""
+
+    old "Sunday"
+    new ""
+
     old "Self Heal"
     new ""
 
@@ -462,6 +483,30 @@
     old "A collar made by a farmer dog who specialises in growing plants and boners, wearing the collar renders the wearer property of the farmer.{p}Defense: +9 {p} TEN:+1 {p}Max Lust: +15 {p} Flirt: -2"
     new ""
 
+    old "Bandit Hood"
+    new ""
+
+    old "A leather hood made from rough stitches, it is the plain bandit's most symbolic headgear, both to obfuscate their identity, and to recognise amongst themselves."
+    new ""
+
+    old "Songweaver Hat"
+    new ""
+
+    old "A stylistic green hat of a renowned bard, decorated with two feathers from a legendary creature roaming on the plains."
+    new ""
+
+    old "Songweaver Cloak"
+    new ""
+
+    old "An eloquent garment of a renowned bard, its silk fabric soaked with the alluring voices of the previous owner."
+    new ""
+
+    old "Songweaver Breeches"
+    new ""
+
+    old "An impassionate leggings of a renowned bard, the stretchy and tight materials wraps around the wearer perfectly to display his charming physique."
+    new ""
+
     old "{i}Botanical Journal of Plants In and Around the Dark Forest: Species, Uses, and Dangers{/i}"
     new ""
 
@@ -801,6 +846,60 @@
     old "A tall and thin leather strips, grouped together by a frisky hand, it's one of the components of many leather-made items."
     new ""
 
+    old "Limestone"
+    new ""
+
+    old "A yellowish and versatile stone hewn from ancient quarries. The lime is known as a cornerstone of architectural marvels, amplifying the arcane energy woven within the building blocks."
+    new ""
+
+    old "Cement"
+    new ""
+
+    old "Not to be confused with another liquid, it is a powerful substance enchanted with arcane magic that is capable of binding together even the most repelling materials, when used in construction, cement bestows architectural structure with extraordinary stability and its ability to rsist the ravages of time."
+    new ""
+
+    old "Masonry Mix"
+    new ""
+
+    old "Known colloquially as mortar, the substance used in most buildings in Mokken, is a blend of natural elements and delicate magical properties that ensures structural integrity."
+    new ""
+
+    old "Elderwood"
+    new ""
+
+    old "Old birch wood that grows around the northern region of the continent, its center is dense and hard which is often utilized in some furniture and building materials to provide extra stability."
+    new ""
+
+    old "A tergid gut string covered in crystals that often enhances the magical capacity of the product, its vibration sometimes produces a harmonic effect to the listener."
+    new ""
+
+    old "Vine"
+    new ""
+
+    old "A vine that is sometimes used as a climbing tool, it is most commonly seen in taller trees near the jungle region, their rapid growth speed and abundance may call for a careful extermination in the region once in a while"
+    new ""
+
+    old "Moonstone"
+    new ""
+
+    old "A kind of stone most often recognised as its patches of shiny blue around the stone, which is believed to be caused by a certain curse cast upon nearby, amongst some local tribes."
+    new ""
+
+    old "A combination of high quality fabrics with natural fibers that are enchanted together, meticulously woven into a soft fabric with resilience, smooth texture, and resistance to humidity. Its strings are often used in different instruments."
+    new ""
+
+    old "Resonator Gem"
+    new ""
+
+    old "A small crystal embedded within an intricate structure of metal tube, the vibration of this device can soften and adjust all sounds coming from within the tube."
+    new ""
+
+    old "Harp"
+    new ""
+
+    old "A large harp consisted of high quality wood and strings, it produces a delicate and softer sound that it sometimes can be confused with the voice of a deity."
+    new ""
+
     old "Slime"
     new ""
 
@@ -847,6 +946,9 @@
     new ""
 
     old "Shark Bandit"
+    new ""
+
+    old "Bridgeroot"
     new ""
 
     old "Lusterfield"
@@ -1009,6 +1111,12 @@
     new ""
 
     old "A fortress hidden by vines and guarded by ruthless thieves. A treacherous maze of traps and dangers awaits those who dare to enter, but for those who do, the promise of wealth and lawless freedom beckons."
+    new ""
+
+    old "Riverside Crossing"
+    new ""
+
+    old "An abandoned bridge that has been destroyed by the Goat Tribe as they waged war against Lusterfield, it was the main transport path as countless carriages and wagons strolled across this bridge daily."
     new ""
 
     old "Ole's Postal Training"
@@ -1228,6 +1336,24 @@
     new ""
 
     old "Uffe asks me to get into the hiding place of a pair of werewolves who planned to escape the forest. I need to make a choice."
+    new ""
+
+    old "Reconciliation"
+    new ""
+
+    old "Rahim told me that Lusterfield will hold a vote to decide of they will form an accord with the Goat Tribe. The voting ends in 5 days."
+    new ""
+
+    old "The Missing Link"
+    new ""
+
+    old "To help Amble make his decision to vote, he suggested that we should rebuild the broken bridge between the two villages."
+    new ""
+
+    old "Strings Attached"
+    new ""
+
+    old "To help Ole make his decision to vote, he suggested that we should strike a better trade deal with Gwyddyon through getting to know a secret supplier."
     new ""
 
     old "Potion Order"

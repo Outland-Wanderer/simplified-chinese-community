@@ -1553,6 +1553,841 @@ translate schinese Gwyddyon_Research_Quest_89b7a043:
     # g "That's the spirit, you need to forget they have ever existed."
     g ""
 
+translate schinese Gwyddyon_Voting_Trade_76a014e4:
+
+    # e "Gwyd? Would you mind if I ask some questions?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_71f3cbce:
+
+    # g "Would you mind if I say no? I'm onto something much more important here."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_71ea3ed6:
+
+    # e "Uh... yes."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_67b46cf1:
+
+    # g "Hmmph, well wanderer. Since I care too much about a courier's opinion of me, as you may have believed. You may ask away."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_de97826e:
+
+    # "Gwyddyon continues glancing into his lens, not even trying to acknowledge your presence."
+    ""
+
+translate schinese Gwyddyon_Voting_Trade_9f937542:
+
+    # e "Uh..." nointeract
+    e "" nointeract
+
+translate schinese Gwyddyon_Voting_Trade_419db852:
+
+    # e "So! Where did you find these crystals?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_30890771:
+
+    # "You point at the one Gwyddyon is holding."
+    ""
+
+translate schinese Gwyddyon_Voting_Trade_99bc04e3:
+
+    # g "Why... why do you need to know?"
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_44c9ee7f:
+
+    # e "Uh- I was just making up conversations, Gwyd. And it's never you who start one."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_e5475fbd:
+
+    # g "Maybe because I'm not as interested in you than you'd think. Also, that's a fairly weird thing to ask, [e]."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_83991324:
+
+    # g "Are you trying to open another shop?"
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_2da20167:
+
+    # e "No! Of course no."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_839b8078:
+
+    # "Gwyddyon squints his eyes, his brows still remain furrowed as he resumes his inspections on the crystals."
+    ""
+
+translate schinese Gwyddyon_Voting_Trade_c38faa6d:
+
+    # e "Lovely weather today, isn't it?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_e6350b89:
+
+    # "Gwyddyon continues ignoring you, doesn't even sparing another glance."
+    ""
+
+translate schinese Gwyddyon_Voting_Trade_f48a8199:
+
+    # e "Gwyd!"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_c2cffbd7:
+
+    # g "Do I have to engage in meaningless small talks with you right now?"
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_a085433e:
+
+    # e "You said I can ask any questions."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_a3d6d33c:
+
+    # g "Well, it doesn't mean ALL questions, you dimwit."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_02b63c89:
+
+    # e "So, what are those rocks in that display?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_67c7e88e:
+
+    # g "Uh, they're just decorative rocks, nothing magical about those."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_f4e82a49:
+
+    # e "But these look kinda pretty, no?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_211ae7e4:
+
+    # g "Yeah, I told that lion from the other shop to collect them for me so he can finally leave me alone."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_f843df74:
+
+    # g "Little did I know, he spent days and weeks trying to collect useless rocks, soon he started giving me different shapes of rocks as some weird gifts."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_4daada5b:
+
+    # g "And I considered that... a toll on my mental capacity."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_a600bf19:
+
+    # e "Cock or Butt?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_08a79ca8:
+
+    # g "What?"
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_51582d08:
+
+    # e "well, which side are you on?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_ecb97364:
+
+    # "Gwyddyon furrows his brows and stares at you with a weird look."
+    ""
+
+translate schinese Gwyddyon_Voting_Trade_7e0b0aa2:
+
+    # g "I'm not answering that."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_70c229e5:
+
+    # e "So, it's butt, right?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_a89f3f3b:
+
+    # g "Alright now can you stop this circus for once? I thought we're here for civil, enlightening discussions."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_599cda32:
+
+    # e "That question was very enlightening."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_114a69ae:
+
+    # e "So, how many customers are interested in these crystals?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_24a6f3ec:
+
+    # g "Uh, are you Furkan? Because you ask the same nonsense as that dimwit of a leader does."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_dedc59b1:
+
+    # e "Well, I suppose the number is low."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_63a82c81:
+
+    # g "Wanderer, there's a limit to my patience here. If you're not here for my goods, the door's right there and you're welcomed to pass through, one way trip."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_ef5775d5:
+
+    # "Just as Gwyddyon turn around for another procedures to his job, you shout to get his attention quickly."
+    ""
+
+translate schinese Gwyddyon_Voting_Trade_1281e655:
+
+    # e "Wait..." nointeract
+    e "" nointeract
+
+translate schinese Gwyddyon_Voting_Trade_0a37c41b:
+
+    # e "So, I see there were some gemstones and crystals you have there on the shelves. Did you make them all by yourself?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_b30d3fd6:
+
+    # g "Yes, I did. Where else do you think they come from?"
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_d7a53af8:
+
+    # e "I don't know, I thought you were working on a magic shop, not a mineral reserve."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_7739556f:
+
+    # g "Huh, well. Maybe you're right, those are from someone else who lives far away from here, admittedly a little more fastidious than Haskell, or, a little more."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_1e032577:
+
+    # g "But, there's one thing about him that's been generally troublesome."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_79bc9ac6:
+
+    # e "What's it?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_f47dff3f:
+
+    # g "Ugh, don't ask. I'm working on it."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_fd417f00:
+
+    # g "Still, a crystal is useless unless you understand how to harness its power. I've raised his stones' value almost nine-fold selling them here. How can he not appreciate my work."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_317e4fc9:
+
+    # e "How did you get your reputation as the shopkeeper of the goats?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_11d3f9b5:
+
+    # g "Don't know much about reputation, but this? This place is the heart of the tribe. A central hub for every goats to trade and talk."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_63103a35:
+
+    # g "How would you associate goats? The magic. And what do you think of when someone talks about magic?" nointeract
+    g "" nointeract
+
+translate schinese Gwyddyon_Voting_Trade_410d0d5d:
+
+    # e "Well, the goats?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_ca953b79:
+
+    # g "No! You dimwit of a dimwit. That doesn't even make any sense, are you going to think about magic next? How creative."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_4b8d189e:
+
+    # e "Uh, I thought it was a question...?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_a4d78a6f:
+
+    # g "Yeah, perhaps I expected too much of you. The answer is right here, the Ardent Cauldron."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_d5a0260e:
+
+    # e "Ah! Ardent Cauldron, of course!"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_c5eecfef:
+
+    # g "Needless to say, you are undeniably correct."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_209707be:
+
+    # e "Uh..."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_c58ddeaf:
+
+    # g "Uh what?"
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_03ef5385:
+
+    # "You stumbles on just a little silence, before Gwyddyon pouts."
+    ""
+
+translate schinese Gwyddyon_Voting_Trade_a4d78a6f_1:
+
+    # g "Yeah, perhaps I expected too much of you. The answer is right here, the Ardent Cauldron."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_1131b813:
+
+    # g "I've spent dozens of years, building up this shop step by step. Moreso invested my whole life's saving into promoting our crystals."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_46bbf171:
+
+    # g "To be recognised by everyone, of course the placement of the shop is important. But more importantly we sell only carefully selected items right here. No more subpar potions or common rocks you pick up by the road."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_cf829725:
+
+    # g "We are here to sell something magical. Something that makes you feel luxurious, and of course, the price is one of the experience."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_e24efa1c:
+
+    # e "Wait, you mean you set the price this high, just because people liked... expensive things?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_7375aed9:
+
+    # g "It'd be a lapse in judgement to say our everyday customers can discern between high grade crystals and the lower ones, wouldn't you say? We need a high profit margin here to maintain a sustainable line-up of our daily magical necessities."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_6f274d54:
+
+    # g "Besides, doesn't a cheap item, makes you feel cheap? Doesn't it feel too effortless?"
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_f3ce4098:
+
+    # e "I- but these are people's necessities, right?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_0c098ccd:
+
+    # g "Don't you worry, wanderer. They can absolutely pay for that. Our customers are wealthy bunch who'd pay to maintain their flamboyant magical lifestyle. The only concern is our chief unfortunately had taken that away, along with many other things."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_6415575a:
+
+    # e "Alright, but I'm still baffled you said that so nonchalantly."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_11a28cd0:
+
+    # e "So, Gwyddyon, why do you seem to hold a particular grudge against Furkan?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_75d7c370:
+
+    # g "What about my story that you are still interested in? Thought we were over that, by the first day you enter the shop."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_e360f8b6:
+
+    # e "Perhaps I was a little fascinated by your obsession of, slandering your own chief."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_5fa7b162:
+
+    # g "Well, speaking of fascination, I'm just a little more fascinated by your insatiable lust for knowledge, isn't the lusterfolks enough of an experience for you?"
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_5d25027a:
+
+    # e "No..."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_80a4f57b:
+
+    # "You shoot him with a captious stare, which surprisingly tamed his arrogance, to some extent."
+    ""
+
+translate schinese Gwyddyon_Voting_Trade_3aa41331:
+
+    # g "Ahem, I'd like to keep my secret for myself. But mayhaps that obsession you mentioned, tipped over my rational edge, so I can explain away."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_936f0b8a:
+
+    # g "You know what happened to Tevfik, his father. It was pure tragedy."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_37fb6bb1:
+
+    # g "I am but an outsider to their internal affairs, but when it affected my livelihood directly, how could I not speak out?"
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_32b75820:
+
+    # e "Why would they affect your livelihood?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_3a9ffcde:
+
+    # g "Once in a while, his mate brings his guards here to check out my shop, scoops around like the shop's theirs."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_6bac05a2:
+
+    # g "And of course, that always spooks my customers away like flies they go. And it worked every time."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_11af6a8a:
+
+    # g "In what world does that make sense, that they're driving their own tribe's main business away, I truly have no idea." nointeract
+    g "" nointeract
+
+translate schinese Gwyddyon_Voting_Trade_1158de6f:
+
+    # e "Well, maybe he believes you're hiding something? You know, especially after the fact that, I don't know. Chime stayed with you for a while and then magically disappeared?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_e9ce5b1a:
+
+    # g "What are you trying to tell me, wanderer?"
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_653480e8:
+
+    # e "Nothing much."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_21855058:
+
+    # g "Then I'm just gonna pretend I didn't hear any of those."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_69a1aaa0:
+
+    # e "I mean, he's just cautious, after everything that went down, how can you expect him not to do so?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_1c169fcc:
+
+    # g "I reckon, if you can justify his cautiousness, then it's only fair you justify mine."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_aed8d284:
+
+    # g "Plus, it's my shop that they're ruining."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_0b552bf1:
+
+    # e "Would you share any secrets about the shop that you've been holding off?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_21e9d4a9:
+
+    # g "No, I would not."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_c926325e:
+
+    # e "Uh... that's it?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_6d819071:
+
+    # g "Any more of those interesting questions? Get it out of your system while I'm still on the mood."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_c76df3c5:
+
+    # e "Well..." nointeract
+    e "" nointeract
+
+translate schinese Gwyddyon_Voting_Trade_1936d938:
+
+    # e "So, any new stuff that I can probably take a peek?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_d1a1ff8e:
+
+    # g "W-what's this new stuff matter you're talking about?"
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_5a864afa:
+
+    # e "Uh... you know, new invention, cool gadgets. Any insider news for a potential buyer?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_64d63ef1:
+
+    # g "I don't think you're buying anything worthwhile for me, or I'm not selling them to you."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_f7390908:
+
+    # e "Why not? I am a fan of your shop!"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_7273af4c:
+
+    # g "Unfortunately I'm not a fan of the conversation we've had. So no, wanderer."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_7e0fc74f:
+
+    # g "Honestly, I don't see you as a potential buyer or investor type, wanderer. But, there is one thing I was working on."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_3a84d4f1:
+
+    # e "Ooooh! What's it?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_d8f9a6ba:
+
+    # g "Hmmph... actually it's not for sale. I just had to work on a toy to impress my mineral supplier. He's a finicky type."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_29ba6733:
+
+    # e "A toy?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_1084d59e:
+
+    # g "Ugh, yes. He's not the typical reasonable businessman who'd like to talk pragmatic, no time for that. He wanted something called... a harp, just to extend our agreed-upon contract."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_ab42c2b4:
+
+    # g "And he was not making a joke, nor exaggerating. I had known him since I first got into business, and I know he'd still bail on my business... just because I don't get his requirements right."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_d0cba7d0:
+
+    # "Gwyddyon places his hand over his face, sighing in frustration."
+    ""
+
+translate schinese Gwyddyon_Voting_Trade_cfa31999:
+
+    # g "Call it, an artist's pertinacity."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_3d5432cc:
+
+    # e "What does that word mean?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_1e51cdf2:
+
+    # g "A grudge, stubbornness, or unwillingness to listen to anyone at all. This is a magic shop afterall, not a music shop, how would I know how to make a harp?"
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_ba3d7971:
+
+    # g "Not a thoughtful comparison, but he's like Haskell except he quits on people too easily. Even though I had helped him by selling his crystals, which majorly contributed to his current wealth."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_25b0ac92:
+
+    # g "But, well. Some people don't ever listen."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_126fb756:
+
+    # "Gwyddyon sighs, suddenly turns to you and shakes his head."
+    ""
+
+translate schinese Gwyddyon_Voting_Trade_f8de28e0:
+
+    # g "What am I talking about! Nonsense, no one should know about this, wanderer."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_2fd60add:
+
+    # e "A-alright, you'll have my words."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_28ac5570:
+
+    # g "I mean no one."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_4fa3456f:
+
+    # "He furrows his brows while looking at you up and down for a few seconds, only turning onto his other work after you make out a wide awkward smile."
+    ""
+
+translate schinese Gwyddyon_Voting_Trade_0b552bf1_1:
+
+    # e "Would you share any secrets about the shop that you've been holding off?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_7e03e687:
+
+    # g "Yeah, been keeping my secret for years."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_02e2dc09:
+
+    # g "Actually, I lied when I say you are welcomed in my shop any time."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_a600bf19_1:
+
+    # e "Cock or Butt?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_3724a612:
+
+    # g "Are you seriously asking this one again? Do you seriously think I forgot the last time you asked and this time I will magically answer something."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_f4d891a4:
+
+    # g "Or do you think I use my balls to think like those other dimwits walking around half-naked for some reason?"
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_6dad4690:
+
+    # e "Uh, neither? Just asking for your opinion."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_a14ffdd9:
+
+    # g "You know what? You're out now."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_08a79ca8_1:
+
+    # g "What?"
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_51582d08_1:
+
+    # e "well, which side are you on?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_ecb97364_1:
+
+    # "Gwyddyon furrows his brows and stares at you with a weird look."
+    ""
+
+translate schinese Gwyddyon_Voting_Trade_7e0b0aa2_1:
+
+    # g "I'm not answering that."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_70c229e5_1:
+
+    # e "So, it's butt, right?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_a89f3f3b_1:
+
+    # g "Alright now can you stop this circus for once? I thought we're here for civil, enlightening discussions."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_599cda32_1:
+
+    # e "That question was very enlightening."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_6848bdf1:
+
+    # e "So, how did losing the primordial runes affect your shop?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_5b151175:
+
+    # g "Hugely, there were a lot more folks interested in our potions before the whole debacle. Not anymore, now people are looking into potions, and moreso ranged weapons."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_865b0fb0:
+
+    # g "But I tell you, crystals. They'll replace whatever the runes had in the people's heart. This situation, it's only temporary. Sooner or later, everything will be back to normal."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_9d2f2d12:
+
+    # e "Alright."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_dad1e393:
+
+    # g "Okay then, that marks the end of your interrogation time."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_d3c8aa4c:
+
+    # e "W-wait, I still have a few more quest-"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_e29d6d36:
+
+    # g "Nope, not interested in answering, now if you're interested in my products, feel free to buy them."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_dbcb2a6a:
+
+    # e "Can I ask some more questions if I buy some products?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_34545d1a:
+
+    # g "No, obviously."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_34dea77f:
+
+    # e "Ugh, alright. Just like what you say - you're missing out on a valuable business opportunity."
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_16ef05f6:
+
+    # g "And just like what you say - uh nuh."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_e0a30c47:
+
+    # e "I didn't say that?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Trade_4a7a1954:
+
+    # g "Yes you did, now stop bothering me."
+    g ""
+
+translate schinese Gwyddyon_Voting_Trade_d2ca257b:
+
+    # "You sigh, Gwyddyon lets out a genuine chuckle before quickly returning to his work as he continues pretending you don't exist."
+    ""
+
+translate schinese Gwyddyon_Voting_Fail_adf1f0ed:
+
+    # e "W-what? What did I do?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Fail_af8eb9fe:
+
+    # g "It's too obvious how you're probing information from my shop. More obvious that you're fidgeting non-stop here."
+    g ""
+
+translate schinese Gwyddyon_Voting_Fail_489caa95:
+
+    # g "Do you think I'm foolish enough to fall for that?"
+    g ""
+
+translate schinese Gwyddyon_Voting_Fail_2c38e4db:
+
+    # e "Why would I do that?"
+    e ""
+
+translate schinese Gwyddyon_Voting_Fail_749fe75a:
+
+    # g "Ask that yourself, and I'm not interested in knowing, thank you for the offer though."
+    g ""
+
+translate schinese Gwyddyon_Voting_Fail_29d0286b:
+
+    # g "Now, let's get you out of here."
+    g ""
+
+translate schinese Gwyddyon_Voting_Fail_44464e86:
+
+    # "Gwyddyon puts down his crystals as he walks out of his counter. You're looking at him in both confusion and shock."
+    ""
+
+translate schinese Gwyddyon_Voting_Fail_0e29da40:
+
+    # g "Excuse me."
+    g ""
+
+translate schinese Gwyddyon_Voting_Fail_5fc249c7:
+
+    # "He holds onto your waist like it's butter, it's impossible to imagine how delicate his touch is, despite him essentially throwing you out of his shop."
+    ""
+
+translate schinese Gwyddyon_Voting_Fail_6f15d0cc:
+
+    # "The shopkeeper pushes you further as you struggle against his grasp."
+    ""
+
+translate schinese Gwyddyon_Voting_Fail_f574c974:
+
+    # e "Hey! Get off me, Gwyd."
+    e ""
+
+translate schinese Gwyddyon_Voting_Fail_33d19294:
+
+    # "He doesn't respond. Only grunts as he forcibly wraps his arms around you, raising you up so high up that you feet begin to leave the ground."
+    ""
+
+translate schinese Gwyddyon_Voting_Fail_af45eeda:
+
+    # "You yelp, stomping against his shoulder as he carries you over, his hands moves to your ass naturally for support, making you squirm loudly."
+    ""
+
+translate schinese Gwyddyon_Voting_Fail_edf61257:
+
+    # e "Can you put me down? I can walk over there myself actually."
+    e ""
+
+translate schinese Gwyddyon_Voting_Fail_2433372b:
+
+    # g "Unfortunately, I don't believe you have that capability on your own, and intention."
+    g ""
+
+translate schinese Gwyddyon_Voting_Fail_62162872:
+
+    # "It feels like a daily chore to Gwyddyon, he doesn't even react when your fist stomps his back, he is just moving you around like a heavy crate."
+    ""
+
+translate schinese Gwyddyon_Voting_Fail_710abec8:
+
+    # "You're soon standing on the ground outside as he puts you down, patting on his shoulder to tidy up his attires."
+    ""
+
+translate schinese Gwyddyon_Voting_Fail_5e1a1e77:
+
+    # g "I should've written a sign that says, 'information thief is not welcomed here'."
+    g ""
+
+translate schinese Gwyddyon_Voting_Fail_4e722fb0:
+
+    # e "Okay, I get it, Gwyd. You don't have to hammer it in on my face over and over again."
+    e ""
+
+translate schinese Gwyddyon_Voting_Fail_e95ada7e:
+
+    # "He chides, before returning to his shop, he didn't say you can't enter his shop, but it's pretty obvious that he's onto your plan now."
+    ""
+
 translate schinese strings:
 
     old "Why did you ask the reason I am still here?"
@@ -1571,6 +2406,9 @@ translate schinese strings:
     new ""
 
     old "Report about the mining task"
+    new ""
+
+    old "Inquire about his business for Ole"
     new ""
 
     old "Ask about the history of his shop"
@@ -1598,5 +2436,56 @@ translate schinese strings:
     new ""
 
     old "I do not trust Furkan"
+    new ""
+
+    old "Where did you find the crystals?"
+    new ""
+
+    old "Lovely weather today, isn't it?"
+    new ""
+
+    old "What are the rocks on the counter?"
+    new ""
+
+    old "Cock or Butt?"
+    new ""
+
+    old "How many customers will buy these crystals from you?"
+    new ""
+
+    old "Where do your top products come from?"
+    new ""
+
+    old "How did your shop earn such a reputation?"
+    new ""
+
+    old "Are there any particular disdain you had with Furkan?"
+    new ""
+
+    old "Any secrets about the shop that you've been holding off?"
+    new ""
+
+    old "The goats?"
+    new ""
+
+    old "Ardent Cauldron?"
+    new ""
+
+    old "Uh..."
+    new ""
+
+    old "Maybe you're hiding something?"
+    new ""
+
+    old "Furkan's just overly cautious"
+    new ""
+
+    old "Are there any new products for sales?"
+    new ""
+
+    old "How did losing the primordial runes affect your shop?"
+    new ""
+
+    old "Report to Ole"
     new ""
 

@@ -693,6 +693,26 @@ translate schinese mossy_freshwater_loop_f037af02:
     # "...You put the notes away, it seems you've learnt how to make a trowel."
     ""
 
+translate schinese mossy_freshwater_loop_7ab5ba61:
+
+    # "After walking along the river for a while, you decide to walk downstream along the river."
+    ""
+
+translate schinese mossy_freshwater_loop_4d13f8eb:
+
+    # "It takes a long time for you to explore the forest as the river water splashes against your legs."
+    ""
+
+translate schinese mossy_freshwater_loop_2d3f5440:
+
+    # "And soon, you notice an abandoned bridge that marks the abrupt end of the river, if not counting all the flood surrounding this location."
+    ""
+
+translate schinese mossy_freshwater_loop_8d02a7d8:
+
+    # "You take out your map and check your surrounding, this place must be the riverside crossing."
+    ""
+
 translate schinese mossy_freshwater_loop_e91ba75d:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."

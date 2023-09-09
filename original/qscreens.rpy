@@ -9,13 +9,19 @@
     old "Completed Quests:"
     new ""
 
-    old "{size=20}{p}{p} ==================== {p}{p}{/size=20} {size=32}Progress{/size=32}:"
+    old " Progress:"
     new ""
 
     old "Location: [selected_quest.location!t]"
     new ""
 
     old "Quest Giver: [selected_quest.questgiver!t]"
+    new ""
+
+    old "Start Date: Day [selected_quest.start_date]"
+    new ""
+
+    old "Completion Date: Day [selected_quest.completed_date]"
     new ""
 
     old "Tasks"
@@ -25,6 +31,9 @@
     new ""
 
     old "Completed Tasks:"
+    new ""
+
+    old "{size=20}{p}{p} ==================== {p}{p}{/size=20} {size=32}Progress{/size=32}:"
     new ""
 
     old "Location: [selected_task.location!t]"

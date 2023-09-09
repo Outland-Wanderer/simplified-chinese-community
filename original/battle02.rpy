@@ -88,11 +88,6 @@ translate schinese Ability_CoreStrike_905c13df:
     # "You strike the core of [target.name], causing [target.name] to fall over. You dealt [player_damage] and stuns [target.name] for [stunned.max_rounds] round."
     ""
 
-translate schinese Ability_CoreStrike_5051dd0a:
-
-    # "You healed [healing] HP from Core Strike."
-    ""
-
 translate schinese Ability_Resolution_8f64a376:
 
     # "You used Resolution, and reduced your current lust by [reduced_lust]."
@@ -136,11 +131,6 @@ translate schinese Battle_End_Check_b20e7375:
 translate schinese Battle_End_Check_0575b416:
 
     # "[enemy2.name]'s health decreases by [wounded_damage] from the bleeding."
-    ""
-
-translate schinese Battle_Mid_Check_5eb35099:
-
-    # "You healed [healing] HP from your attack."
     ""
 
 translate schinese Battle_Kari_1f398792:

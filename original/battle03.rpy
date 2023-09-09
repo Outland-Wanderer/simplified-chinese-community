@@ -1,4 +1,34 @@
-﻿translate schinese battle_attack_script_d8a1e631:
+﻿translate schinese battle_attack_script_a0b503c2:
+
+    # "Amble strikes his hammer against the fluffy leaves, but it bounces off the bridgeroot slickly."
+    ""
+
+translate schinese battle_attack_script_0becd5f1:
+
+    # "You slash your [pc.weapon.name!t] at the [target.name!t], but it strikes into nothing but a few stranded leaves and moss."
+    ""
+
+translate schinese battle_attack_script_86e89ad0:
+
+    # "You slam your [pc.weapon.name!t] at the [target.name!t], but it strikes into nothing but a few stranded leaves and moss."
+    ""
+
+translate schinese battle_attack_script_046a3c9e:
+
+    # "You aim and shoot your [pc.weapon.name!t] at the [target.name!t], but it strikes into nothing but a few stranded leaves and moss."
+    ""
+
+translate schinese battle_attack_script_70f3831c:
+
+    # "You hold your fist, with all your might you throw a punch at the [target.name!t], but it strikes into nothing but a few stranded leaves and moss."
+    ""
+
+translate schinese battle_attack_script_e1ac7fa2:
+
+    # "The [target.name!t] stands there, still emotionless, he doesn't seem to notice your feeble attack, not even the slightest."
+    ""
+
+translate schinese battle_attack_script_d8a1e631:
 
     # "You slash your [pc.weapon.name!t] at the arms of the [target.name!t], it slides right off his fluffy arm, while you look back in disbelief."
     ""
@@ -68,6 +98,36 @@ translate schinese battle_attack_script_0cbff535:
     # "The [target.name!t] laughs loudly while crouching on the grass, it almost seems he's scoffing at your attempt of attack."
     ""
 
+translate schinese battle_attack_script_6430a4d5:
+
+    # "Amble strikes his hammer against the fluffy leaves of the bridgeroot, it hits his core very effectively as the green monster staggers a bit backwards, you can clearly see the crater his hammer creates there."
+    ""
+
+translate schinese battle_attack_script_7bbbc409:
+
+    # "You slash your [pc.weapon.name!t] at the [target.name!t], as your blade grazes through the leaves and moss on [target.name!t], and a chunk of leaves falls off of him, casually."
+    ""
+
+translate schinese battle_attack_script_c0e19e1a:
+
+    # "You slam your [pc.weapon.name!t] at the [target.name!t], as it strikes through the leaves and moss on [target.name!t], and a chunk of leaves falls off of him, casually."
+    ""
+
+translate schinese battle_attack_script_2c722d6b:
+
+    # "You aim and shoot your [pc.weapon.name!t] at the [target.name!t], as your arrow grazes through the leaves and moss on [target.name!t], and a chunk of leaves falls off of him, casually."
+    ""
+
+translate schinese battle_attack_script_3aa0091a:
+
+    # "You hold your fist, with all your might you throw a punch at the [target.name!t], as your blade grazes through the leaves and moss on [target.name!t], and a chunk of leaves falls off of him, casually."
+    ""
+
+translate schinese battle_attack_script_3bb039f4:
+
+    # "The [target.name!t] grunts loudly, seems more than mildly annoyed now that you're hurting him."
+    ""
+
 translate schinese battle_attack_script_12680f06:
 
     # "You slash your [pc.weapon.name!t] at the [target.name!t], your blade grazes through the [target.name!t]'s stomach. Drops of blood drips through his body."
@@ -113,9 +173,9 @@ translate schinese battle_attack_script_24bcc736:
     # "His health decreases by [oa[4]] HP."
     ""
 
-translate schinese battle_attack_script_dc0c57e6:
+translate schinese battle_attack_script_6b4f73d0:
 
-    # "You've critically hit the [target.name!t], dealing [oa[4]] HP!"
+    # "Critical hit! [target.name!t]'s health now decreases by [oa[4]] HP!"
     ""
 
 translate schinese battle_attack_script_cf32bdd4:
@@ -206,6 +266,11 @@ translate schinese battle_flirt_script_38976fda:
 translate schinese battle_flirt_script_cba7f25f:
 
     # "You continue your act for about a minute, but the [target.name!t] just stares at you in confusion."
+    ""
+
+translate schinese battle_flirt_script_c632bd62:
+
+    # "Even if it's just a little, you notice a mild vibration in the bridgeroot's moss, it seems to react easily. His lust is increased by [player_flirt]."
     ""
 
 translate schinese battle_flirt_script_37523263:
@@ -343,6 +408,11 @@ translate schinese battle_escape_surrender_script_ec66902a:
     # "Maybe surrendering yourself to the [target.name!t] is the best choice."
     ""
 
+translate schinese battle_escape_surrender_script_c69bc257:
+
+    # a "Are we giving up?"
+    a ""
+
 translate schinese battle_escape_surrender_script_6ef9c502:
 
     # "The beast man jeers at your submission, and he paces around you, poking you to see if you'd still react."
@@ -351,6 +421,26 @@ translate schinese battle_escape_surrender_script_6ef9c502:
 translate schinese battle_escape_surrender_script_b2a8349a:
 
     # "You slowly close your eyes and wait for him to decide your fate."
+    ""
+
+translate schinese battle_ally_script_2fe31d4b:
+
+    # "Amble strikes the core of [enemy.name], causing [target.name] to fall over. He dealt [ally_damage] and stuns [enemy.name] for [stunned.max_rounds] round."
+    ""
+
+translate schinese battle_ally_script_3ee9df24:
+
+    # "The [enemy.name] is staggered, releasing you from his grasp."
+    ""
+
+translate schinese battle_ally_script_cee066c4:
+
+    # "It doesn't seem to work on the bridgeroot."
+    ""
+
+translate schinese battle_ally_script_8970ba2f:
+
+    # "Amble defends the two of you, increasing your defence in this round."
     ""
 
 translate schinese level_up_check_1ca53c77:
@@ -698,9 +788,14 @@ translate schinese stoneward_win_e92d4827:
     # "There's nothing useful for now..."
     ""
 
-translate schinese stoneward_win_697d45ec:
+translate schinese stoneward_win_86e38b05:
 
-    # "You search around the stone ward, you found a normal stone..."
+    # "Searching around the stone ward, you found a normal stone and a slate rock!"
+    ""
+
+translate schinese stoneward_win_bc0f6ea8:
+
+    # "Searching around the stone ward, you found a normal stone!"
     ""
 
 translate schinese stoneward_win_015d740f:

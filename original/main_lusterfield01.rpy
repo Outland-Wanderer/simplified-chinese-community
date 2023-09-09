@@ -10383,6 +10383,11 @@ translate schinese Rahim_Normal_Talk_46758535:
     # r "So, what are you up to, boy." nointeract
     r "" nointeract
 
+translate schinese Rahim_Normal_Talk_495fbfe0:
+
+    # e "Alright, I think we're ready for the vote now."
+    e ""
+
 translate schinese Rahim_Ask_Lusterfield_6d945238:
 
     # r "You want to know about...?" nointeract
@@ -16648,6 +16653,5611 @@ translate schinese Rahim_Reconciliation_Begin_730d6c80_1:
     # "Sebas grins for the while. But he's right, perhaps it'd really be a good idea not to bother Rahim soon."
     ""
 
+translate schinese Rahim_Voting_Quest_Begin_add8d3c4:
+
+    # e "Hey, Rahim. Everything going right... after that day Furkan was here?"
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_2bea0a2c:
+
+    # r "W-why are you asking."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_d35f5c59:
+
+    # e "Uh- I'm just looking out for you, Rahim."
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_9bb72926:
+
+    # "Rahim gives an inquisitive eye, he puts down his needle and stares at you."
+    ""
+
+translate schinese Rahim_Voting_Quest_Begin_70b46e90:
+
+    # r "You can just sneak outside my house again. That'd make it easier."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_eabfa98a:
+
+    # r "Do you? I don't see you ever listening to what I say."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_0ba7071d:
+
+    # r "...yeah. Thanks."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_66ba7ac0:
+
+    # "You two remain silent for a while as Rahim frowns."
+    ""
+
+translate schinese Rahim_Voting_Quest_Begin_eea3820b:
+
+    # "He glances at you for a few more times. One that's more awkward than it needs to be."
+    ""
+
+translate schinese Rahim_Voting_Quest_Begin_61f52e72:
+
+    # r "I... I've been distracting myself with the same thing ever since everything went down."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_7203e691:
+
+    # r "Yet all I had in my mind, was reliving that terrible memory take place right in front of me, over and over again."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_54243231:
+
+    # r "I was stuck in the past, and I allowed myself so."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_ff50f68f:
+
+    # "Rahim looks down in frustration, you try to offer your hand but he waves it away."
+    ""
+
+translate schinese Rahim_Voting_Quest_Begin_85e6b1e5:
+
+    # r "Furkan, he was a much better boy than I am. He surrendered his dignity to talk to me, and I... I was the one who ran away."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_de14003c:
+
+    # e "What do you mean, Rahim?"
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_1cddb46d:
+
+    # r "After talking with Furkan, everything was crammed into my head all at once. And all I could do, was to hide myself behind that closed door."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_22f7ed3b:
+
+    # r "I had been awake the whole night, day, and then night. And the only time I fell asleep, I saw my daughter."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_1e646f76:
+
+    # e "Y-your daughter? Was it... in a dream?"
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_b897a495:
+
+    # r "I don't remember it very well. But... I- recall hugging my precious princess right there, I held her tight in the air."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_8f086346:
+
+    # r "I saw her chuckling, making a silly face. And- I was frozen. I stood there for a long while."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_8c41d2cb:
+
+    # r "Her features are getting foggy, and I just realised I didn't even recognise what her face looks like."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_d926d49f:
+
+    # r "One day I'll forget her voice, her face. Or... even her whole existence."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_4e1598a3:
+
+    # e "Rahim..."
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_817d1be7:
+
+    # r "In that dream, she was just in my hand, until whatever happened and she turned into a giant spider, wrapping me there inside of the spiderwebs-"
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_445ead9f:
+
+    # "Rahim squints his eyes, his lips curls into a state of sadness."
+    ""
+
+translate schinese Rahim_Voting_Quest_Begin_cde013f6:
+
+    # r "Well, I'm starting to talk nonsense now."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_a1a9909c:
+
+    # e "No, no. It's a nightmare what you've been going through, I- I really can't compare my experience, but coming to this, whole new place. It's been largely different."
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_b0c40c73:
+
+    # e "Everyone has been nice all around the place, I can't even imagine you two being in war for each other's head."
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_187ad7c9:
+
+    # e "I remembered... my allfather- the chief of my tribe. He would gather us all around him. I forgot most of what he said... but he has a verse he likes to recite whenever some of us are sad."
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_2b2661df:
+
+    # e "{i}'Like the eternal stars that flicker in the night, let us sparkle with the timeless light.'{/i}"
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_e98012e4:
+
+    # e "{i}'The past is a lullaby of memories, but the present is where the undying forces take flight.'{/i}"
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_c5dfca71:
+
+    # e "I'm not sure if this finds you well- but I guess it left all of us at peace at the time."
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_181fb0e3:
+
+    # r "It does. That was a comforting wisdom that I never imagined coming out of your mouth. Thank you, [e]."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_74820f9c:
+
+    # r "If anything, a part of me wants to move on with my life, and another part forbids me so."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_949801e2:
+
+    # r "But this is never just about an old bull like me as painful as it would be for me to realise."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_e815898b:
+
+    # "You look back up and notice Rahim's sharp glare, it's not as stern as he usually does."
+    ""
+
+translate schinese Rahim_Voting_Quest_Begin_3d32195c:
+
+    # r "Maybe after everything has settled down with your problems, we'll share some more wisdom with your chief."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_05eb3a09:
+
+    # "He smiles at you, it's just so rare to see him finally be happy, even if it's just a glimpse."
+    ""
+
+translate schinese Rahim_Voting_Quest_Begin_c77151f7:
+
+    # "You indulge in the silence once more, Rahim kneads on his tense forehead, before taking a deep breath."
+    ""
+
+translate schinese Rahim_Voting_Quest_Begin_33741c33:
+
+    # r "There's just one thing, I've made up my mind."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_0489cc22:
+
+    # r "I will announce that a voting day is to come soon. It will decide whether we will form an alliance with the goats once more."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_c610d578:
+
+    # e "W-wait, Rahim. Are you sure?"
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_13bfb3d0:
+
+    # r "Well, take it as I am not the one to decide the fate of our people. I can't take all that baggages onto my back."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_91c0e542:
+
+    # r "I have my grudge with them. But there are people like you, you see things more differently than an old bull does."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_b46bd4f5:
+
+    # r "You deserve something on your plate, for the better or worse."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_40ceff5c:
+
+    # e "I'm glad you turned around, Rahim."
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_31217b1e:
+
+    # r "Don't be so sure we'll ally up with the goats I tell you, and if so, good. I've done my part, Sebas would have no reason to come and bother me once more."
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_25decc9f:
+
+    # r "This is a once-and-for-all vote. We'll never talk about this again, alright?"
+    r ""
+
+translate schinese Rahim_Voting_Quest_Begin_9d2f2d12:
+
+    # e "Alright."
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_Ready_e2c72058:
+
+    # r "If so, we'll start preparing for the announcement. It should take five days for everyone to make up their mind." nointeract
+    r "" nointeract
+
+translate schinese Rahim_Voting_Quest_Begin_Ready_b77ba7a9:
+
+    # e "Ok, I think it's fair. We're ready."
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_Ready_86adcaa5:
+
+    # e "Maybe we still need more time."
+    e ""
+
+translate schinese Rahim_Voting_Quest_Begin_Ready_1ada8197:
+
+    # r "Okay."
+    r ""
+
+translate schinese Rahim_Voting_Announcement_a02e5f98:
+
+    # r "Good."
+    r ""
+
+translate schinese Rahim_Voting_Announcement_f4c0d478:
+
+    # "You follow Rahim out of his hut. Towards the center of the village. A few people gathers, some murmurs."
+    ""
+
+translate schinese Rahim_Voting_Announcement_bdbff523:
+
+    # r "Ahem."
+    r ""
+
+translate schinese Rahim_Voting_Announcement_aeb2e849:
+
+    # r "Greetings, everyone. Please gather around here, I have something to say."
+    r ""
+
+translate schinese Rahim_Voting_Announcement_837d63f1:
+
+    # "More people approach as Rahim stands on the stage, he clears his throat and takes a deep breath."
+    ""
+
+translate schinese Rahim_Voting_Announcement_19e0fc30:
+
+    # r "I have not been standing here for, well. Since the last mayor passed away long ago."
+    r ""
+
+translate schinese Rahim_Voting_Announcement_c0cd01fc:
+
+    # r "For the past few years, Lusterfield has been living on its own, isolated."
+    r ""
+
+translate schinese Rahim_Voting_Announcement_598b4d7f:
+
+    # "The crowd stares curiously, if not with a surprised face."
+    ""
+
+translate schinese Rahim_Voting_Announcement_ca76a86c:
+
+    # r "And it was my sole decision. You all had looked up upon me during hard times. You elected me as the leader."
+    r ""
+
+translate schinese Rahim_Voting_Announcement_516c2130:
+
+    # r "But ultimately, I was selfish. And I had lost my way of leading the village to prosperity out of personal vendetta."
+    r ""
+
+translate schinese Rahim_Voting_Announcement_5487af4b:
+
+    # r "So, I suppose it's only appropriate for us to embrace a change."
+    r ""
+
+translate schinese Rahim_Voting_Announcement_78ed63f8:
+
+    # r "On [todaydayofweekfromrahimvote!t], we will hold a vote to decide whether we should form an accord with Goat Tribe once more."
+    r ""
+
+translate schinese Rahim_Voting_Announcement_5a7f2833:
+
+    # r "It has been a long time coming, and I can only hope whatever the result will be, both sides of you are satisfied."
+    r ""
+
+translate schinese Rahim_Voting_Announcement_ca2d6d42:
+
+    # r "Thank you, everyone, and may the spirits bless our endeavors."
+    r ""
+
+translate schinese Rahim_Voting_Announcement_05025644:
+
+    # "Rahim gives a solemn sigh, and returns to his house without another words."
+    ""
+
+translate schinese Rahim_Voting_Announcement_3c6851d1:
+
+    # "You hear some crowd murmurs, both sides are discussing the result of the vote. Some of them in protest of Rahim's decision."
+    ""
+
+translate schinese Rahim_Voting_Announcement_01e128d3:
+
+    # "There are 5 days until the vote begins, perhaps you should ask others about their opinions."
+    ""
+
+translate schinese Sebas_Voting_Opinion_c55795b4:
+
+    # e "Hey, Seb, how do you think about the vote?"
+    e ""
+
+translate schinese Sebas_Voting_Opinion_ef4ee862:
+
+    # s "Ha buddy, well. I guess maybe my charm is just so much to handle for Rahim."
+    s ""
+
+translate schinese Sebas_Voting_Opinion_24fdbbfc:
+
+    # s "Look."
+    s ""
+
+translate schinese Sebas_Voting_Opinion_aa5a9c7c:
+
+    # "Sebas leans his head forwards, showing you his two blinking eyes."
+    ""
+
+translate schinese Sebas_Voting_Opinion_1b9e1512:
+
+    # s "See, even that old bull's not invulnerable to my persuasion skills on those blinkers."
+    s ""
+
+translate schinese Sebas_Voting_Opinion_05e7d16e:
+
+    # e "I was pretty sure the vote wasn't because of you."
+    e ""
+
+translate schinese Sebas_Voting_Opinion_6d4540e7:
+
+    # s "Ha, buddy you know me the best, of course! It's Rahim who announced the vote."
+    s ""
+
+translate schinese Sebas_Voting_Opinion_c14757a8:
+
+    # e "Uh-"
+    e ""
+
+translate schinese Sebas_Voting_Opinion_681446b3:
+
+    # s "And he's letting me organise everything, like a stamp with this lion face here."
+    s ""
+
+translate schinese Sebas_Voting_Opinion_60060c8e:
+
+    # "He grins, showing you a box full of stamps with the gleaming eyes."
+    ""
+
+translate schinese Sebas_Voting_Opinion_ea51ae1a:
+
+    # s "These precious little chops are from some pledges I got earlier, just repurposed it and added my own pattern."
+    s ""
+
+translate schinese Sebas_Voting_Opinion_63b5b01d:
+
+    # "Basically, I've prepared for everyone a paper with two boxes, when the day comes you come here and make a stamp on either box to vote."
+    ""
+
+translate schinese Sebas_Voting_Opinion_7dc23268:
+
+    # e "T-that's very impressive actually."
+    e ""
+
+translate schinese Sebas_Voting_Opinion_924c5a5d:
+
+    # s "I know! I'm dreading the day we vote so I can collect papers with a lion face from everyone."
+    s ""
+
+translate schinese Sebas_Voting_Opinion_a22cd23f:
+
+    # e "Ah, so, how will you vote?"
+    e ""
+
+translate schinese Sebas_Voting_Opinion_2d44d1e6:
+
+    # s "Well, ally with the goats of course, trade, let the goats come and visit our shop, that'll probably solve everything."
+    s ""
+
+translate schinese Sebas_Voting_Opinion_48edff0a:
+
+    # e "Did something changed your mind on the goats? You didn't sound too enthusiastic about them the last time we talked."
+    e ""
+
+translate schinese Sebas_Voting_Opinion_332f4a05:
+
+    # s "Hah, well. I didn't change my mind, I-I just thought it's cool to have more customers, to you know... give us money."
+    s ""
+
+translate schinese Sebas_Voting_Opinion_4ba1e2e8:
+
+    # s "But my Big Ol' didn't look very happy about it. At least as compared to how I feel, hah."
+    s ""
+
+translate schinese Sebas_Voting_Opinion_bd274b45:
+
+    # s "Maybe you'd be better off asking him, maybe make him change his mind."
+    s ""
+
+translate schinese Sebas_Voting_Opinion_aeef7a54:
+
+    # e "Why are you not asking?"
+    e ""
+
+translate schinese Sebas_Voting_Opinion_050e15f9:
+
+    # s "I did! But Ole is a stubborn lizard, you know. Once he believes in something, he really does stuck with it all the way through."
+    s ""
+
+translate schinese Sebas_Voting_Opinion_c27b89ac:
+
+    # e "Oh, so your presuasion skills on those blinkers aren't working on Ole?"
+    e ""
+
+translate schinese Sebas_Voting_Opinion_fc3e2629:
+
+    # s "No way, how can my blinkers not work? I know they'd already worked on you, heh."
+    s ""
+
+translate schinese Sebas_Voting_Opinion_e7ad92f4:
+
+    # "Sebas chuckles as he whistles playfully."
+    ""
+
+translate schinese Lothar_Voting_Opinion_efef9743:
+
+    # e "Hey, Lothar, how do you think about the vote."
+    e ""
+
+translate schinese Lothar_Voting_Opinion_664a3b97:
+
+    # l "Bad, disciple. It's bad. What was Rahim even thinking, after so much I've proven that the goats are evil incarnation of cult following brainless magical dirtball. I can't believe he's still choosing to not just trust them, but ally?"
+    l ""
+
+translate schinese Lothar_Voting_Opinion_8e8d0926:
+
+    # e "He's giving all of us an option, Lothar. I think he won't really vote for the goats himself."
+    e ""
+
+translate schinese Lothar_Voting_Opinion_1d99fb1d:
+
+    # l "The bull's disrespecting the hero's opinion once again. Afterall, I eliminated that whole threat for him."
+    l ""
+
+translate schinese Lothar_Voting_Opinion_7613f00b:
+
+    # l "I guess people forgets what was done to them too easily, huh?"
+    l ""
+
+translate schinese Lothar_Voting_Opinion_3b683483:
+
+    # e "So... you're voting against it?"
+    e ""
+
+translate schinese Lothar_Voting_Opinion_49715e3c:
+
+    # l "Yeah. Are you not?"
+    l ""
+
+translate schinese Lothar_Voting_Opinion_32d7e825:
+
+    # l "Are you asking a stupid question or trying to rile me up again, disciple."
+    l ""
+
+translate schinese Lothar_Voting_Opinion_880bf075:
+
+    # "He glances at you for a moment, before averting his gaze."
+    ""
+
+translate schinese Lothar_Voting_Opinion_271f7bc9:
+
+    # l "Either way, I've told Amble and Jog what to do already, there's no way the goat sympathizers can win this one."
+    l ""
+
+translate schinese Lothar_Voting_Opinion_209707be:
+
+    # e "Uh..."
+    e ""
+
+translate schinese Lothar_Voting_Opinion_ed9922da:
+
+    # l "There's no way I tell you, [e]. And don't let me see you vote otherwise."
+    l ""
+
+translate schinese Amble_Voting_Ask_Cement_50d15ed8:
+
+    # e "What do I need for the bridge again?"
+    e ""
+
+translate schinese Amble_Voting_Ask_Cement_58ae9b24:
+
+    # a "20 wooden logs, and three buckets of mortar, known as masonry fix."
+    a ""
+
+translate schinese Amble_Voting_Ask_Cement_00688bc9:
+
+    # a "So, we'll need some irons, some clays, some slate rocks."
+    a ""
+
+translate schinese Amble_Voting_Ask_Cement_843f83fd:
+
+    # a "You know where to find them. There are stone wards at the damp cave, which you may find slate, sometimes."
+    a ""
+
+translate schinese Amble_Voting_Ask_Cement_96d489e0:
+
+    # "You smile uncomfortably as Amble begins pointing at random directions at where the materials should be."
+    ""
+
+translate schinese Amble_Voting_Ask_Cement_ce25548d:
+
+    # "And you're fairly sure that Jog is not one of them."
+    ""
+
+translate schinese Amble_Voting_Ask_Cement_99562d93:
+
+    # a "Clays are right under the river, with a powerful shovel you can easily dig them up."
+    a ""
+
+translate schinese Amble_Voting_Ask_Cement_10299709:
+
+    # a "And the iron, I'm sure the werewolves will gladly lend you some, puny friend."
+    a ""
+
+translate schinese Amble_Voting_Ask_Cement_6980478e:
+
+    # "He winks at you confidently, you hope he's saying this to praise your battle ability."
+    ""
+
+translate schinese Amble_Voting_Ask_Cement_28acb02a:
+
+    # a "Mix them together and you'll get some seme-... cement. And then you'll need to mix them with limestones."
+    a ""
+
+translate schinese Amble_Voting_Ask_Cement_8affa552:
+
+    # "Amble gestures his hand together, stroking the air up and down to mimic the mixing motion."
+    ""
+
+translate schinese Amble_Voting_Ask_Cement_3e7f91ca:
+
+    # "You stare in embarrassment, well, it really does look like he's stroking a huge... pillar."
+    ""
+
+translate schinese Amble_Voting_Ask_Cement_bffaaa0e:
+
+    # a "Limestones are very abundant in a yellowish cave, near the goat tribe. You might need to get someone knowledgeable enough to show you that entrance of the cave. It should be easy to get a pickaxe from Gwyd!"
+    a ""
+
+translate schinese Amble_Voting_Ask_Cement_6df1d013:
+
+    # a "But, I've heard there is a minotaur inside the cave. So stay safe there, [e]."
+    a ""
+
+translate schinese Amble_Voting_Ask_Cement_19127bd7:
+
+    # a "Anyway, mix them, and then get a bucket for yourself, and tada-! A bucket of mortar is done, perfect for sticking stones together."
+    a ""
+
+translate schinese Amble_Voting_Ask_Cement_ed3c336f:
+
+    # a "Then you bring them back to me, and we'll get started on the bridge!"
+    a ""
+
+translate schinese Amble_Voting_Ask_Cement_77f810e0:
+
+    # e "Alright, I got it now."
+    e ""
+
+translate schinese Amble_Voting_Opinion_3eda28e2:
+
+    # e "Hey, Amble, how do you think about the vote?"
+    e ""
+
+translate schinese Amble_Voting_Opinion_c3def119:
+
+    # a "Good, and how about you, puny friend?"
+    a ""
+
+translate schinese Amble_Voting_Opinion_499bab58:
+
+    # a "Are you more of a goat person? or a... lustery person-?"
+    a ""
+
+translate schinese Amble_Voting_Opinion_083ad5fb:
+
+    # e "Well, now you're the one asking." nointeract
+    e "" nointeract
+
+translate schinese Amble_Voting_Opinion_ebed9f6f:
+
+    # e "I- I think I do wish both of the tribes are thriving, so I'll support it."
+    e ""
+
+translate schinese Amble_Voting_Opinion_1d392911:
+
+    # a "Ah, you sure brings a lot of wisdom to the table, [e]."
+    a ""
+
+translate schinese Amble_Voting_Opinion_50171cea:
+
+    # e "I guess it's not necessarily for us to, ally up. I don't see an imminent threat lurking to take us down one by one."
+    e ""
+
+translate schinese Amble_Voting_Opinion_a70b10cf:
+
+    # a "That's... true. Actually, I hadn't thought about that perspective."
+    a ""
+
+translate schinese Amble_Voting_Opinion_751749bc:
+
+    # e "And what about you? What would you vote?"
+    e ""
+
+translate schinese Amble_Voting_Opinion_8fec02af:
+
+    # a "That's a good question. Hmm... I haven't decided yet, but Lot, he told me I needed to vote no."
+    a ""
+
+translate schinese Amble_Voting_Opinion_b9637ba3:
+
+    # a "It's an important decision, that's why we should get educated on both sides before making a decision."
+    a ""
+
+translate schinese Amble_Voting_Opinion_141b687b:
+
+    # a "But Lot seemed so serious about this, I can't tell, if going against his wish would be a good idea."
+    a ""
+
+translate schinese Amble_Voting_Opinion_08ec8ece:
+
+    # "Amble looks left and right, he's still undecided as he scrubs his palms together."
+    ""
+
+translate schinese Amble_Voting_Opinion_18489ab9:
+
+    # e "Did Lothar really tell you what to vote?"
+    e ""
+
+translate schinese Amble_Voting_Opinion_6f2023da:
+
+    # a "Indeed! Jog was there too. The whole conversation was very weird, even to Lot's standard."
+    a ""
+
+translate schinese Amble_Voting_Opinion_fc687261:
+
+    # e "No, that's the least surprising things that I've heard out of his mouth."
+    e ""
+
+translate schinese Amble_Voting_Opinion_45cc509c:
+
+    # a "Ha, you're funny, [e]."
+    a ""
+
+translate schinese Amble_Voting_Opinion_cb114312:
+
+    # "Amble gives it a chuckle, before returning to his usual smile."
+    ""
+
+translate schinese Amble_Voting_Opinion_04057e55:
+
+    # a "Anyway, I still haven't decided yet. But there's still one thing I wanted to do before making a decision, are you coming with me, puny friend?"
+    a ""
+
+translate schinese Amble_Voting_Opinion_6ac175ed:
+
+    # e "Oh? What is it?"
+    e ""
+
+translate schinese Amble_Voting_Opinion_1efc5c70:
+
+    # a "It's the stone bridge between our tribes, we need to clean up the debris, get ourselves some foundation, and return it to its previous glory!"
+    a ""
+
+translate schinese Amble_Voting_Opinion_b29fabf4:
+
+    # a "If we have to vote for some kind of reconciliation, wouldn't it be better if we have a means of transportation there?"
+    a ""
+
+translate schinese Amble_Voting_Opinion_325aab01:
+
+    # e "But what if the vote goes the other way?"
+    e ""
+
+translate schinese Amble_Voting_Opinion_244ba5fd:
+
+    # a "Well, it doesn't hurt to fix something for once, does it?"
+    a ""
+
+translate schinese Amble_Voting_Opinion_9dd18f12:
+
+    # "Amble gives you a lopsided grin with a slightly narrowed eyes."
+    ""
+
+translate schinese Amble_Voting_Opinion_79fbec00:
+
+    # a "So, I suppose you're coming?" nointeract
+    a "" nointeract
+
+translate schinese Amble_Voting_Opinion_41d6adce:
+
+    # e "Alright. So, how do we start?"
+    e ""
+
+translate schinese Amble_Voting_Opinion_8222306e:
+
+    # a "First thing first, we need some basic building materials before we head there."
+    a ""
+
+translate schinese Amble_Voting_Opinion_69dd3fc5:
+
+    # a "It's going to be very grindy, puny friend. You'd need to grind a lot for these."
+    a ""
+
+translate schinese Amble_Voting_Opinion_006e397c:
+
+    # e "Uh, grind?"
+    e ""
+
+translate schinese Amble_Voting_Opinion_0b8f2b53:
+
+    # a "Grinding the limestones into cement! For the stone bridge of course! We're not allowed to make any jokes that's out of the scope of our world anymore."
+    a ""
+
+translate schinese Amble_Voting_Opinion_54c58974:
+
+    # a "Anyway, I'll prepare some large rocks there myself, how about you bringing me some small rocks?"
+    a ""
+
+translate schinese Amble_Voting_Opinion_f61830b2:
+
+    # e "I'm definitely more than capable than bringing some small rocks."
+    e ""
+
+translate schinese Amble_Voting_Opinion_59e2b738:
+
+    # a "Hah, well. I don't doubt that! But the large rocks I need is probably bigger than you do, so it's safer for me to carry."
+    a ""
+
+translate schinese Amble_Voting_Opinion_7fc77197:
+
+    # a "But, we'll need some more logs. I suppose you know how to cut down the trees, right?"
+    a ""
+
+translate schinese Amble_Voting_Opinion_fc9b3fc2:
+
+    # e "I do!"
+    e ""
+
+translate schinese Amble_Voting_Opinion_6a0b26fb:
+
+    # a "Good, and then, for the sticky materials, we'll need a bucket of mortar, which is just a mixture of limestone and cemen-."
+    a ""
+
+translate schinese Amble_Voting_Opinion_b305bf51:
+
+    # e "S-semen?"
+    e ""
+
+translate schinese Amble_Voting_Opinion_840fd9a5:
+
+    # a "I can't ever say that right without remembering what Jog said! Cement. What a silly name, right?"
+    a ""
+
+translate schinese Amble_Voting_Opinion_00688bc9:
+
+    # a "So, we'll need some irons, some clays, some slate rocks."
+    a ""
+
+translate schinese Amble_Voting_Opinion_843f83fd:
+
+    # a "You know where to find them. There are stone wards at the damp cave, which you may find slate, sometimes."
+    a ""
+
+translate schinese Amble_Voting_Opinion_96d489e0:
+
+    # "You smile uncomfortably as Amble begins pointing at random directions at where the materials should be."
+    ""
+
+translate schinese Amble_Voting_Opinion_ce25548d:
+
+    # "And you're fairly sure that Jog is not one of them."
+    ""
+
+translate schinese Amble_Voting_Opinion_99562d93:
+
+    # a "Clays are right under the river, with a powerful shovel you can easily dig them up."
+    a ""
+
+translate schinese Amble_Voting_Opinion_10299709:
+
+    # a "And the iron, I'm sure the werewolves will gladly lend you some, puny friend."
+    a ""
+
+translate schinese Amble_Voting_Opinion_6980478e:
+
+    # "He winks at you confidently, you hope he's saying this to praise your battle ability."
+    ""
+
+translate schinese Amble_Voting_Opinion_28acb02a:
+
+    # a "Mix them together and you'll get some seme-... cement. And then you'll need to mix them with limestones."
+    a ""
+
+translate schinese Amble_Voting_Opinion_8affa552:
+
+    # "Amble gestures his hand together, stroking the air up and down to mimic the mixing motion."
+    ""
+
+translate schinese Amble_Voting_Opinion_3e7f91ca:
+
+    # "You stare in embarrassment, well, it really does look like he's stroking a huge... pillar."
+    ""
+
+translate schinese Amble_Voting_Opinion_bffaaa0e:
+
+    # a "Limestones are very abundant in a yellowish cave, near the goat tribe. You might need to get someone knowledgeable enough to show you that entrance of the cave. It should be easy to get a pickaxe from Gwyd!"
+    a ""
+
+translate schinese Amble_Voting_Opinion_6df1d013:
+
+    # a "But, I've heard there is a minotaur inside the cave. So stay safe there, [e]."
+    a ""
+
+translate schinese Amble_Voting_Opinion_19127bd7:
+
+    # a "Anyway, mix them, and then get a bucket for yourself, and tada-! A bucket of mortar is done, perfect for sticking stones together."
+    a ""
+
+translate schinese Amble_Voting_Opinion_f880eb90:
+
+    # e "Hmmph... alright."
+    e ""
+
+translate schinese Amble_Voting_Opinion_3a61f3cb:
+
+    # a "Yeah, I think that's really all. We should get going! Time doesn't wait for a collapsed bridge!"
+    a ""
+
+translate schinese Amble_Voting_Opinion_8771256f:
+
+    # e "Maybe I'll join you later?"
+    e ""
+
+translate schinese Amble_Voting_Opinion_54ddafa3:
+
+    # a "I have a hunch we'll learn so much more after rebuilding the bridge."
+    a ""
+
+translate schinese Amble_Voting_Opinion_bae7895f:
+
+    # "Amble raises both his thumbs up, with the same old smile he has."
+    ""
+
+translate schinese Amble_River_Talk_6a784c36:
+
+    # a "It's really hot out here in the forest, puny friend."
+    a ""
+
+translate schinese Amble_River_Talk_c4844c7a:
+
+    # a "[e]! What's on your mind?" nointeract
+    a "" nointeract
+
+translate schinese Amble_Voting_Cement_81fb734c:
+
+    # e "Hey, Amble. I've gotten us the materials you need. 20 Logs, and 3 buckets of masonry mix."
+    e ""
+
+translate schinese Amble_Voting_Cement_3409aa92:
+
+    # a "Great! Now we can get started with building it."
+    a ""
+
+translate schinese Amble_Voting_Cement_b6793244:
+
+    # e "There's one question."
+    e ""
+
+translate schinese Amble_Voting_Cement_311dd8ba:
+
+    # a "What's on your mind, puny friend?"
+    a ""
+
+translate schinese Amble_Voting_Cement_937e89d5:
+
+    # e "Why do you ask me to get so many logs, when you already have some much lying right around here?"
+    e ""
+
+translate schinese Amble_Voting_Cement_264224ea:
+
+    # "You point at the massive amount of wood, chopped or unchopped, all placed peacefully behind Amble."
+    ""
+
+translate schinese Amble_Voting_Cement_c92f5297:
+
+    # a "Oh, good question!"
+    a ""
+
+translate schinese Amble_Voting_Cement_6b88223b:
+
+    # a "A-a-anyway, I think we're ready to get our work done."
+    a ""
+
+translate schinese Amble_Voting_Cement_0f114e57:
+
+    # a "I've inspected the bridge, luckily when it was broken, the goats preserved their structural integrity rather well. That'd save us a lot of time and energy."
+    a ""
+
+translate schinese Amble_Voting_Cement_af5c87a9:
+
+    # a "I've marked down the location of the bridge on your map."
+    a ""
+
+translate schinese Amble_Voting_Cement_287ebd17:
+
+    # a "Meet me right there, then we'll start moving the old debris!"
+    a ""
+
+translate schinese Amble_Voting_Cement_bf6f0d3d:
+
+    # e "A-alright..."
+    e ""
+
+translate schinese Amble_Voting_Clearing_3573f911:
+
+    # e "Hey! Amble, so, what do I need to do here?"
+    e ""
+
+translate schinese Amble_Voting_Clearing_de494aaf:
+
+    # a "Oh! I like your attitude, keep it going for the bridge and we'll be finishing in no time!"
+    a ""
+
+translate schinese Amble_Voting_Clearing_732bcd84:
+
+    # e "Ah? We... both, building an entire bridge?"
+    e ""
+
+translate schinese Amble_Voting_Clearing_046272a0:
+
+    # a "Ha, not quite. You see, some huge debris are already stuck down here, so we just need to put them back where they were."
+    a ""
+
+translate schinese Amble_Voting_Clearing_52baa3d8:
+
+    # e "It doesn't look like the stones are in perfect condition, though."
+    e ""
+
+translate schinese Amble_Voting_Clearing_a3947bf8:
+
+    # a "You're right, that's why we need some mortar and rocks, to fill in the small gaps that corroded away during this whole time."
+    a ""
+
+translate schinese Amble_Voting_Clearing_5854d3eb:
+
+    # e "Damn, Amble. You've really thought about everything."
+    e ""
+
+translate schinese Amble_Voting_Clearing_06b5d888:
+
+    # "Amble turns to you, with a slightly raised eyebrows."
+    ""
+
+translate schinese Amble_Voting_Clearing_1659956c:
+
+    # a "Puny friend, are you trying to get something out of me?"
+    a ""
+
+translate schinese Amble_Voting_Clearing_a4f835be:
+
+    # e "W-what? N-no..."
+    e ""
+
+translate schinese Amble_Voting_Clearing_1b11c115:
+
+    # a "Or make my cheeks go red by praising me?"
+    a ""
+
+translate schinese Amble_Voting_Clearing_cf21093d:
+
+    # "He gets uncomfortably close to you, with one hand essentially wrapped around your shoulder."
+    ""
+
+translate schinese Amble_Voting_Clearing_25ebe2b8:
+
+    # e "A-amble, how would-"
+    e ""
+
+translate schinese Amble_Voting_Clearing_946185fd:
+
+    # "Amble glances at you, his grin widens very quickly as he breaks into a heartful laughter."
+    ""
+
+translate schinese Amble_Voting_Clearing_be7d46c6:
+
+    # a "I learnt this from Jog, hah. Looks like it did get a reaction out of you."
+    a ""
+
+translate schinese Amble_Voting_Clearing_c7450403:
+
+    # "You avert your gaze, still haven't recovered from his attempt at teasing you."
+    ""
+
+translate schinese Amble_Voting_Clearing_2b40a022:
+
+    # e "Huh?"
+    e ""
+
+translate schinese Amble_Voting_Clearing_ddaa22a6:
+
+    # e "Not fair! I didn't expect you to joke around like this, Amble."
+    e ""
+
+translate schinese Amble_Voting_Clearing_466673c6:
+
+    # a "You're fun, puny friend."
+    a ""
+
+translate schinese Amble_Voting_Clearing_334114bd:
+
+    # "He quickly turns his attention back towards the stones, and stretches his arms extensively."
+    ""
+
+translate schinese Amble_Voting_Clearing_9be46682:
+
+    # a "Let's get everything started, shall we?"
+    a ""
+
+translate schinese Amble_Voting_Clearing_c08bc9e6:
+
+    # msg "Do you wish to spend 2 hours and some HP to remove the rocks? Higher STR will increase each session's progress and HP cost." nointeract
+    msg "" nointeract
+
+translate schinese Amble_Voting_Clearing_a5de1b70:
+
+    # e "Alright! Let's get into it."
+    e ""
+
+translate schinese Amble_Voting_Clearing_804d05d9:
+
+    # a "You've got the right attitude! Keep it up!"
+    a ""
+
+translate schinese Amble_Voting_Clearing_c47d0e63:
+
+    # "You walk down the river and begins to work on the rocks with Amble."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_3d6c8b04:
+
+    # "For the next two hours, you dig up the rocks with the shovel Amble has given you, and he carries them on the land, trying to figure out where they come from from the bridge."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_4cd9eae6:
+
+    # "Occassionally, he gets into the water as well, helping you remove huge rocks from the side with water."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_2292d187:
+
+    # "Somehow, you can feel his jock submerged into the water completely, lightly brushing against your side as he hauls the rock above water."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_5bf9c2bf:
+
+    # "You moan quite loudly when you realise his slick bulge is pressed against your thigh under the water, and it unceremoniously slides to the side of your leg as he leans forward."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_7e589215:
+
+    # a "Hey, something wrong?"
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_3b0922eb:
+
+    # e "Uhm... nothing. Keep doing what you were doing."
+    e ""
+
+translate schinese Amble_Voting_Clearing_Work_30d3534c:
+
+    # a "You're truly fascinating, [e]."
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_b261aa43:
+
+    # "Carelessly, he holds onto your arms tightly to pull out the rock, you get to feel his soft bulge scraping, as if he's intentionally teasing with you."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_87d70db0:
+
+    # "That, that was an experience."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_ab97175e:
+
+    # "As you've finished your session, you look towards the pile of rocks you've hauled out of the river."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_a18d5757:
+
+    # "It seems most of the rocks are yet to be removed, more works needs to be done before the river is unclogged."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_1fa379c4:
+
+    # "Amble gives you a thumbs up as he shows you all the rocks on the river bank, some river water begins to flow to the other side now."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_3093bce3:
+
+    # "There's still something needed to be done, but at least the river water can now flow to the other side."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_661de44e:
+
+    # a "Aha, I think all huge rocks are removed now. Look at that beautiful river, clear as crystal!"
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_68644dd0:
+
+    # "He's right, this part of the river is no longer clogged, and the water flows freely to the other end once more."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_ac4a274a:
+
+    # e "That was some hard work."
+    e ""
+
+translate schinese Amble_Voting_Clearing_Work_e329df87:
+
+    # a "And it all thanks to you, [e]."
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_209fcbd6:
+
+    # e "Ha, well most of it was your doing, I was just digging some dirts there, I think you deserve all the credits."
+    e ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_d4675186:
+
+    # e "Hey! Amble, I'm back."
+    e ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_5c72958f:
+
+    # "Amble sits on the river bank, seemingly pondering something."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_0d6bf512:
+
+    # "You glance over the river, surprisingly, the hauling work seems to be completed, leaving all soaked debris on the shore in front of Amble."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_c6dfda2b:
+
+    # a "Oh! Didn't notice you, puny friend. Welcome back!"
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_ab0a4b0e:
+
+    # "He turns around, and gives you a friendly wave."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_52da51dc:
+
+    # a "Well, please pardon me. I wanted to finish the job with you but, I got way over my head."
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_41bcc92c:
+
+    # "Amble scratches the back of his head squirmishly, his cheeks perks up, revealing a wide grin."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_6a098f7f:
+
+    # e "Damn, no worries, Amble."
+    e ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_1aeb09b9:
+
+    # "You see Amble still hauling the rocks all by himself, his chest is drenched in sweat, glistening under the sunlight."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_ab0a4b0e_1:
+
+    # "He turns around, and gives you a friendly wave."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_3c8bc1ed:
+
+    # a "H-hello, puny friend."
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_a18d5757:
+
+    # "It seems most of the rocks are yet to be removed, more works needs to be done before the river is unclogged."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_1fa379c4:
+
+    # "Amble gives you a thumbs up as he shows you all the rocks on the river bank, some river water begins to flow to the other side now."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_3093bce3:
+
+    # "There's still something needed to be done, but at least the river water can now flow to the other side."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_05e48e04:
+
+    # e "Damn, Amble, did you just dig them up and haul them out of the river all by yourself?"
+    e ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_ae602647:
+
+    # "You wipe off the sweat from Amble carefully, he leans forwards so you can reach his chest, and closes his eyes for a moment."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_40b8467a:
+
+    # a "Thanks, puny friend. I feel much cooler now."
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_5ad5e99b:
+
+    # e "You seem so tired, do you need to take a rest?"
+    e ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_e08f741e:
+
+    # a "Carrying these rocks surely is an exhausting work, but isn't it so great to take a deep breath right here?"
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_ae11f49d:
+
+    # a "I can go on, and on. This is just why I like working in the forest, it makes you feel alive."
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_fcd74902:
+
+    # "He gives you a bright smile, and you smile back."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_Back_787484dc:
+
+    # a "Anyway, [e], do you want to join? It would be much quicker to have another pair of hands digging these heavy rocks up."
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_Continue_b74e6f0c:
+
+    # e "Let's keep going, I believe we can complete it very quick!"
+    e ""
+
+translate schinese Amble_Voting_Clearing_Work_Continue_cf91fe08:
+
+    # a "Ha! That's the spirit, keep that positivity flowing!"
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_Continue_f4aba4d3:
+
+    # "Your HP is too low to continue work."
+    ""
+
+translate schinese Amble_Voting_Clearing_Work_Leave_da8c8e00:
+
+    # e "Well, actually, I need to go."
+    e ""
+
+translate schinese Amble_Voting_Clearing_Work_Leave_e3acd183:
+
+    # a "Ah, is there something wrong, [e]?"
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_Leave_3f0ff192:
+
+    # e "Well, I'm getting really exhausted, so I'll need to take some rest."
+    e ""
+
+translate schinese Amble_Voting_Clearing_Work_Leave_9a7c7b3a:
+
+    # e "Nothing really, I just remembered there's something I need to do right now."
+    e ""
+
+translate schinese Amble_Voting_Clearing_Work_Leave_aa36f8d1:
+
+    # e "C-can I come back later?"
+    e ""
+
+translate schinese Amble_Voting_Clearing_Work_Leave_c566b005:
+
+    # a "Sure thing, puny friend. I'll get started myself, it's gonna take some time without an extra pair of hands here."
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_Leave_fe4f3ecd:
+
+    # a "Sure thing, puny friend. I'll continue with the work, it's gonna take some time without an extra pair of hands here."
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_Leave_26c4e768:
+
+    # a "But leave it to me! You've already gotten me a lot of materials to work with. You've been a great friend, and I'll always have your back!"
+    a ""
+
+translate schinese Amble_Voting_Clearing_Work_Leave_c987d30b:
+
+    # e "Thanks, Amble. You're just too wholesome, I'll make sure I'd come back and help you with everything I can do."
+    e ""
+
+translate schinese Amble_Voting_Clearing_Work_Leave_189b1a37:
+
+    # "With a friendly wave, you part ways with Amble."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_4cdac722:
+
+    # "Amble gives you a bright smile as he walks along the river."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_07c3a44d:
+
+    # a "There are still work yet to be done, will you offer me some more assistance?"
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_0252bad1:
+
+    # a "I can do it all by myself, but, it's great to have someone to work along. Communication is key, isn't that right?"
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_2db6b889:
+
+    # e "I'll lend you all the help you need, Amble! Plus, your enthusiasm is just too contagious!"
+    e ""
+
+translate schinese Amble_Voting_Construction_Begin_864585ba:
+
+    # a "That's the [e] I know!"
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_66e16358:
+
+    # "He gives your back a quite powerful pat, bashing you forwards for a few steps."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_15d2ef8d:
+
+    # a "Oops, sorry puny friend. Forgot you were Jog's size."
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_6fe5eccc:
+
+    # e "It's fine, I think you broke a few rib bones there."
+    e ""
+
+translate schinese Amble_Voting_Construction_Begin_6197fabd:
+
+    # a "Did I?"
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_70ea0c05:
+
+    # "You're not sure if he's too dense or cheeky, but he extends his large hand from behind you, in the direction of your chest."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_38be27d3:
+
+    # "You nod, and let his hands touch your scruffy fur."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_98844947:
+
+    # "His whole arm exploring your front with no resistance from you at all. Much attributed to yourself enjoying his rough paws."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_fc36e7bb:
+
+    # "Both of his hands advance on your chest from underneath your arm, searching for your rib bones through all the muscles you have."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_00057d0c:
+
+    # "He's pressing hard, hands drifting through all the scruffy furs of yours, your hand lightly grabs his to guide him onto your bulging chest."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_4b9a75ae:
+
+    # "Amble doesn't seem surprised, instead he intentionally trails his way onto your sensitive nipples, flicking it with rather ease."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_2fa63214:
+
+    # e "Hey! Are you really checking for my ribs?"
+    e ""
+
+translate schinese Amble_Voting_Construction_Begin_bf38b64f:
+
+    # a "Sorry, had to check this one as well, we gotta be very thorough, don't we?"
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_0937754d:
+
+    # "You can't see him from this angle but you know damn well he's smiling or grinning at you."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_5df8de57:
+
+    # "Maybe also because your nipples perk up instantly in response to his touch, his hands are rough, and the texture on his paw pads just give causes you to shudder constantly."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_ea50e341:
+
+    # "His hand continue exploring your chest for a moment, squishing it like a heavy bag of milk."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_ef75a3e3:
+
+    # "You audibly moan when his bear claws lift up your bare chest for a moment."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_c3b964d8:
+
+    # a "Did that hurt?"
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_1ead17cd:
+
+    # e "N-no... but please continue."
+    e ""
+
+translate schinese Amble_Voting_Construction_Begin_7871d664:
+
+    # "He stretches open his hands, and grasps onto your chest with much force, his huge palm moves around, squeezing your chest in all position or direction."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_b0ad5490:
+
+    # "Amble continues fondling with you for a moment as you feel all the ecstacy building up, but he suddenly releases, and retreating his hand from your chest."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_dbd93d87:
+
+    # "You can see the red marks imprinted all over your chest there, in the shape of Amble's large hands."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_05f9d9af:
+
+    # a "Well, puny friend, your ribs are pretty healthy."
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_0b5d9c8c:
+
+    # a "Shall we continue?"
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_45087d11:
+
+    # "You stare at Amble with a pleading eyes, hoping he'd continue with his act but the bear has already continued his walk, you caress your front for a moment, before tidying yourself and catching up with Amble."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_01a2623b:
+
+    # e "H-hey, Amble I don't think if my ribs are broken, you should still touch them."
+    e ""
+
+translate schinese Amble_Voting_Construction_Begin_5a1bb7e5:
+
+    # a "No? How else do I know if you're fine, [e]?"
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_473428c7:
+
+    # e "Well, I was just joking haha. You didn't break any of my bones, {size=25}or at lease I hope...{/size}"
+    e ""
+
+translate schinese Amble_Voting_Construction_Begin_da65b6a1:
+
+    # a "Haha, you're funny, puny friend. Alright, let us continue then."
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_6318eb68:
+
+    # "Amble gives you a bright smile, as usual. And continues to walk onto the water."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_fb46f10e:
+
+    # a "Alright, now if we're building an entirely new bridge, we'll need a cofferdam to build to base of the bridge."
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_94a2425f:
+
+    # a "We can enclose and drain the area around the base with some wood, that's going to take a lot of days and nights."
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_93c015f4:
+
+    # e "But we already have the base of the bridge right here, don't we?"
+    e ""
+
+translate schinese Amble_Voting_Construction_Begin_b4566de5:
+
+    # a "You're right! That's why we can take some break."
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_86c5bec4:
+
+    # a "Now, we'll need the wood you just collected, get as much wooden planks there and connect the two ends together with an arch. That'll fix the shape the bridge, so we know where to insert these rocks later on."
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_ca2448c3:
+
+    # "He motions with his hand with where the planks should go, either vertically or horizontally, squinting his eyes to imagine their position."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_6489c139:
+
+    # e "Okay, so... how do we start?"
+    e ""
+
+translate schinese Amble_Voting_Construction_Begin_03c77264:
+
+    # a "We'll measure the distance, make sure they are as concise as possible, and we'll set the wooden planks in place with some ropes."
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_75069b3c:
+
+    # a "That's going to be much quicker than removing all these rocks, but I can't do it by myself, measuring is not my strongest suit."
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_1617cee2:
+
+    # "Amble takes a sigh."
+    ""
+
+translate schinese Amble_Voting_Construction_Begin_ee14f7a3:
+
+    # a "But, if you need some time to rest, please feel free to do so. It's still going to be an exhausting work."
+    a ""
+
+translate schinese Amble_Voting_Construction_Begin_56a2dfd7:
+
+    # a "Would you like to lend me a hand, [e]?" nointeract
+    a "" nointeract
+
+translate schinese Amble_Voting_Construction_Begin_c0ac4448:
+
+    # e "I guess I'll take a little rest for now. I'll be right back."
+    e ""
+
+translate schinese Amble_Voting_Construction_Begin_97f67c07:
+
+    # a "Alright, [e]. Find me here when you're ready."
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_fb539142:
+
+    # e "Alright then. Let's go!"
+    e ""
+
+translate schinese Amble_Voting_Construction_Work_ae3118a1:
+
+    # a "Hah, I knew you had it in you, well. Let's get down to the business, then."
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_965ff9b3:
+
+    # "Amble walks towards the river, with the planks as you begin to take measurement of the river with his tools, it's not very wise to work under the current of the river but Amble doesn't seem to mind."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_f824e8e5:
+
+    # "You point to where Amble needs to put down the planks, and he does so, with rather ease as the pole digs through the river bed with one plunge."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_c2fe8b28:
+
+    # e "Is this stable?"
+    e ""
+
+translate schinese Amble_Voting_Construction_Work_29daf16c:
+
+    # a "No, this is a bridge."
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_69663b72:
+
+    # "Amble gives you a cheeky grin."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_58a0a083:
+
+    # a "You can say, these planks are set in stone, I don't think it's going to go anywhere."
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_a8021891:
+
+    # "You struggle to hold your own chuckle as Amble smile at his own joke, again. Perhaps you are even entranced, staring at his dumb yet cheer smile dazzles you with undescribable happiness."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_4ddc1498:
+
+    # "For the next 4 hours, Amble continues jabbing the planks into the river, and fixing them with the ropes you prepared."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_c8b6f13a:
+
+    # "You're almost finished with the job, and the river is now filled with planks and an arch over the bridge."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_5b7e65b7:
+
+    # "Staring at the bear's beefy body, it seems he's sweating all over again, his fur is drenched in either river water or his own sweat."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_0b1a8b9d:
+
+    # "For a moment, your gaze is fixated on his strong physique, until you are distracted by something green in a distance."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_8efac1c0:
+
+    # "You point towards the direction, and Amble begins to notice it as well."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_068e395d:
+
+    # "It seems to be approaching in your direction, not particularly in a malicious way, but still rather intrusive."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_3307d8ea:
+
+    # "As it closes in, you realise it's a mossy monster, one that is similar to the golem you encountered while travelling with Sebas and Lothar."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_3a3f4e88:
+
+    # e "What's that?"
+    e ""
+
+translate schinese Amble_Voting_Construction_Work_c2f0aba4:
+
+    # a "I have never seen something like him before, something like this is a work of nature, [e]."
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_69804368:
+
+    # "The monster is covered in all kinds of greenery, roots, leaves, moss, flowers, fungi. His eyes staring at the bridge blankly."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_a4965ab0:
+
+    # "Amble spends a moment to admire this green construct, before it takes a seat on the construction right in front of you two."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_252fe6fa:
+
+    # a "Hey there, mister, we're working on a construction right now."
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_75ec7285:
+
+    # "It doesn't seem to listen to Amble at all, just sitting on one end of the bridge casually."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_647f9923:
+
+    # "He settles into the position rather quickly, and any yanking or pulling effort by you and Amble remains futile."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_4f9c7c7a:
+
+    # a "Mister... this is not for sitting."
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_81d0577d:
+
+    # "Amble is genuinely distressed right now, his brows furrow intensely as he's trying to talk sense into someone who can't understand him."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_284018a6:
+
+    # a "Mister?!"
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_33b62fb3:
+
+    # a "{size=50}MISTER-!!{/size}"
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_f9926e55:
+
+    # "No responses are spared by the mossy monster, leaving the bear all frustrated."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_dd1f9f9a:
+
+    # e "We can't work if this... guy keeps sitting on our bridge."
+    e ""
+
+translate schinese Amble_Voting_Construction_Work_d7773678:
+
+    # a "Of course! Well, we need to do something."
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_739080c7:
+
+    # e "Maybe we should fight this guy! I think it'll get out if it knows we're here for business."
+    e ""
+
+translate schinese Amble_Voting_Construction_Work_fba369e9:
+
+    # a "I- well... We can't kill him. We're here to build something beautiful, not to destroy the nature."
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_672c682a:
+
+    # "Amble exclaims as he furrows his brows, thumb is rubbing against his palm nervously."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_b71b0419:
+
+    # e "Hmm... then should we just wait?"
+    e ""
+
+translate schinese Amble_Voting_Construction_Work_d25c5a4b:
+
+    # a "Well, yeah! You're right, [e]. But, how long is it going to take?"
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_72849806:
+
+    # "You shake your head, both of you have no idea when will the monster leave."
+    ""
+
+translate schinese Amble_Voting_Construction_Work_af76e330:
+
+    # a "So... what should we do?" nointeract
+    a "" nointeract
+
+translate schinese Amble_Voting_Construction_Work_c2fced19:
+
+    # e "We'll just fight it until it gets scared and leave, okay? No killing."
+    e ""
+
+translate schinese Amble_Voting_Construction_Work_88960688:
+
+    # a "Puny friend, do you think that'll work?"
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_b841d111:
+
+    # e "I think so."
+    e ""
+
+translate schinese Amble_Voting_Construction_Work_fc47d298:
+
+    # a "Alright then, let's go."
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_dcdff00e:
+
+    # e "I think we should just wait."
+    e ""
+
+translate schinese Amble_Voting_Construction_Work_7a2ece73:
+
+    # a "You're right, puny friend. Killing is not the only option we have here."
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_c85bbac3:
+
+    # a "In another word, how magnificent that a creature like this is bestowed upon us by mother nature?"
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_6ca3fbc7:
+
+    # e "That's really rare I agree."
+    e ""
+
+translate schinese Amble_Voting_Construction_Work_6086a4a1:
+
+    # a "Alright, if you need some rest, I'll stay and maybe wait until the guy's gone."
+    a ""
+
+translate schinese Amble_Voting_Construction_Work_e1ea108e:
+
+    # e "Thanks, Amble!"
+    e ""
+
+translate schinese Amble_Voting_Continue_Bridgeroot_Break_a12fb776:
+
+    # e "Hey, Amble, is that monster not gone yet?"
+    e ""
+
+translate schinese Amble_Voting_Continue_Bridgeroot_Break_b347f3f5:
+
+    # a "Not yet, I'm afraid."
+    a ""
+
+translate schinese Amble_Voting_Continue_Bridgeroot_Break_2877e600:
+
+    # "You notice the green shaped monster is still sitting on the edge of the bridge, his thin legs swinging in the air as his head veer around idly."
+    ""
+
+translate schinese Amble_Voting_Continue_Bridgeroot_Break_639fe8a8:
+
+    # "Amble sighs as he continues waiting."
+    ""
+
+translate schinese Amble_Voting_Continue_Bridgeroot_Finish_88332c62:
+
+    # e "Hey, Amble, where is the monster?"
+    e ""
+
+translate schinese Amble_Voting_Continue_Bridgeroot_Finish_c561b70d:
+
+    # a "Oh! Puny friend, you're right on time! It just left. I saw him got up and started walking south of the river."
+    a ""
+
+translate schinese Amble_Voting_Continue_Bridgeroot_Finish_22992bb1:
+
+    # a "We actually ended up talking to each other for a while. He's a kind friend."
+    a ""
+
+translate schinese Amble_Voting_Continue_Bridgeroot_Finish_8386157a:
+
+    # e "Talking? I didn't know a bundle of moss can talk."
+    e ""
+
+translate schinese Amble_Voting_Continue_Bridgeroot_Finish_209f2bde:
+
+    # a "Nah, it's basically me talking myself and he's listening. Isn't that the same thing?"
+    a ""
+
+translate schinese Amble_Voting_Continue_Bridgeroot_Finish_d0024084:
+
+    # e "Well, at least I'm glad you two got along with each other!"
+    e ""
+
+translate schinese Amble_Voting_Continue_Bridgeroot_Finish_a4ed138e:
+
+    # a "Hah, thanks, puny friend. But we have something else ahead of us now - the bridge! We should get back to construction right now."
+    a ""
+
+translate schinese Amble_Voting_Continue_Bridgeroot_Finish_c93e87ee:
+
+    # e "Alright, let's get on with it."
+    e ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_c94cc214:
+
+    # "For the next few hours, you two begin using the masonry mix to stablize the rocks in between these wooden structure you have created."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_3dabb469:
+
+    # "Moments after moments, you stare at Amble's sweaty posture, he's always been so eager to work on this project, and you're kinda glad to see him putting all his effort into rebuilding the bridge between Lusterfield and the goat tribe."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_2e8883a0:
+
+    # "He's been working so hard, that it almost seems like he has forgotten what happened to the green creature you two had just fought."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_e09df8b8:
+
+    # "At least that's what you believed, until he turns around in the middle of moving the stone bricks."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_8e303813:
+
+    # a "My tribe always taught me not to interfere with the nature's balance, it's truly a beautiful habitat here."
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_514b20b9:
+
+    # e "Hey, Amble. Is it about that... monster?"
+    e ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_89615360:
+
+    # a "You can't make it a habit to kill wild creatures and monsters. It's part of the nature's balance... and well I wished we hadn't needed to kill him."
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_fd0d016e:
+
+    # a "I have to remind myself, we are here to build bridges, to mend the relationships between the people we love. Don't you agree, [e]?"
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_0c732173:
+
+    # e "Y-yes, of course, that's why I came here with you."
+    e ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_851aa97b:
+
+    # a "And it seems every decision we made, we're straying further and further away from that."
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_f82f3ebf:
+
+    # "Amble turns around once more, and resumes on his work. It's rare to hear the usually dumbfounded and bright Amble, said something so... gloomy."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_a2688bfc:
+
+    # "Perhaps what happened really did changed what he had in mind. What comes at a small inconvenience had just suddenly turned into a disaster. You wished it hadn't have to be this way, but what choice did he have?"
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_a7cc8203:
+
+    # "It's either the monster, or your life at risk. How would he even think of letting the nature runs its course. And either way, someone is dying and it's his hand in red."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_f924debc:
+
+    # "Not to ask, where is the monster even coming from? It doesn't seem like Amble wants to talk further, but by the looks of it, maybe it's the remnant of the energy of that golem you had met around the river."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_ae80fb78:
+
+    # "But, if there were to be consequences of the action, you probably had to be prepared..."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_f57fe4f5:
+
+    # "You thought comes to a halt as he hands you another stone brick to be stacked, you two have been working so hard, but it doesn't even seem like the construction is close to finished."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_93de948c:
+
+    # "Almost 5 hours has passed, all the towels Amble has prepared are already drenched in his sweat. You pant heavily, as you see Amble sits on the half-completed bridge."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_d8794366:
+
+    # "Suddenly, something pokes its head out of the trees behind you. You come to a jolt before readying your weapon behind Amble."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_488390cf:
+
+    # gt "Uh... what are you guys doing here?"
+    gt ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_bfe21272:
+
+    # "It reveals to be a goat, probably guarding the ancient tree nearby. He's holding his spear cautiously, staring at you two with widened eyes."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_c5123974:
+
+    # a "We're rebuilding this bridge, my friend. Want to join us?"
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_3917005c:
+
+    # gt "B-but it's been abandoned for years, why do you want to build it all of a sudden?"
+    gt ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_c4278ae8:
+
+    # a "It was a beautiful bridge, don't you agree? It'd be a waste to let it dry out from here."
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_4bd1c4ba:
+
+    # "The goat says nothing, his eyes squint together as if he was pondering something. But just as you're about to open your mouth, he vanishes from the trees."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_5a82e97e:
+
+    # e "Where did he go?"
+    e ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_1b624c85:
+
+    # a "Probably just left, well. Let's resume our work then."
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_b5c31843:
+
+    # "You nod, and begin hauling the next stone brick onto the bridge. Amble does so as he prepares the next rock."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_be2c8b96:
+
+    # "It continues for almost an hour, before you are suddenly greeted by another uninvited visitor."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_dc4cd92d:
+
+    # gt "Hey, that's the lusterfolks building the bridge."
+    gt ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_16ac882d:
+
+    # "It seems to be the same goat that talked to you earlier, except that he's bringing a few more of his friends along the way."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_fdc503e3:
+
+    # gt "Do you guys need some help? Maybe we can lend a hand, or something."
+    gt ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_52898954:
+
+    # a "Oh, sure! Of course. Please do, my friend. It's our bridge."
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_cf7aa17c:
+
+    # e "A-amble, are you sure we can... allow that?"
+    e ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_40f55458:
+
+    # a "I'm sure, puny friend, they'll save a lot of time and effort for us."
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_58f73a65:
+
+    # "He smiles with a lopsided grin, probably the first time since you two had fought the moss monster."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_972342b0:
+
+    # "He grins. It puts a smile on your face to see him genuinely happy."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_dae69d24:
+
+    # "The goats all jumps into the water as they murmur among themselves, Amble leads them to the bridge with ease as he instructs them what to do."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_21e6b6ef:
+
+    # "Some of them had started working already, and soon the rest of you join in, on the other side of the bridge. Amble hands them the rock with a relieved face."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_43beec97:
+
+    # "Surprisingly, the goats are eager to help, you'd think they might be opposed to building it, but they seem to be wishful to see the bridge back to its previous glory."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_0a76447f:
+
+    # "Amble pats your back as he tumbles the rest of the rocks across the river. It could have taken days, if not a week to finish the bridge, but with the goats it seems almost a breeze to blow through."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_40f094a7:
+
+    # "For the next few hours, some goats joins and some leaves to return home, but you can see the progress very clearly, as both ends of the bridge slowly reaches to the center."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_f96a2fbc:
+
+    # "At least the masonry mix you've crafted is sufficient to do its job, filling in the gaps between stone bricks."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_8f9eaca1:
+
+    # "Amble seems pleasantly surprised by how quick the bridge seems to be finishing, with only a few rocks remaining, it's only a matter of time before the bridge can be walked across once again."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_d7abbcd3:
+
+    # a "Well, that's the last one."
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_c59d7159:
+
+    # "Amble sighs as the rock settles perfectly onto the cracks, the magical material does help quickly sealing the deal with its extra stability and cohesion."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_f3ee70a6:
+
+    # "Everyone cheers, including you and the goats, after hours and hours of work, it was quite amazing to see what the two village had before finally reinstated."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_6d40072f:
+
+    # gt "Haah! Damn, we didn't know it'd be this easy... it had been an honour."
+    gt ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_73fcb30f:
+
+    # gt2 "Well, you've got good hearts in ya. The bridge will help both sides a lot, no matter whatever happens to the votes."
+    gt2 ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_24f0f199:
+
+    # "You nod, receiving a few thumbs up from the goats."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_0190ee90:
+
+    # "They are laughing amongst themselves as they soon depart."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_fb3e6815:
+
+    # a "Farewell, my friends."
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_61dfcefa:
+
+    # "Amble stands pridefully as he waves goodbye to the goats, as you stand by his side."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_a258e347:
+
+    # a "Well, here's the bridge. Doesn't it look wonderful, puny friend?"
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_211d43e5:
+
+    # e "It does! It's been a great journey working with you, Amble."
+    e ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_1c00a361:
+
+    # a "True, and the goats too. I was pleasantly surprised they're such an enthusiastic bunch of fellows. Well, I guess that settles it."
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_73701db5:
+
+    # e "Ah, did you decide what you're gonna vote?"
+    e ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_194b3b5e:
+
+    # a "Yeah, I'm gonna have to say sorry to Lot a lot after the vote."
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_8607607c:
+
+    # a "Well... I changed my mind. But it's already past the vote day."
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_6186867a:
+
+    # "You nod."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_8ea02189:
+
+    # a "Anyway, don't step on the bridge too soon, the mix's not dried yet."
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_9ad6db3c:
+
+    # e "Of course, well. It's been an honour for me too."
+    e ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_d57fac30:
+
+    # a "Yes, well. Maybe if we have some fun projects with Jog later on we'll be sure to include you, [e]."
+    a ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_adb3abec:
+
+    # "You put on a wide grin."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_70717542:
+
+    # "It seems Amble is putting behind all matter with the bridgeroot. You're sort of glad he did so, at least what happened might not have changed him as much."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_02a42d0d:
+
+    # "Though, perhaps it's only because it's something he doesn't like to talk about."
+    ""
+
+translate schinese Amble_Voting_Continue_Last_Stretch_Start_b9724847:
+
+    # "You two part way, as Amble finishes decorating the bridge."
+    ""
+
+translate schinese Ole_Voting_Opinion_c5610f86:
+
+    # e "Ole, how do you think about the vote that's coming soon?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_62ebf383:
+
+    # o "The voting day? Well, let's say I didn't expect Rahim to actually hold something like that."
+    o ""
+
+translate schinese Ole_Voting_Opinion_5833a4c7:
+
+    # e "Uh... Why not?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_74e94165:
+
+    # o "For starter, he's not fond of goats, that was kind of an obscure fact."
+    o ""
+
+translate schinese Ole_Voting_Opinion_ef4d2025:
+
+    # "Ole raises his voice, telling you that he's clearly sarcastic."
+    ""
+
+translate schinese Ole_Voting_Opinion_380e3a76:
+
+    # o "I guess he has had a change of heart, after what transpired when he shouted at Furkan."
+    o ""
+
+translate schinese Ole_Voting_Opinion_f0c0494d:
+
+    # e "Yeah, did you hear it too?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_00ec1f58:
+
+    # o "Who didn't? Rahim has such a rough shouting voice, you'd be surprised if someone in the village didn't hear it."
+    o ""
+
+translate schinese Ole_Voting_Opinion_95698767:
+
+    # o "Anyway, kiddo. What were you about to ask?"
+    o ""
+
+translate schinese Ole_Voting_Opinion_030684d6:
+
+    # e "I just wanted to ask, uh... how would you vote?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_37f5c473:
+
+    # o "I'm rather confused if you're asking for my opinion or an instruction."
+    o ""
+
+translate schinese Ole_Voting_Opinion_314b8e63:
+
+    # o "Let me assume it's opinion. Well, I haven't decided yet, but in most scenarios I can foresee, I would vote no."
+    o ""
+
+translate schinese Ole_Voting_Opinion_ca4760a9:
+
+    # o "It's not much of a problem with the goats essentially, but their guards had been giving me a headache I'd rather not ally with them."
+    o ""
+
+translate schinese Ole_Voting_Opinion_5155defd:
+
+    # e "Hey, but Seb was quite adament about this whole change, right?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_17714d64:
+
+    # o "I know his reasons."
+    o ""
+
+translate schinese Ole_Voting_Opinion_a0d4a875:
+
+    # o "Seb's going to hate me for that, but it's true. The goats were really nosy about where our goods come from, well before everything took a bad turn."
+    o ""
+
+translate schinese Ole_Voting_Opinion_fc11ff6b:
+
+    # e "But, you trusted me, even at the first day we met."
+    e ""
+
+translate schinese Ole_Voting_Opinion_b305fc39:
+
+    # o "Ha, well. You have no ulterior motives. It was just too easy to see what's your heart's made of."
+    o ""
+
+translate schinese Ole_Voting_Opinion_73608467:
+
+    # e "Oh... my heart?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_4023533a:
+
+    # o "Mmm-hmm, that's why we let you stay, it didn't take a lot to see through you, but it's not a bad thing, kiddo."
+    o ""
+
+translate schinese Ole_Voting_Opinion_fee661a0:
+
+    # e "Ole, are you serious."
+    e ""
+
+translate schinese Ole_Voting_Opinion_da16e49c:
+
+    # o "Well, that's the fun right. Much like, I already know why you're asking me about the vote."
+    o ""
+
+translate schinese Ole_Voting_Opinion_1fb2cbe5:
+
+    # "You notice Ole staring deep into your eyes as he leans closer."
+    ""
+
+translate schinese Ole_Voting_Opinion_91343075:
+
+    # o "Because, you wanted to see if I have the same opinion as you do! Isn't it?"
+    o ""
+
+translate schinese Ole_Voting_Opinion_67700914:
+
+    # e "That's very insightful, but why would you vote otherwise, firstly?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_30df0001:
+
+    # o "I said it's about the goats, but it was not all of them, just one."
+    o ""
+
+translate schinese Ole_Voting_Opinion_0b67b621:
+
+    # o "Their shopkeeper, Gwyddyon, when we first made our trade deals, and I was away, he took advantage of Seb."
+    o ""
+
+translate schinese Ole_Voting_Opinion_81863cf9:
+
+    # o "Not the other advantage. But by strangling all source materials for all stones and crystals, he backed Seb into a corner-"
+    o ""
+
+translate schinese Ole_Voting_Opinion_87874b6d:
+
+    # "Ole shifts his gaze around, weirdly he seems unconfortable with the words he has spoken."
+    ""
+
+translate schinese Ole_Voting_Opinion_90acd677:
+
+    # o "At the end of the day, we got the worst end of the deal. And we ended up working together, but not out of mutual benefits, but obligations."
+    o ""
+
+translate schinese Ole_Voting_Opinion_232db0f8:
+
+    # o "We've worked this way for some time, before our contact was severed, naturally. And after all these years, Seb might have forgotten about this, but I didn't."
+    o ""
+
+translate schinese Ole_Voting_Opinion_c3859c08:
+
+    # "He turns his attention back to you, with a significantly more confident stare, ones that feels as if he staring into your very being."
+    ""
+
+translate schinese Ole_Voting_Opinion_148202d1:
+
+    # "You naturally squirm, even as a friend who rescued you on your first day in this world, he seems... too ambitious for the Ole you knew."
+    ""
+
+translate schinese Ole_Voting_Opinion_3835c9d3:
+
+    # o "So, if we have to make a better deal, maybe I should know fully what his intention is."
+    o ""
+
+translate schinese Ole_Voting_Opinion_ffb43444:
+
+    # o "We have already arranged a meeting in Haskell's place beforehand, just the day before the voting begins."
+    o ""
+
+translate schinese Ole_Voting_Opinion_04aab8cc:
+
+    # o "I'll be there talking with Gwyd. And Haskell will be... some sort of mediator."
+    o ""
+
+translate schinese Ole_Voting_Opinion_7ac01ecb:
+
+    # o "But, before that, I need your help to, perhaps make the negotiation smoother."
+    o ""
+
+translate schinese Ole_Voting_Opinion_febb18b0:
+
+    # e "Am I the only one who can do it?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_aa8b61ed:
+
+    # o "Of course, kiddo. The only question is, are you going to help?" nointeract
+    o "" nointeract
+
+translate schinese Ole_Voting_Opinion_3429900b:
+
+    # e "Sure. How do I get started?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_b1b72812:
+
+    # o "Well, that's very easy, unless Gwyd's not being coperative, which I can already envision him so."
+    o ""
+
+translate schinese Ole_Voting_Opinion_7e0ee3bd:
+
+    # "The lizard steps away and cleans his towel, before leading you to your table."
+    ""
+
+translate schinese Ole_Voting_Opinion_c812a3a2:
+
+    # o "In the old trade route we- {i}agreed{/i} upon, we exports the herbs and harvests and some potions. And them with the assistance of the dark forest, exported building materials, rocks and minerals."
+    o ""
+
+translate schinese Ole_Voting_Opinion_67653c62:
+
+    # o "And it will probably stay the same if we ever cooperate again."
+    o ""
+
+translate schinese Ole_Voting_Opinion_bdd6fa0b:
+
+    # o "So, there's something I need you to do, which involves something rather dangerous."
+    o ""
+
+translate schinese Ole_Voting_Opinion_f582aa3a:
+
+    # e "Okay then, but you're being pretty suspicious lately, Ole."
+    e ""
+
+translate schinese Ole_Voting_Opinion_33d95733:
+
+    # o "Maybe, but you didn't know how badly we got out of that deal."
+    o ""
+
+translate schinese Ole_Voting_Opinion_c50ce141:
+
+    # o "We were basically working under him, as the majority of our profit are just sent directly to his magic shop."
+    o ""
+
+translate schinese Ole_Voting_Opinion_0c65b962:
+
+    # o "And Haskell was rightfully pissed too."
+    o ""
+
+translate schinese Ole_Voting_Opinion_8b8ac6f4:
+
+    # o "That's not true, even if we're counting Pirkka's prose."
+    o ""
+
+translate schinese Ole_Voting_Opinion_7bdf329b:
+
+    # e "Oh we are surely counting that."
+    e ""
+
+translate schinese Ole_Voting_Opinion_1159b1cd:
+
+    # o "Well, the truth is, there was something I noticed while engaging with the bandits."
+    o ""
+
+translate schinese Ole_Voting_Opinion_79bc9ac6:
+
+    # e "What's it?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_a3c3a132:
+
+    # o "I happened to run into the supplier of Gwyd's shop. That was one of the reasons I talked with the bandits after all, to track where his products come from."
+    o ""
+
+translate schinese Ole_Voting_Opinion_9d1b5625:
+
+    # o "If we need to end up on the better end of the deal, well, Gwyd has to need us more than we need them."
+    o ""
+
+translate schinese Ole_Voting_Opinion_30f11081:
+
+    # o "And that means, that supplier needs to stop, for lack of a better word, supplying Ardent Cauldron."
+    o ""
+
+translate schinese Ole_Voting_Opinion_a581a946:
+
+    # e "Is that necessary? Can we not, talk this over?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_0a2d8be1:
+
+    # o "Trusting him like Seb does was a mistake, maybe we need to take a form of revenge to make Gwyd reconsider his position a little better."
+    o ""
+
+translate schinese Ole_Voting_Opinion_504fd88b:
+
+    # "Ole gives you a cheeky wink, one with a warm intention, but also a tint of craftiness."
+    ""
+
+translate schinese Ole_Voting_Opinion_e841e69e:
+
+    # e "So, what should I do?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_1aa010cd:
+
+    # o "The supplier will be present in the negotiation. They had heard about what happened in Lusterfield too, so I think they'll be discussing a new contract."
+    o ""
+
+translate schinese Ole_Voting_Opinion_6c623e46:
+
+    # e "What does that mean, Ole-"
+    e ""
+
+translate schinese Ole_Voting_Opinion_8adecfd2:
+
+    # o "Through my own observation, I've got to know some mysterious individual that supplies Gwyd his everyday goods."
+    o ""
+
+translate schinese Ole_Voting_Opinion_9d1b5625_1:
+
+    # o "If we need to end up on the better end of the deal, well, Gwyd has to need us more than we need them."
+    o ""
+
+translate schinese Ole_Voting_Opinion_30f11081_1:
+
+    # o "And that means, that supplier needs to stop, for lack of a better word, supplying Ardent Cauldron."
+    o ""
+
+translate schinese Ole_Voting_Opinion_a581a946_1:
+
+    # e "Is that necessary? Can we not, talk this over?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_0a2d8be1_1:
+
+    # o "Trusting him like Seb does was a mistake, maybe we need to take a form of revenge to make Gwyd reconsider his position a little better."
+    o ""
+
+translate schinese Ole_Voting_Opinion_504fd88b_1:
+
+    # "Ole gives you a cheeky wink, one with a warm intention, but also a tint of craftiness."
+    ""
+
+translate schinese Ole_Voting_Opinion_e841e69e_1:
+
+    # e "So, what should I do?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_6b543114:
+
+    # o "Gwyd meets up with his supplier in the morning, they had heard about what happened in Lusterfield too, so I think they'll be discussing a new contract."
+    o ""
+
+translate schinese Ole_Voting_Opinion_93b1024d:
+
+    # e "Wait, how did you know so much things?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_627e244a:
+
+    # o "It's a secret, kiddo."
+    o ""
+
+translate schinese Ole_Voting_Opinion_959f4acb:
+
+    # o "So, you'll need to talk to Gwyd about his latest product, try to get some information about it, and then, we'll probably try to one-up him, and make something much more impressive for the supplier."
+    o ""
+
+translate schinese Ole_Voting_Opinion_65ba276b:
+
+    # o "The hardest part is to probe some information out of him. From what I've already experienced, you only have one chance before he gets nosy. So don't mess it up."
+    o ""
+
+translate schinese Ole_Voting_Opinion_50023211:
+
+    # e "Alright, I'll try my best to poke around, for whatever's worth."
+    e ""
+
+translate schinese Ole_Voting_Opinion_d3d52d55:
+
+    # "Ole gives you a smile, before turning back his attention to the dressers."
+    ""
+
+translate schinese Ole_Voting_Opinion_e39187bd:
+
+    # o "I trust you, [e], both for finishing the task, and for indulging with my own affair."
+    o ""
+
+translate schinese Ole_Voting_Opinion_37652548:
+
+    # e "You saved my life, right over at the green forest when I was passed out. And I'll forever be indebted."
+    e ""
+
+translate schinese Ole_Voting_Opinion_8955f0c4:
+
+    # o "Yeah? Forever?"
+    o ""
+
+translate schinese Ole_Voting_Opinion_3260a0a5:
+
+    # "He leans in, just one inch short of being uncomfortably close. And you look into his eyes, uncertain yet attentive."
+    ""
+
+translate schinese Ole_Voting_Opinion_dc8d509c:
+
+    # o "Don't kid, [e]. You'll need more than forever."
+    o ""
+
+translate schinese Ole_Voting_Opinion_7f319d0e:
+
+    # "The whole world seems to have taken a pause at this moment, your hands touch without you both knowing, and it naturally clenches against each other."
+    ""
+
+translate schinese Ole_Voting_Opinion_d0d25754:
+
+    # "His mouth hangs agape slightly, and you can feel his breath, directly coming out of his mouth as he gasps in surprise or confusion."
+    ""
+
+translate schinese Ole_Voting_Opinion_27c0fa73:
+
+    # "Something is pulling you into his scaly embrace, you can't tell what it is exactly, but right now everything suddenly goes blurry, except for Ole."
+    ""
+
+translate schinese Ole_Voting_Opinion_69c0771b:
+
+    # "With a quick blink, Ole snaps back into reality, and you feel his scaly hand releases yours, and instead quickly pinches onto your red cheeks."
+    ""
+
+translate schinese Ole_Voting_Opinion_4e69d433:
+
+    # o "Something's on your face."
+    o ""
+
+translate schinese Ole_Voting_Opinion_63313137:
+
+    # "He lets go of your soft cheeks, nudges his fingers for quite a few times, as you stand still, still processing what had happened."
+    ""
+
+translate schinese Ole_Voting_Opinion_7fa87ded:
+
+    # "Some of Ole's warmth lingers as your palm feels for your cheeks. as if you are still being pinched by his plump claws, and that small action has made your heart racing so fast."
+    ""
+
+translate schinese Ole_Voting_Opinion_9ba79151:
+
+    # e "Hey, Ole-"
+    e ""
+
+translate schinese Ole_Voting_Opinion_8866236d:
+
+    # o "Get going now, kiddo."
+    o ""
+
+translate schinese Ole_Voting_Opinion_319c8a74:
+
+    # "Ole returns his attention to the furniture, scrubbing onto another dark spot so hard that he's scraping off the paint from the dresser."
+    ""
+
+translate schinese Ole_Voting_Opinion_9deba1a3:
+
+    # e "W-well, maybe later?"
+    e ""
+
+translate schinese Ole_Voting_Opinion_04ee4374:
+
+    # o "Alright, then I'll keep on scrubbing on the dresser."
+    o ""
+
+translate schinese Ole_Voting_Opinion_07f4540d:
+
+    # "Ole smiles, before returning his attention to his own towel."
+    ""
+
+translate schinese Ole_Voting_After_Gwyddyon_ec40807d:
+
+    # e "Hey, Ole. I'm back... from asking Gwyd some questions."
+    e ""
+
+translate schinese Ole_Voting_After_Gwyddyon_1184ddb0:
+
+    # o "Did you find anything useful?"
+    o ""
+
+translate schinese Ole_Voting_After_Gwyddyon_e16e600a:
+
+    # e "Hmm..." nointeract
+    e "" nointeract
+
+translate schinese Ole_Voting_After_Gwyddyon_090518c7:
+
+    # e "Actually, Gwyd's supplier wanted a harp at the meeting."
+    e ""
+
+translate schinese Ole_Voting_After_Gwyddyon_85a47c45:
+
+    # e "Well... I don't think I found anything that helps find your supplier... his lips were pretty tight about it. Just overall very sensitive."
+    e ""
+
+translate schinese Ole_Voting_After_Gwyddyon_bd6df453:
+
+    # o "That's the Gwyddyon I know. Don't worry, you've tried your best, kiddo."
+    o ""
+
+translate schinese Ole_Voting_After_Gwyddyon_256a807f:
+
+    # e "So, what are you gonna do?"
+    e ""
+
+translate schinese Ole_Voting_After_Gwyddyon_dbcf9f90:
+
+    # o "Now's the time I try my best too. I'll go to the meeting with Gwyd. Hopefully what I had already prepared will prove sufficient."
+    o ""
+
+translate schinese Ole_Voting_After_Gwyddyon_199b6815:
+
+    # e "I'm sorry I couldn't help more, Ole."
+    e ""
+
+translate schinese Ole_Voting_After_Gwyddyon_4e42aafc:
+
+    # o "It's fine, not really your fault that Gwyddyon was so stingy. But well, if the plan falls apart, I guess there's no use for me to change my vote."
+    o ""
+
+translate schinese Ole_Voting_After_Gwyddyon_b2210c82:
+
+    # "You nod, as Ole pats your shoulder softly."
+    ""
+
+translate schinese Ole_Voting_After_Gwyddyon_4e9659b1:
+
+    # o "But, that doesn't mean you're still a helpful friend to me. No matter what the vote will end up."
+    o ""
+
+translate schinese Ole_Voting_After_Gwyddyon_e15831c8:
+
+    # "He smiles as the lizard hovers his hand over your hair, and scruffles it playfully."
+    ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_df7cdc60:
+
+    # o "A... A musical harp?"
+    o ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_449b7950:
+
+    # e "Yeah, the one you play with finger, I guess. I'm not sure why he wanted that though, Gwyddyon was confused also."
+    e ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_47b41adc:
+
+    # o "Hmm..."
+    o ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_3924b411:
+
+    # "Ole ponders for a moment, tapping his finger at the dresser."
+    ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_5e1efcd5:
+
+    # o "Perhaps he wanted to test if Gwyd understands his materials. He didn't want him to just put his products on the shelves and then forget about it."
+    o ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_55d73e77:
+
+    # o "Maybe I'm stretching it, maybe he just wants a harp. In this case, we can make one ourselves, we may have even secured the deal if ours are better than what Gwyd comes up with."
+    o ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_791c37a0:
+
+    # e "I guess so. But where can we find a harp...?"
+    e ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_e965aa10:
+
+    # o "Find? No, no. Judging by what you said, we will need to make them from the supplier's materials."
+    o ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_bbc6c1f3:
+
+    # o "Lucky for us, I happen to know the entire catalogue of the products he sells."
+    o ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_32af068b:
+
+    # e "But we don't even know where is the supplier. Even if we know, why would he sell his products to us."
+    e ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_7339dc66:
+
+    # o "You're right, maybe we'll end up buying from Gwyd, without him knowing what they're used for."
+    o ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_9c08f28d:
+
+    # o "Alright, we'll settle onto this first. But how can we make a Harp, we need much more than these materials."
+    o ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_7839a179:
+
+    # o "I've seen pawned musical instruments before, but making one myself... I'm not so sure." nointeract
+    o "" nointeract
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_cdc41e09:
+
+    # e "Maybe, we can ask Pirkka. He's a bard, right? He must know about Lutes and Harps a little."
+    e ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_4f4a37ab:
+
+    # o "Ah! You're right, [e]. Well, after what happened with his prose, I hadn't even given him a proper apology."
+    o ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_f6ace32b:
+
+    # e "I'm sure he doesn't hold grudges."
+    e ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_8faabd5c:
+
+    # o "Maybe, we'll see. Where is he staying anyway, still in Nocturnal Trunk?"
+    o ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_01db9bb8:
+
+    # e "I suppose so."
+    e ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_ef21100d:
+
+    # o "Alright then, give me a second to prepare the catalogue and some coins, we'll go when we're both ready, okay?"
+    o ""
+
+translate schinese Ole_Voting_Got_Gwyd_Answer_f34a0389:
+
+    # "Ole smiles, and swiftly rushes up the stairs."
+    ""
+
+translate schinese Ole_Voting_Doing_Ourselves_a56c10fb:
+
+    # e "I guess we can do it ourselves? Do we have any clues about the materials we have?"
+    e ""
+
+translate schinese Ole_Voting_Doing_Ourselves_b0985e66:
+
+    # o "Mmhmm... I have the list of the current exports they're sending to Gwyddyon."
+    o ""
+
+translate schinese Ole_Voting_Doing_Ourselves_4df4d62a:
+
+    # e "Damn, Ole. You sure did a lot of research on that supplier you don't even know."
+    e ""
+
+translate schinese Ole_Voting_Doing_Ourselves_50e44e90:
+
+    # o "Well, the bandits hold the only route from the North. So it only takes a few... persuasions."
+    o ""
+
+translate schinese Ole_Voting_Doing_Ourselves_64613c95:
+
+    # o "But that doesn't matter. The only thing that matters is the materials. If the supplier wants us to utilise his materials, then we should start from looking at his materials."
+    o ""
+
+translate schinese Ole_Voting_Doing_Ourselves_6ff78bf5:
+
+    # o "It'll take a while to research, I have previous records of old string instrument we got from the shop, hopefully that'll get us a lead."
+    o ""
+
+translate schinese Ole_Voting_Doing_Ourselves_2d861fc4:
+
+    # e "It sounds like some heavy work, can I help?"
+    e ""
+
+translate schinese Ole_Voting_Doing_Ourselves_3f0e071e:
+
+    # "Ole ponders for a moment, and then smiles awkwardly as he scratches the back of his neck."
+    ""
+
+translate schinese Ole_Voting_Doing_Ourselves_1565c66b:
+
+    # o "I should handle those researches myself, but please do come back once I'm done with finding out which materials we need."
+    o ""
+
+translate schinese Ole_Voting_Doing_Ourselves_f248fa03:
+
+    # e "A-alright. I'll trust your judgement."
+    e ""
+
+translate schinese Ole_Voting_Doing_Ourselves_3d6a6274:
+
+    # o "Thank you, [e]."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_55064f39:
+
+    # e "Hey, Ole. Did you find which materials we need?"
+    e ""
+
+translate schinese Ole_Voting_Finding_Number_ea5dfd45:
+
+    # o "Yeah, after studying for the past day I feel like I've... become a instrument expert."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_7e46cb80:
+
+    # o "Like the strings-"
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_24abc5f3:
+
+    # s "Yo, what'chu talking about?"
+    s ""
+
+translate schinese Ole_Voting_Finding_Number_6ecc20d9:
+
+    # "Sebas suddenly pokes his head between the both of you. Turning his head to both of you curiously."
+    ""
+
+translate schinese Ole_Voting_Finding_Number_209707be:
+
+    # e "Uh..."
+    e ""
+
+translate schinese Ole_Voting_Finding_Number_85dc588e:
+
+    # o "We're reading books, do you want to chime in?"
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_9e5736d6:
+
+    # s "Aw, don't count me in! I don't want to get dragged in your '{i}boring yourself to death session{/i}' for 10 hours."
+    s ""
+
+translate schinese Ole_Voting_Finding_Number_64a31503:
+
+    # o "You sure? I've got some book recommendations for new beginners."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_37b9a5b6:
+
+    # s "I'll go play wit-... by myself. Hey, have fun with your books! Don't let me get between you two!"
+    s ""
+
+translate schinese Ole_Voting_Finding_Number_ed3078e9:
+
+    # s "-Good luck! Enjoy your books, my big O and [e]!"
+    s ""
+
+translate schinese Ole_Voting_Finding_Number_37b971ed:
+
+    # "Sebas exclaims as he retreats from between you and returns to his counter."
+    ""
+
+translate schinese Ole_Voting_Finding_Number_c59a3ade:
+
+    # e "Uh, Ole. Is it something we can't talk about?"
+    e ""
+
+translate schinese Ole_Voting_Finding_Number_ac4858b2:
+
+    # "You whisper, as Ole leans in to listen."
+    ""
+
+translate schinese Ole_Voting_Finding_Number_143c9a63:
+
+    # o "No, Seb can know about it. I really was reading a book about instruments last night. There were a lot of crucial information."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_8ac26874:
+
+    # e "Crucial information?"
+    e ""
+
+translate schinese Ole_Voting_Finding_Number_3c2af980:
+
+    # o "Yes, well. Let's cut it short, alright. I think basically we'll need wood materials and strings."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_dd0d0f9d:
+
+    # o "I've already gotten myself Resonator Gems from deep inside our storage, 3 of them to be exact."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_5791f6e2:
+
+    # o "Elderwood sounds perfect for the harp we need to make, but there are some choices we'll need to make here."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_e15a4f5e:
+
+    # o "For the strings, we can either use Nylon or Crystal strings. Nylon's sound is more balanced, smooth. While Crystal strings have a richer, more resonant and harmonic sound."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_2351ca84:
+
+    # o "From the information I have right now, I really don't know which of them is better. Just that Nylon is cheaper in Gwyd's shop." nointeract
+    o "" nointeract
+
+translate schinese Ole_Voting_Finding_Number_41828b8e:
+
+    # e "Nylon? It sounds cool."
+    e ""
+
+translate schinese Ole_Voting_Finding_Number_d25be802:
+
+    # o "[e], we need the sound of the instruments, not the words themselves."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_9a4adc57:
+
+    # o "But I don't have a better idea to reject your choice, so Nylon it is."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_b88733ee:
+
+    # e "Maybe crystal strings? I think it'll look awesome."
+    e ""
+
+translate schinese Ole_Voting_Finding_Number_53b16bd7:
+
+    # o "Crystal strings... personally I have no problems of it, myself."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_1431434d:
+
+    # o "That sounds solid, so Crystal it is."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_c016ada8:
+
+    # e "Ah, so how much do I need?"
+    e ""
+
+translate schinese Ole_Voting_Finding_Number_be0c2df7:
+
+    # o "That's the hardest part. I don't know how many we'll need."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_f83d37fe:
+
+    # o "The only thing I know is, the string number hovers from... 8 to 15."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_aa58c4c6:
+
+    # o "And we'll need at least two more elderwood than strings, but the most wood we can use is also 15."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_64c8c0cb:
+
+    # e "That was such a huge range, how do we know the exact number."
+    e ""
+
+translate schinese Ole_Voting_Finding_Number_872e02cd:
+
+    # o "I'm not sure, but I guess we can try. We'll settle on a specific number, and after crafting it we can always test whether the number should be is higher and lower."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_e63ee9f3:
+
+    # o "Lucky for us, I read up a lot about the Harp, so I know what the perfect harp sounds like, but it looks like we'll need to play it out first."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_b897abdf:
+
+    # o "But don't you worry, [e]. We can always demolish the harp and take back the materials."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_6035b751:
+
+    # e "Wait, we can?"
+    e ""
+
+translate schinese Ole_Voting_Finding_Number_437183f5:
+
+    # "Ole nods."
+    ""
+
+translate schinese Ole_Voting_Finding_Number_ebc295d7:
+
+    # o "Yes, the only thing is, we have only three resonator gems, they cannot be retrieved. So there are only 3 chances before we send a subpar version of the harp."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_9fdc478a:
+
+    # o "Let's hope the supplier doesn't recognise the subpar harp immediately."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_201c6217:
+
+    # e "Alright, I hear you."
+    e ""
+
+translate schinese Ole_Voting_Finding_Number_daf5c86f:
+
+    # o "Here are the three resonator gems. Take good care of them, alright?"
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_5c903afa:
+
+    # o "Indeed, if you need to make one, we can create a recipe together so you can make a harp with your desired numbers."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_177dbce1:
+
+    # o "After that, you can come back and I'll test it out. I can probably tell if the harp sounds good, and we'll go from that."
+    o ""
+
+translate schinese Ole_Voting_Finding_Number_9d2f2d12:
+
+    # e "Alright."
+    e ""
+
+translate schinese Ole_Voting_Starting_Recipe_3951c265:
+
+    # e "Ole, I think I'm ready for the recipe of the harp."
+    e ""
+
+translate schinese Ole_Voting_Starting_Recipe_3cd08c30:
+
+    # o "Alright, remember, the numbers of the wood and string should be between 8 and 15."
+    o ""
+
+translate schinese Ole_Voting_Starting_Recipe_738f7f1d:
+
+    # o "From what we've gathered..."
+    o ""
+
+translate schinese Ole_Voting_Starting_Recipe_23287e86:
+
+    # o "Elderwood should be between [ole_voting_min_wood] and [ole_voting_max_wood]."
+    o ""
+
+translate schinese Ole_Voting_Starting_Recipe_08ecad9c:
+
+    # o "[ole_voting_string_name] should be between [ole_voting_min_string] and [ole_voting_max_string]."
+    o ""
+
+translate schinese Ole_Voting_Starting_Recipe_008b4391:
+
+    # o "It's just that we'll always need at least two more pieces of wood than the strings."
+    o ""
+
+translate schinese Ole_Voting_Starting_Recipe_8ad298bd:
+
+    # o "So, let's decide the number of the wood first."
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_Wood_eae2d1f3:
+
+    # o "So, we'll need [ole_voting_wood_num] pieces of wood, right?"
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_Wood_f37ae0de:
+
+    # o "Maybe [ole_voting_wood_num] pieces?"
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_Wood_802f2ca0:
+
+    # o "Alright, is [ole_voting_wood_num] pieces of wood correct?"
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_Wood_ff264e70:
+
+    # o "For elderwood, we'll have to buy... [ole_voting_wood_num] pieces?"
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_Wood_b15d1715:
+
+    # o "Oh, so you think [ole_voting_wood_num] would be enough for elderwood?"
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_Wood_2e49c377:
+
+    # o "Should we change the number? Or should we stick with [ole_voting_wood_num]?" nointeract
+    o "" nointeract
+
+translate schinese Ole_Voting_Making_Recipe_Wood_7d2782f2:
+
+    # e "I think the elderwood number is right."
+    e ""
+
+translate schinese Ole_Voting_Making_Recipe_Wood_ca9ef3a1:
+
+    # o "Oh, good. Let me write that down... The next is the string."
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_Wood_b54e59fa:
+
+    # e "I think I'll need some moment to think, Ole."
+    e ""
+
+translate schinese Ole_Voting_Making_Recipe_Wood_350174da:
+
+    # o "Sure, take your time, kiddo."
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_String_6f61a14a:
+
+    # o "So, we'll need [ole_voting_string_num] [ole_voting_string_name], right?"
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_String_79cf4bb0:
+
+    # o "Maybe [ole_voting_string_num] [ole_voting_string_name]?"
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_String_b8dc41b4:
+
+    # o "Alright, is [ole_voting_string_num] [ole_voting_string_name] correct?"
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_String_729685ef:
+
+    # o "For [ole_voting_string_name], we'll have to buy... [ole_voting_string_num]?"
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_String_c74c0f9e:
+
+    # o "Oh, so you think [ole_voting_string_num] would be enough for [ole_voting_string_name]?"
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_String_ad00aa23:
+
+    # o "Should we change the number? Or is [ole_voting_string_num] [ole_voting_string_name] alright?" nointeract
+    o "" nointeract
+
+translate schinese Ole_Voting_Making_Recipe_String_d3cc0014:
+
+    # e "I think the [ole_voting_string_name] number is right."
+    e ""
+
+translate schinese Ole_Voting_Making_Recipe_String_a6e0d9a2:
+
+    # o "Oh, good. Let me write that down... Alright, I think it's good to go now."
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_String_a3de8bbd:
+
+    # "Ole gives you the recipe with the number you have."
+    ""
+
+translate schinese Ole_Voting_Making_Recipe_String_313f69be:
+
+    # e "Wait, the recipe... is that a goat's pattern on the harp?"
+    e ""
+
+translate schinese Ole_Voting_Making_Recipe_String_7bde6d35:
+
+    # o "Yeah, I learned that from a book from the goat tribe long ago, I'm not sure if removing that has any effect on the Harp so I decided to keep it."
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_String_0fd2a714:
+
+    # o "Oh, and remember to buy some materials from Gwyd. It seems there's not enough of that from your recipe."
+    o ""
+
+translate schinese Ole_Voting_Making_Recipe_String_9c758972:
+
+    # "You nod, and head your way outside."
+    ""
+
+translate schinese Ole_Voting_Making_Recipe_String_b54e59fa:
+
+    # e "I think I'll need some moment to think, Ole."
+    e ""
+
+translate schinese Ole_Voting_Making_Recipe_String_350174da:
+
+    # o "Sure, take your time, kiddo."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_df85fb2e:
+
+    # e "Hey, Ole. Can you test out this Harp?"
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_0d867586:
+
+    # o "Oh! Alright, then let's go to your room."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_1528a86e:
+
+    # "Upon entering your bedroom, Ole immediately takes the hefty harp from your hand, he pulls out a few notes from his pocket and begins tuning the harp."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_a5a88a8d:
+
+    # o "T-this one here... gotta loosen that string."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_47b41adc:
+
+    # o "Hmm..."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_50e2de08:
+
+    # "He continues for a while as you wait patiently."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_af2091f2:
+
+    # "And then, he strums a few chords at each string, listening closely as he checks the scrambled paper."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_a4c071fa:
+
+    # o "Nope..."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_84cf605b:
+
+    # e "Anything you found?"
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_64f9bbd1:
+
+    # o "I did find something, but nothing too promising."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_392e3352:
+
+    # "He continues testing out the tone and sound. Working almost like a professional now."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_00e9872a:
+
+    # e "Damn, Ole. Have you really not learnt any instruments at all? Your hand looks so skilful turning around these buttons."
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_5611afa5:
+
+    # o "It's not that impressive I assure you. Just that when you've worked in a general store for so long, you start to figure out that every sort of gadgets has their own common method to disect them."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_ae3ecb05:
+
+    # o "And once you sort that out, reading manuals and books about this specific topics just makes the rules crystal clear."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_a7211008:
+
+    # o "Learning this helps you verify any gadgets and goods you get from the pawn customers, afterall, you'll have to take everything your customer throw at you, right?"
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_3a05f90d:
+
+    # o "For example, if you tweak this one... there's should be a sound, and squeaking doesn't count."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_7ce7ff0e:
+
+    # o "And this one should be a higher note."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_e61aa6f7:
+
+    # "He strums another chord, but it's almost the same as the previous string, if not lower."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_c948659d:
+
+    # "The lizard sighs playfully as he takes a quick glance at you."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_88aef0ed:
+
+    # "He proceeds to check the other strings, noticing that the first few are already wrong, it doesn't take long for him to finish."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_54b3db1d:
+
+    # o "So, the harp's good, but not as perfect as we need it to be."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_7b962d24:
+
+    # "You gulp, it's quite disappointing to hear, but Ole's reassuring voice makes you feel a little better."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_2d8cce67:
+
+    # o "No... this one isn't it."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_c71cd60d:
+
+    # e "What's wrong with it?"
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_32516d70:
+
+    # o "Well, it seems the sound is way too sturdy. And do you hear that squeak?"
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_c334e88f:
+
+    # "He says as he brushes his finger across the strings."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_7d9edad3:
+
+    # o "There's too many wood. Perhaps, the right number should be lower."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_5be5c54a:
+
+    # e "So, it should be lower than [ole_voting_wood_num]."
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_4fc4a726:
+
+    # o "I don't think the wood is supporting the strings too well. You see?"
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_91eacbf2:
+
+    # "He points at the loose string, it almost seems as if the strings are about to fall off any seconds."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_1edb25b1:
+
+    # o "We'll need more wood to support, probably tighten the strings up a little more."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_4f7f8fdd:
+
+    # e "So, it should be higher than [ole_voting_wood_num]."
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_77d06eb9:
+
+    # o "I think the wood is built perfectly, there's not much more a problem here, but..."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_3cb1c4ab:
+
+    # "You nod as he turns to the glistening strings."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_dc64ff72:
+
+    # o "Maybe there shouldn't be too much strings here, the spacing between them are too crammed."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_ba5561bd:
+
+    # "He plays the harp once more, you can hear a lot of echoes meshing together."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_35ded832:
+
+    # o "Yep, definitely a problem. Unless the supplier wants to strum ten chords at once, I think we should lower than the number of strings here."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_f014090f:
+
+    # e "So, it should be lower than [ole_voting_string_num]."
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_9852da37:
+
+    # o "I think the strings are too sparse, the air might affect how the sound turns out."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_55be9aa9:
+
+    # e "So, it should be higher than [ole_voting_string_num]."
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_adc3e2cf:
+
+    # "He nods."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_c4177371:
+
+    # o "However, the strings are perfect as it seems."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_64efcb47:
+
+    # e "Well... that was the last gem I have."
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_f5755b1a:
+
+    # o "It's all good. The harp is useable, and I sort of start to understand why the supplier insisted on Gwyddyon making a harp like this."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_e6567982:
+
+    # o "There were a lot of nuances and nitty-gritty hidden in the building of a harp, I was even pleasantly surprised you can make one so quickly."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_2a0f4d66:
+
+    # e "I did, but it wasn't too perfect and I've wasted your gems."
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_938016a7:
+
+    # o "Hah, it's all good. Regardless of how the meeting goes, I think I've learnt a lot from this, from both the books, and you."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_45def9c1:
+
+    # e "Really? I didn't think I've done that much."
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_95a90b46:
+
+    # o "Yes, you've got my vote, kiddo."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_83d62a5a:
+
+    # e "Thank you so much, Ole."
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_fa1664f4:
+
+    # "He scruffles your hair as he packs away the harp."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_b2061764:
+
+    # e "Are you not going t-"
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_f114573b:
+
+    # o "Here's the rewards for your help. Be sure to spend them wisely."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_a9587ebb:
+
+    # o "Oh, the harp. I'm putting it away. It's not as wise to present up a subpar harp to someone who didn't ask for that."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_f0e4decb:
+
+    # e "Aw..."
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_712bc4e6:
+
+    # o "Don't worry, kiddo. With this one, maybe I'll learn to play some Harp for myself once in a while."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_b261742b:
+
+    # "He speaks softly, patting your shoulder for a few times."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_aa39877a:
+
+    # msg "You received 500 gold from Ole."
+    msg ""
+
+translate schinese Ole_Voting_Testing_Harp_a17607b6:
+
+    # e "Alright, I got it. I'll adjust the number."
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_eaa7fd1a:
+
+    # o "Wait, one second."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_041af2d2:
+
+    # "Ole holds his harp and suddenly demolishing it into different pieces of Elderwood and [ole_voting_string_name]."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_3ee57311:
+
+    # e "Wait, how did you do that?"
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_9260ed9f:
+
+    # "He hands you the remaining materials as the resonator gem inside is easily shattered."
+    ""
+
+translate schinese Ole_Voting_Testing_Harp_cea0ac98:
+
+    # o "Nothing fancy, these materials are just reuseable."
+    o ""
+
+translate schinese Ole_Voting_Testing_Harp_806c6d6d:
+
+    # e "A-alright, thank you, Ole."
+    e ""
+
+translate schinese Ole_Voting_Testing_Harp_c7d9b0f1:
+
+    # "Ole waves at you as he walks out of the door."
+    ""
+
+translate schinese Sebas_Voting_Ask_Where_Ole_17c91927:
+
+    # e "Hey, Seb. Where's Ole?"
+    e ""
+
+translate schinese Sebas_Voting_Ask_Where_Ole_5a734a4f:
+
+    # s "Uh, going on a meeting with Gwyddyon, that's what he told me. He's coming back late tonight though."
+    s ""
+
+translate schinese Sebas_Voting_Ask_Where_Ole_f69c2ce7:
+
+    # s "Roomie, I think he's bringing a Harp over there, my big ole Ole's playing music now, haha."
+    s ""
+
+translate schinese Ole_Voting_Asking_Pirkka_9b994022:
+
+    # e "Should we go now?"
+    e ""
+
+translate schinese Ole_Voting_Asking_Pirkka_a41f01fb:
+
+    # o "Yes well, I've got everything ready, hopefully we won't bother the bard too much."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_2bfdc802:
+
+    # "You nod as Ole waves to Sebas, who's sitting on the counter rather boredly."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_92980d45:
+
+    # "And soon, you arrive to Nocturnal Trunk, Cane walks up swiftly to greet the both of you."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_097d2399:
+
+    # c "Hiya, rare pair to see 'ere, anything I can help?"
+    c ""
+
+translate schinese Ole_Voting_Asking_Pirkka_4eed85a5:
+
+    # o "Mhm... may I ask if Pirkka the bard is here?"
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_9d6d045f:
+
+    # c "Hah, do I look like his caretaker or somethin', caus' that'll probably be a better earning job than working 'ere."
+    c ""
+
+translate schinese Ole_Voting_Asking_Pirkka_75b8f97c:
+
+    # c "Did yer two lads hear how much fuzz that minstrel's causing here? Haha, business' been better than ever."
+    c ""
+
+translate schinese Ole_Voting_Asking_Pirkka_1ee73411:
+
+    # c "Well, 'nough of the ol' blabbering, m' lads. He's right upstairs, yer gonna hear him soon enough."
+    c ""
+
+translate schinese Ole_Voting_Asking_Pirkka_2c2197b7:
+
+    # o "Thank you, Cane."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_022fe633:
+
+    # "The tavernkeeper smiles as he returns to scrub the tankards with his towels."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_7bb599b9:
+
+    # "As soon as you walk upstairs, you spot Pirkka near the fireplace, entertaining a small crowd with his lively tunes."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_80dba057:
+
+    # p "Well met, m' friends! What brings you to my corner of the world today?"
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_caff3fa5:
+
+    # p "Corner being, the generous Cane's newly refurbished floor. I'm slowly gettin' to love this tavern."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_e7d17a1e:
+
+    # p "Though, everyone's been talking about the accord vote, so I might as well, strum {i}a chord{/i} on my lute."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_43180432:
+
+    # "His jokes are corny as always, but nonetheless you still laughed wholeheartedly with Pirkka."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_50bd3503:
+
+    # p "So... how may I help you?"
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_193f90e7:
+
+    # e "We're looking to ask some question about a harp, and we've heard you might be able to help."
+    e ""
+
+translate schinese Ole_Voting_Asking_Pirkka_1f45e416:
+
+    # o "We thought your musical expertise might come in handy."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_942e7b13:
+
+    # "Pirkka's eyes light up with excitement, and he sets his lute aside."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_71c9509b:
+
+    # p "A harp, ye say? 'Tis but a noble instrument, indeed. As what we say among the minstrels, a good harp befits a soul in search of beauty and harmony."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_395d28dc:
+
+    # p "Well, I {i}harp-pen{/i} to know some gists of making these fine instruments, but {i}string{/i} me along, what will be the story of this harp." nointeract
+    p "" nointeract
+
+translate schinese Ole_Voting_Asking_Pirkka_a1364fe4:
+
+    # e "Well, I actually wanted to learn to play harp, but there's nothing like that anywhere else."
+    e ""
+
+translate schinese Ole_Voting_Asking_Pirkka_7c013f5d:
+
+    # "Ole stutters as he glances at you, probably a little shocked as you speak."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_f2b711aa:
+
+    # p "Admittedly, I'm not an expert on harp, I've been known to strum a harp or two in my time. Perhaps you'll one day sing a great song with me."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_f62ee477:
+
+    # e "Ole's supplier for his shop wanted a harp, it's a long story actually."
+    e ""
+
+translate schinese Ole_Voting_Asking_Pirkka_162fb847:
+
+    # p "What a strange requirement for your supplier, after all, a harp isn't something an ordinary person might be interested in."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_2a9d1612:
+
+    # o "Of course. That's why we thought of asking you."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_aa9b3c23:
+
+    # "You remain silent and wait for Ole to speak."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_6e8c1009:
+
+    # o "It's kind of embarrassing to say, but it's for a friend who's really into harp."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_e7788625:
+
+    # p "Oooh, a friend? Someone significant?"
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_586d0162:
+
+    # o "Can't say if he's significant enough by your standard, but can you help us make one?"
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_f4104472:
+
+    # "Pirkka chuckles softly and nods, his fingers tapping a gentle rhythm on his knee."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_1c5f5990:
+
+    # p "It's a certain surprising development since the last time we met, Misters. But I can feel we'll mesh together perfectly."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_067402f7:
+
+    # p "Crafting a harp is like coaxing music from the heart of the wood itself, now, tell me, what kind of harp are you looking to create?"
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_c8aefa00:
+
+    # o "Just one that you think is perfect, we're not experienced enough to pinpoint which kind suits the best."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_f2c67b57:
+
+    # p "Aye, crafting a harp requires patience and a keen eye for detail. The wood must be chosen with care, resonating with the melodies that lie within."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_76268427:
+
+    # p "And the strings… ah, the strings are like the very threads of fate, binding the instrument to the soul of the musician."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_5c59320a:
+
+    # p "Different materials weaves together to make for music in different tones. Are you sure {i}any{/i} materials will suit you?"
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_f7f7e311:
+
+    # o "Well, we don't have all materials in the world, but here's the materials we have."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_02bdf770:
+
+    # "Ole hands Pirkka the catalogue he wrote down a while ago, containing all materials that the supplier sells to Gwyddyon."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_6772e35b:
+
+    # "Pirkka leans forward, his expression thoughtful, as if pondering the possibilty of each combination."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_11a87d38:
+
+    # p "Crystal strings... moonstones, elderwood... enchanted pearls?"
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_30794f26:
+
+    # p "These are... some exotic materials you have there, Ole."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_0f8a66c5:
+
+    # p "I'd suggest you use the crystal strings, some people might use silk or nylon but they're not easily tuned for a mellow and warm sound."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_57d4dbe4:
+
+    # p "Elderwood can provide a rich sound and reverb for the harp, it can be tergid enough to support these strings, oak will suffice if you can't find enough elderwood."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_9a9b7900:
+
+    # p "You'll need some small resonator gems also, that'll vibrate upon the lateral side of the harp."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_2bddeba6:
+
+    # p "These are the basic materials you'll need for a traditional harp, well, if you're not looking for anything too fancy."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_3229cfd4:
+
+    # o "What about the numbers? Can you help us figure out how many of these materials we need?"
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_460a5144:
+
+    # "Pirkka ponders for a moment, before he asks for Ole's pen and drawings on the catalogue Ole gave him."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_70dae1a9:
+
+    # "With a couple of strokes, he drew a small harp, and begins counting how many strings he has drawn."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_8a45e2eb:
+
+    # p "These are the general numbers that'll fit your harp."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_44f5c5ef:
+
+    # e "Thank you, Pirkka, for the advice."
+    e ""
+
+translate schinese Ole_Voting_Asking_Pirkka_448ceb4e:
+
+    # p "'Tis my pleasure to assist, dear friends. After all, you've been very helpful in retrieving my dear prose."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_19f40b64:
+
+    # p "And I'd have loved a better deal than what we had the other day, well. Consider it a lesson learned."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_24bb44c3:
+
+    # p "I've even written songs about our story, it's a memorable ones, but nonetheless fantastic."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_d08eb6c8:
+
+    # o "Thank you so much, Pirkka. I'm sorry for both your troubles the first time we met. May this compensates for your favour."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_362994d3:
+
+    # "Ole hands Pirkka a pouch of gold, but he simply rejects and waves the bag away."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_90a2fd0e:
+
+    # p "You're pulling on my heartstring on this one, but no. Consider it my thanks for the prose, they're one of the few things in this land that golds cannot buy."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_dbd96f4d:
+
+    # "Pirkka smiles as Ole puts away the gold."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_2734e632:
+
+    # o "Well, you're leaving me restless, Pirkka. How else can I repay you?"
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_6120d6d0:
+
+    # p "How about, you start spending some times of your days to come take a seat, I'll play you a nice song."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_4f7c9bff:
+
+    # p "I'd like to get to know some friends around the village. And both of you are worth knowing more, might I say."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_4d390c88:
+
+    # o "I don't come to the Tavern too often, but if that's what floats your boat, I'm down."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_9e280f00:
+
+    # e "Me too."
+    e ""
+
+translate schinese Ole_Voting_Asking_Pirkka_3cfda64c:
+
+    # "Pirkka picks up his lute again, and strungs a few chords."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_7cc53d79:
+
+    # p "May your hands craft a harp that weaves dreams into melodies, and may the muse bless your efforts."
+    p ""
+
+translate schinese Ole_Voting_Asking_Pirkka_b90c3af0:
+
+    # "With his soft voice echoing in your ears, you and Ole bid farewell to Pirkka."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_3426b0a0:
+
+    # e "Ole, what should we do now?"
+    e ""
+
+translate schinese Ole_Voting_Asking_Pirkka_7afadd9b:
+
+    # o "Gathering materials, of course. You'll just need to buy the silk and elderwood from Gwyddyon's shop. Take a look at the numbers..."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_5a10b6ad:
+
+    # o "And I'll take care of the resonator gems, I don't think Gwyd sells them directly so I'll have to source from other places."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_ba361594:
+
+    # o "But that's the plan. Luckily Pirkka gave us the exact numbers we need."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_5d8c3c27:
+
+    # e "Yeah, he's very helpful."
+    e ""
+
+translate schinese Ole_Voting_Asking_Pirkka_7777ed43:
+
+    # o "Mhmm... I didn't expect him to ask us to listen to his songs exactly, I'm not one for music."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_9c56d9c5:
+
+    # e "Well, maybe you'll grow to love it, I think he sings very well."
+    e ""
+
+translate schinese Ole_Voting_Asking_Pirkka_9353cdc0:
+
+    # o "That I don't doubt, mhmm."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_0591073e:
+
+    # "Ole raises his head once more, his scaled hand lands onto your shoulder with a certain weight."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_43178b74:
+
+    # o "I'm so sorry for getting you between all of these, after getting the harp done, I'll handle everything from here."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_e7c5b323:
+
+    # e "We're in this together, don't we? You can always count on me if you need anything."
+    e ""
+
+translate schinese Ole_Voting_Asking_Pirkka_dfd68bae:
+
+    # "He chuckles, perhaps Ole didn't think that as the helper he had always been, one day he'd get someone by his side."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_59823d02:
+
+    # "Maybe it's been a while since he's got this feeling, the same as you do."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_b036720c:
+
+    # "Right now, everything's quiet and serene, but perhaps that's what it takes for you to fall for someone like that..."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_79d12e5d:
+
+    # "Your heart pumps faster and faster, just as you see your own reflection in his eyes, there were so much things you want to say, all emotion scatters around your head, Appreciation, admiration, embarrassment... nervousness, love..."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_6b1f361e:
+
+    # "Ole's face blushes red, his hand hovers from your shoulder for quite a moment before he turns around."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_53ec325c:
+
+    # o "I-..."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_3ec98b24:
+
+    # "Almost by instinct, your hand reaches out to his back, and he stops for a moment."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_6554b1b0:
+
+    # e "I'll... see you back home."
+    e ""
+
+translate schinese Ole_Voting_Asking_Pirkka_53cd22cb:
+
+    # o "Y-yes."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_7430e258:
+
+    # "You can almost hear Ole gulping, before he walks away slowly."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_0a3f2310:
+
+    # o "That I don't doubt, kiddo."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_1c0b723a:
+
+    # "He raises his palm and pinches onto your cheeks."
+    ""
+
+translate schinese Ole_Voting_Asking_Pirkka_ae8a8ecd:
+
+    # e "Ouch... Do you really need to do that?"
+    e ""
+
+translate schinese Ole_Voting_Asking_Pirkka_fd53145e:
+
+    # o "No. See you back in the shop."
+    o ""
+
+translate schinese Ole_Voting_Asking_Pirkka_34851145:
+
+    # "He turns around slowly, and returns to the shop."
+    ""
+
+translate schinese Ole_Voting_Report_Pirkka_bc01ed4f:
+
+    # e "Hey, I've got the materials you need, Ole."
+    e ""
+
+translate schinese Ole_Voting_Report_Pirkka_99eade41:
+
+    # o "Oh, good. Then hold this resonator gem. I found it around the storage in our shop."
+    o ""
+
+translate schinese Ole_Voting_Report_Pirkka_2284cff2:
+
+    # o "I reckon according to Pirkka, we can build a Harp, with this gem and the materials you have."
+    o ""
+
+translate schinese Ole_Voting_Report_Pirkka_3208cf7a:
+
+    # "You nod, and take the gem from Ole's scaled hand."
+    ""
+
+translate schinese Ole_Voting_Report_Pirkka_16cbc0c9:
+
+    # e "Thank you, Ole."
+    e ""
+
+translate schinese Ole_Voting_Report_Pirkka_cd844a59:
+
+    # o "Good luck!"
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_ceeb732b:
+
+    # o "Hmmph..."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_c095a4c6:
+
+    # "Ole handles the harp, adjusting the sound as it plays, he seems satisfied, if not surprised as everything so far has gone so well."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_ff87d755:
+
+    # "If it's not for living with him for so long, you'd think he has had decades of experience on musical instruments, not hours."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_8aec5858:
+
+    # o "Oh, that's good. The sound is just right."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_386c5c1b:
+
+    # "He flings the strings for a few more times."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_31239bca:
+
+    # o "This is just perfect. I'll present this to the supplier later."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_aa183112:
+
+    # e "You seem so much more experienced than Seb. Why aren't you the one on the counter."
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_91858872:
+
+    # o "Don't worry, I'm always watching over his back. And he's one talented pawnbroker too."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_8ed5be1c:
+
+    # o "Sometimes, being good with your brain doesn't always translate well with getting what your customers want."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_c0445711:
+
+    # o "And sometimes a good heart and a good mouth gets you more money than if you play it straight."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_40fd30de:
+
+    # o "Just know that it doesn't always mean either side is more deserving. I'd like to think of us as two opposite sides that complements each other nicely."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_9a268746:
+
+    # e "Damn, am I the third wheel here?"
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_1f60fcbb:
+
+    # o "No-no! I don't mean that. I think you're the one in the middle, always pulling everyone together a little closer to each other, and... to you."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_e7b87fbc:
+
+    # e "Haha, stop teasing me, Ole."
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_91a64b70:
+
+    # o "You've always seemed to have that invisible string in your hand."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_44a1e114:
+
+    # o "The first day you woke up, you've got Seb entranced, going crazy over seeing you. And then Lothar suddenly had almost like an obsession over you."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_c49e6a17:
+
+    # o "And now, after so many days have passed, even Rahim, a stoic, withdrawn guy. Suddenly he flipped everything around and gave us a ballot to vote for the one he hated the most?"
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_19c9bb79:
+
+    # "He stares forwards, mindlessly plucking his finger onto the soft strings. The sound was terrible, but he doesn't even seem to be aware."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_aafc24ce:
+
+    # e "I didn't even realise that."
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_765530ee:
+
+    # o "Just bit by bit, the village changed ever since you live under our roof. Even if it's so small, it's the first time I've felt, that there's a bright future ahead of us."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_832ca67b:
+
+    # "He takes a pause to lean forward, your snout is so close to him you feel they're gonna touch anytime soon."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_0ea1a81f:
+
+    # "His hand reaches towards your direction, and slowly climbs onto yours as he nudges against you."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_5f2e0907:
+
+    # o "That time I was sick, I can feel you there."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_acfc74e4:
+
+    # e "M-me?"
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_3b231a19:
+
+    # o "It was the first time someone took a hold of me, it felt like such a shock when you wiped away my sweat."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_69d444bd:
+
+    # o "Well, it wasn't how I imagined you'd see me... without clothes."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_422158fc:
+
+    # e "It's not like I haven't seen cock and slits before."
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_ed77ab56:
+
+    # o "Ha, you're right."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_a2f1953f:
+
+    # "His glances are so... loving, you wish you have the courage to reach forward and kiss him. But both of you aren't taking the chance."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_38ec9b01:
+
+    # o "So... how did you pull that off?"
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_d7bf05f9:
+
+    # e "Hmm?"
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_9629edf1:
+
+    # o "The strings."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_572adf60:
+
+    # "Ole sits beside you, he turns his head towards your face unbelievably close."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_b55d8c14:
+
+    # e "I... I just tried my best to help people. Anyone, really. I liked being around you a lot."
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_a2ab3aba:
+
+    # o "Heh, I meant crafting the harp."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_1aff58f1:
+
+    # e "Hey! Are you teasing again?"
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_5ed850f2:
+
+    # o "Nope."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_f78aa27e:
+
+    # "Ole stands up swiftly, his tail softly brushes against your legs."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_2ebd7ce2:
+
+    # o "Thank you so much for the Harp. I'll bring that to the meeting, hopefully I can impress the supplier."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_36c29c08:
+
+    # o "Thank you and the bard for the Harp. I'll bring that to the meeting, hopefully I can impress the supplier."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_a1bbef71:
+
+    # e "Ole."
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_3de4efc4:
+
+    # o "If we can do that, it'll give me a much higher leverages against Gwyd. Then, well. We can start talking about price."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_376b9b3d:
+
+    # e "Ole!"
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_72a6f257:
+
+    # "You hear a soft sigh as you shout."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_72f43588:
+
+    # o "It's be fun hanging out with you, kiddo. You've impressed me everytime we're together, here's the reward for you."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_236b2b47:
+
+    # e "W-wait! Can you at least tell me what you were thinking about?"
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_7c2acaec:
+
+    # "Ole takes another pause as he stares at you, almost frozen in place, just pondering something."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_256da502:
+
+    # o "Nothing."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_dc393b25:
+
+    # "He quickly picks up the harp and hops onto the stairs, leaving you staring into the wall."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_495da60e:
+
+    # o "It's true! I think you're a great newcomer- I shouldn't say that, you're already one of us."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_96e6bfdd:
+
+    # e "R-really?"
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_d46a7f20:
+
+    # o "Yes, there's a certain magic to you that whatever you do, it seems people suddenly forget all anger and frustration, like a hot spa."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_6da06074:
+
+    # e "If I'm that good... Why don't I have an effect on you?"
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_0a93b630:
+
+    # o "Ha..."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_6d2ab0df:
+
+    # "Ole glances at you deeply with a bright smile."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_02713c7c:
+
+    # o "You have an effect on this Harp, it's perfect and I think we can snatch an easy agreement out of Gwyd now."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_83a2756f:
+
+    # o "With that leverage, it's gonna save us a lot of future money of being scammed by that ram."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_a8db6f81:
+
+    # "He picks up the Harp with ease as he stands up from your bed."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_575c6d7f:
+
+    # o "Well, you should spend more time with Seb too."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_b83b068f:
+
+    # e "I get it, Ole."
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_33dee1cf:
+
+    # o "Hey! Don't worry kiddo, you've got my vote."
+    o ""
+
+translate schinese Ole_Voting_Good_Finish_3fe9cab4:
+
+    # "Ole faces you with a slight concern, perhaps he'd become aware that your vision is becoming so much more blurry."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_5826a356:
+
+    # "For a moment, your heart seems to have paused."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_4a39f832:
+
+    # "As soon as you've returned to your sanity, Ole's already gone... leaving you alone inside your own room."
+    ""
+
+translate schinese Ole_Voting_Good_Finish_70737dec:
+
+    # e "Shit... what did Ole mean by that."
+    e ""
+
+translate schinese Ole_Voting_Good_Finish_aa39877a:
+
+    # msg "You received 500 gold from Ole."
+    msg ""
+
+translate schinese Ole_Voting_After_Meeting_2d78ca68:
+
+    # e "Hey, Ole. How did that meeting go?"
+    e ""
+
+translate schinese Ole_Voting_After_Meeting_03eff89d:
+
+    # o "Perfectly, weird as I say. I think the harp we got wasn't miles better than Gwyd's one."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_82ec5b2b:
+
+    # o "And the supplier, he was quite peculiar. I guess he wasn't ready for a competition, nor did Gwyddyon."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_1db3343b:
+
+    # o "But, in the end. Gwyd wasn't the wisest one when it comes to holding in their emotion in his face. He wasn't having it when I mentioned... everything."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_3bad3f69:
+
+    # o "I guess that tantrum he threw really hurt the chance of him signing another exclusive contract with the supplier."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_7763daa3:
+
+    # e "Oh? Was Gwyd that angry?"
+    e ""
+
+translate schinese Ole_Voting_After_Meeting_c5b33790:
+
+    # o "Not as much as you'd expect actually, but the supplier... also is a combative type of person, so there're some turbulence during the meeting."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_4424fd8f:
+
+    # o "And well, long story short, I've got the piece of paper."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_c6a13a6f:
+
+    # "He shows you the contract, signed with both Ole and the supplier's name in the corner."
+    ""
+
+translate schinese Ole_Voting_After_Meeting_56cd4e7e:
+
+    # o "Now, of course I wasn't going after Gwyd entirely. He got his own contract also, but at least we have the upper hand now, with Haskell's deal, and some part of Rahim's clothes."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_e5969d2f:
+
+    # e "Does that mean, you're choking Gwyd out of the business?"
+    e ""
+
+translate schinese Ole_Voting_After_Meeting_d2f666c7:
+
+    # o "No, no. Our contract is more or less equal for both parties, last contract we had, he got a lot more from it than we did, so I just wanted to see him squirm now."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_a79f040e:
+
+    # o "Anyway, that's gonna ensure some money and reputations in our pocket, all thanks to the harp you helped making."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_2f01b3ea:
+
+    # e "I-I'm just glad."
+    e ""
+
+translate schinese Ole_Voting_After_Meeting_dc89a66d:
+
+    # o "Regardless of the outcome, I'll be voting for the goats. As a part of the contract we just had, and also an appreciation for your help."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_591b550d:
+
+    # o "It went alright. Gwyd's harp was just better than ours, I think it was a right choice to leave the harp."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_cf98332f:
+
+    # e "Aw... I'm sorry we couldn't make one in time."
+    e ""
+
+translate schinese Ole_Voting_After_Meeting_8e8a2c44:
+
+    # o "Well, we didn't get to finish the Harp, I guess it takes more time than we expected."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_cf98332f_1:
+
+    # e "Aw... I'm sorry we couldn't make one in time."
+    e ""
+
+translate schinese Ole_Voting_After_Meeting_4752fde3:
+
+    # o "It's okay, [e]. We still have Haskell helping so the meeting went so and so."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_3df3ace7:
+
+    # o "Turns out, the supplier really was looking for Gwyd to understand his materials, so the meeting ended up being the two of them talking."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_0c0f6248:
+
+    # o "But, we've got a better contract from Gwyd. That's gonna save the shop some money."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_b8e9afbe:
+
+    # e "I'm glad it turns out fine, Ole."
+    e ""
+
+translate schinese Ole_Voting_After_Meeting_6f4c6504:
+
+    # o "Yeah, I guess there's no excuse for me to not vote for teaming up with the goats now."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_0b4b5c23:
+
+    # "Ole smiles faintly as he pats your shoulder."
+    ""
+
+translate schinese Ole_Voting_After_Meeting_fa1ec12f:
+
+    # o "We didn't get to know what Gwyddyon was up to with his supplier, but apparently he made a harp for him. And the supplier seemed pleasantly surprised."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_941c64df:
+
+    # e "Damn, I should've known."
+    e ""
+
+translate schinese Ole_Voting_After_Meeting_4752fde3_1:
+
+    # o "It's okay, [e]. We still have Haskell helping so the meeting went so and so."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_9cfa35b9:
+
+    # o "So in the end, we've got a better contract from Gwyd. That's gonna save the shop some money."
+    o ""
+
+translate schinese Ole_Voting_After_Meeting_b8e9afbe_1:
+
+    # e "I'm glad it turns out fine, Ole."
+    e ""
+
+translate schinese Ole_Voting_After_Meeting_0b4b5c23_1:
+
+    # "Ole smiles faintly as he pats your shoulder."
+    ""
+
+translate schinese Cane_Voting_Opinion_893b2396:
+
+    # e "Hey, Cane. Have you heard of the Vote from Rahim?"
+    e ""
+
+translate schinese Cane_Voting_Opinion_f58f07f8:
+
+    # c "Aye, everyone in the tavern was talking about that."
+    c ""
+
+translate schinese Cane_Voting_Opinion_9bcb639d:
+
+    # c "Ain't that old geezer a sight to behold, eh? He's missing the goats."
+    c ""
+
+translate schinese Cane_Voting_Opinion_c5700d5e:
+
+    # e "I thought he said he's voting against allying up with the goats."
+    e ""
+
+translate schinese Cane_Voting_Opinion_47a79fa6:
+
+    # c "Heh, the bull has a softer heart than ye think, m' lad."
+    c ""
+
+translate schinese Cane_Voting_Opinion_0fab270c:
+
+    # e "I hope you're right, kinda. But how would you vote yourself?"
+    e ""
+
+translate schinese Cane_Voting_Opinion_f0e1b4cc:
+
+    # c "He might be but I ain't votin' for nothing."
+    c ""
+
+translate schinese Cane_Voting_Opinion_96e6bfdd:
+
+    # e "R-really?"
+    e ""
+
+translate schinese Cane_Voting_Opinion_27bbe15c:
+
+    # msg "Cane's Vote currently working in progress, will be continued in the next update!"
+    msg ""
+
+translate schinese Rahim_Vote_Day_78e315f7:
+
+    # "The day of voting is here. Lusterfield is bustling with people, a lot more than usual."
+    ""
+
+translate schinese Rahim_Vote_Day_77d5483e:
+
+    # "It was a momentous occasion, one that had the villagers abuzz with excitement and trepidation alike."
+    ""
+
+translate schinese Rahim_Vote_Day_08339cd2:
+
+    # "Banners, that leads to the voting stage fluttered in the breeze as you follow the path slowly towards the town center."
+    ""
+
+translate schinese Rahim_Vote_Day_426d98f0:
+
+    # "As you made your way to the center of the village, you could feel the weight of this moment in every step."
+    ""
+
+translate schinese Rahim_Vote_Day_f3728219:
+
+    # "Everyone is standing around, chatting, discussing the idea of allying up with the goats."
+    ""
+
+translate schinese Rahim_Vote_Day_52903882:
+
+    # "A wooden platform, a makeshift stage for the event dominated the scene. At its center stood a modest, yet significant, wooden ballot box."
+    ""
+
+translate schinese Rahim_Vote_Day_b06b4ab6:
+
+    # "You see a long line of people at the front of the platform, snaking all the way around the center."
+    ""
+
+translate schinese Rahim_Vote_Day_071cffaf:
+
+    # "Rahim stands in the middle while Ole is at the side of the ballot box."
+    ""
+
+translate schinese Rahim_Vote_Day_eedbec0a:
+
+    # "You take a piece of paper from the counter, and swiftly join the line, a sense of responsibility and duty guiding your steps."
+    ""
+
+translate schinese Rahim_Vote_Day_428ed26f:
+
+    # "The choice is clear, yet... its implication might sprawl deep. A solemn sense of uneasiness pervades over your body as you inch forward."
+    ""
+
+translate schinese Rahim_Vote_Day_0f7875e4:
+
+    # l "Disciple?"
+    l ""
+
+translate schinese Rahim_Vote_Day_2bb0defe:
+
+    # e "Lothar? Have you voted yet?"
+    e ""
+
+translate schinese Rahim_Vote_Day_1500154a:
+
+    # l "Of course I did, as stupid as this whole event is, I guess it's time to settle all unneccessary noise these goat-lovers make."
+    l ""
+
+translate schinese Rahim_Vote_Day_b649917c:
+
+    # l "What are you voting?"
+    l ""
+
+translate schinese Rahim_Vote_Day_34911e6f:
+
+    # e "Uh... No?"
+    e ""
+
+translate schinese Rahim_Vote_Day_50a1ba74:
+
+    # l "Huh."
+    l ""
+
+translate schinese Rahim_Vote_Day_40f4b819:
+
+    # l "I've strongly advised Amble and Jog to vote no. So, you better choose your choice wisely."
+    l ""
+
+translate schinese Rahim_Vote_Day_bac6fda3:
+
+    # "Lothar pats all around your hips, it felt genuinely intrusive but he doesn't seem to care."
+    ""
+
+translate schinese Rahim_Vote_Day_3a40084b:
+
+    # "You remain silent as Lothar's hands wander all over your body, and it's right in front of the people behind you in the line."
+    ""
+
+translate schinese Rahim_Vote_Day_5bf69d93:
+
+    # e "Lothar?"
+    e ""
+
+translate schinese Rahim_Vote_Day_362509f2:
+
+    # l "You better behave, Disciple. I'm not fucking joking around."
+    l ""
+
+translate schinese Rahim_Vote_Day_c5025c58:
+
+    # l "This is your last fucking chance, Disciple. You don't want to see me mad."
+    l ""
+
+translate schinese Rahim_Vote_Day_2b373947:
+
+    # "Lothar leans forward as you instinctively lean back, your snouts are only an inch apart, you can clearly see his eyes glowing red."
+    ""
+
+translate schinese Rahim_Vote_Day_d651522d:
+
+    # "His hot breath tells you his heart is pumping faster and faster. But something tells you it's not about you, and it gets awkward really fast."
+    ""
+
+translate schinese Rahim_Vote_Day_d6caccac:
+
+    # "For a moment it almost seems he's about to hit you with him holding onto you tighter and tighter. His face is distorting in one resembling pain and anguish."
+    ""
+
+translate schinese Rahim_Vote_Day_0576fecb:
+
+    # "You don't even dare to breath."
+    ""
+
+translate schinese Rahim_Vote_Day_c342ba7a:
+
+    # "Suddenly, he releases his grip on you. And you fall over."
+    ""
+
+translate schinese Rahim_Vote_Day_07aeae74:
+
+    # e "Hey! Stop that."
+    e ""
+
+translate schinese Rahim_Vote_Day_fcd79924:
+
+    # "Your shout turns almost the whole village's attention onto you and Lothar. He retreats immediately but his furrowed brows doesn't fade."
+    ""
+
+translate schinese Rahim_Vote_Day_b598f6a8:
+
+    # "Lothar looks around, he sees a few dozen pairs of eyes just glancing at your direction."
+    ""
+
+translate schinese Rahim_Vote_Day_4bd97121:
+
+    # "Without leaving another word, he glances at you once more and leaves."
+    ""
+
+translate schinese Rahim_Vote_Day_9f8e561c:
+
+    # "T-that was a weird interaction, even for Lothar's standard. It does seem he takes the ballot very seriously, perhaps too seriously."
+    ""
+
+translate schinese Rahim_Vote_Day_03c0b6be:
+
+    # "You're genuinely scared of Lothar now, even though you know he can be possessive, there's still a point where you think it's too much for you."
+    ""
+
+translate schinese Rahim_Vote_Day_4aceafc7:
+
+    # "Some people's eyes remain onto your direction."
+    ""
+
+translate schinese Rahim_Vote_Day_1f0cf2c7:
+
+    # "They are murmuring something, but you don't know what that is. So you pat your waists slowly to look for your voting paper."
+    ""
+
+translate schinese Rahim_Vote_Day_ffae7aa6:
+
+    # "At least it is still here, you reckon Lothar could have easily stolen from you, but maybe he thought against it."
+    ""
+
+translate schinese Rahim_Vote_Day_fbc36b6d:
+
+    # "After a while, the line clears fast, and soon it's your time to walk on the stage."
+    ""
+
+translate schinese Rahim_Vote_Day_dde88a32:
+
+    # "Ole greets you with a usual hug, he gestures toward the wooden platform ahead, where a modest, yet significant, wooden ballot box stood."
+    ""
+
+translate schinese Rahim_Vote_Day_cf6ca7c8:
+
+    # o "Here's where you'll cast your vote."
+    o ""
+
+translate schinese Rahim_Vote_Day_ae82c287:
+
+    # "He hands you a stamp with red ink on the table."
+    ""
+
+translate schinese Rahim_Vote_Day_7a1b4d7a:
+
+    # o "Simply stamp your choice with that chop in either box."
+    o ""
+
+translate schinese Rahim_Vote_Day_0e4b993b:
+
+    # "You voted yes in the booth, and cast your ballot in front of Ole."
+    ""
+
+translate schinese Rahim_Vote_Day_9ee69d6d:
+
+    # "You voted no in the booth, and cast your ballot in front of Ole."
+    ""
+
+translate schinese Rahim_Vote_Day_b4e17f27:
+
+    # o "Hey, thanks for voting, [e]. You can wait out there, and after tallying all of them, Rahim will make an announcement."
+    o ""
+
+translate schinese Rahim_Vote_Day_349df98f:
+
+    # "With a friendly pat on the back, Ole moved to assist the next villager, leaving you to get off the stage quickly."
+    ""
+
+translate schinese Rahim_Vote_Day_ed2ae156:
+
+    # "A few of the other helpers like Ole begin to count, and suddenly, you notice Lothar hovering around the counters, his gaze fixating on something."
+    ""
+
+translate schinese Rahim_Vote_Day_be7fa5d4:
+
+    # s "Gooooooood fricking morning, [e]!"
+    s ""
+
+translate schinese Rahim_Vote_Day_80ad6f1f:
+
+    # "A bright voice snatches your back as your attention turns to Sebas."
+    ""
+
+translate schinese Rahim_Vote_Day_4fa2964d:
+
+    # e "Oh Seb, didn't expect to see you here, and why aren't you swearing?"
+    e ""
+
+translate schinese Rahim_Vote_Day_e403cdb4:
+
+    # s "Ha, I have to cast my super duper important vote, isn't that what the whole event is about?"
+    s ""
+
+translate schinese Rahim_Vote_Day_77f349e1:
+
+    # s "Also, it's so much better seeing people use my stamp. Hearing that crisp chop sound makes me feel a little tingly inside. HMmmmmmm!"
+    s ""
+
+translate schinese Rahim_Vote_Day_247fa38f:
+
+    # "He raises you a thumbs up, which you follow suit."
+    ""
+
+translate schinese Rahim_Vote_Day_ace8f52c:
+
+    # e "Good, I voted just now, your stamp is awesome though."
+    e ""
+
+translate schinese Rahim_Vote_Day_049adb19:
+
+    # s "I know, right? I've spent a lot of time thinking what I should use as the icon of Lusterfield."
+    s ""
+
+translate schinese Rahim_Vote_Day_8bc94050:
+
+    # e "And you chose... lion?"
+    e ""
+
+translate schinese Rahim_Vote_Day_f1d8886a:
+
+    # s "How are you so smart, roomie! Of course! That's why every vote has my face on it, and... well the fellas on the stages are still counting."
+    s ""
+
+translate schinese Rahim_Vote_Day_957ae864:
+
+    # s "You know, there aren't too many people in Lusterfield, so I'm not sure why they are taking so long, ugh."
+    s ""
+
+translate schinese Rahim_Vote_Day_6a75ed0f:
+
+    # e "I think they're recounting everything thrice."
+    e ""
+
+translate schinese Rahim_Vote_Day_a323ca1c:
+
+    # s "Yeah, by this rate, it'll probably be done... at nine, earliest."
+    s ""
+
+translate schinese Rahim_Vote_Day_7578ce92:
+
+    # "As you wait alongside Sebas, the weight of your decision settled upon you, and you couldn't help but feel the significance of this moment in the heart of Lusterfield."
+    ""
+
+translate schinese Rahim_Vote_Day_d416e88e:
+
+    # "One side is with the goats, you'd love to see Furkan satisfied for once as the two factions mend their relationship, but on the other hand you have Lothar, who's guaranteed to rage if you are not voting no."
+    ""
+
+translate schinese Rahim_Vote_Day_5ec8518d:
+
+    # "You stay with Sebas for a while, waiting for the villagers to count the rest of the votes as more comes in."
+    ""
+
+translate schinese Rahim_Vote_Day_8626c3f0:
+
+    # "Eventually, the line gets shorter and shorter, until there are no more people waiting to vote."
+    ""
+
+translate schinese Rahim_Vote_Day_34a716d3:
+
+    # "It's only when you look back you notice Jog in the corner, and Amble talking with him. They look much more distressed than their normal selves."
+    ""
+
+translate schinese Rahim_Vote_Day_d5a9cf36:
+
+    # "When they notice you, they quickly avert their gaze and leave. So you shrug and continue waiting with Sebas."
+    ""
+
+translate schinese Rahim_Vote_Day_80bdb269:
+
+    # r "Greetings, everyone."
+    r ""
+
+translate schinese Rahim_Vote_Day_08a45b8a:
+
+    # "Rahim walks up onto the stage as the last ballot box is closed and put away."
+    ""
+
+translate schinese Rahim_Vote_Day_ba0c3e3f:
+
+    # r "We've counted the final number of votes. And, I have the fate of Lusterfield on my hand."
+    r ""
+
+translate schinese Rahim_Vote_Day_a0b6c3e6:
+
+    # "Suddenly, the whole town center is silent, everyone is holding their breath, even Sebas."
+    ""
+
+translate schinese Rahim_Vote_Day_f3326f4e:
+
+    # r "This is the first time the people of Lusterfield has spoken, I hope everyone respects the result, whatever that will be."
+    r ""
+
+translate schinese Rahim_Vote_Day_3971cabb:
+
+    # r "And we had to confirm the total votes over a few times to avoid any miscalculation."
+    r ""
+
+translate schinese Rahim_Vote_Day_05e879a3:
+
+    # "Rahim, holds the final tally in his trembling hands, sweat glistening on his furrowed brow."
+    ""
+
+translate schinese Rahim_Vote_Day_7e7c6994:
+
+    # r "So..."
+    r ""
+
+translate schinese Rahim_Vote_Day_295c5426:
+
+    # r "As the majority have already decided, we will reinstate our alliance with the goats."
+    r ""
+
+translate schinese Rahim_Vote_Day_8d156ccd:
+
+    # r "It was a close vote, this decision is decided by only [vote_difference] vot-."
+    r ""
+
+translate schinese Rahim_Vote_Day_1a62b764:
+
+    # "A mixed chorus of cheers and murmurs ripples through the crowd around the stage. Seb raises his eyebrows beside you, his mouth hangs agape."
+    ""
+
+translate schinese Rahim_Vote_Day_a4b62a9b:
+
+    # "Some villagers exchange smiles and pats on the back, while others bear expressions of uncertainty, their eyes revealing lingering doubts."
+    ""
+
+translate schinese Rahim_Vote_Day_99b3fce6:
+
+    # "You hear the sound of breaking porcelain rings out, alongside with a loud grunt coming from Lothar."
+    ""
+
+translate schinese Rahim_Vote_Day_9d6324ed:
+
+    # "He sweep his arm across a table filled with plates, sending them crashing to the ground."
+    ""
+
+translate schinese Rahim_Vote_Day_a33c17c6:
+
+    # r "Remember, the decision was made collectively by everyone. It is not my place, nor anyone, to question their choice."
+    r ""
+
+translate schinese Rahim_Vote_Day_3fb5afdf:
+
+    # "Rahim says calmly, obviously targetting this statement to Lothar."
+    ""
+
+translate schinese Rahim_Vote_Day_1f08e04d:
+
+    # "Lothar stares at the broken shards for a moment, until suddenly his gaze is locked onto yours."
+    ""
+
+translate schinese Rahim_Vote_Day_31f8526d:
+
+    # "His brows slowly furrow, there is a flash of sorrow in his eyes."
+    ""
+
+translate schinese Rahim_Vote_Day_7f3ce90e:
+
+    # "Without a single word, Lothar turns and storms off, his heavy footsteps echoing through the square."
+    ""
+
+translate schinese Rahim_Vote_Day_49ac49aa:
+
+    # r "Ahem, although, I personally have voted against it, but it was a decision of everyone who has voted here."
+    r ""
+
+translate schinese Rahim_Vote_Day_5df3120d:
+
+    # r "Following today, we'll arrange a meeting with the Goat's leader. We will protect each other, from whatever might be happening out there."
+    r ""
+
+translate schinese Rahim_Vote_Day_a0fda9b3:
+
+    # r "Their people are allowed to visit our village, and same goes to ours."
+    r ""
+
+translate schinese Rahim_Vote_Day_c265bda4:
+
+    # r "Thank you."
+    r ""
+
+translate schinese Rahim_Vote_Day_b5b6b75c:
+
+    # "The crowd soon begins to desperse also, while you and Seb walk away."
+    ""
+
+translate schinese Rahim_Vote_Day_d77a277f:
+
+    # r "The result, is surprising to say the least, I know some of us did not vote, but to end with the same vote to each side, is a miracle."
+    r ""
+
+translate schinese Rahim_Vote_Day_38e5b9b7:
+
+    # r "I wish to resolve this as smoothly as possible, however we have to consider the logistics and your own time. So, it's not fair for us to waste everyone's time to hold another vote."
+    r ""
+
+translate schinese Rahim_Vote_Day_488d4053:
+
+    # r "Therefore, as the leader of our village, I hereby forfeit my own vote against the alliance."
+    r ""
+
+translate schinese Rahim_Vote_Day_1a62b764_1:
+
+    # "A mixed chorus of cheers and murmurs ripples through the crowd around the stage. Seb raises his eyebrows beside you, his mouth hangs agape."
+    ""
+
+translate schinese Rahim_Vote_Day_a4b62a9b_1:
+
+    # "Some villagers exchange smiles and pats on the back, while others bear expressions of uncertainty, their eyes revealing lingering doubts."
+    ""
+
+translate schinese Rahim_Vote_Day_c4bbea3d:
+
+    # l "What the fuck, Rahim?"
+    l ""
+
+translate schinese Rahim_Vote_Day_a19298f9:
+
+    # "Lothar's voice, a thunderous growl, cuts through the commotion."
+    ""
+
+translate schinese Rahim_Vote_Day_88097104:
+
+    # l "The fuck are you doing? You're not helping the goats I tell you. You're-"
+    l ""
+
+translate schinese Rahim_Vote_Day_c5bbc8b5:
+
+    # "His rugged face, lined with years of determination, contorts into a fierce scowl."
+    ""
+
+translate schinese Rahim_Vote_Day_5d0f4e0e:
+
+    # "The hero wolf climbs on top of the stage. Rahim is undeterred, calmly steps forwards to address Lothar."
+    ""
+
+translate schinese Rahim_Vote_Day_9726f083:
+
+    # r "Are you done?"
+    r ""
+
+translate schinese Rahim_Vote_Day_e6ea4c50:
+
+    # l "How could you be this dumb. I told you I have proof, their stones. Their fucking golem."
+    l ""
+
+translate schinese Rahim_Vote_Day_b013a4c9:
+
+    # "His words, laden with frustration, resonates through the square, commanding the attention of the villagers and elders alike."
+    ""
+
+translate schinese Rahim_Vote_Day_fd71f72c:
+
+    # "Lothar, his fists clench and eyes burning with anger, strides toward Rahim who had announced the result."
+    ""
+
+translate schinese Rahim_Vote_Day_ccdee50a:
+
+    # r "We will continue in a moment."
+    r ""
+
+translate schinese Rahim_Vote_Day_26b71a4a:
+
+    # "Rahim addresses the crowd, then quietly runs towards Lothar."
+    ""
+
+translate schinese Rahim_Vote_Day_6409e6aa:
+
+    # l "You don't DO THAT! I tell you-"
+    l ""
+
+translate schinese Rahim_Vote_Day_2d239ab4:
+
+    # r "What I vote myself, is my own business. It's not your place to judge, Lothar."
+    r ""
+
+translate schinese Rahim_Vote_Day_75e9a106:
+
+    # "Sebas stares with bewilderment, the tension in the square escalates, as whispers of astonishment and concern spread among the crowd."
+    ""
+
+translate schinese Rahim_Vote_Day_f0e4e95a:
+
+    # l "Not mine? I'm the fucking hero of Lusterfield, I saved you all from the goats and now, instead of TRYING to stay away from them like a normal person you're allying with them?"
+    l ""
+
+translate schinese Rahim_Vote_Day_79ee5c71:
+
+    # l "Half of the Lusterfield voted No, why didn't you respect their opinion you fuckin' hypocrite."
+    l ""
+
+translate schinese Rahim_Vote_Day_b40a95a9:
+
+    # l "The time I've spent, looking for evidence for you. And you're saying everything is fine now?"
+    l ""
+
+translate schinese Rahim_Vote_Day_0a94a1da:
+
+    # r "Again, the vote today has already concluded-"
+    r ""
+
+translate schinese Rahim_Vote_Day_283d9c61:
+
+    # "Lothar's face reddened, and his voice thundered across the town center."
+    ""
+
+translate schinese Rahim_Vote_Day_30efcf5c:
+
+    # l "Where the fuck did you hide Rahim, huh? They fucking killed your daughter, stop pretending opinions of mere commoners matter anything to you-"
+    l ""
+
+translate schinese Rahim_Vote_Day_209ef017:
+
+    # "A slap, powerful enough to tear your ears apart, can be heard on the stage, the sound echoed through the square."
+    ""
+
+translate schinese Rahim_Vote_Day_b374540e:
+
+    # "Suddenly all murmur and rumbles has stopped as everyone stares at the hero and the leader."
+    ""
+
+translate schinese Rahim_Vote_Day_32b00c5f:
+
+    # "Lothar staggers back, his grey cheek reddens from Rahim's rebuke."
+    ""
+
+translate schinese Rahim_Vote_Day_0d963177:
+
+    # r "If what you're saying is true, then maybe it's time for the hero to protect the village for once."
+    r ""
+
+translate schinese Rahim_Vote_Day_e7a5d895:
+
+    # "Rahim says calmly, but his stare seems to say otherwise."
+    ""
+
+translate schinese Rahim_Vote_Day_a45346e6:
+
+    # "Seb almost spilled his food as he watches the event unfold, the crowd comes to a complete silence as the hero is somehow humbled by Rahim's palm."
+    ""
+
+translate schinese Rahim_Vote_Day_5df3120d_1:
+
+    # r "Following today, we'll arrange a meeting with the Goat's leader. We will protect each other, from whatever might be happening out there."
+    r ""
+
+translate schinese Rahim_Vote_Day_a0fda9b3_1:
+
+    # r "Their people are allowed to visit our village, and same goes to ours."
+    r ""
+
+translate schinese Rahim_Vote_Day_235a40b6:
+
+    # "Lothar stares as Rahim quietly steps away from the platform. The crowd soon begins to desperse also, while you and Seb walk away."
+    ""
+
+translate schinese Rahim_Vote_Day_a7b7dcd5:
+
+    # "Just as you turn back, you notice Lothar is still... standing. But his gaze suddenly fixates onto yours. You quickly look away."
+    ""
+
+translate schinese Rahim_Vote_Day_6ae48654:
+
+    # s "You see what Lothar did there?"
+    s ""
+
+translate schinese Rahim_Vote_Day_b3a3e963:
+
+    # s "I still can't believe Rahim slapped him that hard. He tolerated him the most out of everyone in this entire village, apart from the two lackeys."
+    s ""
+
+translate schinese Rahim_Vote_Day_74ab1d0c:
+
+    # "You walk alongside Sebas, whose expression remain astonished but cheerful."
+    ""
+
+translate schinese Rahim_Vote_Day_8d6c5650:
+
+    # "You remember Lothar searching around your body just as you stood in line, and then... when they counted the votes, he stood in the back row, observing something."
+    ""
+
+translate schinese Rahim_Vote_Day_24094986:
+
+    # "What could he have been possibly doing..."
+    ""
+
+translate schinese Rahim_Vote_Day_5dba2f1f:
+
+    # e "What's wrong with Lothar?"
+    e ""
+
+translate schinese Rahim_Vote_Day_93dba618:
+
+    # s "It's typical Lothar. Whenever something doesn't go along his plan, that wolf will go craaa-zy..."
+    s ""
+
+translate schinese Rahim_Vote_Day_661d0082:
+
+    # s "He's like a caged beast, a ticking time-bomb. You won't want to get near him when he explodes."
+    s ""
+
+translate schinese Rahim_Vote_Day_b4b0cc40:
+
+    # s "Maybe I should kick his balls more than once. That'll fix him."
+    s ""
+
+translate schinese Rahim_Vote_Day_8bc24195:
+
+    # s "I still couldn't believe we didn't get to kick his balls while I've got the chance. Maybe that'll fix him."
+    s ""
+
+translate schinese Rahim_Vote_Day_96bd4a06:
+
+    # e "You can't fix people that way, Seb."
+    e ""
+
+translate schinese Rahim_Vote_Day_632c3333:
+
+    # s "Roomie, you're absolutely right. Some people can't be fixed."
+    s ""
+
+translate schinese Rahim_Vote_Day_5f4c44fb:
+
+    # "The lion raises his fingers, with a lopsided grin."
+    ""
+
+translate schinese Rahim_Vote_Day_5df83a26:
+
+    # s "A-anyway, we've got the goats on our side now!"
+    s ""
+
+translate schinese Rahim_Vote_Day_0e60d3ff:
+
+    # e "To be honest, Rahim kind of shifted his opinions completely over nights. I wonder if there's any secrets he's still holding back."
+    e ""
+
+translate schinese Rahim_Vote_Day_9dbcd6e9:
+
+    # s "Rahim forfeited his vote, I'd never think an old grumpy guy like him will ever want to see them goats again."
+    s ""
+
+translate schinese Rahim_Vote_Day_013b90bf:
+
+    # s "Hey, I told you Rahim's under my infatuating charm's control, wooooHOOO! Maybe I can make him return my favourite pebbles now."
+    s ""
+
+translate schinese Rahim_Vote_Day_a0e68785:
+
+    # "You smile as Seb enters the shop."
+    ""
+
+translate schinese Rahim_Vote_Day_7244c1cb:
+
+    # s "It's getting late, I should sleep after such a long day."
+    s ""
+
+translate schinese Rahim_Vote_Day_9442d8e9:
+
+    # s "Gotta get ready for some goat clients, Ole should also be coming back soon."
+    s ""
+
+translate schinese Rahim_Vote_Day_0adc3925:
+
+    # s "Have a good night, [e]."
+    s ""
+
+translate schinese Rahim_Vote_Day_c729581a:
+
+    # e "Good night, Seb."
+    e ""
+
+translate schinese Rahim_Vote_Day_6c09e9ef:
+
+    # r "As the majority have already decided, our village will continue our business as usual."
+    r ""
+
+translate schinese Rahim_Vote_Day_c75ba8ef:
+
+    # r "Which means, we will not form alliance with the goats."
+    r ""
+
+translate schinese Rahim_Vote_Day_ab391e81:
+
+    # r "It was a close vote, this decision was decided by only [vote_difference] votes."
+    r ""
+
+translate schinese Rahim_Vote_Day_a173eead:
+
+    # "Rahim declares, his voice steady yet laden with the gravity of the moment."
+    ""
+
+translate schinese Rahim_Vote_Day_a8014323:
+
+    # r "We will only communicate with the goats, should we encounter any threat to the existence of our tribe."
+    r ""
+
+translate schinese Rahim_Vote_Day_1a62b764_2:
+
+    # "A mixed chorus of cheers and murmurs ripples through the crowd around the stage. Seb raises his eyebrows beside you, his mouth hangs agape."
+    ""
+
+translate schinese Rahim_Vote_Day_59d87339:
+
+    # "Lothar seems to be in the cheering crowd, without the cheering part. He looked void of any emotion, turns away and walks off."
+    ""
+
+translate schinese Rahim_Vote_Day_4ce4623e:
+
+    # r "There shouldn't be any further questions. Let's consider this the end of a chapter of Lusterfield."
+    r ""
+
+translate schinese Rahim_Vote_Day_a4b62a9b_2:
+
+    # "Some villagers exchange smiles and pats on the back, while others bear expressions of uncertainty, their eyes revealing lingering doubts."
+    ""
+
+translate schinese Rahim_Vote_Day_4de6d592:
+
+    # "Sebas stands alongside you, his shoulders slumped, and his eyes downcast."
+    ""
+
+translate schinese Rahim_Vote_Day_9da9531c:
+
+    # r "Our business will continue as usual, and we will embrace any challenges by our own selves."
+    r ""
+
+translate schinese Rahim_Vote_Day_c265bda4_1:
+
+    # r "Thank you."
+    r ""
+
+translate schinese Rahim_Vote_Day_41457f12:
+
+    # "As the crowd begins to disperse, Sebas lingers for a moment, he can't help but to sigh, exchanging a glance with you."
+    ""
+
+translate schinese Rahim_Vote_Day_bd5b7e75:
+
+    # s "Damn, didn't think we'd lose, and by such a small margin."
+    s ""
+
+translate schinese Rahim_Vote_Day_a72f187c:
+
+    # e "Well, you tried your best, Seb."
+    e ""
+
+translate schinese Rahim_Vote_Day_7ec7274c:
+
+    # "Sebas chuckles while he's looking down."
+    ""
+
+translate schinese Rahim_Vote_Day_17816ea5:
+
+    # s "Yeah, business continues as usual I guess."
+    s ""
+
+translate schinese Rahim_Vote_Day_9bc1841b:
+
+    # "The path forward is clear, but the final decision still weighs heavily on his heart."
+    ""
+
+translate schinese Rahim_Vote_Day_2a60b8de:
+
+    # e "Seb, do you need anything from the goats?"
+    e ""
+
+translate schinese Rahim_Vote_Day_81ad5939:
+
+    # s "No, roomie, I accept gold from anyone."
+    s ""
+
+translate schinese Rahim_Vote_Day_0eb1f710:
+
+    # s "But it's definitely miles better for me that we're not in a perpetual stalemate with the goats."
+    s ""
+
+translate schinese Rahim_Vote_Day_561ac332:
+
+    # "Sebas sighs once more, before he enters the shop."
+    ""
+
+translate schinese Rahim_Vote_Day_a5683043:
+
+    # s "Well, I need to go to bed soon. Have a great night, [e]."
+    s ""
+
+translate schinese Rahim_Vote_Day_87fea982:
+
+    # "You nod as you watch Sebas slowly walks upstairs."
+    ""
+
+translate schinese Jog_Voting_Opinion_a56d9532:
+
+    # e "So, Jog. What do you think about... Lusterfield's Voting Day?"
+    e ""
+
+translate schinese Jog_Voting_Opinion_c90b8630:
+
+    # j "Voting? That's the most booooo-oring activity someone can do, why don't people go to something more useful instead?"
+    j ""
+
+translate schinese Jog_Voting_Opinion_4ad549e7:
+
+    # e "Well, I wouldn't consider it exactly boring, the whole thing might take you... maybe ten seconds."
+    e ""
+
+translate schinese Jog_Voting_Opinion_beffca85:
+
+    # j "Yeah, well. And everyone's else are voting, in a millions in a millions' case, my vote won't even end up useful."
+    j ""
+
+translate schinese Jog_Voting_Opinion_a75c7ffc:
+
+    # j "Not to mention the time you're wasting on getting to know the goats, well, even though I already know what they're up to, you still can't be too certain about anyone."
+    j ""
+
+translate schinese Jog_Voting_Opinion_b06a1ec2:
+
+    # e "Well, what about the one in a millions case, what if that vote end up mattering and you didn't vote?"
+    e ""
+
+translate schinese Jog_Voting_Opinion_987bdf79:
+
+    # j "Ha, not too shabby if you're trying to pursue a debating career, but don't you worry, I'll vote no."
+    j ""
+
+translate schinese Jog_Voting_Opinion_0ddabb57:
+
+    # e "May I ask... why?"
+    e ""
+
+translate schinese Jog_Voting_Opinion_e9e2f01f:
+
+    # j "Eh, nothing special. I don't have that strong of an opinion over them personally. Even though you and I... had already been there."
+    j ""
+
+translate schinese Jog_Voting_Opinion_765f11dc:
+
+    # j "Don't ask further, alright. Amble's probably gonna tell you about it anyway but, eh, I'd rather keep my plum to myself."
+    j ""
+
+translate schinese Jog_Voting_Opinion_e40c051c:
+
+    # msg "Jog's Vote currently working in progress, will be continued in the next update!"
+    msg ""
+
+translate schinese Arthur_Voting_Opinion_175bc015:
+
+    # e "M-master, how do you think about the vote...?"
+    e ""
+
+translate schinese Arthur_Voting_Opinion_ee6e5935:
+
+    # e "Arty, how do you think about the vote in Lusterfield?"
+    e ""
+
+translate schinese Arthur_Voting_Opinion_759114a3:
+
+    # ar "Vote? What vote. Why hadn't I heard of that?"
+    ar ""
+
+translate schinese Arthur_Voting_Opinion_5cecc702:
+
+    # e "Aren't farmers also invited for the voting day? I really thought Amble or Jog would tell you about it."
+    e ""
+
+translate schinese Arthur_Voting_Opinion_a0ee09bd:
+
+    # msg "Arthur's Vote currently working in progress, will be continued in the next update!"
+    msg ""
+
 translate schinese Rahim_Dialogue_End_8d660a05:
 
     # e "That's all, thank you for chatting, Rahim."
@@ -16697,6 +22307,12 @@ translate schinese strings:
     new ""
 
     old "Go to Tavern with Sebas and Ole tonight"
+    new ""
+
+    old "Learn his opinion on the accord vote"
+    new ""
+
+    old "Ask where Ole is"
     new ""
 
     old "Ask about Pirkka's Prose"
@@ -16837,6 +22453,24 @@ translate schinese strings:
     old "Accept the task"
     new ""
 
+    old "Report about Gwyddyon's secret with the supplier"
+    new ""
+
+    old "Get ready to meet with Pirkka"
+    new ""
+
+    old "Continue with the Harp's materials"
+    new ""
+
+    old "Ask to check the Harp"
+    new ""
+
+    old "Start with the Recipe"
+    new ""
+
+    old "Ask about the meeting with Gwyddyon"
+    new ""
+
     old "Finish with Postal Training"
     new ""
 
@@ -16942,6 +22576,12 @@ translate schinese strings:
     old "Being Naked is not my Tribe's Tradition"
     new ""
 
+    old "Ask about his talk with Furkan"
+    new ""
+
+    old "Begin preparation for the vote"
+    new ""
+
     old "Ask about Fixing with the Apron"
     new ""
 
@@ -16967,6 +22607,9 @@ translate schinese strings:
     new ""
 
     old "Ask about his new outfit design"
+    new ""
+
+    old "Tell Rahim you are ready for the vote"
     new ""
 
     old "Deliver the Letter from Furkan"
@@ -17057,5 +22700,149 @@ translate schinese strings:
     new ""
 
     old "Stay put"
+    new ""
+
+    old "Let's begin the preparation"
+    new ""
+
+    old "Maybe later"
+    new ""
+
+    old "Vote for the future of Lusterfield on "
+    new ""
+
+    old "Talk with other Lusterfolks about their opinions"
+    new ""
+
+    old "Support the accord"
+    new ""
+
+    old "Oppose the accord"
+    new ""
+
+    old "Accept Amble's Offer"
+    new ""
+
+    old "Prepare 3 Masonry Mix for Amble"
+    new ""
+
+    old "Prepare 20 Wooden logs for Amble"
+    new ""
+
+    old "Rebuild the bridge with Amble"
+    new ""
+
+    old "Continue on your hauling work with Amble"
+    new ""
+
+    old "Continue on the construction work"
+    new ""
+
+    old "Check in on Amble and the moss monster"
+    new ""
+
+    old "Remove some rocks with Amble"
+    new ""
+
+    old "Let Amble start working by himself"
+    new ""
+
+    old "Should you continue for another 2 hours?"
+    new ""
+
+    old "{s}Remove some rocks with Amble{/s}"
+    new ""
+
+    old "Let Amble continue himself"
+    new ""
+
+    old "Should you let Amble check on you?"
+    new ""
+
+    old "Show him where you're hurt"
+    new ""
+
+    old "Excuse yourself"
+    new ""
+
+    old "Let's go"
+    new ""
+
+    old "I'll continue later"
+    new ""
+
+    old "Fight the monster"
+    new ""
+
+    old "Wait it out"
+    new ""
+
+    old "Help Ole"
+    new ""
+
+    old "Collect information about a secret product from Gwyddyon"
+    new ""
+
+    old "Tell Ole about Gwyd's secret"
+    new ""
+
+    old "Pretend you don't know"
+    new ""
+
+    old "Ask for Pirkka's help"
+    new ""
+
+    old "Do it ourselves"
+    new ""
+
+    old "Get ready with Ole"
+    new ""
+
+    old "Wait for Ole to finish his research"
+    new ""
+
+    old "Nylon"
+    new ""
+
+    old "Crystal String"
+    new ""
+
+    old "+3"
+    new ""
+
+    old "+1"
+    new ""
+
+    old "The number is Right"
+    new ""
+
+    old "-1"
+    new ""
+
+    old "-3"
+    new ""
+
+    old "I wanted to learn to play Harp"
+    new ""
+
+    old "Ole's supplier wanted it"
+    new ""
+
+    old "Buy 12 pieces of Elderwood"
+    new ""
+
+    old "Buy 10 pieces of Crystal String"
+    new ""
+
+    old "Craft a Harp"
+    new ""
+
+    old "Let him continue"
+    new ""
+
+    old "Protest"
+    new ""
+
+    old "Should Lusterfield form an alliance with Goat Tribe?"
     new ""
 
