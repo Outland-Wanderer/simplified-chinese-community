@@ -88,11 +88,6 @@ translate schinese Ability_CoreStrike_905c13df:
     # "You strike the core of [target.name], causing [target.name] to fall over. You dealt [player_damage] and stuns [target.name] for [stunned.max_rounds] round."
     "溃敌技能发动，助你击中了[target.name]的要害。他直直倒地失去了 [player_damage] 点体力，并将持续眩晕 [stunned.max_rounds] 回合。"
 
-translate schinese Ability_CoreStrike_5051dd0a:
-
-    # "You healed [healing] HP from Core Strike."
-    "该技能连带回复了你 [healing] 点体力。"
-
 translate schinese Ability_Resolution_8f64a376:
 
     # "You used Resolution, and reduced your current lust by [reduced_lust]."
@@ -137,11 +132,6 @@ translate schinese Battle_End_Check_0575b416:
 
     # "[enemy2.name]'s health decreases by [wounded_damage] from the bleeding."
     "[enemy2.name]因伤口出血失去了[wounded_damage]点体力。"
-
-translate schinese Battle_Mid_Check_5eb35099:
-
-    # "You healed [healing] HP from your attack."
-    "你从刚才的攻击中回复了 [healing] 点体力。"
 
 translate schinese Battle_Kari_1f398792:
 

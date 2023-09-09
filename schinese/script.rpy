@@ -1037,9 +1037,9 @@ translate schinese name_done_9a996251:
     # e "Oh... fuck, then why am I here."
     e "噢……肏，那我岂不是白来一趟。"
 
-translate schinese name_done_43c9395c:
+translate schinese name_done_4efe01be:
 
-    # o "If he found a way, then I think you can too. we'll think while you stay here for a while."
+    # o "If he found a way, then I think you can too. we'll try to hatch a plan while you stay here for a while."
     o "如果他能回去，我想你自然也可以。要是你留在村子里，我们还可以一起想办法。"
 
 translate schinese name_done_69711a3e:

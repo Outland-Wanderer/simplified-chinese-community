@@ -997,6 +997,27 @@ translate schinese strings:
     old "Sun"
     new "周日"
 
+    old "Monday"
+    new "周一"
+
+    old "Tuesday"
+    new "周二"
+
+    old "Wednesday"
+    new "周三"
+
+    old "Thursday"
+    new "周四"
+
+    old "Friday"
+    new "周五"
+
+    old "Saturday"
+    new "周六"
+
+    old "Sunday"
+    new "周日"
+
     #备忘录
 
     old "Ole's Postal Training" #01

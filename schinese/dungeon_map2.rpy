@@ -747,6 +747,41 @@ translate schinese maze_figurine_in_crater_343280fd:
     # "It seems that the statue can be easily taken out of the crater..."
     "把这尊雕像从坑里搬出来应该不怎么费力……"
 
+# translate schinese Mino_Maze_Limestone_71a2792e:
+
+#     # "You stare at the chasm, it seems to be a weakpoint to extract some limestone."
+#     ""
+
+# translate schinese Mino_Maze_Limestone_f3b1df18:
+
+#     # "However, you do not have the specific tool to get them out."
+#     ""
+
+# translate schinese Mino_Maze_Limestone_f43018cd:
+
+#     # "You take out your pickaxe and start striking it against the chasm."
+#     ""
+
+# translate schinese Mino_Maze_Limestone_0b581170:
+
+#     # "After a long and grueling moment, a small chunk of the limestone falls out of the wall."
+#     ""
+
+# translate schinese Mino_Maze_Limestone_4eb2a229:
+
+#     # "There's nothing for you to mine for now..."
+#     ""
+
+# translate schinese Mino_Maze_Limestone_a08666a7:
+
+#     # "Maybe the ore will replenish... eventually."
+#     ""
+
+# translate schinese Mino_Maze_Limestone_be847732:
+
+#     # "You have [item_number] limestones."
+#     ""
+
 translate schinese Mino_Maze_TenStatue_518f3839:
 
     # "You run into the statue of minotaur in the cave, it seems to be resting, creating a strong barrier."
