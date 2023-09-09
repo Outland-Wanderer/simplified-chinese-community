@@ -43,6 +43,24 @@ translate schinese style footstep_button_text:
 translate schinese style stash_button_text:
     font gui.headline_text_font
 
+translate schinese style screen_title_text:
+    font gui.headline_text_font
+
+translate schinese style screen_content_text:
+    font gui.headline_text_font
+
+translate schinese style screen_content_white_text:
+    font gui.text_font
+
+translate schinese style screen_content_yellow_text:
+    font gui.text_font
+
+translate schinese style quest_title_text:
+    font gui.text_font
+
+translate schinese style quest_line_breaker_text:
+    font gui.text_font
+
 translate schinese style ruby_style is default:
     size 24
     yoffset -32
