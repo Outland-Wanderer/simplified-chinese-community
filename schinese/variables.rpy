@@ -1188,11 +1188,14 @@ translate schinese strings:
     # old "Ole told me to train with Amble and Jog, I might need to ask Lothar first about this..."
     # new "奥利想让我和安布、乔格一起训练，我可能要先取得洛萨尔的同意……"
 
-    # old "Fluff and Tuff" #18
-    # new "人前人后俩个样"
+    old "Fluff and Tuff" #18
+    new "人前人后俩个样"
 
-    # old "Cane asked me if I want to further my relationship with my patrons. He asked me to prepare... 2 pillows for the private room."
-    # new "凯恩问我想不想和顾客的互动再深入一些。如果想的话，就准备 2 个枕头来……布置包间。"
+    old "Cane asked me if I want to further my relationship with my patrons. He asked me to prepare... 2 pillows for the private room."
+    new "凯恩问我想不想和顾客的互动再深入一些。如果想的话，就准备 2 个枕头来……布置包间。"
+
+    old "Craft 2 cheap pillows"
+    new "制造 2 个劣质枕头"
 
     # old "Seasons of Blossom" #19
     # new "又到一年花开时"
