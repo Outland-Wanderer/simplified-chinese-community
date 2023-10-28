@@ -1253,9 +1253,9 @@ translate schinese mossgolem_battle_loop_8fd8c645:
     # "He has recovered [healing] HP."
     ""
 
-translate schinese mossgolem_lose_3f7e0dd5:
+translate schinese mossgolem_lose_b1125d0b:
 
-    # "The golem stares at your vulnerable state, but doesn't stop there. You realise that you are not making it out of this alive..."
+    # "The golem stares at your vulnerable state, but doesn't stop there. You realise that you are not making it out of this alive."
     ""
 
 translate schinese mossgolem_lose_f06e58bb:
@@ -1267,76 +1267,6 @@ translate schinese mossgolem_lose_a20cefa7:
 
     # "..."
     ""
-
-translate schinese mossgolem_lose_1b54c835:
-
-    # "He casts another spell. Completely binding your body under his control."
-    ""
-
-translate schinese mossgolem_lose_5d25027a:
-
-    # e "No..."
-    e ""
-
-translate schinese mossgolem_lose_0326b3ba:
-
-    # "This is the end of your journey."
-    ""
-
-translate schinese mossgolem_lose_0a938a78:
-
-    # "His magical fist strikes into your chest. You hear a loud crack, like someone snapping a twig. {p}Followed by the sickening feeling of your body being obliterated."
-    ""
-
-translate schinese mossgolem_lose_5ddefc36:
-
-    # "Your innards leak everywhere, your fur turns red very quickly. You groan weakly. There's nothing you can do now."
-    ""
-
-translate schinese mossgolem_lose_1f82a542:
-
-    # "Another strike comes down upon your torso, smashing it into an unrecognisable pulp along with your unmoving tail."
-    ""
-
-translate schinese mossgolem_lose_bf37f968:
-
-    # "Your body is shutting down. The golem keeps smashing into you. You..."
-    ""
-
-translate schinese mossgolem_lose_ff96ee14:
-
-    # "You can just barely hear someone calling your name..."
-    ""
-
-translate schinese mossgolem_lose_bf9b2a82:
-
-    # l "[e]!!!!"
-    l ""
-
-translate schinese mossgolem_lose_d2944f34:
-
-    # l "Oh no no no no. SEBAS! SEBAS! He-... No."
-    l ""
-
-translate schinese mossgolem_lose_a0b71257:
-
-    # l "...no..."
-    l ""
-
-translate schinese mossgolem_lose_5fc0aca4:
-
-    # "The last image you see, is a wolf sobbing next to your battered body."
-    ""
-
-translate schinese mossgolem_lose_6ac9b865:
-
-    # "You close your eyes for the last time, and the world fades to darkness forever."
-    ""
-
-translate schinese mossgolem_lose_e5543b2f:
-
-    # msg "You died."
-    msg ""
 
 translate schinese mossgolem_win_abd39c56:
 
@@ -1468,8 +1398,5 @@ translate schinese strings:
     new ""
 
     old "Restart Quest"
-    new ""
-
-    old "Back to Main Menu"
     new ""
 

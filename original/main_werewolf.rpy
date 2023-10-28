@@ -5908,9 +5908,9 @@ translate schinese Wuldon_Meeting_Shop_e2cdc303:
     # "It's a terrible joke, and it makes you smile, but Sebas and Ole seem to be petrified in fear."
     ""
 
-translate schinese Wuldon_Meeting_Shop_9c988baf:
+translate schinese Wuldon_Meeting_Shop_be6ffb80:
 
-    # e "I don't think it's a good idea to joke about that yet, Wuldon, they still don't get why you'reyour here, and they think you're like the other werewolves."
+    # e "I don't think it's a good idea to joke about that yet, Wuldon, they still don't get why you're here, and they think you're like the other werewolves."
     e ""
 
 translate schinese Wuldon_Meeting_Shop_4f58b965:

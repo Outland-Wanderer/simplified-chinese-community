@@ -2669,6 +2669,9 @@ translate schinese strings:
     old "Inform Kari of the Chief's safety."
     new ""
 
+    old "Back to Main Menu"
+    new ""
+
     old "Restart Dungeon"
     new ""
 

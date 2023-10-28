@@ -1,4 +1,5 @@
 ﻿translate schinese strings:
+
     old "Outland Wanderer"
     new ""
 

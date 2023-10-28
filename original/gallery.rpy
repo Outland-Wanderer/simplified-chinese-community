@@ -108,3 +108,6 @@
     old "{color=#000}Captured by the werewolves after Tetto Escapes{/color}"
     new ""
 
+    old "{color=#000}Getting Caught too many times by Bandits{/color}"
+    new ""
+

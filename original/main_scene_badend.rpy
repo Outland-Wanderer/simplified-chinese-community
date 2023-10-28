@@ -1493,6 +1493,791 @@ translate schinese BadEnd_Werewolf_Capture_28b33589:
     # "But the one thing that's sure is, you're staying here for the rest of your existence."
     ""
 
+translate schinese BadEnd_Bandit_Bondage_bcfdbd9f:
+
+    # e "...u-ugh..."
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_e0aabc96:
+
+    # e "S-shit, what's happening...?"
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_249d9c72:
+
+    # "You wake up finding yourself bound in rope. Your head feels heavy and the world spins."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_94d6b853:
+
+    # "Your eyes start to adjust to the darkness, what's going on... your feet is not touching anything, are you upside down?"
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_5b5048c5:
+
+    # "Stuff are scattered on the ground messily, socks... wines, and a cock?"
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_d611cf7c:
+
+    # "Struggling and twisting don't work, you only feel the rope cutting into your ankles and wrists, what had led you to this moment...?"
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_45ea55e6:
+
+    # "Oh... it was the bandits. Maybe they recognised you, maybe you've intrigued them so much that they're actually keeping you... somewhere."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_a8342112:
+
+    # "With the back of your head touching the ground, your world is going dizzier and dizzer by the minutes."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_127fecbf:
+
+    # "And, the cum, you feel your bloated belly is not the only sign that signifies you've become a cum dump."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_88f94cef:
+
+    # "You're in a hopeless situation, one where moving your arms and legs are impossible, you can only tilt your head to see a sliver of light through the creek of the door."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_361576b2:
+
+    # "Shit, are you going to be like this forever? You didn't sign up for that."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_0d410856:
+
+    # "A series of footstep sends you into alert state, your eyes widen in anticipation of a bandit, and the door opens, from the other side."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_91e1df32:
+
+    # "Beams of light land on your body, perfectly displayed to the bandits staring outside."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_2eedb04f:
+
+    # bd "How's our little private toy doing? Getting used to your new home?"
+    bd ""
+
+translate schinese BadEnd_Bandit_Bondage_b1fbfeb3:
+
+    # e "H-help! R-release me."
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_d38eed3e:
+
+    # "Your head is spinning, vision blurred and your muscles are still sore from the intense sex you've had earlier."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_84eed6d6:
+
+    # bd2 "Private toy's not right, he's our public toy now."
+    bd2 ""
+
+translate schinese BadEnd_Bandit_Bondage_49af7bc8:
+
+    # bd3 "Shout all you want, nobody's gonna hear you, or care."
+    bd3 ""
+
+translate schinese BadEnd_Bandit_Bondage_7817e794:
+
+    # e "I can't breath this way."
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_9e707458:
+
+    # bd2 "Well, if I turn you upside down, how else can we see your perfect hole thristing for cocks."
+    bd2 ""
+
+translate schinese BadEnd_Bandit_Bondage_81a30e3b:
+
+    # "The bandits laugh at you, and a few eye your body like a slab of meat. They start to approach you."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_e455740c:
+
+    # bd "Luckily for you, we need to get ourselves another round of beers. We don't want any funny business, right?"
+    bd ""
+
+translate schinese BadEnd_Bandit_Bondage_422f379e:
+
+    # "One of them kneels in front of you, you can feel his cock scraping barely on top of your head."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_5a4a5ee0:
+
+    # bd3 "Let me take care of this."
+    bd3 ""
+
+translate schinese BadEnd_Bandit_Bondage_9720a603:
+
+    # e "H-hey!"
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_00df1ec0:
+
+    # "The bandit wraps a piece of blindfold across your eyes, you try to shake it off your head, but it's futile."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_76c64df4:
+
+    # "Soon, your world returns to plain darkness again, you feel hands all over your body, but you can't confirm anything."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_4845c110:
+
+    # e "W-what's happening..."
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_702f4ea2:
+
+    # "You can't see them touching you, but you feel it, they're relentlessly groping at your ass and balls like it's their property."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_3dc4ffc7:
+
+    # "Your body clenches to these strange touches, you can feel something slick, wet and warm object on your face, it bounces on your cheeks for a moment."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_1fc315bc:
+
+    # "And instinctively you lick it, a bit of a salty aftertaste, somehow fills your mouth with the familiar smell."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_35b90ccb:
+
+    # "You let it slaps onto your face for a few more times, until the other bandit finishes checking your cuffs and ropes."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_b67ea9ab:
+
+    # bd2 "We'll have fun, soon. After all it's not like you're going away."
+    bd2 ""
+
+translate schinese BadEnd_Bandit_Bondage_58a2be88:
+
+    # bd2 "In the meantime, we're making sure you're ready for us."
+    bd2 ""
+
+translate schinese BadEnd_Bandit_Bondage_582398a4:
+
+    # e "W-what are you doing to me. You've already-y fucked... me. What more do you bandits want."
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_9db84ced:
+
+    # bd "Nothing much, we just thought you like being here so much, maybe you wanna stay. See? Wish granted."
+    bd ""
+
+translate schinese BadEnd_Bandit_Bondage_33553fb8:
+
+    # e "F-fuck! You're joking. R-release me!"
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_b3305126:
+
+    # "You shake your head, you can't believe this is happening, bandits coming in and taunting you, slapping their meat across your body. And you're here, powerless to their assaults."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_10c7e9af:
+
+    # bd3 "Don't lie, you wanted us to claim your ass just hours ago, now you're scared?"
+    bd3 ""
+
+translate schinese BadEnd_Bandit_Bondage_a4ca0898:
+
+    # bd3 "We all know you like this, stop lying to yourself, little toy. This is your place."
+    bd3 ""
+
+translate schinese BadEnd_Bandit_Bondage_e70ea026:
+
+    # "There is no way you can escape this, your leg is raised, adjusted perfectly so your hole is presented in front of the bandits."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_b684ead0:
+
+    # e "I-I'll kill you all... w-when I'm released from this fuckin- nightmares."
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_e9148941:
+
+    # bd4 "Hah, that's especially funny coming from a fucking cum toy with his tight hole freely exposed, don't you think?"
+    bd4 ""
+
+translate schinese BadEnd_Bandit_Bondage_54ee6bed:
+
+    # "You pant heavily as you try to at least talk down the bandits, even though you can't see what they're doing."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_5de0be53:
+
+    # e "I'm... I'm NOT LETT-"
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_c8dfbc9b:
+
+    # "Something was forced into your mouth, not a slick, wet or warm member of some bandits, but it feels rough, almost like a towel."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_36e7698f:
+
+    # bd "That'll shut him up real quick."
+    bd ""
+
+translate schinese BadEnd_Bandit_Bondage_e3de9b79:
+
+    # e "MPPPHHMMM-!!"
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_73d4a065:
+
+    # "You let out a loud gasp that only comes out as muffled noise, like any other speech you're trying to say, your effort remains futile with this object in your mouth, soaked in your saliva."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_b15635ab:
+
+    # "Someone is holding your head against the towel, pushing it further until the cloth is lodged tightly between your jaws, it feels intrusive, your mouth is forced to open and you can't speak anything."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_6aed0b48:
+
+    # bd2 "Gonna be a while until we come back, meanwhile you better enjoy this one, little toy."
+    bd2 ""
+
+translate schinese BadEnd_Bandit_Bondage_46e87f3e:
+
+    # "It's only after a while, that the mixture of your own saliva and the clothes itself emanating a strong odor from within your mouth. The stench of sweat and musk is extremely unbearable that you wish to puke it out."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_3167482d:
+
+    # "You cough violently, but they don't seem to stop at any point."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_3e8163f0:
+
+    # "And soon, something touches your cock, appendages running itself across the length of your heating member, twitching impulsively."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_cdf961e3:
+
+    # e "mmm-mhmmh! M-MGHH-MPHYH!"
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_908e210f:
+
+    # "You can only hear muffled noise from yourself, and a few jeering sounds as something gives your cock a few strokes, before wrapping it around with a piece of cloth."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_ba75fd45:
+
+    # "The softness of the fabric tells you it's very delicate and thin, and the way it envelops your growing cock only makes it tighter, almost uncomfortable."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_8f1d6658:
+
+    # "Another few laughs can be heard as they walks around you, picking up scraps as they see fit. Your powerless struggle remains mere attempts as they chuckle."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_07c2c9e1:
+
+    # e "MPPYHH!"
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_c3046961:
+
+    # bd2 "Stop screaming, you're gagged, remembered?"
+    bd2 ""
+
+translate schinese BadEnd_Bandit_Bondage_45f29650:
+
+    # "Suddenly something touches the folds of your entrance, something slick, and you could've sworn it was someone's cock got in the way. But the coldness tells you it's not a someone."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_852ac07c:
+
+    # "Even knowing that all your attempts failed, you still scream out of protest. But the sudden intrusion had stopped all your sounds, you're only anticipating the object at this point."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_5537e5df:
+
+    # bd3 "We need to train him later, can't have a moaning slut screaming all the time."
+    bd3 ""
+
+translate schinese BadEnd_Bandit_Bondage_61b2edbb:
+
+    # "The tip of that object runs circle around the entrance, smearing something cool onto your skin, and he doesn't take the time to adjust as well. As you soon feel the object is shoved straight into your ass."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_d6e433fc:
+
+    # bd4 "Heh, take that, this is a magical dildo, it's gonna fill you up quickly while we're outside."
+    bd4 ""
+
+translate schinese BadEnd_Bandit_Bondage_aca9c5ac:
+
+    # "Luckily, the previous bandit who had fucked you left some cum inside, with the lubrication it enters the entrance very quickly, you only know the bandits are laughing and cheering for something."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_f26e426c:
+
+    # "Your tight hole is soon stretched around the stiff and tergid object, it feels like a real cock, except that it was cold to your skin."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_775a0c70:
+
+    # "Your own ass is adjusting to the shape of the said dildo, and your muscles wrapping itself around it, almost sucking it in without the assistance of another hand."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_48d10afa:
+
+    # "As it goes down, it brushes against your prostate briefly, and the sensitive sensation suddenly causes your brain to overload with pleasure and enjoyment."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_7c089eb6:
+
+    # "Clearly, your face doesn't hide that amusement too as you can't help but to grin uncontrollably, the bandits stare at you, jeering more."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_a9d95ea2:
+
+    # bd2 "See, he's smiling."
+    bd2 ""
+
+translate schinese BadEnd_Bandit_Bondage_0b9745ab:
+
+    # bd "Yeah, that's why you deserve it, adventurer. This is where you belong."
+    bd ""
+
+translate schinese BadEnd_Bandit_Bondage_133dcccb:
+
+    # "You can feel the ridges and bumps on the surface of the dildo, rubbing against the inner wall of your hole, the space is completely filled as the bandit thrusts it into you deeper and deeper."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_44d8caae:
+
+    # "To you, it's the only sensation that you can feel right now, being penetrated by a rubber toy."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_4280072d:
+
+    # "And in front of everyone who's only talking joyfully amongst each other."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_88f532f8:
+
+    # bd3 "Heh, see how fast we can turn a promising adventurer into an absolute cum slut. We should do this more often."
+    bd3 ""
+
+translate schinese BadEnd_Bandit_Bondage_ac230656:
+
+    # "Their words aren't immune to you, they... somehow make you feel so much more perversed, to be enjoying all of this, to be left here being nothing but a fuck toy waiting to be filled."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_c7920675:
+
+    # bd "Only if he's coming back for more every time, at that point it's almost an invitation letter to be enslaved."
+    bd ""
+
+translate schinese BadEnd_Bandit_Bondage_17a2c495:
+
+    # "The fact that it dawns upon you that you'll forever stay here probably made it worse, you're not struggling enough as you should be, as you wish to. Are you giving up to the pleasure? Willing to give up your whole life at this point, to the bandits?"
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_bd9d77cc:
+
+    # "Everything flares up in your brain all at once, like a wildfire, your mind can't handle the consequences, so the only thing you let out are loud moans and pants."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_a22d0a32:
+
+    # "And that only makes them laugh more."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_b3d49fd4:
+
+    # bd2 "Hah, not very talkative now, aren't you."
+    bd2 ""
+
+translate schinese BadEnd_Bandit_Bondage_2eef2bc8:
+
+    # "The dildo bulges, swelling bigger and bigger as your ass tries to accomodate for its size, each time it thrusts itself into you, you groans loudly under the supposedly sock in your mouth."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_8cbec74d:
+
+    # "It was a miserable existence, to be stripped of your ability to use your arms and legs, to be in control of nothing, letting an object assault you over and over again."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_e35e7161:
+
+    # e "NNGGHHGH- MPMmmmph..."
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_9563eb0e:
+
+    # "The moan you let out are almost automatic, fires up every time your prostate is rubbed against as your ass clenches, making it go deeper."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_afcfc8d0:
+
+    # e "Mphm... Mh..."
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_f393c8c2:
+
+    # "At some point, you realise the bandits have gotten quiet now, your world is still in darkness, but you're hearing nothing but your own groans and grunts."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_1a6bd60a:
+
+    # "Maybe they're gone, maybe it's the best time to escape from this hell hole. You wrestle against the ropes, trying to reach the part of the straps to release you, all the while the dildo is fucking you relentlessly."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_42d2c309:
+
+    # "Your bottom swings from left and right, your leg hangs open. Flinging your arms across your back, while you roll back and forth to get rid of the blindfold."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_d8e769b7:
+
+    # "But it remains fruitless, maybe even caused the bind to feel tighter against your fur, your back scrubs against the hard and cold floor, only causing you more pain."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_6d2b8fed:
+
+    # "In the end, nothing changed, the dildo is still inside you, your cock is still throbbing everytime your prostate is hit. The sheer pleasure soon outweighs your will to escape."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_50042de8:
+
+    # e "Mmmph... mh... m-mhmm..."
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_b4ff6367:
+
+    # "So you relax all your muscles."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_331fbdda:
+
+    # "You let the ropes and straps handle all your weight, you let the dildo hitting deeper and deeper by itself, and you let yourself enjoy all of this, your cock starts to twitch under the tight fabrics."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_7767bda2:
+
+    # "What started as a tingly sensation soon turns into constant bliss once you've accepted what's to come. Maybe it'll end up being alright, everything will be fine."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_b7728740:
+
+    # "Give in to the primal instinct, you're here to be fucked, aren't you? And now you've got all the time in the world now, giving up everything you have owned."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_de7985ab:
+
+    # "Your cock twitches violently, as every other muscles in your body relaxes, you're breathing faster and faster."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_7f7b8aa8:
+
+    # e "Mpmpm... N-Mmmmphm..."
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_36de2665:
+
+    # "Somehow, you feel waves of cold liquid ejected from the dildo, it quickly fills up your entrance, coating your tunnel in white liquid as the dildo rams itself into your tight hole again and again."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_48370249:
+
+    # "You can't hold the pleasure anymore, a jet of precum released from your cock very quickly. staining the cloth and slowly painting your stomach white as it sprays all around the fabric."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_e88af281:
+
+    # "Your cock jerks violently as each wave of cum blasts onto your own self, and you feel like you're about to pass out."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_b83e4a43:
+
+    # "Cum flows out of you quickly, and the worst about this cumming dildo is, it doesn't know when to stop, you feel your stomach is about to explode with cum, and it slowly begins to leak out of your ass."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_1a9010da:
+
+    # "You're left here, panting, shaking, you're covered in sweat, and cum. The world is spinning, yet the dildo continues thrusting into you."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_395081ff:
+
+    # "Taking in everything at once, you're slowly... but surely, getting used to the dildo. Your prostate is still as sensitive as ever, but you're not as shocked to have cum because of an object."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_a4e22f7e:
+
+    # "After ten minutes, you cum again, the pleasure is overtaking your rational thinking, and you've already given up all will to struggle."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_c3ed1ec5:
+
+    # "Moan escapes from your mouth once more, and you're grinning uncontrollably, the fact that you're blinded and gagged probably makes to sensation much stronger."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_83ae587a:
+
+    # "You cum, and then you cum, another 10 minutes passed and you cum again. You don't know how long you can take this, surely not long."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_d89b5afa:
+
+    # "Barely, you hear some footsteps approaching you."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_83890d59:
+
+    # bd3 "Boss, we have to introduce you, our new personal toy."
+    bd3 ""
+
+translate schinese BadEnd_Bandit_Bondage_7ad44c06:
+
+    # sbd "W-when did you find him? I thought he was one of us."
+    sbd ""
+
+translate schinese BadEnd_Bandit_Bondage_f498e3b7:
+
+    # bd "Nope, he's an adventurer most probably. We found a courier badge while he's passed out."
+    bd ""
+
+translate schinese BadEnd_Bandit_Bondage_1d110aa2:
+
+    # sbd "Damn it, he almost fooled me, good job at catching him. These pesky adventurers think they're so smart, we need to teach them a lesson."
+    sbd ""
+
+translate schinese BadEnd_Bandit_Bondage_1cd3c4a5:
+
+    # bd2 "Boss, a lesson isn't enough, liars need to be kept forever."
+    bd2 ""
+
+translate schinese BadEnd_Bandit_Bondage_e8216492:
+
+    # sbd "Well, then keep him. Enjoy, I'm gonna take a plum instead, get him ready for me another time."
+    sbd ""
+
+translate schinese BadEnd_Bandit_Bondage_e55ace6e:
+
+    # bd "Yes, boss."
+    bd ""
+
+translate schinese BadEnd_Bandit_Bondage_79d146fc:
+
+    # bd2 "He's the guy you talked about, see? Perfectly captured and trained, he's just our fuck toy now."
+    bd2 ""
+
+translate schinese BadEnd_Bandit_Bondage_d4d36b3b:
+
+    # sbd "Oh great. make sure to take your revenge for me, boys. This is where he belongs."
+    sbd ""
+
+translate schinese BadEnd_Bandit_Bondage_ddaa6705:
+
+    # sbd "Adventurers always think they can do whatever they want, thinking they can beat me, heh. You have no idea."
+    sbd ""
+
+translate schinese BadEnd_Bandit_Bondage_b1b00877:
+
+    # "The shark gets close to you, to grin as he stares at your blindfolded and gagged face."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_da12522e:
+
+    # sbd "Not so smug now, aren't you."
+    sbd ""
+
+translate schinese BadEnd_Bandit_Bondage_6a1d19c0:
+
+    # bd2 "We caught this adventurer, trying to sneak around here like he's one of us."
+    bd2 ""
+
+translate schinese BadEnd_Bandit_Bondage_e8f330c4:
+
+    # bd3 "Well, he's one of us now, just not what he probably planned to be. Cum dump for life."
+    bd3 ""
+
+translate schinese BadEnd_Bandit_Bondage_ddaa6705_1:
+
+    # sbd "Adventurers always think they can do whatever they want, thinking they can beat me, heh. You have no idea."
+    sbd ""
+
+translate schinese BadEnd_Bandit_Bondage_b1b00877_1:
+
+    # "The shark gets close to you, to grin as he stares at your blindfolded and gagged face."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_da12522e_1:
+
+    # sbd "Not so smug now, aren't you."
+    sbd ""
+
+translate schinese BadEnd_Bandit_Bondage_89d65637:
+
+    # e "Mmhppgh! MPPHMMH-MPHHH!"
+    e ""
+
+translate schinese BadEnd_Bandit_Bondage_0bd36ab6:
+
+    # "You try to scream, or shout, but the bandit boss has already left. Who remain are the bandits staring at you intently, but you don't even realise that."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_79242046:
+
+    # bd "Time for a quickie. Shall we?"
+    bd ""
+
+translate schinese BadEnd_Bandit_Bondage_b35ca5d0:
+
+    # "You are soon carried onto a table, albeit still blindfolded, you feel something tickly touches your skin, it's small and rough, probably the tip of a pen, doing something."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_921eabd4:
+
+    # "Without any delay or expectation, the dildo is casually pulled out of your ass, and thrown onto the ground, something presses against your entrance once more, and they begin to thrust."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_ac9a44f0:
+
+    # "No foreplay, they're just taking you as a stress reliever, slamming himself against your ass repeatedly like a piece of meat, you are still gagged and blindfolded, but you can feel the violence up your tight entrance."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_22add00b:
+
+    # "You moan and groans, like what you're used to, he's so big, and his balls are slapping against your thigh."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_aaea7bee:
+
+    # "He rams his hips forwards against your ass, pulling and pushing in a constant rhythm."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_a94df449:
+
+    # "Soon, they all cum, just onto your strained body like a cake to be decorated, you're completely exhausted, and you can't be bothered to listen to their jeer."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_b9c2ebac:
+
+    # "Another few strokes of pen is written onto your chest, and you're put onto the stone ground once more."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_b00ea48c:
+
+    # "One of them straps you against the ropes once more, making sure that you can't escape, then he pushes the dildo deep inside, thrusting into you."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_944f05b3:
+
+    # "The days continue like this, sometimes you're carried onto the table to relieve the bandits, some of them rather deal with you alone and fuck your ass right there."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_c938354c:
+
+    # "But one thing can be assured, they all add a stroke onto your body like a trophy to be owned, some writes nasty comments like 'FREE', 'USED HOLE', 'former adventurer' or 'fake bandit, teach him a lesson here'..."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_7b9d0b0c:
+
+    # "But one thing can be assured, they all add a stroke onto your body like a trophy to be owned, some writes nasty comments like 'FREE', 'USED HOLE', 'former adventurer' or 'Boss' personal bitch'..."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_82923dd6:
+
+    # "But one thing can be assured, they all add a stroke onto your body like a trophy to be owned, some writes nasty comments like 'FREE', 'USED HOLE', 'former adventurer' or 'don't be gentle, he enjoys it'..."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_5913ba84:
+
+    # "But one thing can be assured, they all add a stroke onto your body like a trophy to be owned, some writes nasty comments like 'Free Adventurer Slut' or 'don't be gentle, he enjoys it'..."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_bde63db6:
+
+    # "Thankfully, you can't see all that comments, in fact, you never see the light of day since then. The concept of vision becomes further and further away from you."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_e7df82b7:
+
+    # "The only thing is that you know the bandit's pen strokes are all over your body, and nothing can rub the ink off."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_5f559adb:
+
+    # "Counting from the first day, you'd still not believe how many times you've cummed on one day, the dildo is on all the time when the bandits are not using you, and it's making you cum too frequently."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_5c541463:
+
+    # "After the 4th cum, you've only ejaculated so little each time, adding onto the existing cum coated all over your body."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_57546dc4:
+
+    # "You can't tell how long the cum has been onto you, sometimes a kind bandit might clean your body of the cum stenches, but sometimes you have to bear with it for days."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_7ce63a3a:
+
+    # "Every part of your body have been dripping with hot seeds at some point, even your face is blasted daily with a random bandit's hot seeds."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_3d3f790e:
+
+    # "It has been like this every day, every night. You can't tell the time anymore, just vaguely remember which bandit will come in and use your hole thoroughly."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_318a1caa:
+
+    # "Some bandits tell you stories of what happened to Lusterfield, some friends tried to look for you everywhere, they tell you they'd find posts with your face on trees nearby."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_3600eb66:
+
+    # "And they'll only laugh it off and tear them away, not even letting the memory of you stay on the tree."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_de57d91b:
+
+    # "They'd tell you stories, watching your reaction while you're still moaning endlessly, being thrusted into by the dildo, sometimes joining in on the fun."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_696f2552:
+
+    # "You're not sure when the search has stopped, but it took a long time, you're not sure if it has been years you've been existing here."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_ba0531ee:
+
+    # "But the only thing you know is, you'll stay here, lying on your back as cum sprays onto your body, glazing over your fur as you're filled to the brim all the time."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_31cd7827:
+
+    # "And the next day, it'll be the same all over again, the room has becomed your personal storage, stink of mixtures of cum and sweat."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_440b8e41:
+
+    # "Constantly you pant, moan like a faulty machine yearning to be used. Your past self is slowly fading away, what's remain is a soulless husk of a young aspiring wanderer."
+    ""
+
+translate schinese BadEnd_Bandit_Bondage_b60fb29b:
+
+    # "And each thrust of the dildo reminds you, you're not an adventurer, you're the bandit's personal cum dump, and nothing more..."
+    ""
+
 translate schinese strings:
 
     old "Return to Main Menu"

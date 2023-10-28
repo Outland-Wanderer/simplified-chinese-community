@@ -1871,6 +1871,18 @@ translate schinese strings:
     old "Guard"
     new ""
 
+    old "Bear Guard"
+    new ""
+
+    old "Bear Commander"
+    new ""
+
+    old "Bear Chief"
+    new ""
+
+    old "Kauhu"
+    new ""
+
     old "Goat General"
     new ""
 
@@ -1943,6 +1955,9 @@ translate schinese strings:
     old "Pirkka"
     new ""
 
+    old "Daggi"
+    new ""
+
     old "Arthur"
     new ""
 
@@ -1958,7 +1973,7 @@ translate schinese strings:
     old "Gnoll"
     new ""
 
-    old " Fokk "
+    old "Fokk"
     new ""
 
     old "Coit"
@@ -1991,10 +2006,10 @@ translate schinese strings:
     old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA. Costs 20 MP. Cooldown: 2 Round."
     new ""
 
-    old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI. Costs 20 MP. Cooldown: 3 Round."
+    old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round. Costs 35 MP. Cooldown: 1 Round."
     new ""
 
-    old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round. Costs 35 MP. Cooldown: 1 Round."
+    old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI. Costs 20 MP. Cooldown: 3 Round."
     new ""
 
     old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP. Cooldown: 1 Round."

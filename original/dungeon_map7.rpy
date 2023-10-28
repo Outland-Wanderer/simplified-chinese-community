@@ -348,6 +348,26 @@ translate schinese Bandit_Encounter_Bandit_bf39400a:
     # bd "Well, at least you're smart knowing you can't escape from us."
     bd ""
 
+translate schinese Bandit_Encounter_Bandit_4550fc3c:
+
+    # "And when you wake up from the darkness, you're already out of the bandit's hideouts."
+    ""
+
+translate schinese Bandit_Encounter_Bandit_b92c892c:
+
+    # "Apparently they've decided to let you go, you are so wasted from these few hours serving those bandits."
+    ""
+
+translate schinese Bandit_Encounter_Bandit_05090e87:
+
+    # "You can't imagine what a lifetime of being used for pleasure would feel like, not that you'd want to know."
+    ""
+
+translate schinese Bandit_Encounter_Bandit_eb705bbd:
+
+    # "But at least, you're spared of your freedom, for now."
+    ""
+
 translate schinese Bandit_Encounter_Bandit_c8742c33:
 
     # "You lost [lost_gold] gold."

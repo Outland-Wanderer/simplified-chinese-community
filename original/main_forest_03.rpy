@@ -138,57 +138,72 @@ translate schinese prattlefell_meadow_loop_e91ba75d_1:
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     ""
 
+translate schinese main_bandits_hideout_1ad660cd:
+
+    # "You walk outside of the bandit's hall. The one guarding the pathway winks at you before letting you go."
+    ""
+
 translate schinese main_bandits_hideout_bab1030c:
 
     # "You enter the bandit's hideout."
     ""
 
-translate schinese main_bandits_hideout_01fc2cf8:
+translate schinese main_bandits_hideout_205634f3:
+
+    # bd "You can go now, if that wasn't obvious enough."
+    bd ""
+
+translate schinese main_bandits_hideout_bb46e3d3:
+
+    # "Bandit crosses his arms, and begins to look the other directions."
+    ""
+
+translate schinese Bandit_Toll_Collect_01fc2cf8:
 
     # "A gruff voice calls out as you stand in front of the stone structure."
     ""
 
-translate schinese main_bandits_hideout_9bbb5037:
+translate schinese Bandit_Toll_Collect_9bbb5037:
 
     # bd "Well, well, what do we have here? A traveler, eh?"
     bd ""
 
-translate schinese main_bandits_hideout_49cfe7d7:
+translate schinese Bandit_Toll_Collect_49cfe7d7:
 
     # e "Hey! Back off, I've got weapons."
     e ""
 
-translate schinese main_bandits_hideout_bf5d361c:
+translate schinese Bandit_Toll_Collect_bf5d361c:
 
     # bd "You've got guts, I'll give you that. But I'm afraid this is our territory, and you'll have to pay the toll to pass."
     bd ""
 
-translate schinese main_bandits_hideout_0a85cc04:
+translate schinese Bandit_Toll_Collect_59dc57cf:
 
-    # bd "Nothing much. 100 gold and I'll let you go." nointeract
+    # bd "Nothing much. [bandit_toll] gold and I'll let you go." nointeract
     bd "" nointeract
 
-translate schinese main_bandits_hideout_3089a27b:
+translate schinese Bandit_Toll_Collect_de608157:
 
-    # e "Well, I don't want any trouble. Here's 100 gold."
+    # e "Well, I don't want any trouble. Here's [bandit_toll] gold."
     e ""
 
-translate schinese main_bandits_hideout_31d284d7:
+translate schinese Bandit_Toll_Collect_31d284d7:
 
     # bd "Wise choice. We'll put these gold into good use. Pass now before I change my mind and take you in."
     bd ""
 
-translate schinese main_bandits_hideout_f02ad6b5:
+translate schinese Bandit_Toll_Collect_f02ad6b5:
 
     # "The bandit smirks."
     ""
 
-translate schinese main_bandits_hideout_f7d081f0:
+translate schinese Bandit_Toll_Collect_f7d081f0:
 
     # e "I won't budge so easily, let's fight then!"
     e ""
 
-translate schinese main_bandits_hideout_50681a75:
+translate schinese Bandit_Toll_Collect_50681a75:
 
     # bd "Ha, what a dumb decision. Prepare yourself, for when we take you in after this."
     bd ""
@@ -247,21 +262,6 @@ translate schinese riverside_crossing_loop_c44940ab:
 
     # "You put the blue berry in your bag, you now have [item_number] blue berries."
     ""
-
-translate schinese riverside_crossing_loop_c4468641:
-
-    # "Along the lagoon, you found a leftover paper detailing the process to make a bucket."
-    ""
-
-translate schinese riverside_crossing_loop_6248f077:
-
-    # "It says making a wooden bucket requires 6 Wooden Logs and 4 Slime Balls. You mark down the recipe on your journal."
-    ""
-
-translate schinese riverside_crossing_loop_28cfe685:
-
-    # msg "New Recipe learned, check out Rahim's Workstation for more detail."
-    msg ""
 
 translate schinese riverside_crossing_loop_e91ba75d:
 

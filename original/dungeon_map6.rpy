@@ -343,6 +343,81 @@ translate schinese Whispering_Hollow_Loop_06eefad7:
     # "Yes, that would not make sense, as you thought."
     ""
 
+translate schinese Whispering_Hollow_Loop_e04bf7d7:
+
+    # ww "Oh hey! The amulet is right there! How did you do that?"
+    ww ""
+
+translate schinese Whispering_Hollow_Loop_16c35601:
+
+    # ww "Wait, the beasts of the night, isn't that... us?"
+    ww ""
+
+translate schinese Whispering_Hollow_Loop_0813b5d5:
+
+    # ww "Why would they repel us, must be something from the tasty goats again..."
+    ww ""
+
+translate schinese Whispering_Hollow_Loop_5b5e3936:
+
+    # ww "They could have something there up their slippery sleeves."
+    ww ""
+
+translate schinese Whispering_Hollow_Loop_c2de7c62:
+
+    # ww "Whisper that brushes, sounds like my fur. Mine's delicate also."
+    ww ""
+
+translate schinese Whispering_Hollow_Loop_42c1113e:
+
+    # ww "My cock's... uh... more like a howl. But... dances with the wind?"
+    ww ""
+
+translate schinese Whispering_Hollow_Loop_097aaf9d:
+
+    # ww "Stop being poetic! This is getting me so angry I can tear a bird in half!"
+    ww ""
+
+translate schinese Whispering_Hollow_Loop_c0eb9969:
+
+    # ww "Chime... gentle? That sounds so obvious, it's the fuckin' bear's horn, right?"
+    ww ""
+
+translate schinese Whispering_Hollow_Loop_b76295a5:
+
+    # ww "That gives me shivers every time they try that across the mountains from here."
+    ww ""
+
+translate schinese Whispering_Hollow_Loop_ae7aef8a:
+
+    # ww "But seriously, where can I get a horn, from somwhere that's close enough, preferably a prey?"
+    ww ""
+
+translate schinese Whispering_Hollow_Loop_c3bdd561:
+
+    # ww "Warmth, bones. Sounds like a proper feast in my pack. the only thing missing is the meat."
+    ww ""
+
+translate schinese Whispering_Hollow_Loop_fbc48ab5:
+
+    # ww "But meat's not bitter, and it's a drink. Doesn't sound like something we have... unless we're talking about blood."
+    ww ""
+
+translate schinese Whispering_Hollow_Loop_0ba2839c:
+
+    # ww "Though, what did we drink in the feast? We always had that at full moon, Can't bring myself to remember that stuff."
+    ww ""
+
+translate schinese Whispering_Hollow_Loop_5e281fac:
+
+    # ww "Hard and Unyielding..."
+    ww ""
+
+translate schinese Whispering_Hollow_Loop_562a271e:
+
+    # ww "...What if it's something from the ground? We've had that in the mines before..."
+    ww ""
+
 translate schinese Whispering_Hollow_Loop_7031d355:
 
     # "You leave the werewolf alone to his thought once again."

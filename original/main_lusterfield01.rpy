@@ -18,6 +18,16 @@ translate schinese main_bedroom_1fed3c0a:
     # msg "This is a debug screen for fixing all bugs related issues in some saves." nointeract
     msg "" nointeract
 
+translate schinese main_bedroom_ace82b66:
+
+    # msg "This function is only available to {b}Roommate{/b} and {b}Keeper{/b} Tier on Patreon. Passcode will change every update."
+    msg ""
+
+translate schinese main_bedroom_585bc2fb:
+
+    # msg "Turn off Gallery Unlock feature? You have to re-enter the passcode to access it again." nointeract
+    msg "" nointeract
+
 translate schinese main_bedroom_b1fe1731:
 
     # msg "This fix is for when you constantly get approached by an error screen regarding quest progress."
@@ -52,6 +62,16 @@ translate schinese main_bedroom_20c24f88:
 
     # msg "Done! Please put your clothes back on after reset, or not!"
     msg ""
+
+translate schinese Gallery_Input_Passcode_54fbfb87:
+
+    # msg "All gallery scenes are successfully unlocked!"
+    msg ""
+
+translate schinese Gallery_Input_Passcode_f555efae:
+
+    # msg "Passcode incorrect. Do you want to try again?" nointeract
+    msg "" nointeract
 
 translate schinese bedroom_sleep_6ad06346:
 
@@ -6478,6 +6498,21 @@ translate schinese Ole_dialogue_845cd927:
     # o "You can put them on anytime... now, I mean anytime..."
     o ""
 
+translate schinese Ole_dialogue_a1083ba8:
+
+    # o "Hey kiddo, Seb's gone to drink again."
+    o ""
+
+translate schinese Ole_dialogue_e3bf08b8:
+
+    # e "Ah! He's at the nocturnal trunk?"
+    e ""
+
+translate schinese Ole_dialogue_10a7b5b4:
+
+    # o "Yeah, in case you're looking for him."
+    o ""
+
 translate schinese Ole_dialogue_64c2c56a:
 
     # o "Hey kid, how's your head doing?"
@@ -9548,10 +9583,10 @@ translate schinese Ole_After_Sick_Quest_21e2407d:
     # "Ole lets the conversation linger. You wonder if you should bring up the other thing that happened that day."
     ""
 
-translate schinese Ole_After_Sick_Quest_9ba9180d:
+translate schinese Ole_After_Sick_Quest_1fb56f7e:
 
-    # o "Also about the other thing..."
-    o ""
+    # e "Also about the other thing..."
+    e ""
 
 translate schinese Ole_After_Sick_Quest_27abb94f:
 
@@ -9973,9 +10008,9 @@ translate schinese Ole_Ask_Lusterfield_People_64a0a113:
     # o "If you need some other informal training, Lothar is also here, I'm sure you can always learn some more from him."
     o ""
 
-translate schinese Ole_Ask_Lusterfield_People_bc0920e9:
+translate schinese Ole_Ask_Lusterfield_People_98da93a6:
 
-    # o "And we have Rahim, of course, I think he's making you a leather armour for travel purposes, remember to go visit him before you set out on your little adventure."
+    # o "And we have Rahim, of course, I think he's making you a leather armor for travel purposes, remember to go visit him before you set out on your little adventure."
     o ""
 
 translate schinese Ole_Ask_Lusterfield_People_6dfb661e:
@@ -10392,6 +10427,111 @@ translate schinese Rahim_Ask_Lusterfield_6d945238:
 
     # r "You want to know about...?" nointeract
     r "" nointeract
+
+translate schinese Rahim_Leather_Armor_a7079f96:
+
+    # e "Hello, Rahim."
+    e ""
+
+translate schinese Rahim_Leather_Armor_389fd835:
+
+    # "Rahim is still threading his needles, until he's distracted by your voice."
+    ""
+
+translate schinese Rahim_Leather_Armor_cc41dfbc:
+
+    # "He doesn't even move his head, just staring at your general direction as he tries again with a new needle."
+    ""
+
+translate schinese Rahim_Leather_Armor_596406e0:
+
+    # r "Oh, right. I just finished your leather outfit. It's right there."
+    r ""
+
+translate schinese Rahim_Leather_Armor_f5605e3d:
+
+    # "The tailor raises his head to point at the cabinets, where you see a piece of leather armor tidily placed inside a wooden box."
+    ""
+
+translate schinese Rahim_Leather_Armor_396aaabe:
+
+    # e "Thank you so much, Rahim. Is it the one made after you measured my waist?"
+    e ""
+
+translate schinese Rahim_Leather_Armor_bec3b4af:
+
+    # r "Yes."
+    r ""
+
+translate schinese Rahim_Leather_Armor_ef3da110:
+
+    # e "I don't know what to say, thank you for being so kind to me."
+    e ""
+
+translate schinese Rahim_Leather_Armor_959c5f97:
+
+    # "You reach over and take the armor, trying to check the size."
+    ""
+
+translate schinese Rahim_Leather_Armor_30ad8122:
+
+    # e "Oh, I think it fits me perfectly, and the leather is very light-weight too."
+    e ""
+
+translate schinese Rahim_Leather_Armor_91425277:
+
+    # "Rahim lowers his head, eyes focused on the piece of garment on his table."
+    ""
+
+translate schinese Rahim_Leather_Armor_a2e55ebf:
+
+    # e "Ah, should I try it out now? This will come in handy when I go on adventures. How did you get all these quality fabrics."
+    e ""
+
+translate schinese Rahim_Leather_Armor_1dbba092:
+
+    # e "Rahim?"
+    e ""
+
+translate schinese Rahim_Leather_Armor_6b233620:
+
+    # r "No, I'm working right now, you can take the box back to the shop. And the door is right there."
+    r ""
+
+translate schinese Rahim_Leather_Armor_ad058579:
+
+    # "His response comes to a shock for you, paired with the stern face he gives, it feels like he didn't even want you here."
+    ""
+
+translate schinese Rahim_Leather_Armor_b7f7cc00:
+
+    # "You freeze for a moment, holding the box with the leather armor in it. As if you're waiting for some kind of follow up."
+    ""
+
+translate schinese Rahim_Leather_Armor_8c2590b1:
+
+    # "The tailor is still staring at his work, pausing for a few seconds, he furrows his brows before looking up again."
+    ""
+
+translate schinese Rahim_Leather_Armor_dd4775af:
+
+    # r "Welcome to Lusterfield, [e]."
+    r ""
+
+translate schinese Rahim_Leather_Armor_5ec8f54f:
+
+    # e "Hey, I get it. Thank you for the armor again. I- I'll go now."
+    e ""
+
+translate schinese Rahim_Leather_Armor_b8536fa8:
+
+    # "You pat on Rahim's shoulder, which caused him to shudder a bit. Rahim stares at you blankly until you finally leave him alone."
+    ""
+
+translate schinese Rahim_Leather_Armor_d1f01bcf:
+
+    # e "Bye, Rahim!"
+    e ""
 
 translate schinese Rahim_Yarn_Quest_03_c51008b6:
 
@@ -17248,9 +17388,9 @@ translate schinese Amble_Voting_Ask_Cement_3e7f91ca:
     # "You stare in embarrassment, well, it really does look like he's stroking a huge... pillar."
     ""
 
-translate schinese Amble_Voting_Ask_Cement_bffaaa0e:
+translate schinese Amble_Voting_Ask_Cement_98ea186b:
 
-    # a "Limestones are very abundant in a yellowish cave, near the goat tribe. You might need to get someone knowledgeable enough to show you that entrance of the cave. It should be easy to get a pickaxe from Gwyd!"
+    # a "Limestones are very abundant in a yellowish cave, near the goat tribe. You might need to get someone knowledgeable enough to show you that entrance of the cave. It should be easy to get a pickaxe from werewolves!"
     a ""
 
 translate schinese Amble_Voting_Ask_Cement_6df1d013:
@@ -22288,6 +22428,9 @@ translate schinese strings:
     old "Debugging"
     new ""
 
+    old "Unlock All Gallery Scenes"
+    new ""
+
     old "Clear Quest Progress"
     new ""
 
@@ -22301,6 +22444,9 @@ translate schinese strings:
     new ""
 
     old "Confirm"
+    new ""
+
+    old "Enter the Passcode:"
     new ""
 
     old "Ask about his betting"

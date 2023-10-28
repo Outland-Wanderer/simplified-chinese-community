@@ -2713,10 +2713,10 @@ translate schinese Kari_Trusty_e60683b2:
     # "Kari opens his mouth to speak, but you hold your hand up to preempt him."
     ""
 
-translate schinese Kari_Trusty_4e4992d9:
+translate schinese Kari_Trusty_30a2c986:
 
-    # k "If I ask a question you feel touches on matters of your tribe's safety or security, tell me, and I'll drop it entirely."
-    k ""
+    # e "If I ask a question you feel touches on matters of your tribe's safety or security, tell me, and I'll drop it entirely."
+    e ""
 
 translate schinese Kari_Trusty_f25a1418:
 

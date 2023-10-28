@@ -2565,26 +2565,6 @@ translate schinese Scene_Bandit_Gangbang_fe9d8d38:
     # "A bandit whispers in your ears, but you're not conscious enough to listen what he had to say."
     ""
 
-translate schinese Scene_Bandit_Gangbang_4550fc3c:
-
-    # "And when you wake up from the darkness, you're already out of the bandit's hideouts."
-    ""
-
-translate schinese Scene_Bandit_Gangbang_b92c892c:
-
-    # "Apparently they've decided to let you go, you are so wasted from these few hours serving those bandits."
-    ""
-
-translate schinese Scene_Bandit_Gangbang_05090e87:
-
-    # "You can't imagine what a lifetime of being used for pleasure would feel like, not that you'd want to know."
-    ""
-
-translate schinese Scene_Bandit_Gangbang_eb705bbd:
-
-    # "But at least, you're spared of your freedom, for now."
-    ""
-
 translate schinese Scene_Werewolf_Gangbang_6d43c242:
 
     # "In the middle of it all is Uffe, whose howls were the lowest pitch, yet it grows to become the loudest and most ferocious voice in the pack."

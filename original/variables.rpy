@@ -363,6 +363,12 @@
     old "A pair of old gloves from a herbalist in the dark forest, it can probably still be used to collect some dangerous herbs with ease. {p} Defense: +6 {p} Flirt: +1"
     new ""
 
+    old "Leather Armor"
+    new ""
+
+    old "A strong and durable leather armor custom-made and stitched together by tailor Rahim. It had been a rarity and often fetched a great price during the time when he was the King's appointed Tailor."
+    new ""
+
     old "Torn Tavern Apron"
     new ""
 
@@ -1117,6 +1123,24 @@
     new ""
 
     old "An abandoned bridge that has been destroyed by the Goat Tribe as they waged war against Lusterfield, it was the main transport path as countless carriages and wagons strolled across this bridge daily."
+    new ""
+
+    old "Ursinia Glade"
+    new ""
+
+    old "An opening in a pine and fir forest at the edge of the snow region created by a wild fire long ago. Its name derives from the beautiful ursinia flowers where local visitors often use for celebratory purposes."
+    new ""
+
+    old "Frosted Taiga"
+    new ""
+
+    old "Known as the forest covered in snow and fallen trees, the taiga is often guarded by the bear guards due to their efficient skin of thick fur, travellers may require much more loose clothes ahead as the temperature drastically lower in this region."
+    new ""
+
+    old "Bear Tribe"
+    new ""
+
+    old "The village of the bears, who refers the place as {i}Otsovaara{/i}. It is abundant of many natural resources, and often utilizes structures to extract and survive through the eternal winter. The bears are known to be secluded from the south, and rarely accepts visitors."
     new ""
 
     old "Ole's Postal Training"

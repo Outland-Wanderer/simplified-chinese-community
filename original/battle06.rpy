@@ -158,6 +158,16 @@ translate schinese bandit_win_f8a21106:
     # bd "S-shit alright, alright. You win this time. I won't collect your toll... today."
     bd ""
 
+translate schinese bandit_win_16b41cd5:
+
+    # "You raise your fist towards the bandit again."
+    ""
+
+translate schinese bandit_win_0cdc15e9:
+
+    # bd "O-ok, alright. 3 days without toll."
+    bd ""
+
 translate schinese bandit_win_d0a8fdd8:
 
     # "You search around the bandit before letting him go."
@@ -176,6 +186,26 @@ translate schinese bandit_lose_4a386580:
 translate schinese bandit_lose_3abe0099:
 
     # "The bandit smirks, he drags you towards the stone building, checking you out with a sinister look."
+    ""
+
+translate schinese bandit_lose_4550fc3c:
+
+    # "And when you wake up from the darkness, you're already out of the bandit's hideouts."
+    ""
+
+translate schinese bandit_lose_b92c892c:
+
+    # "Apparently they've decided to let you go, you are so wasted from these few hours serving those bandits."
+    ""
+
+translate schinese bandit_lose_05090e87:
+
+    # "You can't imagine what a lifetime of being used for pleasure would feel like, not that you'd want to know."
+    ""
+
+translate schinese bandit_lose_eb705bbd:
+
+    # "But at least, you're spared of your freedom, for now."
     ""
 
 translate schinese gnoll_battle_565ff9b9:

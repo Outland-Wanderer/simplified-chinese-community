@@ -98,6 +98,166 @@ translate schinese Cane_Dialogue_c6408ae7:
     # c "Cover yer cock, ya dink. I'm not serving some donks who goes out naked in the public."
     c ""
 
+translate schinese Cane_Dialogue_5e0eccfc:
+
+    # c "Welcome, welcome, [e]. Fancy helping with our plates and mugs 'ere? We're gettin' a lil busy now."
+    c ""
+
+translate schinese Cane_Dialogue_2f1aa10e:
+
+    # c "Welcome [e]. Just so ye know, some patrons requested private shows from yer ass."
+    c ""
+
+translate schinese Cane_Dialogue_b4e09a22:
+
+    # c "Aye, welcome again, [e]. How's it going, my lad."
+    c ""
+
+translate schinese Cane_Dialogue_b1f8c8df:
+
+    # e "Very good, actually. Thank you, Cane."
+    e ""
+
+translate schinese Cane_Dialogue_690a2e4e:
+
+    # c "I've been feelin' better, since that night I spent wit' ye."
+    c ""
+
+translate schinese Cane_Dialogue_dcba56b5:
+
+    # c "Ye was still a good lad, just that I hadn't been myself for years, forgot what that means."
+    c ""
+
+translate schinese Cane_Dialogue_e53b2d07:
+
+    # e "I understand, Cane. Don't fret about it."
+    e ""
+
+translate schinese Cane_Dialogue_bb98a8ed:
+
+    # c "I'm glad to have ye around. Visit m' more often, lad."
+    c ""
+
+translate schinese Cane_Dialogue_7f00dddd:
+
+    # e "Of course, don't ye worry, Cane. I'll be here helping you out."
+    e ""
+
+translate schinese Cane_Dialogue_4c4d442d:
+
+    # c "Welcome, [e]. The nocturnal trunk always welcome ye cute lil face here, lad."
+    c ""
+
+translate schinese Cane_Dialogue_5a926dc3_1:
+
+    # e "Hello, Cane."
+    e ""
+
+translate schinese Cane_Dialogue_9df12cda:
+
+    # c "I heard ye running into some werewolves folks there, I wanna worry for ye, but..."
+    c ""
+
+translate schinese Cane_Dialogue_568f3a0b:
+
+    # c "Well, always be careful."
+    c ""
+
+translate schinese Cane_Dialogue_04f273db:
+
+    # c "For m' and everyone who cares for ye, alright?"
+    c ""
+
+translate schinese Cane_Dialogue_c6cadae6:
+
+    # c "For everyone 'ere, right? We don't wanna lose a good lad to them scoundrels."
+    c ""
+
+translate schinese Cane_Dialogue_2e7e7811:
+
+    # e "I will! How else can I come back to see you, Cane."
+    e ""
+
+translate schinese Cane_Dialogue_8ed25211:
+
+    # c "Welcome, [e]. Gettin' used to 'ere now?"
+    c ""
+
+translate schinese Cane_Dialogue_8c471278:
+
+    # e "I do, Cane."
+    e ""
+
+translate schinese Cane_Dialogue_07e3f88e:
+
+    # c "That party the lion threw was somethin' else. Been a while since we see everyone in the same place."
+    c ""
+
+translate schinese Cane_Dialogue_2e899f8e:
+
+    # e "Yeah, I think despite some hiccups, everyone had fun, I saw you talking with Rahim there too."
+    e ""
+
+translate schinese Cane_Dialogue_90e46722:
+
+    # c "Heh, everything can change in seconds, but that stubborn old bull's still the same, after all those years."
+    c ""
+
+translate schinese Cane_Dialogue_f8661faa:
+
+    # c "Welcome to the Nocturnal Trunk, m' lad."
+    c ""
+
+translate schinese Cane_Dialogue_2f047327:
+
+    # e "Hey, how's it going?"
+    e ""
+
+translate schinese Cane_Dialogue_60d7a2b7:
+
+    # c "Good, tavern's gettin busier with a bard by the hearth, but I've got no goddamn idea what he's singing about."
+    c ""
+
+translate schinese Cane_Dialogue_9beb1783:
+
+    # e "Oh, Pirkka? He does have a thick accent when he's singing sometimes."
+    e ""
+
+translate schinese Cane_Dialogue_4aa3e2e3:
+
+    # c "Aye, he's upstairs right now, told him about private shows and all that. Lad has a good heart, wonder if he'll stay for long."
+    c ""
+
+translate schinese Cane_Dialogue_a36f13f2:
+
+    # c "Maybe I'll pay for him to stay even. Rumor says he has a way with his mouth."
+    c ""
+
+translate schinese Cane_Dialogue_f8661faa_1:
+
+    # c "Welcome to the Nocturnal Trunk, m' lad."
+    c ""
+
+translate schinese Cane_Dialogue_29735ad3:
+
+    # c "Heard some banging upstairs that other day, turns out the regular's been playing cards again."
+    c ""
+
+translate schinese Cane_Dialogue_f147b6dc:
+
+    # e "Oh, they've been sitting there for a while."
+    e ""
+
+translate schinese Cane_Dialogue_54dc1a9b:
+
+    # c "The card and table gettin messier everytime they borrow from m' shelves. But they stay up for days there."
+    c ""
+
+translate schinese Cane_Dialogue_017f22fa:
+
+    # c "Just don't break m' tables when ye... go upstairs, lad. Or straight up don't owe money. They've got more up their sleeves than ye think."
+    c ""
+
 translate schinese Cane_Dialogue_bad59a76:
 
     # c "Welcome to the Nocturnal Trunk, outsider."
@@ -142,6 +302,191 @@ translate schinese Cane_Normal_Talk_58e0fbb5:
 
     # "As you are about to ask, you realise you are not putting on the right clothes to judge..."
     ""
+
+translate schinese Cane_Work_b9eb2c1d:
+
+    # e "Cane, Can I get some work here?"
+    e ""
+
+translate schinese Cane_Work_482cb8d8:
+
+    # c "What'cha thinkin. Ya be a Server or show yer patron some ass?" nointeract
+    c "" nointeract
+
+translate schinese Cane_Work_76aa60a3:
+
+    # e "Hey, Cane! Can I... ask if I can work on the private show?"
+    e ""
+
+translate schinese Cane_Work_392c40f8:
+
+    # c "Yer in luck, my lad! Or rather, we've got a lucky patron."
+    c ""
+
+translate schinese Cane_Work_572c9742:
+
+    # c "Ye've a patron waitin' for ye in the backroom."
+    c ""
+
+translate schinese Cane_Work_46f4825c:
+
+    # c "I'll hand ye the pay once yer done."
+    c ""
+
+translate schinese Cane_Work_d4392b56:
+
+    # e "I'll need to think more, thanks Cane."
+    e ""
+
+translate schinese Cane_Work_99900951:
+
+    # c "Eh... Alright. don't leave 'em hanging for too long, lad."
+    c ""
+
+translate schinese Cane_Work_e0696090:
+
+    # e "O-ok! Thank you, Cane."
+    e ""
+
+translate schinese Cane_Work_0c1134d3:
+
+    # e "Hey... Cane. You talked about working in the tavern, right?"
+    e ""
+
+translate schinese Cane_Work_7121ebe1:
+
+    # c "Yeah?"
+    c ""
+
+translate schinese Cane_Work_774f4ade:
+
+    # e "It looks pretty interesting, how is the wage here?"
+    e ""
+
+translate schinese Cane_Work_a80432ec:
+
+    # c "Aye, its 50 gold for 4 hours, I'd pay more if yer work hard enough." nointeract
+    c "" nointeract
+
+translate schinese Cane_Work_d2ecfc50:
+
+    # e "I'll think about it, Cane."
+    e ""
+
+translate schinese Cane_Work_b6ca98b4:
+
+    # c "All good. Well then, enjoy yer stay in the Nocturnal Trunk!"
+    c ""
+
+translate schinese Cane_Work_adc10916:
+
+    # e "Hey... Cane. Can I work in the tavern again?"
+    e ""
+
+translate schinese Cane_Work_1a1b7af6:
+
+    # c "Aye, same wage. Its 50 gold for 4 hours." nointeract
+    c "" nointeract
+
+translate schinese Cane_Work_d2ecfc50_1:
+
+    # e "I'll think about it, Cane."
+    e ""
+
+translate schinese Cane_Work_b6ca98b4_1:
+
+    # c "All good. Well then, enjoy yer stay in the Nocturnal Trunk!"
+    c ""
+
+translate schinese Cane_Work_e120c034:
+
+    # c "Mister [e], ya had already served the whole village 'ere. Come back after a few hours ya thirsty lad."
+    c ""
+
+translate schinese Cane_Work_62ea5a76:
+
+    # e "...Ok, Cane."
+    e ""
+
+translate schinese Cane_Order_740b1efb:
+
+    # e "I want to order something from you..."
+    e ""
+
+translate schinese Cane_Order_109d0e69:
+
+    # c "Of course ya dink donk, we've got beer for 15, and our new Ale for 20 gold. Want one?"
+    c ""
+
+translate schinese Cane_Order_ab6d13e9:
+
+    # c "Of course ya dink donk, we have some beer right now, takes ya 15 gold. Want one?"
+    c ""
+
+translate schinese Cane_Order_ba9a6668:
+
+    # e "hmmm...." nointeract
+    e "" nointeract
+
+translate schinese Cane_Order_45375577:
+
+    # e "I'll take one beer."
+    e ""
+
+translate schinese Cane_Order_bc6178b0:
+
+    # c "Good, here's yers, enjoy."
+    c ""
+
+translate schinese Cane_Order_40dce0df:
+
+    # e "I'll take one."
+    e ""
+
+translate schinese Cane_Order_da44e24e:
+
+    # c "Uhh... Ya dummy, look at yer pouch, [pc.gold] gold is not enough for a beer, mister."
+    c ""
+
+translate schinese Cane_Order_6b1d6423:
+
+    # e "Oh... sorry about that."
+    e ""
+
+translate schinese Cane_Order_11ec3786:
+
+    # e "I'll take an ale."
+    e ""
+
+translate schinese Cane_Order_8ef0a3d3:
+
+    # c "Good, here's yer ale, enjoy."
+    c ""
+
+translate schinese Cane_Order_40dce0df_1:
+
+    # e "I'll take one."
+    e ""
+
+translate schinese Cane_Order_f6000285:
+
+    # c "Uhh... Ya dummy, look at yer pouch, [pc.gold] gold is not enough for an ale, lad."
+    c ""
+
+translate schinese Cane_Order_6b1d6423_1:
+
+    # e "Oh... sorry about that."
+    e ""
+
+translate schinese Cane_Order_1c150e2e:
+
+    # e "I'll think about it later."
+    e ""
+
+translate schinese Cane_Order_2acac5fa:
+
+    # c "Ya better."
+    c ""
 
 translate schinese Cane_First_Time_Upstairs_316f8d81:
 
@@ -5313,191 +5658,6 @@ translate schinese Cane_Ask_Goat_Tribe_bba3d5dd:
     # c "No problem, good lad."
     c ""
 
-translate schinese Cane_Work_b9eb2c1d:
-
-    # e "Cane, Can I get some work here?"
-    e ""
-
-translate schinese Cane_Work_482cb8d8:
-
-    # c "What'cha thinkin. Ya be a Server or show yer patron some ass?" nointeract
-    c "" nointeract
-
-translate schinese Cane_Work_76aa60a3:
-
-    # e "Hey, Cane! Can I... ask if I can work on the private show?"
-    e ""
-
-translate schinese Cane_Work_392c40f8:
-
-    # c "Yer in luck, my lad! Or rather, we've got a lucky patron."
-    c ""
-
-translate schinese Cane_Work_572c9742:
-
-    # c "Ye've a patron waitin' for ye in the backroom."
-    c ""
-
-translate schinese Cane_Work_46f4825c:
-
-    # c "I'll hand ye the pay once yer done."
-    c ""
-
-translate schinese Cane_Work_d4392b56:
-
-    # e "I'll need to think more, thanks Cane."
-    e ""
-
-translate schinese Cane_Work_99900951:
-
-    # c "Eh... Alright. don't leave 'em hanging for too long, lad."
-    c ""
-
-translate schinese Cane_Work_e0696090:
-
-    # e "O-ok! Thank you, Cane."
-    e ""
-
-translate schinese Cane_Work_0c1134d3:
-
-    # e "Hey... Cane. You talked about working in the tavern, right?"
-    e ""
-
-translate schinese Cane_Work_7121ebe1:
-
-    # c "Yeah?"
-    c ""
-
-translate schinese Cane_Work_774f4ade:
-
-    # e "It looks pretty interesting, how is the wage here?"
-    e ""
-
-translate schinese Cane_Work_a80432ec:
-
-    # c "Aye, its 50 gold for 4 hours, I'd pay more if yer work hard enough." nointeract
-    c "" nointeract
-
-translate schinese Cane_Work_d2ecfc50:
-
-    # e "I'll think about it, Cane."
-    e ""
-
-translate schinese Cane_Work_b6ca98b4:
-
-    # c "All good. Well then, enjoy yer stay in the Nocturnal Trunk!"
-    c ""
-
-translate schinese Cane_Work_adc10916:
-
-    # e "Hey... Cane. Can I work in the tavern again?"
-    e ""
-
-translate schinese Cane_Work_1a1b7af6:
-
-    # c "Aye, same wage. Its 50 gold for 4 hours." nointeract
-    c "" nointeract
-
-translate schinese Cane_Work_d2ecfc50_1:
-
-    # e "I'll think about it, Cane."
-    e ""
-
-translate schinese Cane_Work_b6ca98b4_1:
-
-    # c "All good. Well then, enjoy yer stay in the Nocturnal Trunk!"
-    c ""
-
-translate schinese Cane_Work_0f213b78:
-
-    # c "Mister [e], ya had already served the whole village. Come back after a few hours ya thirsty lad."
-    c ""
-
-translate schinese Cane_Work_62ea5a76:
-
-    # e "...Ok, Cane."
-    e ""
-
-translate schinese Cane_Order_740b1efb:
-
-    # e "I want to order something from you..."
-    e ""
-
-translate schinese Cane_Order_109d0e69:
-
-    # c "Of course ya dink donk, we've got beer for 15, and our new Ale for 20 gold. Want one?"
-    c ""
-
-translate schinese Cane_Order_ab6d13e9:
-
-    # c "Of course ya dink donk, we have some beer right now, takes ya 15 gold. Want one?"
-    c ""
-
-translate schinese Cane_Order_ba9a6668:
-
-    # e "hmmm...." nointeract
-    e "" nointeract
-
-translate schinese Cane_Order_45375577:
-
-    # e "I'll take one beer."
-    e ""
-
-translate schinese Cane_Order_bc6178b0:
-
-    # c "Good, here's yers, enjoy."
-    c ""
-
-translate schinese Cane_Order_40dce0df:
-
-    # e "I'll take one."
-    e ""
-
-translate schinese Cane_Order_da44e24e:
-
-    # c "Uhh... Ya dummy, look at yer pouch, [pc.gold] gold is not enough for a beer, mister."
-    c ""
-
-translate schinese Cane_Order_6b1d6423:
-
-    # e "Oh... sorry about that."
-    e ""
-
-translate schinese Cane_Order_11ec3786:
-
-    # e "I'll take an ale."
-    e ""
-
-translate schinese Cane_Order_8ef0a3d3:
-
-    # c "Good, here's yer ale, enjoy."
-    c ""
-
-translate schinese Cane_Order_40dce0df_1:
-
-    # e "I'll take one."
-    e ""
-
-translate schinese Cane_Order_f6000285:
-
-    # c "Uhh... Ya dummy, look at yer pouch, [pc.gold] gold is not enough for an ale, lad."
-    c ""
-
-translate schinese Cane_Order_6b1d6423_1:
-
-    # e "Oh... sorry about that."
-    e ""
-
-translate schinese Cane_Order_1c150e2e:
-
-    # e "I'll think about it later."
-    e ""
-
-translate schinese Cane_Order_2acac5fa:
-
-    # c "Ya better."
-    c ""
-
 translate schinese Cane_Event_Patron_Show_5518bece:
 
     # "After a hard day of working at the tavern, you walk over to the counter to get your pay."
@@ -10293,15 +10453,125 @@ translate schinese Lothar_Dialogue_b82f8229:
     # e "O-oh, If you would like?"
     e ""
 
-translate schinese Lothar_Dialogue_826837de:
+translate schinese Lothar_Dialogue_315ee5af:
 
-    # l "Ha- just kidding. I have standards."
+    # l "Yeah, no. I'm not one of those horny patrons Cane serves in his tavern."
     l ""
 
-translate schinese Lothar_Dialogue_bd9e9f2e:
+translate schinese Lothar_Dialogue_02e60a94:
 
-    # e "Ok, Lothar."
+    # l "You know what I did today, disciple? I killed 10 slimes, in a day. Protecting Lusterfield from the dangerous slime threats."
+    l ""
+
+translate schinese Lothar_Dialogue_7da21fc9:
+
+    # e "Uh, that's... very impressive."
     e ""
+
+translate schinese Lothar_Dialogue_df09abf0:
+
+    # l "What are you trying to say? I bet you can't even beat a dummy."
+    l ""
+
+translate schinese Lothar_Dialogue_e93f1902:
+
+    # e "I did! I beat it the first days we met."
+    e ""
+
+translate schinese Lothar_Dialogue_6862acc4:
+
+    # l "Don't talk about what happened with the flower."
+    l ""
+
+translate schinese Lothar_Dialogue_46a87d94:
+
+    # e "I- Lot, do you want to talk about it?"
+    e ""
+
+translate schinese Lothar_Dialogue_9ca93b6f:
+
+    # l "NO! Stop asking me about the flowers. You're making me uncomfortable."
+    l ""
+
+translate schinese Lothar_Dialogue_fdac3ef9:
+
+    # e "O-ok."
+    e ""
+
+translate schinese Lothar_Dialogue_8d3a4903:
+
+    # l "I feel like Lusterfolks respected me now more than when I killed that goat."
+    l ""
+
+translate schinese Lothar_Dialogue_4919c77d:
+
+    # e "Well, maybe because you were actually saving them from that flower?"
+    e ""
+
+translate schinese Lothar_Dialogue_35969d2c:
+
+    # l "What do you mean, everyone knows I am the saving grace of Lusterfield because I killed him, not some random flowers."
+    l ""
+
+translate schinese Lothar_Dialogue_7df88c6d:
+
+    # l "Speaking of, I still remember what you did there."
+    l ""
+
+translate schinese Lothar_Dialogue_e6cedf20:
+
+    # e "Uh, I just wanted to save you there, but alright."
+    e ""
+
+translate schinese Lothar_Dialogue_c2e950a4:
+
+    # l "I actually saved Amble and Jog, long ago from the bandits."
+    l ""
+
+translate schinese Lothar_Dialogue_1f4e4ef7:
+
+    # e "Hello Lothar, what are you talking about?"
+    e ""
+
+translate schinese Lothar_Dialogue_7170b630:
+
+    # l "I feel I have to make them remember that once in a while, else they forget."
+    l ""
+
+translate schinese Lothar_Dialogue_ccb64e2a:
+
+    # l "Anything new with the werewolves in the dark forest?"
+    l ""
+
+translate schinese Lothar_Dialogue_3a899e05:
+
+    # e "Uh, actually, aren't you a wolf, Lothar?"
+    e ""
+
+translate schinese Lothar_Dialogue_ceaad1fd:
+
+    # l "I'm not a werewolf, that's a whole different species. They are vicious and hunts anyone they see like cavemen."
+    l ""
+
+translate schinese Lothar_Dialogue_b4f610ef:
+
+    # e "Well, technically, you're correct. I think the-"
+    e ""
+
+translate schinese Lothar_Dialogue_eac736ce:
+
+    # l "Still, werewolf or not, they're mere smokescreens. All teeth, not brain."
+    l ""
+
+translate schinese Lothar_Dialogue_e24e7daa:
+
+    # l "The only thing I care is the goats, get it, disciple? One day we'll unveil the evil plans those goats are brewing up."
+    l ""
+
+translate schinese Lothar_Dialogue_dedec69e:
+
+    # l "That's what heroes do."
+    l ""
 
 translate schinese Lothar_Dialogue_e158ab8e:
 
@@ -13873,10 +14143,10 @@ translate schinese Lothar_Outfit_01_f3862c90:
     # l "Disciple, what are you talking about? This is marvelous. Despite his pissy behaviour, that bull's creations are the best in town."
     l ""
 
-translate schinese Lothar_Outfit_01_ea296b01:
+translate schinese Lothar_Outfit_01_4ce6c1cb:
 
-    # "This armor will provide all the arsenal you need in battle to distract and overcome your opponent."
-    ""
+    # l "This armor will provide all the arsenal you need in battle to distract and overcome your opponent."
+    l ""
 
 translate schinese Lothar_Outfit_01_6512c56e:
 
@@ -17471,6 +17741,30 @@ translate schinese strings:
     old "Ask about the tavern"
     new ""
 
+    old "Work in the Private Show"
+    new ""
+
+    old "Work as a server"
+    new ""
+
+    old "The pay's 100 gold, ya in?"
+    new ""
+
+    old "Take the job"
+    new ""
+
+    old "I'll think about it"
+    new ""
+
+    old "Get a beer for 15 gold"
+    new ""
+
+    old "Get an Ale for 20 gold"
+    new ""
+
+    old "I'll think about it."
+    new ""
+
     old "Play Card Game with the regulars"
     new ""
 
@@ -17532,30 +17826,6 @@ translate schinese strings:
     new ""
 
     old "Ask Cane if it's alright to use your tongue"
-    new ""
-
-    old "Work in the Private Show"
-    new ""
-
-    old "Work as a server"
-    new ""
-
-    old "The pay's 100 gold, ya in?"
-    new ""
-
-    old "Take the job"
-    new ""
-
-    old "I'll think about it"
-    new ""
-
-    old "Get a beer for 15 gold"
-    new ""
-
-    old "Get an Ale for 20 gold"
-    new ""
-
-    old "I'll think about it."
     new ""
 
     old "Craft 2 cheap pillows"
