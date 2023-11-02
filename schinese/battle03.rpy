@@ -1636,10 +1636,10 @@ translate schinese Bandit_Den_End_4dbb790a:
     # "You desperately want it to be this case."
     "你希望如此，因为这代表着头绪，代表着缘由，代表着自己能从这场噩梦中醒来。"
 
-translate schinese Bandit_Den_End_cd737672:
+translate schinese Bandit_Den_End_ebfee94b:
 
-    # "That it is a nightmare you could find a way to wake up."
-    pass
+    # "If it is a nightmare, maybe you can find a way to wake up."
+    "假如这是一场噩梦的话。"
 
 translate schinese Bandit_Den_End_23e939ae:
 
@@ -1685,11 +1685,6 @@ translate schinese Bandit_Den_End_ab597d55:
 
     # "Still, Chime is out there, alone, and you can't let that continue for long."
     "但别忘了，齐门还不知去向、生死未卜。"
-
-translate schinese Bandit_Den_End_65d2e163:
-
-    # "And even if you don't want to leave... You should do it for Chime."
-    "就算你不想回家……你也应该先找到齐门。"
 
 translate schinese Bandit_Den_End_a20cefa7_1:
 
@@ -1825,6 +1820,9 @@ translate schinese strings:
 
     old "Restart Dungeon"
     new "重新开始本关"
+    
+    old "Back to Main Menu"
+    new "返回标题界面"
 
 translate schinese runeguardian_lose_4ba96869:
 

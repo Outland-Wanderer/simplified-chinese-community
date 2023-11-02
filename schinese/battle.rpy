@@ -1312,10 +1312,10 @@ translate schinese mossgolem_battle_loop_8fd8c645:
     # "He has recovered [healing] HP."
     "他的体力回复了 [healing] 点。"
 
-translate schinese mossgolem_lose_3f7e0dd5:
+translate schinese mossgolem_lose_b1125d0b:
 
-    # "The golem stares at your vulnerable state, but doesn't stop there. You realise that you are not making it out of this alive..."
-    "石魔像盯着虚弱的你，并没有就此止步。你意识到他可不打算放你一条生路……"
+    # "The golem stares at your vulnerable state, but doesn't stop there. You realise that you are not making it out of this alive."
+    "石魔像盯着虚弱的你，并没有就此止步。你意识到他可不打算放你一条生路。"
 
 translate schinese mossgolem_lose_f06e58bb:
 
@@ -1326,77 +1326,6 @@ translate schinese mossgolem_lose_a20cefa7:
 
     # "..."
     "……"
-
-translate schinese mossgolem_lose_1b54c835:
-
-    # "He casts another spell. Completely binding your body under his control."
-    "可惜没有。"
-    "石魔像施展了另外一则咒语，将你的身体完全置于他的控制之下。"
-
-translate schinese mossgolem_lose_5d25027a:
-
-    # e "No..."
-    e "不……"
-
-translate schinese mossgolem_lose_0326b3ba:
-
-    # "This is the end of your journey."
-    "这便是你旅程的终点。"
-
-translate schinese mossgolem_lose_0a938a78:
-
-    # "His magical fist strikes into your chest. You hear a loud crack, like someone snapping a twig. {p}Followed by the sickening feeling of your body being obliterated."
-    "石魔像举起加持魔法的石质拳头，一拳砸进了你的胸腔。随之迸出的爆裂声异常清脆，像是几根小树枝被折断似的。生命流逝的反胃感遍布全身。"
-
-translate schinese mossgolem_lose_5ddefc36:
-
-    # "Your innards leak everywhere, your fur turns red very quickly. You groan weakly. There's nothing you can do now."
-    "肝肠脾胰泄了一地，皮毛全染成猩红。你无力呻吟着，被迫等候命运的安排。"
-
-translate schinese mossgolem_lose_1f82a542:
-
-    # "Another strike comes down upon your torso, smashing it into an unrecognisable pulp along with your unmoving tail."
-    "下一拳，石魔像将你的下体砸成肉泥。你半截尾巴飞了出去，蔫在地上。"
-
-translate schinese mossgolem_lose_bf37f968:
-
-    # "Your body is shutting down. The golem keeps smashing into you. You..."
-    "即使你已无可避免地走向死亡，石魔像依然蹂躏着那仅剩的肢体，像一台永不停歇的机器。这时，你若有若无地听见……"
-
-translate schinese mossgolem_lose_ff96ee14:
-
-    # "You can just barely hear someone calling your name..."
-    "听见好像有谁在叫你的名字……"
-
-translate schinese mossgolem_lose_bf9b2a82:
-
-    # l "[e]!!!!"
-    l "[e]！！！"
-
-translate schinese mossgolem_lose_d2944f34:
-
-    # l "Oh no no no no. SEBAS! SEBAS! He-... No."
-    l "噢不、不不不。塞巴斯！塞巴斯！他——他……"
-
-translate schinese mossgolem_lose_a0b71257:
-
-    # l "...no..."
-    l "……怎么会……"
-
-translate schinese mossgolem_lose_5fc0aca4:
-
-    # "The last image you see, is a wolf sobbing next to your battered body."
-    "你最后一次睁眼，看见灰狼跪在你支离破碎的躯干旁哭泣。"
-
-translate schinese mossgolem_lose_6ac9b865:
-
-    # "You close your eyes for the last time, and the world fades to darkness forever."
-    "你最后一次闭眼，跟随世界遁入永不可知的无尽黑暗。"
-
-translate schinese mossgolem_lose_e5543b2f:
-
-    # msg "You died."
-    msg "你死了。"
 
 translate schinese mossgolem_win_abd39c56:
 
@@ -1493,6 +1422,3 @@ translate schinese strings:
 
     old "Restart Quest"
     new "重新开始本关"
-
-    old "Back to Main Menu"
-    new "返回标题界面"

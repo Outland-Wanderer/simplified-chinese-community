@@ -33,10 +33,28 @@ translate schinese strings:
     old "Debugging"
     new "修复游戏故障"
 
+    old "Unlock All Gallery Scenes"
+    new "解锁全部画廊场景"
+
 translate schinese main_bedroom_1fed3c0a:
 
     # msg "This is a debug screen for fixing all bugs related issues in some saves." nointeract
     msg "以上选项可能可以修复部分游戏故障。" nointeract
+
+translate schinese main_bedroom_ace82b66:
+
+    # msg "This function is only available to {b}Roommate{/b} and {b}Keeper{/b} Tier on Patreon. Passcode will change every update."
+    msg "此功能仅面向“Roommate”及“Keeper”等级的 Patreon 赞助者。解锁码将随游戏更新更改。"
+
+translate schinese main_bedroom_585bc2fb:
+
+    # msg "Turn off Gallery Unlock feature? You have to re-enter the passcode to access it again." nointeract
+    msg "确认重新锁定未攻略画廊场景？" nointeract
+
+translate schinese strings:
+
+    old "Enter the Passcode:"
+    new "请输入解锁码："
 
 translate schinese main_bedroom_b1fe1731:
 
@@ -72,6 +90,16 @@ translate schinese main_bedroom_20c24f88:
 
     # msg "Done! Please put your clothes back on after reset, or not!"
     msg "修复完成！你现在可以穿回衣服了——不穿也可以！"
+
+translate schinese Gallery_Input_Passcode_54fbfb87:
+
+    # msg "All gallery scenes are successfully unlocked!"
+    msg "解锁成功！"
+
+translate schinese Gallery_Input_Passcode_f555efae:
+
+    # msg "Passcode incorrect. Do you want to try again?" nointeract
+    msg "密码错误。重试？" nointeract
 
 translate schinese strings:
 
@@ -3414,6 +3442,21 @@ translate schinese Ole_dialogue_845cd927:
     # o "You can put them on anytime... now, I mean anytime..."
     o "你知道你随时都可以去穿衣服……随时……"
 
+translate schinese Ole_dialogue_a1083ba8:
+
+    # o "Hey kiddo, Seb's gone to drink again."
+    o "嘿小兄弟，阿塞又去喝酒了。"
+
+translate schinese Ole_dialogue_e3bf08b8:
+
+    # e "Ah! He's at the nocturnal trunk?"
+    e "啊！他在夜夜椿？"
+
+translate schinese Ole_dialogue_10a7b5b4:
+
+    # o "Yeah, in case you're looking for him."
+    o "没错，假如你是来找他的话。"
+
 translate schinese Ole_dialogue_64c2c56a:
 
     # o "Hey kid, how's your head doing?"
@@ -6547,9 +6590,9 @@ translate schinese Ole_After_Sick_Quest_21e2407d:
     # "Ole lets the conversation linger. You wonder if you should bring up the other thing that happened that day."
     "奥利似乎还不想结束这个话题。你琢磨着要不要提那天做的“另一件事”。"
 
-translate schinese Ole_After_Sick_Quest_9ba9180d:
+translate schinese Ole_After_Sick_Quest_1fb56f7e:
 
-    # o "Also about the other thing..."
+    # e "Also about the other thing..."
     e "你那天躺在床上，我……"
 
 translate schinese Ole_After_Sick_Quest_27abb94f:
@@ -6973,9 +7016,9 @@ translate schinese Ole_Ask_Lusterfield_People_64a0a113:
     # o "If you need some other informal training, Lothar is also here, I'm sure you can always learn some more from him."
     o "如果你想来点非正规的战斗训练，可以找门外的洛萨尔。我相信你总能从他身上学到更多东西。"
 
-translate schinese Ole_Ask_Lusterfield_People_bc0920e9:
+translate schinese Ole_Ask_Lusterfield_People_98da93a6:
 
-    # o "And we have Rahim, of course, I think he's making you a leather armour for travel purposes, remember to go visit him before you set out on your little adventure."
+    # o "And we have Rahim, of course, I think he's making you a leather armor for travel purposes, remember to go visit him before you set out on your little adventure."
     o "另外你还可以拜访雷希姆的服装店，我猜他正在给你做长途旅行用的皮甲，别忘了在开始你的小冒险之前找他谈谈。"
 
 translate schinese Ole_Ask_Lusterfield_People_6dfb661e:
@@ -7451,6 +7494,111 @@ translate schinese strings:
 
     old "That's all I need to know"
     new "结束询问"
+
+translate schinese Rahim_Leather_Armor_a7079f96:
+
+    # e "Hello, Rahim."
+    e "雷叔您好。"
+
+translate schinese Rahim_Leather_Armor_389fd835:
+
+    # "Rahim is still threading his needles, until he's distracted by your voice."
+    "牛裁缝听到了你的声音，却没有停下手中的针线活，甚至连头都不抬一下。"
+
+translate schinese Rahim_Leather_Armor_cc41dfbc:
+
+    # "He doesn't even move his head, just staring at your general direction as he tries again with a new needle."
+    "缝衣针穿过布料带出毛线。他的视线顺着升高，恰好瞟到你，而后又落了下去，准备穿另一针。"
+
+translate schinese Rahim_Leather_Armor_596406e0:
+
+    # r "Oh, right. I just finished your leather outfit. It's right there."
+    r "噢，对。你的装备刚刚做好，就在那里。"
+
+translate schinese Rahim_Leather_Armor_f5605e3d:
+
+    # "The tailor raises his head to point at the cabinets, where you see a piece of leather armor tidily placed inside a wooden box."
+    "雷希姆抬头用眼神指示你看向橱柜，一件皮甲规整地叠放在中间的小木箱中。"
+
+translate schinese Rahim_Leather_Armor_396aaabe:
+
+    # e "Thank you so much, Rahim. Is it the one made after you measured my waist?"
+    e "太感谢啦。这是对着之前量的腰围做的对吧？"
+
+translate schinese Rahim_Leather_Armor_bec3b4af:
+
+    # r "Yes."
+    r "嗯。"
+
+translate schinese Rahim_Leather_Armor_ef3da110:
+
+    # e "I don't know what to say, thank you for being so kind to me."
+    e "我都不知道该说什么了。谢谢你对我这么好。"
+
+translate schinese Rahim_Leather_Armor_959c5f97:
+
+    # "You reach over and take the armor, trying to check the size."
+    "你取出皮甲，贴在身前比较。"
+
+translate schinese Rahim_Leather_Armor_30ad8122:
+
+    # e "Oh, I think it fits me perfectly, and the leather is very light-weight too."
+    e "噢，我觉得应该很合身，而且这种皮革一点都不重。"
+
+translate schinese Rahim_Leather_Armor_91425277:
+
+    # "Rahim lowers his head, eyes focused on the piece of garment on his table."
+    "雷希姆低下头，继续专注地缝制桌上的衣物。"
+
+translate schinese Rahim_Leather_Armor_a2e55ebf:
+
+    # e "Ah, should I try it out now? This will come in handy when I go on adventures. How did you get all these quality fabrics."
+    e "啊，我要现在试一试吗？出门探险的时候肯定很有用，这么好的用料从哪来的呀？"
+
+translate schinese Rahim_Leather_Armor_1dbba092:
+
+    # e "Rahim?"
+    e "呃……雷叔？"
+
+translate schinese Rahim_Leather_Armor_6b233620:
+
+    # r "No, I'm working right now, you can take the box back to the shop. And the door is right there."
+    r "不用，我要干活。你可以回典当再试穿，出门直走。"
+
+translate schinese Rahim_Leather_Armor_ad058579:
+
+    # "His response comes to a shock for you, paired with the stern face he gives, it feels like he didn't even want you here."
+    "这个回应完全出乎意料，搭配他冷峻的面容，像是自己碍着他了似的。"
+
+translate schinese Rahim_Leather_Armor_b7f7cc00:
+
+    # "You freeze for a moment, holding the box with the leather armor in it. As if you're waiting for some kind of follow up."
+    "你抱着小木箱愣在原地，仿佛希望对方会再说些什么。"
+
+translate schinese Rahim_Leather_Armor_8c2590b1:
+
+    # "The tailor is still staring at his work, pausing for a few seconds, he furrows his brows before looking up again."
+    "牛裁缝盯着手中的布料顿了几秒钟，再次抬起头，皱眉看向你。"
+
+translate schinese Rahim_Leather_Armor_dd4775af:
+
+    # r "Welcome to Lusterfield, [e]."
+    r "欢迎来到乐斯民菲尔德，[e]。"
+
+translate schinese Rahim_Leather_Armor_5ec8f54f:
+
+    # e "Hey, I get it. Thank you for the armor again. I- I'll go now."
+    e "好、好的，麻烦您给我做了这件皮甲。我——我马上走。"
+
+translate schinese Rahim_Leather_Armor_b8536fa8:
+
+    # "You pat on Rahim's shoulder, which caused him to shudder a bit. Rahim stares at you blankly until you finally leave him alone."
+    "你拍拍老牛的肩膀，惊得他一哆嗦。但他又马上恢复了镇定，面无表情地注视着你离开。"
+
+translate schinese Rahim_Leather_Armor_d1f01bcf:
+
+    # e "Bye, Rahim!"
+    e "雷叔再见！"
 
 # translate schinese Rahim_Yarn_Quest_03_c51008b6:
 
