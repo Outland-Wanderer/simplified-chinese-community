@@ -1176,11 +1176,17 @@ translate schinese strings:
     old "Report to Ole"
     new "探望奥利"
 
-    # old "Courier Training...?" #16
-    # new "新邮递员特训……？"
+    old "Courier Training...?" #16
+    new "新邮递员特训……？"
 
-    # old "Ole and Sebas asked me to... pick up some stone? I should return once I get enough of them. Whatever the number is..."
-    # new "奥利和塞巴斯又让我去捡些……石头？管他要多少个，我尽管拿回来就是了……"
+    old "Ole and Sebas asked me to... pick up some stone? I should return once I get enough of them. Whatever the number is..."
+    new "奥利和塞巴斯又让我去捡些……石头？管他要多少个，我尽管拿回来就是了……"
+
+    old "Collect... Stones"
+    new "收集……石头"
+
+    old "Head to the Tavern"
+    new "前往酒馆"
 
     # old "Strength and Disguise" #17
     # new "劲与蔽"
