@@ -71,39 +71,3 @@ translate schinese strings:
 
     # old "{color=#000}Asking Cane about his Favour{/color}"
     # new "{color=#000}向凯恩表热心{/color}"
-
-    # old "{color=#000}Being submissive with Arthur{/color}"
-    # new ""
-
-    # old "{color=#000}Being rebellious with Arthur{/color}"
-    # new ""
-
-    # old "{color=#000}Losing to Hefty/Malignant Slime{/color}"
-    # new ""
-
-    # old "{color=#000}Losing in Nosferat Battle{/color}"
-    # new ""
-
-    # old "{color=#000}Losing to Bandit Boss{/color}"
-    # new ""
-
-    # old "{color=#000}Captured by Bandits{/color}"
-    # new ""
-
-    # old "{color=#000}Joining Uffe's Celebration{/color}"
-    # new ""
-
-    # old "{color=#000} Paying Debt to Tavern Regulars{/color}"
-    # new ""
-
-    # old "{color=#000} Losing in Gnoll Battle{/color}"
-    # new ""
-
-    # old "{color=#000} Winning and Topping the Gnoll{/color}"
-    # new ""
-
-    # old "{color=#000}Losing to Feral Werewolf with 80 Purity{/color}"
-    # new ""
-
-    # old "{color=#000}Losing to Malignant/Hefty Slime with 70 Purity{/color}"
-    # new ""

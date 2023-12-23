@@ -1,12 +1,74 @@
 translate schinese strings:
 
+    #属性
+
+    old "STR"
+    new "力量"
+
+    old "AGI"
+    new "敏捷"
+
+    old "INT"
+    new "智慧"
+
+    old "TEN"
+    new "坚韧"
+
+    old "CHA"
+    new "魅力"
+
+    old "PUR"
+    new "纯洁"
+
+    old "HP"
+    new "体力"
+
+    old "MAX HP"
+    new "最大体力"
+
+    old "MP"
+    new "魔力"
+
+    old "MAX MP"
+    new "最大魔力"
+
+    old "LUST"
+    new "性欲"
+
+    old "MAX LUST"
+    new "最大性欲"
+
+    old "DEFENSE"
+    new "防御"
+
+    old "LUST DEFENSE"
+    new "诱惑抗性"
+
+    old "DODGE"
+    new "闪避"
+
+    old "LUST DODGE"
+    new "诱惑豁免"
+
+    old "DAMAGE"
+    new "攻击"
+
+    old "LUST DAMAGE"
+    new "诱惑"
+
+    old "ACCURACY"
+    new "命中率"
+
+    old "CRIT CHANCE"
+    new "暴击率"
+
+    old "CRIT DAMAGE"
+    new "暴击系数"
+
     #技能
 
     old "Self Heal"
     new "自愈"
-
-    old "Self Heal: {p} You can heal back a portion of your health scaling with your INT. Costs 30 MP. Cooldown: 1 Round."
-    new "根据你的智慧属性值回复部分体力。消耗 30 点魔力，每回合可发动一次。"
 
     old "Self Heal: {p} You can heal back a portion of your health scaling with your INT. Costs 30 MP."
     new "根据你的智慧属性值回复部分体力。消耗 30 点魔力。"
@@ -14,17 +76,11 @@ translate schinese strings:
     old "Fortify"
     new "设防"
 
-    old "Fortify: {p} Your defense is increased by a significant amount for this round. Costs 20 MP. Cooldown: 2 Round."
-    new "显著增强 1 回合的防御力。消耗 20 点魔力，每 2 回合可发动一次。"
-
     old "Fortify: {p} Your defense is increased by a significant amount for this round. Costs 20 MP."
     new "显著增强 1 回合的防御力。消耗 20 点魔力。"
 
     old "Alluring Lust"
     new "勾人"
-
-    old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA. Costs 20 MP. Cooldown: 2 Round."
-    new "根据你的智慧和魅力属性值增强 3 回合的诱惑效果。消耗 20 点魔力，每 2 回合可发动一次。"
 
     old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA. Costs 20 MP."
     new "根据你的智慧和魅力属性值增强 3 回合的诱惑效果。消耗 20 点魔力。"
@@ -32,17 +88,11 @@ translate schinese strings:
     old "Camouflage"
     new "乱眼"
 
-    old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI. Costs 20 MP. Cooldown: 3 Round."
-    new "根据你的智慧和敏捷属性值增强本场战斗的闪避几率。消耗 20 点魔力，每 3 回合可发动一次。"
-
     old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI. Costs 20 MP."
     new "根据你的智慧和敏捷属性值增强本场战斗的闪避几率。消耗 20 点魔力。"
 
     old "Core Strike"
     new "溃敌"
-
-    old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round. Costs 35 MP. Cooldown: 1 Round."
-    new "根据你的智慧和坚韧属性值对目标造成大量伤害，并使其眩晕 1 回合。消耗 35 点魔力，每回合可发动一次。"
 
     old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round. Costs 35 MP."
     new "根据你的智慧和坚韧属性值对目标造成大量伤害，并使其眩晕 1 回合。消耗 35 点魔力。"
@@ -50,17 +100,11 @@ translate schinese strings:
     old "Resolution"
     new "净心"
 
-    old "Resolution: {p} Reduce your Lust based on your INT. Costs 25 MP. Cooldown: 1 Round."
-    new "根据你的智慧属性值清除部分欲望。消耗 25 点魔力，每回合可发动一次。"
-
     old "Resolution: {p} Reduce your Lust based on your INT. Costs 25 MP."
     new "根据你的智慧属性值清除部分欲望。消耗 25 点魔力。"
 
     old "Fiery Charge"
     new "爆炎冲锋"
-
-    old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP. Cooldown: 1 Round."
-    new "根据你的智慧属性值对敌方所有成员施加伤害与灼烧效果。消耗 10 点魔力，每回合可发动一次。"
 
     old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP."
     new "根据你的智慧属性值对敌方所有成员施加伤害与灼烧效果。消耗 10 点魔力。"
@@ -750,14 +794,8 @@ translate schinese strings:
     old "Dummy"
     new "人偶"
 
-    old "Goat Huntsman"
-    new "山羊猎人"
-
     old "Goat Guard"
     new "山羊士兵"
-
-    old "Goat General"
-    new "羊族将军"
 
     old "Wild Buggbear"
     new "野生熊地精"
@@ -777,9 +815,6 @@ translate schinese strings:
     old "Minotaur Statue"
     new "弥诺陶洛斯雕像"
 
-    old "Minotaur"
-    new "弥诺陶洛斯"
-
     # old "Scarecrow"
     # new "稻草人"
 
@@ -789,9 +824,6 @@ translate schinese strings:
     # old "Caproot"
     # new "萝卜怪"
 
-    # old "Feral Werewolf"
-    # new "狂野狼人"
-
     # old "Feral"
     # new "狂野狼人"
 
@@ -800,9 +832,6 @@ translate schinese strings:
 
     # old "Malignant Slime"
     # new "恶毒史莱姆"
-
-    # old "Goat Ranger"
-    # new "山羊弓弩手"
 
     # old "Nosferat"
     # new "吸血鬼"
@@ -1319,7 +1348,7 @@ translate schinese strings:
     new "受困"
 
     old "Trapped: {p} Target's dodge and lust immunity are reduced by 50%."
-    new "受困：{p}目标的闪避和诱惑无视属性降低 50%。"
+    new "受困：{p}目标的闪避和诱惑豁免属性降低 50%。"
 
     old "Stunned"
     new "昏迷"

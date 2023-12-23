@@ -53,10 +53,15 @@ translate schinese Mino_Maze_Loop_daedc7b0:
     # "A small sand pyramid, there's nothing out of the ordinary except that it is horizontally symmetric."
     "一座小小的沙锥，除了形状非常整齐对称之外没什么特别的。"
 
-translate schinese Mino_Maze_Loop_6cced126:
+translate schinese Mino_Maze_Loop_5271b538:
 
-    # "You feel like you can actually balance the statue on the stone..."
-    "你发现雕像可以稳稳地放在这堆碎石上……"
+    # "Some pebbles on the ground, and grasses. shouldn't be too common outside of the cave."
+    "一个碎石堆，还夹着几根野草，在洞外可不会长得这么可怜。"
+
+translate schinese Mino_Maze_Loop_44ccf1ff:
+
+    # "The surface of this rock is pretty flat, maybe you can balance the statue on it..."
+    "这块石板十分平整，或许你可以暂时把雕像放在上面……"
 
 translate schinese strings:
 
@@ -69,10 +74,10 @@ translate schinese strings:
     old "No{#putdownstatue}"
     new "否"
 
-translate schinese Mino_Maze_Loop_5271b538:
+translate schinese Mino_Maze_Loop_f6a6d3dc:
 
-    # "Some pebbles on the ground, and grasses. shouldn't be too common outside of the cave."
-    "一个碎石堆，还夹着几根野草，在洞外可不会长得这么可怜。"
+    # "The rock looks flat, and there is a minotaur symbol at the center."
+    "这块石板看起来蛮平整的，中间有个牛头标志。"
 
 translate schinese Mino_Maze_Loop_54c204c9:
 

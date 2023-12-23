@@ -1871,15 +1871,13 @@ translate schinese bedroom_beginning_ca03823d:
     # "You feel ready to start the day."
     "屋外崭新的一天正向你招手。"
 
-translate schinese after_load_7a256475:
-
-    # "Hey there! Here's a reminder that the protagonist's sprite is currently in the progress of redesign! You will see new designs as default while the rest of other content will be updated alongside! Thank you so much again~"
-    "注意！主角的部分立绘和相关CG仍在重绘中！现在新老形象混在一起属于正常现象！谢谢你的理解~"
-
 translate schinese strings:
 
     old "What's your name?"
     new "你的名字是……？"
+
+    old "Tenki"
+    new "坦奇"
 
     old "Is your name [el]?"
     new "[el]？"
@@ -1889,74 +1887,3 @@ translate schinese strings:
 
     old "No{#name}"
     new "否"
-
-translate schinese strings:
-
-    old "You"
-    new "你"
-
-    old "Patron"
-    new "顾客"
-
-    old "Crew"
-    new "跟班"
-
-    old "Jog"
-    new "乔格"
-
-    old "Amble"
-    new "安布"
-
-    old "Jog and Amble"
-    new "乔格和安布"
-
-    old "Guard"
-    new "山羊卫兵"
-
-    old "Buggbear"
-    new "熊地精"
-
-    old "Tutorial"
-    new "教程"
-
-    old "Werewolf"
-    new "狼人"
-
-    old "Book"
-    new "书"
-
-    old "Sebas"
-    new "塞巴斯"
-
-    old "Furkan"
-    new "弗坎"
-
-    old "Haskell"
-    new "哈斯克尔"
-
-    old "Uffe"
-    new "乌菲"
-
-    old "Vurro"
-    new "伏罗"
-
-    old "Wuldon"
-    new "伍尔顿"
-
-    old "Rahim"
-    new "雷希姆"
-
-    old "Kari"
-    new "卡里"
-
-    old "Ole"
-    new "奥利"
-
-    old "Lothar"
-    new "洛萨尔"
-
-    old "Tenki"
-    new "坦奇"
-
-    old "Arthur"
-    new "亚瑟"

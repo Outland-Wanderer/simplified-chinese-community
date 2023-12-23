@@ -25,7 +25,7 @@ translate schinese strings:
     new "诱惑抗性 [pc.lust_defense]"
 
     old "Lust Dodge: [pc.lust_dodge]"
-    new "诱惑无视 [pc.lust_dodge]"
+    new "诱惑豁免 [pc.lust_dodge]"
 
     old "Crit Chance: [pc.crit_chance]"
     new "暴击率 [pc.crit_chance]"
@@ -107,6 +107,9 @@ translate schinese strings:
 
     old "Storage"
     new "储物箱"
+
+    old "Value: [item.value] Gold"
+    new "价值：[hovered_item.value]金币"
 
     old "Value: [hovered_item.value] Gold"
     new "价值：[hovered_item.value]金币"
