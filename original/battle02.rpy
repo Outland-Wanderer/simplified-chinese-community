@@ -2441,6 +2441,9 @@ translate schinese strings:
     old "Goat Guard"
     new ""
 
+    old "Goat General"
+    new ""
+
     old "Visit the Damp Cave"
     new ""
 

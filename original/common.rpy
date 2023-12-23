@@ -1056,10 +1056,6 @@
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
     new ""
 
-    # renpy/common/_errorhandling.rpym:622
-    old "Ignore"
-    new ""
-
     # renpy/common/_errorhandling.rpym:626
     old "Ignores the exception, allowing you to continue."
     new ""

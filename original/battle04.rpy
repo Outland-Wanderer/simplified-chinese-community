@@ -383,9 +383,9 @@ translate schinese werewolf_win_d13a5aec:
     # "You also found a pair of trousers... from a Hunter."
     ""
 
-translate schinese werewolf_win_5d97b2b7:
+translate schinese werewolf_win_d31bae78:
 
-    # "You also found a "
+    # "You also found an old copper pickaxe."
     ""
 
 translate schinese werewolf_win_3f761eff:

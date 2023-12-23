@@ -15868,9 +15868,9 @@ translate schinese Rahim_Reconciliation_Begin_4c4bfca5:
     # s "No, not them. And... well."
     s ""
 
-translate schinese Rahim_Reconciliation_Begin_efddd633:
+translate schinese Rahim_Reconciliation_Begin_bc2c3e36:
 
-    # r "For gods' sake. How much trouble are you going to get into before learning your lessons."
+    # r "For gods' sake. Can't you just cut off your tail and call it a day? You don't need to see him to survive."
     r ""
 
 translate schinese Rahim_Reconciliation_Begin_c41d5b84:
@@ -15878,20 +15878,30 @@ translate schinese Rahim_Reconciliation_Begin_c41d5b84:
     # s "Shhh! Stop shouting like you're talking to a goat."
     s ""
 
-translate schinese Rahim_Reconciliation_Begin_c387597f:
+translate schinese Rahim_Reconciliation_Begin_3ab5deb1:
 
-    # r "Huh, I'll turn you into a proper goat these two needles on your head."
+    # r "Huh, maybe I am, if I stab these two needles on your head you'll look like one."
     r ""
 
-translate schinese Rahim_Reconciliation_Begin_a22efe53:
+translate schinese Rahim_Reconciliation_Begin_3c17d0e0:
 
-    # s "O-OUCH! Fuck! Alright, now can you talk to the goats."
+    # s "O-OUCH! Fuck! Alright, I get it. Don't need to actually do what you're threatening to."
     s ""
 
-translate schinese Rahim_Reconciliation_Begin_afc60f27:
+translate schinese Rahim_Reconciliation_Begin_19c72d30:
 
-    # r "W-what, did I not make myself clear enough, don't ever mention them in front of me again. It's all useless."
+    # s "I am just a messenger, okay? Maybe if you consider this option we can finall-"
+    s ""
+
+translate schinese Rahim_Reconciliation_Begin_3a3a84b8:
+
+    # r "Did I not make myself clear enough, don't ever mention them in front of me again. It's all useless."
     r ""
+
+translate schinese Rahim_Reconciliation_Begin_de831280:
+
+    # s "I didn't mention the forbidden word, yet..."
+    s ""
 
 translate schinese Rahim_Reconciliation_Begin_1c936252:
 
@@ -15943,9 +15953,9 @@ translate schinese Rahim_Reconciliation_Begin_c2957718:
     # o "{size=30}W-what are you doing here, [e].{/size}"
     o ""
 
-translate schinese Rahim_Reconciliation_Begin_236eff27:
+translate schinese Rahim_Reconciliation_Begin_7c0f40cd:
 
-    # "He whispers quietly, seems to have understood your intention perfectly without you answering."
+    # "He whispers quietly, seems to have already understood your intention perfectly before answering."
     ""
 
 translate schinese Rahim_Reconciliation_Begin_f85303ab:
@@ -16088,9 +16098,9 @@ translate schinese Rahim_Reconciliation_Begin_934f862e:
     # "You reluctantly enter Rahim's house, directly facing the frustrated bull."
     ""
 
-translate schinese Rahim_Reconciliation_Begin_468112f4:
+translate schinese Rahim_Reconciliation_Begin_a80bf846:
 
-    # r "Should I mistake your honesty as a virtue?"
+    # r "Should I take your blind honesty as some kind of virtue?"
     r ""
 
 translate schinese Rahim_Reconciliation_Begin_509f5657:
@@ -16108,9 +16118,14 @@ translate schinese Rahim_Reconciliation_Begin_1965f947:
     # "Rahim shakes his head."
     ""
 
-translate schinese Rahim_Reconciliation_Begin_724696b0:
+translate schinese Rahim_Reconciliation_Begin_d81dea2f:
 
-    # "Just as Rahim opens his mouth once more, a familiar figure emerges from behind you."
+    # e "I'm-"
+    e ""
+
+translate schinese Rahim_Reconciliation_Begin_451dfc11:
+
+    # "Just as you open your mouth once more, a familiar figure emerges from behind you."
     ""
 
 translate schinese Rahim_Reconciliation_Begin_52cbf4fc:
@@ -16213,7 +16228,7 @@ translate schinese Rahim_Reconciliation_Begin_ab0bc760:
     # r "I-it's right ther-."
     r ""
 
-translate schinese Rahim_Reconciliation_Begin_724696b0_1:
+translate schinese Rahim_Reconciliation_Begin_724696b0:
 
     # "Just as Rahim opens his mouth once more, a familiar figure emerges from behind you."
     ""
@@ -17141,6 +17156,126 @@ translate schinese Rahim_Voting_Announcement_3c6851d1:
 translate schinese Rahim_Voting_Announcement_01e128d3:
 
     # "There are 5 days until the vote begins, perhaps you should ask others about their opinions."
+    ""
+
+translate schinese Rahim_Voting_Opinion_65fb0d94:
+
+    # e "So, what do you think about the vote?"
+    e ""
+
+translate schinese Rahim_Voting_Opinion_65c7f61b:
+
+    # r "The vote I'm holding...? I've already told you what I felt. If I had to decide, there won't be one to begin with."
+    r ""
+
+translate schinese Rahim_Voting_Opinion_1701de0e:
+
+    # e "But you did decide to hold a vote."
+    e ""
+
+translate schinese Rahim_Voting_Opinion_93bfdfd4:
+
+    # r "You people's voices sometimes get on my nerve, I just wanted to shut all your mouth up, once and for all."
+    r ""
+
+translate schinese Rahim_Voting_Opinion_edf195c3:
+
+    # "Rahim says with a monotone, puncturing the fabric with the needle."
+    ""
+
+translate schinese Rahim_Voting_Opinion_87848074:
+
+    # e "Maybe sometimes it's good to take a step back, you know."
+    e ""
+
+translate schinese Rahim_Voting_Opinion_d1d9383a:
+
+    # r "I took a step back, I took a step back back when the goats come here taking everyone hostag-"
+    r ""
+
+translate schinese Rahim_Voting_Opinion_9f604b28:
+
+    # "He suddenly stops mid-sentence, something must be bothering him for ages."
+    ""
+
+translate schinese Rahim_Voting_Opinion_a36ea1af:
+
+    # r "Ugh..."
+    r ""
+
+translate schinese Rahim_Voting_Opinion_76dff6fd:
+
+    # e "Maybe the fact that you changed your mind... is because you never considered them a threat?"
+    e ""
+
+translate schinese Rahim_Voting_Opinion_e9db1cbb:
+
+    # "You try to console the bull, but he gives you the grumpy face instead."
+    ""
+
+translate schinese Rahim_Voting_Opinion_ebedf2cf:
+
+    # r "That's what a part of me wants to believe, but it's not the reality."
+    r ""
+
+translate schinese Rahim_Voting_Opinion_21eb90f4:
+
+    # r "If histories want to repeat itself, I don't want to get in its way again."
+    r ""
+
+translate schinese Rahim_Voting_Opinion_d2cdd83c:
+
+    # e "What changed?"
+    e ""
+
+translate schinese Rahim_Voting_Opinion_569a4df5:
+
+    # r "Nothing."
+    r ""
+
+translate schinese Rahim_Voting_Opinion_3f73a50d:
+
+    # "He says, before you even finished your sentence."
+    ""
+
+translate schinese Rahim_Voting_Opinion_9246b078:
+
+    # e "Really? I don't believe a ruthless bulls like you will suddenly change your mind over night, after what happened with Furkan."
+    e ""
+
+translate schinese Rahim_Voting_Opinion_26049733:
+
+    # r "I said Nothing. I will still vote against the goats, if that is what you want to say."
+    r ""
+
+translate schinese Rahim_Voting_Opinion_237c8306:
+
+    # r "I am just doing this for the welfare of the village, whatever it means."
+    r ""
+
+translate schinese Rahim_Voting_Opinion_2461ffd7:
+
+    # "Rahim remains calm, before he shifts his attention back on the cloth."
+    ""
+
+translate schinese Rahim_Voting_Opinion_9645b53d:
+
+    # e "O-okay, I guess so."
+    e ""
+
+translate schinese Rahim_Voting_Opinion_96571dec:
+
+    # "He continues working as you pondering leaving, but suddenly he speaks to you again."
+    ""
+
+translate schinese Rahim_Voting_Opinion_7388251e:
+
+    # r "Once the vote is over, come back and see me."
+    r ""
+
+translate schinese Rahim_Voting_Opinion_4a2cc905:
+
+    # "You nod, before taking your leave."
     ""
 
 translate schinese Sebas_Voting_Opinion_c55795b4:
@@ -19193,9 +19328,9 @@ translate schinese Ole_Voting_Opinion_3835c9d3:
     # o "So, if we have to make a better deal, maybe I should know fully what his intention is."
     o ""
 
-translate schinese Ole_Voting_Opinion_ffb43444:
+translate schinese Ole_Voting_Opinion_d2ebda68:
 
-    # o "We have already arranged a meeting in Haskell's place beforehand, just the day before the voting begins."
+    # o "We have already arranged a meeting in Haskell's place beforehand, just three days before the voting begins."
     o ""
 
 translate schinese Ole_Voting_Opinion_04aab8cc:
@@ -22333,19 +22468,19 @@ translate schinese Jog_Voting_Opinion_4ad549e7:
     # e "Well, I wouldn't consider it exactly boring, the whole thing might take you... maybe ten seconds."
     e ""
 
-translate schinese Jog_Voting_Opinion_beffca85:
+translate schinese Jog_Voting_Opinion_3d974b5e:
 
-    # j "Yeah, well. And everyone's else are voting, in a millions in a millions' case, my vote won't even end up useful."
+    # j "Yeah, well. And everyone's else are voting, in a millions in a million's case, my vote won't even end up being useful in any shape of form."
     j ""
 
-translate schinese Jog_Voting_Opinion_a75c7ffc:
+translate schinese Jog_Voting_Opinion_b2e4eb46:
 
-    # j "Not to mention the time you're wasting on getting to know the goats, well, even though I already know what they're up to, you still can't be too certain about anyone."
+    # j "Not to mention the time you're wasting on getting to know the goats, well, even though I already know what they're up to, it's still a chore to actually talk to these fools."
     j ""
 
-translate schinese Jog_Voting_Opinion_b06a1ec2:
+translate schinese Jog_Voting_Opinion_b0b08fbc:
 
-    # e "Well, what about the one in a millions case, what if that vote end up mattering and you didn't vote?"
+    # e "What about the one in a million's case, what if that vote end up mattering and you didn't vote?"
     e ""
 
 translate schinese Jog_Voting_Opinion_987bdf79:
@@ -22363,15 +22498,1940 @@ translate schinese Jog_Voting_Opinion_e9e2f01f:
     # j "Eh, nothing special. I don't have that strong of an opinion over them personally. Even though you and I... had already been there."
     j ""
 
-translate schinese Jog_Voting_Opinion_765f11dc:
+translate schinese Jog_Voting_Opinion_1a36b76d:
 
-    # j "Don't ask further, alright. Amble's probably gonna tell you about it anyway but, eh, I'd rather keep my plum to myself."
+    # "Jog averts his gaze, and continues lying lazily on the hay piles."
+    ""
+
+translate schinese Jog_Voting_Opinion_15a7df8b:
+
+    # j "Don't ask, alright. Amble's probably gonna tell you about it anyway but, eh, I'd rather keep my plums to myself."
     j ""
 
-translate schinese Jog_Voting_Opinion_e40c051c:
+translate schinese Jog_Voting_Opinion_a013e22c:
 
-    # msg "Jog's Vote currently working in progress, will be continued in the next update!"
-    msg ""
+    # e "A-alright then."
+    e ""
+
+translate schinese Jog_Voting_Opinion_c58fba78:
+
+    # "You turn your back on the nimble scout before he lightly taps your shoulder."
+    ""
+
+translate schinese Jog_Voting_Opinion_adb52842:
+
+    # j "One thing, unrelated to them goats but I've been meaning to do something, would like a hand to help and what not."
+    j ""
+
+translate schinese Jog_Voting_Opinion_012aa68e:
+
+    # "Jog sits upright as he faces you properly, setting the half-eaten plum to his side."
+    ""
+
+translate schinese Jog_Voting_Opinion_87583b6d:
+
+    # e "How may I help, Jog? And would that change your mind on the goats?"
+    e ""
+
+translate schinese Jog_Voting_Opinion_eb5fd095:
+
+    # j "I guess helping me can somewhat convince me to risk something just to vote for your goats."
+    j ""
+
+translate schinese Jog_Voting_Opinion_880b0492:
+
+    # "Jog bites on the fruity plum. He's being extremely vague about his vote, but it seems you've got to help him before he helps you."
+    ""
+
+translate schinese Jog_Voting_Opinion_b307bcb1:
+
+    # j "I mean, that's what you're coming for, right?"
+    j ""
+
+translate schinese Jog_Voting_Opinion_42a11c80:
+
+    # "You nod, palm clenching in anticipation for his request."
+    ""
+
+translate schinese Jog_Voting_Opinion_89c03271:
+
+    # j "Anyway, you might know about one or two things about this, but I used to live in that lion's shop, long before you came here."
+    j ""
+
+translate schinese Jog_Voting_Opinion_250642c6:
+
+    # j "And, well. Something happened between us."
+    j ""
+
+translate schinese Jog_Voting_Opinion_eacd7a8f:
+
+    # e "Did Sebas kick you out? I remembered hearing about this, only briefly."
+    e ""
+
+translate schinese Jog_Voting_Opinion_7ed80323:
+
+    # j "I can only tell you, I didn't steal anything at all. Neither would I have interest in his stupid stuff."
+    j ""
+
+translate schinese Jog_Voting_Opinion_76f1aec1:
+
+    # j "But long story short, there's something about your cutesy little roommates that you oughta know."
+    j ""
+
+translate schinese Jog_Voting_Opinion_aecfc047:
+
+    # j "I found out that, at least once in a while, they'll disappear into the night, only coming back an hour later."
+    j ""
+
+translate schinese Jog_Voting_Opinion_58556e53:
+
+    # j "Of course I can't get close, Ole's got a crazy pair of eyes in the dark. I can't just follow them. Neither can Amble, he's too much of a hunk to hide properly in bushes."
+    j ""
+
+translate schinese Jog_Voting_Opinion_e6c08990:
+
+    # j "So, what I want from you is just simple, follow Seb to where the hell they are, and snoop, listen in, eavesdrop, just find out what he's doing."
+    j ""
+
+translate schinese Jog_Voting_Opinion_7ee05380:
+
+    # e "Why are you asking me to do this?"
+    e ""
+
+translate schinese Jog_Voting_Opinion_d8dd5947:
+
+    # j "Look, I know we have some kind of histories with your so-called roommates, but I guess I never knew what exactly happened before I was kicked out, not in a good way."
+    j ""
+
+translate schinese Jog_Voting_Opinion_6fdd6d6b:
+
+    # j "And who knows what happens! Maybe the lion is just wanking out there, maybe with Ole."
+    j ""
+
+translate schinese Jog_Voting_Opinion_2b2627d9:
+
+    # e "I'm still not convinced that Ole's not gonna spot us right away, that's Ole we're talking about."
+    e ""
+
+translate schinese Jog_Voting_Opinion_90f8510e:
+
+    # j "Come on, just cheat a little bit here, you don't need to hide from Ole if Ole's never there."
+    j ""
+
+translate schinese Jog_Voting_Opinion_3eccefa9:
+
+    # e "Excuse me?"
+    e ""
+
+translate schinese Jog_Voting_Opinion_2a17596f:
+
+    # j "Ha, that was a strange sentence, I'm not... doing anything to him, don't you worry. We deserve more of those plum-shaped ass."
+    j ""
+
+translate schinese Jog_Voting_Opinion_aa7f3c58:
+
+    # j "I'll try to distract him with a talk while you follow the lion."
+    j ""
+
+translate schinese Jog_Voting_Opinion_9d2f2d12:
+
+    # e "Alright."
+    e ""
+
+translate schinese Jog_Voting_Opinion_cc9a6eb6:
+
+    # e "But before I help you, may I ask one question, what do you get out of this?"
+    e ""
+
+translate schinese Jog_Voting_Opinion_f56192f1:
+
+    # j "Getting philosophical aren't you. like I said, I'm just naturally curious, that's all. Not gonna hurt them in any shape or form."
+    j ""
+
+translate schinese Jog_Voting_Opinion_26514ebd:
+
+    # j "Are you helping or not? And I think I've made it clear by the nature of what I'm asking, no one will ever know about this."
+    j ""
+
+translate schinese Jog_Voting_Opinion_d04b3256:
+
+    # j "I have to tell you though, if you got caught I have no idea what will happen to you. So, I understand if you don't take it."
+    j ""
+
+translate schinese Jog_Voting_Opinion_1e96fd72:
+
+    # j "So, what'chu think? Care to help quench a fella's thrist of curiosity?" nointeract
+    j "" nointeract
+
+translate schinese Jog_Voting_Opinion_80a746b4:
+
+    # e "Maybe... later?"
+    e ""
+
+translate schinese Jog_Voting_Opinion_d7841b56:
+
+    # j "Well, somehow I guessed exactly what you're about to say, but yeah. Takes time to think and stuff."
+    j ""
+
+translate schinese Jog_Voting_Opinion_cac5dd24:
+
+    # j "Come back when you have the time."
+    j ""
+
+translate schinese Jog_Voting_Opinion_057a2bd3:
+
+    # e "Sure, how do I get started."
+    e ""
+
+translate schinese Jog_Voting_Opinion_f546f97c:
+
+    # j "Oh it's very easy."
+    j ""
+
+translate schinese Jog_Vote_Countdown_609ba630:
+
+    # j "Watch this..."
+    j ""
+
+translate schinese Jog_Vote_Countdown_017567d0:
+
+    # j "H-Hyah!" nointeract
+    j "" nointeract
+
+translate schinese Jog_Vote_Countdown_Fail_4582b647:
+
+    # "Jog throws a fist onto you, but you didn't react in time."
+    ""
+
+translate schinese Jog_Vote_Countdown_Fail_ede8430e:
+
+    # j "Hah! Too slow!"
+    j ""
+
+translate schinese Jog_Vote_Countdown_Fail_1a617f5f:
+
+    # e "W-what was that?"
+    e ""
+
+translate schinese Jog_Vote_Countdown_Fail_321a52ef:
+
+    # j "To test your reaction speed, as usual. Now do it again."
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_06b3eefd:
+
+    # "Jog throws a fist onto you, but you slip away in mere inches."
+    ""
+
+translate schinese Jog_Vote_Countdown_Success_bdb42721:
+
+    # j "Hey, not bad."
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_c85755d6:
+
+    # e "You almost punched me there."
+    e ""
+
+translate schinese Jog_Vote_Countdown_Success_c14039d9:
+
+    # j "Calm down, I won't hurt a single strip of your fur. You just need this instinct when you're going on a mission without me."
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_a0f6399b:
+
+    # e "Why aren't you coming along with me?"
+    e ""
+
+translate schinese Jog_Vote_Countdown_Success_6f8a59ec:
+
+    # j "So I have an alibi if you end up failing, and distracting Ole. What kind of stupid question is that."
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_8768251e:
+
+    # j "But, you've proven to be quite capable, so we can proceed to the next stage. Getting Ole out of the equation."
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_3a4ed51e:
+
+    # j "Ethically."
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_94b3791d:
+
+    # e "Alright, thanks for letting me know about that."
+    e ""
+
+translate schinese Jog_Vote_Countdown_Success_a8c05e4e:
+
+    # j "Is that sarcasm I smell, or are you just being unapologetically grateful."
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_9b9bcdc6:
+
+    # e "Both, maybe."
+    e ""
+
+translate schinese Jog_Vote_Countdown_Success_dafc47c4:
+
+    # j "Well cool, you're just one step away from being Amb. We just need to get rid of some of your smart little quips."
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_1454a240:
+
+    # j "So, thanks to the same hunk. I've heard Sebas' going out {b}One day before the vote{/b}, at night, you gotta wait for that."
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_988c888f:
+
+    # j "I had already ask Ole to meet at Cane's place in the meantime so the lion's going alone."
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_fc606b9d:
+
+    # e "A-alright, why don't we just ask Seb what's going on?"
+    e ""
+
+translate schinese Jog_Vote_Countdown_Success_c5258d69:
+
+    # j "Uh, because then he'll question why would you know about this in the first place?"
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_e0783c3f:
+
+    # j "Plus, he'd have already told you if he wanted to let you know, the fact that you don't know anything about it is proof that he doesn't want to."
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_1bfe2d4d:
+
+    # e "I'd rather trust him first hand."
+    e ""
+
+translate schinese Jog_Vote_Countdown_Success_2090fb55:
+
+    # j "You can ask him, if you're not afraid of getting your ass blasted by that jackass, I had taken that first hand when I still lived there."
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_979ac5cc:
+
+    # j "{i}Not literally.{/i}"
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_5779f5fd:
+
+    # e "So, is that it? Just follow him?"
+    e ""
+
+translate schinese Jog_Vote_Countdown_Success_34f77b92:
+
+    # j "Yeah, but I can't keep you safe out there, no responsibility from me if you ended up joining some stupid deer cult after following him."
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_2825ea84:
+
+    # j "But that's the gist of it. Come back and just let me know, and I'll vote what you want."
+    j ""
+
+translate schinese Jog_Vote_Countdown_Success_90520456:
+
+    # e "Okay, I'll get it done."
+    e ""
+
+translate schinese Jog_Vote_Follow_Sebas_1cf90b06:
+
+    # "You hide outside, behind the windows, just enough to hear the conversation between the two shopkeepers and the customers."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_31b074d6:
+
+    # "Slowly, time has passed as you eavesdrop behind the wall."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_e848a664:
+
+    # s "Where you going to... again?"
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_d9ad9d18:
+
+    # o "Jog, he asked to talk today, I can't make it with you today."
+    o ""
+
+translate schinese Jog_Vote_Follow_Sebas_2d616df9:
+
+    # s "Ugh, it's fine. I'll talk to him by myself, it's easier that way."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_8965d1a3:
+
+    # o "I thought you'd have a bigger reaction for me talking with Jog."
+    o ""
+
+translate schinese Jog_Vote_Follow_Sebas_264a7b69:
+
+    # o "'UGH I CANT GIVE A FLYING FUCK ABOUT THAT SCOUNDREL.', or something to that effect."
+    o ""
+
+translate schinese Jog_Vote_Follow_Sebas_f770d0c3:
+
+    # s "Something else happened, big O. I'll talk to you after tonight."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_5e2beae8:
+
+    # o "Cool, I'd take that as an okay then. Take care."
+    o ""
+
+translate schinese Jog_Vote_Follow_Sebas_936c3ef8:
+
+    # "You hear some other muffled noise before the door outside opens. The lizard turns the sign in front of the shop over."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_5add7154:
+
+    # "Ole lingers for some moment outside the door, but he quickly picks up his pace and leaves."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_00b6b9e9:
+
+    # "Only one voice remains in the shop, and it is Seb's."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_65e8a3b9:
+
+    # s "Fucking hell, why the fuck did he do that, fuck fuck fuck fuck fuck fuck fuck fuck..."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_eb145f0f:
+
+    # "The only two conclusion you can draw from his mumbling are that he's alone, and he really likes to curse."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_df5ce9e8:
+
+    # s "'You motherfucker! I should've never believ-'"
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_f0be6898:
+
+    # s "No I can't say that word to him."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_37304000:
+
+    # "He stares at the mirror above the counter, fixing his hair and fur."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_f37bb17a:
+
+    # s "Uhm... HOW COULD YOU DO THIS! WHAT A FUCKING SCUMBAG YOU FUCKING ARE."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_d9e582b7:
+
+    # s "I'M NEVER GONNA TALK TO YOU AGAIN. NO MORE, FUCK YOU."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_28e48662:
+
+    # "While Sebas is adjusting his clothes, you're still hiding behind the windows, just enough to see the counter."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_c282af3f:
+
+    # s "That sounds about right. Now, should I punch him in the face, or..."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_df3e7ec9:
+
+    # s "Maybe not, that's gonna leave a mark."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_29dcad21:
+
+    # s "Where the fuck is [e]... I thought I just saw him somewhere."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_e2b17321:
+
+    # "Sebas knocks on your room, which you're just relieved that you were not hiding there."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_45084aee:
+
+    # s "Fuck, it's time to go."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_c9bc9689:
+
+    # "Sebas runs out of the counter quickly, pushing away the doors into the roads, you sneak up just behind the shop to peek at him."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_b8cf5b84:
+
+    # "He is running out of the village, at a pace so quick you might not even be able to catch up."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_04f14c9e:
+
+    # "Crossing the green forest, you have no idea where Sebas is heading, the only thing you're doing is to keep your distance and follow the lion."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_949aff9d:
+
+    # "The night is too dark for you to see anything, so you just listen to where the sound of his footsteps come from."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_c7dc510a:
+
+    # "Soon, he slows down as he enters the clearing, a wooden wagon, seated at the center, is waiting for him."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_b4aa3e33:
+
+    # "You hide behind a decaying tree, somewhere close enough to see the shape of Sebas."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_8e7a6fe6:
+
+    # "The aged wagon, almost camouflaged in the natural surroundings with its yellowish-green hue, emitting an eerie glow from within."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_3fb9963a:
+
+    # "It illuminates a mysterious figure, casting a dark silhouette against the dimly lit interior."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_58b9ba46:
+
+    # "Maybe Sebas is collecting goods for the shop? But why the need to venture out in the dead of night? You ponder aloud."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_265f2768:
+
+    # "Leaning in for a closer look, you observs Seb walking toward a shadowy figure at the wagon's front."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_7ea75c25:
+
+    # "Their conversation was brief, and the mysterious man disembarks, disappearing into the night."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_a2ae8a0b:
+
+    # "As your roommate stealthily enters the concealed wagon, it presents the perfect opportunity to eavesdrop on his secretive exchange."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_90c9b481:
+
+    # "Coincidentally, you hear shuffling inside the wagon, before the soft rustling from within subsided, prompting your curiosity to peak."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_6782c874:
+
+    # my "Good morning."
+    my ""
+
+translate schinese Jog_Vote_Follow_Sebas_0dbd51dc:
+
+    # "A gravelly, hoarse voice breaks the silence, addressing the expected visitor."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_0624b3c5:
+
+    # s "Mhmm."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_c6dfbcf3:
+
+    # "Seb replies in a hushed tone, his attention seemingly elsewhere."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_e4764424:
+
+    # my "Anyone followed you here?"
+    my ""
+
+translate schinese Jog_Vote_Follow_Sebas_b1f5ac20:
+
+    # "The stranger inquires, prompting you to press your ear against the wagon's wall to catch every word."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_1bfae857:
+
+    # s "No."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_fab31c89:
+
+    # "Seb responds, lacking the expected enthusiasm. His voice holds a tinge of detachment, as if he isn't fully engaged in the conversation."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_c2aaf684:
+
+    # my "Good. How's it going over there? Heard from my courier that Rahim's holding a vote."
+    my ""
+
+translate schinese Jog_Vote_Follow_Sebas_11942a07:
+
+    # "The mysterious man continues, his tone soft-spoken despite the implied familiarity."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_83c73883:
+
+    # s "I convinced Rahim to consider getting along with the goats again. Mind you, it was pure persuation, I didn't lie there."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_c7ca1927:
+
+    # my "Okay then. I just wanted to know more about the vote, I am never a part of it. You got it?"
+    my ""
+
+translate schinese Jog_Vote_Follow_Sebas_77354cba:
+
+    # s "Yes, because I'm doing the dirty work all by myself."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_0457076a:
+
+    # "Seb retorts, his bitterness surprising even to you."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_834b5cde:
+
+    # my "You're still mad your Uncle is helping with your little pawn? I bought that shop years ago just so you and your friend can live there without ever worrying about gold."
+    my ""
+
+translate schinese Jog_Vote_Follow_Sebas_2f9557fe:
+
+    # "He... is Sebas' Uncle? The revelation sends you a wave of confusion. Seb has never spoken of family, save for his mother."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_bd0f32db:
+
+    # "The tension escalated as Seb's uncle addressed past grievances and Seb's sarcastic tone emerged."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_1db7abf2:
+
+    # my "The only complaint from me was that you could've chosen a less revealing name for your shop, but I didn't meddle with your business."
+    my ""
+
+translate schinese Jog_Vote_Follow_Sebas_0fad6cb3:
+
+    # s "I never said I'm not grateful."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_96e2dcee:
+
+    # "The lion raises his voice, he sounds sarcastic, you've never heard this side of him before."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_083d3a29:
+
+    # my "So what's the matter. Why are you putting up a pout in front of me?"
+    my ""
+
+translate schinese Jog_Vote_Follow_Sebas_4d526520:
+
+    # s "Oh give me a fucking break, do I really have to say {i}Your Majesty{/i} and suck your fucking cock like the others do?"
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_960316f3:
+
+    # my "Fine, keep your pout if that makes you happier."
+    my ""
+
+translate schinese Jog_Vote_Follow_Sebas_b111f949:
+
+    # "He calmly concedes, leading to a heavy silence that hangs in the frigid air."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_6ddc9df5:
+
+    # my "Hmm..."
+    my ""
+
+translate schinese Jog_Vote_Follow_Sebas_04e4aca6:
+
+    # my "How's your lizard friend? He should be here today. Is he sick again?"
+    my ""
+
+translate schinese Jog_Vote_Follow_Sebas_df5bb108:
+
+    # "Seb's Uncle tries to start another conversation, you notice the sihouette of the larger figure slides closer."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_008b9973:
+
+    # s "He's talking with Jog right now."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_f8c0a6e8:
+
+    # my "Uh... which one?"
+    my ""
+
+translate schinese Jog_Vote_Follow_Sebas_7a9b4f9c:
+
+    # s "The roommate I kicked out."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_78fed336:
+
+    # my "Ah, forgive me. I've had more important matters on my mind over these years."
+    my ""
+
+translate schinese Jog_Vote_Follow_Sebas_e77eabd1:
+
+    # s "I know. You should go back and attend to your more important matters."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_542dca8b:
+
+    # "Seb retorts once more, bitterness seeping through his words."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_a36833fa:
+
+    # my "Seb, you're being too careless with your words today. Remember what I taugh-"
+    my ""
+
+translate schinese Jog_Vote_Follow_Sebas_e9fca601:
+
+    # "The gruff voice begins, but Seb's interruption cut through."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_06886d94:
+
+    # s "Fuck you, Uncle Castor."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_9d5eab2d:
+
+    # "Seb's outburst rattled the atmosphere, it reminds you of the practice he just had moments prior."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_46bddb05:
+
+    # ct "Huh?"
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_9ee81950:
+
+    # ct "Where is all this aggresion coming from?"
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_63c94869:
+
+    # s "I'm sick of you. Why can't you go away and mind your own palace."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_ce0fb162:
+
+    # ct "You are my family. Of course I want to keep you safe and thriving, be it in the palace or Lusterfield."
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_a51df048:
+
+    # s "Yeah, because my pa's a jerk so you oughta be one too, becauyse you're the King of Licates."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_a8073e92:
+
+    # ct "Hey, I don't get why all of a sudden I'm getting all the flecks from you. We've had this talk thousands of time already, why don't we calm down just for a moment?"
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_c8aac8a8:
+
+    # ct "I don't get to sneak out like this every day, you always know that."
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_5bd81320:
+
+    # "Castor's tone remained consistently graceful, the mild accent suggests perhaps he's from somewhere far away."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_db169de7:
+
+    # ct "So, what's going on?"
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_ebbf83cd:
+
+    # "Sebas starts sniffing, you're not sure what's going on, to all you know they're just sitting inside the wagon."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_e641c140:
+
+    # s "When I first heard Jog's meeting with Ole, I remembered what happened when we kicked him out. You remember the reason."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_89d2351b:
+
+    # ct "Uh... my sister's plush? Didn't you tell me the scout had that?"
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_b1a920f7:
+
+    # "You hear a loud stomping sound somewhere afar, not a sound from you, but it has certainly caught the attention of the two in the wagon."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_ca01048f:
+
+    # ct "W-what's happening?"
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_e587c86b:
+
+    # s "Don't you change the to-"
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_188c1b30:
+
+    # "Sebas begins, cut off abruptly by another thunderous stomp. The tension between the two lions is momentarily overshadowed by the imminent danger approaching."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_875e1c97:
+
+    # "You crawl out, squinting at the source, catching the faint outline of a massive monster along the river."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_7460760a:
+
+    # "It is heading to the wagon, undoubtedly on the verge of attacking the two lions."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_95d551b8:
+
+    # s "Stay here, Castor."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_4ccb28ff:
+
+    # "Sebas stands and peeks out of the wagon."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_a8813c25:
+
+    # "You run head first against the dark figure, leaving the explaining for your future self."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_802eaba4:
+
+    # "Its form becomes clearer as it approaches, the green moss and leaves covers most of its body."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_a8528d2c:
+
+    # "Expectedly, Sebas notices your presence the moment he lifts up the curtain, but he doesn't react."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_281e4f65:
+
+    # "The sheer size looms over you, but it doesn't look to be aggressive."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_34c0fc49:
+
+    # kg "Your majesty, it is dangerous here, the monster is threatening your safety. We need to head back right now."
+    kg ""
+
+translate schinese Jog_Vote_Follow_Sebas_c416325a:
+
+    # "The Guard rushes back towards the wagon, as Sebas walks up to you, silently."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_c99b20a9:
+
+    # c "W-wait."
+    c ""
+
+translate schinese Jog_Vote_Follow_Sebas_a07ede4f:
+
+    # c "Sebas, are you in danger?"
+    c ""
+
+translate schinese Jog_Vote_Follow_Sebas_52b17bda:
+
+    # "He stares at the walking moss figure."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_54e32233:
+
+    # s "No. It's... just moss."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_8c0afd39:
+
+    # kg "It could be a spy. We can't afford risking it."
+    kg ""
+
+translate schinese Jog_Vote_Follow_Sebas_a95a7bee:
+
+    # c "O-okay, Seb, we'll talk next time."
+    c ""
+
+translate schinese Jog_Vote_Follow_Sebas_7ea473f7:
+
+    # "As you and Sebas turn around, the wagon has already set off in the opposite direction."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_a8de655c:
+
+    # "Soon, you two are left alone, facing the huge green monster, who only sluggishly walks past you and Sebas."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_0da34c5c:
+
+    # e "Uh. I didn't expect to see you here, Seb."
+    e ""
+
+translate schinese Jog_Vote_Follow_Sebas_3ad14518:
+
+    # s "I should be the one saying that."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_462ef58c:
+
+    # s "You were there, when me and Rahim were talking."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_7b52d27b:
+
+    # s "Why is this happening so many times? [e]."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_f1d595d2:
+
+    # e "U-uh..."
+    e ""
+
+translate schinese Jog_Vote_Follow_Sebas_eba61641:
+
+    # e "I was walking down the forest at night, then I heard a loud noise and came over."
+    e ""
+
+translate schinese Jog_Vote_Follow_Sebas_08d3b443:
+
+    # s "Did you hear anything?"
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_51380686:
+
+    # e "I only hear a little, King of... Licates? You shouted that word so loud the whole forest might as well hear that."
+    e ""
+
+translate schinese Jog_Vote_Follow_Sebas_ef9da69c:
+
+    # "Sebas squints his eyes, staring in both suspicion and uneasiness."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_b7daa2a2:
+
+    # s "Just, a little?"
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_317710cd:
+
+    # e "Yes, sorry if that was not intended for me to hear."
+    e ""
+
+translate schinese Jog_Vote_Follow_Sebas_e5ee4f10:
+
+    # e "I just arrived here, didn't hear anything except for that loud stomp this guy's been making."
+    e ""
+
+translate schinese Jog_Vote_Follow_Sebas_3f1221b7:
+
+    # e "I mean, he's really a show stopper, isn't that right?"
+    e ""
+
+translate schinese Jog_Vote_Follow_Sebas_ef9da69c_1:
+
+    # "Sebas squints his eyes, staring in both suspicion and uneasiness."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_78f3667d:
+
+    # s "Nothing, really?"
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_6c5f1c73:
+
+    # e "Not any words I can make out."
+    e ""
+
+translate schinese Jog_Vote_Follow_Sebas_263d8f27:
+
+    # s "Whatever, it's not my secret to keep."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_3c811b27:
+
+    # s "I can't believe I let him slip away again."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_2faeec4e:
+
+    # e "Uh, was that... the king of Licates?"
+    e ""
+
+translate schinese Jog_Vote_Follow_Sebas_03039446:
+
+    # s "Capital of Mokken, or whatever you call that part of the land."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_ad888cb3:
+
+    # e "I mean, I thought I was here to deal with a monster as well."
+    e ""
+
+translate schinese Jog_Vote_Follow_Sebas_f673c93c:
+
+    # e "And he's just chilling."
+    e ""
+
+translate schinese Jog_Vote_Follow_Sebas_a8a49402:
+
+    # "You point at the continued stomping of the moss monster, who's wandering aimlessly around the forest."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_e85a5d3b:
+
+    # s "I wanna go home, roomie. I'm tired."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_8653c8f4:
+
+    # e "O-okay."
+    e ""
+
+translate schinese Jog_Vote_Follow_Sebas_5c2aa8ec:
+
+    # s "A-and... forget what happened here, alright? Including the wagon, everything."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_9b21486b:
+
+    # s "I- is it weird that I don't believe a single word you say, roomie?"
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_a9d5838b:
+
+    # "Your heart sinks faster than a hurled cannonball, dragging you down."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_7607e0e4:
+
+    # s "It didn't use to be like that, I... I liked you, I still like you now. But..."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_afe73c94:
+
+    # s "I hope this feeling goes away the next time I wake up, [e]."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_037dea58:
+
+    # "You don't even dare to look at Seb anymore, instead the path towards Lusterfield has been all but silence, both of you has had something to ponder, and perhaps, a new perspective on each other."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_f2602b3b:
+
+    # "Outside the shop, Ole is already greeting to two of you with a shocked look."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_7d30c532:
+
+    # o "You two are together? what happened-"
+    o ""
+
+translate schinese Jog_Vote_Follow_Sebas_98a662fb:
+
+    # s "I'm going to bed."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_e5e0a6a8:
+
+    # "Ole inquires Sebas, who ignores him and runs upstairs quickly. His attention quickly shifts to you."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_1c98e1b0:
+
+    # "In shame, you lower your head."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_020687c5:
+
+    # o "You saw the wagon?"
+    o ""
+
+translate schinese Jog_Vote_Follow_Sebas_6186867a:
+
+    # "You nod."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_7df121d3:
+
+    # o "Oh... no..."
+    o ""
+
+translate schinese Jog_Vote_Follow_Sebas_cdbff688:
+
+    # e "I'm sorry."
+    e ""
+
+translate schinese Jog_Vote_Follow_Sebas_31415978:
+
+    # o "It's fine. I'll talk to Seb, don't fret about it. Everything will be back to normal tomorrow."
+    o ""
+
+translate schinese Jog_Vote_Follow_Sebas_dfdcf61e:
+
+    # "Despite Ole's assurance, you do not believe it'd end, this easy."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_fe675573:
+
+    # "Without hesitation, you slip away through the thick grasses and run back to Lusterfield."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_d7b15398:
+
+    # s "That was the only thing I had of my mom's. And it vanished in thin air."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_a16170db:
+
+    # s "All those days, I thought it was fucking Jog's doing, Ole believed it too."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_bdc0acdd:
+
+    # ct "What are you talking about, Seb?"
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_6c9082c2:
+
+    # s "And it's you all along. You fucking stole the plush from me."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_328bb84c:
+
+    # ct "N-no, wait..."
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_6d009ace:
+
+    # "Castor stammered, struggling to comprehend."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_11fc30d9:
+
+    # ct "How did you know?"
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_e754f526:
+
+    # s "I thought it was weird how he had the guts to make amends. So I started looking over and over again."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_4a196996:
+
+    # s "And I saw one of your guards walking by the shop, looking around the village."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_34f4ce97:
+
+    # s "I never thought there's anyone else who's petty enough to do this, but then I remembered that same guard disguised as customer trying to buy an old artifact on that day."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_7f452f8e:
+
+    # s "And then it dawned on me, that day your guard distracted me to go back to the storage so he can steal ma's plush away from me."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_2772e2e6:
+
+    # s "Why?"
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_e1df5487:
+
+    # ct "To be fair, I thought you would find out way sooner. We didn't even try to hide that."
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_660f4618:
+
+    # ct "The only reason I took it, was because your lizard friend told me you were hugging that thing every night. And, I know you still missed her."
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_c35e53ce:
+
+    # s "So you took the only thing I had of her?"
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_a2702a8b:
+
+    # "His voice wavered with a mix of disbelief and disappointment."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_8eb526c8:
+
+    # ct "It's not just some plush, it's a plush with pure gold threads that's only used by us."
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_0a616325:
+
+    # ct "You've been careless with who you invite to your place, and if someone knowledgeable enough sees it in your shop, they could've just connected the dots."
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_78cbe5f0:
+
+    # ct "And I thought getting rid of it could've allowed you to move on with your life."
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_819df7bb:
+
+    # ct "I didn't know you could be so obsessed with that doll, to the point that you spent weeks just to flip over the entire village for that thing."
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_41e394cd:
+
+    # ct "Listen, I'm sorry, Sebas."
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_584c3b0e:
+
+    # s "You're not my fucking ma, Castor. I don't need to listen to you."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_5ee62df3:
+
+    # ct "It was a tragedy between your parents. And it pained me to pull you away from the pitchforks in the palace. I never wanted to do that at the first place."
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_9edb8202:
+
+    # ct "You understand that, right?"
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_efd3b165:
+
+    # ct "Sebas?"
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_ad9f3ad7:
+
+    # "Castor called, seemingly waiting for a response."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_a19338eb:
+
+    # ct "If you don't want to say anything. May I give you a hug instead?"
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_9886c559:
+
+    # "You hear nothing but a slight shift in the wagon. Sebas probably nodded. And you only see the two sihoulettes overlap for a brief second there."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_ba34a018:
+
+    # s "Fuck..."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_4c5138a7:
+
+    # "After a long pause, you hear a few patting sound before a sihoulette of the lion getting up slowly emerges."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_ec21a1fb:
+
+    # ct "Keep yourself safe out there, for your mother's sake."
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_46c962df:
+
+    # s "O-okay."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_f51a6411:
+
+    # s "Next time you do this to me, you're not gonna see me again."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_caa992a3:
+
+    # ct "I don't foresee a need to do so."
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_60d1f1e7:
+
+    # ct "But yes, I promise."
+    ct ""
+
+translate schinese Jog_Vote_Follow_Sebas_b579c1f7:
+
+    # s "Fine, but I'm going back now. I'm tired."
+    s ""
+
+translate schinese Jog_Vote_Follow_Sebas_ba2e1f1e:
+
+    # "Another pause between the two silhouettes ensues as you patiently wait outside the wagon, anticipating the end of their conversation."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_f1602231:
+
+    # "Sebas stands up slowly, coughing twice before he takes a step out."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_48ebdfde:
+
+    # "As the shadow of a lion figure walks away, you hear a shuffling sound as he slides off the door."
+    ""
+
+translate schinese Sebas_After_Castor_Caught_44b6735b:
+
+    # e "About that night..."
+    e ""
+
+translate schinese Sebas_After_Castor_Caught_86aefd13:
+
+    # "Sebas sighs, his eyes fixated onto somewhere distant near the wooden door."
+    ""
+
+translate schinese Sebas_After_Castor_Caught_949471ae:
+
+    # s "Yeah, I know. Don't worry, I'm not blaming you, or anyone."
+    s ""
+
+translate schinese Sebas_After_Castor_Caught_d3f3f2d0:
+
+    # s "Whether you heard it or not, I don't care. In truth, it's really not my secret to keep."
+    s ""
+
+translate schinese Sebas_After_Castor_Caught_e70f5ab3:
+
+    # "His voice turns rough, much lower pitched than what you're used to."
+    ""
+
+translate schinese Sebas_After_Castor_Caught_c3a63df2:
+
+    # s "Last night was a mistake, my thought was wandering to a different realm it seems, but I've made up my mind."
+    s ""
+
+translate schinese Sebas_After_Castor_Caught_60809cf2:
+
+    # s "Ole was right, I can't be giving my everything, and expect to be given everything in return."
+    s ""
+
+translate schinese Sebas_After_Castor_Caught_f18c5cfe:
+
+    # "He chuckles slightly, much in a dire attempt to inject his usual brightness to this awkward conversation."
+    ""
+
+translate schinese Sebas_After_Castor_Caught_1a9b9101:
+
+    # s "The reality doesn't work that way at all! Isn't that right, roomie?"
+    s ""
+
+translate schinese Sebas_After_Castor_Caught_4c48fe5b:
+
+    # "Swiftly, he shifts his focus onto you, a certain look in his eyes catches you off guard."
+    ""
+
+translate schinese Sebas_After_Castor_Caught_be112a33:
+
+    # e "Uhm... I suppose. But-"
+    e ""
+
+translate schinese Sebas_After_Castor_Caught_09282e16:
+
+    # s "It's fine, I still like you a lot. And I don't care why you're there last night."
+    s ""
+
+translate schinese Sebas_After_Castor_Caught_19e3a5a4:
+
+    # e "I-"
+    e ""
+
+translate schinese Sebas_After_Castor_Caught_5884e40b:
+
+    # "You try to speak, but Sebas cuts you off again."
+    ""
+
+translate schinese Sebas_After_Castor_Caught_91293d22:
+
+    # s "We should really look ahead of us. I don't wanna dwell on this issue on and on... and on..."
+    s ""
+
+translate schinese Sebas_After_Castor_Caught_1309fcc7:
+
+    # s "And truly, after the moment I saw you last night. There's nothing you can say that's gonna satisfy me, so please just skip over all the explaining and move on, buddy."
+    s ""
+
+translate schinese Sebas_After_Castor_Caught_5ebb3b10:
+
+    # "You lower your head, eyes wandering to his finger tapping on the wooden counter incoherently. He's as nervous and uncomfortable as you are, but you understand, someone has to break off the stalemate."
+    ""
+
+translate schinese Sebas_After_Castor_Caught_b7345650:
+
+    # e "Seb, are we still friends?"
+    e ""
+
+translate schinese Sebas_After_Castor_Caught_9ebd7442:
+
+    # "Letting out another sigh, you gather up the courage to ask Sebas. The weight of the question hangs in the frigid air of the pawn shop, much to the shock of the lion in front."
+    ""
+
+translate schinese Sebas_After_Castor_Caught_2b4e6613:
+
+    # s "Yes, of course! You're my roomie. That's the one thing that won't ever change!"
+    s ""
+
+translate schinese Sebas_After_Castor_Caught_dd5b51c5:
+
+    # "His grin wide and straight as a line, it sounds reassuring as always, but you sense a white lie within."
+    ""
+
+translate schinese Sebas_After_Castor_Caught_58643dd9:
+
+    # e "O-okay. I just wanted to say sorry."
+    e ""
+
+translate schinese Sebas_After_Castor_Caught_c91d9c3b:
+
+    # s "I know."
+    s ""
+
+translate schinese Sebas_After_Castor_Caught_d9554523:
+
+    # s "I needed to trust you more, don't I?"
+    s ""
+
+translate schinese Sebas_After_Castor_Caught_338a71b3:
+
+    # e "Hmm, y-yes...?"
+    e ""
+
+translate schinese Sebas_After_Castor_Caught_89b6ca34:
+
+    # s "That really was dumb of me to just assume the worst of you, I don't know, my head wasn't in the right place."
+    s ""
+
+translate schinese Sebas_After_Castor_Caught_2ef125b4:
+
+    # s "What happened there, I'm not supposed to tell anyone at all. It could spell pretty big troubles for us if rumours' gonna spread like wildfires."
+    s ""
+
+translate schinese Sebas_After_Castor_Caught_5539e3cd:
+
+    # e "I understand, Seb. I won't press on further."
+    e ""
+
+translate schinese Sebas_After_Castor_Caught_736b4b68:
+
+    # s "Thanks, roomie. You're the best."
+    s ""
+
+translate schinese Jog_Vote_Report_9c23d584:
+
+    # e "Okay, I'm back."
+    e ""
+
+translate schinese Jog_Vote_Report_ff2ee1d8:
+
+    # j "Got anything useful? Did Sebas do any freakish stuff back there?"
+    j ""
+
+translate schinese Jog_Vote_Report_41bc1f12:
+
+    # e "I didn't do it, sorry Jog."
+    e ""
+
+translate schinese Jog_Vote_Report_ccd43efb:
+
+    # e "Yeah, well. But Sebas caught me when I tried to fight off a mossy monster."
+    e ""
+
+translate schinese Jog_Vote_Report_0c9121bd:
+
+    # j "Mossy monster? I've never seen that thing before."
+    j ""
+
+translate schinese Jog_Vote_Report_4053303f:
+
+    # j "So, what's his reaction?"
+    j ""
+
+translate schinese Jog_Vote_Report_63e19b62:
+
+    # e "Yeah, well. But Sebas caught me while I was trying to leave."
+    e ""
+
+translate schinese Jog_Vote_Report_004d01b7:
+
+    # j "Unlucky, so what's his reaction?"
+    j ""
+
+translate schinese Jog_Vote_Report_36016aad:
+
+    # e "He ran away, I guess back at the shop but after that I think he recovered pretty well."
+    e ""
+
+translate schinese Jog_Vote_Report_3c5c3afd:
+
+    # e "Uh, disappointed? Sad, maybe. I don't think he likes me that much now."
+    e ""
+
+translate schinese Jog_Vote_Report_beeeb38c:
+
+    # j "Oh wow, he really doesn't want you to know the secret. Wait, did you involve me into that?"
+    j ""
+
+translate schinese Jog_Vote_Report_57309125:
+
+    # e "Nah, I was the one following him."
+    e ""
+
+translate schinese Jog_Vote_Report_fc65d1e4:
+
+    # e "Yeah, well. Do you really want to know?"
+    e ""
+
+translate schinese Jog_Vote_Report_f1d8a1ec:
+
+    # j "Not as much as before, but sure, give me all ye got."
+    j ""
+
+translate schinese Jog_Vote_Report_0919bb89:
+
+    # e "Okay, Sebas was actually talking with his uncle, who's kind of asking about this accord in Lusterfield."
+    e ""
+
+translate schinese Jog_Vote_Report_b755e3f1:
+
+    # e "He's called... Castor, lives in a palace, in a town called something like Licates."
+    e ""
+
+translate schinese Jog_Vote_Report_2240961a:
+
+    # j "Alright, that's something unexpected, he's the king, isn't he. I did recall hearing about a secret benefactor of the shop at some point."
+    j ""
+
+translate schinese Jog_Vote_Report_4257274e:
+
+    # e "Yeah, they had a heated argument in the wagon there."
+    e ""
+
+translate schinese Jog_Vote_Report_d1346ba0:
+
+    # e "But I got cut off when they talked about... some plush."
+    e ""
+
+translate schinese Jog_Vote_Report_3141a37b:
+
+    # e "From Castor's sister?"
+    e ""
+
+translate schinese Jog_Vote_Report_fa850b5b:
+
+    # j "His mom?"
+    j ""
+
+translate schinese Jog_Vote_Report_1d82d957:
+
+    # e "I guess. After that a moss monster came and they had to leave."
+    e ""
+
+translate schinese Jog_Vote_Report_d265a7c0:
+
+    # j "Eh, it's all good. I've got what I wanted so you know what, screw his plush."
+    j ""
+
+translate schinese Jog_Vote_Report_b9e06aa9:
+
+    # e "Seb's mother made him a plush when he was a kid, and when he arrived here, Seb lost it, and he thought you were the one stealing it."
+    e ""
+
+translate schinese Jog_Vote_Report_18ff2f67:
+
+    # j "That's where I was left off of. The doll was right there on his bed if I recall correctly."
+    j ""
+
+translate schinese Jog_Vote_Report_730aef0b:
+
+    # e "And it turns out, Castor sent his guard guy to steal that plush."
+    e ""
+
+translate schinese Jog_Vote_Report_a4028ae2:
+
+    # e "He didn't want him to linger over his mother, and probably obscures his identity."
+    e ""
+
+translate schinese Jog_Vote_Report_7eb58015:
+
+    # j "Did that mean what I think it means? The jackass now doesn't think I'm some evil bully that stole his thing?"
+    j ""
+
+translate schinese Jog_Vote_Report_2e7c73c5:
+
+    # e "Yeah, that's pretty much it."
+    e ""
+
+translate schinese Jog_Vote_Report_c4199452:
+
+    # j "So... how did Seb do? Did he flip over the table and call him words like he did to me?"
+    j ""
+
+translate schinese Jog_Vote_Report_d6456244:
+
+    # e "Not that I can recall, they probably hugged it out in the end, but Seb was pretty angry."
+    e ""
+
+translate schinese Jog_Vote_Report_718dd339:
+
+    # j "Heh. Expected. I'm not gonna say anything about it."
+    j ""
+
+translate schinese Jog_Vote_Report_97b805af:
+
+    # j "Honestly, I liked Ole more anyway, the love and praises that Seb showers you with, it's more for him than it is for you."
+    j ""
+
+translate schinese Jog_Vote_Report_431edc5f:
+
+    # j "At least Ole knows he fucked up. I would rather keep in touch with him than the lion."
+    j ""
+
+translate schinese Jog_Vote_Report_18a7ca89:
+
+    # e "I think he's gonna talk to you soon."
+    e ""
+
+translate schinese Jog_Vote_Report_79d87a5a:
+
+    # j "Maybe, we'll see."
+    j ""
+
+translate schinese Jog_Vote_Report_1138348c:
+
+    # e "I think I fucked up too."
+    e ""
+
+translate schinese Jog_Vote_Report_46893169:
+
+    # "You sigh as Jog begins staring straight at you."
+    ""
+
+translate schinese Jog_Vote_Report_9645a1a1:
+
+    # j "U- Don't tell me he found you there."
+    j ""
+
+translate schinese Jog_Vote_Report_cee68290:
+
+    # e "Well, only towards the end."
+    e ""
+
+translate schinese Jog_Vote_Report_35744d8b:
+
+    # j "How did you explain it?"
+    j ""
+
+translate schinese Jog_Vote_Report_70be8c0f:
+
+    # e "I-I just told him I was curious. I didn't mention anything about you."
+    e ""
+
+translate schinese Jog_Vote_Report_c9fac24b:
+
+    # j "For real, I don't think you're gonna be pissing him off that much."
+    j ""
+
+translate schinese Jog_Vote_Report_fae2d48e:
+
+    # j "But, I suppose they kept it a secret for a reason. So, you'd better shut up about this for your own safety."
+    j ""
+
+translate schinese Jog_Vote_Report_c4ef7d1c:
+
+    # j "Especially now that you're out of the dark."
+    j ""
+
+translate schinese Jog_Vote_Report_6d8fc4d8:
+
+    # "You nod slowly."
+    ""
+
+translate schinese Jog_Vote_Report_8e428942:
+
+    # e "Uh, no. I couldn't risk it. There's a guard standing by when Sebas went in the wagon."
+    e ""
+
+translate schinese Jog_Vote_Report_6dd299d1:
+
+    # j "Surely the guards can't be close enough. Last time I checked he's walking far far away when Sebas got inside."
+    j ""
+
+translate schinese Jog_Vote_Report_7c44636a:
+
+    # e "Uh, not this time though."
+    e ""
+
+translate schinese Jog_Vote_Report_0d5774a4:
+
+    # j "Either way, thanks for going through this plan with me, I wouldn't have talked to Ole in ten lifetimes."
+    j ""
+
+translate schinese Jog_Vote_Report_fab4eaf3:
+
+    # e "No problem."
+    e ""
+
+translate schinese Jog_Vote_Report_243c2aa9:
+
+    # j "For the record, you've got my vote. Mhmm, But I gotta go and think about some explaining on the spot when Lot come asking."
+    j ""
+
+translate schinese Jog_Vote_Report_b9f6dcc7:
+
+    # j "See ya."
+    j ""
+
+translate schinese Jog_Vote_Report_f437a415:
+
+    # "He waves at you until you begin moving once more."
+    ""
+
+translate schinese Jog_Vote_Report_Nothing_21c33943:
+
+    # j "Fair. Anyway, I'm past this whole curiosity now. While you were trying to stalk your precious roomie, I got my fair share of tough deal with Ole."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_b94f9e53:
+
+    # j "I planned to just hang out, catching up with each other. But that guy even got nervous when I talked about the weather."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_0d7eb2c9:
+
+    # j "So I went straight to the elephant in the room."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_ba2a7e6d:
+
+    # j "That said, the talk was surprisingly peaceful, I mean at least after talking it out, he's finally chatting like a normal person."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_1aa067d8:
+
+    # j "I don't even know why I asked at the first place, I never decided to work it out until when you asked about this whole vote."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_51bfb695:
+
+    # e "You don't want to know about Seb now?"
+    e ""
+
+translate schinese Jog_Vote_Report_Nothing_c5202a28:
+
+    # j "It's not like you've got anything, but now that I got it out of my system, it's all good."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_f9a536ed:
+
+    # e "Now I'm curious what Ole said to you that night."
+    e ""
+
+translate schinese Jog_Vote_Report_Nothing_b1cc3af9:
+
+    # j "One thing about Ole is, he used to be scared of hanging out in the same tavern as we do, just stopped being there at one point. like, I'm not gonna eat his lizard ass or something."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_6342f5b2:
+
+    # j "Gettin' all that scales up my tongue, nah I'm very opposed to that."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_f3404a9a:
+
+    # "Jog exclaims as he takes a huge bite out of the plum."
+    ""
+
+translate schinese Jog_Vote_Report_Nothing_25a30bac:
+
+    # j "The last time we talked, it was at that party Seb held, I was surprised Ole gave me that invitation, but face to face he's just been spewing the same type of bullshit as we last met."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_16fda6d6:
+
+    # j "Hadn't talked to him since the lion flipped all over the place and kicked me out."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_06392cf3:
+
+    # j "But this time, he finally apologized, I don't know what took him so long, but he said he still didn't know who was the thief."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_455a0b1a:
+
+    # j "I guess he was sorry for not talking as friends after all these years."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_daca8610:
+
+    # j "Well, apologies accepted."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_caa59704:
+
+    # e "Couldn't you, just talk to Ole at the first place?"
+    e ""
+
+translate schinese Jog_Vote_Report_Nothing_253f21ad:
+
+    # j "Didn't bother, don't wanna. Big Ol's not the type to dwell over the past, neither am I. Why would I talk to someone who thinks I steal from them?"
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_0d5774a4:
+
+    # j "Either way, thanks for going through this plan with me, I wouldn't have talked to Ole in ten lifetimes."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_fab4eaf3:
+
+    # e "No problem."
+    e ""
+
+translate schinese Jog_Vote_Report_Nothing_243c2aa9:
+
+    # j "For the record, you've got my vote. Mhmm, But I gotta go and think about some explaining on the spot when Lot come asking."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_b9f6dcc7:
+
+    # j "See ya."
+    j ""
+
+translate schinese Jog_Vote_Report_Nothing_f437a415:
+
+    # "He waves at you until you begin moving once more."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_0058e14b:
+
+    # "Without enough time to react, you're stunned in place, too scared to move a muscle."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_1b9120d0:
+
+    # "But the light inside of the wagon is already enough to illuminate your prescence in the dark night."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_4c3e6788:
+
+    # "And consequently, you're still crouching on the side of the wagon when you see Sebas once more."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_58ad271b:
+
+    # "He seems lost in thought, contemplating something as he silently walks back towards the village."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_6c0c9ebd:
+
+    # "And suddenly, he turns around and your eyes meet."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_44f4d25e:
+
+    # "He didn't say anything, but you're certain he noticed you right away. His eyes only widen, and his mouth hangs open."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_6989b2b0:
+
+    # "The air seems frozen in place when your gaze locked, even seconds passed feels like years."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_655550eb:
+
+    # "Sebas slowly waves away the guard, you can't see what's in the front. But the wagon soon sets off, disappearing from behind you."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_149116e8:
+
+    # "Regardless, his gaze remains fixated onto yours, and you find yourself clutching the grasses in nervousness."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_061373f4:
+
+    # "It's only after the wagon is completely out of your sight, does Sebas finally speak."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_24509c42:
+
+    # s "H-how much did you hear?" nointeract
+    s "" nointeract
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_7971006b:
+
+    # e "J-just a little. I was just curious where you've been, Seb."
+    e ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_eef13c5f:
+
+    # "Sebas' eyes droops lower, he furrows his brows, giving you a sullen look."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_658fe550:
+
+    # e "I- I followed you here, and heard everything inside the wagon."
+    e ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_ef1516b3:
+
+    # "Sebas' still taking time to process whatever happened here, but his stare has soften."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_e043d770:
+
+    # s "Okay."
+    s ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_b9e07ff6:
+
+    # "Sebas mutters under his breath, his voice is much lower than what you normally hear from the lion."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_f3fabdc1:
+
+    # "Frustration and disappointment etch his face, and you sense the weight of his emotions."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_ca8ef0af:
+
+    # "You catch a glimpse of Sebas looking away, he wants to forgive you so much even in face of the betrayal of his trust, but he's not able to."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_f447c7fb:
+
+    # "Instead, he turns away without another word."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Fail_9582a6f3:
+
+    # "Quickly, you rise to your feet to chase after him, but he's already running back to Lusterfield, leaving you alone in the forest once more."
+    ""
+
+translate schinese Jog_Vote_Sebas_Escape_Success_fe675573:
+
+    # "Without hesitation, you slip away through the thick grasses and run back to Lusterfield."
+    ""
 
 translate schinese Arthur_Voting_Opinion_175bc015:
 
@@ -22449,10 +24509,22 @@ translate schinese strings:
     old "Enter the Passcode:"
     new ""
 
+    old "It seems it's around the time to follow Sebas, do you want to hide here and wait, or give up following him?"
+    new ""
+
+    old "Wait to follow Sebas"
+    new ""
+
+    old "Do not wait"
+    new ""
+
     old "Ask about his betting"
     new ""
 
     old "Go to Tavern with Sebas and Ole tonight"
+    new ""
+
+    old "Talk about the night with the wagon"
     new ""
 
     old "Learn his opinion on the accord vote"
@@ -22522,12 +24594,6 @@ translate schinese strings:
     new ""
 
     old "Defend Ole"
-    new ""
-
-    old "Ale"
-    new ""
-
-    old "Beer"
     new ""
 
     old "Bread"
@@ -22854,7 +24920,7 @@ translate schinese strings:
     old "Maybe later"
     new ""
 
-    old "Vote for the future of Lusterfield on "
+    old "Vote for the future of Lusterfield on next "
     new ""
 
     old "Talk with other Lusterfolks about their opinions"
@@ -22926,6 +24992,9 @@ translate schinese strings:
     old "Help Ole"
     new ""
 
+    old "Complete the quest before Ole meets with Gwyddyon on [todaydayofweekfromolemeeting]"
+    new ""
+
     old "Collect information about a secret product from Gwyddyon"
     new ""
 
@@ -22990,5 +25059,41 @@ translate schinese strings:
     new ""
 
     old "Should Lusterfield form an alliance with Goat Tribe?"
+    new ""
+
+    old "Accept the quest{#JogVoteQuest}"
+    new ""
+
+    old "Maybe Later{#JogVoteQuest}"
+    new ""
+
+    old "Dodge!"
+    new ""
+
+    old "Follow Sebas from the King's Pawn at [todaydayofweekfromsebasmeeting] night"
+    new ""
+
+    old "Sebas could've seen you if you stay around... but the monster might hurt Sebas and his uncle. What should you do?"
+    new ""
+
+    old "Just a little"
+    new ""
+
+    old "Nothing"
+    new ""
+
+    old "Sebas is walking out of the wagon now."
+    new ""
+
+    old "Slip Away!"
+    new ""
+
+    old "Tell Jog"
+    new ""
+
+    old "Lie and withhold the secret"
+    new ""
+
+    old "Everything"
     new ""
 

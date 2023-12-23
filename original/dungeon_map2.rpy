@@ -53,14 +53,19 @@ translate schinese Mino_Maze_Loop_daedc7b0:
     # "A small sand pyramid, there's nothing out of the ordinary except that it is horizontally symmetric."
     ""
 
-translate schinese Mino_Maze_Loop_6cced126:
-
-    # "You feel like you can actually balance the statue on the stone..."
-    ""
-
 translate schinese Mino_Maze_Loop_5271b538:
 
     # "Some pebbles on the ground, and grasses. shouldn't be too common outside of the cave."
+    ""
+
+translate schinese Mino_Maze_Loop_44ccf1ff:
+
+    # "The surface of this rock is pretty flat, maybe you can balance the statue on it..."
+    ""
+
+translate schinese Mino_Maze_Loop_f6a6d3dc:
+
+    # "The rock looks flat, and there is a minotaur symbol at the center."
     ""
 
 translate schinese Mino_Maze_Loop_54c204c9:

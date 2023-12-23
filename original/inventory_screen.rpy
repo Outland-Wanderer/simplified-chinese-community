@@ -108,6 +108,9 @@
     old "Storage"
     new ""
 
+    old "Value: [item.value] Gold"
+    new ""
+
     old "Value: [hovered_item.value] Gold"
     new ""
 

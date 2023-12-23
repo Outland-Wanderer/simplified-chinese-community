@@ -4395,3 +4395,698 @@ translate schinese scene_gnoll_win_top_c9df201d:
     # "Packing all your clothes and equipment, you set off for your next destination, letting the gnoll take his rest."
     ""
 
+translate schinese Scene_Pirkka_Show_c697928a:
+
+    # "You respond to him with the same smile, both of his hands are on the lute now, so he must not have minded to let his clothes loose."
+    ""
+
+translate schinese Scene_Pirkka_Show_985fd3e6:
+
+    # "With that in mind, you lean in to lay your hand on Pirkka's body. His muscles are just so tough for a singing bard like him."
+    ""
+
+translate schinese Scene_Pirkka_Show_b3bcafc9:
+
+    # "He just continues playing, nothing is going to stop him from performing this song, not even your constant teasing and fondling."
+    ""
+
+translate schinese Scene_Pirkka_Show_0b4f977f:
+
+    # p "{i}All along, you w-wwwA...{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_f1a3632a:
+
+    # "His voice suddenly cracks when you crawl to his side and begin to untie his blue cloak, a tint of surprise showed on his face."
+    ""
+
+translate schinese Scene_Pirkka_Show_64da1573:
+
+    # p "{i}All along, you wander,{p} your t-trail left on every inch of Mokken's soil.{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_7fe0705f:
+
+    # "At an easy pace, you remove his cloak from the back of his neck, part of it also thanks to his cooperation."
+    ""
+
+translate schinese Scene_Pirkka_Show_0a437cfe:
+
+    # "But you are not stopping there, instead you immediately begin to reach for his red poncho, draping over his wide shoulders."
+    ""
+
+translate schinese Scene_Pirkka_Show_0239c0b2:
+
+    # p "{i}But not one soul expected, underneath all courage and determination,{p} here lies an affectionate lover, molding a chiseled gargoyle.{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_804835a0:
+
+    # e "Oh, you're a gargoyle? Chiseled, even?"
+    e ""
+
+translate schinese Scene_Pirkka_Show_58bad1d7:
+
+    # p "Maybe, you'll have to find out yourself."
+    p ""
+
+translate schinese Scene_Pirkka_Show_2978aacf:
+
+    # "Pirkka winks, he knows it's a challenge you will never resist, it's almost like unwrapping a present, full of excitement and surprise."
+    ""
+
+translate schinese Scene_Pirkka_Show_2fc2ab64:
+
+    # "And you don't even hesitate to snatch the rest of his outerwear, yanking them to the side carelessly as you reveal his full chest to the tavern air."
+    ""
+
+translate schinese Scene_Pirkka_Show_18905909:
+
+    # "All the while, the bard continues playing the song while he stares at your playful glance, thinking about the next line."
+    ""
+
+translate schinese Scene_Pirkka_Show_8bebc5ca:
+
+    # p "{i}Cape, Poncho, Shawls, layers of fabric falls off one by one,{p} he's about to find out, what comes next of this foil.{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_d076540c:
+
+    # "He follows this with a quicker rhythm change of his tunes, fingers tapping on his lute with ease, adding a frisky flourish to the atmosphere."
+    ""
+
+translate schinese Scene_Pirkka_Show_b4271955:
+
+    # "Unbuttoning his shawl, you crouch on the bed to take them off his front, and now his upper body is completed exposed."
+    ""
+
+translate schinese Scene_Pirkka_Show_63f270ce:
+
+    # p "{i}An i-intimate touch, nonetheless. Tonight he's under this bard's fingertips,{p} unw-woven, even, he is a needle that never skips.{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_6daf7bc5:
+
+    # "Surprisingly, Pirkka is not even embarraassed, instead he chuckles loudly at your hand aimlessly drifts on top of his fur, almost tickling out of his rhythm."
+    ""
+
+translate schinese Scene_Pirkka_Show_cefa898b:
+
+    # p "{i}An explorer at heart, a lover at birth, he- Aaghh...{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_ee9f88d0:
+
+    # "Your hand wanders towards his bottom, brushing against his legs and prompting a moan out of him."
+    ""
+
+translate schinese Scene_Pirkka_Show_b7cf811a:
+
+    # "His tunes quickly resumes to its normal speed, as he shakes his head with a wide smile."
+    ""
+
+translate schinese Scene_Pirkka_Show_87baa33f:
+
+    # p "Ahem."
+    p ""
+
+translate schinese Scene_Pirkka_Show_92f111de:
+
+    # "Crawling to the other end of the bed, you kneel on the side of his leg, pressing against his shoes to feel his warmth."
+    ""
+
+translate schinese Scene_Pirkka_Show_814b690d:
+
+    # "With a sleight of hand, you unbuckle the straps and remove the pair of leather shoes. Partly as a tease, and partly to help keep the bed clean from dirts and scratches, of course."
+    ""
+
+translate schinese Scene_Pirkka_Show_f7bf42d1:
+
+    # "And now, his bare feet become exposed in the air, liberated from the constraints of his shoes."
+    ""
+
+translate schinese Scene_Pirkka_Show_44a392fd:
+
+    # "When you hurl away his shoes like the other clothes, his toes clinches together, catching your attention."
+    ""
+
+translate schinese Scene_Pirkka_Show_10ea481f:
+
+    # e "Now it's only your pants left, any last words?"
+    e ""
+
+translate schinese Scene_Pirkka_Show_10a269a4:
+
+    # "You lean forwards to have a better look at his breeches, Pirkka only smiles, before you notice a pulse underneath."
+    ""
+
+translate schinese Scene_Pirkka_Show_95da5f34:
+
+    # p "Tell mine pants I loved them."
+    p ""
+
+translate schinese Scene_Pirkka_Show_da2f979a:
+
+    # "It seems your tease amused Pirkka instead, not an unexpected outcome but it seems his smiles never fade when he stares at your face."
+    ""
+
+translate schinese Scene_Pirkka_Show_47680285:
+
+    # p "{i}What is better than an adventurer with a bard, and a song of the wanderer.{p} In your hand a brush arises, with ease it paints the whole picture.{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_35020b34:
+
+    # "And with his assist, you untie the knot in front of his breenches, and slowly unveil the last piece of clothing on his body, last obstacle between you and your prize."
+    ""
+
+translate schinese Scene_Pirkka_Show_752ffe56:
+
+    # "But to your surprise, which should be no one else's, his brief is still in the way."
+    ""
+
+translate schinese Scene_Pirkka_Show_8ef2eef9:
+
+    # p "{i}A Bard's manhood, is it what the wanderer wanted?{p} Oh, forgive me m' sin, for m' own garment covering his treasure.{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_7e671bc8:
+
+    # "With a loud playful sigh, you slide his breeches off his legs and let them join the others on the floor."
+    ""
+
+translate schinese Scene_Pirkka_Show_1786b9e3:
+
+    # e "I should've seen that coming."
+    e ""
+
+translate schinese Scene_Pirkka_Show_bb1195f8:
+
+    # "Tracing your fingers around his leg, you feel up his muscles from the ankles to his thick thighs, putting your entire palm onto the smooth skin covered in the purple and pink fur."
+    ""
+
+translate schinese Scene_Pirkka_Show_c17cc580:
+
+    # "Leaning up, you can already feel the heat radiate. You put your nose closer and give it a little sniff. It smelled of sweat, musk, and the unmistakable hint of salt."
+    ""
+
+translate schinese Scene_Pirkka_Show_0abd3e48:
+
+    # "Your eyes almost rolled up all the way, the intense smell is offensive, but alluring for a bard like Pirkka. He must have travelled a long distance to have it built up such an odor."
+    ""
+
+translate schinese Scene_Pirkka_Show_ec6b8365:
+
+    # "Rubbing your face against the bulge, you give it a good kiss before leaning up. His eyes are closed, and his face is a deep shade of red."
+    ""
+
+translate schinese Scene_Pirkka_Show_30c34acf:
+
+    # p "Ahem..."
+    p ""
+
+translate schinese Scene_Pirkka_Show_a0fa79c7:
+
+    # "You grasp onto the fabric with both hands, and tug it down slowly. As you do so, the head of his penis is revealed, followed by the shaft, until the whole thing is fully uncovered."
+    ""
+
+translate schinese Scene_Pirkka_Show_86af3980:
+
+    # e "A gargoyle, it is!"
+    e ""
+
+translate schinese Scene_Pirkka_Show_6060a835:
+
+    # "It points upwards, the veins running along its surface. You take a few moments to admire his size, but Pirkka doesn't want to wait much longer."
+    ""
+
+translate schinese Scene_Pirkka_Show_82e082b0:
+
+    # "His breath grow quicker as he feels the breeze on his crotches, and as the tension mounts."
+    ""
+
+translate schinese Scene_Pirkka_Show_908c75a5:
+
+    # p "{i}A personal surprise, a reward for his heroism. Ahead he goes, ugh...{p} heating up. Hnnngh... He s-shall not keep the bard waiting...{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_8f087a56:
+
+    # "Pirkka's verse becomes much more messy, as you fondle his most sensitive part, it's remarkable that he hasn't ended the song yet considering his bright red cheeks."
+    ""
+
+translate schinese Scene_Pirkka_Show_d6ad8627:
+
+    # e "Getting a little sloppy now, aren't we."
+    e ""
+
+translate schinese Scene_Pirkka_Show_9e4c5137:
+
+    # p "It's much more challenging to play a song when you put your snout around zere."
+    p ""
+
+translate schinese Scene_Pirkka_Show_b3dddfdc:
+
+    # "Chuckling, you decide to take your time staring at the bard's cock, in spite of his urges."
+    ""
+
+translate schinese Scene_Pirkka_Show_abbca68e:
+
+    # "A small drop of precum drips down the shaft. The smell of sweat is stronger than ever. You are mesmerized by his cock, and the sight of it just makes your heart pound in excitement."
+    ""
+
+translate schinese Scene_Pirkka_Show_90d190ca:
+
+    # p "{i}Pray and tell, what should a minstrel say to bring about the wanderer's blessing.{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_45c2bd02:
+
+    # p "{i}At the mercy of the hand's call, an intimate touch awaits to befall.{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_8df84717:
+
+    # "Finally you reach out, and wrap your fingers around the shaft, feeling its warmth in your hands."
+    ""
+
+translate schinese Scene_Pirkka_Show_6fc73639:
+
+    # "It is throbbing and pulsating with every heartbeat, and the skin is so soft and smooth to the touch."
+    ""
+
+translate schinese Scene_Pirkka_Show_b5b2347d:
+
+    # "You linger on his manhood for some time, feeling up the veins and ridges along his shaft."
+    ""
+
+translate schinese Scene_Pirkka_Show_003b7e5c:
+
+    # p "{i}A-ah..u m-masterwork at hand, he strokes,{p} the w-wandererr shall do anything as he d-desire.{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_3d304cc4:
+
+    # e "Anything?"
+    e ""
+
+translate schinese Scene_Pirkka_Show_e0d1d341:
+
+    # p "{i}An-ything, b-but keep going, tug on the prize if it satisfies his hunger.{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_5c4cdfaf:
+
+    # "You grin, as much as he emphasizes on the word, you know he wants you to jerk him off first."
+    ""
+
+translate schinese Scene_Pirkka_Show_cdf3d37c:
+
+    # "On his request, you lick the underside of his penis from the bottom to the top, and back again."
+    ""
+
+translate schinese Scene_Pirkka_Show_5b90eb91:
+
+    # "Pirkka gasps as he feels the wet warmth of your mouth enveloping his manhood."
+    ""
+
+translate schinese Scene_Pirkka_Show_906626e9:
+
+    # "Then, you start wrapping your lips around the tip and suck it gently, while jerking the shaft."
+    ""
+
+translate schinese Scene_Pirkka_Show_29cc5f75:
+
+    # "You wrap your lips around the head of his penis, and suck him gently, tasting the precum on your tongue. It was salty but thick in your mouth."
+    ""
+
+translate schinese Scene_Pirkka_Show_b8393d6d:
+
+    # "Licking it back into your mouth, some of his precum drips out of your lips, smearing it all around his shaft."
+    ""
+
+translate schinese Scene_Pirkka_Show_a39cd797:
+
+    # "Your free hand grabs the base of the shaft, and you pump it with a steady rhythm. Before leaning your mouth onto the meat again."
+    ""
+
+translate schinese Scene_Pirkka_Show_77d3ebf8:
+
+    # "Bobbing your head up and down, and take him deeper into your mouth with each descent, the head of his penis prodding against the entrance of your throat."
+    ""
+
+translate schinese Scene_Pirkka_Show_06cc81ca:
+
+    # "He lets out a soft moan, and his body tenses up. You could feel the heat radiating from his crotch, and the sweat dripping down his thighs."
+    ""
+
+translate schinese Scene_Pirkka_Show_f0998841:
+
+    # "Your other hand grabs onto the base of his shaft, and pumps it with a steady rhythm."
+    ""
+
+translate schinese Scene_Pirkka_Show_b3d34e53:
+
+    # "Slowly, his fingers begin to wander away from his lute, his attention unfocused. It seems the pleasure is getting to him."
+    ""
+
+translate schinese Scene_Pirkka_Show_54a7fe58:
+
+    # "You feel the tension in his body building up, his hips start thrusting, his moans turn louder, and his breaths grow ragged."
+    ""
+
+translate schinese Scene_Pirkka_Show_9477dbeb:
+
+    # "The bard's hands grab onto the bedsheets as he bucks his hips and thrusts into your mouth, as if trying to reach deeper inside."
+    ""
+
+translate schinese Scene_Pirkka_Show_38f7acf6:
+
+    # "Your eyes meet his, and you see the lust in his gaze."
+    ""
+
+translate schinese Scene_Pirkka_Show_d630a8ff:
+
+    # "His mouth is open, and his tongue is hanging out. He's panting hard, and his voice is raspy."
+    ""
+
+translate schinese Scene_Pirkka_Show_4ce757d2:
+
+    # p "It's get'ing close..."
+    p ""
+
+translate schinese Scene_Pirkka_Show_da7b4ac5:
+
+    # "You notice his body is trembling, and he's on the verge of release."
+    ""
+
+translate schinese Scene_Pirkka_Show_9a3b8be5:
+
+    # "You could feel his cock throb in your mouth. So you stop sucking, and let his dick slip out of your mouth, leaving behind a strand of saliva connecting the two of you."
+    ""
+
+translate schinese Scene_Pirkka_Show_e276ac7c:
+
+    # e "Not yet, Pirkka. Not until you finish your song, of course."
+    e ""
+
+translate schinese Scene_Pirkka_Show_4942e7ee:
+
+    # e "Make it a complete ballad for me, if you want to sing this song."
+    e ""
+
+translate schinese Scene_Pirkka_Show_7bbaa0df:
+
+    # "You whisper with a sly smile on your face."
+    ""
+
+translate schinese Scene_Pirkka_Show_0cb3ff1f:
+
+    # "You give the head a quick kiss before leaning forward, and tilt your head to better hear the bard's voice."
+    ""
+
+translate schinese Scene_Pirkka_Show_9c656e30:
+
+    # p "Y-you like teasing your bard so much, huh?"
+    p ""
+
+translate schinese Scene_Pirkka_Show_73095c24:
+
+    # p "A-alright, I'll come up with something."
+    p ""
+
+translate schinese Scene_Pirkka_Show_fa02099b:
+
+    # "You could hear a small sigh escape his lips, his body still tense and his manhood still erect."
+    ""
+
+translate schinese Scene_Pirkka_Show_b5898ab0:
+
+    # "His hands reach out to grab the lute once more, figuring a way to continue his tune."
+    ""
+
+translate schinese Scene_Pirkka_Show_e498bdbe:
+
+    # p "{i}He traversed, ahem...{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_09d280c3:
+
+    # "Already he begins strumming the strings, and hums a little melody."
+    ""
+
+translate schinese Scene_Pirkka_Show_d664caa4:
+
+    # p "{i}He embarks on the journey with his bard, up and down they goes.{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_f528e168:
+
+    # "The bard opens his mouth again, his fingers dance across the strings, and the sounds echo through the air."
+    ""
+
+translate schinese Scene_Pirkka_Show_58f2df39:
+
+    # p "{i}Stroking on the bard's cock, they travelled through valleys and meadows.{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_6bc3db86:
+
+    # "His voice is calm and soothing, as if it were a whisper in your ear."
+    ""
+
+translate schinese Scene_Pirkka_Show_1b700054:
+
+    # "The notes flow together with his words like a stream, it's impossible to imagine that he think of all this in mere seconds."
+    ""
+
+translate schinese Scene_Pirkka_Show_1cde6431:
+
+    # p "{i}A tasteful jolt, a tender pleasure.{p} A trip from the bottom of the hose...{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_2074ae7b:
+
+    # "You resume jerking his cock, and his voice begins to waver a bit, but he manages to keep it up."
+    ""
+
+translate schinese Scene_Pirkka_Show_21335662:
+
+    # e "Keep going..."
+    e ""
+
+translate schinese Scene_Pirkka_Show_5a24895b:
+
+    # "You stroke his shaft harder and faster, and the bard's voice becomes shaky and raspy."
+    ""
+
+translate schinese Scene_Pirkka_Show_818dea68:
+
+    # p "{i}And quickly, to z-ze tip on his nose, you run nimble and swift, zze pa-ce never slows.{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_78571cec:
+
+    # "Your palm brushes against the fur on his stomach, he was especially soft."
+    ""
+
+translate schinese Scene_Pirkka_Show_04f5f5d1:
+
+    # "You continue stroking his cock, and you could see the sweat forming on his brow."
+    ""
+
+translate schinese Scene_Pirkka_Show_99448d0e:
+
+    # "He's doing his best to maintain the tune, but his voice is starting to crack a bit, again."
+    ""
+
+translate schinese Scene_Pirkka_Show_7ffa04bb:
+
+    # "His breathing becomes more ragged, and his body begins to shake."
+    ""
+
+translate schinese Scene_Pirkka_Show_9533c4c4:
+
+    # p "{i}Up and d-down...nghh, until he expl-plodes-{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_e4c64155:
+
+    # "Pirkka is on the verge of climax, his cock is throbbing and twitching in your hand."
+    ""
+
+translate schinese Scene_Pirkka_Show_4709f181:
+
+    # p "{i}Uh... Zze w-wanderer strokes, u-ngh... un...t-il it bl-blows...{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_7e020d5e:
+
+    # "His body is shaking, and his voice is quivering."
+    ""
+
+translate schinese Scene_Pirkka_Show_6d584c4a:
+
+    # "You begin to lick his shaft from the base to the tip, and he moans and writhes in pleasure."
+    ""
+
+translate schinese Scene_Pirkka_Show_f6fa0667:
+
+    # p "{i}The climaex is get'ing close, and he knows it,{p} for he quickens his pace, awa-eiting the final act.{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_5b77ef49:
+
+    # "You take the tip of his penis into your mouth, and gently suck on it."
+    ""
+
+translate schinese Scene_Pirkka_Show_db22579c:
+
+    # "Pirkka moans loudly as he feels the warmth of your tongue on his shaft."
+    ""
+
+translate schinese Scene_Pirkka_Show_4aa95f1d:
+
+    # p "{i}Soon it is zze end of zis ba-ellad, a d-dnce of pleasure and gratitude, and of two mutual ae-dmirers.{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_b0fa6134:
+
+    # "You feel his cock twitch in your mouth, and you know he's close, so you get faster."
+    ""
+
+translate schinese Scene_Pirkka_Show_628dc972:
+
+    # "The bard throws his head back and moans, struggling to maintain his verse."
+    ""
+
+translate schinese Scene_Pirkka_Show_fa328384:
+
+    # p "{i}The bard cannot hold any longer, the song must end, so the epilogue may b-begi-{/i}"
+    p ""
+
+translate schinese Scene_Pirkka_Show_a2912356:
+
+    # p "hh-HNNGHHH-!"
+    p ""
+
+translate schinese Scene_Pirkka_Show_23d10dbb:
+
+    # "As the song ends, his entire body tenses up, and his back arches."
+    ""
+
+translate schinese Scene_Pirkka_Show_3c1d3730:
+
+    # "You push his cock as deep into your throat as you can, and quickly you feel his seed shoot down the back of your throat."
+    ""
+
+translate schinese Scene_Pirkka_Show_6b080a75:
+
+    # "His legs shake and tremble, and his whole body quivers as he spills his load into your mouth."
+    ""
+
+translate schinese Scene_Pirkka_Show_b4f1b5e4:
+
+    # "His cock pulses and throbs as you continue to suck him, milking every last drop of his hot, sticky seed."
+    ""
+
+translate schinese Scene_Pirkka_Show_4ab8a0d8:
+
+    # "You make the effort to swallow every drop of his cum, before pulling your head back."
+    ""
+
+translate schinese Scene_Pirkka_Show_630c6c1e:
+
+    # "The bard is lying limp on the bed, completely spent. His chest is heaving, and his eyes are half-lidded."
+    ""
+
+translate schinese Scene_Pirkka_Show_0027ba0b:
+
+    # p "Zere it goes, I finished your s-song... hah..."
+    p ""
+
+translate schinese Scene_Pirkka_Show_7d98a883:
+
+    # "Pirkka exclaims as he is covered in a layer of sweat, and his face flushed."
+    ""
+
+translate schinese Scene_Pirkka_Show_fe776c50:
+
+    # "You wipe the drool from his mouth, and you smile."
+    ""
+
+translate schinese Scene_Pirkka_Show_3daff911:
+
+    # e "Thanks, I like it a lot."
+    e ""
+
+translate schinese Scene_Pirkka_Show_d6c522ac:
+
+    # p "Never would I imagine you to be taking the lead on our first time."
+    p ""
+
+translate schinese Scene_Pirkka_Show_3450f45a:
+
+    # "He places the lute on the table, before noticing you climbing towards him with strains of his seeds still on your face."
+    ""
+
+translate schinese Scene_Pirkka_Show_1fa1ffd8:
+
+    # e "Did you like it?"
+    e ""
+
+translate schinese Scene_Pirkka_Show_a5de22e1:
+
+    # p "Very much."
+    p ""
+
+translate schinese Scene_Pirkka_Show_cdabe1c6:
+
+    # p "I admire your tease, as much as I was so close to climax ze f-first time."
+    p ""
+
+translate schinese Scene_Pirkka_Show_4c9caee3:
+
+    # p "I'll return ze favour some day, but right now, right now I'm too tired..."
+    p ""
+
+translate schinese Scene_Pirkka_Show_46e5a34f:
+
+    # e "Oh, you'll need more than just returning this favour..."
+    e ""
+
+translate schinese Scene_Pirkka_Show_6042f088:
+
+    # "Pirkka smiles back, before drifting off to sleep. You lay beside him, and wrap an arm around his waist, as he rests his head on your shoulder."
+    ""
+
+translate schinese Scene_Pirkka_Show_87b73a06:
+
+    # "Holding him close, you could feel his warm breaths on your skin, and his fur smells sweet."
+    ""
+
+translate schinese Scene_Pirkka_Show_86c97d73:
+
+    # "Soon, you too drift off to sleep, with the bard in your arms."
+    ""
+
+translate schinese Scene_Pirkka_Show_8c2b6151:
+
+    # "When you wake up, Pirkka is still fast asleep."
+    ""
+
+translate schinese Scene_Pirkka_Show_13a86bb1:
+
+    # "He doesn't snore too loudly, just silently."
+    ""
+
+translate schinese Scene_Pirkka_Show_78dbc60e:
+
+    # "You plant a soft kiss on his forehead, and you run a hand through his dark blue hair and fur."
+    ""
+
+translate schinese Scene_Pirkka_Show_2cca90fa:
+
+    # "You lay there for a few moments, just enjoying the closeness, before you decide to quietly leave."
+    ""
+

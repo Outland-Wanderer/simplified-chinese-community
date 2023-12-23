@@ -7386,6 +7386,9 @@ translate schinese strings:
     old "Ask about Lusterfield{#JogAAL}"
     new ""
 
+    old "Report after following Sebas"
+    new ""
+
     old "Ask about Training from Lothar"
     new ""
 

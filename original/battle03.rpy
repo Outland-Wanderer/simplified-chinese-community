@@ -53,6 +53,16 @@ translate schinese battle_attack_script_1b735359:
     # "The [target.name!t] laughs loudly while flexing his claws, it almost seems he's scoffing at your attempt of attack."
     ""
 
+translate schinese battle_attack_script_3d02284b:
+
+    # "You press on, trying to land a hit, but Vurro continues to evade your blows."
+    ""
+
+translate schinese battle_attack_script_2c02f8d7:
+
+    # "Despite his illness, Vurro moves with surprising grace, ducking and weaving out of your way."
+    ""
+
 translate schinese battle_attack_script_dbd57fbe:
 
     # "You slash your [pc.weapon.name!t] at the [target.name!t], but he hops away in time, dodging from your attack."
@@ -78,10 +88,20 @@ translate schinese battle_attack_script_9ff75fbd:
     # bd "Come on, try harder! You'll never defeat me with such sloppy attacks!"
     bd ""
 
-translate schinese battle_attack_script_c5ca6854:
+translate schinese battle_attack_script_dca0d60e:
 
-    # bd "Swing and a miss! You'll have to do better than that! "
+    # bd "Swing and a miss! You'll have to do better than that!"
     bd ""
+
+translate schinese battle_attack_script_f3cf8947:
+
+    # v "Hey, aim better. I'm walking only slightly faster than a training dummy."
+    v ""
+
+translate schinese battle_attack_script_a040d9c4:
+
+    # v "Not saying Uffe is fast and small enough to dodge your blow, but you can't swing your fist anywhere hoping it hits something."
+    v ""
 
 translate schinese battle_attack_script_911caff7:
 
@@ -126,6 +146,36 @@ translate schinese battle_attack_script_3aa0091a:
 translate schinese battle_attack_script_3bb039f4:
 
     # "The [target.name!t] grunts loudly, seems more than mildly annoyed now that you're hurting him."
+    ""
+
+translate schinese battle_attack_script_1a6ba155:
+
+    # "You unleash a flurry of punches, each strike aimed at Vurro's chest and shoulder."
+    ""
+
+translate schinese battle_attack_script_7ba4baa4:
+
+    # "Momentarily caught off-guard, Vurro tries to evade your attack, but you manage to graze his side with a swift punch."
+    ""
+
+translate schinese battle_attack_script_6ee8359c:
+
+    # "You feint to the right before landing a solid punch to Vurro's shoulder."
+    ""
+
+translate schinese battle_attack_script_55e10f3e:
+
+    # "It's a clean hit, and you can see a flicker of surprise in Vurro's eyes as he stumbles back a step."
+    ""
+
+translate schinese battle_attack_script_c17e6bad:
+
+    # "You throw a punch before executing a quick spin, delivering a swift kick to Vurro's midsection."
+    ""
+
+translate schinese battle_attack_script_9ffe5e36:
+
+    # "The kick lands, and Vurro grunts in surprise as he stumbles back, momentarily winded."
     ""
 
 translate schinese battle_attack_script_12680f06:
@@ -177,6 +227,16 @@ translate schinese battle_attack_script_6b4f73d0:
 
     # "Critical hit! [target.name!t]'s health now decreases by [oa[4]] HP!"
     ""
+
+translate schinese battle_attack_script_8d723584:
+
+    # v "Ouch, your fist does hurt. Wuldon's gonna have a hard time pissing you off, doesn't he?"
+    v ""
+
+translate schinese battle_attack_script_7d3cd5bc:
+
+    # v "That was quite impressive for a non-werewolf. You do have some tricks up your sleeves."
+    v ""
 
 translate schinese battle_attack_script_cf32bdd4:
 
@@ -263,10 +323,40 @@ translate schinese battle_flirt_script_38976fda:
     # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the [target.name!t] while your chest bounce up and down slightly."
     ""
 
+translate schinese battle_flirt_script_7e59b417:
+
+    # v "I'm not sure if this is part of the training, but I don't think you're going to survive after showing Uffe this, so don't do that."
+    v ""
+
+translate schinese battle_flirt_script_f0115095:
+
+    # "Vurro shoots you a playful smile, mildly amused at your demonstration."
+    ""
+
 translate schinese battle_flirt_script_cba7f25f:
 
     # "You continue your act for about a minute, but the [target.name!t] just stares at you in confusion."
     ""
+
+translate schinese battle_flirt_script_a125f093:
+
+    # "Vurro's jaw wide in awe, you notice some unusual movement in his pants."
+    ""
+
+translate schinese battle_flirt_script_29cf4811:
+
+    # v "W-wuldon's gonna like fighting against you, won't he?"
+    v ""
+
+translate schinese battle_flirt_script_449bc6af:
+
+    # "Vurro lowers his fists for a moment, his cheeks soon turn bright red."
+    ""
+
+translate schinese battle_flirt_script_cf306a0f:
+
+    # v "Mhmm... just don't flirt with Uffe when the time comes, but I have to admit, you do get a reaction out of me."
+    v ""
 
 translate schinese battle_flirt_script_c632bd62:
 
@@ -373,6 +463,11 @@ translate schinese battle_flirt_script_756769c4:
     # bd "N-not even... c-close."
     bd ""
 
+translate schinese battle_escape_surrender_script_0fe6ac61:
+
+    # "You're not sure if you can leave the training with Vurro right now."
+    ""
+
 translate schinese battle_escape_surrender_script_13fbd82f:
 
     # "You slowly back down from the [target.name!t]'s attack, you turn around and run as fast as you can."
@@ -397,6 +492,16 @@ translate schinese battle_escape_surrender_script_50b7b402:
 
     # "The [target.name!t] tries to outrun you but he trips and falls on the ground, You successfully escaped from the [target.name!t]!"
     ""
+
+translate schinese battle_escape_surrender_script_9d627f20:
+
+    # "You raises your hand, Vurro quickly notices and lowers his arms."
+    ""
+
+translate schinese battle_escape_surrender_script_710636c4:
+
+    # v "Not going any further? We can stop here."
+    v ""
 
 translate schinese battle_escape_surrender_script_75066d56:
 

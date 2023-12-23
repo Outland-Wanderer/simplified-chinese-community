@@ -1,9 +1,4 @@
-﻿translate schinese scene_feral_lose_556c7193:
-
-    # msg "Note: This Scene is not updated yet. MC's design will be different from current design."
-    msg ""
-
-translate schinese scene_feral_lose_20427d99:
+﻿translate schinese scene_feral_lose_20427d99:
 
     # "You know that you have lost the battle. The wise decision is to turn around and run."
     ""
@@ -73,9 +68,9 @@ translate schinese scene_feral_lose_03f3e565:
     # "The feral's boner moves to your hole."
     ""
 
-translate schinese scene_feral_lose_11db7c5a:
+translate schinese scene_feral_lose_6d39267c:
 
-    # e "Impossible..."
+    # e "Impossible, I- I can't..."
     e ""
 
 translate schinese scene_feral_lose_3ba46b23:
@@ -112,6 +107,11 @@ translate schinese scene_feral_lose_46af1e30:
 
     # "The mushroom head forces its way into your hole."
     ""
+
+translate schinese scene_feral_lose_c85d2ab8:
+
+    # e "A-aAGH!"
+    e ""
 
 translate schinese scene_feral_lose_f24cefe4:
 

@@ -88,6 +88,11 @@ translate schinese Dark_Forest_Map_5224c0f1:
     # "You enter the forest nightwatch..."
     ""
 
+translate schinese Dark_Forest_Map_789ba4d7:
+
+    # "You enter the werewolves' den..."
+    ""
+
 translate schinese Dark_Forest_Map_633dca64:
 
     # "As you walk through the gap at the other end of the dungeon floor, you see Wuldon burst in through the treeline after you, making sure to keep you in his sights."
@@ -118,14 +123,14 @@ translate schinese moonlit_wolf_den_enter_6b46014e:
     # "You look around and realize you are lost."
     ""
 
-translate schinese moonlit_wolf_den_enter_6db98eb2:
+translate schinese moonlit_wolf_den_enter_a268f099:
 
-    # "Suddenly, there's a rustling."
+    # "Suddenly, there's a rustling behind the leaves."
     ""
 
-translate schinese moonlit_wolf_den_enter_87fe27bc:
+translate schinese moonlit_wolf_den_enter_cce8d6f8:
 
-    # "Two werewolves jump out and prepare to fight."
+    # "A grey werewolf jumps out as he points his paws at you."
     ""
 
 translate schinese moonlit_wolf_den_enter_a9b6294f:
@@ -143,10 +148,15 @@ translate schinese moonlit_wolf_den_enter_72a33094:
     # e "..."
     e ""
 
-translate schinese moonlit_wolf_den_enter_f76c0c0d:
+translate schinese moonlit_wolf_den_enter_31191708:
 
-    # ww "You're trespassing on our territories!"
+    # ww "You tres-Passing on our terri-Tory!"
     ww ""
+
+translate schinese moonlit_wolf_den_enter_c18eb48e:
+
+    # e "W-what?"
+    e ""
 
 translate schinese moonlit_wolf_den_enter_c499d21d:
 
@@ -163,6 +173,11 @@ translate schinese moonlit_wolf_den_enter_e5e54a09:
     # "The leader is large and menacing. The other werewolves seem cowed in his presence."
     ""
 
+translate schinese moonlit_wolf_den_enter_2737eaf0:
+
+    # "The grey werewolf walks to stand behind the leader."
+    ""
+
 translate schinese moonlit_wolf_den_enter_124738dd:
 
     # u "What's the meaning of this, trespasser?"
@@ -173,9 +188,9 @@ translate schinese moonlit_wolf_den_enter_06dc5143:
     # "There is a hint of warning in his tone."
     ""
 
-translate schinese moonlit_wolf_den_enter_a1075123:
+translate schinese moonlit_wolf_den_enter_76ce4b30:
 
-    # "You try to be as civil as possible. But with the pack of werewolves staring you down, escape is not a possibility."
+    # "You try to be as civil as possible. But with the pack of werewolves staring you down, escaping does not seem like a possibility."
     ""
 
 translate schinese moonlit_wolf_den_enter_e5bdb668:
@@ -233,9 +248,9 @@ translate schinese moonlit_wolf_den_enter_6f40020e:
     # e "To be kind?"
     e ""
 
-translate schinese moonlit_wolf_den_enter_fdc304c2:
+translate schinese moonlit_wolf_den_enter_3b567176:
 
-    # "The alpha breaks into a sinister smile."
+    # "The alpha breaks into a sinister chuckle, which the other werewolves follow suit as well."
     ""
 
 translate schinese moonlit_wolf_den_enter_94d9bf59:
@@ -243,9 +258,9 @@ translate schinese moonlit_wolf_den_enter_94d9bf59:
     # u "You're funny. I'll give you that, trespasser."
     u ""
 
-translate schinese moonlit_wolf_den_enter_ace88219:
+translate schinese moonlit_wolf_den_enter_4a71cbc0:
 
-    # u "I wonder if humor can save your life."
+    # u "But I wonder if humor can save your life."
     u ""
 
 translate schinese moonlit_wolf_den_enter_53be5a70:
@@ -273,9 +288,9 @@ translate schinese moonlit_wolf_den_enter_65b2d130:
     # u "Where did you get that, trespasser?"
     u ""
 
-translate schinese moonlit_wolf_den_enter_699fca6c:
+translate schinese moonlit_wolf_den_enter_d07f8004:
 
-    # "You catches the recognition in the alpha's eyes."
+    # "You catches the sudden awareness in the alpha's eyes."
     ""
 
 translate schinese moonlit_wolf_den_enter_8d88816b:
@@ -313,14 +328,14 @@ translate schinese moonlit_wolf_den_enter_2810dfc8:
     # u "For a price."
     u ""
 
-translate schinese moonlit_wolf_den_enter_1c5a0a28:
+translate schinese moonlit_wolf_den_enter_5f487a00:
 
-    # u "We'll let you stay here... only if you are willing to help our pack."
+    # u "We'll let you stay here... only if you are willing to help our pack. Only afterwards, I will tell you what I know."
     u ""
 
-translate schinese moonlit_wolf_den_enter_8e0b8052:
+translate schinese moonlit_wolf_den_enter_10280746:
 
-    # e "O-ok I'll do whatever's acceptable."
+    # e "O-ok, I'll do whatever's acceptable."
     e ""
 
 translate schinese moonlit_wolf_den_enter_1df1a9cb:
@@ -333,9 +348,9 @@ translate schinese moonlit_wolf_den_enter_2aeaff21:
     # u "A fate worse than death."
     u ""
 
-translate schinese moonlit_wolf_den_enter_1dac17e6:
+translate schinese moonlit_wolf_den_enter_c6147dc5:
 
-    # "Uffe raises his paws, and the other werewolves who stared at you resume their routine rather quickly."
+    # "Uffe raises his paws, and the other werewolves quickly scatter rather quickly."
     ""
 
 translate schinese main_moonlit_wolf_den_fc60caf0:
@@ -2358,19 +2373,19 @@ translate schinese Uffe_Normal_Talk_ff667d13:
     # u "Don't die."
     u ""
 
-translate schinese Uffe_Normal_Talk_f553004d:
+translate schinese Uffe_Normal_Talk_9aa3fed7:
 
-    # u "To ensure that you are not just shitting me, I will need the proof of the feral's death."
+    # u "To ensure that you are not just shitting me, I will need some proof."
     u ""
 
-translate schinese Uffe_Normal_Talk_924d27d3_1:
+translate schinese Uffe_Normal_Talk_8f3581e1:
 
-    # e "What is it?"
+    # e "What else do you need me to do?"
     e ""
 
-translate schinese Uffe_Normal_Talk_6fcef9fe:
+translate schinese Uffe_Normal_Talk_c0228ec4:
 
-    # u "Bring me the feral's nipple rings."
+    # u "Fetch me the feral's nipple rings."
     u ""
 
 translate schinese Uffe_Normal_Talk_6e0076b1:
@@ -2393,9 +2408,9 @@ translate schinese Uffe_Normal_Talk_07e578d0:
     # u "Similar to these."
     u ""
 
-translate schinese Uffe_Normal_Talk_271cf877:
+translate schinese Uffe_Normal_Talk_f9386415:
 
-    # "You have to admit. It's quite sexy."
+    # "You have to admit. It's quite sexy on him."
     ""
 
 translate schinese Uffe_Normal_Talk_5063674a:
@@ -2418,9 +2433,9 @@ translate schinese Uffe_Normal_Talk_55d73718:
     # "Uffe's eyes widen, and his mouth twists in a predatory grin."
     ""
 
-translate schinese Uffe_Normal_Talk_289767b5:
+translate schinese Uffe_Normal_Talk_4ef39dc5:
 
-    # u "I smell the nipple rings on you."
+    # u "I smell his scent on you."
     u ""
 
 translate schinese Uffe_Normal_Talk_029e606b:
@@ -2578,9 +2593,9 @@ translate schinese Uffe_Normal_Talk_e065f3d1:
     # "You killed somebody for him, and he spits on your face as he did their life."
     ""
 
-translate schinese Uffe_Normal_Talk_c9ca1153:
+translate schinese Uffe_Normal_Talk_98a6dd88:
 
-    # "The seeds of revenge are planted in your heart. You need only figure out how to get it."
+    # "What have you done..."
     ""
 
 translate schinese Uffe_Normal_Talk_85a398b8_1:
@@ -2598,7 +2613,7 @@ translate schinese Uffe_Normal_Talk_55d73718_1:
     # "Uffe's eyes widen, and his mouth twists in a predatory grin."
     ""
 
-translate schinese Uffe_Normal_Talk_289767b5_1:
+translate schinese Uffe_Normal_Talk_289767b5:
 
     # u "I smell the nipple rings on you."
     u ""
@@ -2891,10 +2906,13 @@ translate schinese strings:
     old "Enter the werewolf cave"
     new ""
 
-    old "Join the feast"
+    old "Do you want to join the feast?"
     new ""
 
-    old "Talk to the Wolf Leader"
+    old "Yes {#JoinFeast}"
+    new ""
+
+    old "No {#JoinFeast}"
     new ""
 
     old "Solve the riddles and retrieve the amulet in the Whispering Hollow"

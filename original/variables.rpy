@@ -192,40 +192,10 @@
     old "Found hidden in the forest, one must be perceptive to spot a sprout spirit's journey from the great waterfall, consecutively in four locations."
     new ""
 
-    old "Small HP Potion"
-    new ""
-
     old "An HP Potion that recovers 40 HP."
     new ""
 
-    old "Small MP Potion"
-    new ""
-
     old "An MP Potion that recovers 40 MP."
-    new ""
-
-    old "Red Berry"
-    new ""
-
-    old "A red berry I collected from the forest area, it can recover 10 HP."
-    new ""
-
-    old "A blue berry I collected from the forest area, it can recover 10 MP."
-    new ""
-
-    old "Golden Berry"
-    new ""
-
-    old "A golden berry I collected from the forest area, it reduces 5 Lust."
-    new ""
-
-    old "Strength Potion"
-    new ""
-
-    old "A Strength Potion that temporarily increases holder's damage, only during combat."
-    new ""
-
-    old "Green Ointment"
     new ""
 
     old "An Ointment with recipe created by Ole, it can recover 80 HP and MP each, reduces 30 Lust, and cleanse all negative effect during battle."
@@ -237,280 +207,121 @@
     old "The new addition of beer in Nocturnal Trunk, it recoveres 40 HP and 40 MP, but increases Lust by 20 as well."
     new ""
 
-    old "Accuracy Potion"
-    new ""
-
-    old "A Potion that can increase drinker's Accuracy by 20 for 2 rounds."
-    new ""
-
-    old "Tenacity Potion"
-    new ""
-
-    old "A Potion that can increase drinker's both defenses by 40 for 2 rounds."
-    new ""
-
-    old "Iron Axe"
-    new ""
-
     old "An axe designed specifically for battles, most fighter use it for its popularity and damage. {p} Attack: +15 "
-    new ""
-
-    old "Iron Sword"
     new ""
 
     old "The most common type of sword among adventurers. Even the heroes uses it. {p} Attack: +12 {p} Accuracy: +5 "
     new ""
 
-    old "Short Sword"
-    new ""
-
     old "A short sword I brought from my Tribe.{p} Attack: +5 {p} Accuracy: +2 "
-    new ""
-
-    old "Small Axe"
     new ""
 
     old "A small axe used for chopping woods, and probably fighting. {p} Attack: +7 "
     new ""
 
-    old "Iron Scythe"
-    new ""
-
     old "A scythe best used for harvesting barley and wheat in the field.{p} Attack: +8 {p} Max HP: +15"
-    new ""
-
-    old "Knight Longsword"
     new ""
 
     old "A longsword of a knight used to strike down any enemy in the battle.{p} Attack: +15 {p} STR: +2"
     new ""
 
-    old "Hunting Bow"
-    new ""
-
     old "A specialty bow carved by a hunter, best used for swift movement and aim. {p} Attack: +18 {p} AGI: +1 {p} Accuracy: +8"
-    new ""
-
-    old "Wooden Bow"
     new ""
 
     old "A simplistic wooden bow, fairly lightweight and easy to handle. {p} Attack: +7 {p} Accuracy: +5"
     new ""
 
-    old "Small Trowel"
-    new ""
-
     old "A small hand tool most used for digging in a garden, smoothing or spreading mortar. {p} Attack: +4"
-    new ""
-
-    old "Copper Pickaxe"
     new ""
 
     old "An old pickaxe that the werewolf miners used, could be too fragile for long term usage. {p} Attack: +4"
     new ""
 
-    old "Tribal Spear"
-    new ""
-
     old "A long spear crafted by a tribe, the magical power within gives its user an unusual boost. {p} Attack: +10 {p} INT: +1 {p} Max MP: +15"
-    new ""
-
-    old "Crystal Staff"
     new ""
 
     old "A wooden staff with a blue crystal on the top, can be used to slap your enemy, and restore 5 mana each round. {p} Attack: +4 {p} INT: +3"
     new ""
 
-    old "Tribe Loincloth"
-    new ""
-
     old "A loincloth that I was wearing in the tribe.{p} Defense: +5 {p} Flirt -5 "
-    new ""
-
-    old "Tribe Necklace"
     new ""
 
     old "A skull necklace that represents my own tribe.{p} Defense: +4 {p} Attack: +2 "
     new ""
 
-    old "Lion Charm"
-    new ""
-
     old "A Lion Charm made by Sebas, he told me it brings luck.{p} Defense: +5 {p} Dodge Rate: +2"
-    new ""
-
-    old "Courier Badge"
     new ""
 
     old "A badge given by Ole, to declare me as the courier of lusterfield. {p} Defense: +4"
     new ""
 
-    old "Slime Necklace"
-    new ""
-
     old "A Necklace with a slime crystal imbedded into the golden frame. {p} CHA: +1 {p} Lust Resistance: +5 {p} Flirt: +2"
-    new ""
-
-    old "Moonstone Amulet"
     new ""
 
     old "An ancient artifact in the werewolf territory, the wearer is granted a gust of strength at the cost of their health. {p} STR: +2 {p} Damage: +10 {p} Max Health: -100 {p} Flirt: +3"
     new ""
 
-    old "Herbalist's Gloves"
-    new ""
-
     old "A pair of old gloves from a herbalist in the dark forest, it can probably still be used to collect some dangerous herbs with ease. {p} Defense: +6 {p} Flirt: +1"
-    new ""
-
-    old "Leather Armor"
-    new ""
-
-    old "A strong and durable leather armor custom-made and stitched together by tailor Rahim. It had been a rarity and often fetched a great price during the time when he was the King's appointed Tailor."
-    new ""
-
-    old "Torn Tavern Apron"
     new ""
 
     old "The Apron that Cane gifts his first server. It's torn currently. I should put it on whenever I work in the Tavern. {p} Defense: +5 {p} Lust Resistance: +5 {p} Flirt -4"
     new ""
 
-    old "Tavern Apron"
-    new ""
-
     old "The Apron that Cane gifts his first server. It has been patched up. I should put it on whenever I work in the Tavern. {p} Defense: +8 {p} Lust Resistance: +8 {p} Flirt -4"
-    new ""
-
-    old "Plain Tunic"
     new ""
 
     old "A plain tunic, comfortable to wear but too limpy to provide much protection. {p} Defense: +3 {p} Lust Resistance: +2 {p} Flirt -5."
     new ""
 
-    old "Bandana"
-    new ""
-
     old "A piece of cloth tied around the head of the wearer, usually promises good luck. {p} Defense: +7 {p} Dodge: +5 {p} Flirt -2"
-    new ""
-
-    old "Flowy Robe"
     new ""
 
     old "One of the outfit from Rahim, a soft piece of garment designed for casual settings. {p} Defense: +3 {p} Max MP +20 {p} Flirt -2"
     new ""
 
-    old "Adventurer Armor"
-    new ""
-
     old "One of the outfit from Rahim, a collection of straps designed for those who frequent adventures. {p} Defense: +11 {p} Accuracy +5 {p} Flirt -5"
-    new ""
-
-    old "Tavern Cloth"
     new ""
 
     old "One of the outfit from Rahim...? A piece of Cloth, for cleaning purposes in the Tavern. {p} Defense: +2"
     new ""
 
-    old "Tavern Chaps"
-    new ""
-
     old "One of the outfit from Rahim, an elegantly seamed pants with a hole in the crotch area, apparently for working in the Tavern. {p} Defense: +7 {p} Flirt +5 {p}"
-    new ""
-
-    old "Flowy Wrap"
     new ""
 
     old "One of the outfit from Rahim, a soft piece of garment designed for casual settings. {p} Defense: +3 {p} Flirt +2 {p} Lust Resistance: +10"
     new ""
 
-    old "Adventurer Leggings"
-    new ""
-
     old "One of the outfit from Rahim, a collection of straps designed for those who frequent adventures. {p} Defense: +9 {p} Dodge: +7"
-    new ""
-
-    old "Hunter Hat"
     new ""
 
     old "A hat left by a Hunter in the forest, with a few feathers on the side as a sign of bravery. {p} Defense: +5 {p} Accuracy: +5 {p} Flirt -2"
     new ""
 
-    old "Hunter Attire"
-    new ""
-
     old "The general outfit of a Hunter, Covered the body to prevent being attacked by wild animals. {p} Defense: +8 {p} AGI: +1 {p} Flirt -4"
-    new ""
-
-    old "Hunter Trousers"
     new ""
 
     old "A Normal Trousers worn by a Hunter, with a surprisingly stretchy fly piece... {p} Defense: +6 {p} AGI: +1 {p} Flirt -2"
     new ""
 
-    old "Knight Helmet"
-    new ""
-
     old "A helmet of a renowned knight in the town, framed with pure iron as a sign of honor. {p} Defense: +6 {p} STR: +1 {p} Flirt -5"
-    new ""
-
-    old "Knight Breastplate"
     new ""
 
     old "The breastplate of a knight, the iron structure and welding in its construction boasting a strong and lionhearted will. {p} Defense: +12 {p} Lust Resistance: +8 {p} Flirt -8"
     new ""
 
-    old "Knight Cuisses"
-    new ""
-
     old "A knight's Cuisses customized by the town's oldest blacksmith, it happens to fit you perfectly. {p} Defense: +10 {p} Max HP: +20 {p} Flirt -6"
-    new ""
-
-    old "Sweater"
     new ""
 
     old "The best type of clothing you can wear in winter, keeping wearer warm and fuzzy.{p} Defense: +8 {p} Max HP: +15 {p} Flirt: -4"
     new ""
 
-    old "Flat Bonnet"
-    new ""
-
     old "A stylish headwear, popularised by the academics of the capital.{p} Defense: +6 {p} INT: +1 {p} Max MP: +20 {p} Flirt: -3"
-    new ""
-
-    old "Long Scarf"
     new ""
 
     old "A scarf usually worn around the wearer's neck. Its smart and classy outlook probably grants wearer actual smartness as well.{p} Defense: +2 {p} INT: +2 {p} CHA: +1 {p} Flirt: -2"
     new ""
 
-    old "Dog Collar"
-    new ""
-
     old "A collar made by a farmer dog who specialises in growing plants and boners, wearing the collar renders the wearer property of the farmer.{p}Defense: +9 {p} TEN:+1 {p}Max Lust: +15 {p} Flirt: -2"
-    new ""
-
-    old "Bandit Hood"
-    new ""
-
-    old "A leather hood made from rough stitches, it is the plain bandit's most symbolic headgear, both to obfuscate their identity, and to recognise amongst themselves."
-    new ""
-
-    old "Songweaver Hat"
-    new ""
-
-    old "A stylistic green hat of a renowned bard, decorated with two feathers from a legendary creature roaming on the plains."
-    new ""
-
-    old "Songweaver Cloak"
-    new ""
-
-    old "An eloquent garment of a renowned bard, its silk fabric soaked with the alluring voices of the previous owner."
-    new ""
-
-    old "Songweaver Breeches"
-    new ""
-
-    old "An impassionate leggings of a renowned bard, the stretchy and tight materials wraps around the wearer perfectly to display his charming physique."
     new ""
 
     old "{i}Botanical Journal of Plants In and Around the Dark Forest: Species, Uses, and Dangers{/i}"
@@ -1380,6 +1191,18 @@
     old "To help Ole make his decision to vote, he suggested that we should strike a better trade deal with Gwyddyon through getting to know a secret supplier."
     new ""
 
+    old "Former Acquaintance"
+    new ""
+
+    old "To help Jog make his decision to vote, he requested you to track down Sebas at the night before the vote begins."
+    new ""
+
+    old "One Last Howl"
+    new ""
+
+    old "Vurro and Wuldon are preparing a plan to take revenge on the werewolf alpha, and restore peace in the Dark Forest."
+    new ""
+
     old "Potion Order"
     new ""
 
@@ -1417,5 +1240,11 @@
     new ""
 
     old "Haskell asked me to fetch some herbs for his garden, I should get 10 of those herbs and bring them to him."
+    new ""
+
+    old "Food for thought"
+    new ""
+
+    old "Tart is hungry, I should bring him 5 pieces of meat."
     new ""
 

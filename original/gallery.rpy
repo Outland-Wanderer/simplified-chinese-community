@@ -99,6 +99,9 @@
     old "{color=#000} Winning and Topping the Gnoll{/color}"
     new ""
 
+    old "{color=#000} Joining Pirkka in his Tavern Room{/color}"
+    new ""
+
     old "{color=#000}Losing to Feral Werewolf with 80 Purity{/color}"
     new ""
 

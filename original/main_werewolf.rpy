@@ -11678,12 +11678,1790 @@ translate schinese Vurro_Battle_Win_Without_Wuldon_d03109e2:
     # "You apologize to the person they may have once been, and get up."
     ""
 
+translate schinese Wuldon_Raid_Preparation_21fff687:
+
+    # "Once more, you return to Wuldon's house."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_6422201d:
+
+    # "It seems like Wuldon and Vurro are finally here, if the snoring is anything to go by. Unfortunately, the already deafening snores only seem to be louder than before."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_976fab3b:
+
+    # "It seems like Wuldon and Vurro are done preparing, if the snoring is anything to go by. Unfortunately, the already deafening snores only seem to be louder than before."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_f5a13dc5:
+
+    # "Unlike your prior experiences coming here, Wuldon's door is open, and you make it inside undisturbed."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_0543738e:
+
+    # "Inside, you see Wuldon sharpening his khopesh. For once, he doesn't seem to notice you immediately."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_304ddb0b:
+
+    # "Sneaking closer, you see that the werewolf's ears are stuffed with a copious amount of wax, clearly having lost his patience long ago, wariness be damned."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_b739524a:
+
+    # "A wicked grin comes over your face as you realize you can finally exact revenge on him."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_e02d1bf6:
+
+    # "You creep closer and closer, stopping only when you're worried your breath may alert him to your presence. The range should be sufficient for what you want to do, however."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_86dbb6ad:
+
+    # "Foregoing stealth, you strike out like a snake, putting your hands on Wuldon's shoulders to spook him."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_11e81b49:
+
+    # "Unfortunately for you, rather than jump in surprise, Wuldon turns and gets up in the same action while slamming his hand into your throat."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_8dd810d4:
+
+    # "Moving on pure instinct, the werewolf shoves you against the wall, where he holds you by only your neck."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_bb24a058:
+
+    # "His teeth are bared in a snarl, his muscles bulging as his body tenses. Looking into his eyes, you see nothing of the blue werewolf you know - there is only the rage and fear of a cornered animal."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_108929ec:
+
+    # "You try to yell for him to stop, but his hand against your throat prevents any coherent sound from escaping your lips."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_2740ff67:
+
+    # "After a few moments spent fearing for your life, you see the blue werewolf's eyes begin to clear."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_985f8efc:
+
+    # "Immediately, he removes his hand from your throat and takes two steps back. The rage is gone, but the fear remains."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_bcbe3072:
+
+    # "It's entirely likely that you're mistaken, given your own sorry state, choking and spluttering as you sag against the wall."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_9b0cbf0a:
+
+    # w "Are yo-"
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_04002640:
+
+    # "Wuldon realizes his voice sounds odd after only moments, taking a little longer to realize the cause. He begins speaking once more the instant he removes the wax from his ears."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_f1660eb3:
+
+    # w "Are you okay, [e]? If you're hurt, can I help you?"
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_4d67f0a8:
+
+    # "You shake your head, but realize he doesn't know what you're saying no to."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_a017da02:
+
+    # e "No, I'm- {i}HRRK{/i}."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_d81dea2f:
+
+    # e "I'm-"
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_e7e3e42a:
+
+    # "You shove down the wretch that threatens to wrack your body."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_5b1bac77:
+
+    # e "I'm fine."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_5a6ad20f:
+
+    # w "Is it okay for me to come over to you?"
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_ba1b65d4:
+
+    # "As soon as you nod your head, Wuldon comes over to check on you, looking at your throat and back for any signs of bruising."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_54b3ec42:
+
+    # w "Thank god, you're alright."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_eed5985a:
+
+    # w "I don't know what I would have done if I had hurt you."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_78e0cd98:
+
+    # "Before you can process his words, Wuldon grabs you and pulls you into a deep hug that buries your head into his chest."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_62381748:
+
+    # "His hands reach upwards tentatively. When you hug him back, he begins doing what he was holding himself back from, rubbing the back of your head and middle of your back gently with his hands."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_cd9b7ee8:
+
+    # "The two of you stay like that for a good while. You say nothing, worried that doing so will end the moment."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_890e711e:
+
+    # "It is only when the two of you realize that the snoring has stopped that you break off the hug."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_bc683c60:
+
+    # w "I told you to always be on guard, but seem to have forgotten to do so myself."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_5a3c75a0:
+
+    # "Wuldon scratches the back of his head awkwardly."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_303c1895:
+
+    # w "Sorry about choking you like that."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_4e806cc8:
+
+    # w "At least it teaches the lesson of training your body to react to any threat instinctively?"
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_95a003b0:
+
+    # "He says this with a weak grin, fully knowing he's fucked up, and that there is no lesson here."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_bf379737:
+
+    # e "It's fine, though you may not want to kill me before we kill Uffe. It would be a bit unfortunate for both of us."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_8c500918:
+
+    # "You get an awkward chuckle at that."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_c5b09aec:
+
+    # "When it ends, you both sit in silence."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_a20cefa7:
+
+    # "..."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_e596ab7c:
+
+    # "It takes a bit for the two of you to realize that the house should not be silent."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_db95cb0e:
+
+    # "The two of you look over at Vurro, who is staring at the two of you owlishly."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_25e24d81:
+
+    # "You have no idea how much he saw or heard, and it seems neither does Wuldon."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_ad63c30e:
+
+    # v "Good morning to you too."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_5ff4db97:
+
+    # "Regardless of whatever he just witnessed, the brown werewolf seems to care not, slipping out of bed to grab some breakfast from a shelf."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_52f9d9bb:
+
+    # w "Hey! Who said you could use the good jams?"
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_469368ad:
+
+    # "Vurro gives Wuldon a blank shrug."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_e0e7cdbd:
+
+    # v "Mm. You woke me up. Compensation."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_a986f054:
+
+    # "It's at around this moment that the two of you realize Vurro is still half-asleep. He pulls out a seat for himself, dropping the food - sliced bread with jam - haphazardly on the table."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_6953253d:
+
+    # e "Do you mind if I sit down with you?"
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_9d19871d:
+
+    # v "Mm."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_0bf7f6a1:
+
+    # "That and a shake of the head are all you get. Looking at Wuldon at your side, he gives you a shrug, pulling out a seat for himself to sit at."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_43c46987:
+
+    # e "I'll take that as permission."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_c331b1cb:
+
+    # "Grabbing a chair of your own, you sit down on Wuldon's surprisingly well made furniture."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_4c9a9a28:
+
+    # e "I'm here to talk about what we're going to do about Uffe."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_c3d00f99:
+
+    # "Both werewolves look at you in surprise, the shock of it waking Vurro up completely."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_04ac2166:
+
+    # v "I'm surprised you're the one bringing it up, I thought you wouldn't want to do this?"
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_818658d1:
+
+    # "You give them a nod."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_34a93879:
+
+    # e "I don't. But I know I have to. We've talked about it, and it's the only way for me to live."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_a551429d:
+
+    # e "It doesn't hurt that it helps the werewolves and you either."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_9ec4829f:
+
+    # v "Well. I'm glad that you want to help."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_08f695f4:
+
+    # "The three of you wait in silence."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_57946dce:
+
+    # e "Do you, um. Do - Please tell me you have a plan."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_c5114c57:
+
+    # "This draws amused looks from the two werewolves sitting across from you."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_643e009c:
+
+    # v "Yes, we have a plan."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_a5653b1e:
+
+    # v "It's dangerous, and you'll have to play an important role, but it's a plan."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_207e90a7:
+
+    # "A shiver goes down your spine."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_63adcbc7:
+
+    # e "How dangerous are we talking?"
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_7164eb9f:
+
+    # "Vurro gives you a toothy grin."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_d6234bd6:
+
+    # v "You'll be the one killing Uffe. Us two will handle fighting off the werewolves."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_79bdd535:
+
+    # "You raise an eyebrow at Vurro."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_08453a48:
+
+    # e "Isn't fighting Uffe the most dangerous part?"
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_be6eaef4:
+
+    # v "Normally I'd say yes, but when you weigh fighting Uffe alone versus fighting fifteen werewolves at once, it's not as clear."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_f83332b2:
+
+    # e "Ah. I see your point."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_e0c817cb:
+
+    # "You fall back into silence."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_fa647a68:
+
+    # e "Can I get something more detailed though?"
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_f549a1b4:
+
+    # "Wuldon nods your way, not teasing you for your impatience for once."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_cf510150:
+
+    # "It seems he's not in the mood to mess around."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_f46d85d9:
+
+    # w "To lay the groundwork, our plan will start at 9:30 pm, with you inside of the tribe's grounds, and us watching from as far away as possible."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_5712cd6d:
+
+    # w "The tribe has developed the tradition of hunting together at 9 pm every night. It's only about half the tribe that will leave, but if we want our plan to succeed, that is when we must start."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_7978658d:
+
+    # "Wuldon's explanation is somewhat cryptic, as it feels like he expects you to understand the reason behind everything he's doing."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_9b010b55:
+
+    # "Helpfully, Vurro pipes up."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_dcdcb6d5:
+
+    # v "We don't plan on fighting everyone that stays, but the less people nearby, the better our odds."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_74285f01:
+
+    # "The smaller werewolf nods to Wuldon, telling him to keep going. The only reason Vurro isn't explaining is probably the breakfast he's tiredly working through."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_1570d227:
+
+    # w "The actual plan itself is roughly as follows."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_e689ec34:
+
+    # "The werewolf takes a deep breath, working past some sort of hesitation."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_424ce986:
+
+    # w "At around 9:30 in the morning, you'll go talk to Uffe and tell him you've been exploring for a while - make it clear you haven't been in town for about a week."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_916ecb04:
+
+    # "You raise your hand to interrupt and ask a question."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_00b7fb0d:
+
+    # e "Why would he believe that? If he wants to get rid of me, he'll have been monitoring me, putting this entire plan in jeopardy."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_b9cccaf0:
+
+    # e "Do you have anything planned for that?"
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_d1821189:
+
+    # "Both werewolves give you an appreciative look."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_08bed904:
+
+    # w "Frankly, we don't need to have anything planned."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_d89b2aaa:
+
+    # w "Uffe relies heavily on his sense of smell, so as long as we get the smell of Lusterfield off of you, he should be fooled. I'll let you use my bath so that you don't have to go into the river."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_04dc03d2:
+
+    # "That made sense, up until you remember an important fact about Wuldon's house."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_f74eb203:
+
+    # e "You have a bath? I've looked all over your house, and found nothing like that."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_3f7361af:
+
+    # "Wuldon briefly looks over at you, opening his mouth as if to tease you, before thinking better of it. It seems it is not the time for flirting."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_82824cc3:
+
+    # w "Yes, I have a bath. It's a few minutes away, and known only to Vurro and I."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_b3a53623:
+
+    # "Calling it 'his bath' when it was in the middle of nowhere was a bit generous, but that at least explained why you hadn't found it."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_d10ff3dd:
+
+    # w "The plan depends entirely on Uffe being the bastard we think he is. If he doesn't try to capitalize on what he thinks is a moment of weakness, we can't kill him, and maybe shouldn't kill him."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_4a140592:
+
+    # w "Regardless. After you tell him where you're going, he's most likely going to tail you with a few werewolves of his own."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_acdb9b22:
+
+    # w "As soon as you get somewhere he thinks he can get rid of you quietly, he'll go for it."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_b91af3d6:
+
+    # "So far, this plan is just you inviting Uffe to come over and kill you. If this is it, you're going to beat them over the head with the nearest blunt object."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_1d77287e:
+
+    # w "Before he can do that, Vurro will ambush him."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_2883f898:
+
+    # "Much better."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_a6f6dbaa:
+
+    # e "And you? Your role isn't very clear to me."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_b445135d:
+
+    # "The blue werewolf shrugs his shoulders."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_dc2219da:
+
+    # w "You won't be completely isolated. Uffe is too impatient for that, and if he isn't, that's not a bet we're willing to take."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_1d19ec3c:
+
+    # w "Your safety is priority number one. In order to help with that, my job is to incapacitate any werewolves that try and interfere."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_b7e62f2d:
+
+    # "Holding a massive perimeter against most of a tribe sounds outright insane, but he's given you reason enough to trust his abilities."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_c2bed032:
+
+    # "Wuldon leaves things at that, clearly seeing the debriefing as done, but Vurro pipes up again to clarify things further."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_0d84cfb0:
+
+    # v "Our job is made harder by the need to kill Uffe and {i}only{/i} Uffe. None of the other werewolves we fight are to be permanently injured or killed."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_86ff8f59:
+
+    # "Vurro looks slightly irritated as he says that. When he sees you looking askance, he elaborates."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_2255d0eb:
+
+    # v "It is far easier to kill someone than knock them out. Because of that, I likely won't be able to help you very much with Uffe."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_77839fc1:
+
+    # v "It's also just a bit frustrating to see his lack of morality give him an edge over me. Again."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_0ff8a076:
+
+    # "The brown werewolf smiles weakly at you, clearly wishing he didn't have to rely on others for help with his plan - that he were strong enough to do it on his own."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_8e312e45:
+
+    # v "While I don't think I'll be able to help you with my brother, I can at least promise to take care of the werewolves he brings with him."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_b755593f:
+
+    # "Fighting Uffe alone sounds extremely dangerous, but it's definitely better than any of the alternatives. Fighting anything more than two werewolves at once sounds like a death sentence."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_c1acc942:
+
+    # e "I understand, and thank you for having my back."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_ca08c8f9:
+
+    # "This did kind of suck, but it was the kind of awful you could work with. Plus, you couldn't exactly complain when he looked so guilty about it."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_ccbedada:
+
+    # e "Alright. That doesn't sound terrible. Better than anything I'd thought up anyways."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_5e1afb4b:
+
+    # "Wuldon looks up with a bit too much interest."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_6a715b57:
+
+    # w "Really? I want to hear your plans."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_f1abb92c:
+
+    # "The corners of the werewolf's lips are twitching slightly as he does his best to look genuine, and not at all mischievous. It only makes you raise an eyebrow at him."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_021b4f61:
+
+    # e "I'm not falling for that."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_c3ccb3ab:
+
+    # "Maybe you'd believe him if he didn't look like he was holding back a laugh. Then again, there was also something off with it this time."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_0dc5d33a:
+
+    # "The blue werewolf chuckled softly, acting greatly amused by your response."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_17b3ea4c:
+
+    # w "It seems you're learning! More than what I could say for a certain someone."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_9d5f3613:
+
+    # "Wuldon gently nudged the smaller werewolf to his right, who gave him a half-hearted kick to the shins in return."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_c5d436a6:
+
+    # v "I've learned. I only indulge you out of pity."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_6af8d962:
+
+    # "The two werewolves stare at each other with fake anger, only to snort at their shared gag."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_29939b8e:
+
+    # "Unlike normal, however, their laughter rings hollow."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_c5fd2ece:
+
+    # v "I wish we had more time, or that we didn't have to do this… but I wasn't supposed to get this second chance in the first place."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_664f3430:
+
+    # v "And I'm not going to let it go to waste."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_4ea698fa:
+
+    # "Vurro lets out a long sigh as Wuldon pats him on the back. However much both of them try and laugh it won't truly make them feel better."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_e9f7f26f:
+
+    # v "Thank you for being with me for this, both of you."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_55cd34b1:
+
+    # "You and Wuldon exchange a somewhat concerned glance."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_a1d3f842:
+
+    # e "Well, of course I'm here! You already know I need to do this if I want to stay safe."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_2f1793b5:
+
+    # "Wuldon only lets out a deep rumble, his thoughts on the matter not even needing to be stated."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_c9999b47:
+
+    # "Vurro gives you both a weary smile."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_db2fcfd4:
+
+    # v "I suppose I had no reason to worry, then."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_77e0494a:
+
+    # "Despite his words, Vurro is practically trembling from a mix of fear and anticipation."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_afd63cec:
+
+    # "The shaking stops when Wuldon places a giant hand on Vurro's shoulder."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_b13eb421:
+
+    # w "It's alright. We all know our parts of the plan, so why don't we all take some time to rest, and prepare ourselves before the fight?"
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_613b0ce8:
+
+    # "Wuldon projects unwavering confidence, cutting any rising worries from growing further."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_c506ae6f:
+
+    # "Despite his best attempts, however, both you and Vurro see the way his muscles twitch as he tries to keep his unease from surfacing."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_65cabcbf:
+
+    # v "..."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_8ed05974:
+
+    # v "Alright."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_15b7e780:
+
+    # "The tired werewolf lifts his gaze up off the table to look at you."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_15d690e9:
+
+    # v "You'll need to be here by 8:00 in the morning so you can bathe before we start our plan. I'll be setting up everything you need for it in the meanwhile."
+    v ""
+
+translate schinese Wuldon_Raid_Preparation_97f6ba80:
+
+    # "What might take hours to prepare for a bath, you have no idea."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_d7c55800:
+
+    # "But you do get the feeling Vurro wants to have one last talk with you before you go."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_0eeb7a9f:
+
+    # e "I'll be there."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_15d50247:
+
+    # "Wuldon looks like he wants to say something to you, but seems to settle for moving over to you for a warm hug."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_d3772696:
+
+    # "You feel a brush of warm air by your ear as he moves his head down next to yours."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_7b22e699:
+
+    # w "Stay safe, little one."
+    w ""
+
+translate schinese Wuldon_Raid_Preparation_ad7f472e:
+
+    # "The unguarded worry in his voice makes you hug him back a bit harder than normal."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_7fe50e7e:
+
+    # e "You too."
+    e ""
+
+translate schinese Wuldon_Raid_Preparation_daf396d3:
+
+    # "After a few more moments spent holding each other, the two of you separate reluctantly."
+    ""
+
+translate schinese Wuldon_Raid_Preparation_8d5bac6c:
+
+    # "With nothing else to say, you turn around and head out, leaving the two werewolves to their preparations."
+    ""
+
+translate schinese Wuldon_Raid_Planning_46bb9529:
+
+    # "As you approach Wuldon's house, you hear a sharp ringing noise, which you recognize as the sound of a whetstone on a blade."
+    ""
+
+translate schinese Wuldon_Raid_Planning_047bdbee:
+
+    # "Sure enough, when Wuldon's house comes into view you see the blue werewolf at his doorstep, ritually sharpening his khopesh."
+    ""
+
+translate schinese Wuldon_Raid_Planning_fd9ed4d6:
+
+    # "As always, Wuldon notices you instantly, putting aside his weapon and calling for Vurro to come out front."
+    ""
+
+translate schinese Wuldon_Raid_Planning_39948cfb:
+
+    # "Wuldon turns to you with a mischievous grin."
+    ""
+
+translate schinese Wuldon_Raid_Planning_e60919e6:
+
+    # w "He's preparing the bath for you right now."
+    w ""
+
+translate schinese Wuldon_Raid_Planning_2435586c:
+
+    # "His grin turns to a small chuckle as Vurro comes into view, sopping wet and thoroughly unamused."
+    ""
+
+translate schinese Wuldon_Raid_Planning_aa5ae1af:
+
+    # v "I think [e] could have figured that out on his own, Wul."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_e79356ee:
+
+    # v "Just because you won the spar to determine who would do it doesn't mean you have to crow about it whenever you have the chance."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_043a2ed7:
+
+    # "Vurro pauses to shake some of the water out of his fur, making sure to catch Wuldon in the spray as the latter attempts to bat him away with his paw."
+    ""
+
+translate schinese Wuldon_Raid_Planning_3ff1a614:
+
+    # "The incident ends with two slightly wet werewolves grinning at each other, both pausing as they see your bemused expression."
+    ""
+
+translate schinese Wuldon_Raid_Planning_792b83cd:
+
+    # e "And here I thought you two were in a bad mood?"
+    e ""
+
+translate schinese Wuldon_Raid_Planning_6d79e77e:
+
+    # "Both werewolves wave you off, clearly dismissive of the thought."
+    ""
+
+translate schinese Wuldon_Raid_Planning_58fe8cdb:
+
+    # v "We had to be serious while we discussed the plan earlier - killing my brother is no small thing, and it deserves both focus and respect."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_695224e5:
+
+    # v "And yes, even now, we haven't forgotten the gravity of the task before us."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_64dba1c5:
+
+    # v "But we are all friends, and friends who may not get to spend time together again."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_844135ab:
+
+    # "You hadn't noticed it at first, but hidden under the joy writ across their faces was also the pain of knowing that tomorrow would always come, with or without the people by your side."
+    ""
+
+translate schinese Wuldon_Raid_Planning_9dc9f894:
+
+    # v "We can talk about the task to come, or anything else. But I'd like to do it as friends."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_9168755d:
+
+    # "His voice falters slightly as he struggles to finish his request."
+    ""
+
+translate schinese Wuldon_Raid_Planning_740fd211:
+
+    # v "It might be selfish, but I want your last memory of me to be a good one. I want to be remembered for who I was, not for what is going to happen."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_99b65af4:
+
+    # "By the end, Vurro had his hands clasped together nervously, struggling to keep the smile on his face in the silence following his request."
+    ""
+
+translate schinese Wuldon_Raid_Planning_f19b9ae7:
+
+    # "You reach out to Vurro before you even realize what you're doing, putting your hand on his shoulder and looking him in the eyes."
+    ""
+
+translate schinese Wuldon_Raid_Planning_733e72f8:
+
+    # e "Of course. I want to cherish whatever time we have left together."
+    e ""
+
+translate schinese Wuldon_Raid_Planning_a972a0a7:
+
+    # "Before you could figure out anything else to say, Wuldon wrapped the two of you up in a hug, nuzzling his head against Vurro's."
+    ""
+
+translate schinese Wuldon_Raid_Planning_f19b9ae7_1:
+
+    # "You reach out to Vurro before you even realize what you're doing, putting your hand on his shoulder and looking him in the eyes."
+    ""
+
+translate schinese Wuldon_Raid_Planning_733e72f8_1:
+
+    # e "Of course. I want to cherish whatever time we have left together."
+    e ""
+
+translate schinese Wuldon_Raid_Planning_0eba7b22:
+
+    # "Before you could figure out anything else to say, Wuldon wrapped the two of you up in a hug, nuzzling his head against Vurro, before turning to you, hesitating slightly before planting a soft kiss between your ears."
+    ""
+
+translate schinese Wuldon_Raid_Planning_6ca4b64c:
+
+    # "The silence didn't end for a while, as you struggled to form a response."
+    ""
+
+translate schinese Wuldon_Raid_Planning_c71253fb:
+
+    # e "I can't say I deserve the honour the same way Wuldon does, but I am happy to make more memories with a new friend."
+    e ""
+
+translate schinese Wuldon_Raid_Planning_578c01d9:
+
+    # "In response to your words Wuldon gets up and wraps him in a hug that lifts his feet off the ground."
+    ""
+
+translate schinese Wuldon_Raid_Planning_2d36e6c6:
+
+    # w "Like I said when you asked me this earlier, it was always going to be a good memory - it's a memory of you, after all."
+    w ""
+
+translate schinese Wuldon_Raid_Planning_b1be4d16:
+
+    # "So saying, Wuldon lets go of Vurro, though he still keeps his arm around your shoulders, pressing you close protectively. "
+    ""
+
+translate schinese Wuldon_Raid_Planning_07d049e7:
+
+    # "You look up at the werewolf next to you, preparing to tease him - but as you open your mouth, you hesitate, taken aback by the strange look on his face."
+    ""
+
+translate schinese Wuldon_Raid_Planning_59b65f4a:
+
+    # "So saying, Wuldon lets go of Vurro. A strange expression on face."
+    ""
+
+translate schinese Wuldon_Raid_Planning_b271614f:
+
+    # "Wuldon's expression was one caught between joy and grief, a melancholy smile paired with eyes that glinted with mirth."
+    ""
+
+translate schinese Wuldon_Raid_Planning_36e00c80:
+
+    # "It reminded you that even when you first found him, at the depths of despair, he had not lost his humor."
+    ""
+
+translate schinese Wuldon_Raid_Planning_08d057b4:
+
+    # w "Let's make it the best memory we can."
+    w ""
+
+translate schinese Wuldon_Raid_Planning_c682a240:
+
+    # "He looks at you significantly, urging you to speak."
+    ""
+
+translate schinese Wuldon_Raid_Planning_47a3c3cb:
+
+    # e "You'll hear no complaints from me."
+    e ""
+
+translate schinese Wuldon_Raid_Planning_a71a09de:
+
+    # "Rolling his eyes at your choice of words, Wuldon reached over and wrapped his arms around."
+    ""
+
+translate schinese Wuldon_Raid_Planning_beb790e4:
+
+    # "Instinctually, you reach out and grab hold of the two werewolves, reciprocating the hug."
+    ""
+
+translate schinese Wuldon_Raid_Planning_854cd354:
+
+    # "It took you a while to realize that this was as much a hug as it was an excuse for Wuldon to hold the two of you and protect you while he still could."
+    ""
+
+translate schinese Wuldon_Raid_Planning_66fcb251:
+
+    # "You can't help but laugh at the werewolf's actions."
+    ""
+
+translate schinese Wuldon_Raid_Planning_a8f3360b:
+
+    # e "Alright, fine. I'll outright say it."
+    e ""
+
+translate schinese Wuldon_Raid_Planning_3ffa08e2:
+
+    # "As you speak, you wrap one arm around Vurro, and the other around Wuldon."
+    ""
+
+translate schinese Wuldon_Raid_Planning_fcfe59df:
+
+    # e "However much I want to get rid of Uffe, I also want to treasure the little time we've got remaining."
+    e ""
+
+translate schinese Wuldon_Raid_Planning_e0462c63:
+
+    # "You let out a small sigh at the pair of silly werewolves' antics."
+    ""
+
+translate schinese Wuldon_Raid_Planning_57563c65:
+
+    # "Still, it's hard not to like them, and at the end of the day, they were looking out for you just like you were looking out for them."
+    ""
+
+translate schinese Wuldon_Raid_Planning_6a938a64:
+
+    # "Even if part of the reason you were helping them was to avoid death."
+    ""
+
+translate schinese Wuldon_Raid_Planning_5cd3bc60:
+
+    # e "You could have just asked, and I'd have come over for a hug."
+    e ""
+
+translate schinese Wuldon_Raid_Planning_16822830:
+
+    # "Despite the grouchiness of your tone, you turn to properly hug the two of them. Well, you try to - your hand can't really reach very far across Wuldon's back."
+    ""
+
+translate schinese Wuldon_Raid_Planning_fccd6211:
+
+    # w "This was more fun."
+    w ""
+
+translate schinese Wuldon_Raid_Planning_3e949822:
+
+    # "The blue werewolf began to laugh as you grumbled good naturedly, a sound that snapped Vurro out of his temporary funk."
+    ""
+
+translate schinese Wuldon_Raid_Planning_526cd56e:
+
+    # e "Vurro, do you have any tips for fighting Uffe? I was told that you've fought him a few times before, and I need any edge I can get."
+    e ""
+
+translate schinese Wuldon_Raid_Planning_a49932c3:
+
+    # "Vurro nodded genially, while Wuldon walks over to his station to prepare for his weapon."
+    ""
+
+translate schinese Wuldon_Raid_Planning_e8fdcc9b:
+
+    # v "I was actually planning on covering that with you one on one. It would be good for us to spar so that I had some idea of your fighting abilities."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_5394633d:
+
+    # v "Not trying to judge your battling skills, you know."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_356f6c62:
+
+    # "Vurro's reassuring you, but the raised corners of his mouth tells you otherwise."
+    ""
+
+translate schinese Wuldon_Raid_Planning_095fec1b:
+
+    # e "I wasn't thinking that."
+    e ""
+
+translate schinese Wuldon_Raid_Planning_5747412e:
+
+    # v "You've already beaten my feral self, the state that I'm in right now is definitely not stronger in any plane of existence."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_c57ed65c:
+
+    # e "Vurro, you just woke up, are you sure you want to spar with me? If anything I have this little blue werewolf over here to train with."
+    e ""
+
+translate schinese Wuldon_Raid_Planning_9d47222f:
+
+    # v "Heh I don't doubt that, but I have to face Uffe with you too, I suppose sparring before our bath would prove useful to prepare for."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_b13a6984:
+
+    # "Vurro furrows his brows as he inspects the sharp hooks on his hand. A sense of bewilderment can be sensed on his face."
+    ""
+
+translate schinese Wuldon_Raid_Planning_85116716:
+
+    # e "No objection from me."
+    e ""
+
+translate schinese Wuldon_Raid_Planning_d5536a3c:
+
+    # w "Me neither."
+    w ""
+
+translate schinese Wuldon_Raid_Planning_3018f92b:
+
+    # "The blue werewolf replies from afar."
+    ""
+
+translate schinese Wuldon_Raid_Planning_1bdc367d:
+
+    # v "Good, though I didn't remember asking the big lug over there."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_541fc1ed:
+
+    # w "Hmmm... just don't get yourselves caught before I sharpened my weapon."
+    w ""
+
+translate schinese Wuldon_Raid_Planning_030ff95a:
+
+    # v "Oh don't you worry, in [e]'s hand I'm just safer than you can ever imagine."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_3b0f9408:
+
+    # v "Look at thes-"
+    v ""
+
+translate schinese Wuldon_Raid_Planning_5eedb9ae:
+
+    # "Vurro raises his nails, his twinkly eyes doesn't hide his own struggle to stay awake, with scrawny furs all over the place."
+    ""
+
+translate schinese Wuldon_Raid_Planning_8b8cba2c:
+
+    # "Wuldon seems to have noticed, his smile fades almost instantly, turning back and focusing on his weapon instead."
+    ""
+
+translate schinese Wuldon_Raid_Planning_066a70f7:
+
+    # "Without another word, you follow the brown werewolf from the slumbrous well."
+    ""
+
+translate schinese Wuldon_Raid_Planning_ef0cfba4:
+
+    # e "What if they somehow come here and spot you? Will Uffe know?"
+    e ""
+
+translate schinese Wuldon_Raid_Planning_a9ea3ee4:
+
+    # v "Nope, no trace or smell of any other werewolves around. We're safe out here. Uffe doesn't even know Wuldon."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_02eeca3f:
+
+    # v "Actually, I never expected one day this little paradise between me and Wuldon had turned into a hiding place."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_980be4f8:
+
+    # v "Much much before everything changed, our father had me and Uffe playing hunting games. And at first, we both had a lot of fun."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_12674db8:
+
+    # v "We-"
+    v ""
+
+translate schinese Wuldon_Raid_Planning_3bc1cd65:
+
+    # "Vurro stutters for a moment. His gaze hangs ahead."
+    ""
+
+translate schinese Wuldon_Raid_Planning_92c50bde:
+
+    # v "Maybe I spoke too fondly of a person who just tried to doom me into eternal rampage. Sometimes, I just wonder if I could have done something before our relationship became so strained."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_492ee07d:
+
+    # e "I don't believe you could've done anything, he is just going to end up being evil, in another way."
+    e ""
+
+translate schinese Wuldon_Raid_Planning_cad41845:
+
+    # v "Could be. You're right. There's no use reminiscing the person we're planning to kill right now."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_325e3079:
+
+    # "Vurro silently walks ahead. You follow him to an opening enveloped by the forest."
+    ""
+
+translate schinese Wuldon_Raid_Planning_dc1e3bb9:
+
+    # v "There it is."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_31d5e8c5:
+
+    # "Vurro pulls up his poncho, stretches his jaws while kicking against the dirts to get a feel of the ground."
+    ""
+
+translate schinese Wuldon_Raid_Planning_7c6269c5:
+
+    # "He turns around and faces you."
+    ""
+
+translate schinese Wuldon_Raid_Planning_db74b728:
+
+    # v "Let's do it."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_3d4058fc:
+
+    # e "Hey, Vurro. Are you really sure we've got to fight? You seem... sleepy."
+    e ""
+
+translate schinese Wuldon_Raid_Planning_08cb7ac2:
+
+    # v "Fighting helps me stay awake. Come on."
+    v ""
+
+translate schinese Wuldon_Raid_Planning_2a98a35f:
+
+    # "Vurro raises his fist at you, his legs extends into a stable position. The fight is on."
+    ""
+
+translate schinese Wuldon_Raid_Bath_5eb33895:
+
+    # v "I could've turned into the monster and killed you."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_8630efcb:
+
+    # e "And I'm still alive."
+    e ""
+
+translate schinese Wuldon_Raid_Bath_9ce0a612:
+
+    # "You says, but quickly lower your head, obviously you don't want your friend to transform in front of you, but right now it almost seems like a certainty, the matter is just when."
+    ""
+
+translate schinese Wuldon_Raid_Bath_3d09a3ae:
+
+    # v "Fuck, why do this even happen. Why can't we just be normal for once."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_90debe36:
+
+    # "Vurro mumbles underneath his breath, he squints his eyes shut forcefully, just to open once more."
+    ""
+
+translate schinese Wuldon_Raid_Bath_ac3de491:
+
+    # e "Vurro, I- I'm here for you. Wuldon is too."
+    e ""
+
+translate schinese Wuldon_Raid_Bath_28ef8886:
+
+    # "The brown werewolf blinks, almost like he's snapped back into reality. He slouches against the tree, struggling to stand."
+    ""
+
+translate schinese Wuldon_Raid_Bath_106b6d00:
+
+    # v "I'm sorry."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_c0a26f6e:
+
+    # "You stand, and pulls up the werewolf as he rises. In spite of his short of breath, he doesn't bother more than he's worried."
+    ""
+
+translate schinese Wuldon_Raid_Bath_1516fe5b:
+
+    # "He takes a couple seconds to look around, peering ahead between trees and bushes."
+    ""
+
+translate schinese Wuldon_Raid_Bath_e459ac00:
+
+    # v "But, we're fine now. So, that's a relief."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_60ebced8:
+
+    # e "Are you sure?"
+    e ""
+
+translate schinese Wuldon_Raid_Bath_ebda40ce:
+
+    # v "Yes, I'm not dead yet."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_d1b337b8:
+
+    # "It's painful having to watch your friend slowly descend into the monstrous form, powerless to the inevitability. Maybe there's a light at the end of this dark tunnel, but you doubt it."
+    ""
+
+translate schinese Wuldon_Raid_Bath_d9047e53:
+
+    # "But the brown werewolf quickly picks up on your lowered head, Vurro's brows relax immediately, he just seems much less distressed than you do."
+    ""
+
+translate schinese Wuldon_Raid_Bath_4d825470:
+
+    # v "Come on, little one. The bath's getting cold."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_3df49146:
+
+    # "He extends a faint smile, before heading back."
+    ""
+
+translate schinese Wuldon_Raid_Bath_f4719cb5:
+
+    # v "By the way, your fighting abilities are certainly impressive to say the least. I've not seen many folks who can hit me. You've got me good there."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_4d1ca626:
+
+    # v "By the way, your fighting abilities are certainly impressive to say the least. If not for my... feral strength, you might as well beat me up there."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_8fd3de33:
+
+    # e "Thank you, Vurro."
+    e ""
+
+translate schinese Wuldon_Raid_Bath_557001cb:
+
+    # v "I'm confident we'll take him down, that I have no doubt."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_a0bae689:
+
+    # "You anticipate the next sentence from Vurro, but he seems to have stuck in his thought once more."
+    ""
+
+translate schinese Wuldon_Raid_Bath_da11e703:
+
+    # "Towards the path back, it's almost all silence, Vurro does not utter a word, and you don't even dare to speak."
+    ""
+
+translate schinese Wuldon_Raid_Bath_93500769:
+
+    # "But soon, you two cross the well. Wuldon waves at you from afar, unknowing that his friend almost died in a fight ten minutes ago."
+    ""
+
+translate schinese Wuldon_Raid_Bath_bbc12a5a:
+
+    # "Vurro waves back, and you follow suit, passing the blue werewolf a wobbly smile."
+    ""
+
+translate schinese Wuldon_Raid_Bath_06cb388f:
+
+    # v "So, this is the bath. Very primitive I know. But just enough to cleanse the scents on you for a while."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_7dd4ed3a:
+
+    # "He points at the wooden tub situated just near the well. The water is steaming with white mist, seemingly just carried out by Wuldon."
+    ""
+
+translate schinese Wuldon_Raid_Bath_64115b5e:
+
+    # "You notice a few strips of herbs scattered on the surface of the water. With a piece of towel that Vurro picks up lazily."
+    ""
+
+translate schinese Wuldon_Raid_Bath_c3cff024:
+
+    # e "Am I supposed to be sitting in there?"
+    e ""
+
+translate schinese Wuldon_Raid_Bath_a6c188d9:
+
+    # v "Yeah, and you need to take off your clothes too. Do that separately if you want to keep your clothes dry."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_c18ca12c:
+
+    # "You nod, though how many times you've been through this, it's still embarrassing to strip naked in front of Vurro, despite how many times you've been that way."
+    ""
+
+translate schinese Wuldon_Raid_Bath_8653c8f4:
+
+    # e "O-okay."
+    e ""
+
+translate schinese Wuldon_Raid_Bath_528c6e53:
+
+    # "His gaze is still onto you and your clothes, which makes it much more difficult."
+    ""
+
+translate schinese Wuldon_Raid_Bath_78653ea8:
+
+    # v "Relax, I swear I won't tell Wuldon I saw your private part earlier than he does."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_731bf2ab:
+
+    # "The brown werewolf jokes, and it doesn't ease you anyhow. So you stand staring at him."
+    ""
+
+translate schinese Wuldon_Raid_Bath_aa0759b8:
+
+    # v "I'm gonna see that when you're done stripping anyway."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_797b2501:
+
+    # "Vurro sighs as the pair of eyes gazing in your direction quickly tilts away as he turn on his back."
+    ""
+
+translate schinese Wuldon_Raid_Bath_95a0c4e7:
+
+    # "You continue taking off your clothes, one by one until you're bare naked."
+    ""
+
+translate schinese Wuldon_Raid_Bath_2982540c:
+
+    # e "Done."
+    e ""
+
+translate schinese Wuldon_Raid_Bath_5e474a28:
+
+    # v "Alright then, now get in there."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_4977ff11:
+
+    # "You lift your leg up, just enough to step onto the ledge of the wooden tub. Then you leap through with the other leg, dropping leg first into the water."
+    ""
+
+translate schinese Wuldon_Raid_Bath_afd7a57d:
+
+    # "Submerged inside the heating water, you take a few seconds to get used to the heat."
+    ""
+
+translate schinese Wuldon_Raid_Bath_ffb1df39:
+
+    # v "How's the bath? Feeling the scent leaving you yet?"
+    v ""
+
+translate schinese Wuldon_Raid_Bath_c78dec6b:
+
+    # e "I think it's my fur that's leaving my skin right now."
+    e ""
+
+translate schinese Wuldon_Raid_Bath_3b810813:
+
+    # "Vurro pinches your shoulders, brushing his claws against the wet fur."
+    ""
+
+translate schinese Wuldon_Raid_Bath_b2eda857:
+
+    # v "Huh, you will get used to the heat, don't worry."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_6bdda18b:
+
+    # v "Scream if it's really hot though."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_c751618f:
+
+    # "He lifts a wooden ladle from the side, then scoop up some water before pouring onto the back of your neck."
+    ""
+
+translate schinese Wuldon_Raid_Bath_0a1c0a92:
+
+    # e "Thanks, Vurro, for preparing the bath."
+    e ""
+
+translate schinese Wuldon_Raid_Bath_3c81fdd9:
+
+    # v "Look, I'm not gonna die soon so you can save these gratitude for when we actually fight my brother."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_e9377419:
+
+    # "He places his elbow onto the edge of the wooden tub, before leaning forwards, stiring the water lazily."
+    ""
+
+translate schinese Wuldon_Raid_Bath_63d3e9da:
+
+    # v "The way I see how it'll end for me, is when we're fighting Uffe. The perfect moment for me to leave this world would be right after knowing he's dead."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_6b70138a:
+
+    # "The brown werewolf takes out a bath towel to scratch your back, scrubbing off all scents that you can or cannot smell from your fur."
+    ""
+
+translate schinese Wuldon_Raid_Bath_4a78eefa:
+
+    # v "I'll likely transform then, the panic and exertion will speed the process up, like what we just had, but ten times more painful."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_e4f95fbf:
+
+    # "He stands idly, staring blankly onto the forests ahead."
+    ""
+
+translate schinese Wuldon_Raid_Bath_8aba69df:
+
+    # v "I will turn into what Uffe wanted me to be, that disgusting form of existence without a thought of humanity."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_5b00b867:
+
+    # "Even if your back is against Vurro, you can feel that sense of dread and sorrow from Vurro."
+    ""
+
+translate schinese Wuldon_Raid_Bath_77c8e9d4:
+
+    # v "[e], when I'm gone, and Uffe is dead, please end that other monster."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_6330931d:
+
+    # "What is Vurro talking about, to... kill him? That came as a pure shock to you that your body instantly froze, even in hot water."
+    ""
+
+translate schinese Wuldon_Raid_Bath_cff2f5b3:
+
+    # e "T-that... I don't know if I can."
+    e ""
+
+translate schinese Wuldon_Raid_Bath_5e1f8589:
+
+    # v "You're doing that for the safety of other people."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_20cb9102:
+
+    # "His speech quickens, looking for a response from you, and you only slide deeper into the water."
+    ""
+
+translate schinese Wuldon_Raid_Bath_678c6fd5:
+
+    # v "The werewolf you saw in the cave, and the same werewolf that you will see fighting against Uffe, they are not me. You know that, right?"
+    v ""
+
+translate schinese Wuldon_Raid_Bath_e8713aa5:
+
+    # e "But the passionate and loving werewolf is still there, deep inside. Just like when we woke you up."
+    e ""
+
+translate schinese Wuldon_Raid_Bath_6ceaef51:
+
+    # v "Even so, you can't cure a werewolf twice."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_34cc3bf6:
+
+    # "Vurro replies as he pour a bucket of bathwater onto your head, a few leaves left hanging on your head."
+    ""
+
+translate schinese Wuldon_Raid_Bath_b23f2ce8:
+
+    # e "I... I can't, you're my friend."
+    e ""
+
+translate schinese Wuldon_Raid_Bath_1782c2ca:
+
+    # "Vurro looks down, his palm scrubbing against your fur as it keeps soaking in the bathwater."
+    ""
+
+translate schinese Wuldon_Raid_Bath_0b6eb35e:
+
+    # v "I remembered telling myself that I didn't mind dying, if it's for the good of our pack."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_06c8a3cd:
+
+    # v "Maybe I am not as noble as I thought I am, but this dreading thought of losing myself has been plaguing my mind every second since I woke up. It's a nightmare that never stops playing."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_3191799a:
+
+    # "He says it with a deeper voice, as if he knew the doom is impending, it's worrying, honestly."
+    ""
+
+translate schinese Wuldon_Raid_Bath_6cf62877:
+
+    # v "I know I am being selfish, but a part of me hoped I was never cured. I could have died not knowing that the monster I've became killed everyone in the cave."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_eebdb14c:
+
+    # e "That werewolf is not you. You told me that."
+    e ""
+
+translate schinese Wuldon_Raid_Bath_2f4194e6:
+
+    # "He doesn't respond, instead he wraps his arm around your shoulder, rubbing every inches on your chest."
+    ""
+
+translate schinese Wuldon_Raid_Bath_bc71ac7d:
+
+    # v "I could have died without seeing Wuldon and you reminding me how much I've had, just to lose them all again."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_95d77f69:
+
+    # "The brown werewolf reaches lower, hands tracing around"
+    ""
+
+translate schinese Wuldon_Raid_Bath_90524f76:
+
+    # v "But, I'm glad I did. I'm glad to share some more memories with you, finishing my business before I leave, that's not a luxury everyone can afford."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_b2c81280:
+
+    # "You enjoy the time in the bath with Vurro sniffing and brushing, but at the same time you're just extremely distressed by the unfateful reality."
+    ""
+
+translate schinese Wuldon_Raid_Bath_367b985e:
+
+    # v "So, thank you for saving me back in the cave."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_efefb8dd:
+
+    # "His voice rises, feinting a wide smile to you."
+    ""
+
+translate schinese Wuldon_Raid_Bath_f5af9160:
+
+    # v "[e], take care of Wuldon for me, would you?"
+    v ""
+
+translate schinese Wuldon_Raid_Bath_027182b2:
+
+    # "You nod, you understand the severity of the situation, but it's still surreal to see your own friend telling you his death wishes."
+    ""
+
+translate schinese Wuldon_Raid_Bath_9fd136a0:
+
+    # e "I- I will."
+    e ""
+
+translate schinese Wuldon_Raid_Bath_73605a62:
+
+    # v "No, that's not right... I can't tell you what to do on my behalf. Both in whether to kill me, or to take care of Wuldon."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_32032484:
+
+    # v "That is a huge cross to bear, and I don't wish it upon you."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_060d4282:
+
+    # v "I won't be here by the time you two had killed Uffe, it's pointless for you to promise me anything."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_4cf67800:
+
+    # "His breathing begins to slow down to a normal pace."
+    ""
+
+translate schinese Wuldon_Raid_Bath_a8fe1174:
+
+    # v "But, on a brighter side, you and Wuldon will survive."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_14bad1aa:
+
+    # v "You know, however that blue dork might look gruff on the outside, he's still that sweet little werewolf with no friend deep down."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_abfa8f3a:
+
+    # "Vurro smiles faintly."
+    ""
+
+translate schinese Wuldon_Raid_Bath_0f23d550:
+
+    # v "Not to talk him down, but it's pretty clear that he likes you a lot, [e]."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_651db163:
+
+    # v "He sucks at letting people know his feelings, but I saw his face blushing like a tomato everytime we talked about you."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_e99423a6:
+
+    # v "I guess what often happens is, you don't resonate that feeling, or that things don't end up working out between you two."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_11e71b41:
+
+    # v "Even so, please be gentle with him, he won't have anybody left when I'm gone."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_2d4e72ff:
+
+    # "You turn to stare at Vurro, who's tapping on the side of the bathtub."
+    ""
+
+translate schinese Wuldon_Raid_Bath_c1ad3e57:
+
+    # e "No, Vurro, I don't think I will ever leave Wuldon after everything we've been through."
+    e ""
+
+translate schinese Wuldon_Raid_Bath_2f2425e0:
+
+    # v "Hah, good to know. I won't interfere with whatever's going on with you two further."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_c3a98107:
+
+    # v "Well, at least now he has you on his side. That makes me feel a lot better."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_153af1a8:
+
+    # "Before you have even processed what he said, Vurro extends his scrawny hand in front of you."
+    ""
+
+translate schinese Wuldon_Raid_Bath_56f6a9d0:
+
+    # v "Time to get out of the water, little one."
+    v ""
+
+translate schinese Wuldon_Raid_Bath_2a3e93f3:
+
+    # e "Oh!"
+    e ""
+
+translate schinese Wuldon_Raid_Bath_a97aeff0:
+
+    # "You reach out to grasp onto his hand, but he retreats immediately."
+    ""
+
+translate schinese Wuldon_Raid_Bath_2ae94726:
+
+    # v "Nuh uh. You don't wanna clean yourself again do you?"
+    v ""
+
+translate schinese Wuldon_Raid_Bath_a5d5529f:
+
+    # "He chides, wiggling his finger in front of you."
+    ""
+
+translate schinese Wuldon_Raid_Bath_35ffa886:
+
+    # e "O-okay. You got me there."
+    e ""
+
+translate schinese Wuldon_Raid_Bath_274ef5b6:
+
+    # msg "Work in Progress! You can save here and continue in the next update, and/or reset the quest and return to the beginning of the quest." nointeract
+    msg "" nointeract
+
 translate schinese strings:
 
     old "What do you do?"
     new ""
 
     old "Talk to Wuldon"
+    new ""
+
+    old "Talk about the plan of killing Uffe"
     new ""
 
     old "Approach the house"
@@ -11768,5 +13546,11 @@ translate schinese strings:
     new ""
 
     old "Take the Rings and Leave"
+    new ""
+
+    old "Meet Wuldon and Vurro at 8:00 in the morning"
+    new ""
+
+    old "Spar with Vurro"
     new ""
 

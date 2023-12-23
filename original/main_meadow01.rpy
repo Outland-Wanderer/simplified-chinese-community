@@ -123,6 +123,11 @@ translate schinese Pirkka_Tavern_Talk_5c7ab059:
     # e "Fascinating."
     e ""
 
+translate schinese Pirkka_Tavern_Talk_285e2e4e:
+
+    # p "Hey, [e]. May I borrow you a few minutes to go somewhere with me?"
+    p ""
+
 translate schinese Pirkka_Normal_Talk_2419a281:
 
     # p "How may I help you?" nointeract
@@ -373,29 +378,29 @@ translate schinese Pirkka_First_Meet_d1fb6846:
     # "Walking through the plains, you notice a lone figure sitting on a nearby rock, strumming a lute."
     ""
 
-translate schinese Pirkka_First_Meet_f3c1e8ab:
+translate schinese Pirkka_First_Meet_a954b571:
 
-    # my "{i}-ath so greyt,{p}No man durst dare to cross its wayt.{/i}"
+    # my "{i}-land of bloom, roaming with a heart of tune.{/i}"
     my ""
 
-translate schinese Pirkka_First_Meet_aff65e14:
+translate schinese Pirkka_First_Meet_1db6dcfa:
 
-    # my "{i}-a wanderer bold, with sword in hand,{p}Did march forth t'fight this foul demand.{/i}"
+    # my "{i}Words of legends and olden tale, dark ink of valor and fair rune.{/i}"
     my ""
 
-translate schinese Pirkka_First_Meet_7ba695d4:
+translate schinese Pirkka_First_Meet_545ee0cd:
 
-    # "He doesn't seem to even notice your presence."
-    ""
-
-translate schinese Pirkka_First_Meet_f73745fa:
-
-    # my "{i}'e fought so long, he fought so wyll, {p}And with his might, ze beast did still.{/i}"
+    # my "{i}Percolating upon scripts of paper, newly trimmed, browned by the tides in days of yore.{/i}"
     my ""
 
-translate schinese Pirkka_First_Meet_7c901d57:
+translate schinese Pirkka_First_Meet_7f4b036a:
 
-    # my "{i}Yet the monst'r was crafty, and did decieve, {p}It played on the hero's sense of beleave.{/i}"
+    # my "{i}And lost.{/i}"
+    my ""
+
+translate schinese Pirkka_First_Meet_acd97be3:
+
+    # my "{i}Oh, my champion, how should I atone for my shameful prune.{/i}"
     my ""
 
 translate schinese Pirkka_First_Meet_060f37dc:
@@ -403,9 +408,9 @@ translate schinese Pirkka_First_Meet_060f37dc:
     # "The stranger fingers his lute with ease, singing with his amazingly soothing voice."
     ""
 
-translate schinese Pirkka_First_Meet_1fb616a0:
+translate schinese Pirkka_First_Meet_67435e84:
 
-    # my "{i}And with a final strike, the beast was slayn, {p}But the hero too, was tak'n in payn-{/i}"
+    # my "{i}What's the future of Mokken without your lore, Kantele.{/i}"
     my ""
 
 translate schinese Pirkka_First_Meet_173cf370:
@@ -463,14 +468,14 @@ translate schinese Pirkka_First_Meet_28a5f4de:
     # "Pirkka replies, giving a small bow. And your cheeks blush of bright red."
     ""
 
-translate schinese Pirkka_First_Meet_18bb54f4:
+translate schinese Pirkka_First_Meet_5305f7a0:
 
-    # e "Uhm- What's the prose you've been singing about?"
+    # e "Uhm- What's the song you've been singing about?"
     e ""
 
-translate schinese Pirkka_First_Meet_bdbcd3d7:
+translate schinese Pirkka_First_Meet_ac0a7d00:
 
-    # p "Ah, that ol' ditty. 'Tis but a tale of yore, one that's oft' forgotten these days."
+    # p "Ah, that's only improvisation, as ye say, about a long-winding, echoes of tales of yore."
     p ""
 
 translate schinese Pirkka_First_Meet_445085e8:
@@ -478,9 +483,9 @@ translate schinese Pirkka_First_Meet_445085e8:
     # "He looks up at you, his eyes twinkling mischievously."
     ""
 
-translate schinese Pirkka_First_Meet_11d4ff9e:
+translate schinese Pirkka_First_Meet_1d53e339:
 
-    # p "Well, 'nough about me, what brings you on this journey?"
+    # p "Well, 'nough about me, what brings you on zis journey?"
     p ""
 
 translate schinese Pirkka_First_Meet_d752fcdf:
@@ -513,9 +518,19 @@ translate schinese Pirkka_First_Meet_e19df7a4:
     # "You can't help but chuckle along with him, despite the corniness of the pun."
     ""
 
-translate schinese Pirkka_First_Meet_a6c93efd:
+translate schinese Pirkka_First_Meet_8b47702d:
 
-    # p "Say, you seem like a sprightly one. And I might just have a task for you, if you're willing to lend your aid."
+    # e "Does that mean you wanders around as well?"
+    e ""
+
+translate schinese Pirkka_First_Meet_c042a50e:
+
+    # p "Of course, I'm a bard. I tell stories with my sweet and kindred voice, everywhere I goes."
+    p ""
+
+translate schinese Pirkka_First_Meet_eec097a4:
+
+    # p "Say, you seem like a sprightly one. Zere's one reason I roam around this beautiful valley, not just for ze sight."
     p ""
 
 translate schinese Pirkka_First_Meet_afff1775:
@@ -543,9 +558,9 @@ translate schinese Pirkka_First_Meet_ff70d3b2:
     # p "A group of bandits made off with a precious scroll of mine, and I'm in dire need of its contents."
     p ""
 
-translate schinese Pirkka_First_Meet_d4fb9104:
+translate schinese Pirkka_First_Meet_2e0dc6b0:
 
-    # p "It's the complete ballad that you've heard, written by the ancient poet Kantele. one that I had been searching for since I've become a bard."
+    # p "A ballad, written by ze ancient poet Kantele, who's also my ancestor. It's the original text zat 'olds true to my heart of passion."
     p ""
 
 translate schinese Pirkka_First_Meet_4fd65787:
@@ -553,19 +568,14 @@ translate schinese Pirkka_First_Meet_4fd65787:
     # e "And how can I help with that?"
     e ""
 
-translate schinese Pirkka_First_Meet_fbbcbe1d:
+translate schinese Pirkka_First_Meet_e297d51c:
 
-    # p "I need you to sneak into their camp and retrieve the scroll for me."
+    # p "I need you, to sneak into their camp and retrieve ze scroll for me."
     p ""
 
-translate schinese Pirkka_First_Meet_25f00dd5:
+translate schinese Pirkka_First_Meet_2a903f5e:
 
-    # p "I can't risk being caught myself - I have a reputation to uphold, after all."
-    p ""
-
-translate schinese Pirkka_First_Meet_d515b884:
-
-    # p "So, how you say? My dearest [e]." nointeract
+    # p "So, 'ow you say? I smell a certain grit and bravery in ze air." nointeract
     p "" nointeract
 
 translate schinese Pirkka_First_Meet_9579c28c:
@@ -588,9 +598,9 @@ translate schinese Pirkka_First_Meet_a49d5b69:
     # "Pirkka looks disappointed, but he quickly puts on a smile."
     ""
 
-translate schinese Pirkka_First_Meet_a82b70d2:
+translate schinese Pirkka_First_Meet_0b460b91:
 
-    # p "No worries, friend. I'll find a way to retrieve it on my own."
+    # p "Ah, zat's not good. me friend. But I'll find a way to retrieve it on my own."
     p ""
 
 translate schinese Pirkka_First_Meet_65dbde5c:
@@ -608,9 +618,9 @@ translate schinese Pirkka_First_Meet_c7b1f7a5:
     # "The bard says with a wave of his hand."
     ""
 
-translate schinese Pirkka_First_Meet_b2be9121:
+translate schinese Pirkka_First_Meet_21cb6016:
 
-    # p "May your journey be filled with wondrous adventures and grand tales to tell."
+    # p "May your journey be filled with wondrous adventures and grand tales to tell, [e]."
     p ""
 
 translate schinese Pirkka_First_Meet_7ca63ebc:
@@ -1203,9 +1213,9 @@ translate schinese Pirkka_Bandit_Quest_Report_8f44e090:
     # "The bard exclaims with a hint of surprise."
     ""
 
-translate schinese Pirkka_Bandit_Quest_Report_e4b8d279:
+translate schinese Pirkka_Bandit_Quest_Report_6c35b8e3:
 
-    # p "I can play your tavern a bit of a lovely song, stay for a while to tour around the village a bit."
+    # p "And might I sit in front of your lively hearth, I shall grace your tavern with my sweet tunes."
     p ""
 
 translate schinese Pirkka_Bandit_Quest_Report_f0521b7b:
@@ -1213,9 +1223,9 @@ translate schinese Pirkka_Bandit_Quest_Report_f0521b7b:
     # c "Aye, be my guest."
     c ""
 
-translate schinese Pirkka_Bandit_Quest_Report_e552074d:
+translate schinese Pirkka_Bandit_Quest_Report_28359482:
 
-    # "Cane hands a key to Pirkka, as he puts the gold on the counter."
+    # "Cane hands a key to Pirkka, as the latter briskly shoves the gold forward."
     ""
 
 translate schinese Pirkka_Bandit_Quest_Report_2d6ca27d:
@@ -1223,9 +1233,9 @@ translate schinese Pirkka_Bandit_Quest_Report_2d6ca27d:
     # c "This is for the room upstairs, should be quieter if ye like privacy."
     c ""
 
-translate schinese Pirkka_Bandit_Quest_Report_e7f47baa:
+translate schinese Pirkka_Bandit_Quest_Report_7933e00a:
 
-    # p "Then I'll be taking a rest in the room. Thank you, Cane."
+    # p "I enjoy a lovely company, but solitude is better with eyes closed. Thank you, Cane."
     p ""
 
 translate schinese Pirkka_Bandit_Quest_Report_23a9f7fa:
@@ -1241,6 +1251,1016 @@ translate schinese Pirkka_Bandit_Quest_Report_7ac8cbd4:
 translate schinese Pirkka_Bandit_Quest_Report_a586c9e6:
 
     # "You smile, and Pirkka strums a few chords before taking his leave."
+    ""
+
+translate schinese Pirkka_Show_6f2eac01:
+
+    # e "Where are we heading, Pirkka?"
+    e ""
+
+translate schinese Pirkka_Show_d25dd520:
+
+    # p "The tavernkeeper rented me a room for free. And, with his consent, I figured we shall repurpose that space into a performance room for today."
+    p ""
+
+translate schinese Pirkka_Show_4e1d0976:
+
+    # e "A performance room?"
+    e ""
+
+translate schinese Pirkka_Show_0f91ffa7:
+
+    # p "Yes, yes. I did recall promising a certain red dragon fellow with a personal performance of the ancient prose."
+    p ""
+
+translate schinese Pirkka_Show_262c194b:
+
+    # p "So perhaps this would be a perfect opportunity to show you the wonder of poetry."
+    p ""
+
+translate schinese Pirkka_Show_05db5760:
+
+    # e "Is that, me."
+    e ""
+
+translate schinese Pirkka_Show_612c8c11:
+
+    # p "Call it, an invitation to a magical journey. And my gratitude for your perseverence to locate this precious prose." nointeract
+    p "" nointeract
+
+translate schinese Pirkka_Show_d6367fff:
+
+    # e "Well, lucky me. I wouldn't miss it for the world."
+    e ""
+
+translate schinese Pirkka_Show_340eed80:
+
+    # p "Come, my muse, allow me to escort you to ze front-row seat."
+    p ""
+
+translate schinese Pirkka_Show_1510991e:
+
+    # "Pirkka winks, his eyes sparkle mischievously."
+    ""
+
+translate schinese Pirkka_Show_98a98f69:
+
+    # "From there, he leads you to the door closest to the stairs, a sign with Pirkka's name hangs lazily on the door."
+    ""
+
+translate schinese Pirkka_Show_0ebba9bc:
+
+    # "In the room, it was filled with papers and books, some notes left on the table as you noticed the returned prose still presented on top of the pile of books."
+    ""
+
+translate schinese Pirkka_Show_a90ee7b5:
+
+    # p "What do you think, m' dearest companion. Isn't zis room special?"
+    p ""
+
+translate schinese Pirkka_Show_ff5623c4:
+
+    # e "It's a delight indeed. Can't believe you've decorated his room with such delicacy already."
+    e ""
+
+translate schinese Pirkka_Show_f407e1a8:
+
+    # p "Cane offered me a place to live, and in return I shall transform his place into a stage full of enchanting presence."
+    p ""
+
+translate schinese Pirkka_Show_b37d208e:
+
+    # "He turns around, eyes staring right at you."
+    ""
+
+translate schinese Pirkka_Show_96146291:
+
+    # p "You offered me a second chance at my prose, and in return..."
+    p ""
+
+translate schinese Pirkka_Show_4b5fb646:
+
+    # "Pirkka pauses, then raises the corner of his mouth, showing an infectious smile."
+    ""
+
+translate schinese Pirkka_Show_5d9f0cbc:
+
+    # "He closes the door behind you, and all of a sudden, the noise from the tavern simmered down into silence."
+    ""
+
+translate schinese Pirkka_Show_4421b254:
+
+    # "And the only thing you can focus on, is the purple tiger in front of you."
+    ""
+
+translate schinese Pirkka_Show_50778846:
+
+    # p "I shall sing you the prose you've recovered for me."
+    p ""
+
+translate schinese Pirkka_Show_f399288c:
+
+    # "He sits on the chair, hand positioning on the strings of the lute. Slowing adjusting the tunes."
+    ""
+
+translate schinese Pirkka_Show_63bc5157:
+
+    # "At the same time, you quietly finds the corner of the bed to sit on, heart pounding in anticipation of his singing."
+    ""
+
+translate schinese Pirkka_Show_cb0863d1:
+
+    # p "Legends of Mokken, part three, by Kantele Koskin."
+    p ""
+
+translate schinese Pirkka_Show_62bb1c28:
+
+    # p "{i}In days of yonder, when the world was fair,{p}A monster, Etch, trapped beneath the darkest lair.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_404239f8:
+
+    # p "{i}With a flaming soul and ominous hair, {p}he threatened and reigned over the land of bare.{p}"
+    p ""
+
+translate schinese Pirkka_Show_dec98041:
+
+    # "Pirkka begins with the ancient ballad, you can hear such gritty details contrasted with his soft and pleasant voice."
+    ""
+
+translate schinese Pirkka_Show_17c9f53a:
+
+    # p "{i}Its power immense, its wrath so rare,{p}Of mortals and lizards, their mind molten and bare.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_4399d21d:
+
+    # p "{i}But a wandering hero, with sword in hand,{p}Did march forth to fight this foul demand.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_6c8c1d26:
+
+    # p "{i}He fought so long, he fought so well,{p}And with his might, the beast did still.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_95566cf6:
+
+    # "Between verses, he shares fleeting glances with you, his orange eyes lingering for a moment longer than necessary."
+    ""
+
+translate schinese Pirkka_Show_489481e8:
+
+    # p "{i}Yet the monster was crafty, and did deceive,{p}It played on the hero's sense of believe.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_7ada0079:
+
+    # "Your pupil widens, losing focus, entirely magnetized to the depth of his glistening pupil."
+    ""
+
+translate schinese Pirkka_Show_4b0ef090:
+
+    # p "{i}A shadow room, and a reckless ruler,{p}came to his rescue, but naught the warrior.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_11b78840:
+
+    # p "{i}Futile was the wicked turns and tricks,{p}for at long last, our hero set free of sticks.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_2dda25e5:
+
+    # p "{i}With a final strike, the beast was slain,{p}but the hero too, was taken in pain.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_3b0d7f7d:
+
+    # "He winks playfully as he starts tuning his lute, fingers dancing over the strings with finesse."
+    ""
+
+translate schinese Pirkka_Show_b1c4b926:
+
+    # p "{i}Cursed by the wicked hex it bore,{p}the monster's essence forevermore.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_182fd7d1:
+
+    # p "{i}And so the hero fell, yet also arose,{p}for his soul weakened, the end was close.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_3f2a494e:
+
+    # "The melody is lively, and his voice, rich with emotion, fills the air around you."
+    ""
+
+translate schinese Pirkka_Show_2cb183cd:
+
+    # p "{i}The champion wandered, as his husk hollowed, {p}drifted by the wind, until death followed.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_262effcd:
+
+    # p "{i}Wandering Spirit, protector of the forests,{p}blessed by the seasons, bestowed us our harvests.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_a89991a8:
+
+    # p "{i}Messenger, Walker, roam this land with your might,{p}and may all spectres be doused in fright.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_ca3f15dc:
+
+    # p "{i}A song of sacrifice, in whispers and tale,{p}and hear, everyone, a brave soul is now at rest.{p}"
+    p ""
+
+translate schinese Pirkka_Show_4c602ac3:
+
+    # p "{i}A hero's struggle, a soul in despair,{p}in tapestry of time, shall the story live on in air.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_8037204e:
+
+    # "As the last note fades away, Pirkka takes a bow, his gaze fixed on you."
+    ""
+
+translate schinese Pirkka_Show_c23e16c4:
+
+    # "He stands up once more, fur scruffles softly, leaving you with a warmth that transcends the lively ambiance of this room."
+    ""
+
+translate schinese Pirkka_Show_48e4401b:
+
+    # p "How's the poem, Kantele's words are certainly a perfect blend of story and heroism, no?"
+    p ""
+
+translate schinese Pirkka_Show_ebeb9cf9:
+
+    # "Your eyes refuse to lift off of his handsome face, completely oblivious to what he just said."
+    ""
+
+translate schinese Pirkka_Show_3c6a9d30:
+
+    # p "Oi!"
+    p ""
+
+translate schinese Pirkka_Show_f94c3a1c:
+
+    # "His fluffy ears perk up as he notices your drooling mouth. His face blushing with a mix of embarrassment and flattery."
+    ""
+
+translate schinese Pirkka_Show_1ca14415:
+
+    # e "O-oh. Yeah. I love your voice by the way, Pirkka."
+    e ""
+
+translate schinese Pirkka_Show_4faa8338:
+
+    # p "Never have I experienced such an reaction from mine audience, you're one of a kind, [e]."
+    p ""
+
+translate schinese Pirkka_Show_4b82b97e:
+
+    # e "Your hand moves like magic. I can never figure out how it works with this instrument."
+    e ""
+
+translate schinese Pirkka_Show_a1a02085:
+
+    # "The bard paces lightly, taking a seat by your side."
+    ""
+
+translate schinese Pirkka_Show_b4ee2dcd:
+
+    # p "Sounds like someone wants to learn to play my lute! No?"
+    p ""
+
+translate schinese Pirkka_Show_6186867a:
+
+    # "You nod."
+    ""
+
+translate schinese Pirkka_Show_e206f31b:
+
+    # e "Of course!"
+    e ""
+
+translate schinese Pirkka_Show_8ba93ba4:
+
+    # p "Alright, first thing first, ze posture is important, crucial even."
+    p ""
+
+translate schinese Pirkka_Show_dfa9447e:
+
+    # "Pirkka sits upright, puffing his chest outwards, you watch on the side, gasping as his puffy front bulges out of his cape."
+    ""
+
+translate schinese Pirkka_Show_f09a81e9:
+
+    # p "Come, try it yourself. Show me you're confident."
+    p ""
+
+translate schinese Pirkka_Show_778ba60a:
+
+    # "He puffs up once more, showing you his sturdy physique. You watch and mimic his posture."
+    ""
+
+translate schinese Pirkka_Show_ee26336e:
+
+    # e "Am I doing it right?"
+    e ""
+
+translate schinese Pirkka_Show_fd523cd5:
+
+    # p "Yes, yes. Perfect. Now hold onto ye posture."
+    p ""
+
+translate schinese Pirkka_Show_1a29b6b7:
+
+    # "He gently places his hands onto yours, the soft fur on his finger soothes the gaps between your paws, causing you to flinch a little."
+    ""
+
+translate schinese Pirkka_Show_4d1c4fb3:
+
+    # "A tender grasp sends warmth down to your spine, he adjusts to sit closer, just to reach onto your hand better."
+    ""
+
+translate schinese Pirkka_Show_d0e47681:
+
+    # "Pirkka positions your hands onto his wooden lute."
+    ""
+
+translate schinese Pirkka_Show_73655a22:
+
+    # p "Cradle my lute as if it were a delicate lover of yours, not too tight, not too loose."
+    p ""
+
+translate schinese Pirkka_Show_9907b037:
+
+    # p "Ye gotta feel ze curve, as if ze wood's speaking to you."
+    p ""
+
+translate schinese Pirkka_Show_39e83896:
+
+    # "You awkwardly move your fingers along with Pirkka's movement, quickly come to a realisation that they're much stiffer than Pirkka's."
+    ""
+
+translate schinese Pirkka_Show_5f29e694:
+
+    # e "Damn, that's harder than I imagined."
+    e ""
+
+translate schinese Pirkka_Show_1ece98de:
+
+    # p "Oy, relax, try touching it gently instead. My lute's a shy darling."
+    p ""
+
+translate schinese Pirkka_Show_fbcc6904:
+
+    # "His hand presses onto you, signaling for you to move in his direction."
+    ""
+
+translate schinese Pirkka_Show_577e4bd1:
+
+    # e "Okay."
+    e ""
+
+translate schinese Pirkka_Show_4cb2c2fe:
+
+    # "With a plinch, you pluck your fingers onto the instrument, eliciting a loud squeaking sound."
+    ""
+
+translate schinese Pirkka_Show_9860f076:
+
+    # p "Not quite right, mine muse. Not too timidly, not too boldly, feel the vibrations beneath your fingertips."
+    p ""
+
+translate schinese Pirkka_Show_223c2689:
+
+    # "Pirkka leans in on you, getting incredibly close, his breath almost tickling your ear."
+    ""
+
+translate schinese Pirkka_Show_7a0ddf04:
+
+    # p "Follow my lead here, [e]."
+    p ""
+
+translate schinese Pirkka_Show_98c663ed:
+
+    # "You can feel his heartbeat from behind you, his embrace warming you up into a gentle craddle."
+    ""
+
+translate schinese Pirkka_Show_96247add:
+
+    # "The bard begins to lead you through a simple, alluring tune, all the while he's gazing into you with a twinkle in his eyes."
+    ""
+
+translate schinese Pirkka_Show_2008eff8:
+
+    # "It was such a mesmerising experience, having this reputable bard essentially hugging you from behind, at the same time learning to play such music to your ears."
+    ""
+
+translate schinese Pirkka_Show_9b4c4a51:
+
+    # p "Oh my oh my, you have the touch of a maestro now, see. The lute responds with your desire, music is a conversation, no?"
+    p ""
+
+translate schinese Pirkka_Show_ae8827ca:
+
+    # "The warmth from the back of your neck sends you shiver as he speaks."
+    ""
+
+translate schinese Pirkka_Show_82955ae7:
+
+    # p "It's all about the intimacy between the musician and the instrument."
+    p ""
+
+translate schinese Pirkka_Show_d47afca8:
+
+    # e "It's mostly your doing, Pirkka. I wasn't moving much on my own."
+    e ""
+
+translate schinese Pirkka_Show_c76f385f:
+
+    # p "Well, it'z your first time, but now you've learnt it, try it on your own!"
+    p ""
+
+translate schinese Pirkka_Show_c85ce820:
+
+    # "The bard behind you releases his clutches, making you feel so cold, it's almost as if you've lost something outright."
+    ""
+
+translate schinese Pirkka_Show_d5f2477b:
+
+    # p "Picture someone you hold dear to your heart, let the music tell your story, like a love letter to the heart."
+    p ""
+
+translate schinese Pirkka_Show_cb0adaf9:
+
+    # "Suddenly, he taps onto your leg, humming to the tunes you've just played."
+    ""
+
+translate schinese Pirkka_Show_5144e2de:
+
+    # p "Ready?"
+    p ""
+
+translate schinese Pirkka_Show_c7c1ca3b:
+
+    # "You get your hands in position, keep reminding yourself the advice Pirkka just gave you."
+    ""
+
+translate schinese Pirkka_Show_16bceccd:
+
+    # "He hums again, slapping onto your thigh playfully as you begin to straddle the lute."
+    ""
+
+translate schinese Pirkka_Show_8940d708:
+
+    # "He's flicking your finger messily to his tunes, sometimes out of rhythm."
+    ""
+
+translate schinese Pirkka_Show_ed22eb31:
+
+    # "It was a short and simple tune, yet so catchy that you're beginning to hum to it over and over."
+    ""
+
+translate schinese Pirkka_Show_dc1e9c72:
+
+    # e "Pirkka, I think I-"
+    e ""
+
+translate schinese Pirkka_Show_2098ef2d:
+
+    # "With the end of the tune, you turn around to look at Pirkka's reaction, only to see his gaze lingers onto your eyes."
+    ""
+
+translate schinese Pirkka_Show_2633f44a:
+
+    # e "Am I getting the hang of it?"
+    e ""
+
+translate schinese Pirkka_Show_3a7a4a46:
+
+    # p "Very."
+    p ""
+
+translate schinese Pirkka_Show_2505b44f:
+
+    # "You're embarrassed by his comment, obviously your first time playing was a mess, but his enthusiasm is coursing through your body like a charm."
+    ""
+
+translate schinese Pirkka_Show_b3b41100:
+
+    # p "I'm already thinking about a duet with you, [e]."
+    p ""
+
+translate schinese Pirkka_Show_6ff126eb:
+
+    # "He whispers under his warm breath, and it's all you can hear."
+    ""
+
+translate schinese Pirkka_Show_2d32ebe1:
+
+    # p "Sad we don't have a second lute around here."
+    p ""
+
+translate schinese Pirkka_Show_d71b9647:
+
+    # "The corner of his lips raises, slowly revealing an alluring smile, of which you can't help but to follow."
+    ""
+
+translate schinese Pirkka_Show_541a7266:
+
+    # "Your lips are so close to touching each together, Pirkka tilts his head slightly, seemingly adjusting to meet your face."
+    ""
+
+translate schinese Pirkka_Show_57929ecc:
+
+    # "In an instant, you reach out to kiss Pirkka, it almost feel like an instinct, your lips just attracted to each other like magnets."
+    ""
+
+translate schinese Pirkka_Show_41f7c6b1:
+
+    # "It almost comes as a shock to Pirkka at first, he pulls out for a second, your saliva dripping in his maw."
+    ""
+
+translate schinese Pirkka_Show_de203287:
+
+    # "You stare at each other in lustful gaze, then again, reaching out for another kiss at the same time."
+    ""
+
+translate schinese Pirkka_Show_96864d5e:
+
+    # "This time, it was much longer, your teeth grazing against his lower lips, savoring the aroma of his taste."
+    ""
+
+translate schinese Pirkka_Show_764a5c17:
+
+    # "You close your eyes, fully submerge yourself into the delight of kissing this handsome tiger. He's not more experienced as you thought, but you can tell he's enjoying the moment also."
+    ""
+
+translate schinese Pirkka_Show_6d7fec35:
+
+    # "His tongue makes way into your mouth, exploring, licking clean inside while you do the same."
+    ""
+
+translate schinese Pirkka_Show_69c6cc38:
+
+    # "Slowly, you wrap your arms around Pirkka, holding him tight as you continue smooching this tiger man."
+    ""
+
+translate schinese Pirkka_Show_862be371:
+
+    # "Both of you are so immersed in the moment, that you've almost forgotten to breath, but, a part of you wish this moment will never end."
+    ""
+
+translate schinese Pirkka_Show_5a4c2bd9:
+
+    # "When it's time, you pull out, just to breath in his hot breath. You open your eyes, gazing deep into his eyes as he reaches out once more."
+    ""
+
+translate schinese Pirkka_Show_12dcedb2:
+
+    # "The bard smiles, then laugh loudly."
+    ""
+
+translate schinese Pirkka_Show_5f28d409:
+
+    # p "I didn't expect that."
+    p ""
+
+translate schinese Pirkka_Show_5bb80a41:
+
+    # e "Me neither."
+    e ""
+
+translate schinese Pirkka_Show_987ac446:
+
+    # p "You're a great kisser, [e]."
+    p ""
+
+translate schinese Pirkka_Show_7df71ac0:
+
+    # e "Thanks, you too."
+    e ""
+
+translate schinese Pirkka_Show_936e9f99:
+
+    # e "I... I just admire you too much. From the time we met, I feel that whenever you play the music, I just get pulled in in front of you."
+    e ""
+
+translate schinese Pirkka_Show_ddef3ef6:
+
+    # "Pirkka raises his eyebrows in awe, his tail wags on the bed excitedly."
+    ""
+
+translate schinese Pirkka_Show_6204f5d7:
+
+    # p "You're such an inspiration to me, my muse. Even being a courier, everywhere in zis Lusterfield village, I hear your name spoken fondly."
+    p ""
+
+translate schinese Pirkka_Show_ee2191dc:
+
+    # p "Like ze ancient heroes sung by us bards."
+    p ""
+
+translate schinese Pirkka_Show_ba8d7c59:
+
+    # e "Pirkka, you're too flattering."
+    e ""
+
+translate schinese Pirkka_Show_10ecb760:
+
+    # p "What can I say, you embody that definition pretty well, my prose-keeper."
+    p ""
+
+translate schinese Pirkka_Show_c5fe1018:
+
+    # "The bard grins wholeheartedly, all the while he's staring at you at mere few inches. He's still so close."
+    ""
+
+translate schinese Pirkka_Show_4dd0ee7d:
+
+    # e "I am no hero, I just like walking around the world, maybe helping people."
+    e ""
+
+translate schinese Pirkka_Show_90818be5:
+
+    # p "If you're no hero, you will be one now, come."
+    p ""
+
+translate schinese Pirkka_Show_c94863b7:
+
+    # "Pirkka smirks as he grabs his lute, climbing to the back of the bed."
+    ""
+
+translate schinese Pirkka_Show_6414e1ee:
+
+    # e "What are you doing, Pirkka."
+    e ""
+
+translate schinese Pirkka_Show_7c1eafd2:
+
+    # "You exclaim as you turn your head curiously."
+    ""
+
+translate schinese Pirkka_Show_c254b49c:
+
+    # p "Singing a song for you. Of course."
+    p ""
+
+translate schinese Pirkka_Show_009617f4:
+
+    # "He adjusts the instrument, hands warming up to the tunes he has in mind."
+    ""
+
+translate schinese Pirkka_Show_d0b27120:
+
+    # "You place your hands on the bed, curious as to what he has come up."
+    ""
+
+translate schinese Pirkka_Show_f04ad687:
+
+    # p "Here goes what I heard from the people in Lusterfield, of this legendary character in front of me, [e]."
+    p ""
+
+translate schinese Pirkka_Show_c7280ead:
+
+    # "Pirkka clears his throat, and begins to sing."
+    ""
+
+translate schinese Pirkka_Show_eb5fbf15:
+
+    # p "{i}A dragon of origin, a goat of history, {p} raised from a village from another world.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_36ee0b60:
+
+    # "Pirkka's fingers move effortlessly across the strings, creating a mesmerizing tune."
+    ""
+
+translate schinese Pirkka_Show_8e89eae7:
+
+    # p "{i}Stammering, searching out, {p}a dear friend's trail, in his path he hurled.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_ecd02d75:
+
+    # p "{i}Out of your depth, A change of hart, {p}he channels a door out the other side.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_13adf983:
+
+    # p "{i}Your eyes of stars, night's reflection, {p}fades before setting off for a sleigh r-ide.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_9632d34b:
+
+    # "It's mind-blowing how much he has heard about your backstory, without you ever telling him."
+    ""
+
+translate schinese Pirkka_Show_117d4c1a:
+
+    # p "{i}Out of this land, the wanderer has drifted, {p}where he's been, an echo of slumber.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_318b5a01:
+
+    # "He leans in, strumming the lute with an almost hypnotic rhythm. You're too busy listening to the lyrics in this way."
+    ""
+
+translate schinese Pirkka_Show_9f3ba333:
+
+    # p "{i}A stranger, a lion. Someone is awoken. {p}The world has been shifted, does he still remember.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_fcffe6de:
+
+    # p "{i}Taken in, a pawn shop in Lusterfield. {p}A friendly custodian offered the role of courier.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_140a05e2:
+
+    # p "{i}And there he went, a brand new life, {p}adventures lied ahead of our new traveler.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_4cf8e60b:
+
+    # "Pirkka gives you a playful wink, and licks his lips. You lean in closer, just to feel his warmth."
+    ""
+
+translate schinese Pirkka_Show_d0fc12a3:
+
+    # p "{i}Slime, Buggbears, evil monsters {p}emerged from deepmost of the forest.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_9cdef98f:
+
+    # p "{i}He slashed, trampled, under his weapon {p}no contender put him to the test.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_07fea4af:
+
+    # "The bard praises you like a real hero, something you never did hear anyone say."
+    ""
+
+translate schinese Pirkka_Show_d034284a:
+
+    # p "{i}And soon he arrived, a tribe of goats, {p}weavers of magic sent him on a conquest.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_f0c82ec3:
+
+    # p "{i}A treaty of peace, stuck between two factions, {p}he sees a calm before the tempest.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_724c8899:
+
+    # p "{i}Apprentice of a great hunk, he embarks an adventure, {p}together they encountered a figure of moss.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_60b03c03:
+
+    # p "{i}A weird stone, nonetheless. {p}He traces to the chief of buck a stream across.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_b751642d:
+
+    # "Pirkka does make writing a poem sounds so easy, taking only a brief pause in between each sentences."
+    ""
+
+translate schinese Pirkka_Show_49d2aa9e:
+
+    # p "{i}Through twists and turns, the chief is no where to be seen, {p}goat village erupts in chaos.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_e6e763bc:
+
+    # p "{i}But he emerged, a journey in the damp cave, {p}a lump of moss and stone, it's the boss.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_be573889:
+
+    # p "{i}So the wanderer fought, brave and wild. {p}Your eyes of fire dawned on the maddened spirit.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_1ea43880:
+
+    # p "{i}Under the crumbling golem, he saved the chief, {p}with the heroic act it comes merit.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_fae00d9c:
+
+    # "His fingers dance on the lute, the music wrapping around the air like a gentle embrace."
+    ""
+
+translate schinese Pirkka_Show_49917819:
+
+    # p "{i}The people of forest furnished the wanderer, {p}he's a courier of the village, but hero of the goat.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_e691f417:
+
+    # p "{i}He's an icon, a figure of inquisition. {p}For he has travelled far and wide, with his pride afloat.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_6be1d095:
+
+    # p "{i}[pirkkasverse1]{/i}"
+    p ""
+
+translate schinese Pirkka_Show_2a025095:
+
+    # p "{i}[pirkkasverse2]{/i}"
+    p ""
+
+translate schinese Pirkka_Show_6be1d095_1:
+
+    # p "{i}[pirkkasverse1]{/i}"
+    p ""
+
+translate schinese Pirkka_Show_2a025095_1:
+
+    # p "{i}[pirkkasverse2]{/i}"
+    p ""
+
+translate schinese Pirkka_Show_f5dad20c:
+
+    # p "{i}In a fateful encounter, this wanderer meets with a graceful bard. {p}His curiosiiity intrigued this fortuitous tiger.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_eeb0b5b3:
+
+    # p "{i}A dance, a song, a ballad of ancient hero. {p}It was stolen by no one but the baneful bandits over.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_6698ec30:
+
+    # p "{i}He barges in the bandit's den, a challenge no one feated, {p}the robbers and thieves all ran elsewhere.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_7a6d5fba:
+
+    # e "Well, I didn't beat every bandits in their hideout, just sneaking the place."
+    e ""
+
+translate schinese Pirkka_Show_3b02ffbf:
+
+    # p "Okay, it was all but pretty words mixed with some stories I've heard here and zere, but let me think of a better way."
+    p ""
+
+translate schinese Pirkka_Show_b7a932d0:
+
+    # p "{i}He sneaks in, past the glimpses of the ever-vigilant evilness, {p}an endeavor no one dared, but he did so for a total stranger.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_ba71ddaa:
+
+    # p "{i}Yet, the prose was not placed within, {p}instead it was basked in the very place where resides the wanderer.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_7f4818a5:
+
+    # p "{i}There, he invited the minstrel to the village he now lives. {p}A deal with his fellow, and the prose is back.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_a682c61d:
+
+    # p "{i}The bard could not have forgotten, his face, his laughter, {p}and an affectionate heart, despite the courage of the pack.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_287af209:
+
+    # p "{i}Now in this room, the wanderer's desireful eyes, {p}so let the lute speak, and the story shall be continued written.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_25c8c513:
+
+    # "You lean your head forward, the distances between you two are mere inches now."
+    ""
+
+translate schinese Pirkka_Show_82b1a77b:
+
+    # "A mischievous smile playing on his lips as you get closer, he is almost anticipating what is coming."
+    ""
+
+translate schinese Pirkka_Show_38428022:
+
+    # "But he doesn't stop singing."
+    ""
+
+translate schinese Pirkka_Show_2cf3cf6e:
+
+    # "You reach out, trying to grab Pirkka's face, but he nudges your hand out of it."
+    ""
+
+translate schinese Pirkka_Show_f48a9392:
+
+    # p "Your laughter, a melody, your touch is a rhyme. In face of a performance, you never slack, a symphony of pleasure."
+    p ""
+
+translate schinese Pirkka_Show_36c12c33:
+
+    # "His smile widens, an enchanting wink from him just teases your heart more."
+    ""
+
+translate schinese Pirkka_Show_b66adc46:
+
+    # p "{i}All along, you wander, your trail left on every inch of Mokken's soil.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_f3bd3b15:
+
+    # "Pirkka notices your distance has gotten further, but he doesn't bother."
+    ""
+
+translate schinese Pirkka_Show_46d6d018:
+
+    # p "{i}On the darkest night, the restless day, {p}the hopeless place, you show up, never foil.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_fd124ced:
+
+    # "Your attention is all focused on his music and the lyric. At least, you've never been praised like this before."
+    ""
+
+translate schinese Pirkka_Show_de871911:
+
+    # p "{i}Because he is the symbol of a hero, {p}a brave adventurer no one wish to stand in his way.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_e771fed2:
+
+    # p "{i}A foreign visitor, a traveller at heart, {p}he will flourish, by the blessing of this bard.{/i}"
+    p ""
+
+translate schinese Pirkka_Show_719ef12c:
+
+    # "He points at himself, before bowing half-heartedly on the bed."
+    ""
+
+translate schinese Pirkka_Show_f5c11199:
+
+    # "You clap your hands loudly, admiring the entire performance from the beginning to the end."
+    ""
+
+translate schinese Pirkka_Show_150f0242:
+
+    # p "How's it? Does it do you justice enough?"
+    p ""
+
+translate schinese Pirkka_Show_3f8f4f83:
+
+    # e "I love it, though, I'm still not believing I'm actually qualified to be a hero here."
+    e ""
+
+translate schinese Pirkka_Show_997ade66:
+
+    # p "Every hero starts somewhere, I'll sing this song to the tavern regulars, and maybe add some polish and fantasy."
+    p ""
+
+translate schinese Pirkka_Show_f63bb847:
+
+    # p "They'll soon think you're a hero regardless."
+    p ""
+
+translate schinese Pirkka_Show_6835b9f2:
+
+    # "You both grin brightly, before the room fall silent to the lack of music."
+    ""
+
+translate schinese Pirkka_Show_75ad8225:
+
+    # p "Well, you're happy, I'm happy. Again, this was just m' little gift for the prose."
+    p ""
+
+translate schinese Pirkka_Show_42b723e1:
+
+    # p "Do you want to head out? I'm ready to play some more music for the tavern."
+    p ""
+
+translate schinese Pirkka_Show_7365e21e:
+
+    # e "Sure."
+    e ""
+
+translate schinese Pirkka_Show_0d20747f:
+
+    # "As such, he strums a few chords as usual, before leaving the room with you."
+    ""
+
+translate schinese Pirkka_Show_7b1a1aa6:
+
+    # e "There's something else I need to work on, Pirkka."
+    e ""
+
+translate schinese Pirkka_Show_8ae9232f:
+
+    # p "Okay, but I'm not leaving the village anywhere soon."
+    p ""
+
+translate schinese Pirkka_Show_bc19c7e6:
+
+    # "He shoots you a wide grin, before fiddling with his lute once more."
     ""
 
 translate schinese Lothar_Prose_Ask_ee627328:
@@ -2978,6 +3998,60 @@ translate schinese strings:
     old "Ask around Lusterfield to find the prose' buyer."
     new ""
 
+    old "Accept his invitation"
+    new ""
+
+    old "A quest from the farm, {p}reveals the swindler from the plains, and the plums he tore."
+    new ""
+
+    old "He hid in sight, followed the thief, {p}and triumphed over the boss before."
+    new ""
+
+    old "He tracks him down, with ease and agility, the farm is safe once more."
+    new ""
+
+    old "Travelling citizens, attacked by a flowerless plant, {p}He followed Lothar, a challenge to the nature's wrath."
+    new ""
+
+    old "Without a second, the evil plant fell, {p} the heroes returned on a victorious path."
+    new ""
+
+    old "Keen for building, he meets a logger bear, {p}an endeavor to mend the tie of two factions."
+    new ""
+
+    old "He rebuilds the bridge, brick by brick, {p}a generous posture that no one expected."
+    new ""
+
+    old "A dangerous adventure, between the wheat field, {p}two rows of teeth lies beneath the ground."
+    new ""
+
+    old "He challenged, overcome, and eventually, beaten, {p}For he is greater than a shark unbound."
+    new ""
+
+    old "A new server, in the tavern of Lusterfield, {p}he restores not only the duty, but the passion of service."
+    new ""
+
+    old "Plates by plates, he delivered, {p}patron's favourites are he and his practice."
+    new ""
+
+    old "Although it's a story, you didn't defeat all the bandits. Should you correct his inaccuracy?"
+    new ""
+
+    old "Correct the story"
+    new ""
+
+    old "Ignore"
+    new ""
+
+    old "Your body is boiling with insatiable heat right now, perhaps you should cool off, or take your advance on the bard who is clearly waiting for your move."
+    new ""
+
+    old "Take off his clothes"
+    new ""
+
+    old "Back down"
+    new ""
+
     old "Ole remains silent, only staring at a confused Pirkka. And the bard looks at you instead."
     new ""
 
@@ -3035,9 +4109,6 @@ translate schinese strings:
     old "{s}Raw Meat{/s}"
     new ""
 
-    old "Blue Berry"
-    new ""
-
     old "{s}Blue Berry{/s}"
     new ""
 
@@ -3063,8 +4134,5 @@ translate schinese strings:
     new ""
 
     old "{s}Cashmere{/s}"
-    new ""
-
-    old "Nothing"
     new ""
 
