@@ -4342,12 +4342,12 @@ translate schinese Ole_Party_Begin_4cf9fe72:
 translate schinese Ole_Party_Begin_5e4e5ad3:
 
     # "Seb nods vehemently."
-    "塞巴斯疯狂点头。"
+    "塞巴斯疯狂点头，然而他们并未打消你的疑心。"
 
 translate schinese Ole_Party_Begin_590e0258:
 
     # "You still find this suspicious."
-    "他们并未打消你的疑心。"
+    pass
 
 translate schinese Ole_Party_Begin_dfcde6db:
 
@@ -4502,7 +4502,7 @@ translate schinese Ole_Party_Quest_a4dd4b09:
 translate schinese Ole_Party_Quest_82b9449e:
 
     # e "Hmmm... ok. But where is Ole?"
-    e "呃……好吧。奥利呢？"
+    e "呃……好的。奥利呢？"
 
 translate schinese Ole_Party_Quest_fd408bf7:
 
@@ -4522,7 +4522,7 @@ translate schinese Ole_Party_Quest_428246ed:
 translate schinese Ole_Party_Quest_7fb2f5cf:
 
     # e "Fine, I will find out what you two are planning."
-    e "行，我一定会搞清楚你们葫芦里卖得什么药。"
+    e "行吧，但我迟早会搞清你们到底在盘算什么。"
 
 translate schinese Ole_Party_Quest_7046102d:
 
@@ -4532,22 +4532,22 @@ translate schinese Ole_Party_Quest_7046102d:
 translate schinese Ole_Party_Quest_843d8969:
 
     # "You look around and the shop is empty."
-    "你环顾四周，不见谁的踪影。"
+    "你环顾四周，不见谁的踪影，也没人回应你。"
 
 translate schinese Ole_Party_Quest_92902dcb:
 
     # "No one responds to your call either."
-    "也没人回应你。"
+    pass
 
 translate schinese Ole_Party_Quest_7d280dfc:
 
     # "You look around and notice a note on the counter."
-    "你注意到收银台上有张便签。"
+    "你注意到收银台上有张便签——塞巴斯用潦草的笔迹写道："
 
 translate schinese Ole_Party_Quest_15986046:
 
     # "It is written in Seb's quirky handwriting."
-    "塞巴斯用潦草的笔迹写道："
+    pass
 
 translate schinese Ole_Party_Quest_793d2a58:
 
@@ -4557,7 +4557,8 @@ translate schinese Ole_Party_Quest_793d2a58:
 translate schinese Ole_Party_Quest_77071a39:
 
     # "Something was crossed out and Ole's flourishing handwriting corrected it to 'your training'."
-    "后面的字被涂得一团黑，紧接着用秀丽的花体补上——“汇报训练成果”。想必是奥利的笔迹。"
+    "后面的字被涂得一团黑，紧接着用秀丽的花体补上——“汇报训练成果”。"
+    "想必是奥利的笔迹。"
 
 translate schinese Ole_Party_Quest_907198ab:
 

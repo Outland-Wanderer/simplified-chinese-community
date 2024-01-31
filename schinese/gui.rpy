@@ -67,6 +67,7 @@ translate schinese style ruby_style is default:
 
 translate schinese style say_dialogue:
     ruby_style style.ruby_style
+    ruby_line_leading 12
 
 translate schinese style history_text:
     ruby_style style.ruby_style
