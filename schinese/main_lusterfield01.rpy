@@ -4289,290 +4289,291 @@ translate schinese strings:
 #     # e "Hmm... alright."
 #     e ""
 
-# translate schinese Ole_Party_Begin_5aa3fb82:
+translate schinese Ole_Party_Begin_5aa3fb82:
 
-#     # "As you walk out of your room, you can hear Seb and Ole whispering at the corner of the shop."
-#     ""
+    # "As you walk out of your room, you can hear Seb and Ole whispering at the corner of the shop."
+    "你刚出房门，便听到塞巴斯和奥利在店面角落说着悄悄话。"
 
-# translate schinese Ole_Party_Begin_0af482b4:
+translate schinese Ole_Party_Begin_0af482b4:
 
-#     # o "That'll be fun..."
-#     o ""
+    # o "That'll be fun..."
+    o "这会很有趣……"
 
-# translate schinese Ole_Party_Begin_7df85d20:
+translate schinese Ole_Party_Begin_7df85d20:
 
-#     # s "He's going to be so shocked..."
-#     s ""
+    # s "He's going to be so shocked..."
+    s "他肯定要惊掉下巴……"
 
-# translate schinese Ole_Party_Begin_9283830b:
+translate schinese Ole_Party_Begin_9283830b:
 
-#     # "You walk over to them."
-#     ""
+    # "You walk over to them."
+    "你朝他们走去。"
 
-# translate schinese Ole_Party_Begin_586ff9a7:
+translate schinese Ole_Party_Begin_586ff9a7:
 
-#     # e "What are you guys talking about?"
-#     e ""
+    # e "What are you guys talking about?"
+    e "你们在说什么？"
 
-# translate schinese Ole_Party_Begin_ceee7808:
+translate schinese Ole_Party_Begin_ceee7808:
 
-#     # "Seb jumps as he whips around to look at you. Ole is much more collected."
-#     ""
+    # "Seb jumps as he whips around to look at you. Ole is much more collected."
+    "塞巴斯吓到跳了起来，转过身看向你。奥利则淡定得多。"
 
-# translate schinese Ole_Party_Begin_85c26e1d:
+translate schinese Ole_Party_Begin_85c26e1d:
 
-#     # s "I-it's nothing!"
-#     s ""
+    # s "I-it's nothing!"
+    s "没、没什么！"
 
-# translate schinese Ole_Party_Begin_987e3d37:
+translate schinese Ole_Party_Begin_987e3d37:
 
-#     # e "Really?"
-#     e ""
+    # e "Really?"
+    e "真的吗？"
 
-# translate schinese Ole_Party_Begin_1b6e8a3d:
+translate schinese Ole_Party_Begin_1b6e8a3d:
 
-#     # o "Yes. We're just talking about the shop's business."
-#     o ""
+    # o "Yes. We're just talking about the shop's business."
+    o "真的，我们只是在讨论生意上的事情。"
 
-# translate schinese Ole_Party_Begin_4cf9fe72:
+translate schinese Ole_Party_Begin_4cf9fe72:
 
-#     # s "Yes, yes!"
-#     s ""
+    # s "Yes, yes!"
+    s "没错，没错！"
 
-# translate schinese Ole_Party_Begin_5e4e5ad3:
+translate schinese Ole_Party_Begin_5e4e5ad3:
 
-#     # "Seb nods vehemently."
-#     ""
+    # "Seb nods vehemently."
+    "塞巴斯疯狂点头，然而他们并未打消你的疑心。"
 
-# translate schinese Ole_Party_Begin_590e0258:
+translate schinese Ole_Party_Begin_590e0258:
 
-#     # "You still find this suspicious."
-#     ""
+    # "You still find this suspicious."
+    pass
 
-# translate schinese Ole_Party_Begin_dfcde6db:
+translate schinese Ole_Party_Begin_dfcde6db:
 
-#     # s "Anyway, Roomie, good fucking morning!"
-#     s ""
+    # s "Anyway, Roomie, good fucking morning!"
+    s "嗨呀，好室友，日踏马的安！"
 
-# translate schinese Ole_Party_Begin_28bc6f02:
+translate schinese Ole_Party_Begin_28bc6f02:
 
-#     # e "Good morning to you too."
-#     e ""
+    # e "Good morning to you too."
+    e "早安，各位。"
 
-# translate schinese Ole_Party_Begin_25579a4b:
+translate schinese Ole_Party_Begin_25579a4b:
 
-#     # "Then, this is this awkward silence."
-#     ""
+    # "Then, this is this awkward silence."
+    "而后便是尴尬的沉默。"
 
-# translate schinese Ole_Party_Begin_ce652538:
+translate schinese Ole_Party_Begin_ce652538:
 
-#     # "You have a feeling these two are hiding something but you don't know what."
-#     ""
+    # "You have a feeling these two are hiding something but you don't know what."
+    "你感觉他们有什么事瞒着你。"
 
-# translate schinese Ole_Party_Begin_e4d641b4:
+translate schinese Ole_Party_Begin_e4d641b4:
 
-#     # "Seb fidgets and eventually cracks."
-#     ""
+    # "Seb fidgets and eventually cracks."
+    "塞巴斯满面焦灼，无形的压力终于让他坚持不住了。"
 
-# translate schinese Ole_Party_Begin_86cb9fc7:
+translate schinese Ole_Party_Begin_86cb9fc7:
 
-#     # s "Alright, fine. We're talking about your..."
-#     s ""
+    # s "Alright, fine. We're talking about your..."
+    s "好吧，其实我们在说你的……"
 
-# translate schinese Ole_Party_Begin_9d7cceae:
+translate schinese Ole_Party_Begin_9d7cceae:
 
-#     # o "Training!"
-#     o ""
+    # o "Training!"
+    o "培训！"
 
-# translate schinese Ole_Party_Begin_072d8434:
+translate schinese Ole_Party_Begin_072d8434:
 
-#     # s "Yes, training!"
-#     s ""
+    # s "Yes, training!"
+    s "没错，培训！"
 
-# translate schinese Ole_Party_Begin_ebaa2af8:
+translate schinese Ole_Party_Begin_ebaa2af8:
 
-#     # e "Training? What kind of training?"
-#     e ""
+    # e "Training? What kind of training?"
+    e "培训？什么培训呢？"
 
-# translate schinese Ole_Party_Begin_993c18b7:
+translate schinese Ole_Party_Begin_993c18b7:
 
-#     # "Seb turns to Ole with pleading in his eyes."
-#     ""
+    # "Seb turns to Ole with pleading in his eyes."
+    "塞巴斯像看着救世主一般盯着奥利。"
 
-# translate schinese Ole_Party_Begin_54be7d07:
+translate schinese Ole_Party_Begin_54be7d07:
 
-#     # o "Your courier training."
-#     o ""
+    # o "Your courier training."
+    o "你的邮递员职业培训。"
 
-# translate schinese Ole_Party_Begin_1884c6e3:
+translate schinese Ole_Party_Begin_1884c6e3:
 
-#     # s "Yes, yes."
-#     s ""
+    # s "Yes, yes."
+    s "嗯嗯。"
 
-# translate schinese Ole_Party_Begin_a00f5e7d:
+translate schinese Ole_Party_Begin_a00f5e7d:
 
-#     # e "I thought I've finished my courier training."
-#     e ""
+    # e "I thought I've finished my courier training."
+    e "我不是早就完成了吗？"
 
-# translate schinese Ole_Party_Begin_5165afc8:
+translate schinese Ole_Party_Begin_5165afc8:
 
-#     # s "The training is never done. So, we need you to... erm..."
-#     s ""
+    # s "The training is never done. So, we need you to... erm..."
+    s "学无止境，所以我们想让你……呃……"
 
-# translate schinese Ole_Party_Begin_4f3a45f1:
+translate schinese Ole_Party_Begin_4f3a45f1:
 
-#     # "Seb ponders as a crease appears between his brows."
-#     ""
+    # "Seb ponders as a crease appears between his brows."
+    "黄毛狮子憋不出话，眉毛都要拧到一块了。"
 
-# translate schinese Ole_Party_Begin_816e20d1:
+translate schinese Ole_Party_Begin_816e20d1:
 
-#     # o "Forage some stones from the woods."
-#     o ""
+    # o "Forage some stones from the woods."
+    o "去树林找些石头回来。"
 
-# translate schinese Ole_Party_Begin_d207e06f:
+translate schinese Ole_Party_Begin_d207e06f:
 
-#     # s "Yes!"
-#     s ""
+    # s "Yes!"
+    s "对！"
 
-# translate schinese Ole_Party_Begin_62752422:
+translate schinese Ole_Party_Begin_62752422:
 
-#     # e "But haven't I already done that?"
-#     e ""
+    # e "But haven't I already done that?"
+    e "我之前不是找过石头回来吗？"
 
-# translate schinese Ole_Party_Begin_e1fb5104:
+translate schinese Ole_Party_Begin_e1fb5104:
 
-#     # s "Yes, but this time, you'll have to find four stones!"
-#     s ""
+    # s "Yes, but this time, you'll have to find four stones!"
+    s "虽然但是，这次你得找四块石头！"
 
-# translate schinese Ole_Party_Begin_2b40a022:
+translate schinese Ole_Party_Begin_2b40a022:
 
-#     # e "Huh?"
-#     e ""
+    # e "Huh?"
+    e "哈？"
 
-# translate schinese Ole_Party_Begin_6b79ca40:
+translate schinese Ole_Party_Begin_6b79ca40:
 
-#     # s "Yes, yes. It's good for your courier training. Now off you go."
-#     s ""
+    # s "Yes, yes. It's good for your courier training. Now off you go."
+    s "记住是四块，捡石不误挑担工，快去吧。"
 
-# translate schinese Ole_Party_Begin_a79a1dff:
+translate schinese Ole_Party_Begin_a79a1dff:
 
-#     # "Still confused, you are pushed out of the shop."
-#     ""
+    # "Still confused, you are pushed out of the shop."
+    "一头雾水的你被推出了店外。"
 
-# translate schinese Ole_Party_Quest_bb8f066a:
+translate schinese Ole_Party_Quest_bb8f066a:
 
-#     # e "Hello? Seb? Ole?"
-#     e ""
+    # e "Hello? Seb? Ole?"
+    e "有人吗？阿塞？奥利？"
 
-# translate schinese Ole_Party_Quest_6255458a:
+translate schinese Ole_Party_Quest_6255458a:
 
-#     # s "H-hey! M-My Best Roomie! Didn't I tell you to get the stones?"
-#     s ""
+    # s "H-hey! M-My Best Roomie! Didn't I tell you to get the stones?"
+    s "嘿——嘿，老铁！你不是去找石头了吗？"
 
-# translate schinese Ole_Party_Quest_e031ae85:
+translate schinese Ole_Party_Quest_e031ae85:
 
-#     # e "Hmm... I've got enough stones... or rocks."
-#     e ""
+    # e "Hmm... I've got enough stones... or rocks."
+    e "嗯……我已经捡够石头了……大的小的都有。"
 
-# translate schinese Ole_Party_Quest_eb619674:
+translate schinese Ole_Party_Quest_eb619674:
 
-#     # s "Uh..."
-#     s ""
+    # s "Uh..."
+    s "呃……"
 
-# translate schinese Ole_Party_Quest_f5b7ab01:
+translate schinese Ole_Party_Quest_f5b7ab01:
 
-#     # s "Then uhmm!!! Get more of them!"
-#     s ""
+    # s "Then uhmm!!! Get more of them!"
+    s "那就呃！！！去捡更多石头！"
 
-# translate schinese Ole_Party_Quest_c18eb48e:
+translate schinese Ole_Party_Quest_c18eb48e:
 
-#     # e "W-what?"
-#     e ""
+    # e "W-what?"
+    e "什么！？"
 
-# translate schinese Ole_Party_Quest_d0dea1df:
+translate schinese Ole_Party_Quest_d0dea1df:
 
-#     # e "How many should I get?"
-#     e ""
+    # e "How many should I get?"
+    e "我到底要捡多少个？"
 
-# translate schinese Ole_Party_Quest_a4dd4b09:
+translate schinese Ole_Party_Quest_a4dd4b09:
 
-#     # s "Uhh... it's gonna take some time. Just. Get Them As much as you can!"
-#     s ""
+    # s "Uhh... it's gonna take some time. Just. Get Them As much as you can!"
+    s "啊……现在还太早了。你就——能捡多少捡多少嘛！"
 
-# translate schinese Ole_Party_Quest_82b9449e:
+translate schinese Ole_Party_Quest_82b9449e:
 
-#     # e "Hmmm... ok. But where is Ole?"
-#     e ""
+    # e "Hmmm... ok. But where is Ole?"
+    e "呃……好的。奥利呢？"
 
-# translate schinese Ole_Party_Quest_fd408bf7:
+translate schinese Ole_Party_Quest_fd408bf7:
 
-#     # s "No..."
-#     s ""
+    # s "No..."
+    s "他不在……"
 
-# translate schinese Ole_Party_Quest_0b45ae74:
+translate schinese Ole_Party_Quest_0b45ae74:
 
-#     # e "No?"
-#     e ""
+    # e "No?"
+    e "不在？"
 
-# translate schinese Ole_Party_Quest_428246ed:
+translate schinese Ole_Party_Quest_428246ed:
 
-#     # s "He's busy with... uh... stuff. Now go and get those rocks!"
-#     s ""
+    # s "He's busy with... uh... stuff. Now go and get those rocks!"
+    s "他在忙……诶……他的事情。现在快去捡石头吧！"
 
-# translate schinese Ole_Party_Quest_7fb2f5cf:
+translate schinese Ole_Party_Quest_7fb2f5cf:
 
-#     # e "Fine, I will find out what you two are planning."
-#     e ""
+    # e "Fine, I will find out what you two are planning."
+    e "行吧，但我迟早会搞清你们到底在盘算什么。"
 
-# translate schinese Ole_Party_Quest_7046102d:
+translate schinese Ole_Party_Quest_7046102d:
 
-#     # s "Hmm! Good Luck!!"
-#     s ""
+    # s "Hmm! Good Luck!!"
+    s "啊啊！祝你好运！！"
 
-# translate schinese Ole_Party_Quest_843d8969:
+translate schinese Ole_Party_Quest_843d8969:
 
-#     # "You look around and the shop is empty."
-#     ""
+    # "You look around and the shop is empty."
+    "你环顾四周，不见谁的踪影，也没人回应你。"
 
-# translate schinese Ole_Party_Quest_92902dcb:
+translate schinese Ole_Party_Quest_92902dcb:
 
-#     # "No one responds to your call either."
-#     ""
+    # "No one responds to your call either."
+    pass
 
-# translate schinese Ole_Party_Quest_7d280dfc:
+translate schinese Ole_Party_Quest_7d280dfc:
 
-#     # "You look around and notice a note on the counter."
-#     ""
+    # "You look around and notice a note on the counter."
+    "你注意到收银台上有张便签——塞巴斯用潦草的笔迹写道："
 
-# translate schinese Ole_Party_Quest_15986046:
+translate schinese Ole_Party_Quest_15986046:
 
-#     # "It is written in Seb's quirky handwriting."
-#     ""
+    # "It is written in Seb's quirky handwriting."
+    pass
 
-# translate schinese Ole_Party_Quest_793d2a58:
+translate schinese Ole_Party_Quest_793d2a58:
 
-#     # s "Roomie! Come meet us at Cane's tavern! We'll meet you there for ----"
-#     s ""
+    # s "Roomie! Come meet us at Cane's tavern! We'll meet you there for ----"
+    s "老铁！快来夜夜椿，我们都在等你——"
 
-# translate schinese Ole_Party_Quest_77071a39:
+translate schinese Ole_Party_Quest_77071a39:
 
-#     # "Something was crossed out and Ole's flourishing handwriting corrected it to 'your training'."
-#     ""
+    # "Something was crossed out and Ole's flourishing handwriting corrected it to 'your training'."
+    "后面的字被涂得一团黑，紧接着用秀丽的花体补上——“汇报训练成果”。"
+    "想必是奥利的笔迹。"
 
-# translate schinese Ole_Party_Quest_907198ab:
+translate schinese Ole_Party_Quest_907198ab:
 
-#     # "This is befuddling. Honestly, you are intrigued too."
-#     ""
+    # "This is befuddling. Honestly, you are intrigued too."
+    "这太不对劲了，但诚然你却十分好奇。"
 
-# translate schinese Ole_Party_Quest_365159e6:
+translate schinese Ole_Party_Quest_365159e6:
 
-#     # e "...Hmmm what are they planning..."
-#     e ""
+    # e "...Hmmm what are they planning..."
+    e "唔……他们到底想干什么……"
 
-# translate schinese Ole_Party_Quest_0730bb61:
+translate schinese Ole_Party_Quest_0730bb61:
 
-#     # "You decide to leave the shop, and head to the tavern..."
-#     ""
+    # "You decide to leave the shop, and head to the tavern..."
+    "你决定去酒馆一探究竟……"
 
 translate schinese Ole_Ask_Ointment_Quest_f47af4b4:
 
