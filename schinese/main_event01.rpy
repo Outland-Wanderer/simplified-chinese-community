@@ -3498,7 +3498,7 @@ translate schinese Event_Party01_Sebas_0253eeee:
 translate schinese Event_Party01_Sebas_7666eac0:
 
     # e "What about them?"
-    e "会哭的孩子有奶吃，遭罪的命根惹人疼嘛。"
+    e "会哭的孩子有奶吃，遭罪的宝贝惹人疼嘛。"
 
 translate schinese Event_Party01_Sebas_5443dac7:
 
