@@ -3498,17 +3498,17 @@ translate schinese Event_Party01_Sebas_0253eeee:
 translate schinese Event_Party01_Sebas_7666eac0:
 
     # e "What about them?"
-    e ""
+    e "会哭的孩子有奶吃，遭罪的命根惹人疼嘛。"
 
 translate schinese Event_Party01_Sebas_5443dac7:
 
     # "You smirk."
-    "你得意地窃笑。"
+    "你得意地上扬嘴角。"
 
 translate schinese Event_Party01_Sebas_4b7ea74e:
 
     # s "Very slick, buddy."
-    s "机智，非常机智。"
+    s "嗨呀，真是说不过你。"
 
 translate schinese Event_Party01_Sebas_bf42394a:
 
@@ -3533,7 +3533,7 @@ translate schinese Event_Party01_Sebas_5b6a6b95:
 translate schinese Event_Party01_Sebas_1d0563be:
 
     # s "But still, I can't help but worry. I've seen the same thing happen with Ole."
-    s "可我还是没法不担心你，因为奥利就被影响了。"
+    s "可我还是没法不担心，因为奥利就被他们的负能量影响了。"
 
 translate schinese Event_Party01_Sebas_3ec5fc6b:
 
