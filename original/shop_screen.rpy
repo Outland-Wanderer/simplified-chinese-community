@@ -203,9 +203,9 @@ translate schinese Gwyddyon_Shopping_Loop_d290fb34:
     # g "Good fabric, very resilient, and believe this or not, the fabric is popular among the nobles and rich people in the high castles, yes it's real. We can sell this for [mmm] gold."
     g ""
 
-translate schinese Gwyddyon_Shopping_Loop_a6f8384b:
+translate schinese Gwyddyon_Shopping_Loop_875452c5:
 
-    # g "At first, people called its tree - Alder, but at some point I guess someone projected their personal experience into the name of a tree. What a tragedy... Heh, maybe you too would like some for [mmm] gold?"
+    # g "At first, people called its tree - Alder, but at some point I guess someone projected their personal experience into the name of a tree. What a tragedy... Hmm, maybe you too would like some for [mmm] gold?"
     g ""
 
 translate schinese Gwyddyon_Shopping_Loop_2c65202d:
@@ -221,6 +221,21 @@ translate schinese Gwyddyon_Shopping_Loop_63432e0c:
 translate schinese Gwyddyon_Shopping_Loop_f1780300:
 
     # g "This book was sold to me just a while ago. Said it was good for your healing power, perhaps it has something in common with my crystals. Anyhow, [mmm] gold and it's yours."
+    g ""
+
+translate schinese Gwyddyon_Shopping_Loop_5a80a299:
+
+    # g "After the two dimwits came back from the cave, one of them, the general came and dropped his little spell book here."
+    g ""
+
+translate schinese Gwyddyon_Shopping_Loop_6f08bf96:
+
+    # g "He said something along the lines of 'Sparing a spell for the courier.'. Heh, he didn't even tell you about it, did he? Well, [mmm] gold and it's yours."
+    g ""
+
+translate schinese Gwyddyon_Shopping_Loop_c2f3fedd:
+
+    # g "I don't know where this came from, but it's a good spell book for the fire wizards. I reckon the lion sells a book that could be a great combination for this. Now, would you pay [mmm] gold for the spell?"
     g ""
 
 translate schinese Gwyddyon_Shopping_Loop_ecc4b476:

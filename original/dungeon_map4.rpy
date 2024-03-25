@@ -2947,6 +2947,9 @@ translate schinese strings:
     old "No{#chelfortehole}"
     new ""
 
+    old "What should you do?"
+    new ""
+
     old "Go through the hole"
     new ""
 

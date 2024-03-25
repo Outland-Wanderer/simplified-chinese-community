@@ -119,6 +119,9 @@ translate schinese strings:
     old "Arthur"
     new ""
 
+    old "Hezzong"
+    new ""
+
     old "Speedy Bandit"
     new ""
 
@@ -140,28 +143,28 @@ translate schinese strings:
     old "Gato"
     new ""
 
-    old "Self Heal: {p} You can heal back a portion of your health scaling with your INT. Costs 30 MP. Cooldown: 1 Round."
+    old "Self Heal: {p} You can heal back a portion of your health scaling with your INT."
     new ""
 
-    old "Fortify: {p} Your defense is increased by a significant amount for this round. Costs 20 MP. Cooldown: 2 Round."
+    old "Fortify: {p} Your defense is increased by a significant amount for this round."
     new ""
 
-    old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA. Costs 20 MP. Cooldown: 2 Round."
+    old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA."
     new ""
 
-    old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round. Costs 35 MP. Cooldown: 1 Round."
+    old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round."
     new ""
 
-    old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI. Costs 20 MP. Cooldown: 3 Round."
+    old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI."
     new ""
 
-    old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP. Cooldown: 1 Round."
+    old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT."
     new ""
 
-    old "Resolution: {p} Reduce your Lust based on your INT. Costs 25 MP. Cooldown: 1 Round."
+    old "Resolution: {p} Reduce your Lust based on your INT."
     new ""
 
-    old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI. Costs 35 MP. Cooldown: 2 Round."
+    old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI."
     new ""
 
     old "A small red potion that replenishes the user's HP for a small amount."

@@ -173,397 +173,397 @@ translate schinese Dark_Forest1_Mimic_68fd897f:
     # "You scream, its tongue is slithering out, trying to latch on you..."
     ""
 
-translate schinese Moonlit_Dungeon_Loop_905acc56:
+translate schinese Moonlit_Wolf_Den_Loop_905acc56:
 
     # "You exit the werewolves' den."
     ""
 
-translate schinese Moonlit_Dungeon_Loop_3d7485e3:
+translate schinese Moonlit_Wolf_Den_Loop_3d7485e3:
 
     # ww2 "Ready to hunt, little prey? I can give you a private lesson. Only us two."
     ww2 ""
 
-translate schinese Moonlit_Dungeon_Loop_ff1e3f4f:
+translate schinese Moonlit_Wolf_Den_Loop_ff1e3f4f:
 
     # e "Uh, no thanks..."
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_ca8a2444:
+translate schinese Moonlit_Wolf_Den_Loop_ca8a2444:
 
     # "The werewolf is snoring loudly, much of what's expected from a werewolf in dark forest."
     ""
 
-translate schinese Moonlit_Dungeon_Loop_0ccc0518:
+translate schinese Moonlit_Wolf_Den_Loop_0ccc0518:
 
     # ww4 "Duh, duh, duh, duh... duh..."
     ww4 ""
 
-translate schinese Moonlit_Dungeon_Loop_52698b70:
+translate schinese Moonlit_Wolf_Den_Loop_52698b70:
 
     # "He seems to be mumbling some tunes, but you don't recognise that."
     ""
 
-translate schinese Moonlit_Dungeon_Loop_42d3cff0:
+translate schinese Moonlit_Wolf_Den_Loop_42d3cff0:
 
     # ww5 "See this, I call this un-clawing."
     ww5 ""
 
-translate schinese Moonlit_Dungeon_Loop_5779d5ae:
+translate schinese Moonlit_Wolf_Den_Loop_5779d5ae:
 
     # "The werewolf says as he throws a fist towards you."
     ""
 
-translate schinese Moonlit_Dungeon_Loop_7a490476:
+translate schinese Moonlit_Wolf_Den_Loop_7a490476:
 
     # ww5 "I'm using my claws, but instead of opening my palm, I close it like this."
     ww5 ""
 
-translate schinese Moonlit_Dungeon_Loop_862f1f5a:
+translate schinese Moonlit_Wolf_Den_Loop_862f1f5a:
 
     # e "Isn't that just punching?"
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_a9a5c68a:
+translate schinese Moonlit_Wolf_Den_Loop_a9a5c68a:
 
     # ww5 "No! I call this un-clawing, didn't you hear? I hide all these nails to increase my raw power."
     ww5 ""
 
-translate schinese Moonlit_Dungeon_Loop_85e3ee8c:
+translate schinese Moonlit_Wolf_Den_Loop_85e3ee8c:
 
     # ww5 "It's good for when you want to knock someone out. Do you wanna try?"
     ww5 ""
 
-translate schinese Moonlit_Dungeon_Loop_0ddd972d:
+translate schinese Moonlit_Wolf_Den_Loop_0ddd972d:
 
     # e "To punch?"
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_aa3379c4:
+translate schinese Moonlit_Wolf_Den_Loop_aa3379c4:
 
     # ww5 "No, I am the one un-clawing."
     ww5 ""
 
-translate schinese Moonlit_Dungeon_Loop_c65146e8:
+translate schinese Moonlit_Wolf_Den_Loop_c65146e8:
 
     # ww "Three pieces of meat, one piece of bone... 5 or 6 bottles of wine... and a book?"
     ww ""
 
-translate schinese Moonlit_Dungeon_Loop_67e75883:
+translate schinese Moonlit_Wolf_Den_Loop_67e75883:
 
     # ww "Which son of a tool put a book in our inventory again, you can't eat all that pages."
     ww ""
 
-translate schinese Moonlit_Dungeon_Loop_694cbcb6:
+translate schinese Moonlit_Wolf_Den_Loop_694cbcb6:
 
     # ww "Unless...?"
     ww ""
 
-translate schinese Moonlit_Dungeon_Loop_0a8673d7:
+translate schinese Moonlit_Wolf_Den_Loop_0a8673d7:
 
     # ww3 "You're not werewolf-shaped... you are not even wolf-shaped."
     ww3 ""
 
-translate schinese Moonlit_Dungeon_Loop_13c9dfe2:
+translate schinese Moonlit_Wolf_Den_Loop_13c9dfe2:
 
     # e "Uffe allowed me here."
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_f96bd936:
+translate schinese Moonlit_Wolf_Den_Loop_f96bd936:
 
     # ww3 "Alright, walking meat. I'll one-up the alpha and allow you in my stomach, wanna come in?"
     ww3 ""
 
-translate schinese Moonlit_Dungeon_Loop_6b70fcfd:
+translate schinese Moonlit_Wolf_Den_Loop_6b70fcfd:
 
     # e "Uhmm..."
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_bcc0cfd4:
+translate schinese Moonlit_Wolf_Den_Loop_bcc0cfd4:
 
     # tart "No take! Tres-Passers deserves no meat."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_4539288e:
+translate schinese Moonlit_Wolf_Den_Loop_4539288e:
 
     # tart "Alpha says, food is for Alpha."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_b35739cc:
+translate schinese Moonlit_Wolf_Den_Loop_b35739cc:
 
     # tart "What you doing, tres-Passer?"
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_3df6c54a:
+translate schinese Moonlit_Wolf_Den_Loop_3df6c54a:
 
     # e "Uh... I'm just looking around, who are you?"
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_656dcedc:
+translate schinese Moonlit_Wolf_Den_Loop_656dcedc:
 
     # tart "Is Tart."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_2e7a1469:
+translate schinese Moonlit_Wolf_Den_Loop_2e7a1469:
 
     # e "Oh, you mean the food?"
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_7ac52210:
+translate schinese Moonlit_Wolf_Den_Loop_7ac52210:
 
     # tart "No, food doesn't like Tart. I am Tart."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_ac078a88:
+translate schinese Moonlit_Wolf_Den_Loop_ac078a88:
 
     # e "O-ok, that was confusing to say the least."
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_3c04a8eb:
+translate schinese Moonlit_Wolf_Den_Loop_3c04a8eb:
 
     # tart "You are watching out. Alpha says what, you do what."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_735938b3:
+translate schinese Moonlit_Wolf_Den_Loop_735938b3:
 
     # tart "Alpha saying, you keep silent."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_a851c4e0:
+translate schinese Moonlit_Wolf_Den_Loop_a851c4e0:
 
     # tart "Saying no means death. No?"
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_10f12935:
+translate schinese Moonlit_Wolf_Den_Loop_10f12935:
 
     # "You're not entirely sure what he means, so you just nod."
     ""
 
-translate schinese Moonlit_Dungeon_Loop_adae0872:
+translate schinese Moonlit_Wolf_Den_Loop_adae0872:
 
     # e "Uh, yes."
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_218493f3:
+translate schinese Moonlit_Wolf_Den_Loop_218493f3:
 
     # e "Are you very close with Uffe?"
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_fff05497:
+translate schinese Moonlit_Wolf_Den_Loop_fff05497:
 
     # tart "He's Alpha, Tart helps alpha. Very easy to under-Stand."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_faaf10ad:
+translate schinese Moonlit_Wolf_Den_Loop_faaf10ad:
 
     # "Tart says as he scratches the ground with his nails."
     ""
 
-translate schinese Moonlit_Dungeon_Loop_65cd3976:
+translate schinese Moonlit_Wolf_Den_Loop_65cd3976:
 
     # e "What do you do other than... defending the alpha?"
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_551a6ce1:
+translate schinese Moonlit_Wolf_Den_Loop_551a6ce1:
 
     # tart "Tart's purpose is to keep alpha safe."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_b8b2ef72:
+translate schinese Moonlit_Wolf_Den_Loop_b8b2ef72:
 
     # "The grey werewolf scratches the fur on his chin, then continues staring at you."
     ""
 
-translate schinese Moonlit_Dungeon_Loop_3938219b:
+translate schinese Moonlit_Wolf_Den_Loop_3938219b:
 
     # tart "If you raise weapon, Tart will kill. Don't do that, no?"
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_0ccf3691:
+translate schinese Moonlit_Wolf_Den_Loop_0ccf3691:
 
     # e "A-alright, you have my words."
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_d3ce2f6b:
+translate schinese Moonlit_Wolf_Den_Loop_d3ce2f6b:
 
     # tart "Alpha is mad. No one solves the puzzle."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_9d679405:
+translate schinese Moonlit_Wolf_Den_Loop_9d679405:
 
     # e "Uffe told me to go there as well, what's the puzzle like?"
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_f4e82445:
+translate schinese Moonlit_Wolf_Den_Loop_f4e82445:
 
     # tart "Not seen. Tart sends one of us to stay. He stucks still. It takes too long."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_bbcd7f58:
+translate schinese Moonlit_Wolf_Den_Loop_bbcd7f58:
 
     # tart "We need hunt, not think. Alpha is not understanding. But Tart... protects alpha."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_e8a0aa93:
+translate schinese Moonlit_Wolf_Den_Loop_e8a0aa93:
 
     # tart "You need please alpha. Think. Think!"
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_9699ca4c:
+translate schinese Moonlit_Wolf_Den_Loop_9699ca4c:
 
     # tart "Were-Wolves escaped. Alpha is mad again. You blow whistle, easy."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_9a1f141d:
+translate schinese Moonlit_Wolf_Den_Loop_9a1f141d:
 
     # e "Who are these werewolves that we needed to catch, Tart?"
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_4b94f020:
+translate schinese Moonlit_Wolf_Den_Loop_4b94f020:
 
     # tart "Tart's frien-"
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_9a7c6f8e:
+translate schinese Moonlit_Wolf_Den_Loop_9a7c6f8e:
 
     # tart "Enemy! They are alpha's enemy."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_197f5f3e:
+translate schinese Moonlit_Wolf_Den_Loop_197f5f3e:
 
     # e "Friends? Have you talked with them before?"
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_e410c704:
+translate schinese Moonlit_Wolf_Den_Loop_e410c704:
 
     # tart "Yes, but they changed."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_9558395b:
+translate schinese Moonlit_Wolf_Den_Loop_9558395b:
 
     # tart "I never know when they leave. I... not under-Stand."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_4304f433:
+translate schinese Moonlit_Wolf_Den_Loop_4304f433:
 
     # tart "Our pack is always good. Why they want to leave..."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_40037e54:
+translate schinese Moonlit_Wolf_Den_Loop_40037e54:
 
     # tart "It's end. Amulet is back for alpha."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_34fc010b:
+translate schinese Moonlit_Wolf_Den_Loop_34fc010b:
 
     # e "Can you let me know what's the use of that moonstone amulet?"
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_b0b5ce3c:
+translate schinese Moonlit_Wolf_Den_Loop_b0b5ce3c:
 
     # tart "More power. You sacrifice something for more power."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_d7190bfe:
+translate schinese Moonlit_Wolf_Den_Loop_d7190bfe:
 
     # tart "Alpha says he can use full potential of the amulet, but Tart does not under-Stand."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_eaa7af4f:
+translate schinese Moonlit_Wolf_Den_Loop_eaa7af4f:
 
     # tart "Soon we conquer out of dark forest, amulet is only first step."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_7956263b:
+translate schinese Moonlit_Wolf_Den_Loop_7956263b:
 
     # tart "The brothers are back."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_d4a52cdd:
+translate schinese Moonlit_Wolf_Den_Loop_d4a52cdd:
 
     # e "W-wait, so where are they... did Uffe really killed them?"
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_38ed7a29:
+translate schinese Moonlit_Wolf_Den_Loop_38ed7a29:
 
     # tart "No, no yet. They're locked away."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_72a3960c:
+translate schinese Moonlit_Wolf_Den_Loop_72a3960c:
 
     # tart "Alpha says there is some use to them, so Tart guards Tetto and Rumma."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_a4d5004e:
+translate schinese Moonlit_Wolf_Den_Loop_a4d5004e:
 
     # "The grey werewolf stares at you silently."
     ""
 
-translate schinese Moonlit_Dungeon_Loop_c8c98a6c:
+translate schinese Moonlit_Wolf_Den_Loop_c8c98a6c:
 
     # "You hear a rumbling sound in the direction of the grey werewolf."
     ""
 
-translate schinese Moonlit_Dungeon_Loop_0259bd4a:
+translate schinese Moonlit_Wolf_Den_Loop_0259bd4a:
 
     # e "Uh, Tart, you need some food?"
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_b9cb10cf:
+translate schinese Moonlit_Wolf_Den_Loop_b9cb10cf:
 
     # tart "N-no. Tart is not to eat at this time."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_194d9846:
+translate schinese Moonlit_Wolf_Den_Loop_194d9846:
 
     # "He turns his head away."
     ""
 
-translate schinese Moonlit_Dungeon_Loop_7a8a32a6:
+translate schinese Moonlit_Wolf_Den_Loop_7a8a32a6:
 
     # tart "Hey, tres-Passer, Tart's hungry. Meat?"
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_764762c7:
+translate schinese Moonlit_Wolf_Den_Loop_764762c7:
 
     # e "D-don't your pack have food?"
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_c1207026:
+translate schinese Moonlit_Wolf_Den_Loop_c1207026:
 
     # tart "Food's not for Tart, it's for alpha."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_6eff2123:
+translate schinese Moonlit_Wolf_Den_Loop_6eff2123:
 
     # e "Uh... Can't you just ask Alpha? You're like his right-hand wolf after all."
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_d5f8a38a:
+translate schinese Moonlit_Wolf_Den_Loop_d5f8a38a:
 
     # tart "Meat, give meat. Tart's tummy shouting."
     tart ""
 
-translate schinese Moonlit_Dungeon_Loop_2f84492b:
+translate schinese Moonlit_Wolf_Den_Loop_2f84492b:
 
     # e "Alright, how much do you want?"
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_951c9847:
+translate schinese Moonlit_Wolf_Den_Loop_951c9847:
 
     # tart "If tres-Passer has 5 meat, Tart gives toys." nointeract
     tart "" nointeract
 
-translate schinese Moonlit_Dungeon_Loop_63c20ab3:
+translate schinese Moonlit_Wolf_Den_Loop_63c20ab3:
 
     # e "Alright, I'll get you the meat."
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_7eab199b:
+translate schinese Moonlit_Wolf_Den_Loop_7eab199b:
 
     # e "Sorry, I don't have that many meat."
     e ""
 
-translate schinese Moonlit_Dungeon_Loop_d0ad19fe:
+translate schinese Moonlit_Wolf_Den_Loop_d0ad19fe:
 
     # tart "Ok. Tart stays, hungry."
     tart ""

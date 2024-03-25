@@ -158,9 +158,9 @@ translate schinese caproot_battle_loop_31ad1fd1:
     # "The caproot's root binds your horns, you are silenced for 2 rounds."
     ""
 
-translate schinese caproot_battle_loop_e678a554:
+translate schinese caproot_battle_loop_920ba405:
 
-    # "The caproot heals himself with his own carrot, his health increases by [healing] HP."
+    # "The caproot heals himself with his own carrot."
     ""
 
 translate schinese caproot_win_b80cb596:
@@ -928,96 +928,6 @@ translate schinese heftyslime_battle_31dfe629:
     # "You are facing a hefty slime, the viscous goo is dripping slightly, and bounces towards you. You raise your [pc.weapon.name!t] in response."
     ""
 
-translate schinese heftyslime_battle_loop_310669df:
-
-    # "You aim and slash your [pc.weapon.name!t] at the slime, but you simply miss it by inches."
-    ""
-
-translate schinese heftyslime_battle_loop_028919d3:
-
-    # "You aim and shoot your [pc.weapon.name!t] at the slime, but you simply miss it by inches."
-    ""
-
-translate schinese heftyslime_battle_loop_528f2532:
-
-    # "You throw your fist at the slime, but you simply miss it by inches."
-    ""
-
-translate schinese heftyslime_battle_loop_3180262a:
-
-    # "You slash your [pc.weapon.name!t] at the top of the slime, your blade grazes through it easily."
-    ""
-
-translate schinese heftyslime_battle_loop_b77f2e9e:
-
-    # "You slam your [pc.weapon.name!t] at the slime, splitting it apart halfway."
-    ""
-
-translate schinese heftyslime_battle_loop_8a367d9d:
-
-    # "You run while shooting your [pc.weapon.name!t] at the slime, penetrating and creating a hole where the arrow passes."
-    ""
-
-translate schinese heftyslime_battle_loop_0419b54a:
-
-    # "You punch into the slime, it bends around your fist while some of its body were knocked away."
-    ""
-
-translate schinese heftyslime_battle_loop_064f2c93:
-
-    # "Part of the slime drops on the ground, while part rejoins its main body."
-    ""
-
-translate schinese heftyslime_battle_loop_be25a18b:
-
-    # "Its health decreases by [oa[4]] HP."
-    ""
-
-translate schinese heftyslime_battle_loop_f718fd7c:
-
-    # "You've critically hit the slime, dealing [oa[4]] HP!"
-    ""
-
-translate schinese heftyslime_battle_loop_021d1316:
-
-    # "As much as you try to... flirt with the slime, it doesn't flinch, or get aroused."
-    ""
-
-translate schinese heftyslime_battle_loop_6bcff645:
-
-    # "You back off before it tries to grab a hold of your body."
-    ""
-
-translate schinese heftyslime_battle_loop_89f13d8f:
-
-    # "You can't escape from the arena."
-    ""
-
-translate schinese heftyslime_battle_loop_8dcd2812:
-
-    # "You slowly back away from the slime's attack, you turn around and run as fast as you can."
-    ""
-
-translate schinese heftyslime_battle_loop_9ba5c618:
-
-    # "Just as you are about to escape, you trip on the slime and fall. Your escape seems to have failed!"
-    ""
-
-translate schinese heftyslime_battle_loop_b3c77f40:
-
-    # "The slime tries to catch you but it barely slips from your body, You successfully escaped from the slime!"
-    ""
-
-translate schinese heftyslime_battle_loop_5acbb91f:
-
-    # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the slime."
-    ""
-
-translate schinese heftyslime_battle_loop_065dedb3:
-
-    # "The slime slithers toward you while it seems to be prepares for something bigger..."
-    ""
-
 translate schinese heftyslime_battle_loop_84fce0d9:
 
     # "The slime flings itself towards you, but you are not quick enough to dodge it. It drains your health by [enemy_damage] HP."
@@ -1026,11 +936,6 @@ translate schinese heftyslime_battle_loop_84fce0d9:
 translate schinese heftyslime_battle_loop_5da63ef3:
 
     # "The slime slaps your leg, knocking you on the ground. It drains your health by [enemy_damage] HP."
-    ""
-
-translate schinese heftyslime_battle_loop_95658ef9:
-
-    # "The slime heals itself by [healing]."
     ""
 
 translate schinese heftyslime_battle_loop_6366e22a:
@@ -1118,96 +1023,6 @@ translate schinese malignantslime_battle_0d4fe669:
     # "You are facing a malignant slime, the viscous goo is dripping slightly, its eyes drooling towards you. You raise your [pc.weapon.name!t] in response."
     ""
 
-translate schinese malignantslime_battle_loop_310669df:
-
-    # "You aim and slash your [pc.weapon.name!t] at the slime, but you simply miss it by inches."
-    ""
-
-translate schinese malignantslime_battle_loop_028919d3:
-
-    # "You aim and shoot your [pc.weapon.name!t] at the slime, but you simply miss it by inches."
-    ""
-
-translate schinese malignantslime_battle_loop_528f2532:
-
-    # "You throw your fist at the slime, but you simply miss it by inches."
-    ""
-
-translate schinese malignantslime_battle_loop_3180262a:
-
-    # "You slash your [pc.weapon.name!t] at the top of the slime, your blade grazes through it easily."
-    ""
-
-translate schinese malignantslime_battle_loop_b77f2e9e:
-
-    # "You slam your [pc.weapon.name!t] at the slime, splitting it apart halfway."
-    ""
-
-translate schinese malignantslime_battle_loop_8a367d9d:
-
-    # "You run while shooting your [pc.weapon.name!t] at the slime, penetrating and creating a hole where the arrow passes."
-    ""
-
-translate schinese malignantslime_battle_loop_0419b54a:
-
-    # "You punch into the slime, it bends around your fist while some of its body were knocked away."
-    ""
-
-translate schinese malignantslime_battle_loop_064f2c93:
-
-    # "Part of the slime drops on the ground, while part rejoins its main body."
-    ""
-
-translate schinese malignantslime_battle_loop_be25a18b:
-
-    # "Its health decreases by [oa[4]] HP."
-    ""
-
-translate schinese malignantslime_battle_loop_f718fd7c:
-
-    # "You've critically hit the slime, dealing [oa[4]] HP!"
-    ""
-
-translate schinese malignantslime_battle_loop_021d1316:
-
-    # "As much as you try to... flirt with the slime, it doesn't flinch, or get aroused."
-    ""
-
-translate schinese malignantslime_battle_loop_6bcff645:
-
-    # "You back off before it tries to grab a hold of your body."
-    ""
-
-translate schinese malignantslime_battle_loop_89f13d8f:
-
-    # "You can't escape from the arena."
-    ""
-
-translate schinese malignantslime_battle_loop_8dcd2812:
-
-    # "You slowly back away from the slime's attack, you turn around and run as fast as you can."
-    ""
-
-translate schinese malignantslime_battle_loop_9ba5c618:
-
-    # "Just as you are about to escape, you trip on the slime and fall. Your escape seems to have failed!"
-    ""
-
-translate schinese malignantslime_battle_loop_b3c77f40:
-
-    # "The slime tries to catch you but it barely slips from your body, You successfully escaped from the slime!"
-    ""
-
-translate schinese malignantslime_battle_loop_5acbb91f:
-
-    # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the slime."
-    ""
-
-translate schinese malignantslime_battle_loop_065dedb3:
-
-    # "The slime slithers toward you while it seems to be prepares for something bigger..."
-    ""
-
 translate schinese malignantslime_battle_loop_ef85913b:
 
     # "The malignant slime throws its gooey arms towards you, but you are not quick enough to dodge it. It drains your health by [enemy_damage] HP."
@@ -1216,11 +1031,6 @@ translate schinese malignantslime_battle_loop_ef85913b:
 translate schinese malignantslime_battle_loop_a2251f49:
 
     # "The malignant slime slaps you in your sides, knocking you on the ground. It drains your health by [enemy_damage] HP."
-    ""
-
-translate schinese malignantslime_battle_loop_510f8729:
-
-    # "The malignant slime heals itself by [healing]."
     ""
 
 translate schinese malignantslime_battle_loop_33fe67ce:
@@ -1241,11 +1051,6 @@ translate schinese malignantslime_battle_loop_fa3e35f2:
 translate schinese malignantslime_battle_loop_add6ad39:
 
     # "It drains [healing] HP from the hefty slime."
-    ""
-
-translate schinese malignantslime_battle_loop_7ebe40d6:
-
-    # "You healed [healing] HP."
     ""
 
 translate schinese malignantslime_battle_loop_dde7a710:
@@ -1274,51 +1079,6 @@ translate schinese malignantslime_battle_loop_f93c263b:
     ""
 
 translate schinese malignantslime_battle_loop_f47325dc:
-
-    # "Instantly your mind is filled with sexual scenes, you can't shake that thought... that image of you being naked with everyone else. Your lust increased by [enemy_flirt]."
-    ""
-
-translate schinese malignantslime_battle_loop_2959f96c:
-
-    # "The hefty slime flings itself towards you, but you are not quick enough to dodge it. It drains your health by [enemy_damage] HP."
-    ""
-
-translate schinese malignantslime_battle_loop_48f5577a:
-
-    # "The hefty slime slaps your leg, knocking you on the ground. It drains your health by [enemy_damage] HP."
-    ""
-
-translate schinese malignantslime_battle_loop_64c5da02:
-
-    # "The hefty slime heals itself by [healing]."
-    ""
-
-translate schinese malignantslime_battle_loop_7d6fd61f:
-
-    # "The hefty slime flings itself towards you, but you manage to dodge its attack."
-    ""
-
-translate schinese malignantslime_battle_loop_dac9fbc7:
-
-    # "The hefty slime tries to slaps your leg, but it misses by inches."
-    ""
-
-translate schinese malignantslime_battle_loop_915639b4:
-
-    # "The hefty slime wraps itself around your hands, coating it with slippery goo before letting go of you."
-    ""
-
-translate schinese malignantslime_battle_loop_8edffc8a:
-
-    # "You are now silenced."
-    ""
-
-translate schinese malignantslime_battle_loop_abda05a6:
-
-    # "The hefty slime splashes itself onto your body, and infuses some form of... aphrodisiac through your fur."
-    ""
-
-translate schinese malignantslime_battle_loop_f47325dc_1:
 
     # "Instantly your mind is filled with sexual scenes, you can't shake that thought... that image of you being naked with everyone else. Your lust increased by [enemy_flirt]."
     ""

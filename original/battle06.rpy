@@ -73,9 +73,9 @@ translate schinese bandit_battle_loop_d8d2e712:
     # bd "Didn't see this coming, haha. Pethetic!"
     bd ""
 
-translate schinese bandit_battle_loop_682a5877:
+translate schinese bandit_battle_loop_6add9614:
 
-    # "The bandit drinks a health potion. Healing himself [heal_amount] HP."
+    # "The bandit drinks a health potion."
     ""
 
 translate schinese bandit_battle_loop_3f315894:
@@ -138,11 +138,6 @@ translate schinese bandit_win_fc7c6359:
     # "The bandit is lying on the floor, still panting..."
     ""
 
-translate schinese bandit_win_d2f5122a:
-
-    # msg "Bandit Winning Scene WIP!"
-    msg ""
-
 translate schinese bandit_win_d8b2d3a2:
 
     # bd "My wounds will heal, and my brothers... we'll make you pay for this!"
@@ -167,6 +162,11 @@ translate schinese bandit_win_0cdc15e9:
 
     # bd "O-ok, alright. 3 days without toll."
     bd ""
+
+translate schinese bandit_win_a20cefa7:
+
+    # "..."
+    ""
 
 translate schinese bandit_win_d0a8fdd8:
 
@@ -398,19 +398,9 @@ translate schinese bridgeroot_turn_3a5e0cff:
     # "The bridgeroot swings his grass fist, knocking you back with his sheer strength. Your health decreases by [enemy_damage] HP."
     ""
 
-translate schinese bridgeroot_turn_8fd8c645:
-
-    # "He has recovered [healing] HP."
-    ""
-
 translate schinese bridgeroot_turn_6aad7534:
 
     # "The bridgeroot swings his grass fist, but you manage to dodge the attack."
-    ""
-
-translate schinese bridgeroot_turn_5f5e7d6a:
-
-    # "It healed by "
     ""
 
 translate schinese bridgeroot_turn_d4969122:
@@ -418,14 +408,9 @@ translate schinese bridgeroot_turn_d4969122:
     # "The bridgeroot holds you in place. You try to struggle free, but it doesn't work."
     ""
 
-translate schinese bridgeroot_turn_d46fb688:
+translate schinese bridgeroot_turn_8a6d2e8c:
 
-    # "The bridgeroot lurches, he shoots some sort of sharp grasses onto you. Both of your healths decrease by [enemy_damage] HP."
-    ""
-
-translate schinese bridgeroot_turn_8fd8c645_1:
-
-    # "He has recovered [healing] HP."
+    # "The bridgeroot lurches, he shoots some sort of sharp grasses onto you. Draining both of your health by [enemy_damage] HP."
     ""
 
 translate schinese bridgeroot_turn_456edd0d:
@@ -436,11 +421,6 @@ translate schinese bridgeroot_turn_456edd0d:
 translate schinese bridgeroot_turn_e04297a7:
 
     # "Every green part of the bridgeroot begins to convulse. His body is suddenly revitalised by the power of water."
-    ""
-
-translate schinese bridgeroot_turn_8fd8c645_2:
-
-    # "He has recovered [healing] HP."
     ""
 
 translate schinese bridgeroot_turn_0060a055:
@@ -623,272 +603,401 @@ translate schinese bridgeroot_lose_c4531b39:
     # e "I suppopse you're right, Amble."
     e ""
 
-translate schinese vurroSpar_battle_8c2cd449:
+translate schinese vurro_spar_battle_8c2cd449:
 
     # "Vurro raises his nails, his scrawny furs doesn't hide his tired face, but he still holds out a wide smile."
     ""
 
-translate schinese vurroSpar_battle_loop2_00efba93:
+translate schinese vurro_spar_battle_loop_00efba93:
 
     # "Vurro gets near you and slashing you with his sharp claws multiple times."
     ""
 
-translate schinese vurroSpar_battle_loop2_3e1404ad:
+translate schinese vurro_spar_battle_loop_3e1404ad:
 
     # "At least he made sure to be gentle with you. Your health decreases by [total_enemy_damage] HP."
     ""
 
-translate schinese vurroSpar_battle_loop2_f86112ce:
+translate schinese vurro_spar_battle_loop_f86112ce:
 
     # "The brown werewolf bursts out from nowhere, trying to slash you with his sharp claws multiple times, but you manage to dodge the attack."
     ""
 
-translate schinese vurroSpar_battle_loop2_a86f060c:
+translate schinese vurro_spar_battle_loop_a86f060c:
 
     # "Vurro punches you directly with his fist. Knocking you out momentarily. Your health decreases by [enemy_damage] HP."
     ""
 
-translate schinese vurroSpar_battle_loop2_cb8272e5:
+translate schinese vurro_spar_battle_loop_cb8272e5:
 
     # "Vurro tries to punch you, but he misses just above your fur, he stands back in frustration."
     ""
 
-translate schinese vurroSpar_battle_loop2_bf81a2cb:
+translate schinese vurro_spar_battle_loop_bf81a2cb:
 
     # v "Look at that movement, you're doing pretty good."
     v ""
 
-translate schinese vurroSpar_battle_loop2_c1d9e09e:
+translate schinese vurro_spar_battle_loop_c1d9e09e:
 
     # v "Be careful, you might bleed for a while."
     v ""
 
-translate schinese vurroSpar_battle_loop2_52430236:
+translate schinese vurro_spar_battle_loop_52430236:
 
     # "Vurro slashes his hand across you, his claws easily scraping against your side. Your health decreases by [enemy_damage] HP."
     ""
 
-translate schinese vurroSpar_battle_loop2_c808726b:
+translate schinese vurro_spar_battle_loop_c808726b:
 
     # "You begin to bleed from your wound."
     ""
 
-translate schinese vurroSpar_battle_loop2_10056391:
+translate schinese vurro_spar_battle_loop_10056391:
 
     # v "Huh, my claws are really getting sharper."
     v ""
 
-translate schinese vurroSpar_battle_loop2_d48a1192:
+translate schinese vurro_spar_battle_loop_d48a1192:
 
     # "Your bleeding has gotten worse from Vurro."
     ""
 
-translate schinese vurroSpar_battle_loop2_a518ffcc:
+translate schinese vurro_spar_battle_loop_a518ffcc:
 
     # v "It's so weird... your blood scent is making me all dizzy."
     v ""
 
-translate schinese vurroSpar_battle_loop2_84cdac6f:
+translate schinese vurro_spar_battle_loop_95989dfa:
 
-    # "Vurro heaps a potion from his back pocket, his health is increased by [heal_amount] now."
+    # "Vurro heaps a potion from his back pocket."
     ""
 
-translate schinese vurroSpar_battle_loop2_556d8e92:
+translate schinese vurro_spar_battle_loop_556d8e92:
 
     # v "Technically, Uffe doesn't like potions, but he might heal himself in some ways."
     v ""
 
-translate schinese vurroSpar_battle_loop2_b43cd03c:
+translate schinese vurro_spar_battle_loop_b43cd03c:
 
     # "The brown werewolf raises his fist and swing swiftly towards your head."
     ""
 
-translate schinese vurroSpar_battle_loop2_2b15e1dd:
+translate schinese vurro_spar_battle_loop_2b15e1dd:
 
     # "It hits you pretty hard as you hold onto your nose, you are stunned for one round."
     ""
 
-translate schinese vurroSpar_battle_loop2_6bfe3d1b:
+translate schinese vurro_spar_battle_loop_6bfe3d1b:
 
     # "You quickly tilt your head to the side, narrowly dodging his attack."
     ""
 
-translate schinese vurroSpar_battle_loop2_83bd4c2e:
+translate schinese vurro_spar_battle_loop_83bd4c2e:
 
     # v "Oh, you're quicker than I thought!"
     v ""
 
-translate schinese vurroSpar_win_ca8eac9d:
+translate schinese vurro_spar_win_ca8eac9d:
 
     # v "U...ughhh..."
     v ""
 
-translate schinese vurroSpar_win_4b71ba1d:
+translate schinese vurro_spar_win_4b71ba1d:
 
     # e "V-vurro?"
     e ""
 
-translate schinese vurroSpar_win_1f454d5d:
+translate schinese vurro_spar_win_1f454d5d:
 
     # "The brown werewolf in front of you looks extremely exhausted, struggling to open his eyes in front of you."
     ""
 
-translate schinese vurroSpar_win_3201a0e5:
+translate schinese vurro_spar_win_3201a0e5:
 
     # "Suddenly, he falls forwards to the ground with a big thump, raising a gust of dirts and grasses."
     ""
 
-translate schinese vurroSpar_win_c72b9246:
+translate schinese vurro_spar_win_c72b9246:
 
     # e "H-hey! Vurro!"
     e ""
 
-translate schinese vurroSpar_win_871ec0a7:
+translate schinese vurro_spar_win_871ec0a7:
 
     # e "F-fuck, no. Wake up. Vurro!"
     e ""
 
-translate schinese vurroSpar_win_b785c4fd:
+translate schinese vurro_spar_win_b785c4fd:
 
     # "You rush towards the werewolf in full speed, leaning onto his chest to check for his pulse."
     ""
 
-translate schinese vurroSpar_win_13840b92:
+translate schinese vurro_spar_win_13840b92:
 
     # "For a few seconds, a loud doubt reverberates in your mind, telling you that you've just killed... your own friend."
     ""
 
-translate schinese vurroSpar_win_c5871551:
+translate schinese vurro_spar_win_c5871551:
 
     # v "[e]...?"
     v ""
 
-translate schinese vurroSpar_win_145e9e83:
+translate schinese vurro_spar_win_145e9e83:
 
     # "He opens his eyes again, blinking. Staring at your worried face."
     ""
 
-translate schinese vurroSpar_win_5cacdbed:
+translate schinese vurro_spar_win_5cacdbed:
 
     # v "I-... I heard you screaming."
     v ""
 
-translate schinese vurroSpar_win_552fcdac:
+translate schinese vurro_spar_win_552fcdac:
 
     # "You hold your hand over your mouth in shock, all of these transpired in mere seconds, and you have no idea how to react to that."
     ""
 
-translate schinese vurroSpar_win_c5df69f1:
+translate schinese vurro_spar_win_c5df69f1:
 
     # v "S-shit... That was close. I almost fell asleep."
     v ""
 
-translate schinese vurroSpar_win_5eb81cc0:
+translate schinese vurro_spar_win_5eb81cc0:
 
     # "His eyes widen, nails almost bury themselves into his own skin, leaving behind lines of red marks underneath his fur."
     ""
 
-translate schinese vurroSpar_win_894fa8db:
+translate schinese vurro_spar_win_894fa8db:
 
     # e "W-what happened? Vurro?"
     e ""
 
-translate schinese vurroSpar_win_3d1a590c:
+translate schinese vurro_spar_win_3d1a590c:
 
     # "Vurro's breathing rhythm quickens, his pupil expands just after having experienced being near death."
     ""
 
-translate schinese vurroSpar_win_0948ecbb:
+translate schinese vurro_spar_win_0948ecbb:
 
     # "A few seconds have passed as you sit alongside Vurro, accompanied by a series of gasps and abrupt breathing."
     ""
 
-translate schinese vurroSpar_win_0cf1201e:
+translate schinese vurro_spar_win_0cf1201e:
 
     # v "I- I think I almost died."
     v ""
 
-translate schinese vurroSpar_lose_4aa6e030:
+translate schinese vurro_spar_lose_4aa6e030:
 
     # e "I... I lost... Vurro?"
     e ""
 
-translate schinese vurroSpar_lose_7d3e6052:
+translate schinese vurro_spar_lose_7d3e6052:
 
     # "Without enough stamina to keep fighting, you shout to the brown werewolf, who seems a little different than usual."
     ""
 
-translate schinese vurroSpar_lose_7655ee5e:
+translate schinese vurro_spar_lose_7655ee5e:
 
     # "He only grunts, loudly."
     ""
 
-translate schinese vurroSpar_lose_5caa3a0a:
+translate schinese vurro_spar_lose_5caa3a0a:
 
     # e "Vurro?"
     e ""
 
-translate schinese vurroSpar_lose_066934cf:
+translate schinese vurro_spar_lose_066934cf:
 
     # "You shout once more, but he doesn't seem to notice."
     ""
 
-translate schinese vurroSpar_lose_3708f2f6:
+translate schinese vurro_spar_lose_3708f2f6:
 
     # "With a swing of his claws, a gust of wind come propelling you in the air, sending you across the forest."
     ""
 
-translate schinese vurroSpar_lose_75b3f9f3:
+translate schinese vurro_spar_lose_75b3f9f3:
 
     # "You only stop when your back and head comes into contact with a tree, putting a brake on a fleeting flight."
     ""
 
-translate schinese vurroSpar_lose_4cecb134:
+translate schinese vurro_spar_lose_4cecb134:
 
     # v "Oh shit... Are you alright? [e]?"
     v ""
 
-translate schinese vurroSpar_lose_9c69210d:
+translate schinese vurro_spar_lose_9c69210d:
 
     # "You fall limp on the dirt, consciousness fades in and out momentarily as your eyes almost closed."
     ""
 
-translate schinese vurroSpar_lose_1df95d5c:
+translate schinese vurro_spar_lose_1df95d5c:
 
     # v "I- I'm so sorry. That feral's strength, it's coming back in me and I had no idea."
     v ""
 
-translate schinese vurroSpar_lose_9b0f18c8:
+translate schinese vurro_spar_lose_9b0f18c8:
 
     # e "Ugh...u-ugh..."
     e ""
 
-translate schinese vurroSpar_lose_715915e8:
+translate schinese vurro_spar_lose_715915e8:
 
     # "For a moment your vision blurred into blobs of green, but Vurro manages to get a hold of your injury."
     ""
 
-translate schinese vurroSpar_lose_4efc55ef:
+translate schinese vurro_spar_lose_4efc55ef:
 
     # e "I- unngh... F-fuck. My head is hurting."
     e ""
 
-translate schinese vurroSpar_lose_359f892a:
+translate schinese vurro_spar_lose_359f892a:
 
     # "You clutch the back of head, almost the same place you were knocked out of."
     ""
 
-translate schinese vurroSpar_lose_5ccabbcb:
+translate schinese vurro_spar_lose_5ccabbcb:
 
     # v "Shit. Any bleeding still needed to be taken care of?"
     v ""
 
-translate schinese vurroSpar_lose_4abadad3:
+translate schinese vurro_spar_lose_4abadad3:
 
     # e "I-I don't think so. I definitely underestimated your power, didn't expect a gust of wind to blow me away like that."
     e ""
 
+translate schinese spriteling_battle_7a79ee62:
+
+    # "The small spriteling thrashes its ephereal claws about, but you doubt it deals any damage."
+    ""
+
+translate schinese spriteling_battle_loop_634cb2bf:
+
+    # "The spriteling wraps his spectral form around you, trying to bind you. Your health decreases by [enemy_damage] HP."
+    ""
+
+translate schinese spriteling_battle_loop_fc52b4aa:
+
+    # "The spriteling swings his spectral form around you, but you manage to dodge the attack."
+    ""
+
+translate schinese spriteling_battle_loop_2e05915c:
+
+    # "The ghostly creature raises its arm, and a gust of wind blows towards you."
+    ""
+
+translate schinese spriteling_battle_loop_2b40a022:
+
+    # e "Huh?"
+    e ""
+
+translate schinese spriteling_battle_loop_de0d3f8f:
+
+    # "It doesn't seem to have any effect on you."
+    ""
+
+translate schinese spriteling_win_fe785269:
+
+    # "The whispy spriteling disperses into the air, leaving nothing but a faint scent of grass around."
+    ""
+
+translate schinese spriteling_win_701c1fba:
+
+    # "You feel a little bit of energy returning to you, as if the spriteling itself has given you a little bit of its own energy."
+    ""
+
+translate schinese spriteling_lose_891befeb:
+
+    # "Unable to continue, you faint on the ground, and the spriteling disappears into the air."
+    ""
+
+translate schinese spriteling_lose_c956a093:
+
+    # "Exhausted all your energy, you struggle to get up, and even open your eyes."
+    ""
+
+translate schinese spriteling_lose_7fa924cf:
+
+    # yu "Shit... allfather. Someone come save me."
+    yu ""
+
+translate schinese spriteling_lose_3d6c95a4:
+
+    # "Obviously, passing out on a wild forest isn't a great idea, but there are no other choice given here..."
+    ""
+
+translate schinese spriteling_lose_165c9c17:
+
+    # "Soon, your world fades into darkness."
+    ""
+
+translate schinese spriteling_lose_a20cefa7:
+
+    # "..."
+    ""
+
+translate schinese spritebinder_battle_33682342:
+
+    # "The hooded sprite flaunts its arms, seemingly preparing to cast a spell."
+    ""
+
+translate schinese spritebinder_battle_loop_3d10e393:
+
+    # "The spritebinder strikes you with multiple arms, your health decreases by [enemy_damage] HP."
+    ""
+
+translate schinese spritebinder_battle_loop_65119793:
+
+    # "The spritebinder tries to strike you, but miraculously, you manage to dodge all of his arms."
+    ""
+
+translate schinese spritebinder_battle_loop_7d4bd58a:
+
+    # "The spritebinder flings his arms to hold you in place. You try to struggle free, but it doesn't work."
+    ""
+
+translate schinese spritebinder_battle_loop_37c5b80b:
+
+    # "The spritebinder forms a fist stance, and punches you with each of his arms, your health decreases by [total_damage] HP."
+    ""
+
+translate schinese spritebinder_battle_loop_65119793_1:
+
+    # "The spritebinder tries to strike you, but miraculously, you manage to dodge all of his arms."
+    ""
+
+translate schinese spritebinder_win_8dff8a65:
+
+    # "Soon, the spritebinder falls to the ground, and the forest is quiet once again."
+    ""
+
+translate schinese spritebinder_win_0ee36ad5:
+
+    # "You take a deep breath, and you can feel the air is much more refreshing than before."
+    ""
+
+translate schinese spritebinder_win_c939b95d:
+
+    # "The arms of the spritebinder slowly fades into the air..."
+    ""
+
+translate schinese spritebinder_lose_3706482d:
+
+    # "Exhausted all your energy, you struggle to get up, and even open your eyes..."
+    ""
+
 translate schinese strings:
+
+    old "Do you want to... have fun with the bandit?"
+    new ""
+
+    old "Yes{#banditwin}"
+    new ""
+
+    old "No{#banditwin}"
+    new ""
 
     old "Yes{#banditlosereplay}"
     new ""

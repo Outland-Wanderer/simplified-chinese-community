@@ -1,547 +1,287 @@
-﻿translate schinese start_7dc95fde:
-
-    # "It was late in the night, everything is so dark, your fingers are anxiously holding onto the torch."
-    ""
-
-translate schinese start_6092a431:
-
-    # "Your tribe was peaceful, at least to your imagination."
-    ""
-
-translate schinese start_c37d27a4:
-
-    # "There are monsters everywhere in the wild, so for all of your life you have been living with the Tribe."
-    ""
-
-translate schinese start_05f57a96:
-
-    # "Sometimes hunting with your friend, Chime."
-    ""
-
-translate schinese start_65c6d503:
-
-    # "You walk along the path from your elder's camp, when you heard someone screaming, someone who sounds almost like Chime."
-    ""
-
-translate schinese start_9b43455f:
-
-    # "He has been missing for a week, if not more. Your tribe has looked for him every day since, but to no avail."
-    ""
-
-translate schinese start_0b538218:
-
-    # "And now, everyone is sleeping, the lifeless silence has you shiver down to the core. Something is awry."
-    ""
-
-translate schinese start_32abd6f2:
-
-    # "Despite your instinct, you decided to investigate deeper into the noise in the forest. It seems definitely darker than you thought."
-    ""
-
-translate schinese start_33fde1ac:
-
-    # "The wood is eeriely silent. You hold on to your piece of paper you drew for Chime... and you keep wondering his whereabout."
-    ""
-
-translate schinese start_155ad839:
-
-    # "He was... someone you admired, a hero figure who saved you from the bullies, but you don't know if it's been like this, or when, you memory have been foggy."
-    ""
-
-translate schinese start_10ff4203:
-
-    # "It gets worse by each step you take, your mind is replaced with fear, even a slight breeze over your fur gives you a startle you've never had."
-    ""
-
-translate schinese start_0f973a7d:
-
-    # "As you snap back to reality, you realise you've lost sight of your tribe."
-    ""
-
-translate schinese start_3a8c145e:
-
-    # "You must have walked too far away, and now you are all alone in the dark forest."
-    ""
-
-translate schinese start_f1a265b8:
-
-    # "Standing in place, you could've sworn this place is the source of the scream you heard, But you see nothing."
-    ""
-
-translate schinese start_251bd13c:
-
-    # "Nothing out of the ordinary, just grasses, not even footsteps, but where did the scream come from?"
-    ""
-
-translate schinese start_c8f0ef29:
-
-    # "You are ready to go back to your tribe but suddenly, a rustling sound in the bushes catches your attention."
-    ""
-
-translate schinese start_d43ba4f2:
-
-    # "Something is there."
-    ""
-
-translate schinese start_6b790745:
-
-    # "You turn your head... maybe it's Chime."
-    ""
-
-translate schinese start_1a102cad:
-
-    # "The sound stops, but you can sense something is coming."
-    ""
-
-translate schinese start_f6462e8e:
-
-    # "You hold onto your torch tightly. You don't know what it is, but it is coming."
-    ""
-
-translate schinese start_cb7fa2ee:
-
-    # "The thing gets closer and closer, you would pray it is Chime, but it turns out bigger than you thought."
-    ""
-
-translate schinese start_0e408d55:
-
-    # "You freeze in place, your eyes can only trace the outline of dark figure."
-    ""
-
-translate schinese start_8c1447fa:
-
-    # "At some point, the figure stops, allowing you time to make sense of who is under the cape."
-    ""
-
-translate schinese start_b9809af6:
-
-    # "You can hear the fierce quivering of the trees as the fleeting shadow emerges in the center of your vision."
-    ""
-
-translate schinese start_99673515:
-
-    # my "gws sewre boecdisff wwo. sipcse baalseif, b."
-    my ""
-
-translate schinese start_1a3b80da:
-
-    # "You have never seen this mysterious person before, he seems tall, but scruffy, with a pair of huge antler covering his head."
-    ""
-
-translate schinese start_857809b5:
-
-    # "And there's something behind his back, which only makes you more paranoid."
-    ""
-
-translate schinese start_e08b4aa1:
-
-    # "You are intimidated by his appearance, if not stunned. You can sense that he is staring at you, even without seeing the pupils behind his mask."
-    ""
-
-translate schinese start_bc36866c:
-
-    # "The creature is almost 7 feet tall, emasculating you with fear and dread. His stance alone makes you stumble backwards."
-    ""
-
-translate schinese start_f06a5bf0:
-
-    # my "Feez? Drlkws. Sewre... wwo tiskip."
-    my ""
-
-translate schinese start_8f245e0e:
-
-    # my "Rru Crwsff?"
-    my ""
-
-translate schinese start_91b94eb7:
-
-    # "He is speaking in an unknown language. It is impossible to try to decipher it by any means."
-    ""
-
-translate schinese start_bc731bef:
-
-    # "And by the tone, it seems he's asking a question."
-    ""
-
-translate schinese start_34e39862:
-
-    # "Nothing you can do here to escape this situation. You're only grateful that he hasn't killed you yet."
-    ""
-
-translate schinese start_d644e62a:
-
-    # "The figure continues levitating. He seems to be pondering... something."
-    ""
-
-translate schinese start_ab26b7ae:
-
-    # my "...Chime?"
-    my ""
-
-translate schinese start_91a6d82d:
-
-    # yu "uhh..."
-    yu ""
-
-translate schinese start_cf6378c2:
-
-    # "You nod, chances are he is talking about your friend, but with his unintelligible language you are not sure what the context even is."
-    ""
-
-translate schinese start_b2357a72:
-
-    # my "... Adreif, lsez wwo b. ge gws aifwsin juin uffeis."
-    my ""
-
-translate schinese start_7b68ae81:
-
-    # "You can't fathom any word he said, only watching him point his finger downward."
-    ""
-
-translate schinese start_107514d1:
-
-    # my "Dresi vus, wwo juin."
-    my ""
-
-translate schinese start_e05f2c16:
-
-    # "The figure continues pointing downward, fiercely. You stand there, not sure what he mean."
-    ""
-
-translate schinese start_b5ac0fb8:
-
-    # my "Juin."
-    my ""
-
-translate schinese start_515c0232:
-
-    # my "Juin...? Juin! J-ju... Hmmm..."
-    my ""
-
-translate schinese start_fc645303:
-
-    # my "..."
-    my ""
-
-translate schinese start_9acca01f:
-
-    # "By his body language and tone. He seems to be mildly annoyed by you failing to understand him."
-    ""
-
-translate schinese start_ea80e424:
-
-    # my "...Adreif."
-    my ""
-
-translate schinese start_70bd5c88:
-
-    # "He begins preparing and gathering his energy. Everything seems to be much brighter in the forest, beginning to glow in light blue."
-    ""
-
-translate schinese start_8698853b:
-
-    # "The wooden object behind his back begins floating slowly to his front."
-    ""
-
-translate schinese start_fe42546e:
-
-    # "You turn your head, his unknown energy seems to have formed an aura around you two, the forest continues gleaming with light."
-    ""
-
-translate schinese start_c27c68b7:
-
-    # "He mumbles something under his breath, which you can only deduce that it's a spell."
-    ""
-
-translate schinese start_65c223ef:
-
-    # "The silence of the forest breaks as trees and leaves swirls in all directions, and you hear a tune plays."
-    ""
-
-translate schinese start_2ed9fbeb:
-
-    # "The figure crosses his legs, playing the string on whatever he took out from his back."
-    ""
-
-translate schinese start_4a8cb341:
-
-    # "With each tune played, the wind gets more and more intense, leaving you no room to escape."
-    ""
-
-translate schinese start_b5c20a73:
-
-    # "You groan in fear as everything around you is glowing, and flowing like water around the freezing air."
-    ""
-
-translate schinese start_fe637a06:
-
-    # "Whatever spell he is performing, you can only pray that you would come out of this alive, preferably unscathed."
-    ""
-
-translate schinese start_29d81d7b:
-
-    # "But it seems more and more unlikely, as the beacon of light is gleaming stronger with every second. Your whole body is soon emasculated by it."
-    ""
-
-translate schinese start_1c6a4489:
-
-    # "You stare at the figure. He is not responding to your plead. Your body is feeling different inside of this blue aura."
-    ""
-
-translate schinese start_476a4933:
-
-    # "There's nothing you can do now."
-    ""
-
-translate schinese start_9db5d92a:
-
-    # "Slowly, you can feel your eyes growing more and more tired. The spell must be messing up your consciousness..."
-    ""
-
-translate schinese start_ebd460b9:
-
-    # "You struggle against the fatigue for a few seconds, but it eventually takes over, and you drift to a long slumber."
-    ""
-
-translate schinese start_03aeea77:
-
-    # "You collapse in front of the figure, you can feel something hitting on the back of your head."
-    ""
-
-translate schinese start_8f64d531:
-
-    # my "Lsez vu arses drwff wwo..."
-    my ""
-
-translate schinese start_94a39be0:
-
-    # "The last thing you see, is the entire landscape begins shifting under your very own eyes."
-    ""
-
-translate schinese start_a20cefa7:
+﻿translate schinese Sebas_First_Meet_a20cefa7:
 
     # "..."
     ""
 
-translate schinese start_11fc1673:
+translate schinese Sebas_First_Meet_11fc1673:
 
     # "Everything fades to darkness, as your consciosuness slips away."
     ""
 
-translate schinese start_53ae6d02:
+translate schinese Sebas_First_Meet_bc4ef3b2:
+
+    # "The last thing you thought of were Chime, maybe you had fallen the same fate as him."
+    ""
+
+translate schinese Sebas_First_Meet_53ae6d02:
 
     # "You don't know how much time has passed, minutes, hours."
     ""
 
-translate schinese start_dab9f398:
+translate schinese Sebas_First_Meet_dab9f398:
 
     # "You don't know how many sun and moon passed right above you as you slumber."
     ""
 
-translate schinese start_627ca2fb:
+translate schinese Sebas_First_Meet_627ca2fb:
 
     # "You don't even know where you are."
     ""
 
-translate schinese start_c9d14728:
+translate schinese Sebas_First_Meet_b687251f:
 
-    # "Everything became so fuzzy after you collapsed."
+    # "Everything became so fuzzy after you fell."
     ""
 
-translate schinese start_f3f93295:
+translate schinese Sebas_First_Meet_f1128cdd:
+
+    # "You can't even remember how you fell, or why."
+    ""
+
+translate schinese Sebas_First_Meet_d9740f75:
+
+    # "It's all futile, everything is gone. You are gone."
+    ""
+
+translate schinese Sebas_First_Meet_a20cefa7_1:
+
+    # "..."
+    ""
+
+translate schinese Sebas_First_Meet_a20cefa7_2:
+
+    # "..."
+    ""
+
+translate schinese Sebas_First_Meet_f3f93295:
 
     # "It's the sound of water, flowing around you, for a long while your consciousness is just floating in the sea of nothingness."
     ""
 
-translate schinese start_3cd78a43:
+translate schinese Sebas_First_Meet_b9f3fa5b:
+
+    # "You have had a long dream in this void, but you can't even remember what it was about."
+    ""
+
+translate schinese Sebas_First_Meet_3cd78a43:
 
     # "Your memory is fading away, emptiness fills the space where your mind used to be."
     ""
 
-translate schinese start_aabd5131:
+translate schinese Sebas_First_Meet_93f257bd:
 
-    # "Time doesn't matter now, at least you are still alive."
+    # "It doesn't even feel like it is the first time to forget everything."
     ""
 
-translate schinese start_a20cefa7_1:
+translate schinese Sebas_First_Meet_ef5840a2:
+
+    # "Hezzong, the tribe, and the forest, everyone is gone."
+    ""
+
+translate schinese Sebas_First_Meet_1ea47d4c:
+
+    # "Time doesn't matter now, you are not sure if you're still alive."
+    ""
+
+translate schinese Sebas_First_Meet_e900637c:
+
+    # "Maybe you are already dead, and this is the afterlife. Afterall, who would survive a fall like that?"
+    ""
+
+translate schinese Sebas_First_Meet_29547cd9:
+
+    # "You can't even feel your body, you can't even feel your heart beating."
+    ""
+
+translate schinese Sebas_First_Meet_3c00deca:
+
+    # "But somehow, you persist."
+    ""
+
+translate schinese Sebas_First_Meet_a20cefa7_3:
 
     # "..."
     ""
 
-translate schinese start_5bae7fa5:
+translate schinese Sebas_First_Meet_47af4357:
 
-    # "But at some point, you regain consciousness."
+    # "You are not ready to open your eyes yet, but you can hear the forest's music."
     ""
 
-translate schinese start_67fa395a:
-
-    # "You are not ready to open your eyes yet, but you can hear the ambience of the forest."
-    ""
-
-translate schinese start_a20cefa7_2:
+translate schinese Sebas_First_Meet_a20cefa7_4:
 
     # "..."
     ""
 
-translate schinese start_a8f18d9b:
+translate schinese Sebas_First_Meet_a8f18d9b:
 
     # "And then you hear a bright male voice blabbering around you."
     ""
 
-translate schinese start_02757783:
+translate schinese Sebas_First_Meet_02757783:
 
     # "His young voice is definitely opposite from the rough voice of the figure before."
     ""
 
-translate schinese start_e612037c:
+translate schinese Sebas_First_Meet_e612037c:
 
     # m "..."
     m ""
 
-translate schinese start_b1cf6148:
+translate schinese Sebas_First_Meet_b1cf6148:
 
     # m "You waking up yet, you know... you shouldn't have slept in."
     m ""
 
-translate schinese start_027c2e72:
+translate schinese Sebas_First_Meet_027c2e72:
 
     # m "Especially in the middle of a forest like here."
     m ""
 
-translate schinese start_9f81ccaa:
+translate schinese Sebas_First_Meet_d1492e2e:
 
-    # "You wish for him to shut up, or take your belongings so he can shut up."
+    # "You wish for him to shut up, or take your belongings so he can leave you alone."
     ""
 
-translate schinese start_4e522f42:
+translate schinese Sebas_First_Meet_4e522f42:
 
     # m "A grown up boy like you should know there's a lot of dangerous monsters out there."
     m ""
 
-translate schinese start_3a6bf9e7:
+translate schinese Sebas_First_Meet_3a6bf9e7:
 
     # m "As my ma said, Safety is always your number one priority."
     m ""
 
-translate schinese start_761dfaf2:
+translate schinese Sebas_First_Meet_761dfaf2:
 
     # m "She also said not to trust any strangers so easily, especially those who sleep in the forest."
     m ""
 
-translate schinese start_d806b40a:
+translate schinese Sebas_First_Meet_d806b40a:
 
     # m "but oh well... you know what they say."
     m ""
 
-translate schinese start_59f99719:
+translate schinese Sebas_First_Meet_59f99719:
 
     # m "You snooze, you get slapped in the ass!"
     m ""
 
-translate schinese start_94b91105:
+translate schinese Sebas_First_Meet_94b91105:
 
     # m "...and lose, of course."
     m ""
 
-translate schinese start_e5eb9a2c:
+translate schinese Sebas_First_Meet_e5eb9a2c:
 
     # "You wonder if this is what hell sounds like, endless blabbering like a fly buzzing around your ears."
     ""
 
-translate schinese start_e612037c_1:
+translate schinese Sebas_First_Meet_e612037c_1:
 
     # m "..."
     m ""
 
-translate schinese start_dfa6f757:
+translate schinese Sebas_First_Meet_dfa6f757:
 
     # m "Okay, it's time."
     m ""
 
-translate schinese start_61eed9da:
+translate schinese Sebas_First_Meet_61eed9da:
 
     # m "Hey. Wake up."
     m ""
 
-translate schinese start_a0c860f8:
+translate schinese Sebas_First_Meet_a0c860f8:
 
     # m2 "WAKE THE FUCK UP!!!"
     m2 ""
 
-translate schinese start_9a402e43:
+translate schinese Sebas_First_Meet_9a402e43:
 
     # m3 "WAKE THE FUCK UP!!!"
     m3 ""
 
-translate schinese start_78c02f59:
+translate schinese Sebas_First_Meet_78c02f59:
 
     # "As much as you don't wish to open your eyes yet, you feel that he's not going to stop until so."
     ""
 
-translate schinese start_877a1fb8:
+translate schinese Sebas_First_Meet_877a1fb8:
 
     # m "Good... Fucking Morning, Stranger."
     m ""
 
-translate schinese start_020cccc1:
+translate schinese Sebas_First_Meet_020cccc1:
 
     # m "See, you probably have a job but it is not that hard to get up on Sunday, I know."
     m ""
 
-translate schinese start_cdaf010d:
+translate schinese Sebas_First_Meet_cdaf010d:
 
     # "You see a fluffy lion grinning in front of you, he wears a leather messenger bags with odds and ends inside."
     ""
 
-translate schinese start_2fee4994:
+translate schinese Sebas_First_Meet_b91b97fe:
 
-    # "His soft fur is messy but he looks charmingly handsome, at least to your standard."
+    # "His soft fur is messy but he looks charmingly handsome."
     ""
 
-translate schinese start_8a9242d0:
+translate schinese Sebas_First_Meet_8a9242d0:
 
     # yu "...what?"
     yu ""
 
-translate schinese start_3ed5c352:
+translate schinese Sebas_First_Meet_3ed5c352:
 
     # m "Hello, little snoozy ass."
     m ""
 
-translate schinese start_c567f91c:
+translate schinese Sebas_First_Meet_c567f91c:
 
     # m "My name is Sebas, in case you don't know."
     m ""
 
-translate schinese start_0b58aa63:
+translate schinese Sebas_First_Meet_0b58aa63:
 
     # s "I'd say... you look like some other goat folks... There's no problem with that though."
     s ""
 
-translate schinese start_bd824bdb:
+translate schinese Sebas_First_Meet_2fba7084:
 
-    # s "Apart from the sleeping in the middle of nowhere, of course."
+    # s "Apart from sleeping in the middle of nowhere, of course."
     s ""
 
-translate schinese start_f7688675:
+translate schinese Sebas_First_Meet_f7688675:
 
     # s "and you look a little scruffy, dare I say."
     s ""
 
-translate schinese start_f097505b:
+translate schinese Sebas_First_Meet_f097505b:
 
     # "He chuckles uncontrollably, looking at you up and down."
     ""
 
-translate schinese start_e1554201:
+translate schinese Sebas_First_Meet_e1554201:
 
     # s "..."
     s ""
 
-translate schinese start_5969db2d:
+translate schinese Sebas_First_Meet_5969db2d:
 
     # s "So..., what's your name, buddy."
     s ""
+
+translate schinese Sebas_First_Meet_4b474184:
+
+    # "You scratch at the side of your head."
+    ""
+
+translate schinese name_63e260ab:
+
+    # yu "Uh..."
+    yu ""
 
 translate schinese namedetermine_c9a38b1f:
 
@@ -553,9 +293,9 @@ translate schinese namedetermine_b1fa49c4:
     # s "[el]? No. You can't call that. I'm 99 percent sure uhh... that's not your name."
     s ""
 
-translate schinese namedetermine_ccc42cf6:
+translate schinese namedetermine_ccf86473:
 
-    # e "Wait... why can't I call... [e]?"
+    # e "Wait, why can't I call... [e]?"
     e ""
 
 translate schinese namedetermine_f274c355:
@@ -598,9 +338,9 @@ translate schinese name_done_881984e9:
     # s "Had a bad dream?"
     s ""
 
-translate schinese name_done_09bb1031:
+translate schinese name_done_7163898d:
 
-    # e "No.... I don't think so...?"
+    # e "No... I don't think so...?"
     e ""
 
 translate schinese name_done_17a256a6:
@@ -643,14 +383,14 @@ translate schinese name_done_e9aaafac:
     # e "Where are my... clothes?"
     e ""
 
-translate schinese name_done_f07b4c33:
+translate schinese name_done_0df8d7c1:
 
-    # s "I don't know. Where have you been? Had a sexy night?"
+    # s "I don't know. Where have you been? Had a sexy night with a handsome fella?"
     s ""
 
-translate schinese name_done_ccbfaf2a:
+translate schinese name_done_4960378d:
 
-    # e "I can't remember much before. The monster, I saw him in the forest in the middle of the night."
+    # e "I can't remember much before. The stranger, I saw him in the forest in the middle of the night."
     e ""
 
 translate schinese name_done_2fd712e4:
@@ -658,9 +398,9 @@ translate schinese name_done_2fd712e4:
     # e "He was talking in some strange language..."
     e ""
 
-translate schinese name_done_6571245b:
+translate schinese name_done_3e16e72d:
 
-    # s "Wait... you saw the monster?"
+    # s "Wait... you saw a stranger?"
     s ""
 
 translate schinese name_done_f946553a:
@@ -668,9 +408,79 @@ translate schinese name_done_f946553a:
     # e "I don't know what it is, I have never seen that before."
     e ""
 
-translate schinese name_done_e2bd6e1c:
+translate schinese name_done_c5a75198:
 
-    # s "Unlucky, that means you're one of the outsider goats right, You're not a face I remember well."
+    # s "How did he find you?"
+    s ""
+
+translate schinese name_done_12428575:
+
+    # e "It was in the middle of the night, I was walking in the forest."
+    e ""
+
+translate schinese name_done_f5f92c0d:
+
+    # e "I was... I was on the watch tower, I was supposed to be the watcher tonight."
+    e ""
+
+translate schinese name_done_e08feb08:
+
+    # e "And then I saw a flash of light, and I ran towards the source."
+    e ""
+
+translate schinese name_done_2decfc4e:
+
+    # e "I was hoping to find Chime, but it was him..."
+    e ""
+
+translate schinese name_done_a5150736:
+
+    # e "I was fighting the spritelings, and I wasn't faring well."
+    e ""
+
+translate schinese name_done_9e9ec317:
+
+    # s "Spritelings?"
+    s ""
+
+translate schinese name_done_a9b45585:
+
+    # e "Ghosts, they are like ghosts, but they are not."
+    e ""
+
+translate schinese name_done_05a89661:
+
+    # e "And when I woke up, he was already there."
+    e ""
+
+translate schinese name_done_77fe0a1e:
+
+    # e "I was fighting the spritebinder, and I wasn't faring well."
+    e ""
+
+translate schinese name_done_7de67df1:
+
+    # e "When I was about to lose, I saw him."
+    e ""
+
+translate schinese name_done_77fe0a1e_1:
+
+    # e "I was fighting the spritebinder, and I wasn't faring well."
+    e ""
+
+translate schinese name_done_d6dff26e:
+
+    # e "Uh, after that... he was there."
+    e ""
+
+translate schinese name_done_c5adcba1:
+
+    # e "I don't know what he did to me, but I only remember falling from the sky."
+    e ""
+
+translate schinese name_done_e18faeb2:
+
+    # s "So, that means you're one of the outsider goats, right?"
     s ""
 
 translate schinese name_done_116a6227:
@@ -698,39 +508,44 @@ translate schinese name_done_4a92046b:
     # e "Now that I think of it, I don't think I've ever been, outside, outside. I spent my whole life in my tribe."
     e ""
 
+translate schinese name_done_aa6cdcd1:
+
+    # e "Is Hezzong here? I need to find him."
+    e ""
+
+translate schinese name_done_5052cc5d:
+
+    # s "Uh? Who's that? Your boyfriend?"
+    s ""
+
+translate schinese name_done_bf7e27a2:
+
+    # e "No, he's the elder of my tribe."
+    e ""
+
 translate schinese name_done_af231e2c:
 
     # "Sebas scratches his chin."
     ""
 
-translate schinese name_done_fc475d2a:
+translate schinese name_done_4cd04a3f:
 
-    # s "Hmm... so you're a dragon outsider."
+    # s "I did hear something about a Hezz... something."
     s ""
 
-translate schinese name_done_5dc8ec35:
+translate schinese name_done_29787c60:
 
-    # e "What does that mean?"
-    e ""
-
-translate schinese name_done_e765adca:
-
-    # s "That means you are not from here, somehow. I don't know."
+    # s "Uhhh... there's another one like you who mentioned something similar too. We heard about him a week ago from the goat tribe."
     s ""
 
-translate schinese name_done_0152f423:
+translate schinese name_done_03a3cdf2:
 
-    # e "How do you know...?"
-    e ""
-
-translate schinese name_done_a6ff161b:
-
-    # s "Uhhh... there's another one like you? We heard about him a week ago. He's living with the goat tribe now."
+    # s "But I assure you he's not cheating on your tribe... thing. But I don't actually know because I haven't met him yet."
     s ""
 
-translate schinese name_done_19fbfaad:
+translate schinese name_done_edf27e33:
 
-    # s "But I assure you he's not cheating on your tribe... thing... but I don't actually know because I haven't met him yet."
+    # s "They were so secretive even their usually blabbering shopkeeper refused to tell me anything about him."
     s ""
 
 translate schinese name_done_e7191ecf:
@@ -738,19 +553,44 @@ translate schinese name_done_e7191ecf:
     # e "He's Chime. I need to bring him back."
     e ""
 
+translate schinese name_done_11d37f2a:
+
+    # s "Do you know how to go back?"
+    s ""
+
+translate schinese name_done_a0b3d21a:
+
+    # e "N-no... I don't know."
+    e ""
+
 translate schinese name_done_b41097bd:
 
     # s "Hey, if you can go back to wherever you were. I would pray for you and your tribe, but I don't even know where to begin with."
     s ""
 
-translate schinese name_done_6acb642a:
+translate schinese name_done_0d371e13:
 
-    # s "Alright, don't talk now, let me see how you're holding up first."
+    # e "Maybe I can begin by finding Chime."
+    e ""
+
+translate schinese name_done_fbf2eb27:
+
+    # "Sebas chuckles."
+    ""
+
+translate schinese name_done_35aba613:
+
+    # s "Hey, I like your spirit. But you're not going to find him in the forest, especially not in the middle of the night."
     s ""
 
-translate schinese name_done_593bf53f:
+translate schinese name_done_6706278b:
 
-    # "You flinch as Sebas moves you around, he gently sweep through your body for any serious injuries."
+    # s "Oh, what's that thing under your head?"
+    s ""
+
+translate schinese name_done_a29676a1:
+
+    # "You flinch as Sebas moves you around, he gently sweep through your head with his hands."
     ""
 
 translate schinese name_done_66368f6d:
@@ -778,9 +618,9 @@ translate schinese name_done_cd830a49:
     # "You try to open your eyes a little wider to stay awake."
     ""
 
-translate schinese name_done_ae231c16:
+translate schinese name_done_8964f53f:
 
-    # s "Ahhhhh! Don't fucking die now..."
+    # s "Ahhhhh! Don't fucking die now."
     s ""
 
 translate schinese name_done_6397e27d:
@@ -788,9 +628,9 @@ translate schinese name_done_6397e27d:
     # "He sits on the forest floor and raise your head on his laps, brushing against your head tensely."
     ""
 
-translate schinese name_done_1dea6ee0:
+translate schinese name_done_9a8c92f0:
 
-    # s "Hey, d-don't fall asleep..."
+    # s "Hey, d-don't fall asleep! That's what my ma said too when I was sick."
     s ""
 
 translate schinese name_done_b852b783:
@@ -798,14 +638,14 @@ translate schinese name_done_b852b783:
     # s "My dude is nearby, he is coming, we're supposed to meet here. J-just wait a second, okay? We good?"
     s ""
 
-translate schinese name_done_92a095cf:
+translate schinese name_done_d179fb7e:
 
-    # e "o-ok."
+    # e "o-ok. I- uh... I'm fine."
     e ""
 
-translate schinese name_done_bb44ef80:
+translate schinese name_done_2308ee98:
 
-    # "Sebas looks distressed, completely different from the lion he was a few minutes ago."
+    # "Sebas looks distressed, completely different from the lion a few minutes ago."
     ""
 
 translate schinese name_done_5b0568bc:
@@ -833,9 +673,9 @@ translate schinese name_done_f65a6a7c:
     # m "He... Where did you find him. Alright, hold him tight."
     m ""
 
-translate schinese name_done_53695ab3:
+translate schinese name_done_a200af94:
 
-    # "A lizard comes into your view, he looks like one of the custodians you had in your tribe."
+    # "A lizard comes into your view, the clothes he has on looks like one of the custodians you had in your tribe."
     ""
 
 translate schinese name_done_1202db1a:
@@ -883,9 +723,9 @@ translate schinese name_done_f4e5a317:
     # m "He's fine."
     m ""
 
-translate schinese name_done_06bb9569:
+translate schinese name_done_afe9dfdb:
 
-    # s "Hey, that's my fucking Ol, blessing us mere mortals with the act of charity."
+    # s "Hey, that's my fucking Ol, gifting us mere mortals with his kind blessing."
     s ""
 
 translate schinese name_done_2ca34e61:
@@ -923,9 +763,9 @@ translate schinese name_done_e428fc41:
     # "Ole gawks at him as Sebas leaves for some herbs. He is much more gentle with you, you don't know why but you feel a lot safer in the hands of this stranger."
     ""
 
-translate schinese name_done_12a9b3d1:
+translate schinese name_done_f929d469:
 
-    # o "Don't mind him, he's such a moron sometimes. But he's a good dude."
+    # o "Don't mind him, he's such a moron sometimes. But he's a good lion."
     o ""
 
 translate schinese name_done_670ff85f:
@@ -948,34 +788,49 @@ translate schinese name_done_513ae3a9:
     # o "This is Mokken. You're one of that outsider we heard?"
     o ""
 
-translate schinese name_done_f763ec23:
+translate schinese name_done_46d89a75:
 
-    # e "Yes... I think... the trees are so different here..."
+    # e "Yes... I think. Is this really Mokken? The trees are so different here."
     e ""
 
-translate schinese name_done_520f8d0e:
+translate schinese name_done_e333b680:
 
-    # o "About that... you saw the monster? What's he look like? A little rough on you it seems."
+    # "You look around, the forest is indeed filled with trees and bushes you have never seen before."
+    ""
+
+translate schinese name_done_7b48799a:
+
+    # o "It is, because you are definitely not from lizard tribe, or the goats, or anywhere else I know of."
     o ""
 
-translate schinese name_done_fc0e23cb:
+translate schinese name_done_5fcf5074:
 
-    # e "I didn't see him that clearly."
-    e ""
-
-translate schinese name_done_fbefef80:
-
-    # o "No worry. So you're coming with us for the time being, right?"
+    # o "Now, that makes two outsiders. I wonder if there's more of you."
     o ""
 
-translate schinese name_done_5d0f13f9:
+translate schinese name_done_b10ed516:
 
-    # e "I want to find Chime... or go back... but I don't know where I can go."
+    # e "Uh, I don't think so, unless that stranger send the other people here."
     e ""
 
-translate schinese name_done_487d6b56:
+translate schinese name_done_aea216b7:
 
-    # o "Hey, I don't even know if you'll ever get back. Stay with us. Seb and me live in a little village nearby, we can spare you a room there."
+    # o "Ha... maybe you guys can settle around here if the whole tribe comes, but I doubt the werewolves would like that."
+    o ""
+
+translate schinese name_done_6c818556:
+
+    # o "So, what's your plan now? You're not going to go back to your tribe?"
+    o ""
+
+translate schinese name_done_2e031154:
+
+    # e "I want to find Chime, and then go back, but I don't know where I can go."
+    e ""
+
+translate schinese name_done_19e5c61a:
+
+    # o "Hey, I don't even know where your supposed Tribe is. Stay with us. Seb and me live in a little village nearby, we can spare you a room there."
     o ""
 
 translate schinese name_done_546f3a6c:
@@ -983,9 +838,9 @@ translate schinese name_done_546f3a6c:
     # e "...I need to bring him back to my Tribe."
     e ""
 
-translate schinese name_done_8d8dea42:
+translate schinese name_done_9ee1d09f:
 
-    # o "Wait, you meant... the other outsider?"
+    # o "Wait, you meant the other outsider?"
     o ""
 
 translate schinese name_done_118adec5:
@@ -993,9 +848,9 @@ translate schinese name_done_118adec5:
     # e "Yes."
     e ""
 
-translate schinese name_done_d6c538de:
+translate schinese name_done_3fe93805:
 
-    # o "He... I don't even know where he is now."
+    # o "He, honestly I don't even know where he is now."
     o ""
 
 translate schinese name_done_8249dc3e:
@@ -1003,9 +858,9 @@ translate schinese name_done_8249dc3e:
     # e "I thought uh, the lion... Sebas told me he's in a goat tribe?"
     e ""
 
-translate schinese name_done_9753a10b:
+translate schinese name_done_721de7c0:
 
-    # o "He left them some time later, as of a few days ago... I assume he found a way to go back?"
+    # o "He left them some time later, as of a few days ago. I hadn't hear from him since, I assumed he found a way to go back?"
     o ""
 
 translate schinese name_done_9a996251:
@@ -1013,14 +868,29 @@ translate schinese name_done_9a996251:
     # e "Oh... fuck, then why am I here."
     e ""
 
-translate schinese name_done_4efe01be:
+translate schinese name_done_2bbf4572:
 
-    # o "If he found a way, then I think you can too. we'll try to hatch a plan while you stay here for a while."
+    # o "I don't think a way would be found so easily, maybe he's still out there."
     o ""
 
-translate schinese name_done_69711a3e:
+translate schinese name_done_3fbc3f4b:
 
-    # o "I just don't want you to die in the wood before you go back, okay?"
+    # o "And if he did find a way, then I think you can too. Don't you think?"
+    o ""
+
+translate schinese name_done_d3f17389:
+
+    # e "Maybe, but I can't stay here long, I... I already missed the bed back in my tribe."
+    e ""
+
+translate schinese name_done_30936e5d:
+
+    # o "Like I said, stay with us. We'll try to hatch a plan while you recover for a while."
+    o ""
+
+translate schinese name_done_1cd2ddf9:
+
+    # o "I just don't want you to get lost in the wood before you go back, okay?"
     o ""
 
 translate schinese name_done_577e4bd1:
@@ -1037,21 +907,6 @@ translate schinese name_done_f8829263:
 
     # e "Hmmmph..."
     e ""
-
-translate schinese name_done_ccd3d48a:
-
-    # o "You look like you can take care of yourself."
-    o ""
-
-translate schinese name_done_78ffc320:
-
-    # e "...what do you mean?"
-    e ""
-
-translate schinese name_done_c127964c:
-
-    # o "Heh... nothing."
-    o ""
 
 translate schinese name_done_b954edbe:
 
@@ -1143,9 +998,9 @@ translate schinese name_done_517cd383:
     # s "Looking good, buddy."
     s ""
 
-translate schinese name_done_130561d4:
+translate schinese name_done_83d62a5a:
 
-    # e "thank you so much, Ole."
+    # e "Thank you so much, Ole."
     e ""
 
 translate schinese name_done_cf3f8b65:
@@ -1158,9 +1013,9 @@ translate schinese name_done_c89772ef:
     # e "Thank you to you too! Sebas."
     e ""
 
-translate schinese name_done_35f1ad64:
+translate schinese name_done_3e94b60c:
 
-    # "You can almost hear Sebas rumbling under his breath."
+    # "Sebas grins wide."
     ""
 
 translate schinese name_done_397b9049:
@@ -1193,9 +1048,9 @@ translate schinese name_done_4af974d9:
     # o "Hey Seb, stop bringing random people up in front of [e]."
     o ""
 
-translate schinese name_done_74ad4f39:
+translate schinese name_done_c81ab352:
 
-    # s "If your friend is here, I think our new friend will be the first to kick his ass."
+    # s "If your friend is here, I think our new friend will be the first to kick his ass, and teach that sucker a lesson."
     s ""
 
 translate schinese name_done_81c96cba:
@@ -1293,14 +1148,14 @@ translate schinese name_done_796e065b:
     # o "Don't stroke his ego that much, kiddo."
     o ""
 
-translate schinese name_done_fd0f2814:
+translate schinese name_done_acab5e05:
 
-    # s "You know what, that lizard here is jealous that I got to be your first friend."
+    # s "You know what, that lizard here is jealous that I got to be your first friend in Mokken."
     s ""
 
-translate schinese name_done_b5f309d8:
+translate schinese name_done_14129aa2:
 
-    # s "So as a really friendly friend, you should be calling me Seb now."
+    # s "So as a really friendly friend, you should be calling me Seb now, as a term of endearment."
     s ""
 
 translate schinese name_done_b3607adf:
@@ -1413,14 +1268,14 @@ translate schinese name_done_be6601fa:
     # o "Welcome to the King's Pawn. We sell general goods and we do a little pawning!"
     o ""
 
-translate schinese name_done_98583983:
+translate schinese name_done_65736a62:
 
-    # s "Hey! That's my lines."
+    # s "Hey! Stop stealing my lines."
     s ""
 
-translate schinese name_done_734bfc6f:
+translate schinese name_done_f3c0c1a2:
 
-    # o "...Anyways the storage room is over there in the back, it already came with the wooden bed someone sold us earlier. Seb will tidy it up for you."
+    # o "Anyways, the storage room is over there in the back, it already came with the wooden bed someone sold us earlier. Seb will tidy it up for you."
     o ""
 
 translate schinese name_done_28c99800:
@@ -1433,9 +1288,9 @@ translate schinese name_done_5d838ea5:
     # o "Hey! No talking back in front of our guests."
     o ""
 
-translate schinese name_done_1779332c:
+translate schinese name_done_2c9e55e2:
 
-    # s "... this fucking lizard."
+    # s "...this fucking lizard."
     s ""
 
 translate schinese name_done_6a7235b3:
@@ -1478,9 +1333,9 @@ translate schinese name_done_64c70efd:
     # e "What really? He looks like the type that attracts a lot of friends."
     e ""
 
-translate schinese name_done_25f70a48:
+translate schinese name_done_4c0396b3:
 
-    # o "Well... it's still good to see new faces around here, the village is too small."
+    # o "Well... it's still good to see new faces around here, the village is too small, you often see the same faces here once or twice per day."
     o ""
 
 translate schinese name_done_28ac9a49:
@@ -1508,14 +1363,24 @@ translate schinese name_done_9fb179f0:
     # e "Oh... That sounds easy."
     e ""
 
-translate schinese name_done_07eae4c7:
+translate schinese name_done_b7ae69b9:
 
-    # o "The thing is, ever since that monster came and connected our worlds together, a lot of monsters are emerging in the wilds. It's a dangerous job if you presume."
+    # o "The thing is, it's not that easy. The forest is not safe anymore."
+    o ""
+
+translate schinese name_done_5d19afe3:
+
+    # o "Ever since that someone brought your Chime into our land. A lot of monsters and wild folks are emerging in the wilds. It's a dangerous job if you presume."
     o ""
 
 translate schinese name_done_d3ffe870:
 
     # e "You can count on me, Ole. I'm a good fighter."
+    e ""
+
+translate schinese name_done_1f49db0d:
+
+    # e "Maybe I can look for Chime while I'm at it."
     e ""
 
 translate schinese name_done_72fb9c4c:
@@ -1763,9 +1628,9 @@ translate schinese name_done_821b7e16:
     # "Seb chuckles for a while, You can feel he could hardly hide the elation in his eyes."
     ""
 
-translate schinese name_done_7c64f4b5:
+translate schinese name_done_5a30f256:
 
-    # s "You're welcome, honey. Sleep tight!"
+    # s "You're welcome, buddy. Sleep tight!"
     s ""
 
 translate schinese name_done_a427aa6e:

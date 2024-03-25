@@ -6483,6 +6483,56 @@ translate schinese Ole_dialogue_d18f171f:
     # o "Heh... I like you this way."
     o ""
 
+translate schinese Ole_dialogue_77d70a21:
+
+    # o "Hey, kiddo. Care to join for a quick while?"
+    o ""
+
+translate schinese Ole_dialogue_6013b960:
+
+    # e "Oh Ole! Nice to see you here in the tavern."
+    e ""
+
+translate schinese Ole_dialogue_9cb4ead1:
+
+    # o "Hey kiddo."
+    o ""
+
+translate schinese Ole_dialogue_0842c711:
+
+    # e "Ole, are you having enough bread here in the tavern?"
+    e ""
+
+translate schinese Ole_dialogue_82c29b38:
+
+    # o "Just enough for me to fill my belly. Cane should really consider opening a bakery as a side business."
+    o ""
+
+translate schinese Ole_dialogue_750bd25d:
+
+    # o "Kiddo. Good to see you here."
+    o ""
+
+translate schinese Ole_dialogue_0bfcf9a5:
+
+    # e "Ole! Is Seb still drunk?"
+    e ""
+
+translate schinese Ole_dialogue_5cbfc025:
+
+    # o "He's always been drunk the second he gets into Cane's place. You'll get used to his gibberish."
+    o ""
+
+translate schinese Ole_dialogue_92ed5e9b:
+
+    # s "Eh- Ol-ol-ole who are you t-shtalking to..."
+    s ""
+
+translate schinese Ole_dialogue_0401bcf7:
+
+    # "You hear a loud burp between you and the lizard."
+    ""
+
 translate schinese Ole_dialogue_b93ddb0b:
 
     # o "Hey, kiddo... Did you forget to put on your clothes."
@@ -6513,6 +6563,56 @@ translate schinese Ole_dialogue_10a7b5b4:
     # o "Yeah, in case you're looking for him."
     o ""
 
+translate schinese Ole_dialogue_aa762fa1:
+
+    # o "Kiddo, what are you doing here?"
+    o ""
+
+translate schinese Ole_dialogue_f7676141:
+
+    # e "Just snooping around, I suppose you don't mind my company?"
+    e ""
+
+translate schinese Ole_dialogue_5952254c:
+
+    # o "Heh, watch out your back then, I'm still dusting the shop here."
+    o ""
+
+translate schinese Ole_dialogue_e4038ae9:
+
+    # o "Hey, kiddo."
+    o ""
+
+translate schinese Ole_dialogue_be74efb6:
+
+    # e "Hello, Ole. Feeling great lately?"
+    e ""
+
+translate schinese Ole_dialogue_24a527e7:
+
+    # o "Good, at least I won't be sick for the forseeable future."
+    o ""
+
+translate schinese Ole_dialogue_36dcd6ce:
+
+    # o "Hey kiddo. Having fun out there?"
+    o ""
+
+translate schinese Ole_dialogue_8014606a:
+
+    # e "Yes, but never fun without having you, and Seb."
+    e ""
+
+translate schinese Ole_dialogue_4ef97c11:
+
+    # o "Wanna go for a round two of that night we had in the tavern? I did hone my throwing skill there ever since."
+    o ""
+
+translate schinese Ole_dialogue_e206f31b:
+
+    # e "Of course!"
+    e ""
+
 translate schinese Ole_dialogue_64c2c56a:
 
     # o "Hey kid, how's your head doing?"
@@ -6523,9 +6623,9 @@ translate schinese Ole_dialogue_620e4fc1:
     # e "It's healing really quick, Ole. Thanks to you and Sebas."
     e ""
 
-translate schinese Ole_dialogue_944d5248:
+translate schinese Ole_dialogue_ddbec255:
 
-    # o "Good. Do you like the bed? It is quite an expensive wool bed considering the selling price we got from the customer."
+    # o "Good. Do you like the bed? We got the whole bed from a customer long ago, a bad investment at the time, but I'm glad it came in handy for you."
     o ""
 
 translate schinese Ole_dialogue_421f54d3:
@@ -6538,7 +6638,7 @@ translate schinese Ole_dialogue_bced9a10:
     # o "Heh, good to know."
     o ""
 
-translate schinese Ole_dialogue_e4038ae9:
+translate schinese Ole_dialogue_e4038ae9_1:
 
     # o "Hey, kiddo."
     o ""

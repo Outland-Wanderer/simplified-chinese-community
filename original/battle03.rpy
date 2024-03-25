@@ -3,6 +3,76 @@
     # "Amble strikes his hammer against the fluffy leaves, but it bounces off the bridgeroot slickly."
     ""
 
+translate schinese battle_attack_script_cbc9cf6d:
+
+    # "You raise your fist and punch as hard as you can into the [target.name!t]. but it swiftly dodges away from your blow."
+    ""
+
+translate schinese battle_attack_script_69cc0745:
+
+    # "You raise your sword and slash at the monster, but the [target.name!t] quickly dodges your attack."
+    ""
+
+translate schinese battle_attack_script_0f1c7eb7:
+
+    # "You slam your axe into the monster, but the [target.name!t] quickly dodges your attack."
+    ""
+
+translate schinese battle_attack_script_d5018a91:
+
+    # "You hold and shoot an arrow at the slime, but it narrowly misses the [target.name!t]."
+    ""
+
+translate schinese battle_attack_script_2ce302db:
+
+    # "You hold your fist and punch as hard as you can into the [target.name!t]. but you punch the wall instead. Hopefully no one saw that..."
+    ""
+
+translate schinese battle_attack_script_d0065919:
+
+    # "Your swing your sword at the [target.name!t], but it hits the wall instead."
+    ""
+
+translate schinese battle_attack_script_3000ebcd:
+
+    # "You slam your axe into the [target.name!t], but it hits the wall instead."
+    ""
+
+translate schinese battle_attack_script_bfe0fafc:
+
+    # "You bring up your bow and aim. You release the bowstring, and it barely miss the [target.name!t]."
+    ""
+
+translate schinese battle_attack_script_6bb5675b:
+
+    # "You slash your [pc.weapon.name!t] at the goat's arm, but he leaps back, avoiding the blow by inches."
+    ""
+
+translate schinese battle_attack_script_62558b3c:
+
+    # "You try to slam your [pc.weapon.name!t] into the goat's head, but he leaps back and avoids the blow by mere inches."
+    ""
+
+translate schinese battle_attack_script_89782324:
+
+    # "You aim and shoot your [pc.weapon.name!t] at the goat, but he leaps back, avoiding the arrow by mere inches."
+    ""
+
+translate schinese battle_attack_script_e8b8a7aa:
+
+    # "You throw your fist at the goat, but he leaps back, the blow only serving to ruffle his fur a little."
+    ""
+
+translate schinese battle_attack_script_309a9672:
+
+    # gt "You foul varmint, you really think your little trick is going to hurt me? Now, taste my spear!"
+    gt ""
+
+translate schinese battle_attack_script_45dfa330:
+
+    # gt "T-that wasn't a good attempt, you need to do better."
+    gt ""
+
 translate schinese battle_attack_script_0becd5f1:
 
     # "You slash your [pc.weapon.name!t] at the [target.name!t], but it strikes into nothing but a few stranded leaves and moss."
@@ -26,6 +96,21 @@ translate schinese battle_attack_script_70f3831c:
 translate schinese battle_attack_script_e1ac7fa2:
 
     # "The [target.name!t] stands there, still emotionless, he doesn't seem to notice your feeble attack, not even the slightest."
+    ""
+
+translate schinese battle_attack_script_00a3dd32:
+
+    # "You slash your [pc.weapon.name!t] at the [target.name!t], but it turns ephereal and dodges swiftly in the air."
+    ""
+
+translate schinese battle_attack_script_b3c00be1:
+
+    # yu "Shit, my sword's not working..."
+    yu ""
+
+translate schinese battle_attack_script_754b49b3:
+
+    # "The [target.name!t] floats motionless in face of your attack."
     ""
 
 translate schinese battle_attack_script_d8a1e631:
@@ -123,6 +208,106 @@ translate schinese battle_attack_script_6430a4d5:
     # "Amble strikes his hammer against the fluffy leaves of the bridgeroot, it hits his core very effectively as the green monster staggers a bit backwards, you can clearly see the crater his hammer creates there."
     ""
 
+translate schinese battle_attack_script_ac32d1b0:
+
+    # "You hold your fist and punch as hard as you can into the [target.name!t]. It is as disgusting as it is effective."
+    ""
+
+translate schinese battle_attack_script_4fe140e4:
+
+    # "You growl and swing your sword at the monster, slashing right through the [target.name!t]."
+    ""
+
+translate schinese battle_attack_script_8ed4f646:
+
+    # "You growl and swing your axe at the monster, slashing right through the [target.name!t]."
+    ""
+
+translate schinese battle_attack_script_04385294:
+
+    # "You hold your bow and aim at the monster, you release the arrow and it flies true, hitting the [target.name!t] right in its core."
+    ""
+
+translate schinese battle_attack_script_3a5b1398:
+
+    # "You raise your fist and punch as hard as you can into the dummy."
+    ""
+
+translate schinese battle_attack_script_d99a2c47:
+
+    # "You growl and swing your sword, slashing right into the dummy."
+    ""
+
+translate schinese battle_attack_script_285e2b00:
+
+    # "You growl and swing your axe, slashing right into the dummy."
+    ""
+
+translate schinese battle_attack_script_571e5fff:
+
+    # "You bring up your bow and aim. The arrow flies right into its bull's eye."
+    ""
+
+translate schinese battle_attack_script_7eaa0620:
+
+    # "You try to slice your [pc.weapon.name!t] into the goat's arm. He brings his spear up to block, but fails to stop the strike entirely."
+    ""
+
+translate schinese battle_attack_script_f1d3deb2:
+
+    # "You feint an overhead chop with your [pc.weapon.name!t], before bringing up your foot for a kick to his chest as he tries to block, knocking him down on the ground."
+    ""
+
+translate schinese battle_attack_script_aefe873e:
+
+    # "You slash your [pc.weapon.name!t] at the goat in a wide, horizontal arc. The goat leaps back out of range, but not before the blade nicks a shallow cut across his stomach."
+    ""
+
+translate schinese battle_attack_script_9953be8f:
+
+    # "You slam the butt of your [pc.weapon.name!t] into the goat's head, knocking him on the ground."
+    ""
+
+translate schinese battle_attack_script_362f9af1:
+
+    # "You aim and shoot your [pc.weapon.name!t] at the goat. The arrow hits him right in the shoulder. His health decreases by [oa[4]] HP."
+    ""
+
+translate schinese battle_attack_script_9b0045ba:
+
+    # "You run while shooting your [pc.weapon.name!t] at the goat, knocking him to the ground. He growls at you before getting up, albeit disheveled. His health decreases by [oa[4]] HP."
+    ""
+
+translate schinese battle_attack_script_dd5f79e8:
+
+    # "You throw your fist at the goat, hitting him right across the face. The sheer impact knocks him to the ground. His health decreases by [oa[4]] HP."
+    ""
+
+translate schinese battle_attack_script_43ad78a5:
+
+    # "You slam your fist into the goat's stomach. As he doubles over in pain, you kick out his legs under him, knocking him flat on the ground. His health decreases by [oa[4]] HP."
+    ""
+
+translate schinese battle_attack_script_72b19042:
+
+    # "A bright red gash appearing in his arm. His health decreases by [oa[4]] HP."
+    ""
+
+translate schinese battle_attack_script_2476aeaa:
+
+    # "He growls at you before getting up, albeit disheveled. His health decreases by [oa[4]] HP."
+    ""
+
+translate schinese battle_attack_script_17fe72ee:
+
+    # "Drops of blood spill down the front of his body. His health decreases by [oa[4]] HP."
+    ""
+
+translate schinese battle_attack_script_18302ba4:
+
+    # "It seems you've hit the goat critically, dealing [oa[4]] HP!"
+    ""
+
 translate schinese battle_attack_script_7bbbc409:
 
     # "You slash your [pc.weapon.name!t] at the [target.name!t], as your blade grazes through the leaves and moss on [target.name!t], and a chunk of leaves falls off of him, casually."
@@ -146,6 +331,16 @@ translate schinese battle_attack_script_3aa0091a:
 translate schinese battle_attack_script_3bb039f4:
 
     # "The [target.name!t] grunts loudly, seems more than mildly annoyed now that you're hurting him."
+    ""
+
+translate schinese battle_attack_script_422c861a:
+
+    # "You slash your [pc.weapon.name!t] at the [target.name!t], your blade grazes through the ghostly form of the [target.name!t]."
+    ""
+
+translate schinese battle_attack_script_3e8d701f:
+
+    # "The [target.name!t] vibrates, seems more than mildly annoyed now that you're hurting him."
     ""
 
 translate schinese battle_attack_script_1a6ba155:
@@ -253,6 +448,21 @@ translate schinese battle_attack_script_8ffa9b69:
     # "The [target.name!t] howls in anger, you can feel the imminent danger as other werewolves in the forest respond to his howl."
     ""
 
+translate schinese battle_attack_script_4e97572b:
+
+    # gt "Aggghh.... W-what the... You little furry lizard, I'll strike you down without mercy!"
+    gt ""
+
+translate schinese battle_attack_script_8787f4c7:
+
+    # gt "Grrrrr! L-lucky hit... Let me teach you how to fight properly!"
+    gt ""
+
+translate schinese battle_attack_script_8787f4c7_1:
+
+    # gt "Grrrrr! L-lucky hit... Let me teach you how to fight properly!"
+    gt ""
+
 translate schinese battle_attack_script_c5074ad8:
 
     # gnl "O-Ouch! Fingertips graze, almost!"
@@ -288,6 +498,26 @@ translate schinese battle_attack_script_29d84905:
     # "You can barely hear barking sound of the [target.name!t], it seems like he doesn't appreciate a trespasser, and you've angered him further."
     ""
 
+translate schinese battle_attack_script_a3b94c0e:
+
+    # gt "Ummmph.. How... I-I can't. Chief, please give me the strength to defeat this insolent whelp!"
+    gt ""
+
+translate schinese battle_attack_script_736253fc:
+
+    # gt "Damn... didn't know a courier can hit that hard...!"
+    gt ""
+
+translate schinese battle_attack_script_74a6a844:
+
+    # gt "Hnnnngh... M-my brothers, they will not spare your pathetic life. T-they're coming... any second now. Y-you better run."
+    gt ""
+
+translate schinese battle_attack_script_b9b79704:
+
+    # gt "Damn... didn't know a courier can hit that hard...! Give me all you got!"
+    gt ""
+
 translate schinese battle_attack_script_f1fbe73b:
 
     # gnl "Gnoll feels that, argh!"
@@ -307,6 +537,31 @@ translate schinese battle_attack_script_69eb351b:
 
     # bd "Hey, let's talk this out, huh? I'll make it worth your while!"
     bd ""
+
+translate schinese battle_flirt_script_2f33da57:
+
+    # "You caress your body in front of the dummy, calling its name in some silly fashion."
+    ""
+
+translate schinese battle_flirt_script_7843803c:
+
+    # "Getting closer to the motionless dummy, you try to get a reaction from it by touching it in the groin area... but it doesn't seem to react to your advance."
+    ""
+
+translate schinese battle_flirt_script_a4b1ddae:
+
+    # "Flirt doesn't sound like a great idea on these creatures..."
+    ""
+
+translate schinese battle_flirt_script_021d1316:
+
+    # "As much as you try to... flirt with the slime, it doesn't flinch, or get aroused."
+    ""
+
+translate schinese battle_flirt_script_6bcff645:
+
+    # "You back off before it tries to grab a hold of your body."
+    ""
 
 translate schinese battle_flirt_script_fdf9de27:
 
@@ -333,6 +588,26 @@ translate schinese battle_flirt_script_f0115095:
     # "Vurro shoots you a playful smile, mildly amused at your demonstration."
     ""
 
+translate schinese battle_flirt_script_c2ea7413:
+
+    # "It doesn't seem to have noticed, or have the capability to even do that."
+    ""
+
+translate schinese battle_flirt_script_7aae6f2c:
+
+    # "You continue your act for about a minute, but the huntsman doesn't even flinch."
+    ""
+
+translate schinese battle_flirt_script_29ded62b:
+
+    # gt "Ok... That's too much, you insolent filth. I'm not going to fall for this."
+    gt ""
+
+translate schinese battle_flirt_script_8256a0e6:
+
+    # gt "Well..."
+    gt ""
+
 translate schinese battle_flirt_script_cba7f25f:
 
     # "You continue your act for about a minute, but the [target.name!t] just stares at you in confusion."
@@ -358,9 +633,54 @@ translate schinese battle_flirt_script_cf306a0f:
     # v "Mhmm... just don't flirt with Uffe when the time comes, but I have to admit, you do get a reaction out of me."
     v ""
 
+translate schinese battle_flirt_script_ce63920f:
+
+    # "Within a few seconds you can already see some movement from under the goat's loincloth. He doesn't say anything, except for licking his lips. His lust is increased by [player_flirt]."
+    ""
+
+translate schinese battle_flirt_script_fb404ac5:
+
+    # gt "...I-if you do that one more time I'm going to grab that huge ass and never let go..."
+    gt ""
+
+translate schinese battle_flirt_script_e2711b23:
+
+    # "You notice the goat is floundering, trying his best not to get aroused by your seduction, but his flushed face and pitched tent says it all. His lust is increased by [player_flirt]."
+    ""
+
+translate schinese battle_flirt_script_9cd9f568:
+
+    # gt "You are w-wasting your time. I'm n-not... I'm not... I- uhh... nooo..."
+    gt ""
+
+translate schinese battle_flirt_script_531218b5:
+
+    # "The goat huntsman is squirming in reaction to your advance. You can already hear his rapid breathing and grunting, holding his spear tightly. His lust is increased by [player_flirt]."
+    ""
+
+translate schinese battle_flirt_script_ae4f2742:
+
+    # gt "N-noooo. I c-can't control... my mind. Please..."
+    gt ""
+
+translate schinese battle_flirt_script_3548818f:
+
+    # "You can tell the huntsman is already playing with himself when his hand goes under his loincloth, staring at your ass intently. His lust is increased by [player_flirt]"
+    ""
+
+translate schinese battle_flirt_script_0d56d52b:
+
+    # gt "Hnnnngh... I n-need to... cum."
+    gt ""
+
 translate schinese battle_flirt_script_c632bd62:
 
     # "Even if it's just a little, you notice a mild vibration in the bridgeroot's moss, it seems to react easily. His lust is increased by [player_flirt]."
+    ""
+
+translate schinese battle_flirt_script_edd422d7:
+
+    # "Almost surprisingly, the slime budges, even just for a little."
     ""
 
 translate schinese battle_flirt_script_37523263:
@@ -463,9 +783,64 @@ translate schinese battle_flirt_script_756769c4:
     # bd "N-not even... c-close."
     bd ""
 
+translate schinese battle_escape_surrender_script_cfcbc5f4:
+
+    # "You walk away from the dummy; it appears to patch itself up before going motionless, letting dust settle on it again."
+    ""
+
 translate schinese battle_escape_surrender_script_0fe6ac61:
 
     # "You're not sure if you can leave the training with Vurro right now."
+    ""
+
+translate schinese battle_escape_surrender_script_f321de17:
+
+    # "You try to escape, but the spritebinder's arm yanks you straight back into the fight."
+    ""
+
+translate schinese battle_escape_surrender_script_89f13d8f:
+
+    # "You can't escape from the arena."
+    ""
+
+translate schinese battle_escape_surrender_script_d502f36e:
+
+    # "You cannot run away from battle practice..."
+    ""
+
+translate schinese battle_escape_surrender_script_9bc3bcf2:
+
+    # "You slowly back away from the [target.name!t]'s attack. Attempting to dodge its gooey appendages, you trip and fall on the grass!"
+    ""
+
+translate schinese battle_escape_surrender_script_94977c72:
+
+    # "Your escape attempt seems to have failed."
+    ""
+
+translate schinese battle_escape_surrender_script_c0ea3135:
+
+    # "You slowly back down from the goat's attack, turn around, and run as fast as you can. Suddenly, you slip and fall on the trap he set up ealier. Your escape seems to have failed!"
+    ""
+
+translate schinese battle_escape_surrender_script_4cd25dd1:
+
+    # gt "Haha... Come back here you insolent wretch, I am not done with you yet."
+    gt ""
+
+translate schinese battle_escape_surrender_script_d4c5f64c:
+
+    # gt "Mhmm... need to improve your running skills as well."
+    gt ""
+
+translate schinese battle_escape_surrender_script_ca519a13:
+
+    # "You slowly back away from the [target.name!t]'s attack. Attempting to dodge its ghostly form, you trip and fall on the grass!"
+    ""
+
+translate schinese battle_escape_surrender_script_94977c72_1:
+
+    # "Your escape attempt seems to have failed."
     ""
 
 translate schinese battle_escape_surrender_script_13fbd82f:
@@ -483,6 +858,21 @@ translate schinese battle_escape_surrender_script_dd94ae58:
     # ww "Do not ever think about escaping, little prey. You are mine now."
     ww ""
 
+translate schinese battle_escape_surrender_script_ed3263e8:
+
+    # "You slowly back away from the [target.name!t]'s attack. Dodging its gooey appendages. You successfully escape from the [target.name!t]!"
+    ""
+
+translate schinese battle_escape_surrender_script_d5ffdb9d:
+
+    # "You slowly back away from the goat's attack, turn around, and run as fast as you can. The goat throws his spear at you, barely missing your head. You successfully escaped from the huntsman!"
+    ""
+
+translate schinese battle_escape_surrender_script_1ebf5074:
+
+    # "You slowly back away from the [target.name!t]'s attack. Dodging its ghostly form. You successfully escape from the [target.name!t]!"
+    ""
+
 translate schinese battle_escape_surrender_script_13fbd82f_1:
 
     # "You slowly back down from the [target.name!t]'s attack, you turn around and run as fast as you can."
@@ -491,6 +881,11 @@ translate schinese battle_escape_surrender_script_13fbd82f_1:
 translate schinese battle_escape_surrender_script_50b7b402:
 
     # "The [target.name!t] tries to outrun you but he trips and falls on the ground, You successfully escaped from the [target.name!t]!"
+    ""
+
+translate schinese battle_escape_surrender_script_4988e7e1:
+
+    # "You try to surrender to the dummy, pretending to slip and fall on the floor... its stationary stance seem to advise you to leave instead."
     ""
 
 translate schinese battle_escape_surrender_script_9d627f20:
@@ -502,6 +897,16 @@ translate schinese battle_escape_surrender_script_710636c4:
 
     # v "Not going any further? We can stop here."
     v ""
+
+translate schinese battle_escape_surrender_script_47f4bdd0:
+
+    # "You fall to your knees, having exhausted all your energy. You feel the slime has overpowered you in every way possible."
+    ""
+
+translate schinese battle_escape_surrender_script_664ea1cc:
+
+    # "With no possible outcome in sight, you surrender yourself to its gooey grasp..."
+    ""
 
 translate schinese battle_escape_surrender_script_75066d56:
 
@@ -526,6 +931,26 @@ translate schinese battle_escape_surrender_script_6ef9c502:
 translate schinese battle_escape_surrender_script_b2a8349a:
 
     # "You slowly close your eyes and wait for him to decide your fate."
+    ""
+
+translate schinese battle_escape_surrender_script_c764976e:
+
+    # gt "Ha... At least you are smart enough to give yourself up to our chief. But, since we're here. I have a better plan for you."
+    gt ""
+
+translate schinese battle_escape_surrender_script_5fa880da:
+
+    # "He laughs at your submission and looks you up and down. Thinking carefully about his next step..."
+    ""
+
+translate schinese battle_escape_surrender_script_65ca3b04:
+
+    # gt "Well... it seems we're done...heh. I thought our general said you're strong... not strong enough."
+    gt ""
+
+translate schinese battle_escape_surrender_script_02490d6b:
+
+    # "He looks at you up and down..."
     ""
 
 translate schinese battle_ally_script_2fe31d4b:
@@ -1453,792 +1878,792 @@ translate schinese runeguardian_win_6c4c18c3:
     # "Stepping over the dust that the guardian leaves behind, you decide to check in on Furkan at the back."
     ""
 
-translate schinese Bandit_Den_End_ef6b3876:
+translate schinese Damp_Cave_End_ef6b3876:
 
     # k "Hey, Furk. Furk! You alright?"
     k ""
 
-translate schinese Bandit_Den_End_a17ba0e9:
+translate schinese Damp_Cave_End_a17ba0e9:
 
     # "The Ram doesn't speak, in fact he still hasn't wake. Kari presses on his chest for a few moment."
     ""
 
-translate schinese Bandit_Den_End_f397e375:
+translate schinese Damp_Cave_End_f397e375:
 
     # k "Alright, he's alive. Furk."
     k ""
 
-translate schinese Bandit_Den_End_46661de9:
+translate schinese Damp_Cave_End_46661de9:
 
     # "Kari performs healing magic to the unconscious ram."
     ""
 
-translate schinese Bandit_Den_End_9a2b7cf9:
+translate schinese Damp_Cave_End_9a2b7cf9:
 
     # "Furkan's eyes flutter open, as an anticipated deer watches in relief."
     ""
 
-translate schinese Bandit_Den_End_3ec57d49:
+translate schinese Damp_Cave_End_3ec57d49:
 
     # f "..."
     f ""
 
-translate schinese Bandit_Den_End_9618a388:
+translate schinese Damp_Cave_End_9618a388:
 
     # k "Furk?"
     k ""
 
-translate schinese Bandit_Den_End_02545655:
+translate schinese Damp_Cave_End_02545655:
 
     # f "...W-where am I?"
     f ""
 
-translate schinese Bandit_Den_End_00f52772:
+translate schinese Damp_Cave_End_00f52772:
 
     # "Kari hugs the chief tightly, he positions himself on top of Furkan, feeling all his warmth as you watch from a distance."
     ""
 
-translate schinese Bandit_Den_End_068112a1:
+translate schinese Damp_Cave_End_068112a1:
 
     # k "Furk, you almost scared me to death. I thought you were gone."
     k ""
 
-translate schinese Bandit_Den_End_b7cc3345:
+translate schinese Damp_Cave_End_b7cc3345:
 
     # f "Uhm... the cave... I came here looking for the golem did I not?"
     f ""
 
-translate schinese Bandit_Den_End_723c6101:
+translate schinese Damp_Cave_End_723c6101:
 
     # "Kari nods."
     ""
 
-translate schinese Bandit_Den_End_48014797:
+translate schinese Damp_Cave_End_48014797:
 
     # e "Hey, Furkan."
     e ""
 
-translate schinese Bandit_Den_End_7c5afb1c:
+translate schinese Damp_Cave_End_7c5afb1c:
 
     # f "The courier? Why are you here."
     f ""
 
-translate schinese Bandit_Den_End_e5aaaaa3:
+translate schinese Damp_Cave_End_e5aaaaa3:
 
     # e "Kari asked me to come with him to save you."
     e ""
 
-translate schinese Bandit_Den_End_f4847294:
+translate schinese Damp_Cave_End_f4847294:
 
     # e "Did you pass out after the guardian attacked you?"
     e ""
 
-translate schinese Bandit_Den_End_ae4b54e1:
+translate schinese Damp_Cave_End_ae4b54e1:
 
     # f "No, it was someone else... the guardian was protecting me."
     f ""
 
-translate schinese Bandit_Den_End_3bea46d2:
+translate schinese Damp_Cave_End_3bea46d2:
 
     # k "Please tell me who attacked you, Furkan. I will take my own revenge on them."
     k ""
 
-translate schinese Bandit_Den_End_000b35c8:
+translate schinese Damp_Cave_End_000b35c8:
 
     # f "They hit me from the back, I have no idea."
     f ""
 
-translate schinese Bandit_Den_End_d4a36c19:
+translate schinese Damp_Cave_End_d4a36c19:
 
     # "Kari looks disappointed, it seems he cares about the chief a lot by the way he's still hugging him."
     ""
 
-translate schinese Bandit_Den_End_4312d7b7:
+translate schinese Damp_Cave_End_4312d7b7:
 
     # f "W-wait..."
     f ""
 
-translate schinese Bandit_Den_End_9f94dcc8:
+translate schinese Damp_Cave_End_9f94dcc8:
 
     # f "I lost it."
     f ""
 
-translate schinese Bandit_Den_End_6a9d299d:
+translate schinese Damp_Cave_End_6a9d299d:
 
     # k "Father's basin?"
     k ""
 
-translate schinese Bandit_Den_End_32a6dc7b:
+translate schinese Damp_Cave_End_32a6dc7b:
 
     # "The general pulls away, looking at Furkan with concern."
     ""
 
-translate schinese Bandit_Den_End_1b47d087:
+translate schinese Damp_Cave_End_1b47d087:
 
     # k "Oh... No."
     k ""
 
-translate schinese Bandit_Den_End_ead24320:
+translate schinese Damp_Cave_End_ead24320:
 
     # e "W-what's it?"
     e ""
 
-translate schinese Bandit_Den_End_07929565:
+translate schinese Damp_Cave_End_07929565:
 
     # k "We used it to summon our guardians, or what you called golem."
     k ""
 
-translate schinese Bandit_Den_End_b34597c1:
+translate schinese Damp_Cave_End_b34597c1:
 
     # f "Is the guardian doing well?"
     f ""
 
-translate schinese Bandit_Den_End_001113cc:
+translate schinese Damp_Cave_End_001113cc:
 
     # k "Courier used a rock on him, I saw it."
     k ""
 
-translate schinese Bandit_Den_End_93902d70:
+translate schinese Damp_Cave_End_93902d70:
 
     # "You nods slightly as the chief gives you an approving smile."
     ""
 
-translate schinese Bandit_Den_End_46a16c41:
+translate schinese Damp_Cave_End_46a16c41:
 
     # "But the smile fades away quickly as he looks back at Kari."
     ""
 
-translate schinese Bandit_Den_End_5363b379:
+translate schinese Damp_Cave_End_5363b379:
 
     # f "It was stupid of me to come here alone. I did not intend for anyone to follow me."
     f ""
 
-translate schinese Bandit_Den_End_deb4c568:
+translate schinese Damp_Cave_End_deb4c568:
 
     # f "But that made the perfect opportunity for an ambush."
     f ""
 
-translate schinese Bandit_Den_End_54f08db2:
+translate schinese Damp_Cave_End_54f08db2:
 
     # f "How silly I am..."
     f ""
 
-translate schinese Bandit_Den_End_58798f39:
+translate schinese Damp_Cave_End_58798f39:
 
     # k "Furk... it's fine. we can find the basin later."
     k ""
 
-translate schinese Bandit_Den_End_68914fef:
+translate schinese Damp_Cave_End_68914fef:
 
     # f "Where's the guardian?"
     f ""
 
-translate schinese Bandit_Den_End_98e8204b:
+translate schinese Damp_Cave_End_98e8204b:
 
     # k "We killed it. We thought he went rogue on you and he started attacking us."
     k ""
 
-translate schinese Bandit_Den_End_f273e2bb:
+translate schinese Damp_Cave_End_f273e2bb:
 
     # f "Alright."
     f ""
 
-translate schinese Bandit_Den_End_fa11c99b:
+translate schinese Damp_Cave_End_fa11c99b:
 
     # "Furkan sighs, he looks down, eyes almost teary."
     ""
 
-translate schinese Bandit_Den_End_a083357a:
+translate schinese Damp_Cave_End_a083357a:
 
     # "He doesn't speak, instead, he grasps on Kari's hand. The general doesn't seem to flich away."
     ""
 
-translate schinese Bandit_Den_End_ab4dee2a:
+translate schinese Damp_Cave_End_ab4dee2a:
 
     # "Both of them are just mourning, in their own way."
     ""
 
-translate schinese Bandit_Den_End_f2da58de:
+translate schinese Damp_Cave_End_f2da58de:
 
     # f "So, all of what I did was for nothing."
     f ""
 
-translate schinese Bandit_Den_End_87555c13:
+translate schinese Damp_Cave_End_87555c13:
 
     # f "Guardian died, basin got stolen."
     f ""
 
-translate schinese Bandit_Den_End_db3cd737:
+translate schinese Damp_Cave_End_db3cd737:
 
     # e "W-what's the basin actually?"
     e ""
 
-translate schinese Bandit_Den_End_f2575d7f:
+translate schinese Damp_Cave_End_f2575d7f:
 
     # f "It was what my father used to summon guardians, with the help of the runes."
     f ""
 
-translate schinese Bandit_Den_End_095e395f:
+translate schinese Damp_Cave_End_095e395f:
 
     # f "In return, the guardians protect the runes."
     f ""
 
-translate schinese Bandit_Den_End_cd0075c1:
+translate schinese Damp_Cave_End_cd0075c1:
 
     # f "And now I lost both of them."
     f ""
 
-translate schinese Bandit_Den_End_c3ed46ef:
+translate schinese Damp_Cave_End_c3ed46ef:
 
     # "Kari rubs his paws on Furkan's wound, tending to it carefully."
     ""
 
-translate schinese Bandit_Den_End_a534077e:
+translate schinese Damp_Cave_End_a534077e:
 
     # e "I'm really sorry to hear, but we'll try to get them back when you recover."
     e ""
 
-translate schinese Bandit_Den_End_cebe6de1:
+translate schinese Damp_Cave_End_cebe6de1:
 
     # f "Thanks, both of you. I need to get back to the tribe now."
     f ""
 
-translate schinese Bandit_Den_End_8c3907b5:
+translate schinese Damp_Cave_End_8c3907b5:
 
     # f "Hmm..."
     f ""
 
-translate schinese Bandit_Den_End_486f5a9b:
+translate schinese Damp_Cave_End_486f5a9b:
 
     # "Furkan stumbles forward when he tries to stand up, you see Kari intuitively lifts him back up."
     ""
 
-translate schinese Bandit_Den_End_6cd031f3:
+translate schinese Damp_Cave_End_6cd031f3:
 
     # f "Kari?"
     f ""
 
-translate schinese Bandit_Den_End_6d3d914b:
+translate schinese Damp_Cave_End_6d3d914b:
 
     # k "Yeah... Let's go."
     k ""
 
-translate schinese Bandit_Den_End_e73388e9:
+translate schinese Damp_Cave_End_e73388e9:
 
     # e "Oh... you guys... are going?"
     e ""
 
-translate schinese Bandit_Den_End_a944e8ba:
+translate schinese Damp_Cave_End_a944e8ba:
 
     # "Kari carries the furkan's exhausted body on his back. The two men grunts a little before walking."
     ""
 
-translate schinese Bandit_Den_End_6409673d:
+translate schinese Damp_Cave_End_6409673d:
 
     # k "U-uhm... Thanks, Courier."
     k ""
 
-translate schinese Bandit_Den_End_b213370a:
+translate schinese Damp_Cave_End_b213370a:
 
     # k "Here's some recipe that you might want to take a look."
     k ""
 
-translate schinese Bandit_Den_End_44668cc5:
+translate schinese Damp_Cave_End_44668cc5:
 
     # k "It's iron sword and axe."
     k ""
 
-translate schinese Bandit_Den_End_a3ae056d:
+translate schinese Damp_Cave_End_a3ae056d:
 
     # e "Thanks, general."
     e ""
 
-translate schinese Bandit_Den_End_84fcf348:
+translate schinese Damp_Cave_End_84fcf348:
 
     # "He hands you the paper, before tugging the chieftain upwards with his hands on his ass."
     ""
 
-translate schinese Bandit_Den_End_127daacc:
+translate schinese Damp_Cave_End_127daacc:
 
     # k "I'll take our Chief back to our tribe, see you later."
     k ""
 
-translate schinese Bandit_Den_End_a5a58d4c:
+translate schinese Damp_Cave_End_a5a58d4c:
 
     # f "Take care."
     f ""
 
-translate schinese Bandit_Den_End_ce1cdeaf:
+translate schinese Damp_Cave_End_ce1cdeaf:
 
     # e "See you..."
     e ""
 
-translate schinese Bandit_Den_End_e0df77ea:
+translate schinese Damp_Cave_End_e0df77ea:
 
     # "Kari turns away from you, and begin walking towards the exit."
     ""
 
-translate schinese Bandit_Den_End_4c3c3c00:
+translate schinese Damp_Cave_End_4c3c3c00:
 
     # k "{size=20}Furk, since when did you get this heavy.{/size}"
     k ""
 
-translate schinese Bandit_Den_End_2b1a552a:
+translate schinese Damp_Cave_End_2b1a552a:
 
     # "They whispers, but the echo in the cave makes it clear even from afar."
     ""
 
-translate schinese Bandit_Den_End_b055cfae:
+translate schinese Damp_Cave_End_b055cfae:
 
     # f "{size=20}Uhmm... Heavier if I fall asleep on your shoulder...{/size}"
     f ""
 
-translate schinese Bandit_Den_End_747772b0:
+translate schinese Damp_Cave_End_747772b0:
 
     # "Kari and Furkan leaves you outside the cave."
     ""
 
-translate schinese Bandit_Den_End_ed08a457:
+translate schinese Damp_Cave_End_ed08a457:
 
     # e "Fuck, Furkan? Are you awake?"
     e ""
 
-translate schinese Bandit_Den_End_ad844077:
+translate schinese Damp_Cave_End_ad844077:
 
     # "The Ram is completely passed out, you decide to presses on his chest for a few moment."
     ""
 
-translate schinese Bandit_Den_End_81fffab3:
+translate schinese Damp_Cave_End_81fffab3:
 
     # "With no avail, you lean your head against his chest, luckily his heart is still beating, albeit weakly."
     ""
 
-translate schinese Bandit_Den_End_282a297e:
+translate schinese Damp_Cave_End_282a297e:
 
     # "You cast a weak healing magic on him."
     ""
 
-translate schinese Bandit_Den_End_3ec57d49_1:
+translate schinese Damp_Cave_End_3ec57d49_1:
 
     # f "..."
     f ""
 
-translate schinese Bandit_Den_End_fca3c10c:
+translate schinese Damp_Cave_End_fca3c10c:
 
     # "The chief's eyes flutter open. He looks stressful, and his pupils dilate."
     ""
 
-translate schinese Bandit_Den_End_4e056dcb:
+translate schinese Damp_Cave_End_4e056dcb:
 
     # f "...W-who..."
     f ""
 
-translate schinese Bandit_Den_End_2f3870eb:
+translate schinese Damp_Cave_End_2f3870eb:
 
     # e "Hey, Furkan. Are you alright?"
     e ""
 
-translate schinese Bandit_Den_End_bcda30d6:
+translate schinese Damp_Cave_End_bcda30d6:
 
     # "He turns his attention to you."
     ""
 
-translate schinese Bandit_Den_End_d06b9227:
+translate schinese Damp_Cave_End_d06b9227:
 
     # f "Courier? Why are you here."
     f ""
 
-translate schinese Bandit_Den_End_25d2b6ed:
+translate schinese Damp_Cave_End_25d2b6ed:
 
     # e "Your general told me to save you here..."
     e ""
 
-translate schinese Bandit_Den_End_f0e70fe2:
+translate schinese Damp_Cave_End_f0e70fe2:
 
     # e "He's resting in the tribe now."
     e ""
 
-translate schinese Bandit_Den_End_a3e1f029:
+translate schinese Damp_Cave_End_a3e1f029:
 
     # "You try to give him a hand as he shifts his position to you, but he doesn't take it."
     ""
 
-translate schinese Bandit_Den_End_9f93daa8:
+translate schinese Damp_Cave_End_9f93daa8:
 
     # f "W-what happened."
     f ""
 
-translate schinese Bandit_Den_End_713df877:
+translate schinese Damp_Cave_End_713df877:
 
     # e "He fought me as I entered your tribe, I defeated him at the end."
     e ""
 
-translate schinese Bandit_Den_End_c492b7b4:
+translate schinese Damp_Cave_End_c492b7b4:
 
     # e "I didn't intend to, just trying to protect myself. He thought I kidnapped you."
     e ""
 
-translate schinese Bandit_Den_End_b329270f:
+translate schinese Damp_Cave_End_b329270f:
 
     # e "Afterwards he told me you might be here..."
     e ""
 
-translate schinese Bandit_Den_End_bbdc0855:
+translate schinese Damp_Cave_End_bbdc0855:
 
     # "Furkan stares forwards, seemingly pondering something you're not aware of."
     ""
 
-translate schinese Bandit_Den_End_a9d62d89:
+translate schinese Damp_Cave_End_a9d62d89:
 
     # e "Uhm... Furkan... did you pass out after the guardian attacked you?"
     e ""
 
-translate schinese Bandit_Den_End_90f09731:
+translate schinese Damp_Cave_End_90f09731:
 
     # f "No... it was someone else... the guardian was protecting me."
     f ""
 
-translate schinese Bandit_Den_End_9168b5c7:
+translate schinese Damp_Cave_End_9168b5c7:
 
     # "He looks around, distressed."
     ""
 
-translate schinese Bandit_Den_End_4312d7b7_1:
+translate schinese Damp_Cave_End_4312d7b7_1:
 
     # f "W-wait..."
     f ""
 
-translate schinese Bandit_Den_End_9f94dcc8_1:
+translate schinese Damp_Cave_End_9f94dcc8_1:
 
     # f "I lost it."
     f ""
 
-translate schinese Bandit_Den_End_32638e3f:
+translate schinese Damp_Cave_End_32638e3f:
 
     # f "I lost the basin."
     f ""
 
-translate schinese Bandit_Den_End_4341cf81:
+translate schinese Damp_Cave_End_4341cf81:
 
     # f "Oh... no no no..."
     f ""
 
-translate schinese Bandit_Den_End_c29fa0c3:
+translate schinese Damp_Cave_End_c29fa0c3:
 
     # e "W-what? The basin?"
     e ""
 
-translate schinese Bandit_Den_End_1dd4c735:
+translate schinese Damp_Cave_End_1dd4c735:
 
     # f "Fuck! Why am I so useless."
     f ""
 
-translate schinese Bandit_Den_End_a2ff6800:
+translate schinese Damp_Cave_End_a2ff6800:
 
     # f "They stole the basin from me. The thieves."
     f ""
 
-translate schinese Bandit_Den_End_2c5adaba:
+translate schinese Damp_Cave_End_2c5adaba:
 
     # e "Who took it? I didn't see anyone else here in the cave."
     e ""
 
-translate schinese Bandit_Den_End_6fea8302:
+translate schinese Damp_Cave_End_6fea8302:
 
     # f "They're probably gone, I did not get to catch a glimpse but I sensed someone was there."
     f ""
 
-translate schinese Bandit_Den_End_560a4f40:
+translate schinese Damp_Cave_End_560a4f40:
 
     # f "...Right before I was ambushed from behind."
     f ""
 
-translate schinese Bandit_Den_End_33656c76:
+translate schinese Damp_Cave_End_33656c76:
 
     # e "It's ok, Furkan. We can get it back later. You should focus on recovering first."
     e ""
 
-translate schinese Bandit_Den_End_a13c0780:
+translate schinese Damp_Cave_End_a13c0780:
 
     # "You lend your hand again towards Furkan, this time he reluctantly accepts it."
     ""
 
-translate schinese Bandit_Den_End_39000206:
+translate schinese Damp_Cave_End_39000206:
 
     # "With your assistance, Furkan turns against a huge rock to lean on."
     ""
 
-translate schinese Bandit_Den_End_b34597c1_1:
+translate schinese Damp_Cave_End_b34597c1_1:
 
     # f "Is the guardian doing well?"
     f ""
 
-translate schinese Bandit_Den_End_8d754181:
+translate schinese Damp_Cave_End_8d754181:
 
     # e "Yes, the stone was healing him quite a bit."
     e ""
 
-translate schinese Bandit_Den_End_0e8db784:
+translate schinese Damp_Cave_End_0e8db784:
 
     # f "What stone?"
     f ""
 
-translate schinese Bandit_Den_End_9520fe9c:
+translate schinese Damp_Cave_End_9520fe9c:
 
     # "You show him the rock you found at the lake, apparently it's been soaked in magical energy enough to heal a golem."
     ""
 
-translate schinese Bandit_Den_End_051170e6:
+translate schinese Damp_Cave_End_051170e6:
 
     # f "Thank god."
     f ""
 
-translate schinese Bandit_Den_End_2ff7bb12:
+translate schinese Damp_Cave_End_2ff7bb12:
 
     # "Furkan sighs, he is looking at the guardian, panting."
     ""
 
-translate schinese Bandit_Den_End_85b84d75:
+translate schinese Damp_Cave_End_85b84d75:
 
     # f "It was stupid of me to come here alone. I know the guardian is here."
     f ""
 
-translate schinese Bandit_Den_End_d3d886a4:
+translate schinese Damp_Cave_End_d3d886a4:
 
     # "He looks down, hands over his face."
     ""
 
-translate schinese Bandit_Den_End_deb4c568_1:
+translate schinese Damp_Cave_End_deb4c568_1:
 
     # f "But that made the perfect opportunity for an ambush."
     f ""
 
-translate schinese Bandit_Den_End_da4677b2:
+translate schinese Damp_Cave_End_da4677b2:
 
     # f "How silly am I..."
     f ""
 
-translate schinese Bandit_Den_End_6e1fdc41:
+translate schinese Damp_Cave_End_6e1fdc41:
 
     # e "Look, don't worry about it..."
     e ""
 
-translate schinese Bandit_Den_End_68914fef_1:
+translate schinese Damp_Cave_End_68914fef_1:
 
     # f "Where's the guardian?"
     f ""
 
-translate schinese Bandit_Den_End_8fbbec14:
+translate schinese Damp_Cave_End_8fbbec14:
 
     # e "He attacked me... So I killed it."
     e ""
 
-translate schinese Bandit_Den_End_f273e2bb_1:
+translate schinese Damp_Cave_End_f273e2bb_1:
 
     # f "Alright."
     f ""
 
-translate schinese Bandit_Den_End_fa11c99b_1:
+translate schinese Damp_Cave_End_fa11c99b_1:
 
     # "Furkan sighs, he looks down, eyes almost teary."
     ""
 
-translate schinese Bandit_Den_End_f2da58de_1:
+translate schinese Damp_Cave_End_f2da58de_1:
 
     # f "So, all of what I did was for nothing."
     f ""
 
-translate schinese Bandit_Den_End_87555c13_1:
+translate schinese Damp_Cave_End_87555c13_1:
 
     # f "Guardian died, basin got stolen."
     f ""
 
-translate schinese Bandit_Den_End_db3cd737_1:
+translate schinese Damp_Cave_End_db3cd737_1:
 
     # e "W-what's the basin actually?"
     e ""
 
-translate schinese Bandit_Den_End_f2575d7f_1:
+translate schinese Damp_Cave_End_f2575d7f_1:
 
     # f "It was what my father used to summon guardians, with the help of the runes."
     f ""
 
-translate schinese Bandit_Den_End_095e395f_1:
+translate schinese Damp_Cave_End_095e395f_1:
 
     # f "In return, the guardians protect the runes."
     f ""
 
-translate schinese Bandit_Den_End_cd0075c1_1:
+translate schinese Damp_Cave_End_cd0075c1_1:
 
     # f "And now I lost both of them."
     f ""
 
-translate schinese Bandit_Den_End_534602b9:
+translate schinese Damp_Cave_End_534602b9:
 
     # "He turns away, ears droop low."
     ""
 
-translate schinese Bandit_Den_End_a534077e_1:
+translate schinese Damp_Cave_End_a534077e_1:
 
     # e "I'm really sorry to hear, but we'll try to get them back when you recover."
     e ""
 
-translate schinese Bandit_Den_End_0623b8b8:
+translate schinese Damp_Cave_End_0623b8b8:
 
     # f "Thanks, Courier. I need to get back to the tribe now."
     f ""
 
-translate schinese Bandit_Den_End_8c3907b5_1:
+translate schinese Damp_Cave_End_8c3907b5_1:
 
     # f "Hmm..."
     f ""
 
-translate schinese Bandit_Den_End_5685146e:
+translate schinese Damp_Cave_End_5685146e:
 
     # "Furkan stumbles forward when he tries to stand up. He lands on the floor again with a loud thump."
     ""
 
-translate schinese Bandit_Den_End_3ec57d49_2:
+translate schinese Damp_Cave_End_3ec57d49_2:
 
     # f "..."
     f ""
 
-translate schinese Bandit_Den_End_6af2229e:
+translate schinese Damp_Cave_End_6af2229e:
 
     # f "Courier, can you ask Kari to send his people here?"
     f ""
 
-translate schinese Bandit_Den_End_6d9927f9:
+translate schinese Damp_Cave_End_6d9927f9:
 
     # e "Do you need a hand?"
     e ""
 
-translate schinese Bandit_Den_End_ec3f1531:
+translate schinese Damp_Cave_End_ec3f1531:
 
     # f "No need. You've been a great help already. I just need the guards to take me back."
     f ""
 
-translate schinese Bandit_Den_End_9d2f2d12:
+translate schinese Damp_Cave_End_9d2f2d12:
 
     # e "Alright."
     e ""
 
-translate schinese Bandit_Den_End_bbec41a3:
+translate schinese Damp_Cave_End_bbec41a3:
 
     # e "What about the guardian?"
     e ""
 
-translate schinese Bandit_Den_End_85ee5c06:
+translate schinese Damp_Cave_End_85ee5c06:
 
     # f "I suppose we will carry it back."
     f ""
 
-translate schinese Bandit_Den_End_1d3e7715:
+translate schinese Damp_Cave_End_1d3e7715:
 
     # f "Not sure if he will still go rogue, so we will put him in captivity."
     f ""
 
-translate schinese Bandit_Den_End_41569b97:
+translate schinese Damp_Cave_End_41569b97:
 
     # f "There is just nothing left for it to protect."
     f ""
 
-translate schinese Bandit_Den_End_6619e846:
+translate schinese Damp_Cave_End_6619e846:
 
     # "Furkan takes another pause."
     ""
 
-translate schinese Bandit_Den_End_049ac92c:
+translate schinese Damp_Cave_End_049ac92c:
 
     # f "You can leave me here now... Thank you again, Courier."
     f ""
 
-translate schinese Bandit_Den_End_a20cefa7:
+translate schinese Damp_Cave_End_a20cefa7:
 
     # "..."
     ""
 
-translate schinese Bandit_Den_End_3b4dc56d:
+translate schinese Damp_Cave_End_3b4dc56d:
 
     # "You still don't understand a lot of it... The magical runes, the guardians. the basin..."
     ""
 
-translate schinese Bandit_Den_End_415e583b:
+translate schinese Damp_Cave_End_415e583b:
 
     # "But maybe there's more to it than you'd imagine."
     ""
 
-translate schinese Bandit_Den_End_f56abb08:
+translate schinese Damp_Cave_End_f56abb08:
 
     # "Maybe it all links back to why you arrive to this world in the first place."
     ""
 
-translate schinese Bandit_Den_End_4dbb790a:
+translate schinese Damp_Cave_End_4dbb790a:
 
     # "You desperately want it to be this case."
     ""
 
-translate schinese Bandit_Den_End_ebfee94b:
+translate schinese Damp_Cave_End_ebfee94b:
 
     # "If it is a nightmare, maybe you can find a way to wake up."
     ""
 
-translate schinese Bandit_Den_End_23e939ae:
+translate schinese Damp_Cave_End_23e939ae:
 
     # "Though..."
     ""
 
-translate schinese Bandit_Den_End_4322f566:
+translate schinese Damp_Cave_End_4322f566:
 
     # "What's even wrong with indulging yourself in this, nightmare?"
     ""
 
-translate schinese Bandit_Den_End_52f8d5eb:
+translate schinese Damp_Cave_End_52f8d5eb:
 
     # "You've never been in charge for the longest of your life."
     ""
 
-translate schinese Bandit_Den_End_c4aaf428:
+translate schinese Damp_Cave_End_c4aaf428:
 
     # "The world you lived in, in the tribe. It was... bland, unfruitful."
     ""
 
-translate schinese Bandit_Den_End_5033d6bd:
+translate schinese Damp_Cave_End_5033d6bd:
 
     # "You don't even remember any other person there, except for Chime."
     ""
 
-translate schinese Bandit_Den_End_86e9aeda:
+translate schinese Damp_Cave_End_86e9aeda:
 
     # "But here you feel like you are doing something. You have the power to change something, for better or worse."
     ""
 
-translate schinese Bandit_Den_End_d9da896d:
+translate schinese Damp_Cave_End_d9da896d:
 
     # "Here, you feel powerful, you feel as if there's a flame inside you, waiting to rekindle."
     ""
 
-translate schinese Bandit_Den_End_742ea64e:
+translate schinese Damp_Cave_End_742ea64e:
 
     # "You don't ever want to leave behind the friends you've made, if you ever found an exit."
     ""
 
-translate schinese Bandit_Den_End_ab597d55:
+translate schinese Damp_Cave_End_ab597d55:
 
     # "Still, Chime is out there, alone, and you can't let that continue for long."
     ""
 
-translate schinese Bandit_Den_End_a20cefa7_1:
+translate schinese Damp_Cave_End_a20cefa7_1:
 
     # "..."
     ""
 
-translate schinese Bandit_Den_End_ecc36c43:
+translate schinese Damp_Cave_End_ecc36c43:
 
     # "Quickly... you put all unnecessary thought in the back of your head."
     ""
 
-translate schinese Bandit_Den_End_d8ce2a99:
+translate schinese Damp_Cave_End_d8ce2a99:
 
     # "And you continue on your journey in this world."
     ""

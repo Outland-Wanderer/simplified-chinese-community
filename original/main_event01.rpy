@@ -1678,11 +1678,6 @@ translate schinese Event_Party01_fde1872d:
     # "And Haskell... seems to be looking over at the exit."
     ""
 
-translate schinese Event_Party01_896ce127:
-
-    # "You walk towards the three across the bar, and join in with the group."
-    ""
-
 translate schinese Event_Party01_a58bdbfb:
 
     # l "That lion... he's... never going to learn isn't he..."
@@ -1693,7 +1688,7 @@ translate schinese Event_Party01_00fd5b3d:
     # j "I know..."
     j ""
 
-translate schinese Event_Party01_896ce127_1:
+translate schinese Event_Party01_896ce127:
 
     # "You walk towards the three across the bar, and join in with the group."
     ""

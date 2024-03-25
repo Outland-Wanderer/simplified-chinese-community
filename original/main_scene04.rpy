@@ -5090,3 +5090,1163 @@ translate schinese Scene_Pirkka_Show_2cca90fa:
     # "You lay there for a few moments, just enjoying the closeness, before you decide to quietly leave."
     ""
 
+translate schinese Scene_Spritebinder_Lose_c4c490eb:
+
+    # e "Shit."
+    e ""
+
+translate schinese Scene_Spritebinder_Lose_c33c6d45:
+
+    # "You are cornered by the spritebinder, your back scrapes against the tree."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_1a7080ab:
+
+    # "The only thing you see are the slippery hands in the cold air, All of them approaching slowly as you squirm."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_a8dce8bc:
+
+    # "Soon, the air around you starts vibrating and humming with magical power, before you notice something squishy in your hands."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_ab892322:
+
+    # "It was his arms, two of which are grasping along your arm tightly, pinning you against the ground."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_236cda34:
+
+    # e "Hezzong... someone... P-please help!"
+    e ""
+
+translate schinese Scene_Spritebinder_Lose_00925db3:
+
+    # "You shout, straining to move your arms as your voice creeps throughout the forest."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_cb71f280:
+
+    # "Turning your head, the spectral being observes your face, reaching a pair of his hands into your pants, feeling up your legs."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_5f588b13:
+
+    # "It is surprisingly deft, his ghostly hands feeling solid and warm, even through the cloth of your loin."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_e0e15e72:
+
+    # e "L-let me go!"
+    e ""
+
+translate schinese Scene_Spritebinder_Lose_6d7a4fda:
+
+    # e "W-what do you want."
+    e ""
+
+translate schinese Scene_Spritebinder_Lose_07baf567:
+
+    # "He stares at you with another curious glance. Perhaps he is studying your form like a book to be explored, a desire of understanding what a living body feels like."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_b4eeb789:
+
+    # "Though, the only problem is, he seems to like teasing you, his hand wanders all places, testing out which part gets the most reaction out of you."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_cbac562a:
+
+    # "Maybe he is the culprit behind Chime's disappearance afterall, maybe... you only realise now the danger you've put yourself in."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_f89f02ee:
+
+    # "You groan, struggling in the magic bindings."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_381f04db:
+
+    # "The spritebinder's eyes widen curiously, running his fingers down your thighs and around to your ass, feeling your rear with its firm, warm grip."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_b9b9a17c:
+
+    # "You squirm and grunt, trying not to give the creature the satisfaction of knowing what he is doing to you."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_6a212525:
+
+    # "The spirit pulls back, his hands moving down from your thighs and between your legs."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_3771d86c:
+
+    # "Rubbing his fingers along your groin, making your cock twitch and throb in response."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_97809891:
+
+    # "Another pair of hands reach for your chest, pushing up under your capelet, his warm hands finding your nipples, tweaking and twisting them gently."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_81178e7c:
+
+    # e "I... I should've listened to allfather..."
+    e ""
+
+translate schinese Scene_Spritebinder_Lose_8b96f285:
+
+    # "You grit your teeth, your cock growing harder and stiffer in your pants, until it is aching."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_43f62b8a:
+
+    # "your precum oozing from your tip and leaving a wet stain on your loincloth."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_36c40b66:
+
+    # "The ghost moves in even closer, breathing on your neck callously, a mischievous smile hides underneath his hood."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_a66ca453:
+
+    # "All of his hands are roaming your body, fondling and groping you, squeezing and stroking, teasing your nipples and making you moan."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_ada0923b:
+
+    # "You try to stifle it, but it is too late. Your body is betraying you, and you feel your hips thrust forward as the spirit teases your cock."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_2955d5b0:
+
+    # "The Spritebinder blinks, pulling aside the fabric of your loincloth, your erection springing free, throbbing with desire and oozing precum."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_95eb9e59:
+
+    # "His many hands descend on your cock, gripping and stroking it, and the pleasure is already overwhelming."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_62fae63f:
+
+    # "Struggling against his ghostly hands, you can only stare helplessly as he probes around your body, fingers tracing along your muscles sensually."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_794794b3:
+
+    # "His spectral fingers teasing the underside of your glans, and then wrapping around the shaft."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_13900072:
+
+    # "It is giving you a tight grip as they stroke and squeeze, milking out more of your precum."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_15659693:
+
+    # "And the amount of fluid leaking out of the tip of your cock only makes the spectre's eyes widen with delight."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_93378655:
+
+    # "He watches, the hands on your nipples tweaking and teasing them, as the hands on your cock stroke and pump faster."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_e45e1184:
+
+    # "One of his other hands slides down the crack of your ass, and the other grips your chin, turning your head towards his obscured face."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_7dc3f617:
+
+    # "You notice a taunting squint in his glowing eyes, as the hand on your chin presses its fingers against your lips."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_7f32b4c5:
+
+    # e "A-rgh... I- g-get off m-me."
+    e ""
+
+translate schinese Scene_Spritebinder_Lose_bbfe1d54:
+
+    # "The fingers slide into your mouth, pressing against your tongue, tasting of something sweet."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_b751c8e8:
+
+    # "Your lips close around the digits, sucking and slurping as the fingers move inside your mouth, teasing and stimulating your tongue."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_3d9ff700:
+
+    # "He shoots you another pleasant glare, searching for places that will make you scream."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_14b87397:
+
+    # "Meanwhile, the hand between your legs slips between the cheeks of your ass, pressing the tip of its thumb against your tight entrance."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_e05e4fc1:
+
+    # e "N-agh... n- -erghhrere."
+    e ""
+
+translate schinese Scene_Spritebinder_Lose_4ebf1f5d:
+
+    # "You groan as the spritebinder pushes his thumb inside of you, the digit penetrating you with ease."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_7011e0c4:
+
+    # "The thumb moves in and out of you, pressing deeper and deeper inside of you, and the hands on your cock pump and stroke faster, squeezing tighter."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_71bb1b1c:
+
+    # "You cannot deny that you are enjoying this. The pleasure is overwhelming your mind and senses."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_858eb427:
+
+    # "The warmth and the firmness of the spirit's fingers, the way they move and the way they tease you, it's nothing you've felt before."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_e43f253b:
+
+    # "You groan as the spritebinder works his fingers inside of you, pushing deeper and deeper into your ass, until he reaches the prostate, the gland sending a surge of pleasure through your body."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_d3b007ae:
+
+    # "His spectral fingers tease and stimulate the gland, making you moan and buck your hips, trying to fuck the hand wrapped around your cock."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_1eeef095:
+
+    # "He slips a few more fingers into your mouth, pressing his thumb into the back of your throat, letting you suck on them while he toys with you."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_b4c2beec:
+
+    # "All of his hands working you over, stroking and milking, pumping and teasing, driving you to the brink."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_edbf717b:
+
+    # "Your whole body is trembling, and you know the spritebinder has you right where he wants you."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_c982de41:
+
+    # "The hand in your ass rubbing the prostate while the hand on your cock strokes the shaft."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_d090a001:
+
+    # "On the other hand, those on your nipples continue to pinch and tease, sending a wave of pleasure through you."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_087f8d6d:
+
+    # "They all increase their pace, pumping and stroking your cock, making you moan and writhe."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_ea4635a5:
+
+    # "You gag on the fingers, saliva dripping from the corners of your mouth as the spirit violates you."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_cf95828d:
+
+    # "Your chest heaves, and your heart is beating faster than ever. The pleasure is intense, and you are desperate for release."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_5ee3cd84:
+
+    # e "Arrrgh!"
+    e ""
+
+translate schinese Scene_Spritebinder_Lose_450ae3dd:
+
+    # "At some point, your eyes roll up in pleasure, and your hips jerk and twitch as your cock erupts in the spritebinder's hands."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_7fb55784:
+
+    # "Your seed splashing against the ground and onto your own body, waves and waves of pleasure pulses through your member."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_9f166aa5:
+
+    # "The pleasure is intense, and your legs give out beneath you, the only thing holding you up is the spritebinder's ghostly hands."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_62f5a2e5:
+
+    # "The spritebinder milks every last drop of cum from your cock, stroking and pumping you until you are spent, he stares at the fluid curiously."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_1e48edf4:
+
+    # "He slowly releases your arms as he turn to you, a hint of amusement and surprise in his gleaming eyes."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_8e6ebbdd:
+
+    # "You crumple to the ground, your muscles still spasming and twitching."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_feaf660d:
+
+    # "You can't speak, can't even look at the spritebinder, and you are left panting on the ground."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_f4aa00c5:
+
+    # "You lay there, trying to catch your breath, cum splattered on the ground and on the front of your loincloth."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_42407166:
+
+    # "You don't even know what just happened, and you can't even be sure that you enjoyed it."
+    ""
+
+translate schinese Scene_Spritebinder_Lose_f6feeeff:
+
+    # "Closing your eyes, you drift off to sleep, exhausted."
+    ""
+
+translate schinese Scene_Bandit_Win_d5b89267:
+
+    # "Under your weapon, the bandit struggles to free himself, but your grip is too strong."
+    ""
+
+translate schinese Scene_Bandit_Win_c9e523e4:
+
+    # bd "MMPPPhh-"
+    bd ""
+
+translate schinese Scene_Bandit_Win_0b6b1a87:
+
+    # "A sleigh of hand silences his curses and protests under the fur mask."
+    ""
+
+translate schinese Scene_Bandit_Win_6e1931dc:
+
+    # "You stand before him, and slowly strip yourself of your gear."
+    ""
+
+translate schinese Scene_Bandit_Win_0cf056ec:
+
+    # bd "F-fuck, get off me!"
+    bd ""
+
+translate schinese Scene_Bandit_Win_e1094a24:
+
+    # "You look him up and down and lick your lips, feeling a sudden warmth in your body. You grab his face and bring it to yours, kissing him roughly"
+    ""
+
+translate schinese Scene_Bandit_Win_2ca7eff0:
+
+    # "The bandit is surprised at first, but quickly melts into your mouth."
+    ""
+
+translate schinese Scene_Bandit_Win_4d0592e5:
+
+    # "You release the kiss and the bandit's eyes are wide and he is still breathing heavily."
+    ""
+
+translate schinese Scene_Bandit_Win_d741bc5b:
+
+    # "You smirk and begin to take off his clothes, he blushes as you get him down to his undergarments."
+    ""
+
+translate schinese Scene_Bandit_Win_27c456e1:
+
+    # e "What's the matter, scum. Lost your balance?"
+    e ""
+
+translate schinese Scene_Bandit_Win_cfd0b115:
+
+    # "It doesn't seem your tease amuses the bandit as he averts his gaze, hands still struggling on the grassy ground."
+    ""
+
+translate schinese Scene_Bandit_Win_92725700:
+
+    # bd "What do you want, adventurer... gold? Take it all and leave me alone!"
+    bd ""
+
+translate schinese Scene_Bandit_Win_8d96b98c:
+
+    # "You chuckle, clearly ignoring the gold he had in his pants."
+    ""
+
+translate schinese Scene_Bandit_Win_1cf492b2:
+
+    # e "I'll collect that later. Keep it safe for me will you?"
+    e ""
+
+translate schinese Scene_Bandit_Win_e55b0f14:
+
+    # bd "Don't be so cocky- the next time we meet I won't let you go this easily."
+    bd ""
+
+translate schinese Scene_Bandit_Win_df8f5f30:
+
+    # bd "You're lucky my brothers aren't around to fuck you up, once they arrive I'll make sure th-"
+    bd ""
+
+translate schinese Scene_Bandit_Win_9f935967:
+
+    # "You grab him by the throat and slam him against the dirts, a grin slowly emerges on your face."
+    ""
+
+translate schinese Scene_Bandit_Win_e43fba64:
+
+    # e "What will your brothers think if they found you being wasted here, and your clothes all missing."
+    e ""
+
+translate schinese Scene_Bandit_Win_09cd4ff8:
+
+    # "The hooded bandit exhales in anguish and you know well that you've found a leverage for him to shut up."
+    ""
+
+translate schinese Scene_Bandit_Win_ffda3b57:
+
+    # "You start removing his clothing. He tries to fight you off, but it is useless."
+    ""
+
+translate schinese Scene_Bandit_Win_8fa0d098:
+
+    # e "Don't struggle."
+    e ""
+
+translate schinese Scene_Bandit_Win_80aa1368:
+
+    # "When his undergarments are off, his cock springs free, half-erect."
+    ""
+
+translate schinese Scene_Bandit_Win_e1043f2e:
+
+    # e "I'll give you a reward."
+    e ""
+
+translate schinese Scene_Bandit_Win_c9753b78:
+
+    # "He tries to push you off, but it's not very effective. You grab his wrists and slam them above his head, holding them there."
+    ""
+
+translate schinese Scene_Bandit_Win_a0682918:
+
+    # "You give him another rough kiss as you rub his cock and he moans against your lips."
+    ""
+
+translate schinese Scene_Bandit_Win_e5c5b140:
+
+    # "You can feel him growing hard against your hand. You pull back from the kiss and smile."
+    ""
+
+translate schinese Scene_Bandit_Win_e720a9e8:
+
+    # e "Good boy."
+    e ""
+
+translate schinese Scene_Bandit_Win_1cd8dddf:
+
+    # "Your other hand continues to stroke his cock. It is fully hard now and you can feel the precum leaking from his tip."
+    ""
+
+translate schinese Scene_Bandit_Win_9a5e1977:
+
+    # "He stops fighting you and his eyes close as he lets out a small moan."
+    ""
+
+translate schinese Scene_Bandit_Win_5b5edefc:
+
+    # "You smile and lean down, kissing him again. Your hand pumps his cock and his hips buck as his breathing gets heavier."
+    ""
+
+translate schinese Scene_Bandit_Win_ad9b3f58:
+
+    # bd "M-make it quick..."
+    bd ""
+
+translate schinese Scene_Bandit_Win_cc2db408:
+
+    # e "Oh, do you think you're in charge here?"
+    e ""
+
+translate schinese Scene_Bandit_Win_861ac6a2:
+
+    # "His cock twitches in your hand and you know that you have him. You reach down and grab the base of his cock, squeezing it hard."
+    ""
+
+translate schinese Scene_Bandit_Win_225a63a3:
+
+    # "The bandit struggles not to scream out loud, and his breathing grows faster."
+    ""
+
+translate schinese Scene_Bandit_Win_3fcbc75f:
+
+    # "You position yourself between his legs and spread them apart."
+    ""
+
+translate schinese Scene_Bandit_Win_02ba708d:
+
+    # "You place your other hand on his thigh, holding it down."
+    ""
+
+translate schinese Scene_Bandit_Win_6904cac9:
+
+    # "His eyes go wide and he tries to squirm away from you. But, his cock is rock hard and his whole body is trembling."
+    ""
+
+translate schinese Scene_Bandit_Win_53db74fb:
+
+    # bd "W-what are you doing?"
+    bd ""
+
+translate schinese Scene_Bandit_Win_59baf496:
+
+    # e "Whatever I want."
+    e ""
+
+translate schinese Scene_Bandit_Win_f6f9018c:
+
+    # "Your cock is aching and you can't wait any longer. You pull away and push him onto the ground, making him lay on his back."
+    ""
+
+translate schinese Scene_Bandit_Win_658285b9:
+
+    # "His cock presses against your stomach and you can feel the heat coming from it."
+    ""
+
+translate schinese Scene_Bandit_Win_6de40895:
+
+    # "He stares up at you, breathing hard."
+    ""
+
+translate schinese Scene_Bandit_Win_f66c7335:
+
+    # "You grin and lower yourself over him, pressing your chest against his."
+    ""
+
+translate schinese Scene_Bandit_Win_4ddf5dbb:
+
+    # "Your hard cock is rubbing against his and he lets out a moan."
+    ""
+
+translate schinese Scene_Bandit_Win_ce5b2356:
+
+    # "You grab his cock and start stroking it. He arches his back and his hips thrust forward."
+    ""
+
+translate schinese Scene_Bandit_Win_2ad348da:
+
+    # "You continue stroking his cock, enjoying the way his body shakes beneath you."
+    ""
+
+translate schinese Scene_Bandit_Win_09b8de2c:
+
+    # e "Do you like that, scum?"
+    e ""
+
+translate schinese Scene_Bandit_Win_7272eb74:
+
+    # e "You like it when I touch your cock?"
+    e ""
+
+translate schinese Scene_Bandit_Win_276a5da6:
+
+    # bd "Mhh..."
+    bd ""
+
+translate schinese Scene_Bandit_Win_7986cd4a:
+
+    # "You wait for a moment, but the bandit seems hesitant to give you any signals."
+    ""
+
+translate schinese Scene_Bandit_Win_95312cc0:
+
+    # e "Not enough of an answer I'm afraid."
+    e ""
+
+translate schinese Scene_Bandit_Win_e3249949:
+
+    # bd "Y-yes! I said yes."
+    bd ""
+
+translate schinese Scene_Bandit_Win_b78bcc20:
+
+    # "Releasing your grip onto his cock,"
+    ""
+
+translate schinese Scene_Bandit_Win_7970a9c9:
+
+    # "You simply straddle his hips and take your cock in hand. You stroke yourself and feel a thrill run through you."
+    ""
+
+translate schinese Scene_Bandit_Win_fbb51854:
+
+    # e "Too late, it's my turn now."
+    e ""
+
+translate schinese Scene_Bandit_Win_ee6ee4cd:
+
+    # "His eyes go wide as he sees your cock. He tries to get away, but you put a hand on his chest and push him back down."
+    ""
+
+translate schinese Scene_Bandit_Win_058a1757:
+
+    # e "This is my reward."
+    e ""
+
+translate schinese Scene_Bandit_Win_2205466f:
+
+    # "You reach behind yourself and press your cock against his hole."
+    ""
+
+translate schinese Scene_Bandit_Win_384fdf41:
+
+    # "You rub it up and down, lubricating him with your precum."
+    ""
+
+translate schinese Scene_Bandit_Win_fc5be645:
+
+    # "He is breathing hard and his eyes are filled with fear, but his body tells a different story."
+    ""
+
+translate schinese Scene_Bandit_Win_041a9c86:
+
+    # "You chuckle as you feel the bandit's pucker twitches, long before your cock barely touches his rear."
+    ""
+
+translate schinese Scene_Bandit_Win_fb53b3c0:
+
+    # "In anticipation, his eyes close and he tries to relax his muscles. All to prepare as you push yourself forward."
+    ""
+
+translate schinese Scene_Bandit_Win_70af2d29:
+
+    # bd "NNgh..."
+    bd ""
+
+translate schinese Scene_Bandit_Win_ba459288:
+
+    # "You grab his shoulders and begin thrusting into him. You feel a sense of pleasure wash over you and you throw your head back."
+    ""
+
+translate schinese Scene_Bandit_Win_6f42dd4a:
+
+    # "You grunt as you thrust deeper into him. You feel your cock hitting the walls of his tight hole and it feels almost heavenly."
+    ""
+
+translate schinese Scene_Bandit_Win_849eca56:
+
+    # "His hole clenches around your cock and you let out a moan."
+    ""
+
+translate schinese Scene_Bandit_Win_af467421:
+
+    # e "Hadn't known a bandit's ass's so tight, hadn't you have fun with your brothers often?"
+    e ""
+
+translate schinese Scene_Bandit_Win_a5871fa1:
+
+    # "You taunt with a wide smirk, pushing your hips harder and harder as you pound his ass with full force."
+    ""
+
+translate schinese Scene_Bandit_Win_5744c53c:
+
+    # e "You're enjoying this too, aren't you."
+    e ""
+
+translate schinese Scene_Bandit_Win_fe52b775:
+
+    # bd "S-shut up..."
+    bd ""
+
+translate schinese Scene_Bandit_Win_526d1f6b:
+
+    # "The bandit's not even denying it at this point, both of you know for sure that he's enjoying every second of it."
+    ""
+
+translate schinese Scene_Bandit_Win_d637edab:
+
+    # "You can't help but admire the view. His body is sweaty and his muscles are tense."
+    ""
+
+translate schinese Scene_Bandit_Win_08aea2d8:
+
+    # "He has a look of ecstasy on his face, even underneath the fur hood you can see his eagerness begins to show."
+    ""
+
+translate schinese Scene_Bandit_Win_370902dc:
+
+    # "Your hand pins his arm down in a perfect position, the other teasing his nipples."
+    ""
+
+translate schinese Scene_Bandit_Win_e27965c9:
+
+    # "For a moment, he moans and arches his back, his cock throbbing against your touch."
+    ""
+
+translate schinese Scene_Bandit_Win_b7e87c67:
+
+    # bd "F-fuck... you're gonna ruin my ass this way."
+    bd ""
+
+translate schinese Scene_Bandit_Win_9bdbfca5:
+
+    # "He closes his eyes and throws his head back."
+    ""
+
+translate schinese Scene_Bandit_Win_d4b5f4ac:
+
+    # "You grab the bandit's chin and tilt his head toward you. A confident gaze stares into his eyes filled with lust."
+    ""
+
+translate schinese Scene_Bandit_Win_f0d62b5a:
+
+    # e "Hey, look at me."
+    e ""
+
+translate schinese Scene_Bandit_Win_81f33dc4:
+
+    # "You can't help but grin, seeing the once cocky bandit now tamed, submitting to your cock's relentless slams."
+    ""
+
+translate schinese Scene_Bandit_Win_27799f07:
+
+    # "You release his chin and lean forward, kissing his neck. You suck and nibble his sensitive skin. His body shudders and his cock throbs."
+    ""
+
+translate schinese Scene_Bandit_Win_53cccfad:
+
+    # bd "I- I'm so close..."
+    bd ""
+
+translate schinese Scene_Bandit_Win_22101744:
+
+    # "His cheeks are flushed and his eyes are glazed over. He looks like he's about to cum."
+    ""
+
+translate schinese Scene_Bandit_Win_4b2c03b9:
+
+    # "He whimpers, letting out a frustrated sigh and his body shakes."
+    ""
+
+translate schinese Scene_Bandit_Win_e91e0d41:
+
+    # e "A bandit scum like you, deserve some punishment..."
+    e ""
+
+translate schinese Scene_Bandit_Win_a0660178:
+
+    # bd "P-punish... me harder then."
+    bd ""
+
+translate schinese Scene_Bandit_Win_dd6a7ed4:
+
+    # "He closes his eyes and nods. You feel him relaxing and his hole opens for you."
+    ""
+
+translate schinese Scene_Bandit_Win_2a40aa51:
+
+    # "You take advantage of his relaxation and push yourself all the way inside of him."
+    ""
+
+translate schinese Scene_Bandit_Win_f5b724f3:
+
+    # "He gasps and arches his back. His eyes roll into the back of his head and he moans loudly."
+    ""
+
+translate schinese Scene_Bandit_Win_35e2293a:
+
+    # "You start thrusting hard and fast. Your cock is throbbing and his hole is clenching around you."
+    ""
+
+translate schinese Scene_Bandit_Win_870a4d4f:
+
+    # "You feel a sense of ecstasy wash over you and you groan."
+    ""
+
+translate schinese Scene_Bandit_Win_0024ed6b:
+
+    # "He wraps his legs around you and pulls you closer. His hole is clenching tighter and you can feel your cock about to explode."
+    ""
+
+translate schinese Scene_Bandit_Win_538a32b8:
+
+    # "You thrust faster and faster, the sound of your flesh slapping against each other is like music to your ears."
+    ""
+
+translate schinese Scene_Bandit_Win_5f1fc825:
+
+    # "The bandit is moaning and panting and his cock is twitching."
+    ""
+
+translate schinese Scene_Bandit_Win_5b781e01:
+
+    # bd "Oh- my... g-... I can't k-eep-"
+    bd ""
+
+translate schinese Scene_Bandit_Win_61ffe11e:
+
+    # "He whimpers and tries to hold back, but it's too much. He starts to cum and you feel his hole spasm around your cock."
+    ""
+
+translate schinese Scene_Bandit_Win_4d32849e:
+
+    # bd "Ahhh!"
+    bd ""
+
+translate schinese Scene_Bandit_Win_14c8faa0:
+
+    # "You continue to pound him as he cums. He is moaning and grunting and his seed splatters across his chest and stomach."
+    ""
+
+translate schinese Scene_Bandit_Win_cc87e488:
+
+    # "He shakes his head and his body is quivering. You keep thrusting and he continues to cum."
+    ""
+
+translate schinese Scene_Bandit_Win_ca0da3e0:
+
+    # e "Fuck, you're getting tighter when you cum."
+    e ""
+
+translate schinese Scene_Bandit_Win_28aec588:
+
+    # bd "A- are... are you cumming...?"
+    bd ""
+
+translate schinese Scene_Bandit_Win_5ac69c9b:
+
+    # e "What? Do you want it in your ass?"
+    e ""
+
+translate schinese Scene_Bandit_Win_8f52f018:
+
+    # bd "Uhmm..."
+    bd ""
+
+translate schinese Scene_Bandit_Win_405747ce:
+
+    # "The way you're slapping against his ass, the whimpering, and his sex-obsessed face of pure pleasure..."
+    ""
+
+translate schinese Scene_Bandit_Win_38435849:
+
+    # e "Say it. You want me to fill you up nicely, don't you?"
+    e ""
+
+translate schinese Scene_Bandit_Win_71fbb464:
+
+    # "Having complete dominance over the brash bandit, it only gets your cock throbbing so hard."
+    ""
+
+translate schinese Scene_Bandit_Win_c3ffe4ff:
+
+    # bd "..."
+    bd ""
+
+translate schinese Scene_Bandit_Win_9af49686:
+
+    # "The bandit looks away, clearly he is not accustomed to begging for someone to defile his hole, to him it should have been the other way around."
+    ""
+
+translate schinese Scene_Bandit_Win_8d2f1886:
+
+    # e "Say it. Say you want me to rail your ass so hard you're not gonna walk back to your hideout with both legs closed."
+    e ""
+
+translate schinese Scene_Bandit_Win_510cb394:
+
+    # "Slowly, you take your time between thrusting the bandit's entrance, slamming his ass with full force each time, but it only leaves him on absolute edge."
+    ""
+
+translate schinese Scene_Bandit_Win_4b775a61:
+
+    # bd "Uh... F-f..."
+    bd ""
+
+translate schinese Scene_Bandit_Win_7f05b6e8:
+
+    # bd "F-fuck... me, adventurer."
+    bd ""
+
+translate schinese Scene_Bandit_Win_73f78a2e:
+
+    # bd "J-just fill your cum inside me now!"
+    bd ""
+
+translate schinese Scene_Bandit_Win_b989f6f4:
+
+    # e "That's more like it. But you still have a long way to learn some manners."
+    e ""
+
+translate schinese Scene_Bandit_Win_758328c3:
+
+    # "You can't stop but to grin against the cum-drizzled body of the bandit, licking your lips at his submission."
+    ""
+
+translate schinese Scene_Bandit_Win_af43b0e7:
+
+    # "You can feel the pressure building and you can't hold it back any longer."
+    ""
+
+translate schinese Scene_Bandit_Win_a34414fe:
+
+    # e "Hnnngh.... I'm cumming!"
+    e ""
+
+translate schinese Scene_Bandit_Win_fc6b7340:
+
+    # "You let out a deep growl as you cum, filling his ass with your hot seed, just as he wished."
+    ""
+
+translate schinese Scene_Bandit_Win_7bf08a60:
+
+    # "All of your pent up frustration against the bandit discharged like a floodgate, pouring out against the wall of his entrance."
+    ""
+
+translate schinese Scene_Bandit_Win_50888ae6:
+
+    # "You thrust as deep as you can, trying your best to make a mess inside of his body with your cock oozing out the seeds every second."
+    ""
+
+translate schinese Scene_Bandit_Win_0eea7990:
+
+    # bd "FUCK!"
+    bd ""
+
+translate schinese Scene_Bandit_Win_5d430d46:
+
+    # "The bandit reaches orgasm again, his eyes roll backwards behind the mask, he is panting heavily as he releases strings of cum between the both of you."
+    ""
+
+translate schinese Scene_Bandit_Win_cee6bf3e:
+
+    # "You continue to pound him until his seed covers both of your chests, the man can't stop cumming as each thrust only entices him more."
+    ""
+
+translate schinese Scene_Bandit_Win_184f54eb:
+
+    # "You can feel his body spasming and his hole is clenching and releasing. He is trembling and his cock is twitching as he continues."
+    ""
+
+translate schinese Scene_Bandit_Win_5ba64e01:
+
+    # "Clenching your teeth, you hold onto his hip tightly, casting loose another series of your fertile seed right into his ass."
+    ""
+
+translate schinese Scene_Bandit_Win_6ce9394b:
+
+    # bd "S... so full. F-gh-fuck..."
+    bd ""
+
+translate schinese Scene_Bandit_Win_acefe7b0:
+
+    # e "T-that's right. That's my reward..."
+    e ""
+
+translate schinese Scene_Bandit_Win_223b8878:
+
+    # "The bandit murmurs, gasping for air has muffled his speech, but it's a necessity as your cock has sent him into utter bliss."
+    ""
+
+translate schinese Scene_Bandit_Win_0a36451e:
+
+    # e "Did you just came twice or did I got that scuminess out of your system now."
+    e ""
+
+translate schinese Scene_Bandit_Win_ded09491:
+
+    # "You make out a cheeky smile, satisfied with your own captive having came twice, it's clear that he's enjoying this too much."
+    ""
+
+translate schinese Scene_Bandit_Win_52a7749f:
+
+    # bd "How can I not if you're still fucking my ass."
+    bd ""
+
+translate schinese Scene_Bandit_Win_6dc31b68:
+
+    # "You thrust into him one last time, sending another shockwave through his body."
+    ""
+
+translate schinese Scene_Bandit_Win_2982540c:
+
+    # e "Done."
+    e ""
+
+translate schinese Scene_Bandit_Win_ee482ce1:
+
+    # "The bandit whimpers and his face is scrunched up in pleasure, his body is covered in sweat and cum, and so do you."
+    ""
+
+translate schinese Scene_Bandit_Win_7895b6fb:
+
+    # bd "Hnnngh... f-uck..."
+    bd ""
+
+translate schinese Scene_Bandit_Win_9f8c0dff:
+
+    # "It takes a while until he stops huffing and puffing. More for his cock to stop twitching in pleasure over you still being inside of him."
+    ""
+
+translate schinese Scene_Bandit_Win_551156b6:
+
+    # "You pull out and sit back, admiring your work. You can feel your seed spilling out, and running down his thighs."
+    ""
+
+translate schinese Scene_Bandit_Win_601cb673:
+
+    # e "You look like a mess, scum."
+    e ""
+
+translate schinese Scene_Bandit_Win_56fe32ce:
+
+    # bd "It's your fault."
+    bd ""
+
+translate schinese Scene_Bandit_Win_b35446ba:
+
+    # e "The way you said it, I would have thought you didn't like taking it up the ass."
+    e ""
+
+translate schinese Scene_Bandit_Win_03df7d41:
+
+    # bd "I prefer to be the one fucking you up. Not that I can't enjoy the other way around."
+    bd ""
+
+translate schinese Scene_Bandit_Win_15df2902:
+
+    # e "Heh, excuses. Clearly my superior cock just got you addicted to it. When are you coming back for more?"
+    e ""
+
+translate schinese Scene_Bandit_Win_b373f772:
+
+    # bd "Fuck off..."
+    bd ""
+
+translate schinese Scene_Bandit_Win_2d85a1fa:
+
+    # bd "Next time you come back by yourself, we'll see who gets to fuck who. Maybe you'll be the one begging for my cock instead... or ours."
+    bd ""
+
+translate schinese Scene_Bandit_Win_568305ef:
+
+    # e "Sounds cocky for someone with his hole still being filled."
+    e ""
+
+translate schinese Scene_Bandit_Win_466c49e6:
+
+    # bd "Hmmph..."
+    bd ""
+
+translate schinese Scene_Bandit_Win_f806e24d:
+
+    # "The exhausted bandit doesn't look keen to continue the conversation, instead he stares at you, eyes half-closed."
+    ""
+
+translate schinese Scene_Bandit_Win_2d9615e2:
+
+    # "You lean in to kiss him and he wraps his arms around you, enjoying the warmth of your body."
+    ""
+
+translate schinese Scene_Bandit_Win_20edae0c:
+
+    # "He moans into the kiss, as you run your hands over his chest and feel his heart racing."
+    ""
+
+translate schinese Scene_Bandit_Win_8c2f6c69:
+
+    # "Lazily, you break off the kiss, and pulls out of his used hole, with a loud plop sound releasing the remaining of the cum out of him."
+    ""
+
+translate schinese Scene_Bandit_Win_f127bc47:
+
+    # bd "Fuck, you going already?"
+    bd ""
+
+translate schinese Scene_Bandit_Win_af6291f9:
+
+    # e "I've got my reward."
+    e ""
+
+translate schinese Scene_Bandit_Win_b3487d58:
+
+    # "Putting on back your equipment, you search around the place for any missing items on the ground."
+    ""
+
+translate schinese Scene_Bandit_Win_26c464a1:
+
+    # bd "Thought you had the pep to go for a round t-two... or something."
+    bd ""
+
+translate schinese Scene_Bandit_Win_55d257d1:
+
+    # "You share a side-eye, you are certain that he's secretly yearning it."
+    ""
+
+translate schinese Scene_Bandit_Win_8026890d:
+
+    # e "Oh I have enough to fuck you up for weeks. If you want that you can ask."
+    e ""
+
+translate schinese Scene_Bandit_Win_3e40fd43:
+
+    # bd "Uh... I've got to go back."
+    bd ""
+
+translate schinese Scene_Bandit_Win_b3fb233a:
+
+    # "The bandit exclaims as he sits upright, frowning under the hood."
+    ""
+
+translate schinese Scene_Bandit_Win_fc5d9253:
+
+    # e "Well then, clean up ye mess, won't wanna let your shark boss know about that cum trails between your thighs."
+    e ""
+
+translate schinese Scene_Bandit_Win_71693563:
+
+    # "Checking after everything, you're ready to go."
+    ""
+
+translate schinese Scene_Bandit_Win_3a55c202:
+
+    # bd "Oh don't you worry, I'll be fucking your adv-. mmmm...!"
+    bd ""
+
+translate schinese Scene_Bandit_Win_669f28c4:
+
+    # "You lean in and kiss the bandit again, completely catching him off guard as you raises his chin."
+    ""
+
+translate schinese Scene_Bandit_Win_246c6b46:
+
+    # "Wrapping his arms around you, he quickly pushes his lips further, tasting the scent of you with a tint of certain pleasure."
+    ""
+
+translate schinese Scene_Bandit_Win_e720a9e8_1:
+
+    # e "Good boy."
+    e ""
+
+translate schinese Scene_Bandit_Win_8e80667c:
+
+    # "You slowly pull out, forming lines of mixed saliva between both of you, until it drips on the ground slowly."
+    ""
+
+translate schinese Scene_Bandit_Win_69a55c10:
+
+    # "He stares in utter confusion, as you smile cheekily, and with that, you turn back and walk away from the bandit."
+    ""
+

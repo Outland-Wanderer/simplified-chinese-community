@@ -1,6 +1,31 @@
-﻿translate schinese Ability_Item_dafa5cba:
+﻿translate schinese Ability_Item_194497cc:
 
-    # "You cannot use this ability facing this enemy."
+    # "You cannot use this ability against the enemy."
+    ""
+
+translate schinese Ability_Item_194497cc_1:
+
+    # "You cannot use this ability against the enemy."
+    ""
+
+translate schinese Ability_Item_194497cc_2:
+
+    # "You cannot use this ability against the enemy."
+    ""
+
+translate schinese Ability_Item_194497cc_3:
+
+    # "You cannot use this ability against the enemy."
+    ""
+
+translate schinese Ability_Item_194497cc_4:
+
+    # "You cannot use this ability against the enemy."
+    ""
+
+translate schinese Ability_Item_194497cc_5:
+
+    # "You cannot use this ability against the enemy."
     ""
 
 translate schinese Use_Green_Ointment_b43b395e:
@@ -43,9 +68,9 @@ translate schinese Ability_Self_Heal_90794f49:
     # "You used self heal, your health goes up by [healing] HP."
     ""
 
-translate schinese Ability_Fiery_Charge_13bb8de1:
+translate schinese Ability_Fiery_Charge_44eed36a:
 
-    # "You use Fiery Charge on [target.name], dealing [fc_damage] HP Damage. They are now scorched."
+    # "You use Fiery Charge on [target.name], dealing [scorch_damage] HP Damage. They are now scorched."
     ""
 
 translate schinese Ability_Fiery_Charge_c8ed4ac1:
@@ -93,6 +118,31 @@ translate schinese Ability_Resolution_8f64a376:
     # "You used Resolution, and reduced your current lust by [reduced_lust]."
     ""
 
+translate schinese Ability_Immolation_6adbeaba:
+
+    # "You cast your spell on [target.name] and immolate all enemies, dealing [immolation_damage] HP Damage."
+    ""
+
+translate schinese Ability_Immolation_d082cdbc:
+
+    # "You cast your spell on [target.name] and immolate all enemies, scorched targets are dealt [immolation_damage] HP Damage."
+    ""
+
+translate schinese Ability_Spectral_Orb_3a4a72c9:
+
+    # "You conjures a spectral orb, and it floats around you."
+    ""
+
+translate schinese Ability_Spectral_Orb_347afc83:
+
+    # "You now have [orbed.rounds] orbs, blasting them all forwards, all enemies are dealt [orb_damage] HP."
+    ""
+
+translate schinese Enemy_Self_Healing_33d81e3e:
+
+    # "[enemy.img] healed for [heal_amount] HP."
+    ""
+
 translate schinese Battle_End_Check_78e7c049:
 
     # "Your health decreases by [wounded_damage] from the bleeding."
@@ -133,19 +183,19 @@ translate schinese Battle_End_Check_0575b416:
     # "[enemy2.name]'s health decreases by [wounded_damage] from the bleeding."
     ""
 
-translate schinese Battle_Kari_1f398792:
+translate schinese Battle_Kari_a9f4cce1:
 
-    # "After your turn, Kari steps forward and strikes the mimic with his scepter, dealing [kari_damage] to the mimic."
+    # "After your turn, Kari steps forward and strikes the [enemy.name] with his scepter, dealing [kari_damage] to the [enemy.name]."
     ""
 
-translate schinese Battle_Kari_06b08059:
+translate schinese Battle_Kari_a2131bdc:
 
-    # k "Evil Chest, now it's the time for you to die!"
+    # k "Evil monster, now it's the time for you to die!"
     k ""
 
-translate schinese Battle_Kari_af74caa2:
+translate schinese Battle_Kari_9f46ba03:
 
-    # e "H-hey... it can't hear you."
+    # e "H-hey... it probably can't hear you."
     e ""
 
 translate schinese Battle_Kari_188e5f4f:
@@ -162,6 +212,11 @@ translate schinese Battle_Kari_1aa8b32d:
 
     # e "Thanks, Kari. You've been a great help."
     e ""
+
+translate schinese Battle_ASF_43d8069b:
+
+    # "You consumed all the spectral orbs around you and healed yourself for [heal_amount] HP."
+    ""
 
 translate schinese Battle_ASF_28c0b179:
 
@@ -1458,9 +1513,9 @@ translate schinese goat_general_lose_017040c3:
     # gg "Nothing useful."
     gg ""
 
-translate schinese goat_general_lose_98ffc2cd:
+translate schinese goat_general_lose_57cbd42e:
 
-    # e "I- uhhh... I think I know... something."
+    # e "I- uhhh... I think I know something."
     e ""
 
 translate schinese goat_general_lose_9d24105f:
@@ -1468,9 +1523,9 @@ translate schinese goat_general_lose_9d24105f:
     # gg "W-what?"
     gg ""
 
-translate schinese goat_general_lose_12c2565c:
+translate schinese goat_general_lose_21bd3f82:
 
-    # e "I was in the river some time before... and I saw a golem."
+    # e "I was in the river some time before, and I saw a golem."
     e ""
 
 translate schinese goat_general_lose_a12e3a29:
@@ -1488,9 +1543,14 @@ translate schinese goat_general_lose_fbfb4027:
     # e "Y-yes."
     e ""
 
-translate schinese goat_general_lose_dd45b4dd:
+translate schinese goat_general_lose_1138340a:
 
-    # gg "He's there."
+    # "The general looks at you with a little bit of surprise, but he quickly hides it."
+    ""
+
+translate schinese goat_general_lose_2078fb23:
+
+    # gg "I got it. He's there."
     gg ""
 
 translate schinese goat_general_lose_c18eb48e:
@@ -1523,29 +1583,19 @@ translate schinese goat_general_lose_df0f12a6:
     # gg "Our guardians went rogue after the primordial runes stopped supplying spell energy."
     gg ""
 
-translate schinese goat_general_lose_5291daa2:
-
-    # gg "They were summoned by Furkan's father with the basin, which went missing as well."
-    gg ""
-
 translate schinese goat_general_lose_1adf0e00:
 
     # gg "And those guardians were supposed to be guarding the runes, right on top of our mountain."
     gg ""
 
-translate schinese goat_general_lose_ff505267:
+translate schinese goat_general_lose_7a2ce101:
 
-    # goatguard "Uhmm... general, is it wise to share information to a Lusterfolk?"
-    goatguard ""
+    # e "What do this have to do with where the Golems have been."
+    e ""
 
-translate schinese goat_general_lose_cb46e8f1:
+translate schinese goat_general_lose_7875b56c:
 
-    # gg "No, but we need to save our chieftain."
-    gg ""
-
-translate schinese goat_general_lose_cfa1e194:
-
-    # gg "He's in the cave."
+    # gg "Because Furkan's in the damp cave."
     gg ""
 
 translate schinese goat_general_lose_d759c583:
@@ -1593,9 +1643,9 @@ translate schinese goat_general_lose_94a86528:
     # e "Uh... are you sure?"
     e ""
 
-translate schinese goat_general_lose_30a6d4fc:
+translate schinese goat_general_lose_3879dacb:
 
-    # gg "Yes. I'll tell you anything I know on our way."
+    # gg "I'll tell you everything I know on our way."
     gg ""
 
 translate schinese goat_general_lose_0e53b64a:
@@ -1972,11 +2022,6 @@ translate schinese lothar_battle_loop2_816f9945:
 
     # l "Let me... drink this premium health potion first..."
     l ""
-
-translate schinese lothar_battle_loop2_7f7eb490:
-
-    # "Lothar recovered 75 Health."
-    ""
 
 translate schinese lothar_battle_loop2_efa76d45:
 

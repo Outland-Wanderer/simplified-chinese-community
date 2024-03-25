@@ -1258,10 +1258,10 @@ translate schinese scene_werewolf_win_3e399325:
     # e "Aww, come on big guy I know you want it~"
     e ""
 
-translate schinese scene_werewolf_win_63823e5c:
+translate schinese scene_werewolf_win_b6a412e7:
 
-    # w "Fuck you, I'd rather die than be fucked in the ass like a little bitch, by a Trespasser!"
-    w ""
+    # ww "Fuck you, I'd rather die than be fucked in the ass like a little bitch, by a Trespasser!"
+    ww ""
 
 translate schinese scene_werewolf_win_c12c8dc9:
 
@@ -1278,10 +1278,10 @@ translate schinese scene_werewolf_win_fb61ff75:
     # e "Don't worry this Trespasser will take good care of your hole, Big guy~"
     e ""
 
-translate schinese scene_werewolf_win_adf5f8be:
+translate schinese scene_werewolf_win_e9279188:
 
-    # w "Fuck you Trespasser, now get off of me!"
-    w ""
+    # ww "Fuck you Trespasser, now get off of me!"
+    ww ""
 
 translate schinese scene_werewolf_win_a7bb8b38:
 
@@ -1328,10 +1328,10 @@ translate schinese scene_werewolf_win_a72203b8:
     # e "Damn you took it like a champ, big guy!~"
     e ""
 
-translate schinese scene_werewolf_win_38777eb6:
+translate schinese scene_werewolf_win_29e962d6:
 
-    # w "Oooh, Ngh...Agggh...Fuck you, Trespasser!"
-    w ""
+    # ww "Oooh, Ngh...Agggh...Fuck you, Trespasser!"
+    ww ""
 
 translate schinese scene_werewolf_win_eaf17027:
 
@@ -1343,20 +1343,20 @@ translate schinese scene_werewolf_win_630fc4fe:
     # "Werewolf snarls loudly before your cock hits his prostate hard making him moan loudly."
     ""
 
-translate schinese scene_werewolf_win_12be6805:
+translate schinese scene_werewolf_win_cf931472:
 
-    # w "Ngggh....aaah...aggh...Fuck you!"
-    w ""
+    # ww "Ngggh....aaah...aggh...Fuck you!"
+    ww ""
 
 translate schinese scene_werewolf_win_e558eda9:
 
     # e "Sorry big guy you lost the fight, it's only fair that claim my prize right? Don't worry this will be our little secret~"
     e ""
 
-translate schinese scene_werewolf_win_51575244:
+translate schinese scene_werewolf_win_a28051de:
 
-    # w "Fuck you...I'll kill...you...for this, Trespasser!"
-    w ""
+    # ww "Fuck you...I'll kill...you...for this, Trespasser!"
+    ww ""
 
 translate schinese scene_werewolf_win_370ae707:
 
@@ -1373,10 +1373,10 @@ translate schinese scene_werewolf_win_bd4b3fa1:
     # "Thrusting harder with all of your might, you pull almost all the way out before bulldozing your cock back inside of Werewolf's ass hitting his prostate savagely causing him to moan uncontrollably."
     ""
 
-translate schinese scene_werewolf_win_7ee38e46:
+translate schinese scene_werewolf_win_32209504:
 
-    # w "Ngggggh...aggh...aggh... Trespasser! ...Fuck me, harder!"
-    w ""
+    # ww "Ngggggh...aggh...aggh... Trespasser! ...Fuck me, harder!"
+    ww ""
 
 translate schinese scene_werewolf_win_3717e6b2:
 
@@ -1388,10 +1388,10 @@ translate schinese scene_werewolf_win_1fba505c:
     # e "Aww, sounds like you're enjoying it regardless of how it happened, Big guy ~"
     e ""
 
-translate schinese scene_werewolf_win_2420989b:
+translate schinese scene_werewolf_win_d486b34a:
 
-    # w "Just cum in my ass already, Trespasser!"
-    w ""
+    # ww "Just cum in my ass already, Trespasser!"
+    ww ""
 
 translate schinese scene_werewolf_win_0b4501a3:
 
@@ -1413,10 +1413,10 @@ translate schinese scene_werewolf_win_8d39f300:
     # e "Well, well you really did enjoy that Big guy!"
     e ""
 
-translate schinese scene_werewolf_win_e8eeaddc:
+translate schinese scene_werewolf_win_ab8d3749:
 
-    # w "Shut...the...fuck up, Trespasser!"
-    w ""
+    # ww "Shut...the...fuck up, Trespasser!"
+    ww ""
 
 translate schinese scene_werewolf_win_ed7c3859:
 
@@ -1428,20 +1428,20 @@ translate schinese scene_werewolf_win_4537638f:
     # e "Well I'll see you around Big guy, please take it easy."
     e ""
 
-translate schinese scene_werewolf_win_e56c9c91:
+translate schinese scene_werewolf_win_e1e45706:
 
-    # w "Tch, I guess it wasn't that bad...for a Trespasser!"
-    w ""
+    # ww "Tch, I guess it wasn't that bad...for a Trespasser!"
+    ww ""
 
 translate schinese scene_werewolf_win_4a275783:
 
     # e "Aww you did enjoy it~ Good to know Big guy, see you around."
     e ""
 
-translate schinese scene_werewolf_win_9e85d85a:
+translate schinese scene_werewolf_win_bffe90fb:
 
-    # w "Next time you're getting fucked in the ass, Trespasser!"
-    w ""
+    # ww "Next time you're getting fucked in the ass, Trespasser!"
+    ww ""
 
 translate schinese scene_werewolf_win_68c88ba6:
 

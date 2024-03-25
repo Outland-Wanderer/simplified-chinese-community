@@ -603,11 +603,6 @@ translate schinese scarecrow_battle_loop_b5c332ef:
     # "The scarecrow puffs up his stuffing, increasing his defense for the rest of the battle."
     ""
 
-translate schinese scarecrow_battle_loop_936dff93:
-
-    # "He also heals by 60 HP."
-    ""
-
 translate schinese scarecrow_battle_loop_dffe2bb6:
 
     # "The scarecrow expands, increasing his maximum health by 80 for the rest of the battle."
@@ -768,14 +763,9 @@ translate schinese landshark_battle_loop_d2b8f301:
     # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the landshark."
     ""
 
-translate schinese landshark_battle_loop_53a881aa:
+translate schinese landshark_battle_loop_d5598c9f:
 
-    # "The landshark jumps up from below and strikes on your body, he drains [enemy_damage] HP from you."
-    ""
-
-translate schinese landshark_battle_loop_225133b1:
-
-    # "He also heals [cool_num] for himself."
+    # "The landshark jumps up from below and strikes on your body, he draining [enemy_damage] HP from you."
     ""
 
 translate schinese landshark_battle_loop_71f9875c:
@@ -1753,11 +1743,6 @@ translate schinese sharkbandit_battle_loop_791d4b96:
     # "The shark slows down, and drinks his red health potion."
     ""
 
-translate schinese sharkbandit_battle_loop_6de67422:
-
-    # "He restores [health_restored] HP."
-    ""
-
 translate schinese sharkbandit_battle_loop_f8a2d2ed:
 
     # sbd "Well, I'm good to go now."
@@ -1833,9 +1818,9 @@ translate schinese sharkbandit_battle_loop_4fe9c6fa:
     # "The shark bulges his muscle, he takes some food from his pocket and starts eating..."
     ""
 
-translate schinese sharkbandit_battle_loop_f0499a70:
+translate schinese sharkbandit_battle_loop_d31e1cc7:
 
-    # "He's getting bigger than before... with this, his HP and maximum HP are increasing by [health_increased]."
+    # "He's getting bigger than before... with this, his maximum HP is also increasing by [health_increased]."
     ""
 
 translate schinese sharkbandit_battle_lose_c7dea94a:

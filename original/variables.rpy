@@ -45,31 +45,16 @@
     old "Self Heal"
     new ""
 
-    old "Self Heal: {p} You can heal back a portion of your health scaling with your INT. Costs 30 MP."
-    new ""
-
     old "Fortify"
-    new ""
-
-    old "Fortify: {p} Your defense is increased by a significant amount for this round. Costs 20 MP."
     new ""
 
     old "Alluring Lust"
     new ""
 
-    old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA. Costs 20 MP."
-    new ""
-
     old "Camouflage"
     new ""
 
-    old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI. Costs 20 MP."
-    new ""
-
     old "Core Strike"
-    new ""
-
-    old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round. Costs 35 MP."
     new ""
 
     old "Resolution"
@@ -81,25 +66,40 @@
     old "Fiery Charge"
     new ""
 
-    old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP."
-    new ""
-
     old "Piercing Blow"
-    new ""
-
-    old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI. Costs 35 MP"
     new ""
 
     old "Tranquil Mend"
     new ""
 
-    old "Tranquil Mend: {p} For the next 3 rounds, all allies are healed for an increased amount based on your TEN and INT. Costs 40 MP."
+    old "Tranquil Mend: {p} For the next 3 rounds, all allies are healed for an increased amount based on your TEN and INT."
+    new ""
+
+    old "Immolation"
+    new ""
+
+    old "Immolation: {p} Deal explosive damage to all enemies. Deal extra damage to Scorched enemies and enhance their scorch effect."
+    new ""
+
+    old "Spectral Orb"
+    new ""
+
+    old "Spectral Orb: {p} Each cast increases the power of the orb by 5, then deals damage to all enemies. The next attack consumes all charges to heal you based on your INT."
+    new ""
+
+    old "Sundering Surge"
+    new ""
+
+    old "Sundering Surge: {p} Deal STR damage to targetted enemy while inflicting wounded damage and decreasing enemy's heal amount based on your INT."
     new ""
 
     old "Trapped"
     new ""
 
     old "Trapped: {p} Target's dodge and lust immunity are reduced by 50%."
+    new ""
+
+    old "Stunned: {p} Target cannot perform anything while stunned"
     new ""
 
     old "Bound"
@@ -154,6 +154,12 @@
     new ""
 
     old "Charmed: {p} Target's lust increases by multiple of each effective round. Stackable."
+    new ""
+
+    old "Orbs"
+    new ""
+
+    old "Spectral Orbs: {p} Target's next attack will heal based on the number of orbs."
     new ""
 
     old "Lindbloom"
@@ -349,6 +355,24 @@
     new ""
 
     old "The Scroll grants you ability to discover a trinket that enhances your defense over time"
+    new ""
+
+    old "Book of Immolation"
+    new ""
+
+    old "The Book grants you a spell that deals explosive damage to burned enemies."
+    new ""
+
+    old "Book of Spectral Orb"
+    new ""
+
+    old "The Book grants you a spell that deals increased damage each time you cast it, and explodes into a healing aura the next time you attack."
+    new ""
+
+    old "Book of Sundering Surge"
+    new ""
+
+    old "The Book grants you a spell that attacks enemy with wounded and bruised effect."
     new ""
 
     old "Storage Room Key"
@@ -766,6 +790,12 @@
     new ""
 
     old "Bridgeroot"
+    new ""
+
+    old "Spriteling"
+    new ""
+
+    old "Spritebinder"
     new ""
 
     old "Lusterfield"

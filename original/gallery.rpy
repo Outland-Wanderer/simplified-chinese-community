@@ -84,6 +84,9 @@
     old "{color=#000}Losing to Bandit Boss{/color}"
     new ""
 
+    old "{color=#000} Winning in Bandit Battle{/color}"
+    new ""
+
     old "{color=#000}Captured by Bandits{/color}"
     new ""
 
@@ -100,6 +103,9 @@
     new ""
 
     old "{color=#000} Joining Pirkka in his Tavern Room{/color}"
+    new ""
+
+    old "{color=#000} Losing to a spritebinder before the elk arrives{/color}"
     new ""
 
     old "{color=#000}Losing to Feral Werewolf with 80 Purity{/color}"
