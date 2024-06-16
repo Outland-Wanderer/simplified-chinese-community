@@ -1123,6 +1123,18 @@ translate schinese strings:
     old "{i}Pekoe's Note{/i}"
     new ""
 
+    old "Remind me, the spritebinder, or refer it as the collective consciousness of eight spectral entities. These individuals, a rather inquisitive bunch, seemed to be quite the genius scholars, or whatever such pursuits are called on the other side, who somehow brought themselves to this land.\n\nThe incident is unlikely to repeat itself. As far as the land is concerned, no one aside from Chime has laid eyes on them. I suspect he followed me into the heart of the forest, where I first encountered these peculiar intruders. However, the actual event transpired within the crypt, and I made sure that no one could access there."
+    new ""
+
+    old "Speaking of the scholars, they appeared to be affiliated with a tribe — a group of investigators seeking to trace the lost sprites that escaped during the Ookko incident. It seems they made contact with the runes, likely the reason for their journey to our tribe. Fortunately, magic has no influence here, allowing me to extract some information before their banishment.\n\nAll in all, I cannot let the scholars leave, so I opted to sever their ability to communicate instead. At least, some natural instincts of these poor souls remains manifested in the shape of their hands, consider them bane of the pesky sprites from now on."
+    new ""
+
+    old "Now, the crux of the matter: I gleaned from the scholars that they were in pursuit of him, motive is still unknown, unless we fall back on their own curiosity. While they proved to be nothing but a chore, they are not my primary concern. What troubles me is that the passage towards our tribe may have been known from outside. I fear that the next time someone traverses that passage, I might not have caught them in time.\n\nRegardless, those on the other side should make a better effort to ensure that does not happen again, I should not have been the only one taking care of the mess. The potential consequences could be catastrophic to them if a malicious outsider somehow made contact"
+    new ""
+
+    old "with our tribe.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPekoe"
+    new ""
+
     old "Get on top of the watchtower"
     new ""
 
