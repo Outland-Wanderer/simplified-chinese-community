@@ -108,6 +108,9 @@
     old "Storage"
     new ""
 
+    old "Current Level: [item.level]"
+    new ""
+
     old "Value: [item.value] Gold"
     new ""
 

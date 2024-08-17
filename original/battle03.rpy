@@ -43,24 +43,24 @@ translate schinese battle_attack_script_bfe0fafc:
     # "You bring up your bow and aim. You release the bowstring, and it barely miss the [target.name!t]."
     ""
 
-translate schinese battle_attack_script_6bb5675b:
+translate schinese battle_attack_script_4b22c62f:
 
-    # "You slash your [pc.weapon.name!t] at the goat's arm, but he leaps back, avoiding the blow by inches."
+    # "You slash your [pc.weapon.name!t] at the [enemymy!t]'s arm, but he leaps back, avoiding the blow by inches."
     ""
 
-translate schinese battle_attack_script_62558b3c:
+translate schinese battle_attack_script_3e964837:
 
-    # "You try to slam your [pc.weapon.name!t] into the goat's head, but he leaps back and avoids the blow by mere inches."
+    # "You try to slam your [pc.weapon.name!t] into the [enemymy!t]'s head, but he leaps back and avoids the blow by mere inches."
     ""
 
-translate schinese battle_attack_script_89782324:
+translate schinese battle_attack_script_dee53981:
 
-    # "You aim and shoot your [pc.weapon.name!t] at the goat, but he leaps back, avoiding the arrow by mere inches."
+    # "You aim and shoot your [pc.weapon.name!t] at the [enemymy!t], but he leaps back, avoiding the arrow by mere inches."
     ""
 
-translate schinese battle_attack_script_e8b8a7aa:
+translate schinese battle_attack_script_7f34fdd5:
 
-    # "You throw your fist at the goat, but he leaps back, the blow only serving to ruffle his fur a little."
+    # "You throw your fist at the [enemymy!t], but he leaps back, the blow only serving to ruffle his fur a little."
     ""
 
 translate schinese battle_attack_script_309a9672:
@@ -72,6 +72,11 @@ translate schinese battle_attack_script_45dfa330:
 
     # gt "T-that wasn't a good attempt, you need to do better."
     gt ""
+
+translate schinese battle_attack_script_d7edc6aa:
+
+    # bearGuard "What a waste of time, let me show you how a real snow warrior fight."
+    bearGuard ""
 
 translate schinese battle_attack_script_0becd5f1:
 
@@ -133,6 +138,11 @@ translate schinese battle_attack_script_dba94e4a:
     # "You hold your fist and throw it at the [target.name!t], but it hits nothing and leaves you standing instead."
     ""
 
+translate schinese battle_attack_script_48ed0abb:
+
+    # ww "Unlucky. But not surprised, hmmm..."
+    ww ""
+
 translate schinese battle_attack_script_1b735359:
 
     # "The [target.name!t] laughs loudly while flexing his claws, it almost seems he's scoffing at your attempt of attack."
@@ -147,6 +157,16 @@ translate schinese battle_attack_script_2c02f8d7:
 
     # "Despite his illness, Vurro moves with surprising grace, ducking and weaving out of your way."
     ""
+
+translate schinese battle_attack_script_f3cf8947:
+
+    # v "Hey, aim better. I'm walking only slightly faster than a training dummy."
+    v ""
+
+translate schinese battle_attack_script_a040d9c4:
+
+    # v "Not saying Uffe is fast and small enough to dodge your blow, but you can't swing your fist anywhere hoping it hits something."
+    v ""
 
 translate schinese battle_attack_script_dbd57fbe:
 
@@ -177,16 +197,6 @@ translate schinese battle_attack_script_dca0d60e:
 
     # bd "Swing and a miss! You'll have to do better than that!"
     bd ""
-
-translate schinese battle_attack_script_f3cf8947:
-
-    # v "Hey, aim better. I'm walking only slightly faster than a training dummy."
-    v ""
-
-translate schinese battle_attack_script_a040d9c4:
-
-    # v "Not saying Uffe is fast and small enough to dodge your blow, but you can't swing your fist anywhere hoping it hits something."
-    v ""
 
 translate schinese battle_attack_script_911caff7:
 
@@ -248,9 +258,9 @@ translate schinese battle_attack_script_571e5fff:
     # "You bring up your bow and aim. The arrow flies right into its bull's eye."
     ""
 
-translate schinese battle_attack_script_7eaa0620:
+translate schinese battle_attack_script_9003ef3c:
 
-    # "You try to slice your [pc.weapon.name!t] into the goat's arm. He brings his spear up to block, but fails to stop the strike entirely."
+    # "You try to slice your [pc.weapon.name!t] into the [enemymy!t]'s arm. He brings his spear up to block, but fails to stop the strike entirely."
     ""
 
 translate schinese battle_attack_script_f1d3deb2:
@@ -258,49 +268,49 @@ translate schinese battle_attack_script_f1d3deb2:
     # "You feint an overhead chop with your [pc.weapon.name!t], before bringing up your foot for a kick to his chest as he tries to block, knocking him down on the ground."
     ""
 
-translate schinese battle_attack_script_aefe873e:
+translate schinese battle_attack_script_a6356e7c:
 
-    # "You slash your [pc.weapon.name!t] at the goat in a wide, horizontal arc. The goat leaps back out of range, but not before the blade nicks a shallow cut across his stomach."
+    # "You slash your [pc.weapon.name!t] at the [enemymy!t] in a wide, horizontal arc. The [enemymy!t] leaps back out of range, but not before the blade nicks a shallow cut across his stomach."
     ""
 
-translate schinese battle_attack_script_9953be8f:
+translate schinese battle_attack_script_5b9317f9:
 
-    # "You slam the butt of your [pc.weapon.name!t] into the goat's head, knocking him on the ground."
+    # "You slam the butt of your [pc.weapon.name!t] into the [enemymy!t]'s head, knocking him on the ground."
     ""
 
-translate schinese battle_attack_script_362f9af1:
+translate schinese battle_attack_script_8f29c744:
 
-    # "You aim and shoot your [pc.weapon.name!t] at the goat. The arrow hits him right in the shoulder. His health decreases by [oa[4]] HP."
+    # "You aim and shoot your [pc.weapon.name!t] at the [enemymy!t]. The arrow hits him right in the shoulder. "
     ""
 
-translate schinese battle_attack_script_9b0045ba:
+translate schinese battle_attack_script_d66a0002:
 
-    # "You run while shooting your [pc.weapon.name!t] at the goat, knocking him to the ground. He growls at you before getting up, albeit disheveled. His health decreases by [oa[4]] HP."
+    # "You run while shooting your [pc.weapon.name!t] at the [enemymy!t], knocking him to the ground. He growls at you before getting up, albeit disheveled."
     ""
 
-translate schinese battle_attack_script_dd5f79e8:
+translate schinese battle_attack_script_9db3d034:
 
-    # "You throw your fist at the goat, hitting him right across the face. The sheer impact knocks him to the ground. His health decreases by [oa[4]] HP."
+    # "You throw your fist at the [enemymy!t], hitting him right across the face. The sheer impact knocks him to the ground."
     ""
 
-translate schinese battle_attack_script_43ad78a5:
+translate schinese battle_attack_script_859ecc10:
 
-    # "You slam your fist into the goat's stomach. As he doubles over in pain, you kick out his legs under him, knocking him flat on the ground. His health decreases by [oa[4]] HP."
+    # "You slam your fist into the [enemymy!t]'s stomach. As he doubles over in pain, you kick out his legs under him, knocking him flat on the ground."
     ""
 
-translate schinese battle_attack_script_72b19042:
+translate schinese battle_attack_script_d21654c5:
 
-    # "A bright red gash appearing in his arm. His health decreases by [oa[4]] HP."
+    # "A bright red gash appearing in his arm."
     ""
 
-translate schinese battle_attack_script_2476aeaa:
+translate schinese battle_attack_script_3f10a603:
 
-    # "He growls at you before getting up, albeit disheveled. His health decreases by [oa[4]] HP."
+    # "He growls at you before getting up, albeit disheveled."
     ""
 
-translate schinese battle_attack_script_17fe72ee:
+translate schinese battle_attack_script_3b02969e:
 
-    # "Drops of blood spill down the front of his body. His health decreases by [oa[4]] HP."
+    # "Drops of blood spill down the front of his body."
     ""
 
 translate schinese battle_attack_script_18302ba4:
@@ -463,6 +473,16 @@ translate schinese battle_attack_script_8787f4c7_1:
     # gt "Grrrrr! L-lucky hit... Let me teach you how to fight properly!"
     gt ""
 
+translate schinese battle_attack_script_d3d10638:
+
+    # bearGuard "Hnnngh! Just a scratch, you'll learn to regret even touching me."
+    bearGuard ""
+
+translate schinese battle_attack_script_ec2ed84a:
+
+    # bearGuard "Arrgh! By Ookko's bless, I- I won't let you g-get away with this."
+    bearGuard ""
+
 translate schinese battle_attack_script_c5074ad8:
 
     # gnl "O-Ouch! Fingertips graze, almost!"
@@ -517,6 +537,16 @@ translate schinese battle_attack_script_b9b79704:
 
     # gt "Damn... didn't know a courier can hit that hard...! Give me all you got!"
     gt ""
+
+translate schinese battle_attack_script_293c30bb:
+
+    # bearGuard "Ngggg... I'll fight until my last breath, b-because I'm a warrior!"
+    bearGuard ""
+
+translate schinese battle_attack_script_82fbad5d:
+
+    # bearGuard "T'is but a test of my strength, I'll s-strike you down, w-watch it."
+    bearGuard ""
 
 translate schinese battle_attack_script_f1fbe73b:
 
@@ -608,6 +638,16 @@ translate schinese battle_flirt_script_8256a0e6:
     # gt "Well..."
     gt ""
 
+translate schinese battle_flirt_script_5192f25a:
+
+    # "The bear snatches at your hand, but you quickly retreat in time."
+    ""
+
+translate schinese battle_flirt_script_25da557a:
+
+    # bearGuard "Shut it. This is not a warrior's way of battle."
+    bearGuard ""
+
 translate schinese battle_flirt_script_cba7f25f:
 
     # "You continue your act for about a minute, but the [target.name!t] just stares at you in confusion."
@@ -673,6 +713,31 @@ translate schinese battle_flirt_script_0d56d52b:
     # gt "Hnnnngh... I n-need to... cum."
     gt ""
 
+translate schinese battle_flirt_script_ddcedc6e:
+
+    # "You can see the bear's clenches his fist tightly, something under his loincloth begins to move, even as he closes his eyes, and remain silent."
+    ""
+
+translate schinese battle_flirt_script_877a56ed:
+
+    # "His lust is increased by [player_flirt]."
+    ""
+
+translate schinese battle_flirt_script_bac300f5:
+
+    # bearGuard "S-shut..."
+    bearGuard ""
+
+translate schinese battle_flirt_script_64fa8444:
+
+    # "The bear pants heavily, his cheeks are alraedy so red, you can see his drool dripping uncontrollably as he watches."
+    ""
+
+translate schinese battle_flirt_script_877a56ed_1:
+
+    # "His lust is increased by [player_flirt]."
+    ""
+
 translate schinese battle_flirt_script_c632bd62:
 
     # "Even if it's just a little, you notice a mild vibration in the bridgeroot's moss, it seems to react easily. His lust is increased by [player_flirt]."
@@ -698,7 +763,7 @@ translate schinese battle_flirt_script_60331d20:
     # "You notice the [target.name!t] is staring at your crotch, you slightly wink at him and he already looks like he can't breath under such arousal."
     ""
 
-translate schinese battle_flirt_script_877a56ed:
+translate schinese battle_flirt_script_877a56ed_2:
 
     # "His lust is increased by [player_flirt]."
     ""
@@ -748,7 +813,7 @@ translate schinese battle_flirt_script_21e8d611:
     # "You can tell the [target.name!t] is already playing with himself when his claws goes under his pants, staring at your ass intently."
     ""
 
-translate schinese battle_flirt_script_877a56ed_1:
+translate schinese battle_flirt_script_877a56ed_3:
 
     # "His lust is increased by [player_flirt]."
     ""
@@ -3174,6 +3239,12 @@ translate schinese mino_lose_7240b865:
     ""
 
 translate schinese strings:
+
+    old "goat"
+    new ""
+
+    old "bear"
+    new ""
 
     old "Do you want to play the lose scene?"
     new ""

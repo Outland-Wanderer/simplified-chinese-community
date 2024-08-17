@@ -1088,6 +1088,11 @@ translate schinese malignantslime_win_c81dbf8a:
     # "As you defeat the slime, the entity seems to disintegrate completely before your eyes."
     ""
 
+translate schinese malignantslime_win_d5b3c93b:
+
+    # "The smaller slime soon follow suit, slowly shrinking into a puddle of goo."
+    ""
+
 translate schinese malignantslime_win_974f007b:
 
     # "Only leaving behind drips and drops of green goo on the grass."
@@ -1353,9 +1358,14 @@ translate schinese nosferat_battle_loop_4f566afe:
     # "It seems... there's a pattern in nosferat's Attack, maybe you can utilise it to your advantage..."
     ""
 
-translate schinese nosferat_win_c6135d21:
+translate schinese nosferat_win_23a90c3d:
 
-    # "You defeat nosferat, quitely easily.. He escapes the situation swiftly and went back to his shelter.."
+    # "You defeat nosferat quite easily. The nosferat quietly slips away and hide into the depth of the cave again."
+    ""
+
+translate schinese nosferat_win_deab3529:
+
+    # "You found a skill book called '{i}Sundering Surge{/i}', maybe it can prove useful later on..."
     ""
 
 translate schinese nosferat_win_b34e8987:

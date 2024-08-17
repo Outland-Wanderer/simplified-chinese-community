@@ -988,6 +988,251 @@ translate schinese spritebinder_lose_3706482d:
     # "Exhausted all your energy, you struggle to get up, and even open your eyes..."
     ""
 
+translate schinese bearguard_battle_30bfffaf:
+
+    # "The ferocious bear raises his harpoon, both legs steady and prepared for your attack."
+    ""
+
+translate schinese bearguard_battle_loop2_1a2359b7:
+
+    # "The bear guard throws his harpoon towards you again, dealing extra damage! Your health decreases by [enemy_damage] HP."
+    ""
+
+translate schinese bearguard_battle_loop2_7da225f0:
+
+    # "The bear guard throws his harpoon towards you, dealing [enemy_damage] HP."
+    ""
+
+translate schinese bearguard_battle_loop2_f104739f:
+
+    # "You can feel the ice cold metal sending you shivers, your muscles are freezing from the impact."
+    ""
+
+translate schinese bearguard_battle_loop2_50f39413:
+
+    # "It seems you are stunned for a round."
+    ""
+
+translate schinese bearguard_battle_loop2_ce771256:
+
+    # bearGuard "See, you're frozen now. We bears are not to be trifled with!"
+    bearGuard ""
+
+translate schinese bearguard_battle_loop2_04b8e81c:
+
+    # bearGuard "You're not going anywhere, take this!"
+    bearGuard ""
+
+translate schinese bearguard_battle_loop2_f85af2d0:
+
+    # bearGuard "We'll keep you in place forever if we want, you're not escaping from us!"
+    bearGuard ""
+
+translate schinese bearguard_battle_loop2_1a2359b7_1:
+
+    # "The bear guard throws his harpoon towards you again, dealing extra damage! Your health decreases by [enemy_damage] HP."
+    ""
+
+translate schinese bearguard_battle_loop2_c2714e74:
+
+    # "The bear guard throws his harpoon towards you, piercing into your skin. Your health decreases by [enemy_damage] HP."
+    ""
+
+translate schinese bearguard_battle_loop2_8da3af12:
+
+    # bearGuard "You're no match for us bears! Surrender now!"
+    bearGuard ""
+
+translate schinese bearguard_battle_loop2_bc261f90:
+
+    # "The bear guard throws his harpoon towards you, but you manage to dodge it just in time."
+    ""
+
+translate schinese bearguard_battle_loop2_a601dbd9:
+
+    # bearGuard "Hnnngh! How dare you dodge my attack!"
+    bearGuard ""
+
+translate schinese bearguard_battle_loop2_e24f61f9:
+
+    # "The bear stretches and extends his abs, showing off his muscular body. You can see his fur is glistening in the sunlight."
+    ""
+
+translate schinese bearguard_battle_loop2_7f743b46:
+
+    # bearGuard "You must be feeling warm, huh? I'm sure something else of yours is heating up too."
+    bearGuard ""
+
+translate schinese bearguard_battle_loop2_74b2b226:
+
+    # "The bear guard puts his hand on his loincloth, tracing the bulge around his crotch."
+    ""
+
+translate schinese bearguard_battle_loop2_9ad743b0:
+
+    # bearGuard "This is what you're missing out on if you keep fighting, don't you want to see it up close?"
+    bearGuard ""
+
+translate schinese bearguard_battle_loop2_a42f1c44:
+
+    # "You take a heavy breath, it's too hard to resist the bear's charm and... perfect body."
+    ""
+
+translate schinese bearguard_battle_loop2_45a9fad8:
+
+    # "Your lust increased by [enemy_flirt]."
+    ""
+
+translate schinese bearguard_battle_loop2_be90b3df:
+
+    # "You gulp, feeling a little bit of heat staring at his bare fur like that."
+    ""
+
+translate schinese bearguard_battle_loop2_45a9fad8_1:
+
+    # "Your lust increased by [enemy_flirt]."
+    ""
+
+translate schinese bearguard_battle_loop2_87788ee8:
+
+    # "You don't seem to feel anything from his attack at your lust, but you're too focused in the battle to give him a better reason."
+    ""
+
+translate schinese bearguard_battle_loop2_0cc39aa1:
+
+    # "The bear roars, his voice echoing through the forest."
+    ""
+
+translate schinese bearguard_battle_loop2_2bf9c3ae:
+
+    # "It seems to have given him a little bit of energy, as his harpoon seems to be sharper than before."
+    ""
+
+translate schinese bearguard_battle_loop2_07de1545:
+
+    # "The highest damage from the bear is increased by 20 HP."
+    ""
+
+translate schinese bearguard_battle_loop2_84c687ed:
+
+    # bearGuard "I will protect my tribe at all cost, I will unleash my undying wrath onto the whole of you!"
+    bearGuard ""
+
+translate schinese bearguard_battle_loop2_1b3574c6:
+
+    # "The bear guard raises his harpoon, and you can see the tip of the harpoon is glowing."
+    ""
+
+translate schinese bearguard_battle_loop2_6282154c:
+
+    # "He is sharpening his weapon, your dodges are less effective against the bear now."
+    ""
+
+translate schinese bearguard_battle_loop2_d5c3489f:
+
+    # bearGuard "You won't escape my harpoon that easily now."
+    bearGuard ""
+
+translate schinese bearguard_battle_loop2_983adeba:
+
+    # bearGuard "Hrrrrrgh!"
+    bearGuard ""
+
+translate schinese bearguard_battle_loop2_8c3f2e63:
+
+    # "The bear chants, increasing both his defenses for the remaining of the battle."
+    ""
+
+translate schinese bearguard_battle_loop2_3c1fc3e8:
+
+    # "You are afraid you can't drag the battle any longer, you have to defeat him more quickly."
+    ""
+
+translate schinese bearguard_battle_loop2_488d5b9a:
+
+    # bearGuard "We are stronger than you think, you won't be defeating me with your weak attacks!"
+    bearGuard ""
+
+translate schinese bearguard_win_a01f30ef:
+
+    # "You manage to defeat the bear guard, as you see the bear fall into the thick snow."
+    ""
+
+translate schinese bearguard_win_a20cefa7:
+
+    # "..."
+    ""
+
+translate schinese bearguard_win_a22d26ca:
+
+    # "You retreat from the bear, signaling that you're not attacking him anymore."
+    ""
+
+translate schinese bearguard_win_844e957f:
+
+    # "He lets out a heavy sigh and shivers, the bear is probably not in the mood for anything else."
+    ""
+
+translate schinese bearguard_win_6dbcc06a:
+
+    # "As you search around the bear guard, you found a piece of Bear Fur and a Bear Tribe Harpoon!"
+    ""
+
+translate schinese bearguard_win_5b805c14:
+
+    # "As you search around the bear guard, you found a piece of Bear Fur!"
+    ""
+
+translate schinese bearguard_win_b7267e82:
+
+    # "After a few moments, you leave the bear guard behind and continue your journey."
+    ""
+
+translate schinese bearguard_lose_e7c2e0d0:
+
+    # "The bear guard roars, his voice echoing through the forest as you fall to the ground."
+    ""
+
+translate schinese werewolf_werewolf_battle_4c6ec453:
+
+    # "The werewolf duo raises their claws, their furs bristling in the wind as they reveal their sets of canines that can tear meat apart easily."
+    ""
+
+translate schinese werewolf_werewolf_win_4c49ded0:
+
+    # "The werewolves are lying on the floor, still panting..."
+    ""
+
+translate schinese werewolf_werewolf_win_1854eb56:
+
+    # "As you search around the werewolves, you found 2 Iron ores, 2 Pelts and [exp_drop] EXP!"
+    ""
+
+translate schinese werewolf_werewolf_win_3909bbba:
+
+    # "As you search around the werewolves, you found 2 Pelt and [exp_drop] EXP!"
+    ""
+
+translate schinese werewolf_werewolf_win_d13a5aec:
+
+    # "You also found a pair of trousers... from a Hunter."
+    ""
+
+translate schinese werewolf_werewolf_win_d31bae78:
+
+    # "You also found an old copper pickaxe."
+    ""
+
+translate schinese werewolf_werewolf_win_497e235e:
+
+    # "You leave the werewolf alone in the forest, he will probably wake up a few hours later."
+    ""
+
+translate schinese werewolf_werewolf_lose_fbbb586e:
+
+    # "As you fall on the ground, you can hear the two werewolves howling at each other."
+    ""
+
 translate schinese strings:
 
     old "Do you want to... have fun with the bandit?"
@@ -1018,5 +1263,26 @@ translate schinese strings:
     new ""
 
     old "No{#gnolllosereplay}"
+    new ""
+
+    old "Do you want to have fun with the bear guard?"
+    new ""
+
+    old "Yes{#bear_guard_win}"
+    new ""
+
+    old "No{#bear_guard_win}"
+    new ""
+
+    old "Yes{#bearguardlosereplay}"
+    new ""
+
+    old "No{#bearguardlosereplay}"
+    new ""
+
+    old "Yes{#werewolfdoublelosereplay}"
+    new ""
+
+    old "No{#werewolfdoublelosereplay}"
     new ""
 

@@ -203,9 +203,9 @@ translate schinese scene_tavern_cardgame_lose_b2b51637:
     # patron "{size=30}Wasn't he the server I saw a while ago... how did he end up like this?{/size}"
     patron ""
 
-translate schinese scene_tavern_cardgame_lose_6c504c2c:
+translate schinese scene_tavern_cardgame_lose_3806d464:
 
-    # patron2 "{size=30}I knew the server was a pervert the first time he served me, see how much he's enjoying getting dicked down by them."
+    # patron2 "{size=30}I knew the server was a pervert the first time he served me, see how much he's enjoying getting dicked down by them.{/size}"
     patron2 ""
 
 translate schinese scene_tavern_cardgame_lose_1efb654f:
@@ -6249,4 +6249,2007 @@ translate schinese Scene_Bandit_Win_69a55c10:
 
     # "He stares in utter confusion, as you smile cheekily, and with that, you turn back and walk away from the bandit."
     ""
+
+translate schinese Scene_Bear_Win_14d0f6d0:
+
+    # "You look down at your feet and see the bear laying on his side, struggling to catch his breath."
+    ""
+
+translate schinese Scene_Bear_Win_33ea8c6e:
+
+    # "He is shivering, whether it is from the cold or from being exhausted you couldn't tell."
+    ""
+
+translate schinese Scene_Bear_Win_84035e64:
+
+    # e "Huh..."
+    e ""
+
+translate schinese Scene_Bear_Win_5749c2a6:
+
+    # "You reach down and grab the bear's wrists, lifting him up and pulling him to a nearby tree."
+    ""
+
+translate schinese Scene_Bear_Win_a802d91f:
+
+    # bearGuard "G-get off..."
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_9a3b8501:
+
+    # e "I am here to help, you know."
+    e ""
+
+translate schinese Scene_Bear_Win_beda837c:
+
+    # bearGuard "I- I will punch the teeth out of you if you don't back off."
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_f1c32cc4:
+
+    # e "Shiver me timbers, what a fierce fella. Don't you feel so cold right now?"
+    e ""
+
+translate schinese Scene_Bear_Win_47e12858:
+
+    # "You smirk and walk over to him, kneeling beside him, you softly pat the brown ursine on his head."
+    ""
+
+translate schinese Scene_Bear_Win_e9037544:
+
+    # "The bear looks up at you, he is sweating despite the cold air."
+    ""
+
+translate schinese Scene_Bear_Win_c0887b85:
+
+    # e "Well, maybe you can use some warmth, don't you agree?"
+    e ""
+
+translate schinese Scene_Bear_Win_e2f5c309:
+
+    # "He tries to argue, but the bear is running out of breath."
+    ""
+
+translate schinese Scene_Bear_Win_b3784ff7:
+
+    # bearGuard "H-huff..."
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_ff4da2ce:
+
+    # bearGuard "W-what do y-you... w-w-want..."
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_3579120c:
+
+    # e "Maybe the first thing I want, is to take off your clothes. The fur's soaking up your sweat too much."
+    e ""
+
+translate schinese Scene_Bear_Win_2ebe06fa:
+
+    # "You move your hands up to his chest, and begin unwrapping his garments one by one."
+    ""
+
+translate schinese Scene_Bear_Win_a503fee9:
+
+    # "First, his shoulder armor, then, the straps, and the shoes comes off soon after."
+    ""
+
+translate schinese Scene_Bear_Win_860a8db2:
+
+    # "When you reach his loincloth, you notice the bear shaking his head, staring away as you slowly lift up the musky piece of fabric."
+    ""
+
+translate schinese Scene_Bear_Win_bde5d518:
+
+    # "It must be there for a long time, the build-up of sweat and odor up of sweat and odor was evident as you bring the cloth to your nose, sniffing it intently."
+    ""
+
+translate schinese Scene_Bear_Win_277dfbcd:
+
+    # bearGuard "T-t-that's mine!"
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_86a5392d:
+
+    # "The bear watches in silence as you bring the garment to your face, rubbing it against your skin, inhaling the odor and letting it linger on your red snout."
+    ""
+
+translate schinese Scene_Bear_Win_fb6067ac:
+
+    # e "What a fine piece, do you mind if I keep hold of that...?"
+    e ""
+
+translate schinese Scene_Bear_Win_073c481b:
+
+    # bearGuard "N-no... I need one to go back to the tribe."
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_576204fc:
+
+    # "Underneath the stained cloth, is a big red-brown flaccid member, hanging limp between his legs."
+    ""
+
+translate schinese Scene_Bear_Win_30780c7c:
+
+    # "It's already growing thicker by every passing second, and each delicate touch you make just makes it throb with strong pulses."
+    ""
+
+translate schinese Scene_Bear_Win_1d87e71d:
+
+    # e "Well, then. Keep it."
+    e ""
+
+translate schinese Scene_Bear_Win_678a7241:
+
+    # "Playfully, you yank the loincloth off his waist and fling it towards his face, covering his snout perfectly."
+    ""
+
+translate schinese Scene_Bear_Win_07f4dc84:
+
+    # bearGuard "Uhnnng!"
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_3af2a73a:
+
+    # "He lets out a muffled protest, as he shakes his head and let the fabric sag on the ground."
+    ""
+
+translate schinese Scene_Bear_Win_1f8d59b4:
+
+    # "You move your hand down from his head, and rub his furry chest."
+    ""
+
+translate schinese Scene_Bear_Win_b19b906e:
+
+    # "His chest muscles are so soft, it bounces in the slightest of the breezes in forest."
+    ""
+
+translate schinese Scene_Bear_Win_f6616496:
+
+    # "Despite his shuddering, his body feels so warm, and the thick and heavy fur provides you some insulation from the cold."
+    ""
+
+translate schinese Scene_Bear_Win_6d186081:
+
+    # e "Is this how you bears keep warm this whole winter? With just your fuzzy fur all over your body?"
+    e ""
+
+translate schinese Scene_Bear_Win_ebafedb2:
+
+    # "You tease, while massaging his belly, making the bear shiver more."
+    ""
+
+translate schinese Scene_Bear_Win_79ab2ab0:
+
+    # bearGuard "I-I-I... s-st-stop- i-"
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_9ebcb03b:
+
+    # "The bear guard tries to shake off the cold, which all just seems amusing to you."
+    ""
+
+translate schinese Scene_Bear_Win_49db37f4:
+
+    # e "Ah, sounds like I'm wrong, you do need some warmth inside right now."
+    e ""
+
+translate schinese Scene_Bear_Win_4b248cf0:
+
+    # "You get on top of him, straddling his legs, your body pressing up against his warm fur, keeping you from shivering too."
+    ""
+
+translate schinese Scene_Bear_Win_95e9ea83:
+
+    # e "I think I know where to start..."
+    e ""
+
+translate schinese Scene_Bear_Win_dac68f39:
+
+    # "The bear squirms and lets out a protest as you begin grinding your crotch against his."
+    ""
+
+translate schinese Scene_Bear_Win_cb848e4d:
+
+    # e "How about a hot load inside your guts? Would that suffice?"
+    e ""
+
+translate schinese Scene_Bear_Win_3d2e41c4:
+
+    # "His protests begin to turn into moans as you grind faster and harder against him, feeling the heat rising in his member."
+    ""
+
+translate schinese Scene_Bear_Win_40435c51:
+
+    # "As you continue to grind, his cock starts to harden and swell."
+    ""
+
+translate schinese Scene_Bear_Win_7166f341:
+
+    # e "Seems like a yes to me."
+    e ""
+
+translate schinese Scene_Bear_Win_6892bc39:
+
+    # "The bear is already at half-mast, his cock throbbing and pulsating, begging for attention."
+    ""
+
+translate schinese Scene_Bear_Win_93eb9186:
+
+    # bearGuard "M-mmmphh..."
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_ded2d915:
+
+    # "He pants heavily, exhaling white mist under all the coldness."
+    ""
+
+translate schinese Scene_Bear_Win_74660a1b:
+
+    # "You take your cock and tease the bear, rubbing it up and down the bear's member, making him twitch and tremble."
+    ""
+
+translate schinese Scene_Bear_Win_4d78e33b:
+
+    # e "Don't you feel the heat packing inside?"
+    e ""
+
+translate schinese Scene_Bear_Win_a56f4bb1:
+
+    # bearGuard "P-p-please..."
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_638c1d27:
+
+    # "The bear whimpers, his cock twitching, and his eyes looking back at you, heartily."
+    ""
+
+translate schinese Scene_Bear_Win_db36f04b:
+
+    # "He looks down, his cock fully erect, the tip dripping pre-cum."
+    ""
+
+translate schinese Scene_Bear_Win_33afffe8:
+
+    # e "Please what?"
+    e ""
+
+translate schinese Scene_Bear_Win_c045223e:
+
+    # "You press your tip against the bear's, rubbing them together."
+    ""
+
+translate schinese Scene_Bear_Win_0d7127b5:
+
+    # "The bear takes a deep breath, closing his eyes, and opens his mouth."
+    ""
+
+translate schinese Scene_Bear_Win_377e3d37:
+
+    # bearGuard "Please...put it inside..."
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_096c7d9f:
+
+    # "It doesn't sound like he has ever said something remotely similar in his bear life. It was so adorable, you had to comply with his request."
+    ""
+
+translate schinese Scene_Bear_Win_eeaad6b7:
+
+    # "You give the bear a sly smile and get into position."
+    ""
+
+translate schinese Scene_Bear_Win_6543e304:
+
+    # "Pushing the tip of your cock in, it spreads the bear's entrance. He gasps, trying to hold it in."
+    ""
+
+translate schinese Scene_Bear_Win_38d24f81:
+
+    # "It is so tight and warm inside of him, you feel like you're going to cum just by entering the bear guard."
+    ""
+
+translate schinese Scene_Bear_Win_765f2cd1:
+
+    # "The bear begins to tremble, and you can feel his heartbeat quicken, pounding against your cock."
+    ""
+
+translate schinese Scene_Bear_Win_b4e941b8:
+
+    # e "Relax, and try not to cum so soon."
+    e ""
+
+translate schinese Scene_Bear_Win_0a7c4034:
+
+    # "You whisper, pushing yourself further inside."
+    ""
+
+translate schinese Scene_Bear_Win_24388df2:
+
+    # "It feels like his tight hole is gripping around your cock, squeezing the life out of it."
+    ""
+
+translate schinese Scene_Bear_Win_22c665e9:
+
+    # "You let out a loud groan, before pushing your hip, driving your meat deeper inside of the bear."
+    ""
+
+translate schinese Scene_Bear_Win_09c2a474:
+
+    # bearGuard "A-A-Ha-ahagh..."
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_01a976ed:
+
+    # "The bear lets out a scream as his member tip begins to leak out pre-cum, dripping carelessly."
+    ""
+
+translate schinese Scene_Bear_Win_9596aa03:
+
+    # "It feels as if your cock reaches deep into his body, hitting a sensitive spot inside of him."
+    ""
+
+translate schinese Scene_Bear_Win_93693de1:
+
+    # "Your one hand keeps his leg in place, holding onto it like a rigid lever as you thrust your hip forward, slamming against his prostate."
+    ""
+
+translate schinese Scene_Bear_Win_4fdc40a6:
+
+    # "His tightness is so incredible, and his prostate feels like it's on fire as your cock slams into him."
+    ""
+
+translate schinese Scene_Bear_Win_4f63f498:
+
+    # "Your balls slap against his ass with each thrust, you can hear the loud wet smack, and the bear's screams of pleasure."
+    ""
+
+translate schinese Scene_Bear_Win_ac83e8fd:
+
+    # "His warm hole clenches around your cock, milking your cock, you know he is wanting your seed to flood his body."
+    ""
+
+translate schinese Scene_Bear_Win_9ae716af:
+
+    # "Bit by bit, his low grunts and grumbles begin to sound like moans and sighs of pleasure, as the pain slowly subsides and he gives into the pleasure."
+    ""
+
+translate schinese Scene_Bear_Win_328c8a26:
+
+    # bearGuard "F-f-fuck. S-so warm."
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_3fe8a865:
+
+    # "The bear gasps, his body convulsing, as you thrust into him again and again."
+    ""
+
+translate schinese Scene_Bear_Win_f2d7fb92:
+
+    # "Each time slamming your cock deep into his tight hole, stretching his ass wide open."
+    ""
+
+translate schinese Scene_Bear_Win_5df3f5ec:
+
+    # "His hole is so tight, you can feel it trying to squeeze your cock as it pulses and contracts."
+    ""
+
+translate schinese Scene_Bear_Win_2cd79e7b:
+
+    # e "Feeling it all over your body? You've earned it."
+    e ""
+
+translate schinese Scene_Bear_Win_c4b12b8a:
+
+    # "You huff and puff, catching your breath in the midst of each thrust."
+    ""
+
+translate schinese Scene_Bear_Win_109c6d85:
+
+    # "His tight hole squeezes your cock, making it almost impossible to pull out, you have to strain to get your cock out."
+    ""
+
+translate schinese Scene_Bear_Win_85e1b097:
+
+    # "But you do, and slam it back in again, burying your cock deep inside of him."
+    ""
+
+translate schinese Scene_Bear_Win_a9d9c10e:
+
+    # "You can feel the sweat dripping down his furry body, his chest heaving, his ass clenching."
+    ""
+
+translate schinese Scene_Bear_Win_c0c84581:
+
+    # "The bear is panting, and his eyes are rolling back, his tongue lolling out of his mouth."
+    ""
+
+translate schinese Scene_Bear_Win_f4a5a070:
+
+    # "He is completely lost in the ecstasy, giving in to the beastial desire, his body is moving on its own, as if it's not him anymore."
+    ""
+
+translate schinese Scene_Bear_Win_77f86e59:
+
+    # "You can hardly believe the dominant, commanding guard of the bear tribe is the same person as the submissive, writhing beast below you."
+    ""
+
+translate schinese Scene_Bear_Win_4add2442:
+
+    # "You thrust harder and faster, your hips slapping against his ass, the sound of flesh on flesh echoing through the forest."
+    ""
+
+translate schinese Scene_Bear_Win_9bc9fcfe:
+
+    # "You feel yourself getting close, the tension in your body is building, and the bear is starting to tense up too."
+    ""
+
+translate schinese Scene_Bear_Win_55c4159a:
+
+    # e "I'm close...!"
+    e ""
+
+translate schinese Scene_Bear_Win_1a721da8:
+
+    # bearGuard "F-fuck, f-f-fuck... f-f-fuck..."
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_247b7ff5:
+
+    # "The bear is groaning, his face contorting, and his body shaking."
+    ""
+
+translate schinese Scene_Bear_Win_1db89aec:
+
+    # "He lets out a long, drawn out moan as his cock explodes, shooting a huge load onto his stomach and chest, coating his furry body."
+    ""
+
+translate schinese Scene_Bear_Win_58073173:
+
+    # "You can feel the bear's hole clenching and spasming, milking your cock, forcing the orgasm from you."
+    ""
+
+translate schinese Scene_Bear_Win_d921902c:
+
+    # e "N-nnnghhh!"
+    e ""
+
+translate schinese Scene_Bear_Win_c76bb4d3:
+
+    # "You cry out as you shoot your hot load deep into the bear's ass, filling him with your seed."
+    ""
+
+translate schinese Scene_Bear_Win_4ed30dfa:
+
+    # "The bear groans, his whole body shaking, his cock spurting more and more, coating his fur and your hand."
+    ""
+
+translate schinese Scene_Bear_Win_2e6c1d33:
+
+    # "The bear's breathing is heavy, his chest heaving, and his ass clenching."
+    ""
+
+translate schinese Scene_Bear_Win_95e6c448:
+
+    # "You pull out, your cock slipping out of his hole as you can already feel the sharpness of the cold, despite the cum coating your erect member."
+    ""
+
+translate schinese Scene_Bear_Win_f11e7c7d:
+
+    # e "H-how was that... got all the warmth you need?"
+    e ""
+
+translate schinese Scene_Bear_Win_31888d39:
+
+    # "You shiver, your cum dripping out of his stretched ass, the bear still lying on his side, trying to catch his breath."
+    ""
+
+translate schinese Scene_Bear_Win_2b1a61a5:
+
+    # "The bear groans and lifts his head, looking up at you."
+    ""
+
+translate schinese Scene_Bear_Win_ef746194:
+
+    # "His face is covered in sweat, and his fur is matted."
+    ""
+
+translate schinese Scene_Bear_Win_2ba6460d:
+
+    # bearGuard "N-not bad..."
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_544b168a:
+
+    # "You both are breathing heavily, trying to catch your breath."
+    ""
+
+translate schinese Scene_Bear_Win_1e420d41:
+
+    # "You collapse onto the bear, your body draped over his. He is still whimpering and trembling, but you are too tired to care."
+    ""
+
+translate schinese Scene_Bear_Win_db47dbf6:
+
+    # "The bear wraps his arms around you, holding you close. The warm embrace is comforting, and the bear's furry body is so soft you feel as if you're about to sink into his belly."
+    ""
+
+translate schinese Scene_Bear_Win_aa36f3fb:
+
+    # "Both of you are exhausted and spent, and the adrenaline is wearing off, you can barely keep your eyes open."
+    ""
+
+translate schinese Scene_Bear_Win_b493a657:
+
+    # bearGuard "Looks like it's your turn to get warm now, traveller."
+    bearGuard ""
+
+translate schinese Scene_Bear_Win_c0a4e3d2:
+
+    # "You chuckle softly, nuzzling your snout into the bear's neck. He closes his eyes, ignoring the messy cum all over the both of you."
+    ""
+
+translate schinese Scene_Bear_Win_f6a7484c:
+
+    # "Soon, your eyes begins to droop, and you drift away on the bear's furry belly."
+    ""
+
+translate schinese Scene_Bear_Win_858330af:
+
+    # "The next thing you know, was the bear's loud and distorted snore. It turns out the notorious thunder of the snowland was not even exaggerated as it keeps blasting on your ears."
+    ""
+
+translate schinese Scene_Bear_Win_a758c1e2:
+
+    # "You lazily open your eyes, wrapped in the snoring bear's fur embrace. A few hours has passed, but at least he had kept you warm for the while."
+    ""
+
+translate schinese Scene_Bear_Win_b1317ea8:
+
+    # "You slide yourself off of the bear, and begin to put on the equipment."
+    ""
+
+translate schinese Scene_Bear_Win_88a45aad:
+
+    # "Having everything prepared, you give the bear guard another kiss in the cheek before leaving."
+    ""
+
+translate schinese Scene_Bear_Lose_4a49f74c:
+
+    # "You stare at the bear guard who towers above you, your eyes half-lidded."
+    ""
+
+translate schinese Scene_Bear_Lose_b6a3a2ef:
+
+    # bearGuard "Now I've got you right where I want you."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_2844eb14:
+
+    # "He adjusts his grip on your wrists, paws digging deep into your skin."
+    ""
+
+translate schinese Scene_Bear_Lose_129cd003:
+
+    # "A gust of air hits you as your back slams into the icy surface."
+    ""
+
+translate schinese Scene_Bear_Lose_76d52368:
+
+    # "You try to scramble away, but the bear guard quickly grabs you and pins your arms behind your back."
+    ""
+
+translate schinese Scene_Bear_Lose_a42e95a4:
+
+    # e "U-ughh... this is not fair."
+    e ""
+
+translate schinese Scene_Bear_Lose_25839f0e:
+
+    # bearGuard "Fair is a fairy tale only you outsiders believe in. In the snow, we get what we want, there's no such thing as fair."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_82c3ee89:
+
+    # "The warmth of his large frame radiates through his heavy, fur-lined clothes and the coldness of the snow bites into your skin."
+    ""
+
+translate schinese Scene_Bear_Lose_ebf62e27:
+
+    # "He growls in your ear and leans over your body, trapping you under his hefty weight."
+    ""
+
+translate schinese Scene_Bear_Lose_1a428f42:
+
+    # e "W-why are you doing this..."
+    e ""
+
+translate schinese Scene_Bear_Lose_f3f689f6:
+
+    # bearGuard "I know what I want to do the moment I saw you in the forest."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_67a575db:
+
+    # "He leans over you and inhales the scent of your neck."
+    ""
+
+translate schinese Scene_Bear_Lose_dcb9125f:
+
+    # "You try to squirm away, but his grip is too strong."
+    ""
+
+translate schinese Scene_Bear_Lose_e24f0cd1:
+
+    # bearGuard "It was either kill you or have you, and I don't feel like spilling blood. Not today, anyways."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_191296af:
+
+    # "You let out a low whimper and a shudder runs through your body."
+    ""
+
+translate schinese Scene_Bear_Lose_b05c5452:
+
+    # bearGuard "So, which is it going to be?"
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_e565661f:
+
+    # bearGuard "Do I have my way with you, or do I need to resort to violence."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_cf235c1b:
+
+    # "He presses down against you and you can feel something hot and hard rub against your ass."
+    ""
+
+translate schinese Scene_Bear_Lose_c3b8604d:
+
+    # "You bite your lip and let out a weak moan."
+    ""
+
+translate schinese Scene_Bear_Lose_c13e3450:
+
+    # bearGuard "Well, little cub? Make up your mind."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_1ee82eaa:
+
+    # e "Uhm..." nointeract
+    e "" nointeract
+
+translate schinese Scene_Bear_Lose_e9562481:
+
+    # e "I-I'd rather die than give in to a filthy bear like you... you fucking animal."
+    e ""
+
+translate schinese Scene_Bear_Lose_790acc48:
+
+    # bearGuard "Is that right?"
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_a36055c8:
+
+    # "The bear guard's paw cups your chin and lifts your head up, forcing you to look at him."
+    ""
+
+translate schinese Scene_Bear_Lose_82e3b35e:
+
+    # "His dark brown eyes stare down at you and he licks his lips."
+    ""
+
+translate schinese Scene_Bear_Lose_f975dfaa:
+
+    # bearGuard "Let's see if that holds water, courier."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_42698539:
+
+    # e "Y-you bastard... the t-tribe will find o-out about what you do today."
+    e ""
+
+translate schinese Scene_Bear_Lose_45501138:
+
+    # e "I- uh... well. It doesn't look like I have much of a choice."
+    e ""
+
+translate schinese Scene_Bear_Lose_6f6bc753:
+
+    # bearGuard "So, what is it then?"
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_a5d22301:
+
+    # e "I- I guess y-you... can do whatever you want."
+    e ""
+
+translate schinese Scene_Bear_Lose_67b8f2c1:
+
+    # "You look back at him and see the dark glimmer in his eyes. He looks ravenous."
+    ""
+
+translate schinese Scene_Bear_Lose_8af1aeeb:
+
+    # bearGuard "That's what I thought."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_80a48a82:
+
+    # "The bear guard pulls away his hand and instead, shoving you back down to the ground."
+    ""
+
+translate schinese Scene_Bear_Lose_c6a00e8f:
+
+    # "He holds you down, forcing you to take in the chill of the lake floor."
+    ""
+
+translate schinese Scene_Bear_Lose_211cf0b8:
+
+    # "Your cheek smacks the ice and you grunt out loudly."
+    ""
+
+translate schinese Scene_Bear_Lose_ee0830e4:
+
+    # "Your naked body is exposed to the freezing wind and the cold makes you gasp for breath."
+    ""
+
+translate schinese Scene_Bear_Lose_07f7187f:
+
+    # "You struggle against him but he's much bigger and stronger than you, the futile attempt only draws a wide grin on his face."
+    ""
+
+translate schinese Scene_Bear_Lose_92eb13fb:
+
+    # "You decide to comply with the bear, hoping it'll all be over very soon."
+    ""
+
+translate schinese Scene_Bear_Lose_f6dfbfb0:
+
+    # "He towers over you, the shadow wraps around your body, and you can feel his hot breath on your neck."
+    ""
+
+translate schinese Scene_Bear_Lose_efa53743:
+
+    # "You stare at his belly, watching as the fur moves and sways with his breathing."
+    ""
+
+translate schinese Scene_Bear_Lose_5cf00522:
+
+    # e "Shit- please... let me go."
+    e ""
+
+translate schinese Scene_Bear_Lose_dbb096d7:
+
+    # bearGuard "I can smell your fear. Don't be scared, cub. I won't bite."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_07b3a487:
+
+    # e "G-get away from me!"
+    e ""
+
+translate schinese Scene_Bear_Lose_10f59eaf:
+
+    # bearGuard "Don't worry, little cub. I'm not going to hurt you."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_b32716b8:
+
+    # bearGuard "In fact, you might just enjoy this."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_a41dbebc:
+
+    # "You can feel his thick, hard cock press into your ass, and a jolt goes through your body."
+    ""
+
+translate schinese Scene_Bear_Lose_34dc32d0:
+
+    # "His hot breath can be felt on the nape of your neck, the gruff bear is so close you can hear his low growling as he sniffs you."
+    ""
+
+translate schinese Scene_Bear_Lose_cc0fd590:
+
+    # "He pushes himself up against you and grinds himself against your plump ass."
+    ""
+
+translate schinese Scene_Bear_Lose_52284dff:
+
+    # "His bulge rubs between your cheeks and you can feel the heat radiating from his crotch."
+    ""
+
+translate schinese Scene_Bear_Lose_92261a3f:
+
+    # bearGuard "So cute, your scent is driving me wild. Must have been out there a long time."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_c742e432:
+
+    # bearGuard "Waiting for me to take the lead, weren't you?"
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_c84dd9ea:
+
+    # e "U-uh... maybe."
+    e ""
+
+translate schinese Scene_Bear_Lose_49e01bc6:
+
+    # bearGuard "It's alright, I'll be gentle. Just relax and let me put you in your place."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_0eb7de68:
+
+    # e "W-what are you, no. Y-you can't-"
+    e ""
+
+translate schinese Scene_Bear_Lose_19b6eec4:
+
+    # bearGuard "Nuh uh, you asked for this, weakling."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_8d13e794:
+
+    # bearGuard "A little runt like you can't go for a day without being punished."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_f468d2b7:
+
+    # e "S-stop it at once, you savage. You won't get away with this I tell y-"
+    e ""
+
+translate schinese Scene_Bear_Lose_fffc2f01:
+
+    # bearGuard "If you think this is savage, I'll show you what a real savage looks like."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_57fc7582:
+
+    # "The bear guard laughs, he ruts against you again and you can't help but stifle a cry of pleasure."
+    ""
+
+translate schinese Scene_Bear_Lose_db25ba27:
+
+    # bearGuard "See, you like this. It'd be better for you if you admit it. Either way, your hole is mine."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_fc0149fe:
+
+    # "He gropes your rear, kneading and massaging it as he exposes it to the cold."
+    ""
+
+translate schinese Scene_Bear_Lose_5fee21f7:
+
+    # "Your nipples harden amidst the cold air, sending small jolts of pleasure through your body."
+    ""
+
+translate schinese Scene_Bear_Lose_0087661c:
+
+    # "The bear guard chuckles and squeezes your ass like a dough to be prepared."
+    ""
+
+translate schinese Scene_Bear_Lose_d3fe379e:
+
+    # "His fingers slide into the cleft and tease your hole, making it twitch and quiver."
+    ""
+
+translate schinese Scene_Bear_Lose_b4435e32:
+
+    # e "A-aa-ah..."
+    e ""
+
+translate schinese Scene_Bear_Lose_c080f260:
+
+    # bearGuard "You're tighter than I expected, squeezing my finger like that."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_d93dee5e:
+
+    # "You try to fight back, but your efforts are useless. He's much too strong."
+    ""
+
+translate schinese Scene_Bear_Lose_2ae6be9b:
+
+    # "Instead, you lay there helplessly as he continues to do whatever he wants."
+    ""
+
+translate schinese Scene_Bear_Lose_237e30c7:
+
+    # bearGuard "Look at that, your walls are clenching around my finger."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_3c78dbf2:
+
+    # e "S-shut up..."
+    e ""
+
+translate schinese Scene_Bear_Lose_b1030f06:
+
+    # "His thick fingers probe and stretch you open, making you moan loudly."
+    ""
+
+translate schinese Scene_Bear_Lose_80acc0c4:
+
+    # "You push at his wrist and try to get free, but he quickly slams you down, pinning you against the snowy ground."
+    ""
+
+translate schinese Scene_Bear_Lose_de006fce:
+
+    # e "Ugh..."
+    e ""
+
+translate schinese Scene_Bear_Lose_0f2df08c:
+
+    # bearGuard "Don't be so stubborn, and just let me do I want."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_39e4c319:
+
+    # "You can feel his shaft pressing against your ass, throbbing and hard, you can feel its warmth emanating in the thick of stinging cold air."
+    ""
+
+translate schinese Scene_Bear_Lose_c7a292ff:
+
+    # "And you know that if he were to thrust it inside you, there's no telling what would happen."
+    ""
+
+translate schinese Scene_Bear_Lose_cf6c6650:
+
+    # "He spits on his cock and presses it against your entrance."
+    ""
+
+translate schinese Scene_Bear_Lose_d16dc88e:
+
+    # "He forces the head inside, stretching you to fit him. It feels so tight, like you're about to burst."
+    ""
+
+translate schinese Scene_Bear_Lose_f180d8fa:
+
+    # e "Ah-aa-aha...."
+    e ""
+
+translate schinese Scene_Bear_Lose_0e138c6e:
+
+    # bearGuard "I know my fat cock is filling you up right now, but you'll get used to it. Then it'll feel better than anything you've ever had before."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_f1e7dd2a:
+
+    # bearGuard "Keep struggling, it only makes it more interesting, but you're never gonna get away from me."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_1debd007:
+
+    # "The struggle only serves to fuel his own hysteria, you can hear the heavy panting and a long, hearty chuckle from above you."
+    ""
+
+translate schinese Scene_Bear_Lose_1a1485c7:
+
+    # "The wetness of his saliva sends a chill up your spine. You grit your teeth and clench your jaw as he eases his thick digits inside you."
+    ""
+
+translate schinese Scene_Bear_Lose_f1850f18:
+
+    # "Your whole body is shaking. Your breath is quick and shallow."
+    ""
+
+translate schinese Scene_Bear_Lose_380f64a9:
+
+    # "He's not going to stop. There's no use fighting back."
+    ""
+
+translate schinese Scene_Bear_Lose_c1877710:
+
+    # "You cry out in pain and pleasure as the bear guard thrusts his shaft inside of you."
+    ""
+
+translate schinese Scene_Bear_Lose_761f0572:
+
+    # "Naturally, your walls clamp down around him, squeezing him tightly. You can't believe how big and thick he is."
+    ""
+
+translate schinese Scene_Bear_Lose_25156801:
+
+    # e "Ugh... f-fuck..."
+    e ""
+
+translate schinese Scene_Bear_Lose_40cb1d53:
+
+    # "You scream out and arch your back."
+    ""
+
+translate schinese Scene_Bear_Lose_84ece59b:
+
+    # bearGuard "That's better."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_8b560e4c:
+
+    # "The guard snarls."
+    ""
+
+translate schinese Scene_Bear_Lose_d2bf8bec:
+
+    # "He thrusts deep inside of you, pushing your legs wide apart."
+    ""
+
+translate schinese Scene_Bear_Lose_56e2115b:
+
+    # "The brown heavy balls slap against your ass as he ruts into you, stretching and filling you with every inch."
+    ""
+
+translate schinese Scene_Bear_Lose_0e8c1920:
+
+    # "You can feel his thick member bulging against the wall of your entrance, leaving no space between the two of you."
+    ""
+
+translate schinese Scene_Bear_Lose_5f3ac411:
+
+    # "Quickly, his cock buries deeper, pushing its way past the resistance of your wet hole."
+    ""
+
+translate schinese Scene_Bear_Lose_6c2b7661:
+
+    # "The bear guard thrusts again, harder than before. You wail, your entire body shaking to the rhythm of his movement."
+    ""
+
+translate schinese Scene_Bear_Lose_b1645221:
+
+    # "His furry belly slaps against your ass as he pounds into you, his thick shaft filling your ass to the brim."
+    ""
+
+translate schinese Scene_Bear_Lose_30b0e9e7:
+
+    # "You can't fight it anymore. You give in to the pleasure and let yourself be taken by the bear guard."
+    ""
+
+translate schinese Scene_Bear_Lose_f2803962:
+
+    # "He thrusts again, his massive cock sliding in and out of you, hitting places that no man or beast could reach."
+    ""
+
+translate schinese Scene_Bear_Lose_f6f87082:
+
+    # "You can feel his knot beginning to swell inside of you, pushing against your walls and stretching them to their limits."
+    ""
+
+translate schinese Scene_Bear_Lose_4eab6253:
+
+    # "It feels so good, soon the pleasure overcomes the pain. Your body goes limp and you moan softly, your toes curling."
+    ""
+
+translate schinese Scene_Bear_Lose_b4fb23d6:
+
+    # "You cry out in ecstasy, your voice echoing through the snow forest."
+    ""
+
+translate schinese Scene_Bear_Lose_6f684388:
+
+    # "Underneath his mercy, you can't even speak. Your mouth hangs open, nothing comes out but gibberish nonsense."
+    ""
+
+translate schinese Scene_Bear_Lose_22d930ff:
+
+    # "He growls, begins to slam into you, his massive cock sliding in and out with a furious pace."
+    ""
+
+translate schinese Scene_Bear_Lose_98b07394:
+
+    # "You scream and thrash, clawing at the ice, but he holds you tight, fucking you mercilessly, his heavy balls smacking against your ass with every thrust."
+    ""
+
+translate schinese Scene_Bear_Lose_7047933f:
+
+    # "The guard thrusts harder, pushing deeper inside of you and sending you over the edge."
+    ""
+
+translate schinese Scene_Bear_Lose_a46dccca:
+
+    # "You can barely stand the pressure. But at the same time, it feels so good. So right."
+    ""
+
+translate schinese Scene_Bear_Lose_d6533795:
+
+    # "You arch your back and thrust your hips, letting the waves of pleasure wash over you."
+    ""
+
+translate schinese Scene_Bear_Lose_f6656616:
+
+    # bearGuard "I- I'm blowing my seeds inside you, little cub."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_f221b663:
+
+    # bearGuard "T-take that! T-this is an apt punishment for your disobedience!"
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_9f239cbc:
+
+    # "He roars, you can feel his member twitching inside of you."
+    ""
+
+translate schinese Scene_Bear_Lose_058e6473:
+
+    # "Your toes curl, and your entire body shudders as you're sent into a state of pure ecstasy."
+    ""
+
+translate schinese Scene_Bear_Lose_09df6230:
+
+    # "His massive cock explodes, filling you with his thick, hot seed."
+    ""
+
+translate schinese Scene_Bear_Lose_0ce23fe3:
+
+    # e "A-ahh..."
+    e ""
+
+translate schinese Scene_Bear_Lose_c2a0dba7:
+
+    # "You cry out, your body convulsing, as his hot cum fills you to the brim."
+    ""
+
+translate schinese Scene_Bear_Lose_4e2da939:
+
+    # "Your dick throbs and twitches, your body teeming with ecstacy as you spray cum all over your own belly."
+    ""
+
+translate schinese Scene_Bear_Lose_13e2145c:
+
+    # "The intense pleasure and pain are overwhelming your senses. You writhe and squirm, unable to stop yourself."
+    ""
+
+translate schinese Scene_Bear_Lose_45ca48c9:
+
+    # "The two of you remains in the same position as you can feel the cum overflowing."
+    ""
+
+translate schinese Scene_Bear_Lose_ed723497:
+
+    # "It's so warm. So thick. It fills you up and spills out, coating your ass and thighs."
+    ""
+
+translate schinese Scene_Bear_Lose_76716afa:
+
+    # "The bear guard growls and snarls, thrusting his hips for a few more times until he's completely spent."
+    ""
+
+translate schinese Scene_Bear_Lose_d0d4eab3:
+
+    # "He pulls out, and his cum spills out of you, dripping onto the ice below."
+    ""
+
+translate schinese Scene_Bear_Lose_38a806a3:
+
+    # "He stands and looks down at you, grinning."
+    ""
+
+translate schinese Scene_Bear_Lose_fbd11d9d:
+
+    # bearGuard "How's that? Tell me, did I fuck you up enough?"
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_54f0a06d:
+
+    # e "y-yes, please... it feels so good."
+    e ""
+
+translate schinese Scene_Bear_Lose_a2f2387e:
+
+    # bearGuard "Good, then."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_a2a74108:
+
+    # bearGuard "I reckon you've learnt a lesson or two. Don't ever try to mess with us bears."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_5e2818ea:
+
+    # e "F-fuck... that... that felt so good."
+    e ""
+
+translate schinese Scene_Bear_Lose_667e8cd1:
+
+    # bearGuard "O-oh I'll do it all over again, if you need a reminder."
+    bearGuard ""
+
+translate schinese Scene_Bear_Lose_fe34eeb2:
+
+    # "You can barely respond, after all the pleasure still remaining inside of you."
+    ""
+
+translate schinese Scene_Bear_Lose_b8aedb6d:
+
+    # "Your eyes droop. Before you know it, you've already drifting off to sleep."
+    ""
+
+translate schinese Scene_Bear_Lose_a20cefa7:
+
+    # "..."
+    ""
+
+translate schinese Scene_Bear_Lose_f09b0888:
+
+    # "The next thing you see, was the snowy white sky enveloped by the pine forest."
+    ""
+
+translate schinese Scene_Bear_Lose_eb405a63:
+
+    # "You blink, the bear is long gone, leaving nothing behind but a series of snowy footsteps."
+    ""
+
+translate schinese Scene_Bear_Lose_3aad3f31:
+
+    # "Picking up your own belongings, wiping the dripping mess on your body. You sigh, and continue on your journey."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_92e78153:
+
+    # e "Not this again..."
+    e ""
+
+translate schinese Scene_Werewolf_Double_Lose_6b1cdc0c:
+
+    # "You turn and face the two werewolves, both of them look more eager and lively than you feel."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_65b1fae6:
+
+    # "You try to get out of the werewolves' grasp, but the one werewolf holds you down by the feet."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_f14944fc:
+
+    # "He stands near you, staring at the view of your cheeks, while the other werewolf grabs you from behind by the shoulders."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_b399ec70:
+
+    # "You can feel the werewolf's hot breath as he looks over your ass and thighs, and he licks his lips, showing you his sharp teeth."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_7779c314:
+
+    # "Standing behind you, the hair on the other werewolf's arm are tickling the back of your horns."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_528bb6bb:
+
+    # "The werewolf lets out a low growl as he looks over your chest and belly, you can feel a growing heat inside your core."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_9725b83b:
+
+    # ww "What do you think, brother, should we bring this little prey to Uffe?"
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_ee1230aa:
+
+    # ww2 "I don't know. This little human is quite cute. I would love to tear that hole open and breed this little bitch."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_cbe74100:
+
+    # "The werewolves are looking over your body, and both of them has their tongue sticking out in heat."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_7c7161e9:
+
+    # "They start to undress. Their cocks spring out of their pants, and to no one's surprise, they are both huge and thick."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_5f5d48de:
+
+    # e "W-what are you doing?"
+    e ""
+
+translate schinese Scene_Werewolf_Double_Lose_034008c1:
+
+    # "You protest, but the two werewolves on the top almost completely ignores you, instead they continue playing with your body."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_2c210e5f:
+
+    # "The werewolf in the front opens your legs, squeezing your ass cheeks as they also envelops his claws, you can hear a mild gasp from his surprise."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_b9db7b98:
+
+    # ww "L-look at this ass, brother. So fucking soft and plump, must feel so good fucking that hole."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_0f4284a7:
+
+    # "The werewolf says as he starts rubbing his hands all over your ass."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_4bd81979:
+
+    # "His cock starts throbbing, and he leans down, rubbing it in between your ass cheeks."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_7b5f357d:
+
+    # "The other werewolf stares at his partner's thrust as your ass rubs against his dick, and he groans."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_2cc85cf8:
+
+    # ww2 "That ass is indeed fuckable... sooo fuckable."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_91123a57:
+
+    # ww "Damn right."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_472db5fe:
+
+    # e "C-can I... move?"
+    e ""
+
+translate schinese Scene_Werewolf_Double_Lose_168f0bdd:
+
+    # "It feels tiring remaining in this position upside down, and you assume the two can't really hear you down on the ground."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_67f8409a:
+
+    # "You try to struggle, but the werewolf at your feet holds your legs down firmly, and the werewolf on your shoulders holds you down tightly."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_1287a39c:
+
+    # ww2 "I'm taking that ass then, you can get his mouth."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_0945c042:
+
+    # ww "No! I called dibs on him first, brother. Get back to your lanes."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_0bf42e36:
+
+    # ww2 "Well too bad, I'll fuck his ass either way."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_b416d382:
+
+    # ww "Fuck no, I am not getting sidelined on fucking my prey again."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_4de38a1d:
+
+    # "The werewolves growl at each other, fighting to claim your ass."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_7bdcf052:
+
+    # "Suddenly, the werewolf on your feet pushes the other off of you, letting him fall on the grass."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_78828e34:
+
+    # "You feel as if you don't say anything... you might end up being the casualty between the two alpha predators."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_bd6e4b14:
+
+    # e "Uhm... m-maybe you two can... uh..."
+    e ""
+
+translate schinese Scene_Werewolf_Double_Lose_82e9af54:
+
+    # e "B-be inside at the same time...?"
+    e ""
+
+translate schinese Scene_Werewolf_Double_Lose_66dae17b:
+
+    # "The two werewolves turn to you, and then at each other."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_e228c3fa:
+
+    # ww "That might work..."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_1a595832:
+
+    # ww "Oh I like what you think, little prey. You want us to ruin your little bitch hole there."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_be91d869:
+
+    # ww2 "Does he not have self-preservation? Our cocks are gonna tear him apart like a piece of wood."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_a44733c8:
+
+    # "The werewolf on your feet says. He then turns to the werewolf on your shoulders."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_67c60fcd:
+
+    # ww2 "Either way, I'm gonna be the one fucking him."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_898030e1:
+
+    # ww "Fine, whatever you say, brother. I'll get him first."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_8dc9d30a:
+
+    # "The werewolf who towers over you helps you up, before you feel a pair of arms wrapping around your waist from behind."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_2b6c5496:
+
+    # "He begins raising you up and making you stand up on your knees."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_ec926009:
+
+    # "You can feel the werewolf's huge body and muscles behind you, spreading your legs apart."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_fba60dc8:
+
+    # ww "Hold still, little bitch. I'm going to shove my dick up there, don't break yet."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_4fef6f61:
+
+    # "The werewolf behind you says. You try to struggle, but you are held firmly in place."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_6030e0f9:
+
+    # "You can feel a wet, hard object rubbing against your back, before you're held high enough to feel it brushing against your ass."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_0573d692:
+
+    # ww "Look at that hole brother, it's like it's begging for my cock."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_69e0edfa:
+
+    # ww2 "Stop saying that, or else I'll steal this little bitch for myself."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_c3fa1d2a:
+
+    # "The werewolf in the front says, as the huge cock from behind you starts pushing against the rim of your tight ass hole."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_36be4e28:
+
+    # "The other werewolf pushes you down, until you feel the tip of his cock enter your asshole."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_104f71b2:
+
+    # ww "Ohhhh fuck yeah. I can't wait to tear this bitch apart."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_04083564:
+
+    # "The werewolf moans as he slowly pushes his cock into you, stretching your ass to its limit already."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_810dd2e0:
+
+    # ww "Oh, fuck. Yeah. Oh- that's right, brother."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_88955ed4:
+
+    # "He grunts, trying to force his entire cock into your tight ass."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_3294ba96:
+
+    # ww2 "Had your fun enough? Now let me in."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_958efada:
+
+    # ww "Be patient, brother. This little bitch ain't going away any time soon."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_fdc90e01:
+
+    # "The werewolf from behind you falls backwards, bring you down with him."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_57c67b5b:
+
+    # "You gasp as your body is suddenly on top of his. he pushes you down again, forcing more of his cock into your ass."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_a2325fed:
+
+    # "The werewolf in the front can clearly see the close view of his cock pushing in and out, and the fact that your ass is squeezing around his cock like vacuum."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_3647e675:
+
+    # "You can feel the hot flesh of his dick spreading your ass wide open, maybe too open. You begin to regret suggesting having two werewolves inside at the same time."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_8f0d38ff:
+
+    # ww "So fucking tight..."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_4874cb33:
+
+    # "The werewolf pulls his cock back out, then thrusts back in, stretching your ass even further."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_37c6241f:
+
+    # ww "Look brother, I don't know if you can fit in... but you can try."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_5d67bb96:
+
+    # ww2 "I will, I promise after today this little bitch's ass won't be the same."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_3306f16e:
+
+    # "The other werewolf laughs, you can feel him licking the back of your head at the same time."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_817946a4:
+
+    # e "Now that... I think about it... maybe one at a time is a better idea..."
+    e ""
+
+translate schinese Scene_Werewolf_Double_Lose_8327b0e4:
+
+    # "You can't deny, that your cock is already throbbing with pleasure. Even if the werewolf in the back hasn't been thrusting his hips."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_dd059254:
+
+    # "Some saliva drips onto your hole, lubing up the tight entrance with his claws all around his partner's cock."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_667e9886:
+
+    # "He stares down, the veins and the ridges of the werewolf cock, are rubbing against your sensitive ass."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_61b7cd12:
+
+    # ww2 "Let's give this bitch our special werewolf dick sandwich."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_5e3fab04:
+
+    # "The werewolf says as he positions himself on top of the other's cock, pressing it against your ass."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_c82a7261:
+
+    # ww "That's gonna break him, brother."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_0bb75ced:
+
+    # ww2 "He can handle it, trust."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_2b414d9a:
+
+    # "You can feel the second cock pokes into your entrance, trying to squeeze in alongside the other."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_109bd9e4:
+
+    # e "S-shit. n-not THAT big..."
+    e ""
+
+translate schinese Scene_Werewolf_Double_Lose_8975649e:
+
+    # "You squirm and thrash around, trying to free yourself from their grasp, but the werewolves keep you firmly in their arms."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_c5ab0357:
+
+    # "If the first one is stretching your ass to its limit, then the second one is purely breaking it."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_24e5c60e:
+
+    # "It squeezes against both the wall of your hole, and his partner's cock, just enough to make way for his tip to enter."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_fcbcb2ff:
+
+    # "The first one's dick is forced out a little, letting the other one slip in a little further."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_ac05c376:
+
+    # "You feel it's not supposed to be this way, to have your entrance be utterly stretched beyond repair, yet, you feel oddly satisfied, as if a lost piece of you have been found and filled."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_8a269067:
+
+    # "The werewolf on top of you forces his dick deeper, and the first one manages to slip it back inside."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_85908248:
+
+    # "It's like an endless cycle of pain and pleasure, and you don't know which one is stronger. Your hole is being stretched to the brink, and it seems that there is no end in sight."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_a72233d3:
+
+    # "The second one finally slips inside, and the first one starts moving."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_38f7d32e:
+
+    # ww "This bitch is gonna be nice and tight after this, brother, his hole is literally gripping onto my cock."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_e846e628:
+
+    # "The werewolves moan and grunt as they start to fuck your ass in a slow rhythm."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_e7846ec8:
+
+    # "The two canine cocks are rubbing against each other, inside your ass, and it feels absolutely amazing."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_8f916496:
+
+    # "Your cock is already dripping precum, and it's not even touched."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_0844545d:
+
+    # "The werewolves seem to notice this, and the one on the top reaches down to stroke it."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_7b90693b:
+
+    # ww2 "This little bitch's cock is so hard. You like that, don't you, bitch?"
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_e23767fc:
+
+    # ww2 "Fuck, that's tight as fuck. This is the best hole I've ever had."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_746170a4:
+
+    # ww "Agreed, brother. We should take this bitch back to the den. The others would love to play with it."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_6e01e5e2:
+
+    # "The two werewolves laugh as they take turns fucking your ass. They begin to pick up the pace as your entrance gets used to the sheer size."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_4ea62f60:
+
+    # "You can feel the first one's balls slapping against yours, while the second one starts pulling his cock almost all the way out, then slamming it back inside."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_c6c590fd:
+
+    # "The sensation is driving you crazy, and you can't help but let out moans continuously."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_9b3e7a6d:
+
+    # ww "Hear that, brother? I think the bitch is enjoying himself."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_8a3b69fd:
+
+    # ww2 "Oh isn't he? All along he has been wanting us two to fuck his sorry ass for being a little bitch prey like he is."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_54502e73:
+
+    # e "I- I can't take-"
+    e ""
+
+translate schinese Scene_Werewolf_Double_Lose_70e50e7f:
+
+    # ww2 "What was that, little bitch?"
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_2ea1e80b:
+
+    # "The second one growls, and you can tell that he is excited. He pulls his cock all the way out, and then slams it back inside."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_a8ffa59f:
+
+    # "The force of his thrust makes you scream, and you can feel your hole getting even tighter."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_4d2d6eaf:
+
+    # "Both of them start moving faster, and you can feel their knots bumping against your hole."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_9b6696c4:
+
+    # "It's almost inside, stretching your hole beyond recognition."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_efeb58f9:
+
+    # ww "What a great hole we just found, brother. Do you think we can push it in?"
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_9b34bd61:
+
+    # ww2 "Oh, no doubt, I bet that thirsty hole can fit much more than the knots."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_b13e33a6:
+
+    # "The second werewolf pushes his knot into your ass, and you scream as you feel it stretching you even further."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_f4565d2f:
+
+    # "Your eyes roll back, and your toes curl. The sensation is so intense that you can't even think straight."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_e4b1a6bf:
+
+    # "You can't move, you can't think, and you can barely breathe."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_52352ff4:
+
+    # "The werewolf keeps pushing his knot inside you, and you feel your hole being torn apart, as if you're being split into two halves and then turned inside out."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_da7a2062:
+
+    # "It was not anything you've ever felt, and the pain is so intense that it makes your cock throb the hardest it has ever been."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_828ebe36:
+
+    # "The two werewolves keep fucking your ass, and their knots are now fully inside you."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_aa64693e:
+
+    # "They start pounding away at you at different paces, and you can feel the knots rub against each other, leaving next to no space around the cavity in your hole."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_ca8e71a8:
+
+    # "And quickly, the two werewolves start fucking your ass with more vigor, and you can feel their knots moving around inside of you."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_4f59957a:
+
+    # "They are fucking you so hard and fast that it's almost painful, but you can't help but enjoy the sensation."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_5c2e5a39:
+
+    # "For a moment, you let go of all control of your body as you relax your muscles, letting their cocks thrusting in different directions, poking your insides."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_0e244564:
+
+    # "You begin to imagine if your body becomes hollow, maybe you could fill more cocks, but your meat walls are fighting back for the control, squeezing the life out of the two werewolves' cocks."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_b89d8187:
+
+    # "Obviously, the two werewolves are also enjoying every moment of using the one hole, they pant heavily, as they continue to ram their cocks from both sides."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_f0f75e8e:
+
+    # ww2 "I'm getting close!"
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_f800bb3e:
+
+    # "It almost feels like the werewolf on top of you is getting close to cumming, and you can feel his knot start to swell."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_b8eaf938:
+
+    # "You can't move, and you're powerless to stop him from cumming inside of you."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_0cd32fe7:
+
+    # ww "Me first, brother."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_fe991fdb:
+
+    # "Before you know it, both werewolves have their knots fully inside you, twitching inside like erupting volcanos."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_a39cf28d:
+
+    # "The werewolves howl as they empty their massive balls inside of you, filling your bowels with their hot, sticky seed."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_d6758efb:
+
+    # "You can feel the werewolves' cum pouring out of your ass, and it feels like you're about to burst."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_ff6d24bb:
+
+    # "You feel the werewolves' knots pulsing inside of you, and their seed spilling into your ass. Your own cock is twitching, and you can feel your orgasm approaching."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_fa78080d:
+
+    # "You moan as you feel your ass being filled with the werewolves' thick seed, and your cock erupts."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_88316d73:
+
+    # "Your seed sprays all your belly, and you can't help but gasp."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_65906c56:
+
+    # "Two streams of thick, creamy seed flow gush further into your meaty tunnel, it feels as if their seeds has travelled every corner of your body."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_2b0880a5:
+
+    # "The werewolves' cum is flowing through you like a river, and it's almost enough to make you pass out."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_17b55d73:
+
+    # "You can feel their huge cocks throbbing inside of you, and you can't help but let out a whimper."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_eb59f868:
+
+    # "They roar as they continue to climax, filling you to the brim with their cum. The two canine knots pulsate and swell inside of you, stretching your ass further."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_3ddce6af:
+
+    # "Everytime their cock throb, your wall follows suit, the tightness of your ass is juicing from their cocks like a milking machine."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_8ffa19d9:
+
+    # "They pull their knots out of you, and you gasp as the warm cum starts pouring out of your ass."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_2338d81a:
+
+    # "Your ass is gaping, and the werewolves are panting."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_59997d09:
+
+    # ww "Oh god, that was the best fuck I've had in a while. What a hole."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_346d55ff:
+
+    # ww2 "I can't believe we found such a tight little bitch prey, look at that hole, it's gaping by itself."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_5b8b8809:
+
+    # "The werewolf on top of you points at your used entrance, after such big objects entering and ravaging it, it doesn't even seem to contract back to the same size."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_43f3ffd0:
+
+    # "Instead, your hole is breathing, pulsating as your pleasure flood your mind."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_c1734553:
+
+    # "Your tongue sticks out as you pant heavily, the two canine cocks are leaving behind a huge hole in your body to be filled, but it feels so empty, like something needs to be done."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_99bb4bbc:
+
+    # e "P-please... f-fill me... up."
+    e ""
+
+translate schinese Scene_Werewolf_Double_Lose_6057dcb6:
+
+    # ww "Oh? What did our little bitch just say?"
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_01385190:
+
+    # e "I- I'm your bitch, your personal cum dumpster. Please, fuck my hole and make me complete."
+    e ""
+
+translate schinese Scene_Werewolf_Double_Lose_d37801af:
+
+    # "You don't even know what you are saying, as if the lust has overtaken your logical thinking, but you don't even care."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_9c62498f:
+
+    # e "Put as much cocks inside my ass, It feels so good to have your knots inside of me."
+    e ""
+
+translate schinese Scene_Werewolf_Double_Lose_dc06b956:
+
+    # ww2 "Little horny bitch, you are lucky we're reasonable sorts, else we'll take this as an invitation to claim you as our pack's property."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_a38ee0de:
+
+    # ww "Why not? Obviously he wants that to happen. And Uffe's gonna be so happy that we caught such a treasure."
+    ww ""
+
+translate schinese Scene_Werewolf_Double_Lose_a046799b:
+
+    # ww2 "No broken toys stays broken forever, if this little bitch wants, you can always come back crawling and begging for our cocks."
+    ww2 ""
+
+translate schinese Scene_Werewolf_Double_Lose_1a33f078:
+
+    # "The werewolves chuckle, they put their pants back on and quickly leave you there on the ground."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_a0b2832f:
+
+    # "You try to stand up, but you can't. You're exhausted, and your ass is still leaking."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_bbc38d9d:
+
+    # "Both of your legs slump to the ground as your panting slows, and the cum coating your fur drips down. You decide to rest for a while."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_a20cefa7:
+
+    # "..."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_6d673e4c:
+
+    # "When you wake up, you pick up your belongings, and continues on your journey."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_962d94fd:
+
+    # "You reach behind, poking around your ass, the gaping hole doesn't even heal, you can still feel the hole stretching in and out."
+    ""
+
+translate schinese Scene_Werewolf_Double_Lose_1391e969:
+
+    # "You sigh, before continuing on your journey."
+    ""
+
+translate schinese strings:
+
+    old "Take the harpoon"
+    new ""
+
+    old "Take his harpoon"
+    new ""
 

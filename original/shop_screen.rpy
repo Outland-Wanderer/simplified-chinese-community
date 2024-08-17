@@ -303,12 +303,105 @@ translate schinese Gwyddyon_Shopping_Loop_28a63adc:
     # g "Mmmph. That can be useful. Here's the [mmm] gold for your [ttt!t]."
     g ""
 
+translate schinese Methis_Shopping_ea62ce2b:
+
+    # m "Take a look, here's our finest collections in the shop."
+    m ""
+
+translate schinese Methis_Shopping_Loop_f11cab7f:
+
+    # m "This is a very rare herb outside of the snow. Always a good punishment to teach those bastard bears who weren't feeling cold enough, maybe [mmm] gold?"
+    m ""
+
+translate schinese Methis_Shopping_Loop_c5ca73b2:
+
+    # m "Just a chunk of ice, totally useless, honestly I just used it to fill up my empty shelf space, don't know why you'd want this, but you'll need [mmm] gold to buy one."
+    m ""
+
+translate schinese Methis_Shopping_Loop_9fad9928:
+
+    # m "Alright, this sounds like an opportunity to learn, for [mmm] gold."
+    m ""
+
+translate schinese Methis_Shopping_Loop_eaefdcc0:
+
+    # m "What you called... Health Potion, we use Snow berry here, these are very easily found in snow forest, and the white, gooey, juicy texture reminds me of a lot of stuff. It's [mmm] Gold each."
+    m ""
+
+translate schinese Methis_Shopping_Loop_8ac7ad31:
+
+    # m "Look, a secret for those who only uses your charm, this idol is made for when you're against uncharmable monsters, time to learn some new tricks, maybe. This is [mmm] Gold."
+    m ""
+
+translate schinese Methis_Shopping_Loop_8dc4077b:
+
+    # m "[mmm] Gold, and this last one is yours."
+    m ""
+
+translate schinese Methis_Shopping_Loop_ccca213e:
+
+    # m "Is this the work of a famous potion maker in the South? Looks... drinkable. I'll take this for [mmm]."
+    m ""
+
+translate schinese Methis_Shopping_Loop_2448bc22:
+
+    # m "Ah, classic mana potion made for magic users. How about [mmm] gold for this one?"
+    m ""
+
+translate schinese Methis_Shopping_Loop_3a87a57d:
+
+    # m "I don't drink on work... it makes your mind go dizzy, b-but how about [mmm] gold?"
+    m ""
+
+translate schinese Methis_Shopping_Loop_85310b95:
+
+    # m "This one... it looks important. I can't take this from you... can I? [mmm] gold... maybe?"
+    m ""
+
+translate schinese Methis_Shopping_Loop_fae8a3fb:
+
+    # m "Ah, smells just like it's worn yesterday. Give it to me and I'll make good use of it. And [mmm] gold for you!"
+    m ""
+
+translate schinese Methis_Shopping_Loop_0b41fddb:
+
+    # m "Looks like a good learning experience, I can take this for [mmm] gold."
+    m ""
+
+translate schinese Methis_Shopping_Loop_a89703aa:
+
+    # m "A piece of Coal? We mined this every day, don't tell me you stole from the carts outside... But how about... [mmm] gold."
+    m ""
+
+translate schinese Methis_Shopping_Loop_0891deac:
+
+    # m "Ah, the flower of bears, they love this even though it doesn't grow much in snow. I'll take this for [mmm] gold."
+    m ""
+
+translate schinese Methis_Shopping_Loop_93a9b389:
+
+    # m "Hmm... this looks like it can sell for [mmm] gold."
+    m ""
+
+translate schinese Methis_Shopping_Loop_f515f207:
+
+    # m "Thanks for the [ttt!t], and the [mmm] gold is yours now."
+    m ""
+
+translate schinese Methis_Shopping_Loop_2106fad4:
+
+    # m "Nice, this [ttt!t] is now owned by you, young one. And thanks for the [mmm] gold."
+    m ""
+
 translate schinese strings:
 
     old "The King's Pawn"
     new ""
 
     old "The Ardent Cauldron"
+    new ""
+
+    old "The Finnkel's Gaze"
     new ""
 
     old "Sell Value: [sell_value]"

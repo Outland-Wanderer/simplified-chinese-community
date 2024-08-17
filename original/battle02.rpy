@@ -138,9 +138,9 @@ translate schinese Ability_Spectral_Orb_347afc83:
     # "You now have [orbed.rounds] orbs, blasting them all forwards, all enemies are dealt [orb_damage] HP."
     ""
 
-translate schinese Enemy_Self_Healing_33d81e3e:
+translate schinese Enemy_Self_Healing_fb3c2a38:
 
-    # "[enemy.img] healed for [heal_amount] HP."
+    # "[enemy.img] healed for [heal_amount_int] HP."
     ""
 
 translate schinese Battle_End_Check_78e7c049:

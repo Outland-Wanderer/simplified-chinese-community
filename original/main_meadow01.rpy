@@ -658,6 +658,31 @@ translate schinese Pirkka_First_Meet_4e4d1e73:
     # "Though you never want to mess with the bandits, looking at the pleading eyes of Pirkka, you can't help but to make his smile brighter."
     ""
 
+translate schinese Pirkka_First_Meet_849bda75:
+
+    # e "I've sneaked into the bandit's place earlier, actually."
+    e ""
+
+translate schinese Pirkka_First_Meet_e9d6a5fd:
+
+    # p "Oh, you already did? That's perfectly splendid!"
+    p ""
+
+translate schinese Pirkka_First_Meet_4c62e457:
+
+    # p "Did you find the scroll?"
+    p ""
+
+translate schinese Pirkka_First_Meet_4a16823f:
+
+    # e "Sadly, no. But I found some clues as to where it went."
+    e ""
+
+translate schinese Pirkka_First_Meet_a526b1eb:
+
+    # e "They sold it to someone else in the village, I suppose it's Lusterfield?"
+    e ""
+
 translate schinese Pirkka_First_Meet_db9a7126:
 
     # "Perhaps you can take advantage of the bandit boss recognising you as one of them."
@@ -882,36 +907,6 @@ translate schinese Pirkka_Bandit_Quest_Begin_2f32723b:
 
     # "You glance at the back of the wandering bard, he's walking further and further away, along with a simple tune that eventually fades."
     ""
-
-translate schinese Pirkka_Bandit_Quest_Report_7d8da235:
-
-    # e "P-pirkka?"
-    e ""
-
-translate schinese Pirkka_Bandit_Quest_Report_ac31f661:
-
-    # "The wandering bard is sitting by a campfire, strumming his lute."
-    ""
-
-translate schinese Pirkka_Bandit_Quest_Report_cb981e3e:
-
-    # "He looks up and smiles as you approach."
-    ""
-
-translate schinese Pirkka_Bandit_Quest_Report_bb776f31:
-
-    # p "[e], my friend. It's good to see you again. I hope your journey was successful? Please tell me you do."
-    p ""
-
-translate schinese Pirkka_Bandit_Quest_Report_27f83d51:
-
-    # e "About that, I'm sorry, Pirk. I didn't find the prose, but I did find some clues about where it might be."
-    e ""
-
-translate schinese Pirkka_Bandit_Quest_Report_a526b1eb:
-
-    # e "They sold it to someone else in the village, I suppose it's Lusterfield?"
-    e ""
 
 translate schinese Pirkka_Bandit_Quest_Report_3c9025d0:
 
@@ -1378,9 +1373,9 @@ translate schinese Pirkka_Show_62bb1c28:
     # p "{i}In days of yonder, when the world was fair,{p}A monster, Etch, trapped beneath the darkest lair.{/i}"
     p ""
 
-translate schinese Pirkka_Show_404239f8:
+translate schinese Pirkka_Show_3f8fca7e:
 
-    # p "{i}With a flaming soul and ominous hair, {p}he threatened and reigned over the land of bare.{p}"
+    # p "{i}With a flaming soul and ominous hair, {p}he threatened and reigned over the land of bare.{/i}"
     p ""
 
 translate schinese Pirkka_Show_dec98041:
@@ -1468,9 +1463,9 @@ translate schinese Pirkka_Show_a89991a8:
     # p "{i}Messenger, Walker, roam this land with your might,{p}and may all spectres be doused in fright.{/i}"
     p ""
 
-translate schinese Pirkka_Show_ca3f15dc:
+translate schinese Pirkka_Show_03bbe241:
 
-    # p "{i}A song of sacrifice, in whispers and tale,{p}and hear, everyone, a brave soul is now at rest.{p}"
+    # p "{i}A song of sacrifice, in whispers and tale,{p}and hear, everyone, a brave soul is now at rest.{/i}"
     p ""
 
 translate schinese Pirkka_Show_4c602ac3:
@@ -3603,6 +3598,36 @@ translate schinese Bandit_Meet_Quest_c9ab8aa0:
     # e "I... uh... am new, bandit recruit, boss."
     e ""
 
+translate schinese Bandit_Meet_Quest_2be8f457:
+
+    # "The shark squints his eyes."
+    ""
+
+translate schinese Bandit_Meet_Quest_90df77e3:
+
+    # sbd "Hmm... you look like someone I've seen before..."
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_e69ff1cb:
+
+    # e "Of course, it's because I'm the new recruit, boss."
+    e ""
+
+translate schinese Bandit_Meet_Quest_2008dba9:
+
+    # "Suddenly, the shark's eyes widen, feinting a smile of realization."
+    ""
+
+translate schinese Bandit_Meet_Quest_c03c2f5e:
+
+    # sbd "N-no! Now I know, you're the adventurer that broke into our camp earlier! Think you can fool me?"
+    sbd ""
+
+translate schinese Bandit_Meet_Quest_82738f6b:
+
+    # e "U-uh... no I'm not."
+    e ""
+
 translate schinese Bandit_Meet_Quest_dcfe58a8:
 
     # sbd "New? We haven't had any new recruits for a while."
@@ -3990,6 +4015,9 @@ translate schinese strings:
     new ""
 
     old "Decline Pirkka's request"
+    new ""
+
+    old "Tell Pirkka about what you saw earlier"
     new ""
 
     old "Enter the bandit's hideout and sneak pass the bandits to find clues about Pirkka's prose."

@@ -893,15 +893,15 @@ translate schinese woodland_outpost_loop_b21316a8:
     # "The figure approaches... you feel your muscles tense up. You are so ready to escape at any moment..."
     ""
 
-translate schinese woodland_outpost_loop_e612037c:
+translate schinese woodland_outpost_loop_fc645303:
 
-    # m "..."
-    m ""
+    # my "..."
+    my ""
 
-translate schinese woodland_outpost_loop_4b3286df:
+translate schinese woodland_outpost_loop_2e6480a3:
 
-    # m "Who, are you?"
-    m ""
+    # my "Who, are you?"
+    my ""
 
 translate schinese woodland_outpost_loop_2b40a022:
 
@@ -923,10 +923,10 @@ translate schinese woodland_outpost_loop_54935489:
     # e "Uhmmm... I'm [e]."
     e ""
 
-translate schinese woodland_outpost_loop_bc60e7d1:
+translate schinese woodland_outpost_loop_317229cd:
 
-    # m "Where are you from... and.. why are you here... at the middle of the night..."
-    m ""
+    # my "Where are you from... and.. why are you here... at the middle of the night..."
+    my ""
 
 translate schinese woodland_outpost_loop_9119c4e7:
 
@@ -938,70 +938,70 @@ translate schinese woodland_outpost_loop_e628981d:
     # e "You... reminded me of someone."
     e ""
 
-translate schinese woodland_outpost_loop_9980ec54:
+translate schinese woodland_outpost_loop_6723c2e1:
 
-    # m "W-what?"
-    m ""
+    # my "W-what?"
+    my ""
 
 translate schinese woodland_outpost_loop_9c5abfe1:
 
     # e "The demon that sent me here."
     e ""
 
-translate schinese woodland_outpost_loop_790207d5:
+translate schinese woodland_outpost_loop_4b83c24d:
 
-    # m "So, you are that courier."
-    m ""
+    # my "So, you are that courier."
+    my ""
 
 translate schinese woodland_outpost_loop_d7bf05f9:
 
     # e "Hmm?"
     e ""
 
-translate schinese woodland_outpost_loop_7e6d3db7:
+translate schinese woodland_outpost_loop_a4000d3b:
 
-    # m "The courier from Lusterfield, Chief told me about you."
-    m ""
+    # my "The courier from Lusterfield, Chief told me about you."
+    my ""
 
-translate schinese woodland_outpost_loop_b58051d6:
+translate schinese woodland_outpost_loop_2dd895ab:
 
-    # m "I reckon you asked about some buddy of yours, Chime."
-    m ""
+    # my "I reckon you asked about some buddy of yours, Chime."
+    my ""
 
 translate schinese woodland_outpost_loop_d38f2198:
 
     # e "Y-yes...?"
     e ""
 
-translate schinese woodland_outpost_loop_11ef214c:
+translate schinese woodland_outpost_loop_bfa6bbab:
 
-    # m "Where's Chief now...?"
-    m ""
+    # my "Where's Chief now...?"
+    my ""
 
 translate schinese woodland_outpost_loop_1e600dce:
 
     # e "W-what chief?"
     e ""
 
-translate schinese woodland_outpost_loop_ac200e57:
+translate schinese woodland_outpost_loop_2fe34dda:
 
-    # m "Furkan... You saw him before, he saw you before."
-    m ""
+    # my "Furkan... You saw him before, he saw you before."
+    my ""
 
-translate schinese woodland_outpost_loop_f7413291:
+translate schinese woodland_outpost_loop_03d7ead2:
 
-    # m "Where is he..."
-    m ""
+    # my "Where is he..."
+    my ""
 
 translate schinese woodland_outpost_loop_9c6176b1:
 
     # e "Uhm, I don't know."
     e ""
 
-translate schinese woodland_outpost_loop_d3fe2f03:
+translate schinese woodland_outpost_loop_13cf55be:
 
-    # m "Look, any information you know, you shall spill your beans. Did the Lusterfolks take him?"
-    m ""
+    # my "Look, any information you know, you shall spill your beans. Did the Lusterfolks take him?"
+    my ""
 
 translate schinese woodland_outpost_loop_5819885f:
 
@@ -1013,20 +1013,20 @@ translate schinese woodland_outpost_loop_f7cd9910:
     # e "But... I do think of one thing."
     e ""
 
-translate schinese woodland_outpost_loop_112b667a:
+translate schinese woodland_outpost_loop_4afcdf9c:
 
-    # m "Huh?"
-    m ""
+    # my "Huh?"
+    my ""
 
 translate schinese woodland_outpost_loop_7864d137:
 
     # e "I did met a golem... that big."
     e ""
 
-translate schinese woodland_outpost_loop_550470b6:
+translate schinese woodland_outpost_loop_2847a96a:
 
-    # m "A golem?"
-    m ""
+    # my "A golem?"
+    my ""
 
 translate schinese woodland_outpost_loop_70890ddc:
 
@@ -1038,50 +1038,50 @@ translate schinese woodland_outpost_loop_db425602:
     # "You point at the river."
     ""
 
-translate schinese woodland_outpost_loop_e612037c_1:
+translate schinese woodland_outpost_loop_fc645303_1:
 
-    # m "..."
-    m ""
+    # my "..."
+    my ""
 
-translate schinese woodland_outpost_loop_6ab0fd14:
+translate schinese woodland_outpost_loop_b328ad41:
 
-    # m "I think I know where he is..."
-    m ""
+    # my "I think I know where he is..."
+    my ""
 
-translate schinese woodland_outpost_loop_706e9e97:
+translate schinese woodland_outpost_loop_b62414e7:
 
-    # m "The damp cave."
-    m ""
+    # my "The damp cave."
+    my ""
 
 translate schinese woodland_outpost_loop_2b40a022_1:
 
     # e "Huh?"
     e ""
 
-translate schinese woodland_outpost_loop_f22efc52:
+translate schinese woodland_outpost_loop_6a2ac76e:
 
-    # m "Come on, we should go..."
-    m ""
+    # my "Come on, we should go..."
+    my ""
 
 translate schinese woodland_outpost_loop_ce0a52eb:
 
     # e "Me?"
     e ""
 
-translate schinese woodland_outpost_loop_ab180096:
+translate schinese woodland_outpost_loop_83f30ffd:
 
-    # m "I need a hand."
-    m ""
+    # my "I need a hand."
+    my ""
 
 translate schinese woodland_outpost_loop_dc806ac7:
 
     # e "Really? I don't even know you."
     e ""
 
-translate schinese woodland_outpost_loop_ccd68456:
+translate schinese woodland_outpost_loop_02a3da0f:
 
-    # m "I know you, You... you're coming with me either way, courier."
-    m ""
+    # my "I know you, You... you're coming with me either way, courier."
+    my ""
 
 translate schinese woodland_outpost_loop_72a33094:
 

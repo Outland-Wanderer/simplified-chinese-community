@@ -118,10 +118,50 @@ translate schinese grove_of_harvest_loop_e91ba75d:
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     ""
 
+translate schinese grove_of_harvest_loop_8e3600a1:
+
+    # "As you walk around the garden, you notice a wide path that leads to outside of the village, you follow the path, and soon, you find yourself in the middle of a meadow."
+    ""
+
+translate schinese grove_of_harvest_loop_c29fc376:
+
+    # "It looks like you are now at the Prattlefell Meadow."
+    ""
+
 translate schinese grove_of_harvest_loop_e91ba75d_1:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     ""
+
+translate schinese prattlefell_meadow_loop_7d8da235:
+
+    # e "P-pirkka?"
+    e ""
+
+translate schinese prattlefell_meadow_loop_ac31f661:
+
+    # "The wandering bard is sitting by a campfire, strumming his lute."
+    ""
+
+translate schinese prattlefell_meadow_loop_cb981e3e:
+
+    # "He looks up and smiles as you approach."
+    ""
+
+translate schinese prattlefell_meadow_loop_bb776f31:
+
+    # p "[e], my friend. It's good to see you again. I hope your journey was successful? Please tell me you do."
+    p ""
+
+translate schinese prattlefell_meadow_loop_27f83d51:
+
+    # e "About that, I'm sorry, Pirk. I didn't find the prose, but I did find some clues about where it might be."
+    e ""
+
+translate schinese prattlefell_meadow_loop_a526b1eb:
+
+    # e "They sold it to someone else in the village, I suppose it's Lusterfield?"
+    e ""
 
 translate schinese prattlefell_meadow_loop_e91ba75d:
 
@@ -131,6 +171,21 @@ translate schinese prattlefell_meadow_loop_e91ba75d:
 translate schinese prattlefell_meadow_loop_74bcfd4b:
 
     # "You found a small piece of paper that details the recipe for a... stylistic hat that is usually worn by a famous bard."
+    ""
+
+translate schinese prattlefell_meadow_loop_e48a4c2e:
+
+    # "As you walk around the meadow, a faint grey building can be seen amongst the green grassland, white flags and cloth hanging around the building with a tint of red."
+    ""
+
+translate schinese prattlefell_meadow_loop_5d9ab011:
+
+    # "You can see a few bandits walking around the area, seem to be guarding the area."
+    ""
+
+translate schinese prattlefell_meadow_loop_ad065d54:
+
+    # "You approach the building with caution, and soon, you find yourself in front of the bandit's hideout."
     ""
 
 translate schinese prattlefell_meadow_loop_e91ba75d_1:

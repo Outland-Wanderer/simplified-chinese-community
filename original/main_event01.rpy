@@ -1688,7 +1688,7 @@ translate schinese Event_Party01_00fd5b3d:
     # j "I know..."
     j ""
 
-translate schinese Event_Party01_896ce127_1:
+translate schinese Event_Party01_896ce127:
 
     # "You walk towards the three across the bar, and join in with the group."
     ""

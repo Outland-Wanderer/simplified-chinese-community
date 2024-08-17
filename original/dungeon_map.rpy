@@ -358,11 +358,6 @@ translate schinese Puro_Watch_Post_Enter_d2137776:
     # hz "Here we are."
     hz ""
 
-translate schinese Puro_Watch_Post_Enter_b6dda6bd:
-
-    # "You look up and see a tall tower in front of you, with a few equipment scattered on the ground."
-    ""
-
 translate schinese Puro_Watch_Post_Enter_0f9024f3:
 
     # "You blink a few times, before you can see a tall tower in front of you, with a few equipment scattered on the ground."

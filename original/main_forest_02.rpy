@@ -33,17 +33,27 @@ translate schinese dark_forest_loop_e91ba75d:
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     ""
 
+translate schinese dark_forest_loop_04f17568:
+
+    # "You walk through the misty dark forest... Suddenly, you hear two distinct howling from afar."
+    ""
+
+translate schinese dark_forest_loop_f0fb3229:
+
+    # "Immediately, you begin to run towards the opposite direction, but soon two dark figures come into your view."
+    ""
+
+translate schinese dark_forest_loop_f7dd4053_1:
+
+    # e "Fuck..."
+    e ""
+
 translate schinese dark_forest_loop_e91ba75d_1:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     ""
 
 translate schinese dark_forest_loop_e91ba75d_2:
-
-    # "You search around the area for a while, but there seem to be nothing worth noting nearby."
-    ""
-
-translate schinese dark_forest_loop_e91ba75d_3:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
     ""
@@ -2118,9 +2128,9 @@ translate schinese Uffe_Territory_Quest_Find_Cream_be1a890e:
     # tt "{size=25}So, how are we going to get out of this?{/size}"
     tt ""
 
-translate schinese Uffe_Territory_Quest_Find_Cream_742b4d50:
+translate schinese Uffe_Territory_Quest_Find_Cream_8c357fe6:
 
-    # e "{size=15}Are you seriously still talking while we're being tracked down?"
+    # e "{size=15}Are you seriously still talking while we're being tracked down?{/size}"
     e ""
 
 translate schinese Uffe_Territory_Quest_Find_Cream_f958cf8f:
@@ -2973,9 +2983,6 @@ translate schinese strings:
     new ""
 
     old "Ask to stop werewolves' attack"
-    new ""
-
-    old "That's all for now"
     new ""
 
     old "Visit the Split Trail"

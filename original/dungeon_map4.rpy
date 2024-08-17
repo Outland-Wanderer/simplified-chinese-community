@@ -53,6 +53,11 @@ translate schinese Split_Trail_Loop_3ec1d6c4:
     # "It seems you already own the bow, the bush slowly stops convulsing..."
     ""
 
+translate schinese Split_Trail_Loop_56bc5980:
+
+    # "There seems to be something underneath the text, maybe you should come back later... after visiting the cavern."
+    ""
+
 translate schinese Split_Trail_Loop_509dcf5e:
 
     # "The flower withers in your hand..."

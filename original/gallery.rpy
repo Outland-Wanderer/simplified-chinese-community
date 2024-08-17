@@ -108,6 +108,15 @@
     old "{color=#000} Losing to a spritebinder before the elk arrives{/color}"
     new ""
 
+    old "{color=#000} Losing in bear guard battle{/color}"
+    new ""
+
+    old "{color=#000} Winning in bear guard battle{/color}"
+    new ""
+
+    old "{color=#000} Losing to the werewolf duo at night{/color}"
+    new ""
+
     old "{color=#000}Losing to Feral Werewolf with 80 Purity{/color}"
     new ""
 

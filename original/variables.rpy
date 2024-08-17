@@ -156,12 +156,6 @@
     old "Charmed: {p} Target's lust increases by multiple of each effective round. Stackable."
     new ""
 
-    old "Orbs"
-    new ""
-
-    old "Spectral Orbs: {p} Target's next attack will heal based on the number of orbs."
-    new ""
-
     old "Lindbloom"
     new ""
 
@@ -204,6 +198,15 @@
     old "An MP Potion that recovers 40 MP."
     new ""
 
+    old "A red berry collected from the forest area, it can recover 10 HP."
+    new ""
+
+    old "A blue berry collected from the forest area, it can recover 10 MP."
+    new ""
+
+    old "A golden berry collected from the forest area, it reduces 5 Lust."
+    new ""
+
     old "An Ointment with recipe created by Ole, it can recover 80 HP and MP each, reduces 30 Lust, and cleanse all negative effect during battle."
     new ""
 
@@ -216,7 +219,7 @@
     old "An axe designed specifically for battles, most fighter use it for its popularity and damage. {p} Attack: +15 "
     new ""
 
-    old "The most common type of sword among adventurers. Even the heroes uses it. {p} Attack: +12 {p} Accuracy: +5 "
+    old "The most common type of sword among adventurers. Even the most legendary heroes bring it to battles. {p} Attack: +12 {p} Accuracy: +5 "
     new ""
 
     old "A short sword I brought from my Tribe.{p} Attack: +5 {p} Accuracy: +2 "
@@ -247,6 +250,12 @@
     new ""
 
     old "A wooden staff with a blue crystal on the top, can be used to slap your enemy, and restore 5 mana each round. {p} Attack: +4 {p} INT: +3"
+    new ""
+
+    old "Bear Tribe Harpoon"
+    new ""
+
+    old "A barbed spear that sticks in the target when penetrated, its extremely difficult to pull out without causing extreme damage. The weapon is mainly used for hunting creatures in the sea."
     new ""
 
     old "A loincloth that I was wearing in the tribe.{p} Defense: +5 {p} Flirt -5 "
@@ -330,7 +339,16 @@
     old "A collar made by a farmer dog who specialises in growing plants and boners, wearing the collar renders the wearer property of the farmer.{p}Defense: +9 {p} TEN:+1 {p}Max Lust: +15 {p} Flirt: -2"
     new ""
 
+    old "Idol of Virtue"
+    new ""
+
+    old "An accessory that blesses the true warrior, it converts all Charisma of the wearer into pure Strength during battle. However, the wearer cannot cast Flirt on the enemy while it is worn."
+    new ""
+
     old "{i}Botanical Journal of Plants In and Around the Dark Forest: Species, Uses, and Dangers{/i}"
+    new ""
+
+    old "{i}The Battle of Lusterfield{/i}"
     new ""
 
     old "Book of Fiery Charge"
@@ -343,6 +361,12 @@
     new ""
 
     old "The Botanical Journal is covered with slime, accompanied by a few loose pages, it describes details of different plants species around the dark forest."
+    new ""
+
+    old "Battle of Lusterfield"
+    new ""
+
+    old "The book describes the events transpired during the goat tribe's attack on Lusterfield, the village, as recorded by stories and legends told by the locals."
     new ""
 
     old "Book of Tranquil Mend"
@@ -390,7 +414,7 @@
     old "Wooden Bucket"
     new ""
 
-    old "A water bucket crafted from Rahim's Workstation, I can use the bucket to get some water from the Sparkling Lagoon."
+    old "A water bucket crafted from Rahim's Workstation, it can be used to get flowing water from the Sparkling Lagoon."
     new ""
 
     old "Letter of Peace"
@@ -414,7 +438,7 @@
     old "Stone"
     new ""
 
-    old "A normal looking stone that I picked up from the green forest."
+    old "A normal looking stone picked up from the green forest."
     new ""
 
     old "Patch"
@@ -438,7 +462,7 @@
     old "Wooden Log"
     new ""
 
-    old "Some wood that I chopped around the ancient tree. Surely doing it will not anger some unknown tree god."
+    old "Oak Wood chopped around the area of ancient tree."
     new ""
 
     old "A kind of wool collected from goat huntsman in a legal, non-harmful way. It is the main materials for most clothes in Lusterfield."
@@ -486,7 +510,7 @@
     old "A slimy bone, probably from those who are unlucky enough to get stuck in the slime."
     new ""
 
-    old "The meat of an unfortunate prey... But I am not sure if I should... eat it."
+    old "Meat of an unfortunate creature who fell prey to a beast's hands..."
     new ""
 
     old "Strap"
@@ -739,6 +763,36 @@
     new ""
 
     old "A large harp consisted of high quality wood and strings, it produces a delicate and softer sound that it sometimes can be confused with the voice of a deity."
+    new ""
+
+    old "Spearmint"
+    new ""
+
+    old "A type of herb found around the snow region, it can be used in various beverages, but consuming it directly is said to make one feel they've experienced the eternal winter."
+    new ""
+
+    old "Archaic Ice"
+    new ""
+
+    old "A chunk of ice that never melts, even if it's removed from the frigid homeland. It's said to carry a history older than any exising culture on Mokken."
+    new ""
+
+    old "Coal"
+    new ""
+
+    old "A piece of mineral mined from the coldest depth, it is utilized as the burning source for forges and furnaces."
+    new ""
+
+    old "Chamomile"
+    new ""
+
+    old "A flower that derives its popularity among the bears from its sweetness and fruitiness. It is a great ingredients for tea, beers and ales."
+    new ""
+
+    old "Bear Fur"
+    new ""
+
+    old "A type of hard fur dropped from the bears in Otsovaara. Its unique density and thickness helps protect the ursines from extreme coldness, even without clothes on."
     new ""
 
     old "Slime"
@@ -1204,9 +1258,6 @@
     new ""
 
     old "Reconciliation"
-    new ""
-
-    old "Rahim told me that Lusterfield will hold a vote to decide of they will form an accord with the Goat Tribe. The voting ends in 5 days."
     new ""
 
     old "The Missing Link"

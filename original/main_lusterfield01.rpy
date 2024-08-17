@@ -93,6 +93,166 @@ translate schinese bedroom_rest_cff4dfd7:
     # "You recovered a portion of your HP and MP."
     ""
 
+translate schinese main_kingspawn_78f76c27:
+
+    # "A doodle of Sebas' and Ole's portrait, it captures the lion's charming smile, and the lizard's kindness, they seem to be situated behind the same wall this drawing is hanged."
+    ""
+
+translate schinese main_kingspawn_149bf4d7:
+
+    # "The paper has aged quite a bit, but seemingly well-groomed along the years."
+    ""
+
+translate schinese main_kingspawn_7d29a2be:
+
+    # e "Seb, I like this drawing, maybe I should pay the drawer a visit."
+    e ""
+
+translate schinese main_kingspawn_b60a5264:
+
+    # s "Oh! That's my favourite doodle right there, it's quite old, honestly, we invited Rahim's... partner to sketch us when the shop first opened."
+    s ""
+
+translate schinese main_kingspawn_b75b8db1:
+
+    # s "That's a long time, damn. She is quite an artist isn't she, look at those strokes, you might have thought it takes longer than 10 minutes."
+    s ""
+
+translate schinese main_kingspawn_48de4e4b:
+
+    # e "You two looks so cozy here."
+    e ""
+
+translate schinese main_kingspawn_9e1e5e15:
+
+    # s "Well, we should've made a better pose if we knew she's going away, maybe request a full body ones like those you hang in a palace or something, but Ole's too piffy-puffy."
+    s ""
+
+translate schinese main_kingspawn_de9561c6:
+
+    # "You found a book on the top of the cabinet, flipping over the pages, it seems to be a brief history of Lusterfield."
+    ""
+
+translate schinese main_kingspawn_cd51d499:
+
+    # "It doesn't look like Ole will mind you taking an old book, probably. With that in mind, you slowly place the book in your bag."
+    ""
+
+translate schinese main_kingspawn_e0d72571:
+
+    # "You find an account journal lying on top of the counter. It seems to record the daily activities of the pawn shop."
+    ""
+
+translate schinese main_kingspawn_0a2d6e46:
+
+    # "A lizard plush doll that closely resembles Ole, except that it seems to stand on four legs."
+    ""
+
+translate schinese main_kingspawn_e79c8597:
+
+    # "You stare at the doll, it aged well over the years, the scales seem to be painted on, but it falls off quite easily."
+    ""
+
+translate schinese main_kingspawn_8b67e040:
+
+    # e "Is this you, Ole?"
+    e ""
+
+translate schinese main_kingspawn_a06a6743:
+
+    # "You point towards the plush doll, urging Ole to look this way."
+    ""
+
+translate schinese main_kingspawn_84b2da92:
+
+    # o "Oh, there're not many green lizards crawling around here are there, kiddo."
+    o ""
+
+translate schinese main_kingspawn_cb755c86:
+
+    # o "And, well, before you ask, this is not for sale, even for a roommate."
+    o ""
+
+translate schinese main_kingspawn_71241cf1:
+
+    # e "Well, it's not like I was about to ask you about it. Did Seb make this too?"
+    e ""
+
+translate schinese main_kingspawn_bf529385:
+
+    # o "Yes, he did. There was a time when he was fervent about making some cute dolls, of him mostly but sometimes he used the doll as an excuse to... study my proportions."
+    o ""
+
+translate schinese main_kingspawn_7aa8e4af:
+
+    # o "I just let him have his fun anyway, the proportion never turned out that well because he's not cutting the fabric correctly, and the wool isn't filling up all the nooks and crannies inside."
+    o ""
+
+translate schinese main_kingspawn_09d48dd9:
+
+    # "Ole picks up the doll, feinting a soft smile."
+    ""
+
+translate schinese main_kingspawn_317f961f:
+
+    # o "But, it looks pretty cute, and I've never received such a gift before, so this one has a special place in my heart."
+    o ""
+
+translate schinese main_kingspawn_52811803:
+
+    # o "And, maybe, he'll pick the needle up and sew you one! Seb's totally fond of you being here so I can't see a world where there won't be a dragon plush in the shop one day."
+    o ""
+
+translate schinese main_kingspawn_113aab10:
+
+    # e "You bet."
+    e ""
+
+translate schinese main_kingspawn_d61ca3ea:
+
+    # "A mysterious statue of a goat sitting and wearing a simple mask. Doesn't seem to be for sale like the other items in the shop."
+    ""
+
+translate schinese main_kingspawn_7f7293df:
+
+    # e "Hey, Ole, what's this statue about? It looks kinda creepy."
+    e ""
+
+translate schinese main_kingspawn_e06ee59e:
+
+    # o "A traveller pawned this away a long time ago, it's from an old religion of some sort, it's very valuable, actually, considering the rarity."
+    o ""
+
+translate schinese main_kingspawn_fd37a6dc:
+
+    # e "Wait, what's this old religion?"
+    e ""
+
+translate schinese main_kingspawn_ac68ab4c:
+
+    # o "According to the old Kechioeren tales, the goats seemed to worship Tapjoo, who they believe to give them the magical flowing water."
+    o ""
+
+translate schinese main_kingspawn_5ac93b3e:
+
+    # o "But, I suppose they stopped worshipping when the god's been gone for such a long time."
+    o ""
+
+translate schinese main_kingspawn_01fb39ab:
+
+    # o "It's hastily made, bad texture and materials, but the value comes from its history."
+    o ""
+
+translate schinese main_kingspawn_4e24ade2:
+
+    # o "this is what Tapjoo's supposed to look like, at least it's what the goats imagined him to be."
+    o ""
+
+translate schinese main_kingspawn_c918c57c:
+
+    # e "Oh, I see I see."
+    e ""
+
 translate schinese main_lusterfield02_ad070029:
 
     # "Right as you walk into the main square, in front of Cane's tavern, You hear a shout from over to your right, where you normally meet Jog and Amble."
@@ -107,6 +267,96 @@ translate schinese main_lusterfield02_1db6d93e:
 
     # "Realistically, you should head over there now, but it's honestly up to you at the end of the day."
     ""
+
+translate schinese main_rahimshop_9ba1f33d:
+
+    # "A series of drawings scatters around the house, but you notice two distinctively different style in them, one looks like innocent doodles, while the others are almost exclusively detailed drawing of a young Rahim."
+    ""
+
+translate schinese main_rahimshop_56d3db03:
+
+    # "One of them describes his choice of clothes. And the arrows point to the materials used and sewing techniques."
+    ""
+
+translate schinese main_rahimshop_79f5dfb0:
+
+    # e "Hey Rahim, who drew these drawings?"
+    e ""
+
+translate schinese main_rahimshop_834458c7:
+
+    # "Rahim turns his head towards the wall half-heartedly, before turning again to stare at you."
+    ""
+
+translate schinese main_rahimshop_822bb17c:
+
+    # r "Who do you think?"
+    r ""
+
+translate schinese main_rahimshop_df81e672:
+
+    # e "Uhm... I- uh I don't want to guess."
+    e ""
+
+translate schinese main_rahimshop_f02f9089:
+
+    # r "The better looking ones were my former wife's. She has a tendency to draw whatever was in front of her eyes."
+    r ""
+
+translate schinese main_rahimshop_90be366a:
+
+    # e "I see, it seems you were in front of her eyes a lot."
+    e ""
+
+translate schinese main_rahimshop_415a28a3:
+
+    # e "And, I'd say she captured your handsomeness perfectly. You looked pretty cheerful in the drawings."
+    e ""
+
+translate schinese main_rahimshop_f0992fe6:
+
+    # "You turn to Rahim, waiting for a response, but it seems he'd already returned to work."
+    ""
+
+translate schinese main_rahimshop_2b7aa352:
+
+    # "A tanning station with a stack of some leathers of uneven shapes, waiting to be tanned for use in certain equipment and clothing."
+    ""
+
+translate schinese main_rahimshop_b0b9d4e0:
+
+    # "You don't doubt these are ethically collected."
+    ""
+
+translate schinese main_rahimshop_119e0f75:
+
+    # "A basket full of miscellaneous items placed on the ground, one of them were a golden badge, seemingly from somewhere fancy."
+    ""
+
+translate schinese main_rahimshop_83feca6d:
+
+    # e "Rahim, what's the use of this basket over here?"
+    e ""
+
+translate schinese main_rahimshop_df17f211:
+
+    # r "Hey, don't put your dirty hands on my old stuff, they're most delicate and flimsy."
+    r ""
+
+translate schinese main_rahimshop_91c876d6:
+
+    # e "I saw a crown, and... a badge? Are they yours?"
+    e ""
+
+translate schinese main_rahimshop_681ad974:
+
+    # r "These were leftovers from when I tailored the king's wardrobe."
+    r ""
+
+translate schinese main_rahimshop_42555244:
+
+    # r "Obviously, when I retired from the palace, we left on good terms, so I took some high-quality fabric and sundry items for myself."
+    r ""
 
 translate schinese Sebas_dialogue_a201ecb1:
 
@@ -15083,14 +15333,14 @@ translate schinese Rahim_Apron_Quest_f79c7584:
     # r "I don't care if he's guilty or not. It's the goats that attacked our village. We had decades of friendship and memory, but right when I needed my friend the most, he disappeared."
     r ""
 
-translate schinese Rahim_Apron_Quest_231f1b8d:
+translate schinese Rahim_Apron_Quest_bf6ed11c:
 
-    # r "Vanished. Out of thin air. What a good friend. This whole time, I just felt scammed, I lost both people that I loved that day."
+    # r "Vanished. Out of thin air. What a good friend. This whole time, I felt betrayed, I lost both people that I loved that day."
     r ""
 
-translate schinese Rahim_Apron_Quest_425e1f1e:
+translate schinese Rahim_Apron_Quest_d017b74d:
 
-    # e "I'm so sorry to hear... Rahim. I think he'll certainly be happy to reconcile with you, if you wish..."
+    # e "I'm so sorry to hear... Rahim. I think he'll certainly be happy to reconcile with you, if you wish."
     e ""
 
 translate schinese Rahim_Apron_Quest_3074194c:
@@ -15123,9 +15373,9 @@ translate schinese Rahim_Apron_Quest_b5802c37:
     # r "Was his server the one... that took the deal to help with the raid?"
     r ""
 
-translate schinese Rahim_Apron_Quest_e67088ef:
+translate schinese Rahim_Apron_Quest_b5dc3770:
 
-    # e "I don't know... but I believe it wasn't Cane..."
+    # e "I don't know, but I believe it wasn't Cane."
     e ""
 
 translate schinese Rahim_Apron_Quest_982e3ddf:
@@ -16603,9 +16853,9 @@ translate schinese Rahim_Reconciliation_Begin_e51d452c:
     # f "We didn't mea-"
     f ""
 
-translate schinese Rahim_Reconciliation_Begin_5a35ae99:
+translate schinese Rahim_Reconciliation_Begin_ed038d82:
 
-    # r "Your spells and magicks doesn't work now, so you come here and do what? Beg me to lend you more casualties to spend?"
+    # r "Your spells and magicks doesn't work now, so you come here and do what? Beg me to lend you more casualties to spend away?"
     r ""
 
 translate schinese Rahim_Reconciliation_Begin_4de8da1d:
@@ -16703,9 +16953,9 @@ translate schinese Rahim_Reconciliation_Begin_7dbad3d3:
     # f "We... I just think we should put away personal agendas when it comes to the safety of the tribe."
     f ""
 
-translate schinese Rahim_Reconciliation_Begin_6925417b:
+translate schinese Rahim_Reconciliation_Begin_68479ee5:
 
-    # r "Personal Agenda? How noble was that? Do you even know how insulting that was. You're lucky enough to born a son of a wise man, living inside this tiny little bubble with nothing to worry about and now you are lecturing me how I should live my life."
+    # r "Personal Agenda? How noble was that? Do you even know how insulting that was. You're lucky enough to born a son of a wise man, living inside this little bubble with nothing to worry about and now you are lecturing me how I should live my life."
     r ""
 
 translate schinese Rahim_Reconciliation_Begin_932ab619:
@@ -16783,6 +17033,11 @@ translate schinese Rahim_Reconciliation_Begin_8795d133:
     # s "That- just happened."
     s ""
 
+translate schinese Rahim_Reconciliation_Begin_4f3b2b66:
+
+    # e "Stop talking."
+    e ""
+
 translate schinese Rahim_Reconciliation_Begin_60997360:
 
     # "You shake your head as the both of you get back to work."
@@ -16798,9 +17053,9 @@ translate schinese Rahim_Reconciliation_Begin_5cdb0e1d:
     # s "Wait it out, roomie. With this loud he's screaming today, he's gonna sew your mouth shut if you're existing within his visible distance."
     s ""
 
-translate schinese Rahim_Reconciliation_Begin_730d6c80:
+translate schinese Rahim_Reconciliation_Begin_8df9ac1c:
 
-    # "Sebas grins for the while. But he's right, perhaps it'd really be a good idea not to bother Rahim soon."
+    # "Sebas grins for the while. But he's right, perhaps it'd really be a good idea not to bother Rahim so soon."
     ""
 
 translate schinese Rahim_Reconciliation_Begin_123a599b:
@@ -16903,7 +17158,7 @@ translate schinese Rahim_Reconciliation_Begin_1c02d480:
     # s "But wait it out before you go knock on his door again, roomie. With this loud he's screaming today, he's gonna sew your mouth shut if you're existing within his visible distance."
     s ""
 
-translate schinese Rahim_Reconciliation_Begin_730d6c80_1:
+translate schinese Rahim_Reconciliation_Begin_730d6c80:
 
     # "Sebas grins for the while. But he's right, perhaps it'd really be a good idea not to bother Rahim soon."
     ""
@@ -22553,6 +22808,61 @@ translate schinese Rahim_Vote_Day_87fea982:
     # "You nod as you watch Sebas slowly walks upstairs."
     ""
 
+translate schinese Rahim_Vote_Day_Late_b7a52401:
+
+    # "As you walk in the streets of Lusterfield, you are suddenly reminded of the voting day."
+    ""
+
+translate schinese Rahim_Vote_Day_Late_edcc8e3c:
+
+    # "Quickly, you run towards the town center, where the voting would be taking place."
+    ""
+
+translate schinese Rahim_Vote_Day_Late_67c5aa36:
+
+    # "As you arrive, the crowd has already emptied, and Rahim is no where to be seen."
+    ""
+
+translate schinese Rahim_Vote_Day_Late_ace470fd:
+
+    # e "Shit, did I miss the vote?"
+    e ""
+
+translate schinese Rahim_Vote_Day_Late_e1d5c3a0:
+
+    # "Walking towards the post. There were a large banner in the middle of the town center."
+    ""
+
+translate schinese Rahim_Vote_Day_Late_3e93916a:
+
+    # "It reads..."
+    ""
+
+translate schinese Rahim_Vote_Day_Late_b39166e7:
+
+    # "As voted by the majority of Lusterfield, we will reinstate alliance with the goat tribe, thank you to everyone who participated in the vote."
+    ""
+
+translate schinese Rahim_Vote_Day_Late_37b285ae:
+
+    # "As vote by the majority of Lusterfield, we will continue as usual, thank you to everyone who participated in the vote."
+    ""
+
+translate schinese Rahim_Vote_Day_Late_86157e81:
+
+    # "Apparently, the result of the vote is already announced. You stare at the banner in shock."
+    ""
+
+translate schinese Rahim_Vote_Day_Late_8ce68763:
+
+    # "With the way how Rahim worded the announcement, you are somewhat convinced he might not be happy with your absence."
+    ""
+
+translate schinese Rahim_Vote_Day_Late_be1315ce:
+
+    # "You might want to talk with Rahim after..."
+    ""
+
 translate schinese Jog_Voting_Opinion_a56d9532:
 
     # e "So, Jog. What do you think about... Lusterfield's Voting Day?"
@@ -23333,9 +23643,9 @@ translate schinese Jog_Vote_Follow_Sebas_ce0fb162:
     # ct "You are my family. Of course I want to keep you safe and thriving, be it in the palace or Lusterfield."
     ct ""
 
-translate schinese Jog_Vote_Follow_Sebas_a51df048:
+translate schinese Jog_Vote_Follow_Sebas_0f5ae33c:
 
-    # s "Yeah, because my pa's a jerk so you oughta be one too, becauyse you're the King of Licates."
+    # s "Yeah, because my pa's a jerk so you oughta be one too, because you're the King of Likkathia."
     s ""
 
 translate schinese Jog_Vote_Follow_Sebas_a8073e92:
@@ -23403,9 +23713,9 @@ translate schinese Jog_Vote_Follow_Sebas_7460760a:
     # "It is heading to the wagon, undoubtedly on the verge of attacking the two lions."
     ""
 
-translate schinese Jog_Vote_Follow_Sebas_95d551b8:
+translate schinese Jog_Vote_Follow_Sebas_cfd16ba3:
 
-    # s "Stay here, Castor."
+    # s "Stay here, uncle Castor."
     s ""
 
 translate schinese Jog_Vote_Follow_Sebas_4ccb28ff:
@@ -23518,9 +23828,9 @@ translate schinese Jog_Vote_Follow_Sebas_08d3b443:
     # s "Did you hear anything?"
     s ""
 
-translate schinese Jog_Vote_Follow_Sebas_51380686:
+translate schinese Jog_Vote_Follow_Sebas_786e122f:
 
-    # e "I only hear a little, King of... Licates? You shouted that word so loud the whole forest might as well hear that."
+    # e "I only hear a little, King of... Likkathia? You shouted that word so loud the whole forest might as well hear that."
     e ""
 
 translate schinese Jog_Vote_Follow_Sebas_ef9da69c:
@@ -23573,9 +23883,9 @@ translate schinese Jog_Vote_Follow_Sebas_3c811b27:
     # s "I can't believe I let him slip away again."
     s ""
 
-translate schinese Jog_Vote_Follow_Sebas_2faeec4e:
+translate schinese Jog_Vote_Follow_Sebas_f13bcce6:
 
-    # e "Uh, was that... the king of Licates?"
+    # e "Uh, was that... the king of Likkathia?"
     e ""
 
 translate schinese Jog_Vote_Follow_Sebas_03039446:
@@ -23696,6 +24006,31 @@ translate schinese Jog_Vote_Follow_Sebas_dfdcf61e:
 translate schinese Jog_Vote_Follow_Sebas_fe675573:
 
     # "Without hesitation, you slip away through the thick grasses and run back to Lusterfield."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_4ad037e2:
+
+    # "You pant heavily, wondering about the safety of Sebas and the wagon."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_1efff0b9:
+
+    # "But, you can only hope they come out unscathed."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_25b33f19:
+
+    # "The conversation was cut off by the river monster, the night was so dim you couldn't even see it clearly, but it did have a shape resembling the guardian you saw."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_591a35c3:
+
+    # "Either way, it seems that Sebas secretly met with the man, perhaps talking about the Vote and its consequences on Lusterfield."
+    ""
+
+translate schinese Jog_Vote_Follow_Sebas_5ebb8c28:
+
+    # "Jog might want to hear that nonetheless."
     ""
 
 translate schinese Jog_Vote_Follow_Sebas_d7b15398:
@@ -24113,9 +24448,9 @@ translate schinese Jog_Vote_Report_0919bb89:
     # e "Okay, Sebas was actually talking with his uncle, who's kind of asking about this accord in Lusterfield."
     e ""
 
-translate schinese Jog_Vote_Report_b755e3f1:
+translate schinese Jog_Vote_Report_1878605f:
 
-    # e "He's called... Castor, lives in a palace, in a town called something like Licates."
+    # e "He's called... Castor, lives in a palace, in a town called something like Likkathia."
     e ""
 
 translate schinese Jog_Vote_Report_2240961a:
@@ -25092,7 +25427,7 @@ translate schinese strings:
     old "Help Ole"
     new ""
 
-    old "Complete the quest before Ole meets with Gwyddyon on [todaydayofweekfromolemeeting]"
+    old "Complete the quest before Ole meets with Gwyddyon on "
     new ""
 
     old "Collect information about a secret product from Gwyddyon"
@@ -25170,7 +25505,10 @@ translate schinese strings:
     old "Dodge!"
     new ""
 
-    old "Follow Sebas from the King's Pawn at [todaydayofweekfromsebasmeeting] night"
+    old "Follow Sebas from the King's Pawn on "
+    new ""
+
+    old " night"
     new ""
 
     old "Sebas could've seen you if you stay around... but the monster might hurt Sebas and his uncle. What should you do?"

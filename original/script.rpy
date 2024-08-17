@@ -123,75 +123,75 @@ translate schinese Sebas_First_Meet_02757783:
     # "His young voice is definitely opposite from the rough voice of the figure before."
     ""
 
-translate schinese Sebas_First_Meet_e612037c:
+translate schinese Sebas_First_Meet_fc645303:
 
-    # m "..."
-    m ""
+    # my "..."
+    my ""
 
-translate schinese Sebas_First_Meet_b1cf6148:
+translate schinese Sebas_First_Meet_b878ab07:
 
-    # m "You waking up yet, you know... you shouldn't have slept in."
-    m ""
+    # my "You waking up yet, you know... you shouldn't have slept in."
+    my ""
 
-translate schinese Sebas_First_Meet_027c2e72:
+translate schinese Sebas_First_Meet_830760cf:
 
-    # m "Especially in the middle of a forest like here."
-    m ""
+    # my "Especially in the middle of a forest like here."
+    my ""
 
 translate schinese Sebas_First_Meet_d1492e2e:
 
     # "You wish for him to shut up, or take your belongings so he can leave you alone."
     ""
 
-translate schinese Sebas_First_Meet_4e522f42:
+translate schinese Sebas_First_Meet_047e8986:
 
-    # m "A grown up boy like you should know there's a lot of dangerous monsters out there."
-    m ""
+    # my "A grown up boy like you should know there's a lot of dangerous monsters out there."
+    my ""
 
-translate schinese Sebas_First_Meet_3a6bf9e7:
+translate schinese Sebas_First_Meet_79d7c945:
 
-    # m "As my ma said, Safety is always your number one priority."
-    m ""
+    # my "As my ma said, Safety is always your number one priority."
+    my ""
 
-translate schinese Sebas_First_Meet_761dfaf2:
+translate schinese Sebas_First_Meet_2e0673cc:
 
-    # m "She also said not to trust any strangers so easily, especially those who sleep in the forest."
-    m ""
+    # my "She also said not to trust any strangers so easily, especially those who sleep in the forest."
+    my ""
 
-translate schinese Sebas_First_Meet_d806b40a:
+translate schinese Sebas_First_Meet_477c1be6:
 
-    # m "but oh well... you know what they say."
-    m ""
+    # my "but oh well... you know what they say."
+    my ""
 
-translate schinese Sebas_First_Meet_59f99719:
+translate schinese Sebas_First_Meet_09141f75:
 
-    # m "You snooze, you get slapped in the ass!"
-    m ""
+    # my "You snooze, you get slapped in the ass!"
+    my ""
 
-translate schinese Sebas_First_Meet_94b91105:
+translate schinese Sebas_First_Meet_6de90855:
 
-    # m "...and lose, of course."
-    m ""
+    # my "...and lose, of course."
+    my ""
 
 translate schinese Sebas_First_Meet_e5eb9a2c:
 
     # "You wonder if this is what hell sounds like, endless blabbering like a fly buzzing around your ears."
     ""
 
-translate schinese Sebas_First_Meet_e612037c_1:
+translate schinese Sebas_First_Meet_fc645303_1:
 
-    # m "..."
-    m ""
+    # my "..."
+    my ""
 
-translate schinese Sebas_First_Meet_dfa6f757:
+translate schinese Sebas_First_Meet_99d88ee3:
 
-    # m "Okay, it's time."
-    m ""
+    # my "Okay, it's time."
+    my ""
 
-translate schinese Sebas_First_Meet_61eed9da:
+translate schinese Sebas_First_Meet_6bd2d951:
 
-    # m "Hey. Wake up."
-    m ""
+    # my "Hey. Wake up."
+    my ""
 
 translate schinese Sebas_First_Meet_a0c860f8:
 
@@ -208,15 +208,15 @@ translate schinese Sebas_First_Meet_78c02f59:
     # "As much as you don't wish to open your eyes yet, you feel that he's not going to stop until so."
     ""
 
-translate schinese Sebas_First_Meet_877a1fb8:
+translate schinese Sebas_First_Meet_d06f40b2:
 
-    # m "Good... Fucking Morning, Stranger."
-    m ""
+    # my "Good... Fucking Morning, Stranger."
+    my ""
 
-translate schinese Sebas_First_Meet_020cccc1:
+translate schinese Sebas_First_Meet_387ead83:
 
-    # m "See, you probably have a job but it is not that hard to get up on Sunday, I know."
-    m ""
+    # my "See, you probably have a job but it is not that hard to get up on Sunday, I know."
+    my ""
 
 translate schinese Sebas_First_Meet_cdaf010d:
 
@@ -233,15 +233,15 @@ translate schinese Sebas_First_Meet_8a9242d0:
     # yu "...what?"
     yu ""
 
-translate schinese Sebas_First_Meet_3ed5c352:
+translate schinese Sebas_First_Meet_d3d8977f:
 
-    # m "Hello, little snoozy ass."
-    m ""
+    # my "Hello, little snoozy ass."
+    my ""
 
-translate schinese Sebas_First_Meet_c567f91c:
+translate schinese Sebas_First_Meet_31d42755:
 
-    # m "My name is Sebas, in case you don't know."
-    m ""
+    # my "My name is Sebas, in case you don't know."
+    my ""
 
 translate schinese Sebas_First_Meet_0b58aa63:
 
@@ -658,20 +658,20 @@ translate schinese name_done_5e1c0af9:
     # "You can barely move your head, unable to shift your gaze from his glimmering eyes."
     ""
 
-translate schinese name_done_0de7bba4:
+translate schinese name_done_b7e89ae2:
 
-    # m "Seb, what's wrong with-"
-    m ""
+    # my "Seb, what's wrong with-"
+    my ""
 
 translate schinese name_done_0ab3efb8:
 
     # s "H-hurry the fuck up... this guy needs some bandages."
     s ""
 
-translate schinese name_done_f65a6a7c:
+translate schinese name_done_82cbe648:
 
-    # m "He... Where did you find him. Alright, hold him tight."
-    m ""
+    # my "He... Where did you find him. Alright, hold him tight."
+    my ""
 
 translate schinese name_done_a200af94:
 
@@ -693,45 +693,45 @@ translate schinese name_done_a61f78c3:
     # "He carefully avoids the blood from leaking further as the bandages are wrapped around your head a few times."
     ""
 
-translate schinese name_done_5c52a3f0:
+translate schinese name_done_02940ac7:
 
-    # m "This should stop the bleeding for a while."
-    m ""
+    # my "This should stop the bleeding for a while."
+    my ""
 
-translate schinese name_done_ca7176f3:
+translate schinese name_done_4a1dcd53:
 
-    # m "You feeling okay?"
-    m ""
+    # my "You feeling okay?"
+    my ""
 
 translate schinese name_done_942e0696:
 
     # e "Yes... thank you so much."
     e ""
 
-translate schinese name_done_b8a7f11f:
+translate schinese name_done_905199f2:
 
-    # m "No, don't thank me yet, I haven't treated the wound yet."
-    m ""
+    # my "No, don't thank me yet, I haven't treated the wound yet."
+    my ""
 
 translate schinese name_done_7a922f34:
 
     # s "But is he alright now?"
     s ""
 
-translate schinese name_done_f4e5a317:
+translate schinese name_done_7e540224:
 
-    # m "He's fine."
-    m ""
+    # my "He's fine."
+    my ""
 
 translate schinese name_done_afe9dfdb:
 
     # s "Hey, that's my fucking Ol, gifting us mere mortals with his kind blessing."
     s ""
 
-translate schinese name_done_2ca34e61:
+translate schinese name_done_f8f0c7bd:
 
-    # m "Very funny, what's your name, kid?"
-    m ""
+    # my "Very funny, what's your name, kid?"
+    my ""
 
 translate schinese name_done_d4bfc995:
 
@@ -1403,10 +1403,10 @@ translate schinese name_done_cdbdbb4a:
     # o "You should rest for now, though. The wound is not going to heal itself-"
     o ""
 
-translate schinese name_done_42e83918:
+translate schinese name_done_85aca341:
 
-    # m "Ole, who are you talking to."
-    m ""
+    # my "Ole, who are you talking to."
+    my ""
 
 translate schinese name_done_d3a9d418:
 

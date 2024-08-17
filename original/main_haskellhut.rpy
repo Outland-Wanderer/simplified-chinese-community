@@ -1548,9 +1548,9 @@ translate schinese Haskell_Ask_Goat_Tribe_38f63c1d:
     # h "Business relationship, I just give them potion, usually they need a lot of magic potions."
     h ""
 
-translate schinese Haskell_Ask_Goat_Tribe_0ad2acf8:
+translate schinese Haskell_Ask_Goat_Tribe_6e73fceb:
 
-    # e "Didn't you say they work on the Primordial Runes? The Spell... energy it gives them?"
+    # e "Didn't you say they work on the primordial runes? The Spell... energy it gives them?"
     e ""
 
 translate schinese Haskell_Ask_Goat_Tribe_508ea55c:
@@ -1853,10 +1853,10 @@ translate schinese Haskell_Meet_Hut_72a33094:
     # e "..."
     e ""
 
-translate schinese Haskell_Meet_Hut_88649592:
+translate schinese Haskell_Meet_Hut_950deeac:
 
-    # m "What are you looking at?"
-    m ""
+    # my "What are you looking at?"
+    my ""
 
 translate schinese Haskell_Meet_Hut_4e0b2e03:
 
@@ -1888,15 +1888,15 @@ translate schinese Haskell_Meet_Hut_549e712b:
     # "You suddenly realise the dragon is dangerously close to you, only a few inches apart."
     ""
 
-translate schinese Haskell_Meet_Hut_6a2c3783:
+translate schinese Haskell_Meet_Hut_602a99f3:
 
-    # m "What, How did you hit your head again..."
-    m ""
+    # my "What, How did you hit your head again..."
+    my ""
 
-translate schinese Haskell_Meet_Hut_a4992a39:
+translate schinese Haskell_Meet_Hut_00530f06:
 
-    # m "I've got ointment on my hand, just wait."
-    m ""
+    # my "I've got ointment on my hand, just wait."
+    my ""
 
 translate schinese Haskell_Meet_Hut_1b303302:
 
@@ -1908,35 +1908,35 @@ translate schinese Haskell_Meet_Hut_9523cb17:
     # e "What did you mean by 'again'?"
     e ""
 
-translate schinese Haskell_Meet_Hut_5648014e:
+translate schinese Haskell_Meet_Hut_45934bec:
 
-    # m "Didn't you hit your head when you arrive?"
-    m ""
+    # my "Didn't you hit your head when you arrive?"
+    my ""
 
 translate schinese Haskell_Meet_Hut_763838df:
 
     # e "Uhh... how did you know?"
     e ""
 
-translate schinese Haskell_Meet_Hut_af401647:
+translate schinese Haskell_Meet_Hut_bef8d712:
 
-    # m "I just know."
-    m ""
+    # my "I just know."
+    my ""
 
-translate schinese Haskell_Meet_Hut_9a8484e7:
+translate schinese Haskell_Meet_Hut_ea8c1cf5:
 
-    # m "And maybe if Seb didn't jump on his feet and tell me about his new roommate that's kinda cute, according to him."
-    m ""
+    # my "And maybe if Seb didn't jump on his feet and tell me about his new roommate that's kinda cute, according to him."
+    my ""
 
 translate schinese Haskell_Meet_Hut_c6c2c87b:
 
     # e "...kinda c-cute?"
     e ""
 
-translate schinese Haskell_Meet_Hut_1ba9b7dd:
+translate schinese Haskell_Meet_Hut_a7bb7c58:
 
-    # m "His word, not mine."
-    m ""
+    # my "His word, not mine."
+    my ""
 
 translate schinese Haskell_Meet_Hut_e8027532:
 
@@ -2198,9 +2198,9 @@ translate schinese Haskell_Meet_Hut_07250603:
     # h "These goat folks are much weaker than they're now. Furkan is furious that they lost the outpost to the buggbears, more recently."
     h ""
 
-translate schinese Haskell_Meet_Hut_a65d1ec9:
+translate schinese Haskell_Meet_Hut_7d9ff710:
 
-    # e "Hmm... Primordial Runes?"
+    # e "Hmm... primordial runes?"
     e ""
 
 translate schinese Haskell_Meet_Hut_50126663:
@@ -2403,20 +2403,20 @@ translate schinese Haskell_First_Meet_b121d820:
     # "As soon as you try to approach him, you step on a dry leaf, making loud cracking sound across the forest."
     ""
 
-translate schinese Haskell_First_Meet_8e2821ca:
+translate schinese Haskell_First_Meet_bf6b7d74:
 
-    # m "Hmmm...?"
-    m ""
+    # my "Hmmm...?"
+    my ""
 
 translate schinese Haskell_First_Meet_20d216de:
 
     # "A blunt voice comes out of the figure's mouth, you realise that he is a dragon."
     ""
 
-translate schinese Haskell_First_Meet_7b29988e:
+translate schinese Haskell_First_Meet_a45f163c:
 
-    # m "Ohh. You're not supposed to be here."
-    m ""
+    # my "Ohh. You're not supposed to be here."
+    my ""
 
 translate schinese Haskell_First_Meet_14953670:
 
@@ -3033,11 +3033,6 @@ translate schinese Haskell_Minotaur_Dungeon_d752473d:
     # h "Take these potions."
     h ""
 
-translate schinese Haskell_Minotaur_Dungeon_a5374a47:
-
-    # h "Stay safe, courier."
-    h ""
-
 translate schinese Haskell_Minotaur_Dungeon_cf2822a3:
 
     # e "Thank you, Haskell."
@@ -3052,6 +3047,11 @@ translate schinese Haskell_Minotaur_Dungeon_b84cbfa2:
 
     # h "Huh. I'll be patiently waiting, very patiently..."
     h ""
+
+translate schinese Haskell_Garden_Quest_Begin_e0941205:
+
+    # "When you enter the garden, you notice"
+    ""
 
 translate schinese Haskell_Sick_Quest_ebcc1dc8:
 
@@ -3158,9 +3158,9 @@ translate schinese Haskell_Report_Minotaur_Dungeon_34fcfa42:
     # "Haskell swirls the viscous liquid."
     ""
 
-translate schinese Haskell_Report_Minotaur_Dungeon_fbe9fb19:
+translate schinese Haskell_Report_Minotaur_Dungeon_0e61a0aa:
 
-    # h "It looks like you have a good time harvesting this product."
+    # h "It looks like you had a great time harvesting this product."
     h ""
 
 translate schinese Haskell_Report_Minotaur_Dungeon_1cd9bf6b:
@@ -3183,14 +3183,9 @@ translate schinese Haskell_Report_Minotaur_Dungeon_b3834a8b:
     # h "That's for me to know, and not for you to find out."
     h ""
 
-translate schinese Haskell_Report_Minotaur_Dungeon_632dde61:
+translate schinese Haskell_Report_Minotaur_Dungeon_710596a7:
 
-    # h "But I can tell you this. He is actually the source that told me about the minotaur cave."
-    h ""
-
-translate schinese Haskell_Report_Minotaur_Dungeon_43b53d27:
-
-    # h "I did some research while you were off in the dungeon."
+    # h "But, I did do some research while you were off in the dungeon."
     h ""
 
 translate schinese Haskell_Report_Minotaur_Dungeon_94699b04:
@@ -3198,19 +3193,19 @@ translate schinese Haskell_Report_Minotaur_Dungeon_94699b04:
     # h "The minotaur you fought is technically not an evil monster."
     h ""
 
-translate schinese Haskell_Report_Minotaur_Dungeon_f6faf2fc:
+translate schinese Haskell_Report_Minotaur_Dungeon_f581059d:
 
-    # h "It was imprisoned for it didn't know how to control its immense power."
+    # h "It was imprisoned for it had no idea how to control its immense power."
     h ""
 
-translate schinese Haskell_Report_Minotaur_Dungeon_fc4fabcc:
+translate schinese Haskell_Report_Minotaur_Dungeon_482ddc09:
 
-    # h "It has been sometime since the beast had some company in its captivity."
+    # h "In my calculation, it's since been some time as the beast had some company in its captivity."
     h ""
 
-translate schinese Haskell_Report_Minotaur_Dungeon_248a167b:
+translate schinese Haskell_Report_Minotaur_Dungeon_1e34096b:
 
-    # h "So, I believe it is thankful that a courier went to visit it, regardless of the outcome."
+    # h "So, I believe it is thankful that someone went to visit it, regardless of the outcome."
     h ""
 
 translate schinese Haskell_Report_Minotaur_Dungeon_601f1b5c:
@@ -3218,35 +3213,60 @@ translate schinese Haskell_Report_Minotaur_Dungeon_601f1b5c:
     # e "That's... quite sad."
     e ""
 
-translate schinese Haskell_Report_Minotaur_Dungeon_d395c31b:
+translate schinese Haskell_Report_Minotaur_Dungeon_7c321bb7:
 
-    # h "Well, don't get too attached. The beast is ultimately a freak of nature."
+    # h "Well, in the end, the minotaur is merely a freak of nature, an anomaly that shouldn't even be there in the first place."
     h ""
 
-translate schinese Haskell_Report_Minotaur_Dungeon_8e46ef1a:
+translate schinese Haskell_Report_Minotaur_Dungeon_72dc59f0:
 
-    # h "It might not mean harm but it was imprisoned for a reason."
+    # h "It might not mean harm but the beast was imprisoned for a reason."
     h ""
 
-translate schinese Haskell_Report_Minotaur_Dungeon_84574523:
+translate schinese Haskell_Report_Minotaur_Dungeon_00da5a3a:
 
-    # h "If one can't control lightning, one has to bottle it."
+    # e "Haskell, the minotaur is still a living being."
+    e ""
+
+translate schinese Haskell_Report_Minotaur_Dungeon_a305ad6e:
+
+    # h "Yes, and so are the slimes. And the mimics, and everything else. For them, this is the way of life, and so does the minotaur."
     h ""
 
-translate schinese Haskell_Report_Minotaur_Dungeon_5022ce7e:
+translate schinese Haskell_Report_Minotaur_Dungeon_a440be24:
 
-    # h "Anyway, enough story. Now let me get on with the potion making."
+    # h "So don't get too attached to anyone, kiddo. It's a fool's errand, nothing more."
     h ""
 
-translate schinese Haskell_Report_Minotaur_Dungeon_5f1650c7:
+translate schinese Haskell_Report_Minotaur_Dungeon_93977572:
 
-    # h "With the amount you've harvested, I should be able to make an extra potion for you."
+    # e "I think, you're oversimplifying things, Haskell."
+    e ""
+
+translate schinese Haskell_Report_Minotaur_Dungeon_897e726c:
+
+    # h "Well, kiddo. I'm not here to lecture you about morality, you learnt enough from the folks back in the village already."
+    h ""
+
+translate schinese Haskell_Report_Minotaur_Dungeon_7eb12185:
+
+    # h "Anyway, enough story. Now let me get on with the potion making. I have a customer to serve."
+    h ""
+
+translate schinese Haskell_Report_Minotaur_Dungeon_773ec3fe:
+
+    # h "Here's your reward, by the way. Use them wisely."
     h ""
 
 translate schinese Haskell_Report_Minotaur_Dungeon_b73b6cb7:
 
     # e "Thank you so much, Haskell."
     e ""
+
+translate schinese Haskell_Report_Minotaur_Dungeon_c47c9319:
+
+    # msg "You received 3 Strength Potions, 3 Green Ointments, and 400 gold."
+    msg ""
 
 translate schinese Haskell_After_Sick_Quest_1ddad8d8:
 

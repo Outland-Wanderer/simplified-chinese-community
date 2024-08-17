@@ -6403,30 +6403,30 @@ translate schinese Cane_First_d2df1bbe:
     # "A scent of alcohol and yeast infiltrates your nose as soon as you open the door, you try to pinch your nose under the strong alcohol as a purple figure emerges in front of you."
     ""
 
-translate schinese Cane_First_d9102cad:
+translate schinese Cane_First_ca451f31:
 
-    # m "Welcome to the Nocturnal Trunk, [e]."
-    m ""
+    # my "Welcome to the Nocturnal Trunk, [e]."
+    my ""
 
 translate schinese Cane_First_54d14e14:
 
     # e "Hello- wait how did you know my name?"
     e ""
 
-translate schinese Cane_First_fbd04217:
+translate schinese Cane_First_8a74c83b:
 
-    # m "That hunky dunky Lothar told me a goat outsider disrespected him. Ya got the guts to mix up his name like that, [e]."
-    m ""
+    # my "That hunky dunky Lothar told me a goat outsider disrespected him. Ya got the guts to mix up his name like that, [e]."
+    my ""
 
 translate schinese Cane_First_60610ff3:
 
     # e "I'm a dragon... but yes, that's me. Nice to meet you, uh- what's your name again?"
     e ""
 
-translate schinese Cane_First_6915ea61:
+translate schinese Cane_First_f81c78e6:
 
-    # m "That hunky dunky Lothar told me a goat fella came to good ol Lusterfield yesterday, it's gotta be ya name, [e]."
-    m ""
+    # my "That hunky dunky Lothar told me a goat fella came to good ol Lusterfield yesterday, it's gotta be ya name, [e]."
+    my ""
 
 translate schinese Cane_First_60610ff3_1:
 
@@ -6578,10 +6578,10 @@ translate schinese Cane_First_5435e904:
     # c "My friend, ya got a bright future ahead of ya, [e]. Well then, enjoy yer stay in the Nocturnal Trunk."
     c ""
 
-translate schinese Cane_Second_ba3981a3:
+translate schinese Cane_Second_20496e09:
 
-    # m "Welcome back to the Nocturnal Trunk, [e]. Ya remember my name?"
-    m ""
+    # my "Welcome back to the Nocturnal Trunk, [e]. Ya remember my name?"
+    my ""
 
 translate schinese Cane_Second_ec6d9d4d:
 
@@ -8913,10 +8913,10 @@ translate schinese Cane_NoMoney_No_7ad9c6e8:
     # c "Aye, remember to call ya lizard friend to come here often."
     c ""
 
-translate schinese Lothar_First_d191b8fe:
+translate schinese Lothar_First_02b27362:
 
-    # m "You are the outsider everyone has been talking about."
-    m ""
+    # my "You are the outsider everyone has been talking about."
+    my ""
 
 translate schinese Lothar_First_eb5d41a5:
 
@@ -8928,40 +8928,40 @@ translate schinese Lothar_First_2b40a022:
     # e "Huh?"
     e ""
 
-translate schinese Lothar_First_b43a4df0:
+translate schinese Lothar_First_a1e9b59c:
 
-    # m "I saw you yesterday. The goat. Are you not a goat?"
-    m ""
+    # my "I saw you yesterday. The goat. Are you not a goat?"
+    my ""
 
 translate schinese Lothar_First_98037a6e:
 
     # e "What are you talking about?"
     e ""
 
-translate schinese Lothar_First_6cac3218:
+translate schinese Lothar_First_336da625:
 
-    # m "Hmmmph... something like a dragon? with furs? Don't tell me you're a bull..."
-    m ""
+    # my "Hmmmph... something like a dragon? with furs? Don't tell me you're a bull..."
+    my ""
 
-translate schinese Lothar_First_eae7d5e7:
+translate schinese Lothar_First_78915c29:
 
-    # m "Whatever. Forget about it. Don't tell me."
-    m ""
+    # my "Whatever. Forget about it. Don't tell me."
+    my ""
 
 translate schinese Lothar_First_46b8308f:
 
     # e "I'm a dragon..."
     e ""
 
-translate schinese Lothar_First_6027e02a:
+translate schinese Lothar_First_79e988e5:
 
-    # m "Yes, dragon. Ole talked to me about you, those two in the shop wanted me, the hero of Lusterfield to train you. You must be something else, are you not?"
-    m ""
+    # my "Yes, dragon. Ole talked to me about you, those two in the shop wanted me, the hero of Lusterfield to train you. You must be something else, are you not?"
+    my ""
 
-translate schinese Lothar_First_e3ce02ee:
+translate schinese Lothar_First_660b31e4:
 
-    # m "So, I suppose you know who I am?" nointeract
-    m "" nointeract
+    # my "So, I suppose you know who I am?" nointeract
+    my "" nointeract
 
 translate schinese Lothar_Correct_4064657b:
 
@@ -10048,35 +10048,35 @@ translate schinese Lothar_Wrong_2a743721:
     # e "Uhhhh... Are you Rahim?"
     e ""
 
-translate schinese Lothar_Wrong_bd7e0298:
+translate schinese Lothar_Wrong_76bcb450:
 
-    # m "You-???"
-    m ""
+    # my "You-???"
+    my ""
 
 translate schinese Lothar_Wrong_d254360d:
 
     # "The wolf is getting visably irritated, almost threatening you in some way, until he calm down after a few seconds and let out a long sigh."
     ""
 
-translate schinese Lothar_Wrong_cb5e2288:
+translate schinese Lothar_Wrong_3cfbfa55:
 
-    # m "How the hell could you have mixed up with me and that Old Bull, Does he even look like a hero of Lusterfield?"
-    m ""
+    # my "How the hell could you have mixed up with me and that Old Bull, Does he even look like a hero of Lusterfield?"
+    my ""
 
-translate schinese Lothar_Wrong_420c659c:
+translate schinese Lothar_Wrong_75862f28:
 
-    # m "Alright then, now tell me, what's your name."
-    m ""
+    # my "Alright then, now tell me, what's your name."
+    my ""
 
 translate schinese Lothar_Wrong_d454165b:
 
     # e "My name is [e]."
     e ""
 
-translate schinese Lothar_Wrong_fd102fdb:
+translate schinese Lothar_Wrong_b951246f:
 
-    # m "Good. Good. The lizard told me about you. I'll just call you the goat now. Considering that you don't even know what a hero looks like."
-    m ""
+    # my "Good. Good. The lizard told me about you. I'll just call you the goat now. Considering that you don't even know what a hero looks like."
+    my ""
 
 translate schinese Lothar_Wrong_75c0a179:
 
@@ -10088,10 +10088,10 @@ translate schinese Lothar_Wrong_fb1313e9:
     # "You can smell the wolf's bitter scent from such a close distance, it doesn't even smell like he had bathed for a while. His bulging chests are almost touching yours."
     ""
 
-translate schinese Lothar_Wrong_25fb53c4:
+translate schinese Lothar_Wrong_47e9bfe1:
 
-    # m "You know me now?"
-    m ""
+    # my "You know me now?"
+    my ""
 
 translate schinese Lothar_Wrong_20fd191c:
 
@@ -10633,9 +10633,9 @@ translate schinese Lothar_Caravan_Stone_23c51416:
     # e "Hey, Lothar, what's wrong with the... stone. again?"
     e ""
 
-translate schinese Lothar_Caravan_Stone_a98ec76b:
+translate schinese Lothar_Caravan_Stone_583f0a40:
 
-    # l "Disciple, remember the caravan attack info you've gotten with Jog?"
+    # l "Disciple, remember the wagon attack info you've gotten with Jog?"
     l ""
 
 translate schinese Lothar_Caravan_Stone_61a065a5:

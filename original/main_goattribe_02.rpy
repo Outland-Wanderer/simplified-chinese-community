@@ -473,9 +473,9 @@ translate schinese Furkan_Ask_Goat_Tribe_332c558b:
     # e "Because you want to take over the ancient tree?"
     e ""
 
-translate schinese Furkan_Ask_Goat_Tribe_13dd74fe:
+translate schinese Furkan_Ask_Goat_Tribe_0aa353d2:
 
-    # f "No. Not take over, I only need to harvest those energy, and those Lusterfolks never used them anyway."
+    # f "No. Not take over, I only need to harvest those remaining energy, and those Lusterfolks never used them anyway."
     f ""
 
 translate schinese Furkan_Ask_Goat_Tribe_ddcb5e0d:

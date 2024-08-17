@@ -72,6 +72,9 @@
     old "Self-Voicing"
     new ""
 
+    old "Self-voicing support is limited when using a touch screen."
+    new ""
+
     old "Off"
     new ""
 
@@ -627,9 +630,6 @@
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
     new ""
 
-    old "Continue"
-    new ""
-
     old "Sync Error"
     new ""
 
@@ -862,9 +862,6 @@
     new ""
 
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new ""
-
-    old "Ignore"
     new ""
 
     old "Ignores the exception, allowing you to continue."

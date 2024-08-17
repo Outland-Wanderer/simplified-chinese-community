@@ -28,10 +28,10 @@ translate schinese Wuldon_First_Meet_b571a60d:
     # "Despite that, he himself blends in with the terrain itself as well, his blue fur and green cloak blending in with the blues and greens of the river and shrubs."
     ""
 
-translate schinese Wuldon_First_Meet_c537f55b:
+translate schinese Wuldon_First_Meet_0a09964e:
 
-    # m "Hello there little one."
-    m ""
+    # my "Hello there little one."
+    my ""
 
 translate schinese Wuldon_First_Meet_a57ae1fc:
 
@@ -48,20 +48,20 @@ translate schinese Wuldon_First_Meet_213b8cb6:
     # "The blue wolf turns around and reveals himself to be the one speaking to you."
     ""
 
-translate schinese Wuldon_First_Meet_56016ad2:
+translate schinese Wuldon_First_Meet_2260a624:
 
-    # m "Yes, hello. I hope you weren't trying to spy on me, as you would be a rather poor excuse for one if so."
-    m ""
+    # my "Yes, hello. I hope you weren't trying to spy on me, as you would be a rather poor excuse for one if so."
+    my ""
 
 translate schinese Wuldon_First_Meet_7f386407:
 
     # "There is a light grin playing across his face. It doesn't quite reach his eyes."
     ""
 
-translate schinese Wuldon_First_Meet_37b38953:
+translate schinese Wuldon_First_Meet_f9e4f048:
 
-    # m "You somehow managed to snap a twig under your foot with every step you took."
-    m ""
+    # my "You somehow managed to snap a twig under your foot with every step you took."
+    my ""
 
 translate schinese Wuldon_First_Meet_763173be:
 
@@ -78,20 +78,20 @@ translate schinese Wuldon_First_Meet_f05f2a0d:
     # "The wolf relaxes. Even so, he is still an entire head higher than you, far wider, and stronger."
     ""
 
-translate schinese Wuldon_First_Meet_e0eb08bb:
+translate schinese Wuldon_First_Meet_bd1c5c0e:
 
-    # m "It's no problem. I will need you to start paying if you ogle me any longer, though."
-    m ""
+    # my "It's no problem. I will need you to start paying if you ogle me any longer, though."
+    my ""
 
 translate schinese Wuldon_First_Meet_e19eeae9:
 
     # "He smirks."
     ""
 
-translate schinese Wuldon_First_Meet_0e6bbfa1:
+translate schinese Wuldon_First_Meet_7bdcd869:
 
-    # m "I don't think you could afford my rates."
-    m ""
+    # my "I don't think you could afford my rates."
+    my ""
 
 translate schinese Wuldon_First_Meet_805c0fc4:
 

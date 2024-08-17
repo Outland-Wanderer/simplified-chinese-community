@@ -708,9 +708,9 @@ translate schinese Kari_Goat_Practice_Win_0d9c3c74:
     # k "Not to be rude or doubt you, chieftain, but I was wondering the same."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_78669e6b:
+translate schinese Kari_Goat_Practice_Win_e54fa625:
 
-    # f "Well, you saved me... I can't think of something that should make me trust you more."
+    # f "Well, you saved me... I can't think of anything else that could make me trust you more."
     f ""
 
 translate schinese Kari_Goat_Practice_Win_3f9edfba:
@@ -738,9 +738,9 @@ translate schinese Kari_Goat_Practice_Win_cb01c37a:
     # f "Right, was getting to that."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_f9a9641d:
+translate schinese Kari_Goat_Practice_Win_8f27c0c1:
 
-    # f "You've already heard most of Kari's thoughts, but I'll let him elaborate."
+    # f "You have already heard most of Kari's thoughts, but I will let him elaborate."
     f ""
 
 translate schinese Kari_Goat_Practice_Win_84f0fb0c:
@@ -758,9 +758,9 @@ translate schinese Kari_Goat_Practice_Win_03b7e878:
     # k "I think we should keep our warriors trained and guarding the tree."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_666396c5:
+translate schinese Kari_Goat_Practice_Win_acd0992b:
 
-    # k "Protect the last source of magic the tribe has to our last breath, and through that, protect ourselves."
+    # k "Protect the last source of magic to our last breath, and through that, protect ourselves."
     k ""
 
 translate schinese Kari_Goat_Practice_Win_c5f6aeb4:
@@ -773,9 +773,9 @@ translate schinese Kari_Goat_Practice_Win_bea49471:
     # "He then turns to face Furkan, bowing slightly."
     ""
 
-translate schinese Kari_Goat_Practice_Win_d831a93f:
+translate schinese Kari_Goat_Practice_Win_c0bb195a:
 
-    # f "You know you don't have to do that, Kari."
+    # f "You know you do not have to do that, Kari."
     f ""
 
 translate schinese Kari_Goat_Practice_Win_b007bf71:
@@ -823,9 +823,9 @@ translate schinese Kari_Goat_Practice_Win_fd19fdec:
     # f "But we can survive without it for a while."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_03a23380:
+translate schinese Kari_Goat_Practice_Win_0d84860b:
 
-    # f "We will have to ration our magic, but we are already doing that."
+    # f "We will have to ration our magic, moreso than ever."
     f ""
 
 translate schinese Kari_Goat_Practice_Win_7a1c1d77:
@@ -878,9 +878,9 @@ translate schinese Kari_Goat_Practice_Win_8f419e88:
     # f "It is extremely unlikely, as we rarely visited."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_03ef5aa3:
+translate schinese Kari_Goat_Practice_Win_c673552e:
 
-    # f "Additionally, the guardians would have reacted and attacked anyone who wasn't of our tribe."
+    # f "Additionally, the guardians would have reacted and attacked anyone who was not of our tribe."
     f ""
 
 translate schinese Kari_Goat_Practice_Win_ac866a08:
@@ -1018,19 +1018,19 @@ translate schinese Kari_Goat_Practice_Win_28859260:
     # k "Well, I didn't want to say anything, as it wasn't something I had the right to tell my chieftain."
     k ""
 
-translate schinese Kari_Goat_Practice_Win_13bff1a2:
+translate schinese Kari_Goat_Practice_Win_b6a7fefb:
 
-    # f "Okay, then don't tell your chieftain."
+    # f "Okay, then do not tell your chieftain."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_62261545:
+translate schinese Kari_Goat_Practice_Win_ddbb3d0a:
 
-    # f "Tell a fellow tribesman, Kari. I haven't always been chieftain, nor you my general."
+    # f "Tell a fellow tribesman, Kari. I have not always been chieftain, nor you my general."
     f ""
 
-translate schinese Kari_Goat_Practice_Win_d48ddbb0:
+translate schinese Kari_Goat_Practice_Win_304724b9:
 
-    # f "I value your opinion as an equal, even if we are not so, politically."
+    # f "I value your opinion as an equal, even if we are not so."
     f ""
 
 translate schinese Kari_Goat_Practice_Win_4d75b5b4:
@@ -1798,10 +1798,10 @@ translate schinese Kechioeren_Enter_32636830:
     # "He doesn't speak much, only staggering towards you while holding his scepter for balance."
     ""
 
-translate schinese Kechioeren_Enter_66c99cf4:
+translate schinese Kechioeren_Enter_655602f9:
 
-    # m "Who- is this you say?"
-    m ""
+    # my "Who- is this you say?"
+    my ""
 
 translate schinese Kechioeren_Enter_e6a163e8:
 
@@ -2078,15 +2078,15 @@ translate schinese Kechioeren_Enter_30af2a64:
     # goatguard "You moron."
     goatguard ""
 
-translate schinese Kechioeren_Enter_6d1d2d28:
+translate schinese Kechioeren_Enter_6ddc9df5:
 
-    # m "Hmm..."
-    m ""
+    # my "Hmm..."
+    my ""
 
-translate schinese Kechioeren_Enter_bd8ab6e9:
+translate schinese Kechioeren_Enter_de50df7e:
 
-    # m "Let's bring him back to our place."
-    m ""
+    # my "Let's bring him back to our place."
+    my ""
 
 translate schinese Kechioeren_Enter_799c699b:
 
@@ -4298,10 +4298,10 @@ translate schinese Furkan_First_Meet_a7948122:
     # "The bell ringing is getting louder and louder with each seconds passing, you are completely stunned looking at the arrow, unaware of the mysterious figure approaching you."
     ""
 
-translate schinese Furkan_First_Meet_14bffc05:
+translate schinese Furkan_First_Meet_9163dd5f:
 
-    # m "Who are you. You are not from our tribe, are you?"
-    m ""
+    # my "Who are you. You are not from our tribe, are you?"
+    my ""
 
 translate schinese Furkan_First_Meet_fdb07aee:
 
@@ -4313,10 +4313,10 @@ translate schinese Furkan_First_Meet_6a3ed3f2:
     # e "Uh, Can you put your weapon down...?"
     e ""
 
-translate schinese Furkan_First_Meet_78a6373e:
+translate schinese Furkan_First_Meet_150f2955:
 
-    # m "I can kill you here right now. Last chance. Who are you?"
-    m ""
+    # my "I can kill you here right now. Last chance. Who are you?"
+    my ""
 
 translate schinese Furkan_First_Meet_0cb9d1e7:
 
@@ -4328,20 +4328,20 @@ translate schinese Furkan_First_Meet_11f9bacb:
     # e "I- uhh... I'm [e]."
     e ""
 
-translate schinese Furkan_First_Meet_78d17fe4:
+translate schinese Furkan_First_Meet_c031e0d4:
 
-    # m "Where are you from."
-    m ""
+    # my "Where are you from."
+    my ""
 
 translate schinese Furkan_First_Meet_62159bf5:
 
     # e "I am from Puro, uhhh... I live in Lusterfield now."
     e ""
 
-translate schinese Furkan_First_Meet_52f47dca:
+translate schinese Furkan_First_Meet_c18a18fa:
 
-    # m "The village?"
-    m ""
+    # my "The village?"
+    my ""
 
 translate schinese Furkan_First_Meet_74db1a7f:
 
@@ -4353,40 +4353,40 @@ translate schinese Furkan_First_Meet_45505039:
     # "You notice the ram is slightly lowering his bow now, but still he doesn't let go, instead he asks you another question."
     ""
 
-translate schinese Furkan_First_Meet_007813db:
+translate schinese Furkan_First_Meet_173c5536:
 
-    # m "Why are you here?"
-    m ""
+    # my "Why are you here?"
+    my ""
 
 translate schinese Furkan_First_Meet_6638345c:
 
     # e "I'm out adventuring."
     e ""
 
-translate schinese Furkan_First_Meet_71d491a9:
+translate schinese Furkan_First_Meet_cf97e9a7:
 
-    # m "You know about the ritual, do you not?"
-    m ""
+    # my "You know about the ritual, do you not?"
+    my ""
 
 translate schinese Furkan_First_Meet_84e218a7:
 
     # e "U-uh? Look I don't know who you are. Just let me go and you'll not see me here again."
     e ""
 
-translate schinese Furkan_First_Meet_c41fca9d:
+translate schinese Furkan_First_Meet_c0ae43f5:
 
-    # m "I need to talk to your chief."
-    m ""
+    # my "I need to talk to your chief."
+    my ""
 
 translate schinese Furkan_First_Meet_943c3c4d:
 
     # e "Uhh... who?"
     e ""
 
-translate schinese Furkan_First_Meet_383867a4:
+translate schinese Furkan_First_Meet_d0ccc550:
 
-    # m "The Bull, Rahim. I have something to discuss with him."
-    m ""
+    # my "The Bull, Rahim. I have something to discuss with him."
+    my ""
 
 translate schinese Furkan_First_Meet_b39357d8:
 
@@ -4398,10 +4398,10 @@ translate schinese Furkan_First_Meet_59256155:
     # "You see the figure rest his bow, putting away his arrows. You breath a sigh of relief, at least you made it out alive."
     ""
 
-translate schinese Furkan_First_Meet_85c344db:
+translate schinese Furkan_First_Meet_a626f768:
 
-    # m "I'm Furkan. Chieftain of the Goat Tribe."
-    m ""
+    # my "I'm Furkan. Chieftain of the Goat Tribe."
+    my ""
 
 translate schinese Furkan_First_Meet_39c4c2b0:
 

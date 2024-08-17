@@ -1,6 +1,6 @@
-﻿translate schinese Puro_Beginning_Talk_a0c7c83d:
+﻿translate schinese Puro_Beginning_Talk_4ec3f431:
 
-    # "Both of you are sitting in the elder's tent, the only light source is the lantern on Hezzong's hand."
+    # "Both of you are sitting in the elder's tent, the lantern on Hezzong's hand glows faintly."
     ""
 
 translate schinese Puro_Beginning_Talk_8c058a9f:
@@ -73,9 +73,9 @@ translate schinese Puro_Beginning_Talk_2d915fc9:
     # hz "Mhmm... just to make sure, I will tell you again."
     hz ""
 
-translate schinese Puro_Beginning_Talk_dfd76625:
+translate schinese Puro_Beginning_Talk_32613232:
 
-    # hz "As a watcher, you have to keep the tribe safe at night, and keep those sprite from ever entering our place."
+    # hz "As a watcher, you have to keep the tribe safe at night, and keep those sprites from ever entering our place."
     hz ""
 
 translate schinese Puro_Beginning_Talk_ed59b27a:
@@ -693,11 +693,6 @@ translate schinese Puro_Get_Onto_Watchtower_31d47b24:
     # yu "I guess this way I'll know it when the light comes back again."
     yu ""
 
-translate schinese Puro_Get_Onto_Watchtower_72c947bd:
-
-    # "The night is quiet, the moon is shining bright, and the stars are twinkling in the sky."
-    ""
-
 translate schinese Puro_Get_Onto_Watchtower_6db723d3:
 
     # "You have been waiting for a while, but nothing seems to be happening."
@@ -853,9 +848,9 @@ translate schinese Puro_Watchtower_Thoughts_a20cefa7_1:
     # "..."
     ""
 
-translate schinese Puro_Watchtower_Thoughts_f3cf1a24:
+translate schinese Puro_Watchtower_Thoughts_3690c817:
 
-    # "You fell asleep, right the table."
+    # "You fell asleep, right on the table."
     ""
 
 translate schinese Puro_Watchtower_Thoughts_43a3e05c_1:
@@ -1002,6 +997,11 @@ translate schinese Encountering_Moine_ec4eeee1:
 
     # yu "Wait... wasn't I on the tower?"
     yu ""
+
+translate schinese Encountering_Moine_674a38b4:
+
+    # "You look around, and you can see the trees, the sky, and the moon, but you can't see the tower you were just sleeping in seconds ago."
+    ""
 
 translate schinese Encountering_Moine_74f5f505:
 
@@ -1958,9 +1958,6 @@ translate schinese strings:
     old "Ask about the training"
     new ""
 
-    old "That's it for now"
-    new ""
-
     old "It was a perfect night, but there is one thing missing..."
     new ""
 
@@ -1968,6 +1965,9 @@ translate schinese strings:
     new ""
 
     old "{s}Hezzong{/s}"
+    new ""
+
+    old "Sleep{#faa5aba2}"
     new ""
 
     old "Maybe, a nap is necessary."

@@ -32,13 +32,19 @@ translate schinese strings:
     old "Current Level: [hovered_item.level]"
     new ""
 
-    old "Level Up Cost:"
+    old "Dynamic Potions"
     new ""
 
-    old "Level Up"
+    old "Level Up Ingredients:"
+    new ""
+
+    old "{s}Level Up{s}"
     new ""
 
     old "The item's level is currently maxed!"
+    new ""
+
+    old "Level Up"
     new ""
 
     old "You have insufficient ingredients."

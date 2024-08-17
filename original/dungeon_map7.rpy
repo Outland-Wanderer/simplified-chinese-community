@@ -348,6 +348,11 @@ translate schinese Bandit_Encounter_Bandit_bf39400a:
     # bd "Well, at least you're smart knowing you can't escape from us."
     bd ""
 
+translate schinese Bandit_Encounter_Bandit_0534db65:
+
+    # "For some reason, the bandits releases you from their camp, perhaps they still have a little conscience towards someone... as {i}pure{/i} as you."
+    ""
+
 translate schinese Bandit_Encounter_Bandit_4550fc3c:
 
     # "And when you wake up from the darkness, you're already out of the bandit's hideouts."

@@ -35,7 +35,7 @@ translate schinese strings:
     old "Bear Chief"
     new ""
 
-    old "Kauhu"
+    old "Kaurhu"
     new ""
 
     old "Minotaur"
@@ -90,6 +90,9 @@ translate schinese strings:
     new ""
 
     old "Wuldon"
+    new ""
+
+    old "Methis"
     new ""
 
     old "Rahim"
@@ -173,16 +176,16 @@ translate schinese strings:
     old "A small blue potion that replenishes the user's MP for a small amount."
     new ""
 
+    old "Orbs"
+    new ""
+
+    old "Spectral Orbs: {p} Target's next attack will heal based on the number of orbs."
+    new ""
+
     old "Small HP Potion"
     new ""
 
-    old "A normal HP Potion that recovers 40 HP."
-    new ""
-
     old "Small MP Potion"
-    new ""
-
-    old "A normal MP Potion that recovers 40 MP."
     new ""
 
     old "Red Berry"
@@ -239,6 +242,12 @@ translate schinese strings:
     old "A Potion that can increase drinker's both defenses by 40 for 2 rounds."
     new ""
 
+    old "Snow Berry"
+    new ""
+
+    old "A white berry collected from the snow region, the fact that it survives through the hard winter proves its high nutrition value. Consuming it can recover a significant amount of HP and MP."
+    new ""
+
     old "Iron Axe"
     new ""
 
@@ -248,7 +257,7 @@ translate schinese strings:
     old "Iron Sword"
     new ""
 
-    old "The most common type of sword among adventurers. Even the heroes uses it."
+    old "The most common type of sword among adventurers. Even the most legendary heroes bring it to battles."
     new ""
 
     old "Short Sword"
@@ -495,5 +504,8 @@ translate schinese strings:
     new ""
 
     old "An impassionate leggings of a renowned bard, the stretchy and tight materials wraps around the wearer perfectly to display his charming physique."
+    new ""
+
+    old "Rahim told me that Lusterfield will hold a vote to decide of they will form an accord with the Goat Tribe. The voting ends in 7 days."
     new ""
 

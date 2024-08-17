@@ -1,4 +1,99 @@
-﻿translate schinese Gwyddyon_First_Meet_5e0f1bd5:
+﻿translate schinese main_ardent_cauldron_ab7c30eb:
+
+    # "A poster of the progress of mossy rocks coming to life after pouring the flowing water from a special basin."
+    ""
+
+translate schinese main_ardent_cauldron_bfc5352d:
+
+    # "It seems to be what created the moss guardians in the past. But the graph explicitly says that a long growth cycle is needed to raise a guardians, which includes an extensive amount of flowing water."
+    ""
+
+translate schinese main_ardent_cauldron_2ab7ac54:
+
+    # e "Gwyd, is what the poster behind you true?"
+    e ""
+
+translate schinese main_ardent_cauldron_d6467519:
+
+    # g "Ah yes, so this is why you were staring at me for so long, wanderer."
+    g ""
+
+translate schinese main_ardent_cauldron_eede159f:
+
+    # g "You can say, the guardians comes from water dripped from some stones, onto some stones, and moss grows on the stones, which gives life to these, stones."
+    g ""
+
+translate schinese main_ardent_cauldron_efe94710:
+
+    # g "And these stones, guarded the magical stone which gives it sustenance in return, until said stone was stolen, and the guardians just went for the closest source of the flowing water."
+    g ""
+
+translate schinese main_ardent_cauldron_b1c473c9:
+
+    # g "Now, imagine the general consulted me when they went searching for the chief."
+    g ""
+
+translate schinese main_ardent_cauldron_911c6cfb:
+
+    # e "That doesn't sound, logical?"
+    e ""
+
+translate schinese main_ardent_cauldron_77f04980:
+
+    # g "Nothing in a magical world is logical, wanderer, though I suppose you aren't one familiar."
+    g ""
+
+translate schinese main_ardent_cauldron_c3c28b12:
+
+    # g "These are one of the more fascinating creatures of Mokken, the other ones are the mimics, which are just pesky fellows pretending to hide precious gems and crystals."
+    g ""
+
+translate schinese main_ardent_cauldron_2f8b4d12:
+
+    # e "It sounds like you got into some troubles with the mimics."
+    e ""
+
+translate schinese main_ardent_cauldron_ee3f1300:
+
+    # g "Who doesn't. But, if you're one experienced adventurer, wanderer. You just have to slip away when it tries to strangle hold you with its tongue."
+    g ""
+
+translate schinese main_ardent_cauldron_04c4896e:
+
+    # g "Afterall, it's just pure inconvenience when you get trapped inside."
+    g ""
+
+translate schinese main_ardent_cauldron_1a52acb1:
+
+    # "A magical diagram of a rather ambiguous face, with descriptions on the bottom of the poster, you wonder if it has anything to do with the runes."
+    ""
+
+translate schinese main_ardent_cauldron_4dc680bd:
+
+    # e "Gwyd, what's this? Can you translate it for me?"
+    e ""
+
+translate schinese main_ardent_cauldron_2de2115c:
+
+    # g "Ah, that's just the wanted poster for the thief who stole the primordial runes."
+    g ""
+
+translate schinese main_ardent_cauldron_db0a830d:
+
+    # g "It was such a long time ago, the chief had already gave up on the chase, but I didn't bother to take it down, let's just say the thief's still out there somewhere."
+    g ""
+
+translate schinese main_ardent_cauldron_14a774a7:
+
+    # "A crawler plant that's been growing in the shop, it's a rare sight to see one thriving on top of the shelves."
+    ""
+
+translate schinese main_ardent_cauldron_3185d26d:
+
+    # "You've seen these plants before, they're usually found in the dark forest, and they're known to grow everywhere, even in the most unlikely places."
+    ""
+
+translate schinese Gwyddyon_First_Meet_5e0f1bd5:
 
     # "You stumble inside the magical structure, it is much bigger than what you saw from outside."
     ""
@@ -2223,9 +2318,9 @@ translate schinese Gwyddyon_Voting_Trade_6848bdf1:
     # e "So, how did losing the primordial runes affect your shop?"
     e ""
 
-translate schinese Gwyddyon_Voting_Trade_5b151175:
+translate schinese Gwyddyon_Voting_Trade_83f8b8bb:
 
-    # g "Hugely, there were a lot more folks interested in our potions before the whole debacle. Not anymore, now people are looking into potions, and moreso ranged weapons."
+    # g "Hugely, there were a lot more folks interested in our magics before the whole debacle. Not anymore, now people are looking into potions, and moreso ranged weapons."
     g ""
 
 translate schinese Gwyddyon_Voting_Trade_865b0fb0:
@@ -2394,9 +2489,6 @@ translate schinese strings:
     new ""
 
     old "What caused you to be this petty"
-    new ""
-
-    old "Check out the shop"
     new ""
 
     old "Ask about his rocks"
