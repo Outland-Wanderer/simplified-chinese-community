@@ -38,7 +38,7 @@
 
     简体中文翻译：逆戟鲸COPtimer {a=https://twitter.com/COPtimer_1974}Twitter{/a}、Dcl5、机器熊猫
 
-    使用字体： Adobe Garamond Pro、Adobe Chaparral Pro、文鼎ＰＬ简中楷、文鼎ＰＬ中楷、霞鹜文楷、千图雪花体、思源黑体、思源宋体
+    使用字体：Adobe Garamond Pro、Adobe Chaparral Pro、文鼎ＰＬ简中楷、文鼎ＰＬ中楷、霞鹜文楷、千图雪花体、思源黑体、思源宋体、全字库正楷体、润植家康熙字典美化体
 
     """)
 

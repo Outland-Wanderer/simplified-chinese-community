@@ -109,18 +109,6 @@ translate schinese strings:
     old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT. Costs 10 MP."
     new "根据你的智慧属性值对敌方所有成员施加伤害与灼烧效果。消耗 10 点魔力。"
 
-    # old "Piercing Blow"
-    # new ""
-
-    # old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI. Costs 35 MP"
-    # new ""
-
-    # old "Tranquil Mend"
-    # new ""
-
-    # old "Tranquil Mend: {p} For the next 3 rounds, all allies are healed for an increased amount based on your TEN and INT. Costs 40 MP."
-    # new ""
-
     #物品-标本
 
     old "Lindbloom"
@@ -150,15 +138,6 @@ translate schinese strings:
     old "Found around the magical pond, the trinket hidden in the pond can be summoned by a mixture of a bovine's essence and the magical flowing water."
     new "可以在一座神奇的池塘周围找到，不过它深藏水中，需要将神牛精华混进池水才能召唤出这朵曼陀罗花。"
 
-    # old "Eversprout"
-    # new ""
-
-    # old "A Trinket that heals and enhances your maximum health by every turn, but your initial health are lowered."
-    # new ""
-
-    # old "Found hidden in the forest, one must be perceptive to spot a sprout spirit's journey from the great waterfall, consecutively in four locations."
-    # new ""
-
     #物品-摄入品
 
     old "Small HP Potion"
@@ -167,16 +146,25 @@ translate schinese strings:
     old "An HP Potion that recovers 40 HP."
     new "喝下可以恢复 40 点体力。"
 
+    old "A small red potion that replenishes the user's HP for a small amount."
+    new "喝下可以恢复少量体力。"
+
     old "Small MP Potion"
     new "小补魔剂"
 
     old "An MP Potion that recovers 40 MP."
     new "喝下可以恢复 40 点魔力。"
 
+    old "A small blue potion that replenishes the user's MP for a small amount."
+    new "喝下可以恢复少量魔力。"
+
     old "Red Berry"
     new "红莓"
 
     old "A red berry I collected from the forest area, it can recover 10 HP."
+    new "从森林里摘的红色浆果，吃下可以恢复 10 点体力。"
+
+    old "A red berry collected from the forest area, it can recover 10 HP."
     new "从森林里摘的红色浆果，吃下可以恢复 10 点体力。"
 
     old "Blue Berry"
@@ -185,10 +173,16 @@ translate schinese strings:
     old "A blue berry I collected from the forest area, it can recover 10 MP."
     new "从森林里摘的蓝色浆果，吃下可以恢复 10 点魔力。"
 
+    old "A blue berry collected from the forest area, it can recover 10 MP."
+    new "从森林里摘的蓝色浆果，吃下可以恢复 10 点魔力。"
+
     old "Golden Berry"
     new "金莓"
 
     old "A golden berry I collected from the forest area, it reduces 5 Lust."
+    new "从森林里摘的金色浆果，吃下可以消减 5 点性欲。"
+
+    old "A golden berry collected from the forest area, it reduces 5 Lust."
     new "从森林里摘的金色浆果，吃下可以消减 5 点性欲。"
 
     old "Strength Potion"
@@ -201,31 +195,28 @@ translate schinese strings:
     new "绿色药膏"
 
     old "An Ointment with recipe created by Ole, it can recover 80 HP and MP each, reduces 30 Lust, and cleanse all negative effect during battle."
-    new "由奥利制作的药膏，敷上可以恢复 80 点体力和 80 点魔力，还可以消减 30 点性欲并消除所有负面状态。"
+    new "由奥利制作的药膏，敷上可以消除所有负面状态，只能在战斗中使用。"
 
-    # old "Accuracy Potion"
-    # new ""
-
-    # old "A Potion that can increase drinker's Accuracy by 20 for 2 rounds."
-    # new ""
-
-    # old "Tenacity Potion"
-    # new ""
-
-    # old "A Potion that can increase drinker's both defenses by 40 for 2 rounds."
-    # new ""
+    old "An Ointment with recipe created by Ole, it can cleanse all negative effect during battle."
+    new "由奥利制作的药膏，敷上可以消除所有负面状态，只能在战斗中使用。"
 
     old "Beer"
     new "淡啤酒"
 
     old "The Famous Beer from Nocturnal Trunk, it recovers 15 HP, but increases Lust by 20 as well."
-    new "夜夜椿的有名特产，喝下可以恢复 15 点体力，但会增加 20 点性欲。"
+    new "夜夜椿的有名特产。"
+
+    old "The Famous Beer from Nocturnal Trunk."
+    new "夜夜椿的有名特产。"
 
     old "Ale"
     new "黑啤酒"
 
     old "The new addition of beer in Nocturnal Trunk, it recoveres 40 HP and 40 MP, but increases Lust by 20 as well."
-    new "夜夜椿的当红新品，喝下可以恢复 40 点体力和 40 点魔力，但会增加 20 点性欲。"
+    new "夜夜椿的当红新品。"
+
+    old "The new addition of beer in Nocturnal Trunk."
+    new "夜夜椿的当红新品。"
 
     #物品-武器
 
@@ -233,67 +224,82 @@ translate schinese strings:
     new "铁斧"
 
     old "An axe designed specifically for battles, most fighter use it for its popularity and damage. {p} Attack: +15 "
-    new "专为对战锻造的斧头，挥挥致命，好评如潮，因而为大多数战士所把持。{p}攻击 +15"
+    new "专为对战锻造的斧头，挥挥致命，好评如潮，因而为大多数战士所把持。"
+
+    old "An axe designed specifically for battles, most fighter use it for its popularity and damage."
+    new "专为对战锻造的斧头，挥挥致命，好评如潮，因而为大多数战士所把持。"
 
     old "Iron Sword"
     new "铁剑"
 
-    old "The most common type of sword among adventurers. Even the heroes uses it. {p} Attack: +12 {p} Accuracy: +5 "
-    new "冒险家几乎人手一把，甚至也是不少英雄的武器。{p}攻击 +12{p}命中率 +5"
+    old "The most common type of sword among adventurers. Even the most legendary heroes bring it to battles. {p} Attack: +12 {p} Accuracy: +5 "
+    new "冒险家几乎人手一把，甚至是不少传奇英雄征战沙场的爱用武器。"
+
+    old "The most common type of sword among adventurers. Even the most legendary heroes bring it to battles."
+    new "冒险家几乎人手一把，甚至是不少传奇英雄征战沙场的爱用武器。"
 
     old "Short Sword"
     new "短剑"
 
     old "A short sword I brought from my Tribe.{p} Attack: +5 {p} Accuracy: +2 "
-    new "我从家乡带走的武器。{p}攻击 +5{p}命中率 +2"
+    new "我从家乡带走的武器。"
+
+    old "A short sword I brought from my Tribe."
+    new "我从家乡带走的武器。"
 
     old "Small Axe"
     new "木斧"
 
     old "A small axe used for chopping woods, and probably fighting. {p} Attack: +7 "
-    new "用来砍树的小斧头，应该也可以用来防身。{p}攻击 +7"
+    new "用来砍树的小斧头，应该也可以用来防身。"
+
+    old "A small axe used for chopping woods, and probably fighting."
+    new "用来砍树的小斧头，应该也可以用来防身。"
 
     old "Iron Scythe"
     new "铁镰"
 
     old "A scythe best used for harvesting barley and wheat in the field.{p} Attack: +8 {p} Max HP: +15"
-    new "下田时最适合用来收割大麦和小麦的农具。{p}攻击 +8{p}最大体力 +15"
+    new "下田时最适合用来收割大麦和小麦的农具。"
+
+    old "A scythe best used for harvesting barley and wheat in the field."
+    new "下田时最适合用来收割大麦和小麦的农具。"
 
     old "Knight Longsword"
     new "骑士长剑"
 
     old "A longsword of a knight used to strike down any enemy in the battle.{p} Attack: +15 {p} STR: +2"
-    new "骑士冲破千军万马用的武器。{p}攻击 +15{p}力量 +2"
+    new "骑士冲破千军万马用的武器。"
+
+    old "A longsword of a knight used to strike down any enemy in the battle."
+    new "骑士冲破千军万马用的武器。"
 
     old "Hunting Bow"
     new "狩猎弓"
 
     old "A specialty bow carved by a hunter, best used for swift movement and aim. {p} Attack: +18 {p} AGI: +1 {p} Accuracy: +8"
-    new "由某位猎人专门打造的弓箭，最能适应需要快速移动和精确瞄准的使用场景。{p}攻击 +18{p}敏捷 +1{p}命中率 +8"
+    new "由某位猎人专门打造的弓箭，最能适应需要快速移动和精确瞄准的使用场景。"
+
+    old "A specialty bow carved by a hunter, best used for swift movement and aim."
+    new "由某位猎人专门打造的弓箭，最能适应需要快速移动和精确瞄准的使用场景。"
 
     old "Wooden Bow"
     new "木弓"
 
     old "A simplistic wooden bow, fairly lightweight and easy to handle. {p} Attack: +7 {p} Accuracy: +5"
-    new "简简单单的一把弓箭，轻巧易用。{p}攻击 +7{p}命中率 +5"
+    new "简简单单的一把弓箭，轻巧易用。"
+
+    old "A simplistic wooden bow, fairly lightweight and easy to handle."
+    new "简简单单的一把弓箭，轻巧易用。"
 
     old "Small Trowel"
     new "小铲子"
 
     old "A small hand tool most used for digging in a garden, smoothing or spreading mortar. {p} Attack: +4"
-    new "一种小手工具，多用于花园铲土或者抹平抹开砂浆。{p}攻击 +4"
+    new "一种小手工具，多用于花园铲土或者抹平抹开砂浆。"
 
-    # old "Copper Pickaxe"
-    # new ""
-
-    # old "An old pickaxe that the werewolf miners used, could be too fragile for long term usage. {p} Attack: +4"
-    # new ""
-
-    # old "Tribal Spear"
-    # new ""
-
-    # old "A long spear crafted by a tribe, the magical power within gives its user an unusual boost. {p} Attack: +10 {p} INT: +1 {p} Max MP: +15"
-    # new ""
+    old "A small hand tool most used for digging in a garden, smoothing or spreading mortar."
+    new "一种小手工具，多用于花园铲土或者抹平抹开砂浆。"
 
     #物品-穿戴品
 
@@ -301,79 +307,118 @@ translate schinese strings:
     new "部落遮裆布"
 
     old "A loincloth that I was wearing in the tribe.{p} Defense: +5 {p} Flirt -5 "
-    new "我还在家乡时穿的内裤。{p}防御 +5{p}诱惑 -5"
+    new "普罗部落款式的内裤。"
+
+    old "A loincloth from the Tribe Puro."
+    new "普罗部落款式的内裤。"
 
     old "Tribe Necklace"
     new "部落项链"
 
     old "A skull necklace that represents my own tribe.{p} Defense: +4 {p} Attack: +2 "
-    new "一条带有骷髅头的首饰，代表了我的部落。{p}防御 +4{p}攻击 +2"
+    new "一条带有骷髅头的普罗部落首饰。"
+
+    old "A skull necklace from the Tribe Puro."
+    new "一条带有骷髅头的普罗部落首饰。"
 
     old "Lion Charm"
     new "雄狮公仔"
 
     old "A Lion Charm made by Sebas, he told me it brings luck.{p} Defense: +5 {p} Dodge Rate: +2"
-    new "塞巴斯做的小狮子公仔，他说带着它能好运连连。{p}防御 +5{p}闪避 +2"
+    new "塞巴斯做的小狮子公仔，他说带着它能好运连连。"
+
+    old "A Lion Charm made by Sebas."
+    new "塞巴斯做的小狮子公仔，他说带着它能好运连连。"
 
     old "Courier Badge"
     new "邮差徽章"
 
     old "A badge given by Ole, to declare me as the courier of lusterfield. {p} Defense: +4"
-    new "奥利送给我的徽章，用来证明我是乐斯民菲尔德的邮递员。{p}防御 +4"
+    new "奥利送给我的徽章，用来证明我是乐斯民菲尔德的邮递员。"
+
+    old "A badge given by Ole, as a symbol of the courier of lusterfield."
+    new "奥利送给我的徽章，用来证明我是乐斯民菲尔德的邮递员。"
 
     old "Slime Necklace"
     new "史莱姆项链"
 
     old "A Necklace with a slime crystal imbedded into the golden frame. {p} CHA: +1 {p} Lust Resistance: +5 {p} Flirt: +2"
-    new "一条镶嵌了史莱姆晶核的金边项链。{p}魅力 +1{p}诱惑抗性 +5{p}诱惑 +2"
+    new "一条镶嵌了史莱姆晶核的金边项链。"
+
+    old "A Necklace with a slime crystal imbedded into the golden frame."
+    new "一条镶嵌了史莱姆晶核的金边项链。"
 
     old "Torn Tavern Apron"
     new "破了的酒馆围裙"
 
     old "The Apron that Cane gifts his first server. It's torn currently. I should put it on whenever I work in the Tavern. {p} Defense: +5 {p} Lust Resistance: +5 {p} Flirt -4"
-    new "凯恩赠予他手下第一个服务员的围裙，现在破了个洞。在酒馆工作时必须穿上。{p}防御 +5{p}诱惑抗性 +5{p}诱惑 -4"
+    new "凯恩赠予他手下第一个服务员的围裙，现在破了个洞。在酒馆工作时必须穿上。"
+
+    old "The Apron that Cane gifts his first server. It's torn currently. I should put it on whenever I work in the Tavern."
+    new "凯恩赠予他手下第一个服务员的围裙，现在破了个洞。在酒馆工作时必须穿上。"
 
     old "Tavern Apron"
     new "酒馆围裙"
 
     old "The Apron that Cane gifts his first server. It has been patched up. I should put it on whenever I work in the Tavern. {p} Defense: +8 {p} Lust Resistance: +8 {p} Flirt -4"
-    new "凯恩赠予他手下第一个服务员的围裙，破洞已经补好了。在酒馆工作时必须穿上。{p}防御 +8{p}诱惑抗性 +8{p}诱惑 -4"
+    new "凯恩赠予他手下第一个服务员的围裙，破洞已经补好了。在酒馆工作时必须穿上。"
+
+    old "The Apron that Cane gifts his first server. It has been patched up. I should put it on whenever I work in the Tavern."
+    new "凯恩赠予他手下第一个服务员的围裙，破洞已经补好了。在酒馆工作时必须穿上。"
 
     old "Plain Tunic"
     new "朴素长袍"
 
     old "A plain tunic, comfortable to wear but too limpy to provide much protection. {p} Defense: +3 {p} Lust Resistance: +2 {p} Flirt -5."
-    new "一件普通的长袍，虽然穿起来挺舒服的，但因为太单薄所以接不下什么攻击。{p}防御 +3{p}诱惑抗性 +2{p}诱惑 -5"
+    new "一件普通的长袍，虽然穿起来挺舒服的，但因为太单薄所以接不下什么攻击。"
+
+    old "A plain tunic, comfortable to wear but too limpy to provide much protection."
+    new "一件普通的长袍，虽然穿起来挺舒服的，但因为太单薄所以接不下什么攻击。"
 
     old "Bandana"
     new "花头巾"
 
     old "A piece of cloth tied around the head of the wearer, usually promises good luck. {p} Defense: +7 {p} Dodge: +5 {p} Flirt -2"
-    new "一块用来绑在头上的方形毛巾，寓意吉星高照。{p}防御 +7{p}闪避 +5{p}诱惑 -2"
+    new "一块用来绑在头上的方形毛巾，寓意吉星高照。"
+
+    old "A piece of cloth tied around the head of the wearer, usually promises good luck."
+    new "一块用来绑在头上的方形毛巾，寓意吉星高照。"
 
     old "Flowy Robe"
     new "飘逸长袍"
 
     old "One of the outfit from Rahim, a soft piece of garment designed for casual settings. {p} Defense: +3 {p} Max MP +20 {p} Flirt -2"
-    new "由雷希姆制作的柔软服装，为日常穿着场景而设计。{p}防御 +3{p}最大魔力 +20{p}诱惑 -2"
+    new "由雷希姆制作的柔软服装，为日常穿着场景而设计。"
+
+    old "One of the outfit from Rahim, a soft piece of garment designed for casual settings."
+    new "由雷希姆制作的柔软服装，为日常穿着场景而设计。"
 
     old "Adventurer Armor"
     new "探险家盔甲"
 
     old "One of the outfit from Rahim, a collection of straps designed for those who frequent adventures. {p} Defense: +11 {p} Accuracy +5 {p} Flirt -5"
-    new "由雷希姆制作的条带衣，为频繁历险场景而设计。{p}防御 +11{p}命中率 +5{p}诱惑 -5"
+    new "由雷希姆制作的条带衣，为频繁历险场景而设计。"
+
+    old "One of the outfit from Rahim, a collection of straps designed for those who frequent adventures."
+    new "由雷希姆制作的条带衣，为频繁历险场景而设计。"
 
     old "Tavern Cloth"
     new "酒馆抹布"
 
     old "One of the outfit from Rahim...? A piece of Cloth, for cleaning purposes in the Tavern. {p} Defense: +2"
-    new "用来清理酒馆吧台或者桌面的抹布。大概也是雷希姆做的……吧？{p}防御 +2"
+    new "用来清理酒馆吧台或者桌面的抹布。大概也是雷希姆做的……吧？"
+
+    old "One of the outfit from Rahim...? A piece of Cloth, for cleaning purposes in the Tavern."
+    new "用来清理酒馆吧台或者桌面的抹布。大概也是雷希姆做的……吧？"
 
     old "Tavern Chaps"
     new "酒馆皮套裤"
 
     old "One of the outfit from Rahim, an elegantly seamed pants with a hole in the crotch area, apparently for working in the Tavern. {p} Defense: +7 {p} Flirt +5 {p}"
-    new "由雷希姆制作的裤子，裆部线迹精美，还留了一个洞出来，显然是为酒馆工作场景而设计的。{p}防御 +7{p}诱惑 +5"
+    new "由雷希姆制作的裤子，裆部线迹精美，还留了一个洞出来，显然是为酒馆工作场景而设计的。"
+
+    old "One of the outfit from Rahim, an elegantly seamed pants with a hole in the crotch area, apparently for working in the Tavern."
+    new "由雷希姆制作的裤子，裆部线迹精美，还留了一个洞出来，显然是为酒馆工作场景而设计的。"
 
     old "Flowy Wrap"
     new "飘逸披肩"
@@ -391,13 +436,19 @@ translate schinese strings:
     new "猎人帽"
 
     old "A hat left by a Hunter in the forest, with a few feathers on the side as a sign of bravery. {p} Defense: +5 {p} Accuracy: +5 {p} Flirt -2"
-    new "某位猎人落在森林的帽子，帽檐的羽毛象征着勇敢。{p}防御 +5{p}命中率 +5{p}诱惑 -2"
+    new "某位猎人落在森林的帽子，帽檐的羽毛象征着勇敢。"
+
+    old "A hat left by a Hunter in the forest, with a few feathers on the side as a sign of bravery."
+    new "某位猎人落在森林的帽子，帽檐的羽毛象征着勇敢。"
 
     old "Hunter Attire"
     new "猎人外衣"
 
     old "The general outfit of a Hunter, Covered the body to prevent being attacked by wild animals. {p} Defense: +8 {p} AGI: +1 {p} Flirt -4"
-    new "猎人工作装的一部分，遮盖了大部分身体部位，以防野兽袭击。{p}防御 +8{p}敏捷 +1{p}诱惑 -4"
+    new "猎人工作装的一部分，遮盖了大部分身体部位，以防野兽袭击。"
+
+    old "The general outfit of a Hunter, Covered the body to prevent being attacked by wild animals."
+    new "猎人工作装的一部分，遮盖了大部分身体部位，以防野兽袭击。"
 
     old "Hunter Trousers"
     new "猎人裤"
@@ -405,52 +456,55 @@ translate schinese strings:
     old "A Normal Trousers worn by a Hunter, with a surprisingly stretchy fly piece... {p} Defense: +6 {p} AGI: +1 {p} Flirt -2"
     new "普普通通一条猎人裤，但其裆部的面料弹性惊人……{p}防御 +6{p}敏捷 +1{p}诱惑 -2"
 
+    old "A Normal Trousers worn by a Hunter, with a surprisingly stretchy fly piece..."
+    new "普普通通一条猎人裤，但其裆部的面料弹性惊人……"
+
     old "Knight Helmet"
     new "骑士头盔"
 
     old "A helmet of a renowned knight in the town, framed with pure iron as a sign of honor. {p} Defense: +6 {p} STR: +1 {p} Flirt -5"
-    new "某位享誉城镇的骑士的头盔，纯铁打造，尽显荣耀。{p}防御 +6{p}力量 +1{p}诱惑 -5"
+    new "某位享誉城镇的骑士的头盔，纯铁打造，尽显荣耀。"
+
+    old "A helmet of a renowned knight in the town, framed with pure iron as a sign of honor."
+    new "某位享誉城镇的骑士的头盔，纯铁打造，尽显荣耀。"
 
     old "Knight Breastplate"
     new "骑士胸甲"
 
     old "The breastplate of a knight, the iron structure and welding in its construction boasting a strong and lionhearted will. {p} Defense: +12 {p} Lust Resistance: +8 {p} Flirt -8"
-    new "某位骑士的上身护甲，其霸气的铁结构和拼接工艺迸发着强烈的勇武意志。{p}防御 +12{p}诱惑抗性 +8{p}诱惑 -8"
+    new "某位骑士的上身护甲，其霸气的铁结构和拼接工艺迸发着强烈的勇武意志。"
+
+    old "The breastplate of a knight, the iron structure and welding in its construction boasting a strong and lionhearted will."
+    new "某位骑士的上身护甲，其霸气的铁结构和拼接工艺迸发着强烈的勇武意志。"
 
     old "Knight Cuisses"
     new "骑士大腿甲"
 
     old "A knight's Cuisses customized by the town's oldest blacksmith, it happens to fit you perfectly. {p} Defense: +10 {p} Max HP: +20 {p} Flirt -6"
-    new "由城镇资历最老的铁匠为某位骑士量身定制的下身护甲，但其设计却恰好也适合你的身形。{p}防御 +10{p}最大体力 +20{p}诱惑 -6"
+    new "由城镇资历最老的铁匠为某位骑士量身定制的下身护甲，但其设计却恰好也适合你的身形。"
+
+    old "A knight's Cuisses customized by the town's oldest blacksmith, it happens to fit you perfectly."
+    new "由城镇资历最老的铁匠为某位骑士量身定制的下身护甲，但其设计却恰好也适合你的身形。"
 
     old "Sweater"
     new "毛衣"
 
     old "The best type of clothing you can wear in winter, keeping wearer warm and fuzzy.{p} Defense: +8 {p} Max HP: +15 {p} Flirt: -4"
-    new "冬天来临时穿着它最舒服了，毛茸茸的很温暖。{p}防御 +8{p}最大体力 +15{p}诱惑 -4"
+    new "冬天来临时穿着它最舒服了，毛茸茸的很温暖。"
+
+    old "The best type of clothing you can wear in winter, keeping wearer warm and fuzzy."
+    new "冬天来临时穿着它最舒服了，毛茸茸的很温暖。"
 
     old "Flat Bonnet"
     new "无边帽"
 
     old "A stylish headwear, popularised by the academics of the capital.{p} Defense: +6 {p} INT: +1 {p} Max MP: +20 {p} Flirt: -3"
-    new "一种时尚的头饰，流行于首都的学者圈。{p}防御 +6{p}智慧 +1{p}最大魔力 +20{p}诱惑 -3"
+    new "一种时尚的头饰，流行于首都的学者圈。"
 
-    # old "Long Scarf"
-    # new ""
-
-    # old "A scarf usually worn around the wearer's neck. Its smart and classy outlook probably grants wearer actual smartness as well.{p} Defense: +2 {p} INT: +2 {p} CHA: +1 {p} Flirt: -2"
-    # new ""
-
-    # old "Dog Collar"
-    # new ""
-
-    # old "A collar made by a farmer dog who specialises in growing plants and boners, wearing the collar renders the wearer property of the farmer.{p}Defense: +9 {p} TEN:+1 {p}Max Lust: +15 {p} Flirt: -2"
-    # new ""
+    old "A stylish headwear, popularised by the academics of the capital."
+    new "一种时尚的头饰，流行于首都的学者圈。"
 
     #物品-书籍
-
-    # old "{i}Botanical Journal of Plants In and Around the Dark Forest: Species, Uses, and Dangers{/i}"
-    # new ""
 
     old "Book of Fiery Charge"
     new "爆炎冲锋技能书"

@@ -94,9 +94,6 @@ translate schinese strings:
     old "Rollback Side"
     new "回退操作区"
 
-    old "Disable"
-    new "禁用"
-
     old "Left"
     new "屏幕左侧"
 

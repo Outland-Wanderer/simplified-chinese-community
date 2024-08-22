@@ -29,12 +29,16 @@ Chime | 齐门 |
 Furkan | 弗坎 | 
 Gwyddyon | 格威迪恩 | 
 Haskell | 哈斯克尔 | 
+Hezzong | 赫宗 | 
 Jog | 乔格 | 
 Kari | 卡里 | 
 Lothar | 洛萨尔 | 
 Ole | 奥利 | 
+Pairon | 帕里恩 | 
+Pekoe | 佩克欧 | 
 Rahim | 雷希姆 | 
 Sebas | 塞巴斯 | 
+Shudo | 舒笃 | 
 Tenki | 坦奇 | 
 Tevfik | 泰夫菲克 | 
 Topu | 托普 | 
@@ -59,6 +63,8 @@ Minotaur | 弥诺陶洛斯 |
 Mossy Golem | 苔藓石魔像 | 
 Scarecrow | 稻草人 | 
 Slime | 史莱姆 | 
+Spritebinder | 八臂鬼 | 
+Spriteling | 幽魂 | 
 Stone Ward | 石魔像 | 
 
 

@@ -1853,10 +1853,10 @@ translate schinese Kechioeren_Enter_32636830:
     # "He doesn't speak much, only staggering towards you while holding his scepter for balance."
     "他踉踉跄跄地朝你走来，依靠权杖保持平衡，一路上并没有怎么与卫兵交谈。"
 
-translate schinese Kechioeren_Enter_66c99cf4:
+translate schinese Kechioeren_Enter_655602f9:
 
-    # m "Who- is this you say?"
-    m "这——你说他是哪里人？"
+    # my "Who- is this you say?"
+    my "这——你说他是哪里人？"
 
 translate schinese Kechioeren_Enter_e6a163e8:
 
@@ -2147,15 +2147,15 @@ translate schinese Kechioeren_Enter_30af2a64:
     # goatguard "You moron."
     goatguard "老色鬼。"
 
-translate schinese Kechioeren_Enter_6d1d2d28:
+translate schinese Kechioeren_Enter_6ddc9df5:
 
-    # m "Hmm..."
-    m "哎……"
+    # my "Hmm..."
+    my "哎……"
 
-translate schinese Kechioeren_Enter_bd8ab6e9:
+translate schinese Kechioeren_Enter_de50df7e:
 
-    # m "Let's bring him back to our place."
-    m "带他进来吧。"
+    # my "Let's bring him back to our place."
+    my "带他进来吧。"
 
 translate schinese Kechioeren_Enter_799c699b:
 
@@ -2212,15 +2212,10 @@ translate schinese Kechioeren_Enter_13bea361:
     # "Not this grouchy general with a delicate voice."
     pass
 
-translate schinese Kechioeren_Enter_0f714086:
-
-    # "You feel like you need to do something..."
-    "要是现在再不做些什么，你就要被无缘无故关进监狱了。"
-
 translate schinese Kechioeren_Enter_748014cc:
 
     # "You are not ready to get locked up as a prisoner for no reason at all."
-    pass
+    "要是现在再不做些什么，你就要被无缘无故关进监狱了。"
 
 translate schinese Kechioeren_Enter_ece626b0:
 
@@ -2664,11 +2659,6 @@ translate schinese Kari_Adventure_4bc4b2e5:
 
     # k "Hmm?"
     k "说说你的家人。"
-
-translate schinese Kari_Adventure_9b0475d6:
-
-    # e "No one actually asked me this..."
-    e "还没谁问过我这个……"
 
 translate schinese Kari_Adventure_0af55a1b:
 
@@ -3445,10 +3435,10 @@ translate schinese Furkan_First_Meet_a7948122:
     # "The bell ringing is getting louder and louder with each seconds passing, you are completely stunned looking at the arrow, unaware of the mysterious figure approaching you."
     "你呆呆盯着箭，脑子一片空白，无从留心越来越响亮的铃声，和正向你袭来的神秘身影。"
 
-translate schinese Furkan_First_Meet_14bffc05:
+translate schinese Furkan_First_Meet_9163dd5f:
 
-    # m "Who are you. You are not from our tribe, are you?"
-    m "你是谁？你不是我族的成员，报上名来！"
+    # my "Who are you. You are not from our tribe, are you?"
+    my "你是谁？你不是我族的成员，报上名来！"
 
 translate schinese Furkan_First_Meet_fdb07aee:
 
@@ -3460,10 +3450,10 @@ translate schinese Furkan_First_Meet_6a3ed3f2:
     # e "Uh, Can you put your weapon down...?"
     e "呃啊，你可以先放下武器吗……？"
 
-translate schinese Furkan_First_Meet_78a6373e:
+translate schinese Furkan_First_Meet_150f2955:
 
-    # m "I can kill you here right now. Last chance. Who are you?"
-    m "我现在就能取你性命。这是你最后一次机会。报上名来！"
+    # my "I can kill you here right now. Last chance. Who are you?"
+    my "我现在就能取你性命。这是你最后一次机会。报上名来！"
 
 translate schinese Furkan_First_Meet_0cb9d1e7:
 
@@ -3476,20 +3466,20 @@ translate schinese Furkan_First_Meet_11f9bacb:
     # e "I- uhh... I'm [e]."
     e "我——呃……我叫[e]。"
 
-translate schinese Furkan_First_Meet_78d17fe4:
+translate schinese Furkan_First_Meet_c031e0d4:
 
-    # m "Where are you from."
-    m "你从哪里来？"
+    # my "Where are you from."
+    my "你从哪里来？"
 
 translate schinese Furkan_First_Meet_62159bf5:
 
     # e "I am from Puro, uhhh... I live in Lusterfield now."
     e "我从普罗来。呃……我现在住在乐斯民菲尔德。"
 
-translate schinese Furkan_First_Meet_52f47dca:
+translate schinese Furkan_First_Meet_c18a18fa:
 
-    # m "The village?"
-    m "乐村？"
+    # my "The village?"
+    my "乐村？"
 
 translate schinese Furkan_First_Meet_74db1a7f:
 
@@ -3501,40 +3491,40 @@ translate schinese Furkan_First_Meet_45505039:
     # "You notice the ram is slightly lowering his bow now, but still he doesn't let go, instead he asks you another question."
     "公羊稍微放低弓箭，但只要他想随时可以发射。他进而抛出下一个问题。"
 
-translate schinese Furkan_First_Meet_007813db:
+translate schinese Furkan_First_Meet_173c5536:
 
-    # m "Why are you here?"
-    m "你来这里的目的是什么？"
+    # my "Why are you here?"
+    my "你来这里的目的是什么？"
 
 translate schinese Furkan_First_Meet_6638345c:
 
     # e "I'm out adventuring."
     e "我只是来探险的。"
 
-translate schinese Furkan_First_Meet_71d491a9:
+translate schinese Furkan_First_Meet_cf97e9a7:
 
-    # m "You know about the ritual, do you not?"
-    m "你知道我族的仪式，对不对？"
+    # my "You know about the ritual, do you not?"
+    my "你知道我族的仪式，对不对？"
 
 translate schinese Furkan_First_Meet_84e218a7:
 
     # e "U-uh? Look I don't know who you are. Just let me go and you'll not see me here again."
     e "啊？我们素未谋面无冤无仇，放我走吧。我以后再也不会来这里了。"
 
-translate schinese Furkan_First_Meet_c41fca9d:
+translate schinese Furkan_First_Meet_c0ae43f5:
 
-    # m "I need to talk to your chief."
-    m "我要和你们的首领对话。"
+    # my "I need to talk to your chief."
+    my "我要和你们的首领对话。"
 
 translate schinese Furkan_First_Meet_943c3c4d:
 
     # e "Uhh... who?"
     e "呃……首领？"
 
-translate schinese Furkan_First_Meet_383867a4:
+translate schinese Furkan_First_Meet_d0ccc550:
 
-    # m "The Bull, Rahim. I have something to discuss with him."
-    m "雷希姆，那头公牛。我有事情与他讨论。"
+    # my "The Bull, Rahim. I have something to discuss with him."
+    my "雷希姆，那头公牛。我有事情与他讨论。"
 
 translate schinese Furkan_First_Meet_b39357d8:
 
@@ -3546,10 +3536,10 @@ translate schinese Furkan_First_Meet_59256155:
     # "You see the figure rest his bow, putting away his arrows. You breath a sigh of relief, at least you made it out alive."
     "对方总算收起长弓撤下箭。你松了一口气，庆幸自己还活着。"
 
-translate schinese Furkan_First_Meet_85c344db:
+translate schinese Furkan_First_Meet_a626f768:
 
-    # m "I'm Furkan. Chieftain of the Goat Tribe."
-    m "我是弗坎，山羊部落的首领。"
+    # my "I'm Furkan. Chieftain of the Goat Tribe."
+    my "我是弗坎，山羊部落的首领。"
 
 translate schinese Furkan_First_Meet_39c4c2b0:
 

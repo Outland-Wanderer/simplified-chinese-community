@@ -1,556 +1,289 @@
-﻿translate schinese start_7dc95fde:
-
-    # "It was late in the night, everything is so dark, your fingers are anxiously holding onto the torch."
-    "那是一个月黑风高的深夜，你不安地举着火炬。"
-
-translate schinese start_6092a431:
-
-    # "Your tribe was peaceful, at least to your imagination."
-    "与莫名压抑的心情相反，你的部落平静又祥和。"
-    "至少你是这么想的。"
-
-translate schinese start_c37d27a4:
-
-    # "There are monsters everywhere in the wild, so for all of your life you have been living with the Tribe."
-    "部落以外怪兽肆虐，因此你自幼同族人聚居，从未离开。"
-
-translate schinese start_05f57a96:
-
-    # "Sometimes hunting with your friend, Chime."
-    "顶多有时与朋友齐门外出狩猎。"
-
-translate schinese start_65c6d503:
-
-    # "You walk along the path from your elder's camp, when you heard someone screaming, someone who sounds almost like Chime."
-    "你正沿小路走过长辈的帐篷。这时，森林远处传来一声惊叫，听起来特别像齐门的声音。"
-
-translate schinese start_9b43455f:
-
-    # "He has been missing for a week, if not more. Your tribe has looked for him every day since, but to no avail."
-    "齐门已经失踪有一个星期，甚至一个星期多了。大伙每天都在寻找他的踪迹，却至今毫无所获。"
-
-translate schinese start_0b538218:
-
-    # "And now, everyone is sleeping, the lifeless silence has you shiver down to the core. Something is awry."
-    "夜深时分大家都已睡去，空荡荡的部落安静得出奇。"
-    "你心里发毛，隐约感觉有些不太对劲。"
-
-translate schinese start_32abd6f2:
-
-    # "Despite your instinct, you decided to investigate deeper into the noise in the forest. It seems definitely darker than you thought."
-    "然而你不顾直觉的警告，毅然决定去弄清楚那惊叫声是怎么回事。"
-    "密林同样一片肃静，越往里走视野愈发黑暗，令人毛骨悚然。"
-
-translate schinese start_33fde1ac:
-
-    # "The wood is eeriely silent. You hold on to your piece of paper you drew for Chime... and you keep wondering his whereabout."
-    "你攥着自己为齐门画的肖像画……不停思考他究竟去了哪里。"
-
-translate schinese start_155ad839:
-
-    # "He was... someone you admired, a hero figure who saved you from the bullies, but you don't know if it's been like this, or when, you memory have been foggy."
-    "在你心目中，齐门是保护你免受霸凌的英雄。但如今你却回忆不起那段往事，只留存着模糊的印象。"
-
-translate schinese start_10ff4203:
-
-    # "It gets worse by each step you take, your mind is replaced with fear, even a slight breeze over your fur gives you a startle you've never had."
-    "每前进走一步不祥的感觉便增进一分。惶恐逐渐占据了你的心智，现在即使一缕微风拂过皮毛也能把你吓个半死。"
-
-translate schinese start_0f973a7d:
-
-    # "As you snap back to reality, you realise you've lost sight of your tribe."
-    "时间悄悄流逝，当你回过神来，才发现已经看不见部落的火光了。"
-
-translate schinese start_3a8c145e:
-
-    # "You must have walked too far away, and now you are all alone in the dark forest."
-    "漆黑的密林里你孤身一龙，不见齐门踪迹。"
-
-translate schinese start_f1a265b8:
-
-    # "Standing in place, you could've sworn this place is the source of the scream you heard, But you see nothing."
-    "你驻足原地，坚信这里就是那惊叫声的源头。可你的确什么也没有发现。"
-
-translate schinese start_251bd13c:
-
-    # "Nothing out of the ordinary, just grasses, not even footsteps, but where did the scream come from?"
-    "绿地没有踩过的足迹，一切正常。"
-    "那刚刚的叫声到底是从哪来的？"
-
-translate schinese start_c8f0ef29:
-
-    # "You are ready to go back to your tribe but suddenly, a rustling sound in the bushes catches your attention."
-    "无奈之下你决定返回部落，不料树丛忽然沙沙作响。"
-
-translate schinese start_d43ba4f2:
-
-    # "Something is there."
-    "有东西在那。"
-
-translate schinese start_6b790745:
-
-    # "You turn your head... maybe it's Chime."
-    "你侧过头……或许是齐门。"
-
-translate schinese start_1a102cad:
-
-    # "The sound stops, but you can sense something is coming."
-    "寂静重归森林，然而你感觉有什么东西正逐渐靠近。"
-
-translate schinese start_f6462e8e:
-
-    # "You hold onto your torch tightly. You don't know what it is, but it is coming."
-    "你死死握住手中的火炬，来者何物你无从得知，但它铁定正朝着你来。"
-
-translate schinese start_cb7fa2ee:
-
-    # "The thing gets closer and closer, you would pray it is Chime, but it turns out bigger than you thought."
-    "它离你越来越近了，你祈祷是齐门而不是别的。可那个身影却越来越大，大过你和齐门。"
-
-translate schinese start_0e408d55:
-
-    # "You freeze in place, your eyes can only trace the outline of dark figure."
-    "你愣在原地，凝视着火光勾勒出他披垂的斗篷。"
-
-translate schinese start_8c1447fa:
-
-    # "At some point, the figure stops, allowing you time to make sense of who is under the cape."
-    "黑影没有继续向前，让你有时间观察他斗篷下长什么模样。"
-
-translate schinese start_b9809af6:
-
-    # "You can hear the fierce quivering of the trees as the fleeting shadow emerges in the center of your vision."
-    "突然，黑影闪现至你视野正中央，强风排开席卷树林，摩擦产出强烈的颤动声。"
-
-translate schinese start_99673515:
-
-    # my "gws sewre boecdisff wwo. sipcse baalseif, b."
-    my "戈殳瓦卜克鼎四阝兀，厶攴屮凵八儿彡父，卜。"
-
-translate schinese start_1a3b80da:
-
-    # "You have never seen this mysterious person before, he seems tall, but scruffy, with a pair of huge antler covering his head."
-    "七尺黑影矗立在你面前，头顶一对巨大的鹿角。他衣衫褴褛，却威慑感十足。"
-
-translate schinese start_857809b5:
-
-    # "And there's something behind his back, which only makes you more paranoid."
-    pass
-
-translate schinese start_e08b4aa1:
-
-    # "You are intimidated by his appearance, if not stunned. You can sense that he is staring at you, even without seeing the pupils behind his mask."
-    "即使看不清他的眼睛，你也能感受到对方注视的目光。"
-
-translate schinese start_bc36866c:
-
-    # "The creature is almost 7 feet tall, emasculating you with fear and dread. His stance alone makes you stumble backwards."
-    "你从未见过这号神秘人物，他背后的东西更令你心生惶恐，踉跄地向后退。"
-
-translate schinese start_f06a5bf0:
-
-    # my "Feez? Drlkws. Sewre... wwo tiskip."
-    my "飞子？斗耳口巳。殳瓦……兀田糸克疋。"
-
-translate schinese start_8f245e0e:
-
-    # my "Rru Crwsff?"
-    my "艹尢克隶纟阝？"
-
-translate schinese start_91b94eb7:
-
-    # "He is speaking in an unknown language. It is impossible to try to decipher it by any means."
-    "黑影口中的语言你闻所未闻，更何况去理解。"
-
-translate schinese start_bc731bef:
-
-    # "And by the tone, it seems he's asking a question."
-    pass
-
-translate schinese start_34e39862:
-
-    # "Nothing you can do here to escape this situation. You're only grateful that he hasn't killed you yet."
-    "你无处可逃，只能从音调推测他在问你问题，只能庆幸他还没有杀死自己。"
-
-translate schinese start_d644e62a:
-
-    # "The figure continues levitating. He seems to be pondering... something."
-    "他依然浮在半空中……似乎正酝酿着什么话。"
-
-translate schinese start_ab26b7ae:
-
-    # my "...Chime?"
-    my "……齐门？"
-
-translate schinese start_91a6d82d:
-
-    # yu "uhh..."
-    yu "嗯……"
-
-translate schinese start_cf6378c2:
-
-    # "You nod, chances are he is talking about your friend, but with his unintelligible language you are not sure what the context even is."
-    "你点点头，他可能说的是你那位同伴。但你们之间语言不通，你完全猜不出这跟之前他说的话有什么联系。"
-
-translate schinese start_b2357a72:
-
-    # my "... Adreif, lsez wwo b. ge gws aifwsin juin uffeis."
-    my "……瓦斗耒匚，立子兀卜。戈殳采阜身冂兀缶豕。"
-
-translate schinese start_7b68ae81:
-
-    # "You can't fathom any word he said, only watching him point his finger downward."
-    "你愣愣地看着他指向地面。"
-
-translate schinese start_107514d1:
-
-    # my "Dresi vus, wwo juin."
-    my "刂色，兀冂。"
-
-translate schinese start_e05f2c16:
-
-    # "The figure continues pointing downward, fiercely. You stand there, not sure what he mean."
-    "他不停重复向下指的手势，动作越来越急躁。你僵在原地，想不通他要表达什么。"
-
-translate schinese start_b5ac0fb8:
-
-    # my "Juin."
-    my "冂。"
-
-translate schinese start_515c0232:
-
-    # my "Juin...? Juin! J-ju... Hmmm..."
-    my "冂……？冂！冂……嗯……"
-
-translate schinese start_fc645303:
-
-    # my "..."
-    my "……"
-
-translate schinese start_9acca01f:
-
-    # "By his body language and tone. He seems to be mildly annoyed by you failing to understand him."
-    "从他的肢体语言和语气来看，因为你无法理解他的意思，他似乎有些生气。"
-
-translate schinese start_ea80e424:
-
-    # my "...Adreif."
-    my "……瓦斗耒匚。"
-
-translate schinese start_70bd5c88:
-
-    # "He begins preparing and gathering his energy. Everything seems to be much brighter in the forest, beginning to glow in light blue."
-    "黑影开始聚集能量，你周遭的一切尽被染上了亮蓝色。"
-
-translate schinese start_8698853b:
-
-    # "The wooden object behind his back begins floating slowly to his front."
-    "他背后的木工制品缓缓飞到了他身前。"
-
-translate schinese start_fe42546e:
-
-    # "You turn your head, his unknown energy seems to have formed an aura around you two, the forest continues gleaming with light."
-    "你环顾全身，那股能量在你们身上分别形成了两团光晕，而树林也变得越来越耀眼。"
-
-translate schinese start_c27c68b7:
-
-    # "He mumbles something under his breath, which you can only deduce that it's a spell."
-    "他开始诵读咒语，而你也只能猜测那是一种咒语。"
-
-translate schinese start_65c223ef:
-
-    # "The silence of the forest breaks as trees and leaves swirls in all directions, and you hear a tune plays."
-    "黑影盘膝浮坐空中，开始拨动那个木工制品的琴弦。"
-
-translate schinese start_2ed9fbeb:
-
-    # "The figure crosses his legs, playing the string on whatever he took out from his back."
-    "声乐响起，花草树木皆在你眼中扭曲旋转。"
-
-translate schinese start_4a8cb341:
-
-    # "With each tune played, the wind gets more and more intense, leaving you no room to escape."
-    "他每弹出一个音符，包围你们的风墙就愈发呼啸，令你无处可逃。"
-
-translate schinese start_b5c20a73:
-
-    # "You groan in fear as everything around you is glowing, and flowing like water around the freezing air."
-    "你惊恐地大叫着，你周围的一切都在化作流光，游进冰冷的空气中。"
-
-translate schinese start_fe637a06:
-
-    # "Whatever spell he is performing, you can only pray that you would come out of this alive, preferably unscathed."
-    "不管他施展何种魔法，你祈祷着自己只要能活命就行，当然别受伤最好。"
-
-translate schinese start_29d81d7b:
-
-    # "But it seems more and more unlikely, as the beacon of light is gleaming stronger with every second. Your whole body is soon emasculated by it."
-    "可惜事态好像正往反方向发展。"
-    "光芒很快从耀眼变到刺眼，紧接着彻底吞没了你。"
-
-translate schinese start_1c6a4489:
-
-    # "You stare at the figure. He is not responding to your plead. Your body is feeling different inside of this blue aura."
-    "你巴望黑影，而他没有理会你恳求的神情。"
-
-translate schinese start_476a4933:
-
-    # "There's nothing you can do now."
-    "你的感官在蓝色光晕的影响下开始扭曲，可你却什么也做不了。"
-
-translate schinese start_9db5d92a:
-
-    # "Slowly, you can feel your eyes growing more and more tired. The spell must be messing up your consciousness..."
-    "渐渐地，你的眼皮开始打架。法术肯定影响了你的意识……"
-
-translate schinese start_ebd460b9:
-
-    # "You struggle against the fatigue for a few seconds, but it eventually takes over, and you drift to a long slumber."
-    "不过挣扎了几秒钟，你终究还是敌不过疲惫感，缓缓陷入沉睡。"
-
-translate schinese start_03aeea77:
-
-    # "You collapse in front of the figure, you can feel something hitting on the back of your head."
-    "你倒在黑影面前，不知被什么东西击中了后脑勺。"
-
-translate schinese start_8f64d531:
-
-    # my "Lsez vu arses drwff wwo..."
-    my "立子父八老厶豆兀……"
-
-translate schinese start_94a39be0:
-
-    # "The last thing you see, is the entire landscape begins shifting under your very own eyes."
-    "天旋地转——这是你对眼前世界最后的印象。"
-
-translate schinese start_a20cefa7:
+﻿translate schinese Sebas_First_Meet_a20cefa7:
 
     # "..."
     "……"
 
-translate schinese start_11fc1673:
+translate schinese Sebas_First_Meet_11fc1673:
 
     # "Everything fades to darkness, as your consciosuness slips away."
-    "一切事物，连带着你的意识，无声无息消逝于黑暗当中。"
+    "一切事物，连带着你的意识，以及最后对齐门的念想，无声无息消逝于黑暗当中。"
 
-translate schinese start_53ae6d02:
+translate schinese Sebas_First_Meet_bc4ef3b2:
+
+    # "The last thing you thought of were Chime, maybe you had fallen the same fate as him."
+    "或许你和他遭遇了同样的命运。"
+
+translate schinese Sebas_First_Meet_53ae6d02:
 
     # "You don't know how much time has passed, minutes, hours."
-    "你不清楚自己经历了多久，抑分钟，抑小时。"
+    "你不清楚自己经历了多久，抑分钟，抑小时。甚至多少次日月轮回，多少个斗转星移。"
 
-translate schinese start_dab9f398:
+translate schinese Sebas_First_Meet_dab9f398:
 
     # "You don't know how many sun and moon passed right above you as you slumber."
-    "甚至多少次日月轮回，多少个斗转星移。"
+    pass
 
-translate schinese start_627ca2fb:
+translate schinese Sebas_First_Meet_627ca2fb:
 
     # "You don't even know where you are."
-    "你也不清楚自己到底在哪里。"
+    "你也不清楚自己到底在哪里。倒地后，你的世界便只有恍惚。"
 
-translate schinese start_c9d14728:
+translate schinese Sebas_First_Meet_b687251f:
 
-    # "Everything became so fuzzy after you collapsed."
-    "倒地后，你的世界便只有恍惚。"
+    # "Everything became so fuzzy after you fell."
+    pass
 
-translate schinese start_f3f93295:
+translate schinese Sebas_First_Meet_f1128cdd:
+
+    # "You can't even remember how you fell, or why."
+    "你甚至不记得你怎么倒的，为什么倒了。"
+
+translate schinese Sebas_First_Meet_d9740f75:
+
+    # "It's all futile, everything is gone. You are gone."
+    "任何思考都是无用功，一切的一切不复存在。你不复存在。"
+
+translate schinese Sebas_First_Meet_a20cefa7_1:
+
+    # "..."
+    "……"
+
+translate schinese Sebas_First_Meet_a20cefa7_2:
+
+    # "..."
+    "……"
+
+translate schinese Sebas_First_Meet_f3f93295:
 
     # "It's the sound of water, flowing around you, for a long while your consciousness is just floating in the sea of nothingness."
     "这种恍惚好似浮游小溪，伴随潺潺水声飘入无物之海。"
 
-translate schinese start_3cd78a43:
+translate schinese Sebas_First_Meet_b9f3fa5b:
+
+    # "You have had a long dream in this void, but you can't even remember what it was about."
+    "虚空中你好像做了一个很长很长的梦，而你却不记得梦境的内容。"
+
+translate schinese Sebas_First_Meet_3cd78a43:
 
     # "Your memory is fading away, emptiness fills the space where your mind used to be."
-    "仅剩的记忆逐渐消散，时间失去意义，连空洞都再无概念。"
+    "你留不住上一秒的记忆，空洞填充了你的前知后感。"
 
-translate schinese start_aabd5131:
+translate schinese Sebas_First_Meet_93f257bd:
 
-    # "Time doesn't matter now, at least you are still alive."
-    "好在你还活着，这才是最重要的。"
+    # "It doesn't even feel like it is the first time to forget everything."
+    "甚至这似乎不是你第一次遗忘所有事情了。"
 
-translate schinese start_a20cefa7_1:
+translate schinese Sebas_First_Meet_ef5840a2:
+
+    # "Hezzong, the tribe, and the forest, everyone is gone."
+    "赫宗大长老，你的部族，夜晚的森林，他和她和它全都被你忘得一干二净。"
+
+translate schinese Sebas_First_Meet_1ea47d4c:
+
+    # "Time doesn't matter now, you are not sure if you're still alive."
+    "时间已无所谓，你不知道自己是不是已经死了。"
+
+translate schinese Sebas_First_Meet_e900637c:
+
+    # "Maybe you are already dead, and this is the afterlife. Afterall, who would survive a fall like that?"
+    "也许你确实死了，这就是死后的世界。毕竟从那么高的地方摔下来谁还能活着？"
+
+translate schinese Sebas_First_Meet_29547cd9:
+
+    # "You can't even feel your body, you can't even feel your heart beating."
+    "你感受不到自己的身体，也感受不到自己的心跳。"
+
+translate schinese Sebas_First_Meet_3c00deca:
+
+    # "But somehow, you persist."
+    "然而不知怎的，虚空中迸出了一个信念——我不接受。"
+
+translate schinese Sebas_First_Meet_a20cefa7_3:
 
     # "..."
     "……"
 
-translate schinese start_5bae7fa5:
+translate schinese Sebas_First_Meet_47af4357:
 
-    # "But at some point, you regain consciousness."
-    "终有一时，你恢复了意识。"
-
-translate schinese start_67fa395a:
-
-    # "You are not ready to open your eyes yet, but you can hear the ambience of the forest."
+    # "You are not ready to open your eyes yet, but you can hear the forest's music."
     "你还不太能睁开眼，但可以听见森林里风吹树叶、鸟鸣啁啾。"
 
-translate schinese start_a20cefa7_2:
+translate schinese Sebas_First_Meet_a20cefa7_4:
 
     # "..."
     "……"
 
-translate schinese start_a8f18d9b:
+translate schinese Sebas_First_Meet_a8f18d9b:
 
     # "And then you hear a bright male voice blabbering around you."
     "直到耳边的年轻男声开始喋喋不休。"
 
-translate schinese start_02757783:
+translate schinese Sebas_First_Meet_02757783:
 
     # "His young voice is definitely opposite from the rough voice of the figure before."
-    "他嗓门洪亮，与黑影粗厚的声音截然相反。"
+    "他嗓门洪亮，与那个陌生人粗厚的声音截然相反。"
 
-translate schinese start_e612037c:
+translate schinese Sebas_First_Meet_fc645303:
 
-    # m "..."
-    m "……"
+    # my "..."
+    my "……"
 
-translate schinese start_b1cf6148:
+translate schinese Sebas_First_Meet_b878ab07:
 
-    # m "You waking up yet, you know... you shouldn't have slept in."
-    m "醒没醒啊。喂……你不能睡在这里。"
+    # my "You waking up yet, you know... you shouldn't have slept in."
+    my "醒没醒啊。喂……你不能睡在这里。"
 
-translate schinese start_027c2e72:
+translate schinese Sebas_First_Meet_830760cf:
 
-    # m "Especially in the middle of a forest like here."
-    m "特别还是这森林的最中间。"
+    # my "Especially in the middle of a forest like here."
+    my "特别还是这森林的最中间。"
 
-translate schinese start_9f81ccaa:
+translate schinese Sebas_First_Meet_d1492e2e:
 
-    # "You wish for him to shut up, or take your belongings so he can shut up."
+    # "You wish for him to shut up, or take your belongings so he can leave you alone."
     "你希望他闭嘴，现在、立刻、马上。"
     "你甚至想如果他要劫财，赶快拿了走人，不要再缠着你鬼叫了。"
 
-translate schinese start_4e522f42:
+translate schinese Sebas_First_Meet_047e8986:
 
-    # m "A grown up boy like you should know there's a lot of dangerous monsters out there."
-    m "你长这么大，也该知道野外到处都有怪物，多危险啊。"
+    # my "A grown up boy like you should know there's a lot of dangerous monsters out there."
+    my "你长这么大，也该知道野外到处都有怪物，多危险啊。"
 
-translate schinese start_3a6bf9e7:
+translate schinese Sebas_First_Meet_79d7c945:
 
-    # m "As my ma said, Safety is always your number one priority."
-    m "我妈有句说得好：道路千万条，安全第一条。"
+    # my "As my ma said, Safety is always your number one priority."
+    my "我妈有句说得好：道路千万条，安全第一条。"
 
-translate schinese start_761dfaf2:
+translate schinese Sebas_First_Meet_2e0673cc:
 
-    # m "She also said not to trust any strangers so easily, especially those who sleep in the forest."
-    m "我妈还说：不要轻易相信陌生人，特别是睡在深山野林的怪人。"
+    # my "She also said not to trust any strangers so easily, especially those who sleep in the forest."
+    my "我妈还说：不要轻易相信陌生人，特别是睡在深山野林的怪人。"
 
-translate schinese start_d806b40a:
+translate schinese Sebas_First_Meet_477c1be6:
 
-    # m "but oh well... you know what they say."
-    m "而且，噢、呃……你知道吗？"
+    # my "but oh well... you know what they say."
+    my "而且，噢、呃……你知道吗？"
 
-translate schinese start_59f99719:
+translate schinese Sebas_First_Meet_09141f75:
 
-    # m "You snooze, you get slapped in the ass!"
-    m "有人说，如果你在森林里打瞌睡，你的屁股就会被啪！啪！啪！"
+    # my "You snooze, you get slapped in the ass!"
+    my "有人说，如果你在森林里打瞌睡，你的屁股就会被啪！啪！啪！"
 
-translate schinese start_94b91105:
+translate schinese Sebas_First_Meet_6de90855:
 
-    # m "...and lose, of course."
-    m "……然后失去某样珍贵的东西哟。"
+    # my "...and lose, of course."
+    my "……然后失去某样珍贵的东西哟。"
 
-translate schinese start_e5eb9a2c:
+translate schinese Sebas_First_Meet_e5eb9a2c:
 
     # "You wonder if this is what hell sounds like, endless blabbering like a fly buzzing around your ears."
     "你想自己该不会下地狱了吧，要被嗡嗡作响的苍蝇折磨永世。"
 
-translate schinese start_e612037c_1:
+translate schinese Sebas_First_Meet_fc645303_1:
 
-    # m "..."
-    m "……"
+    # my "..."
+    my "……"
 
-translate schinese start_dfa6f757:
+translate schinese Sebas_First_Meet_99d88ee3:
 
-    # m "Okay, it's time."
-    m "好吧，不能再等了。"
+    # my "Okay, it's time."
+    my "好吧，不能再等了。"
 
-translate schinese start_61eed9da:
+translate schinese Sebas_First_Meet_6bd2d951:
 
-    # m "Hey. Wake up."
-    m "嘿，醒醒。"
+    # my "Hey. Wake up."
+    my "嘿，醒醒。"
 
-translate schinese start_a0c860f8:
+translate schinese Sebas_First_Meet_a0c860f8:
 
     # m2 "WAKE THE FUCK UP!!!"
     m2 "快——醒——醒——！！！"
 
-translate schinese start_9a402e43:
+translate schinese Sebas_First_Meet_9a402e43:
 
     # m3 "WAKE THE FUCK UP!!!"
     m3 "你倒是醒醒啊喂！！！"
 
-translate schinese start_78c02f59:
+translate schinese Sebas_First_Meet_78c02f59:
 
     # "As much as you don't wish to open your eyes yet, you feel that he's not going to stop until so."
     "你还不想睁眼。可你若不睁眼，他便绝不消停。"
 
-translate schinese start_877a1fb8:
+translate schinese Sebas_First_Meet_d06f40b2:
 
-    # m "Good... Fucking Morning, Stranger."
-    m "日尼玛的……安，外乡人。"
+    # my "Good... Fucking Morning, Stranger."
+    my "日尼玛的……安，外乡人。"
 
-translate schinese start_020cccc1:
+translate schinese Sebas_First_Meet_387ead83:
 
-    # m "See, you probably have a job but it is not that hard to get up on Sunday, I know."
-    m "星期天每个人都想——懒啊，一天睡觉就睡到自然醒嘛。"
-    m "但只要加把劲还是起得来的，我懂我懂。"
+    # my "See, you probably have a job but it is not that hard to get up on Sunday, I know."
+    my "星期天每个人都想——懒啊，一天睡觉就睡到自然醒嘛。"
+    my "但只要加把劲还是起得来的，我懂我懂。"
 
-translate schinese start_cdaf010d:
+translate schinese Sebas_First_Meet_cdaf010d:
 
     # "You see a fluffy lion grinning in front of you, he wears a leather messenger bags with odds and ends inside."
     "一头金毛狮子跃入你面前，露出自信的微笑。他肩背挎包，可以看见里边装了不少杂物。"
 
-translate schinese start_2fee4994:
+translate schinese Sebas_First_Meet_b91b97fe:
 
-    # "His soft fur is messy but he looks charmingly handsome, at least to your standard."
-    "尽管他的毛发有些凌乱，不过在你看来帅气得很。"
+    # "His soft fur is messy but he looks charmingly handsome."
+    "尽管他的毛发有些凌乱，却依然十分帅气。"
 
-translate schinese start_8a9242d0:
+translate schinese Sebas_First_Meet_8a9242d0:
 
     # yu "...what?"
     yu "……啊？"
 
-translate schinese start_3ed5c352:
+translate schinese Sebas_First_Meet_d3d8977f:
 
-    # m "Hello, little snoozy ass."
-    m "哈喽，小懒虫。"
+    # my "Hello, little snoozy ass."
+    my "哈喽，小懒虫。"
 
-translate schinese start_c567f91c:
+translate schinese Sebas_First_Meet_31d42755:
 
-    # m "My name is Sebas, in case you don't know."
-    m "初次见面，我叫塞巴斯。"
+    # my "My name is Sebas, in case you don't know."
+    my "初次见面，我叫塞巴斯。"
 
-translate schinese start_0b58aa63:
+translate schinese Sebas_First_Meet_0b58aa63:
 
     # s "I'd say... you look like some other goat folks... There's no problem with that though."
     s "我发现……你长得特别像山羊部落那群家伙……当然这完全没有问题。"
 
-translate schinese start_bd824bdb:
+translate schinese Sebas_First_Meet_2fba7084:
 
-    # s "Apart from the sleeping in the middle of nowhere, of course."
+    # s "Apart from sleeping in the middle of nowhere, of course."
     s "但你睡在野外，可就问题大了。"
 
-translate schinese start_f7688675:
+translate schinese Sebas_First_Meet_f7688675:
 
     # s "and you look a little scruffy, dare I say."
     s "加上我发现你还是个邋遢鬼，吼吼。"
 
-translate schinese start_f097505b:
+translate schinese Sebas_First_Meet_f097505b:
 
     # "He chuckles uncontrollably, looking at you up and down."
     "他禁不住笑出声，上下打量着你。"
 
-translate schinese start_e1554201:
+translate schinese Sebas_First_Meet_e1554201:
 
     # s "..."
     s "……"
 
-translate schinese start_5969db2d:
+translate schinese Sebas_First_Meet_5969db2d:
 
     # s "So..., what's your name, buddy."
     s "话说回来……哥们，你叫什么名字？"
 
-#起名-冲突
+translate schinese Sebas_First_Meet_4b474184:
+
+    # "You scratch at the side of your head."
+    "你挠着鬓角的毛发。"
+
+translate schinese name_63e260ab:
+
+    # yu "Uh..."
+    yu "呃……"
 
 translate schinese namedetermine_c9a38b1f:
 
@@ -560,12 +293,12 @@ translate schinese namedetermine_c9a38b1f:
 translate schinese namedetermine_b1fa49c4:
 
     # s "[el]? No. You can't call that. I'm 99 percent sure uhh... that's not your name."
-    s "[el]？不不不，你怎么可能叫[el]。我 99% 确定呃……你不叫这个名字。"
+    s "[el]？不不不，你怎么可能叫[el]。我 99\% 确定呃……你不叫这个名字。"
 
-translate schinese namedetermine_ccc42cf6:
+translate schinese namedetermine_ccf86473:
 
-    # e "Wait... why can't I call... [e]?"
-    e "等等……为什么我不能叫[e]……"
+    # e "Wait, why can't I call... [e]?"
+    e "等等，为什么我不能叫[e]……"
 
 translate schinese namedetermine_f274c355:
 
@@ -577,8 +310,6 @@ translate schinese namedetermine_72a33094:
     # e "..."
     e "……"
 
-#起名-自定义
-
 translate schinese name1_b93c4f4c:
 
     # e "My name is [e]..."
@@ -588,8 +319,6 @@ translate schinese name1_2fee165b:
 
     # s "[e], that's a good name! Isn't that right?"
     s "[e]，好名字！你说是吧。"
-
-#起名-默认
 
 translate schinese name2_b93c4f4c:
 
@@ -601,8 +330,6 @@ translate schinese name2_f2b7760b:
     # s "[e]... Seems like I've heard it before... that's a little mysterious name! Isn't that right?"
     s "[e]……感觉在哪听过……真神秘！你说是吧？"
 
-#起名后
-
 translate schinese name_done_8e0bf9f6:
 
     # s "Anyways, Mr. [e]. You seem to be a little exhausted after your deep sleep."
@@ -613,9 +340,9 @@ translate schinese name_done_881984e9:
     # s "Had a bad dream?"
     s "做噩梦了？"
 
-translate schinese name_done_09bb1031:
+translate schinese name_done_7163898d:
 
-    # e "No.... I don't think so...?"
+    # e "No... I don't think so...?"
     e "没……应该没有……？"
 
 translate schinese name_done_17a256a6:
@@ -658,34 +385,104 @@ translate schinese name_done_e9aaafac:
     # e "Where are my... clothes?"
     e "我的衣服呢……？"
 
-translate schinese name_done_f07b4c33:
+translate schinese name_done_0df8d7c1:
 
-    # s "I don't know. Where have you been? Had a sexy night?"
-    s "我也不知道。你昨晚干啥去了。浪过头啦？"
+    # s "I don't know. Where have you been? Had a sexy night with a handsome fella?"
+    s "我也不知道。你昨晚干啥去了。和哪位靓仔浪过头啦？"
 
-translate schinese name_done_ccbfaf2a:
+translate schinese name_done_4960378d:
 
-    # e "I can't remember much before. The monster, I saw him in the forest in the middle of the night."
-    e "我记不清了。我只记得昨天半夜，我在森林里看到了一个怪物。"
+    # e "I can't remember much before. The stranger, I saw him in the forest in the middle of the night."
+    e "我记不清了。我只记得昨天半夜，我在森林里看到了一个陌生人。"
 
 translate schinese name_done_2fd712e4:
 
     # e "He was talking in some strange language..."
     e "他说着我完全听不懂的语言……"
 
-translate schinese name_done_6571245b:
+translate schinese name_done_3e16e72d:
 
-    # s "Wait... you saw the monster?"
-    s "等等……你看到了怪物？"
+    # s "Wait... you saw a stranger?"
+    s "嗯？陌生人……"
 
 translate schinese name_done_f946553a:
 
     # e "I don't know what it is, I have never seen that before."
-    e "我也不确定，但我从来没见过那样的东西。"
+    e "我也不确定，但我从来没见过他这样的人。"
 
-translate schinese name_done_e2bd6e1c:
+translate schinese name_done_c5a75198:
 
-    # s "Unlucky, that means you're one of the outsider goats right, You're not a face I remember well."
+    # s "How did he find you?"
+    s "你和他怎么遇见的？"
+
+translate schinese name_done_12428575:
+
+    # e "It was in the middle of the night, I was walking in the forest."
+    pass
+
+translate schinese name_done_f5f92c0d:
+
+    # e "I was... I was on the watch tower, I was supposed to be the watcher tonight."
+    e "我当时……我当时在瞭望塔上，昨晚我是守夜人。"
+
+translate schinese name_done_e08feb08:
+
+    # e "And then I saw a flash of light, and I ran towards the source."
+    e "过了一会我看到远处有闪光，就跑了过去。"
+
+translate schinese name_done_2decfc4e:
+
+    # e "I was hoping to find Chime, but it was him..."
+    e "我本来以为那会是齐门的信号，结果碰见了这个怪人……"
+
+translate schinese name_done_a5150736:
+
+    # e "I was fighting the spritelings, and I wasn't faring well."
+    e "当时我正和幽魂战斗，但我被打昏了过去。"
+
+translate schinese name_done_9e9ec317:
+
+    # s "Spritelings?"
+    s "幽魂？"
+
+translate schinese name_done_a9b45585:
+
+    # e "Ghosts, they are like ghosts, but they are not."
+    e "它们就像幽灵，但又不是幽灵。"
+
+translate schinese name_done_05a89661:
+
+    # e "And when I woke up, he was already there."
+    e "醒来的时候那个怪人就在我面前了。"
+
+translate schinese name_done_77fe0a1e:
+
+    # e "I was fighting the spritebinder, and I wasn't faring well."
+    e "当时我正和八臂鬼战斗，但我招架不住。"
+
+translate schinese name_done_7de67df1:
+
+    # e "When I was about to lose, I saw him."
+    e "就在我快要无力还击的时候，那个怪人出现了。"
+
+translate schinese name_done_77fe0a1e_1:
+
+    # e "I was fighting the spritebinder, and I wasn't faring well."
+    e "当时我正和八臂鬼战斗，但我招架不住。"
+
+translate schinese name_done_d6dff26e:
+
+    # e "Uh, after that... he was there."
+    e "呃，然后……那个怪人就出现了。"
+
+translate schinese name_done_c5adcba1:
+
+    # e "I don't know what he did to me, but I only remember falling from the sky."
+    e "我不记得他对我做了什么，我只记得我从很高的地方掉下来。"
+
+translate schinese name_done_e18faeb2:
+
+    # s "So, that means you're one of the outsider goats, right?"
     s "糟糕，说明你也是海外山羊。难怪这么面生。"
 
 translate schinese name_done_116a6227:
@@ -714,61 +511,90 @@ translate schinese name_done_4a92046b:
     e "我想想，附近有……有……"
     e "……我从小到大都待在部落里，好像没去过别的地方。"
 
+translate schinese name_done_aa6cdcd1:
+
+    # e "Is Hezzong here? I need to find him."
+    e "长老……赫宗在哪？我要先找他。"
+
+translate schinese name_done_5052cc5d:
+
+    # s "Uh? Who's that? Your boyfriend?"
+    s "哈？谁？你的男朋友吗？"
+
+translate schinese name_done_bf7e27a2:
+
+    # e "No, he's the elder of my tribe."
+    e "不，他是我们部落的大长老。"
+
 translate schinese name_done_af231e2c:
 
     # "Sebas scratches his chin."
-    "塞巴斯挠挠下巴。"
+    "塞巴斯抓抓下巴。"
 
-translate schinese name_done_fc475d2a:
+translate schinese name_done_4cd04a3f:
 
-    # s "Hmm... so you're a dragon outsider."
-    s "哼……那你就是海外龙。"
+    # s "I did hear something about a Hezz... something."
+    s "我是有听过那鹤啥……啥的。"
 
-translate schinese name_done_5dc8ec35:
+translate schinese name_done_29787c60:
 
-    # e "What does that mean?"
-    e "怎么就海外了？"
+    # s "Uhhh... there's another one like you who mentioned something similar too. We heard about him a week ago from the goat tribe."
+    s "呃……山羊部落那好像来了个人，跟你说的齐门有点像？我只是听说的，而且是上周的事了。"
 
-translate schinese name_done_e765adca:
+translate schinese name_done_03a3cdf2:
 
-    # s "That means you are not from here, somehow. I don't know."
-    s "因为，哎，反正你肯定不是我们这片大陆的人。"
+    # s "But I assure you he's not cheating on your tribe... thing. But I don't actually know because I haven't met him yet."
+    s "我保证他没有背叛你的部落……好吧其实我也不清楚，因为我没有见过他。"
 
-translate schinese name_done_0152f423:
+translate schinese name_done_edf27e33:
 
-    # e "How do you know...?"
-    e "你确定……？"
-
-translate schinese name_done_a6ff161b:
-
-    # s "Uhhh... there's another one like you? We heard about him a week ago. He's living with the goat tribe now."
-    s "呃……因为你有一个族人也在莫肯？我们听说过他，不过那是上周的事了，他现在和山羊部落一块。"
-
-translate schinese name_done_19fbfaad:
-
-    # s "But I assure you he's not cheating on your tribe... thing... but I don't actually know because I haven't met him yet."
-    s "我保证他没有背叛……你的部落……好吧其实我也不清楚，因为我没有见过他。"
+    # s "They were so secretive even their usually blabbering shopkeeper refused to tell me anything about him."
+    s "山羊部落个个守口如瓶的，连那个爱扯淡的老板都不愿意透露关于他的任何消息。"
 
 translate schinese name_done_e7191ecf:
 
     # e "He's Chime. I need to bring him back."
-    e "他叫齐门，我得带他回家。"
+    e "我必须带齐门回家。"
+
+translate schinese name_done_11d37f2a:
+
+    # s "Do you know how to go back?"
+    s "你知道怎么回去吗？"
+
+translate schinese name_done_a0b3d21a:
+
+    # e "N-no... I don't know."
+    e "我……我不知道。"
 
 translate schinese name_done_b41097bd:
 
     # s "Hey, if you can go back to wherever you were. I would pray for you and your tribe, but I don't even know where to begin with."
-    s "嘿，假如你知道回去的路，我会祝你和你的族人一切安好，可我连你部落在哪个方向都不知道。"
+    s "嘿，假如你知道怎么回去，我会祝你和你的族人一路顺风，可惜我连你家在哪个方向都不知道。"
 
-translate schinese name_done_6acb642a:
+translate schinese name_done_0d371e13:
 
-    # s "Alright, don't talk now, let me see how you're holding up first."
-    s "好啦不说了，让我看看那个怪物有没有伤到你哪里。"
+    # e "Maybe I can begin by finding Chime."
+    e "或许我边找齐门就边有头绪了。"
 
-translate schinese name_done_593bf53f:
+translate schinese name_done_fbf2eb27:
 
-    # "You flinch as Sebas moves you around, he gently sweep through your body for any serious injuries."
-    "话音刚落，塞巴斯便开始调整起你的姿势，陌生的触感让你往后缩了缩。"
-    "他的手轻轻扫过你的身体，检查有无严重的损伤。"
+    # "Sebas chuckles."
+    "塞巴斯笑了笑。"
+
+translate schinese name_done_35aba613:
+
+    # s "Hey, I like your spirit. But you're not going to find him in the forest, especially not in the middle of the night."
+    s "哈，很有精神。但你肯定不会在森林里找到，更何况大半夜的。"
+
+translate schinese name_done_6706278b:
+
+    # s "Oh, what's that thing under your head?"
+    s "诶，你头底下有什么东西？"
+
+translate schinese name_done_a29676a1:
+
+    # "You flinch as Sebas moves you around, he gently sweep through your head with his hands."
+    "塞巴斯帮你翻过身，用手轻轻拨过你的头发，陌生的触感让你往后缩了缩。"
 
 translate schinese name_done_66368f6d:
 
@@ -796,10 +622,10 @@ translate schinese name_done_cd830a49:
     # "You try to open your eyes a little wider to stay awake."
     "你努力睁大眼睛抵御困意。"
 
-translate schinese name_done_ae231c16:
+translate schinese name_done_8964f53f:
 
-    # s "Ahhhhh! Don't fucking die now..."
-    s "啊啊啊！不要死……"
+    # s "Ahhhhh! Don't fucking die now."
+    s "啊啊啊！不要死。"
 
 translate schinese name_done_6397e27d:
 
@@ -807,24 +633,24 @@ translate schinese name_done_6397e27d:
     "塞巴斯立马坐了下来，好让你的头能躺到他大腿上。"
     "他颤抖得腿毛不断摩擦着你的脑袋。"
 
-translate schinese name_done_1dea6ee0:
+translate schinese name_done_9a8c92f0:
 
-    # s "Hey, d-don't fall asleep..."
-    s "撑住，别、别昏过去……"
+    # s "Hey, d-don't fall asleep! That's what my ma said too when I was sick."
+    s "撑住，别、别昏过去！我生病的时候我妈就会这么对我说，一定能管用。"
 
 translate schinese name_done_b852b783:
 
     # s "My dude is nearby, he is coming, we're supposed to meet here. J-just wait a second, okay? We good?"
     s "我的朋友就在附近，他很快就到了。我们约好在这里见面的。再多、多等一下下好吗？坚持住，拜托？"
 
-translate schinese name_done_92a095cf:
+translate schinese name_done_d179fb7e:
 
-    # e "o-ok."
-    e "嗯，嗯。"
+    # e "o-ok. I- uh... I'm fine."
+    e "嗯，嗯。我……我还好。"
 
-translate schinese name_done_bb44ef80:
+translate schinese name_done_2308ee98:
 
-    # "Sebas looks distressed, completely different from the lion he was a few minutes ago."
+    # "Sebas looks distressed, completely different from the lion a few minutes ago."
     "头顶的狮子神色仓皇，完全不同于几分钟前的模样。"
 
 translate schinese name_done_5b0568bc:
@@ -837,24 +663,24 @@ translate schinese name_done_5e1c0af9:
     # "You can barely move your head, unable to shift your gaze from his glimmering eyes."
     "你几乎没法转头，没法回避他低头盯着你的炯炯目光。"
 
-translate schinese name_done_0de7bba4:
+translate schinese name_done_b7e89ae2:
 
-    # m "Seb, what's wrong with-"
-    m "阿塞，你又发什么癫——"
+    # my "Seb, what's wrong with-"
+    my "阿塞，你又发什么癫——"
 
 translate schinese name_done_0ab3efb8:
 
     # s "H-hurry the fuck up... this guy needs some bandages."
     s "别废话、快过来……！他的伤口需要包扎。"
 
-translate schinese name_done_f65a6a7c:
+translate schinese name_done_82cbe648:
 
-    # m "He... Where did you find him. Alright, hold him tight."
-    m "这人……你哪碰见的。算了，你先别动。"
+    # my "He... Where did you find him. Alright, hold him tight."
+    my "这人……你哪碰见的。算了，你先别动。"
 
-translate schinese name_done_53695ab3:
+translate schinese name_done_a200af94:
 
-    # "A lizard comes into your view, he looks like one of the custodians you had in your tribe."
+    # "A lizard comes into your view, the clothes he has on looks like one of the custodians you had in your tribe."
     "一条蜥蜴迈入你的视野，他打扮得特别像你部落里某位看守。"
 
 translate schinese name_done_1202db1a:
@@ -873,46 +699,45 @@ translate schinese name_done_a61f78c3:
     "蜥蜴为你的脑袋缠上了一圈又一圈绷带，操作谨慎而娴熟。"
     "很快绷带便没有再渗血了。"
 
-translate schinese name_done_5c52a3f0:
+translate schinese name_done_02940ac7:
 
-    # m "This should stop the bleeding for a while."
-    m "这应该能暂时止住出血。"
+    # my "This should stop the bleeding for a while."
+    my "这应该能暂时止住出血。"
 
-translate schinese name_done_ca7176f3:
+translate schinese name_done_4a1dcd53:
 
-    # m "You feeling okay?"
-    m "你现在感觉如何？"
+    # my "You feeling okay?"
+    my "你现在感觉如何？"
 
 translate schinese name_done_942e0696:
 
     # e "Yes... thank you so much."
     e "感觉还好……谢谢你。"
 
-translate schinese name_done_b8a7f11f:
+translate schinese name_done_905199f2:
 
-    # m "No, don't thank me yet, I haven't treated the wound yet."
-    m "先不用急着谢我，我还得给你上药。"
+    # my "No, don't thank me yet, I haven't treated the wound yet."
+    my "先不用急着谢我，我还得给你上药。"
 
 translate schinese name_done_7a922f34:
 
     # s "But is he alright now?"
     s "但他没有生命危险了对吧？"
 
-translate schinese name_done_f4e5a317:
+translate schinese name_done_7e540224:
 
-    # m "He's fine."
-    m "他会好好的，放心。"
+    # my "He's fine."
+    my "他会好好的，放心。"
 
-translate schinese name_done_06bb9569:
+translate schinese name_done_afe9dfdb:
 
-    # s "Hey, that's my fucking Ol, blessing us mere mortals with the act of charity."
+    # s "Hey, that's my fucking Ol, gifting us mere mortals with his kind blessing."
     s "不愧是我的奥利老铁，妙手仁心慈悲为怀。"
 
-translate schinese name_done_2ca34e61:
+translate schinese name_done_f8f0c7bd:
 
-    # m "Very funny, what's your name, kid?"
-    m "呵，呵。"
-    m "小兄弟，你叫什么名字？"
+    # my "Very funny, what's your name, kid?"
+    my "呵，呵。小兄弟，你叫什么名字？"
 
 translate schinese name_done_d4bfc995:
 
@@ -945,9 +770,9 @@ translate schinese name_done_e428fc41:
     # "Ole gawks at him as Sebas leaves for some herbs. He is much more gentle with you, you don't know why but you feel a lot safer in the hands of this stranger."
     "奥利目送着塞巴斯走远。他对你要比那毛头狮子温柔多了，不知为何你在这位陌生人怀中反而特别安心。"
 
-translate schinese name_done_12a9b3d1:
+translate schinese name_done_f929d469:
 
-    # o "Don't mind him, he's such a moron sometimes. But he's a good dude."
+    # o "Don't mind him, he's such a moron sometimes. But he's a good lion."
     o "请别介意，有时他就是个铁憨憨。除开这点，他心地还是非常善良的。"
 
 translate schinese name_done_670ff85f:
@@ -971,34 +796,49 @@ translate schinese name_done_513ae3a9:
     # o "This is Mokken. You're one of that outsider we heard?"
     o "这里是莫肯。所以你也是海外人，对吗？"
 
-translate schinese name_done_f763ec23:
+translate schinese name_done_46d89a75:
 
-    # e "Yes... I think... the trees are so different here..."
-    e "应该……吧……这里的树木和我那边的差别很大……"
+    # e "Yes... I think. Is this really Mokken? The trees are so different here."
+    e "应该……吧。这里真的是莫肯吗？这些树长得和我那边的差别很大……"
 
-translate schinese name_done_520f8d0e:
+translate schinese name_done_e333b680:
 
-    # o "About that... you saw the monster? What's he look like? A little rough on you it seems."
-    o "另外……你说你看见了怪物？他长什么样子？瞧你这伤，他下手可不轻。"
+    # "You look around, the forest is indeed filled with trees and bushes you have never seen before."
+    "你环顾四周，周围确实长满了你从未见过的树木和灌丛。"
 
-translate schinese name_done_fc0e23cb:
+translate schinese name_done_7b48799a:
 
-    # e "I didn't see him that clearly."
-    e "我没看清他长什么样。"
+    # o "It is, because you are definitely not from lizard tribe, or the goats, or anywhere else I know of."
+    o "当然了，因为你肯定不是从蜥蜴族来的，或者羊族，又或者其他我见过的部族。"
 
-translate schinese name_done_fbefef80:
+translate schinese name_done_5fcf5074:
 
-    # o "No worry. So you're coming with us for the time being, right?"
-    o "没事的，别担心。你想……先暂时跟我们待一起吗？"
+    # o "Now, that makes two outsiders. I wonder if there's more of you."
+    o "现在加上你我们知道有两个海外人，不知别的地方会不会还有。"
 
-translate schinese name_done_5d0f13f9:
+translate schinese name_done_b10ed516:
 
-    # e "I want to find Chime... or go back... but I don't know where I can go."
-    e "不，我想去找齐门……或者回家……但这两条路我都不知道要怎么走。"
+    # e "Uh, I don't think so, unless that stranger send the other people here."
+    e "呃，应该没有，除非那个怪人把我其他族人也送来这边。"
 
-translate schinese name_done_487d6b56:
+translate schinese name_done_aea216b7:
 
-    # o "Hey, I don't even know if you'll ever get back. Stay with us. Seb and me live in a little village nearby, we can spare you a room there."
+    # o "Ha... maybe you guys can settle around here if the whole tribe comes, but I doubt the werewolves would like that."
+    o "哈哈……如果你们整个部落都来了，不如就在这里定居吧，虽然狼人们可能不太欢迎就是。"
+
+translate schinese name_done_6c818556:
+
+    # o "So, what's your plan now? You're not going to go back to your tribe?"
+    o "那你现在打算怎么办？准备回家吗？"
+
+translate schinese name_done_2e031154:
+
+    # e "I want to find Chime, and then go back, but I don't know where I can go."
+    e "不，我要先去找齐门，然后再回家。但我都不知道要从哪开始找。"
+
+translate schinese name_done_19e5c61a:
+
+    # o "Hey, I don't even know where your supposed Tribe is. Stay with us. Seb and me live in a little village nearby, we can spare you a room there."
     o "嘿，找到回家的方法之前随便乱跑也不是个办法。"
     o "不如先和我们住吧。我和阿塞就住在附近的村庄，我们可以腾一个房间出来给你。"
 
@@ -1007,45 +847,61 @@ translate schinese name_done_546f3a6c:
     # e "...I need to bring him back to my Tribe."
     e "……可我得带他回我们部落。"
 
-translate schinese name_done_8d8dea42:
+translate schinese name_done_9ee1d09f:
 
-    # o "Wait, you meant... the other outsider?"
-    o "等等，你说的齐门……是你的族人吗？"
+    # o "Wait, you meant the other outsider?"
+    o "等等，你说的齐门是你的族人吗？"
 
 translate schinese name_done_118adec5:
 
     # e "Yes."
     e "是的。"
 
-translate schinese name_done_d6c538de:
+translate schinese name_done_3fe93805:
 
-    # o "He... I don't even know where he is now."
-    o "他的话……我也不清楚他现在去了哪。"
+    # o "He, honestly I don't even know where he is now."
+    o "他……实话实说我也不清楚他现在去了哪。"
 
 translate schinese name_done_8249dc3e:
 
     # e "I thought uh, the lion... Sebas told me he's in a goat tribe?"
-    e "好像呃，他……塞巴斯说齐门去了山羊部落？"
+    e "好像呃……塞巴斯说齐门去了山羊部落？"
 
-translate schinese name_done_9753a10b:
+translate schinese name_done_721de7c0:
 
-    # o "He left them some time later, as of a few days ago... I assume he found a way to go back?"
-    o "齐门在山羊部落没待多久又离开了，好像是前几天离开的……我猜他或许找到了回去的方法？"
+    # o "He left them some time later, as of a few days ago. I hadn't hear from him since, I assumed he found a way to go back?"
+    o "齐门在山羊部落没待多久又离开了，好像是前几天离开的。之后我就没听说他了。"
+    o "我猜他或许找到了回去的方法？"
 
 translate schinese name_done_9a996251:
 
     # e "Oh... fuck, then why am I here."
-    e "噢……肏，那我岂不是白来一趟。"
+    e "噢……肏，那我来这里有什么意义。"
 
-translate schinese name_done_4efe01be:
+translate schinese name_done_2bbf4572:
 
-    # o "If he found a way, then I think you can too. we'll try to hatch a plan while you stay here for a while."
-    o "如果他能回去，我想你自然也可以。要是你留在村子里，我们还可以一起想办法。"
+    # o "I don't think a way would be found so easily, maybe he's still out there."
+    o "穿越这种事应该没有那么简单，或许他还在莫肯。"
 
-translate schinese name_done_69711a3e:
+translate schinese name_done_3fbc3f4b:
 
-    # o "I just don't want you to die in the wood before you go back, okay?"
-    o "我只是希望你能平平安安回家，不要白白断送了性命，好吗？"
+    # o "And if he did find a way, then I think you can too. Don't you think?"
+    o "如果他能回去，我想你自然也可以。对吗？"
+
+translate schinese name_done_d3f17389:
+
+    # e "Maybe, but I can't stay here long, I... I already missed the bed back in my tribe."
+    e "也许吧，但我不能在这里待太久，我……我已经开始想念我的床了。"
+
+translate schinese name_done_30936e5d:
+
+    # o "Like I said, stay with us. We'll try to hatch a plan while you recover for a while."
+    o "先留在我们这养好伤再动身也不迟，而且我们还可以一起想办法。"
+
+translate schinese name_done_1cd2ddf9:
+
+    # o "I just don't want you to get lost in the wood before you go back, okay?"
+    o "我只是希望你能平平安安回家，不在森林里迷路，好吗？"
 
 translate schinese name_done_577e4bd1:
 
@@ -1062,25 +918,10 @@ translate schinese name_done_f8829263:
     # e "Hmmmph..."
     e "嗯……"
 
-translate schinese name_done_ccd3d48a:
-
-    # o "You look like you can take care of yourself."
-    o "你是能好好照顾自己的那种人。"
-
-translate schinese name_done_78ffc320:
-
-    # e "...what do you mean?"
-    e "……什么？"
-
-translate schinese name_done_c127964c:
-
-    # o "Heh... nothing."
-    o "哈……不必在意。"
-
 translate schinese name_done_b954edbe:
 
     # "Ole snickers a bit while bringing you closer to him, and your thoughts are instantly overflowed with his warmth and odor."
-    "奥利暗笑，将你搂得更紧了些，你的注意力一下子被他的体温和气味所完全侵占。"
+    "奥利微微一笑，将你搂得更紧了些，你的注意力一下子被他的体温和气味所完全侵占。"
 
 translate schinese name_done_c9124d6f:
 
@@ -1169,9 +1010,9 @@ translate schinese name_done_517cd383:
     # s "Looking good, buddy."
     s "太棒啦哥们。"
 
-translate schinese name_done_130561d4:
+translate schinese name_done_83d62a5a:
 
-    # e "thank you so much, Ole."
+    # e "Thank you so much, Ole."
     e "谢谢你！奥利。"
 
 translate schinese name_done_cf3f8b65:
@@ -1184,10 +1025,10 @@ translate schinese name_done_c89772ef:
     # e "Thank you to you too! Sebas."
     e "也谢谢你！塞巴斯。"
 
-translate schinese name_done_35f1ad64:
+translate schinese name_done_3e94b60c:
 
-    # "You can almost hear Sebas rumbling under his breath."
-    "黄毛狮子撅撅嘴，你听不清他在嘟哝什么。"
+    # "Sebas grins wide."
+    "塞巴斯笑得更灿烂了。"
 
 translate schinese name_done_397b9049:
 
@@ -1219,10 +1060,10 @@ translate schinese name_done_4af974d9:
     # o "Hey Seb, stop bringing random people up in front of [e]."
     o "阿塞，别对[e]乱提陌生人。"
 
-translate schinese name_done_74ad4f39:
+translate schinese name_done_c81ab352:
 
-    # s "If your friend is here, I think our new friend will be the first to kick his ass."
-    s "如果他还在的话，我们的新朋友肯定第一个把他屁股踹开花。"
+    # s "If your friend is here, I think our new friend will be the first to kick his ass, and teach that sucker a lesson."
+    s "如果他还在的话，我们的新朋友肯定第一个把他屁股踹开花，教训教训这个衰仔。"
 
 translate schinese name_done_81c96cba:
 
@@ -1320,15 +1161,15 @@ translate schinese name_done_796e065b:
     # o "Don't stroke his ego that much, kiddo."
     o "别太惯着他的虚荣心，小兄弟。"
 
-translate schinese name_done_fd0f2814:
+translate schinese name_done_acab5e05:
 
-    # s "You know what, that lizard here is jealous that I got to be your first friend."
-    s "切，这条蜥蜴不过是嫉妒，嫉妒我成为你异世界里第一个朋友。"
+    # s "You know what, that lizard here is jealous that I got to be your first friend in Mokken."
+    s "切，这条蜥蜴不过是嫉妒，嫉妒我成为你在莫肯的第一个朋友。"
 
-translate schinese name_done_b5f309d8:
+translate schinese name_done_14129aa2:
 
-    # s "So as a really friendly friend, you should be calling me Seb now."
-    s "既然我们已经是超级老铁了，以后叫我阿塞就好啦。"
+    # s "So as a really friendly friend, you should be calling me Seb now, as a term of endearment."
+    s "既然我们已经是超级老铁了，以后叫我阿塞就好啦。老铁之间必须得有昵称。"
 
 translate schinese name_done_b3607adf:
 
@@ -1440,15 +1281,15 @@ translate schinese name_done_be6601fa:
     # o "Welcome to the King's Pawn. We sell general goods and we do a little pawning!"
     o "欢迎光临“君临典当”，本店主营商品零售，副营收押放贷。"
 
-translate schinese name_done_98583983:
+translate schinese name_done_65736a62:
 
-    # s "Hey! That's my lines."
-    s "喂！那是我的台词。"
+    # s "Hey! Stop stealing my lines."
+    s "喂！你偷了我的台词。"
 
-translate schinese name_done_734bfc6f:
+translate schinese name_done_f3c0c1a2:
 
-    # o "...Anyways the storage room is over there in the back, it already came with the wooden bed someone sold us earlier. Seb will tidy it up for you."
-    o "……反正，储物室就在那后边，刚好之前别人卖给我们的木床也放到了那里。阿塞会帮你收拾干净的。"
+    # o "Anyways, the storage room is over there in the back, it already came with the wooden bed someone sold us earlier. Seb will tidy it up for you."
+    o "反正，储物室就在那后边，刚好之前别人卖给我们的木床也放到了那里。阿塞会帮你收拾干净的。"
 
 translate schinese name_done_28c99800:
 
@@ -1460,9 +1301,9 @@ translate schinese name_done_5d838ea5:
     # o "Hey! No talking back in front of our guests."
     o "嘿！不许在客人面前顶嘴。"
 
-translate schinese name_done_1779332c:
+translate schinese name_done_2c9e55e2:
 
-    # s "... this fucking lizard."
+    # s "...this fucking lizard."
     s "……臭蜥蜴。"
 
 translate schinese name_done_6a7235b3:
@@ -1505,9 +1346,9 @@ translate schinese name_done_64c70efd:
     # e "What really? He looks like the type that attracts a lot of friends."
     e "真的吗？他看起来不像是缺朋友的人啊。"
 
-translate schinese name_done_25f70a48:
+translate schinese name_done_4c0396b3:
 
-    # o "Well... it's still good to see new faces around here, the village is too small."
+    # o "Well... it's still good to see new faces around here, the village is too small, you often see the same faces here once or twice per day."
     o "不管怎么说……乐斯民菲尔德太小，多个新面孔终归是好事。"
 
 translate schinese name_done_28ac9a49:
@@ -1535,15 +1376,25 @@ translate schinese name_done_9fb179f0:
     # e "Oh... That sounds easy."
     e "噢……听起来很简单。"
 
-translate schinese name_done_07eae4c7:
+translate schinese name_done_b7ae69b9:
 
-    # o "The thing is, ever since that monster came and connected our worlds together, a lot of monsters are emerging in the wilds. It's a dangerous job if you presume."
-    o "问题是，自从你说的那个怪物来了之后，我们的世界被连接到一起，越来越多妖魔鬼怪出现在荒野。我想，你应该清楚这份工作危险不小。"
+    # o "The thing is, it's not that easy. The forest is not safe anymore."
+    o "不要想当然，森林现在很危险。"
+
+translate schinese name_done_5d19afe3:
+
+    # o "Ever since that someone brought your Chime into our land. A lot of monsters and wild folks are emerging in the wilds. It's a dangerous job if you presume."
+    o "自从你说的那个怪人带着齐门穿越来之后，外头冒出越来越多妖魔鬼怪。你应该清楚这份工作危险不小。"
 
 translate schinese name_done_d3ffe870:
 
     # e "You can count on me, Ole. I'm a good fighter."
     e "奥利你放心，战斗是我的强项。"
+
+translate schinese name_done_1f49db0d:
+
+    # e "Maybe I can look for Chime while I'm at it."
+    e "而且这样也不会耽搁我找齐门。"
 
 translate schinese name_done_72fb9c4c:
 
@@ -1565,10 +1416,10 @@ translate schinese name_done_cdbdbb4a:
     # o "You should rest for now, though. The wound is not going to heal itself-"
     o "至于现在，你需要好好休息。伤口可不会自——"
 
-translate schinese name_done_42e83918:
+translate schinese name_done_85aca341:
 
-    # m "Ole, who are you talking to."
-    m "奥利，这是谁？"
+    # my "Ole, who are you talking to."
+    my "奥利，你在和谁说话？"
 
 translate schinese name_done_d3a9d418:
 
@@ -1790,10 +1641,10 @@ translate schinese name_done_821b7e16:
     # "Seb chuckles for a while, You can feel he could hardly hide the elation in his eyes."
     "塞巴斯浅浅哼笑几声，眼中的得意是怎么藏也藏不住。"
 
-translate schinese name_done_7c64f4b5:
+translate schinese name_done_5a30f256:
 
-    # s "You're welcome, honey. Sleep tight!"
-    s "一点也不辛苦，亲爱的。祝你好梦！"
+    # s "You're welcome, buddy. Sleep tight!"
+    s "一点也不辛苦，老铁。祝你好梦！"
 
 translate schinese name_done_a427aa6e:
 

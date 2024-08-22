@@ -1,6 +1,191 @@
-﻿translate schinese main_woodland_outpost_bc6a5c21:
+﻿# translate schinese main_alchemists_cabin_cbb6bd7c:
 
-    # k "Hey, Where's Furkan?"
+#     # "Once more, you've discovered the same sprout, this time it's much bigger, with a yellowish fruit under the usual two leaves."
+#     ""
+
+# translate schinese main_alchemists_cabin_c6157549:
+
+#     # "It has mostly blended in with the other firs on the tree, almost as if it belongs here."
+#     ""
+
+# translate schinese main_alchemists_cabin_f84659d4:
+
+#     # "You reach up to grab onto the sprout, and suddenly, a familiar voice catches your attention."
+#     ""
+
+# translate schinese main_alchemists_cabin_44276ca5:
+
+#     # h "What do you think you're doing, kiddo."
+#     h ""
+
+# translate schinese main_alchemists_cabin_6be92e1e:
+
+#     # "It was Haskell, the old dragon walks up from his small hut."
+#     ""
+
+# translate schinese main_alchemists_cabin_345648fb:
+
+#     # e "Uh... I was picking up herbs, can I not... do that?"
+#     e ""
+
+# translate schinese main_alchemists_cabin_7f25484a:
+
+#     # "Haskell looks at the direction of your hand, a squirming sprout still bouncing around your palm."
+#     ""
+
+# translate schinese main_alchemists_cabin_c9ee51ff:
+
+#     # h "Did the goat shopkeeper send you here?"
+#     h ""
+
+# translate schinese main_alchemists_cabin_fdc766f3:
+
+#     # e "Well I was looking for a trinket, called eversprout, Gwyd gave me the clues to find it and I followed the fruit here."
+#     e ""
+
+# translate schinese main_alchemists_cabin_95c1ecbb:
+
+#     # "The dragon sighs, he walks towards you until you're both under the fir trees."
+#     ""
+
+# translate schinese main_alchemists_cabin_790310bb:
+
+#     # h "Ugh, what did he tell you exactly."
+#     h ""
+
+# translate schinese main_alchemists_cabin_0c6a1960:
+
+#     # e "He just sold me a scroll- Wait, do you know about the sprout?"
+#     e ""
+
+# translate schinese main_alchemists_cabin_78d92e77:
+
+#     # "You loosen up your fist, and the sprout quickly bounces to Haskell's side."
+#     ""
+
+# translate schinese main_alchemists_cabin_93c6cb34:
+
+#     # "He pats on the leaves for a moment, before letting it return to the bristling trees."
+#     ""
+
+# translate schinese main_alchemists_cabin_a1ce6a51:
+
+#     # h "Of course I do! The sprout's from my garden, helps with tending to the herbs and flowers."
+#     h ""
+
+# translate schinese main_alchemists_cabin_d75f0564:
+
+#     # h "He's a budding spirit, one born just like the other soulful trinkets, but he has his own mind."
+#     h ""
+
+# translate schinese main_alchemists_cabin_4cf86ea3:
+
+#     # e "I thought those three trinkets were all you know."
+#     e ""
+
+# translate schinese main_alchemists_cabin_2381274b:
+
+#     # h "It's not like I'll gladly let you take my garden tender and put it in a glass bottle, ugh..."
+#     h ""
+
+# translate schinese main_alchemists_cabin_2018efa8:
+
+#     # "Haskell takes another sip, before he casually walks into the garden and returns with a sprout."
+#     ""
+
+# translate schinese main_alchemists_cabin_e5e7b6f9:
+
+#     # h "Here, take it."
+#     h ""
+
+# translate schinese main_alchemists_cabin_959bb4a2:
+
+#     # e "Oh? What's this...?"
+#     e ""
+
+# translate schinese main_alchemists_cabin_c7897e01:
+
+#     # h "One of the sprouts that the spirit has stayed with, it should invoke a similar effect as though it was one of the trinkets."
+#     h ""
+
+# translate schinese main_alchemists_cabin_72c73954:
+
+#     # h "The result is reduced, but just as spiritual as the real one."
+#     h ""
+
+# translate schinese main_alchemists_cabin_b73b6cb7:
+
+#     # e "Thank you so much, Haskell."
+#     e ""
+
+# translate schinese main_alchemists_cabin_bd41a4e6:
+
+#     # h "Well, next time Gwyddyon wants to sell you my own items, remember to stuff his mouth with his worthless crystals."
+#     h ""
+
+# translate schinese main_alchemists_cabin_69491b20:
+
+#     # h "Now, let me finish my tea, and don't try to look for the young sprout anymore, kiddo. He's going to be scared of you for a while."
+#     h ""
+
+# translate schinese main_alchemists_cabin_cd2aa067:
+
+#     # "You nod, before Haskell chuckles slightly and returns to his hut."
+#     ""
+
+# translate schinese main_woodland_outpost_134a4208:
+
+#     # "Under the old outpost of the goats, you discover the hidden sprout once more, it wiggles as always, rhythm on the pace with the nature's frequency."
+#     ""
+
+# translate schinese main_woodland_outpost_c3d914a9:
+
+#     # e "Don't you fuckin run away again!"
+#     e ""
+
+# translate schinese main_woodland_outpost_554537ac:
+
+#     # "You angrily catches it, this time the small sprout is trapped right in your palm."
+#     ""
+
+# translate schinese main_woodland_outpost_65ab4a45:
+
+#     # e "Haha, YES!"
+#     e ""
+
+# translate schinese main_woodland_outpost_e327378a:
+
+#     # "The small sprout convulses, jiggling as if it was hurt by your force. Your eyes widen, and immediately relaxes your hand."
+#     ""
+
+# translate schinese main_woodland_outpost_72d88318:
+
+#     # "Suddenly it jumps off your hand, you try to catch it once more but as soon as it touches the ground, it has vanished once more."
+#     ""
+
+# translate schinese main_woodland_outpost_b57712fd:
+
+#     # "You stomp the ground impatiently, it's unbelievable how it manipulated with your empathy just to escape."
+#     ""
+
+# translate schinese main_woodland_outpost_2c3b668e:
+
+#     # "But there's no time for your frustration, you should chase after it again. Just that the problem is, there's no way to know where it went..."
+#     ""
+
+translate schinese main_woodland_outpost_21d7e940:
+
+    # "You walk over to the entrance of the goat tribe, two guards are standing there."
+    "你走向山羊部落的大门，两个守卫驻守在那。"
+
+translate schinese main_woodland_outpost_4a5579c6:
+
+    # "One of them immediately rushes inside, and a moment later, the general walks out towards you, still exhausted."
+    "一见到你，其中一个守卫马上冲进了门内。不过片刻，他们的将军便走了出来，步履蹒跚的。"
+
+translate schinese main_woodland_outpost_78c284fa:
+
+    # k "Hey... Where's Furkan?"
     k "你回来了……弗坎呢？"
 
 translate schinese main_woodland_outpost_cca30a87:
@@ -8,20 +193,35 @@ translate schinese main_woodland_outpost_cca30a87:
     # e "He's fine, he told me to ask your guards to take him back."
     e "他没事，他想你派几个士兵去接他。"
 
-translate schinese main_woodland_outpost_64ddf4dd:
+translate schinese main_woodland_outpost_c2205134:
 
-    # k "Oh...?"
-    k "哦……？"
+    # "Kari looks at you with surprise."
+    "卡里惊讶地盯着你。"
+
+translate schinese main_woodland_outpost_dcd86e92:
+
+    # k "Oh?"
+    k "哦？"
 
 translate schinese main_woodland_outpost_c52956bf:
 
     # k "Alright... Thanks, Courier."
     k "我知道了……谢谢你，[e]。"
 
-translate schinese main_woodland_outpost_a4129b62:
+translate schinese main_woodland_outpost_57642efc:
 
-    # k "I think it's finished now, I'll take over now."
-    k "我会接手后面的事情，你可以走了。"
+    # "You can sense a sliver of gratitude in his voice, even when he doesn't spell it out loud."
+    "即使他的语气依然冰冷，你也能听出那一丝真切的感激。"
+
+translate schinese main_woodland_outpost_82c5b073:
+
+    # k "You should get some rest, I'll take over now."
+    k "我会接手后面的事情，你可以先回去休息了。"
+
+translate schinese main_woodland_outpost_f9973791:
+
+    # "He hands you some paper."
+    "他随即递给你几张纸。"
 
 translate schinese main_woodland_outpost_94e12146:
 
@@ -33,20 +233,15 @@ translate schinese main_woodland_outpost_44668cc5:
     # k "It's iron sword and axe."
     pass
 
-translate schinese main_woodland_outpost_2d190ad7:
+translate schinese main_woodland_outpost_4509fa69:
 
-    # e "Ah... that sounds so great. Thanks a lot!"
-    e "哇……太棒了。谢谢！"
+    # e "Ah, that sounds so great. Thanks a lot!"
+    e "哇，太棒了。谢谢！"
 
-translate schinese main_woodland_outpost_2576bdf9:
+translate schinese main_woodland_outpost_f622bd2d:
 
-    # k "We'll talk later after... Furkan and I recover a little."
-    k "等我和弗坎歇息一阵……再来找我们谈谈。"
-
-translate schinese main_woodland_outpost_10a7d307:
-
-    # k "See you, Courier."
-    k "再见，乐村来的邮差。"
+    # k "We'll talk later, both of us need to recover for a while."
+    k "等我和弗坎歇息一阵，再来找我们谈谈。"
 
 translate schinese main_woodland_outpost_88472ec0:
 
@@ -66,22 +261,42 @@ translate schinese main_woodland_outpost_135a5f89:
 translate schinese main_woodland_outpost_d7796cd2:
 
     # "The general is still in the cave, as you presume."
-    "将军去了山洞。如果你是来找他的话。"
+    goatguard "将军去了山洞。如果你是来找他的话。"
 
 translate schinese main_woodland_outpost_0681d622:
 
     # "The general is taking his rest after defeated by you."
-    "将军还在静养。"
+    goatguard "将军正在休养，族长还在山洞里。"
 
 translate schinese main_woodland_outpost_da9cd745:
 
     # "And the chief is still inside the cave."
-    "族长也还在山洞里。"
+    pass
 
 translate schinese main_woodland_outpost_146c26b8:
 
     # "You decide that the guards won't let you in, and you move on back to the main road."
     "你知道守卫不会放你进去，便识相的离开了。"
+
+# translate schinese main_mossy_freshwater_f68a08be:
+
+#     # "Just in the cave of the mossy river, you find the same sprout again, it wiggles again, convulsing with the flow of the water."
+#     ""
+
+# translate schinese main_mossy_freshwater_cdc43bd0:
+
+#     # "You walk towards the river bank, before it slips away from the grasp of your hand, and wiggles away again."
+#     ""
+
+# translate schinese main_mossy_freshwater_436b3870:
+
+#     # e "Argh! How did it escape again?"
+#     e ""
+
+# translate schinese main_mossy_freshwater_4706c9aa:
+
+#     # "You turn your head left and right, there's no sign of which direction it had went, but you should chase after it before it disappears once more."
+#     ""
 
 translate schinese ancient_tree_chop_bd47983b:
 
@@ -501,6 +716,26 @@ translate schinese mossy_freshwater_loop_f037af02:
     # "...You put the notes away, it seems you've learnt how to make a trowel."
     "……你将工艺笔记收好，把握了制作铲子的方法。"
 
+# translate schinese mossy_freshwater_loop_7ab5ba61:
+
+#     # "After walking along the river for a while, you decide to walk downstream along the river."
+#     ""
+
+# translate schinese mossy_freshwater_loop_4d13f8eb:
+
+#     # "It takes a long time for you to explore the forest as the river water splashes against your legs."
+#     ""
+
+# translate schinese mossy_freshwater_loop_2d3f5440:
+
+#     # "And soon, you notice an abandoned bridge that marks the abrupt end of the river, if not counting all the flood surrounding this location."
+#     ""
+
+# translate schinese mossy_freshwater_loop_8d02a7d8:
+
+#     # "You take out your map and check your surrounding, this place must be the riverside crossing."
+#     ""
+
 translate schinese mossy_freshwater_loop_e91ba75d:
 
     # "You search around the area for a while, but there seem to be nothing worth noting nearby."
@@ -682,15 +917,15 @@ translate schinese woodland_outpost_loop_b21316a8:
     # "The figure approaches... you feel your muscles tense up. You are so ready to escape at any moment..."
     "他离你越来越近了……你绷紧全身肌肉，随时准备逃跑……"
 
-translate schinese woodland_outpost_loop_e612037c:
+translate schinese woodland_outpost_loop_fc645303:
 
-    # m "..."
-    m "……"
+    # my "..."
+    my "……"
 
-translate schinese woodland_outpost_loop_4b3286df:
+translate schinese woodland_outpost_loop_2e6480a3:
 
-    # m "Who, are you?"
-    m "你……是谁？"
+    # my "Who, are you?"
+    my "你……是谁？"
 
 translate schinese woodland_outpost_loop_2b40a022:
 
@@ -712,10 +947,10 @@ translate schinese woodland_outpost_loop_54935489:
     # e "Uhmmm... I'm [e]."
     e "嗯呣……我叫[e]。"
 
-translate schinese woodland_outpost_loop_bc60e7d1:
+translate schinese woodland_outpost_loop_317229cd:
 
-    # m "Where are you from... and.. why are you here... at the middle of the night..."
-    m "你是哪里人……还有，你为什么天黑了还在这里晃荡……"
+    # my "Where are you from... and.. why are you here... at the middle of the night..."
+    my "你是哪里人……还有，你为什么天黑了还在这里晃荡……"
 
 translate schinese woodland_outpost_loop_9119c4e7:
 
@@ -727,70 +962,70 @@ translate schinese woodland_outpost_loop_e628981d:
     # e "You... reminded me of someone."
     e "……你让我想起了一个人。"
 
-translate schinese woodland_outpost_loop_9980ec54:
+translate schinese woodland_outpost_loop_6723c2e1:
 
-    # m "W-what?"
-    m "什么？"
+    # my "W-what?"
+    my "什么？"
 
 translate schinese woodland_outpost_loop_9c5abfe1:
 
     # e "The demon that sent me here."
     e "把我传送来的恶魔……"
 
-translate schinese woodland_outpost_loop_790207d5:
+translate schinese woodland_outpost_loop_4b83c24d:
 
-    # m "So, you are that courier."
-    m "总之，你就是那个邮差，对吧。"
+    # my "So, you are that courier."
+    my "总之，你就是那个邮差，对吧。"
 
 translate schinese woodland_outpost_loop_d7bf05f9:
 
     # e "Hmm?"
     e "嗯？"
 
-translate schinese woodland_outpost_loop_7e6d3db7:
+translate schinese woodland_outpost_loop_a4000d3b:
 
-    # m "The courier from Lusterfield, Chief told me about you."
-    m "你不是乐村的邮差吗，族长和我提过你。"
+    # my "The courier from Lusterfield, Chief told me about you."
+    my "你不是乐村的邮差吗，族长和我提过你。"
 
-translate schinese woodland_outpost_loop_b58051d6:
+translate schinese woodland_outpost_loop_2dd895ab:
 
-    # m "I reckon you asked about some buddy of yours, Chime."
-    m "我猜你还问过他关于你族人，齐门的事。"
+    # my "I reckon you asked about some buddy of yours, Chime."
+    my "我猜你还问过他关于你族人，齐门的事。"
 
 translate schinese woodland_outpost_loop_d38f2198:
 
     # e "Y-yes...?"
     e "是、是的……"
 
-translate schinese woodland_outpost_loop_11ef214c:
+translate schinese woodland_outpost_loop_bfa6bbab:
 
-    # m "Where's Chief now...?"
-    m "族长现在在哪里……？"
+    # my "Where's Chief now...?"
+    my "族长现在在哪里……？"
 
 translate schinese woodland_outpost_loop_1e600dce:
 
     # e "W-what chief?"
     e "什——什么族长？"
 
-translate schinese woodland_outpost_loop_ac200e57:
+translate schinese woodland_outpost_loop_2fe34dda:
 
-    # m "Furkan... You saw him before, he saw you before."
-    m "我们山羊部落的族长——弗坎……别装傻，你之前见过他，他也见过你。"
+    # my "Furkan... You saw him before, he saw you before."
+    my "我们山羊部落的族长——弗坎……别装傻，你之前见过他，他也见过你。"
 
-translate schinese woodland_outpost_loop_f7413291:
+translate schinese woodland_outpost_loop_03d7ead2:
 
-    # m "Where is he..."
-    m "他在哪……快说。"
+    # my "Where is he..."
+    my "他在哪……快说。"
 
 translate schinese woodland_outpost_loop_9c6176b1:
 
     # e "Uhm, I don't know."
     e "呃，我真的不知道。"
 
-translate schinese woodland_outpost_loop_d3fe2f03:
+translate schinese woodland_outpost_loop_13cf55be:
 
-    # m "Look, any information you know, you shall spill your beans. Did the Lusterfolks take him?"
-    m "听着，你最好把你知道的都乖乖交代清楚。是你们的人带走了弗坎吗？"
+    # my "Look, any information you know, you shall spill your beans. Did the Lusterfolks take him?"
+    my "听着，你最好把你知道的都乖乖交代清楚。是你们的人带走了弗坎吗？"
 
 translate schinese woodland_outpost_loop_5819885f:
 
@@ -802,20 +1037,20 @@ translate schinese woodland_outpost_loop_f7cd9910:
     # e "But... I do think of one thing."
     e "不过……我想起来一件事。"
 
-translate schinese woodland_outpost_loop_112b667a:
+translate schinese woodland_outpost_loop_4afcdf9c:
 
-    # m "Huh?"
-    m "哼？"
+    # my "Huh?"
+    my "哼？"
 
 translate schinese woodland_outpost_loop_7864d137:
 
     # e "I did met a golem... that big."
     e "我遇见了一个石魔像……他有这——么大。"
 
-translate schinese woodland_outpost_loop_550470b6:
+translate schinese woodland_outpost_loop_2847a96a:
 
-    # m "A golem?"
-    m "石魔像？"
+    # my "A golem?"
+    my "石魔像？"
 
 translate schinese woodland_outpost_loop_70890ddc:
 
@@ -827,50 +1062,50 @@ translate schinese woodland_outpost_loop_db425602:
     # "You point at the river."
     "你伸手指向那条河。"
 
-translate schinese woodland_outpost_loop_e612037c_1:
+translate schinese woodland_outpost_loop_fc645303_1:
 
-    # m "..."
-    m "……"
+    # my "..."
+    my "……"
 
-translate schinese woodland_outpost_loop_6ab0fd14:
+translate schinese woodland_outpost_loop_b328ad41:
 
-    # m "I think I know where he is..."
-    m "我知道族长在哪了……"
+    # my "I think I know where he is..."
+    my "我知道族长在哪了……"
 
-translate schinese woodland_outpost_loop_706e9e97:
+translate schinese woodland_outpost_loop_b62414e7:
 
-    # m "The damp cave."
-    m "他在苍耀湖附近的山洞。"
+    # my "The damp cave."
+    my "他在苍耀湖附近的山洞。"
 
 translate schinese woodland_outpost_loop_2b40a022_1:
 
     # e "Huh?"
     e "哈？"
 
-translate schinese woodland_outpost_loop_f22efc52:
+translate schinese woodland_outpost_loop_6a2ac76e:
 
-    # m "Come on, we should go..."
-    m "跟我来……"
+    # my "Come on, we should go..."
+    my "跟我来……"
 
 translate schinese woodland_outpost_loop_ce0a52eb:
 
     # e "Me?"
     e "为什么？"
 
-translate schinese woodland_outpost_loop_ab180096:
+translate schinese woodland_outpost_loop_83f30ffd:
 
-    # m "I need a hand."
-    m "我需要帮手。"
+    # my "I need a hand."
+    my "我需要帮手。"
 
 translate schinese woodland_outpost_loop_dc806ac7:
 
     # e "Really? I don't even know you."
     e "嘿，我连你是谁都不知道……"
 
-translate schinese woodland_outpost_loop_ccd68456:
+translate schinese woodland_outpost_loop_02a3da0f:
 
-    # m "I know you, You... you're coming with me either way, courier."
-    m "我知道你就够了，你……你不想来也得来，邮差。"
+    # my "I know you, You... you're coming with me either way, courier."
+    my "我知道你就够了，你……你不想来也得来，邮差。"
 
 translate schinese woodland_outpost_loop_72a33094:
 
@@ -1140,8 +1375,8 @@ translate schinese scene_slime_sex_f4c22d45:
 
 translate schinese scene_slime_sex_38ea0c8e:
 
-    # e "Ahhhh- A-hhhh..."
-    e "啊——哈啊……"
+    # e "Ahhhh- A-hhhh."
+    e "啊——哈啊。"
 
 translate schinese scene_slime_sex_85e20509:
 

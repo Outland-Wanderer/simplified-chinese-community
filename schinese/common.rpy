@@ -9,11 +9,47 @@
     old "Self-voicing enabled. "
     new "机器朗读已启用。"
 
+    # old "bar"
+    # new ""
+
+    # old "selected"
+    # new ""
+
+    # old "viewport"
+    # new ""
+
+    # old "horizontal scroll"
+    # new ""
+
+    # old "vertical scroll"
+    # new ""
+
+    # old "activate"
+    # new ""
+
+    # old "deactivate"
+    # new ""
+
+    # old "increase"
+    # new ""
+
+    # old "decrease"
+    # new ""
+
+    # old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    # new ""
+
     old "Font Override"
     new "字体覆盖"
 
     old "Default"
     new "默认"
+
+    # old "DejaVu Sans"
+    # new ""
+
+    # old "Opendyslexic"
+    # new ""
 
     old "Text Size Scaling"
     new "字号缩放"
@@ -29,6 +65,9 @@
 
     old "Enable"
     new "启用"
+
+    old "Disable"
+    new "禁用"
 
     old "Self-Voicing"
     new "机器朗读"
@@ -204,11 +243,41 @@
     old "Language [text]"
     new "语言 [text]"
 
+    old "Open [text] directory."
+    new "打开 [text] 目录。"
+
     old "The interactive director is not enabled here."
     new "互动导演模式未启动。"
 
+    # old "⬆"
+    # new ""
+
+    # old "⬇"
+    # new ""
+
     old "Done"
     new "完成"
+
+    old "(statement)"
+    new "（语句）"
+
+    old "(tag)"
+    new "（标签）"
+
+    old "(attributes)"
+    new "（属性）"
+
+    old "(transform)"
+    new "（变换）"
+
+    old "(transition)"
+    new "（转场）"
+
+    old "(channel)"
+    new "（轨道）"
+
+    old "(filename)"
+    new "（文件名）"
 
     old "Change"
     new "更改"
@@ -231,17 +300,38 @@
     old "Attributes:"
     new "属性："
 
+    # old "Click to toggle attribute, right click to toggle negative attribute."
+    # new ""
+
     old "Transforms:"
     new "变换："
+
+    # old "Click to set transform, right click to add to transform list."
+    # new ""
+
+    # old "Customize director.transforms to add more transforms."
+    # new ""
 
     old "Behind:"
     new "置后于："
 
+    # old "Click to set, right click to add to behind list."
+    # new ""
+
     old "Transition:"
     new "转场："
 
+    # old "Click to set."
+    # new ""
+
+    # old "Customize director.transitions to add more transitions."
+    # new ""
+
     old "Channel:"
     new "轨道："
+
+    # old "Customize director.audio_channels to add more channels."
+    # new ""
 
     old "Audio Filename:"
     new "音频文件："
@@ -264,6 +354,9 @@
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
     new "你确定要返回到标题界面吗？\n此操作将会使未保存的进度丢失。"
 
+    # old "Are you sure you want to continue where you left off?"
+    # new ""
+
     old "Are you sure you want to end the replay?"
     new "你确定要结束回放吗？"
 
@@ -275,6 +368,12 @@
 
     old "Are you sure you want to skip unseen dialogue to the next choice?"
     new "你确定要跳过未读对话，直接快进到下个选项吗？"
+
+    old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "此存档是在其他设备上创建的。恶意构造的存档文件可能会对你的计算机造成损害。你是否信任此存档的创建者以及所有可能更改过该文件的人？"
+
+    old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "你是否信任创建此存档的设备？只有当你是设备的唯一用户时，才应选择是。"
 
     old "Failed to save screenshot as %s."
     new "截图保存到以下位置时失败：%s"
@@ -288,8 +387,179 @@
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
     new "本程序包含了由数个许可证授权的免费软件，包括 MIT 许可证和 GNU 宽松通用公共许可证。完整软件列表及源代码链接，请{a=https://www.renpy.org/l/license}访问此处{/a}。"
 
+    # old "display"
+    # new ""
+
+    # old "transitions"
+    # new ""
+
+    # old "skip transitions"
+    # new ""
+
+    # old "video sprites"
+    # new ""
+
+    # old "show empty window"
+    # new ""
+
+    # old "text speed"
+    # new ""
+
+    # old "joystick"
+    # new ""
+
+    # old "joystick..."
+    # new ""
+
+    # old "skip"
+    # new ""
+
+    # old "skip unseen [text]"
+    # new ""
+
+    # old "skip unseen text"
+    # new ""
+
+    # old "begin skipping"
+    # new ""
+
+    # old "after choices"
+    # new ""
+
+    # old "skip after choices"
+    # new ""
+
+    # old "auto-forward time"
+    # new ""
+
+    # old "auto-forward"
+    # new ""
+
     old "Auto forward"
     new "自动前进"
+
+    # old "auto-forward after click"
+    # new ""
+
+    # old "automatic move"
+    # new ""
+
+    # old "wait for voice"
+    # new ""
+
+    # old "voice sustain"
+    # new ""
+
+    # old "self voicing"
+    # new ""
+
+    # old "self voicing enable"
+    # new ""
+
+    # old "self voicing disable"
+    # new ""
+
+    # old "self voicing volume drop"
+    # new ""
+
+    # old "clipboard voicing"
+    # new ""
+
+    # old "clipboard voicing enable"
+    # new ""
+
+    # old "clipboard voicing disable"
+    # new ""
+
+    # old "debug voicing"
+    # new ""
+
+    # old "debug voicing enable"
+    # new ""
+
+    # old "debug voicing disable"
+    # new ""
+
+    # old "emphasize audio"
+    # new ""
+
+    # old "rollback side"
+    # new ""
+
+    # old "gl powersave"
+    # new ""
+
+    # old "gl framerate"
+    # new ""
+
+    # old "gl tearing"
+    # new ""
+
+    # old "font transform"
+    # new ""
+
+    # old "font size"
+    # new ""
+
+    # old "font line spacing"
+    # new ""
+
+    # old "system cursor"
+    # new ""
+
+    # old "renderer menu"
+    # new ""
+
+    # old "accessibility menu"
+    # new ""
+
+    # old "high contrast text"
+    # new ""
+
+    # old "audio when minimized"
+    # new ""
+
+    # old "audio when unfocused"
+    # new ""
+
+    # old "web cache preload"
+    # new ""
+
+    # old "voice after game menu"
+    # new ""
+
+    # old "restore window position"
+    # new ""
+
+    # old "reset"
+    # new ""
+
+    # old "main volume"
+    # new ""
+
+    # old "music volume"
+    # new ""
+
+    # old "sound volume"
+    # new ""
+
+    # old "voice volume"
+    # new ""
+
+    # old "mute main"
+    # new ""
+
+    # old "mute music"
+    # new ""
+
+    # old "mute sound"
+    # new ""
+
+    # old "mute voice"
+    # new ""
+
+    # old "mute all"
+    # new ""
 
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
     new "剪贴板朗读已启用。按 Shift+C 来禁用。"
@@ -300,119 +570,80 @@
     old "Self-voicing enabled. Press 'v' to disable."
     new "机器朗读已启用。按 V 来禁用。"
 
-    old "Empty Slot."
-    new "空存档位。"
+    old "Speech Bubble Editor"
+    new "对话气泡编辑器"
 
-    old "Previous"
-    new "上一页"
+    # old "(hide)"
+    # new ""
 
-    old "Next"
-    new "下一页"
+    # old "(clear retained bubbles)"
+    # new ""
 
-    old "Joystick Mapping"
-    new "手柄映射"
+    old "Sync downloaded."
+    new "同步下载完成。"
 
-    old "Developer Menu"
-    new "开发者菜单"
+    old "Could not connect to the Ren'Py Sync server."
+    new "无法连接到 Ren'Py 同步服务器。"
 
-    old "Interactive Director (D)"
-    new "互动导演 (D)"
+    old "The Ren'Py Sync server timed out."
+    new "Ren'Py 同步服务器已超时。"
 
-    old "Reload Game (Shift+R)"
-    new "重新加载游戏 (Shift+R)"
+    old "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new "在连接到 Ren'Py 同步服务器时发生了未知错误。"
 
-    old "Console (Shift+O)"
-    new "控制台 (Shift+O)"
+    old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new "Ren'Py 同步服务器没有该同步副本。同步 ID 可能无效，或者可能已经超时。"
 
-    old "Variable Viewer"
-    new "变量查看器"
+    old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new "请输入你生成的同步 ID。\n切勿输入并非由你创建的同步 ID。"
 
-    old "Image Location Picker"
-    new "图像坐标提取器"
+    old "The sync ID is not in the correct format."
+    new "同步 ID 的格式不正确。"
 
-    old "Filename List"
-    new "文件列表"
+    old "The sync could not be decrypted."
+    new "无法解密该同步。"
 
-    old "Show Image Load Log (F4)"
-    new "显示图像加载日志 (F4)"
+    old "The sync belongs to a different game."
+    new "该同步属于另一款游戏。"
 
-    old "Hide Image Load Log (F4)"
-    new "隐藏图像加载日志 (F4)"
+    old "The sync contains a file with an invalid name."
+    new "该同步包含一个文件，其文件名无效。"
 
-    old "Image Attributes"
-    new "图像属性"
+    old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new "此操作将把你的存档上传到 {a=https://sync.renpy.org}Ren'Py 同步服务器{/a} 。\n你想要继续吗？"
 
-    old "[name] [attributes] (hidden)"
-    new "[name] [attributes]（隐藏）"
+    old "Enter Sync ID"
+    new "输入同步 ID"
 
-    old "Nothing to inspect."
-    new "没有可查验的对象。"
+    old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new "此操作将联系 {a=https://sync.renpy.org}Ren'Py 同步服务器{/a}。"
 
-    old "Hide deleted"
-    new "隐藏已删除项"
+    old "Sync Success"
+    new "同步成功"
 
-    old "Show deleted"
-    new "显示已删除项"
+    old "The Sync ID is:"
+    new "同步 ID 是："
 
-    old "Return to the developer menu"
-    new "返回到开发者菜单"
+    old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "此操作将联系 {a=https://sync.renpy.org}Ren'Py 同步服务器{/a}。"
 
-    old "Rectangle: %r"
-    new "矩形参数：%r"
+    # old "Continue"
+    # new ""
 
-    old "Mouse position: %r"
-    new "鼠标坐标：%r"
-
-    old "Right-click or escape to quit."
-    new "右键点击或按下 Esc 键来退出。"
-
-    old "Rectangle copied to clipboard."
-    new "矩形参数已复制到剪贴板。"
-
-    old "Position copied to clipboard."
-    new "坐标已复制到剪贴板。"
-
-    old "Type to filter: "
-    new "输入关键字过滤："
-
-    old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new "贴图：[tex_count] ([tex_size_mb:.1f] MB)"
-
-    old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new "图像缓存：[cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-
-    old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new "\n{color=#cfc}✔ 已预载图像（良好）{/color}\n{color=#fcc}✘ 未预载图像（糟糕）{/color}\n{color=#fff}拖动来移动位置。{/color}"
-
-    old "Displayable Inspector"
-    new "可视组件查验器"
-
-    old "Size"
-    new "大小"
-
-    old "Style"
-    new "样式"
-
-    old "Location"
-    new "坐标"
-
-    old "Inspecting Styles of [displayable_name!q]"
-    new "正在查验 [displayable_name!q] 的样式"
-
-    old "displayable:"
-    new "displayable:"
-
-    old "        (no properties affect the displayable)"
-    new "        (可视组件尚无属性关联)"
-
-    old "        (default properties omitted)"
-    new "        (已省略默认属性)"
+    old "Sync Error"
+    new "同步错误"
 
     old "Contacting App Store\nPlease Wait..."
-    new "正在连线 App Store\n请稍后……"
+    new "正在连接 App Store\n请稍后……"
 
-    old "The Ren'Py Updater is not supported on mobile devices."
-    new "Ren'Py 尚不支持在移动设备上执行更新。"
+    # old "No update methods found."
+    # new ""
+
+    # old "Could not download file list: "
+    # new ""
+
+    # old "File list digest does not match."
+    # new ""
 
     old "An error is being simulated."
     new "已模拟一个错误。"
@@ -477,6 +708,24 @@
     old "Proceed"
     new "继续"
 
+    # old "Preparing to download the game data."
+    # new ""
+
+    # old "Downloading the game data."
+    # new ""
+
+    # old "The game data has been downloaded."
+    # new ""
+
+    # old "An error occured when trying to download game data:"
+    # new ""
+
+    # old "This game cannot be run until the game data has been downloaded."
+    # new ""
+
+    # old "Retry"
+    # new ""
+
     old "Image [index] of [count] locked."
     new "图片 [count] / [index] 尚未解锁。"
 
@@ -528,6 +777,15 @@
     old "Screen"
     new "屏幕"
 
+    # old "60"
+    # new ""
+
+    # old "30"
+    # new ""
+
+    # old "Tearing"
+    # new ""
+
     old "Changes will take effect the next time this program is run."
     new "更改将在下次运行此程序时生效。"
 
@@ -551,6 +809,12 @@
 
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
     new "更多细节可以在{a=[url]}文档{/a}中找到"
+
+    # old "Continue, Show this warning again"
+    # new ""
+
+    # old "Continue, Don't show warning again"
+    # new ""
 
     old "Change render options"
     new "改变渲染器选项"
@@ -585,11 +849,20 @@
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
     new "以BBcode复制 traceback.txt 文件到论坛如 https://lemmasoft.renai.us/ 。"
 
+    # old "Copy Markdown"
+    # new ""
+
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
     new "以Markdown复制 traceback.txt 文件到Discord。"
 
     old "An exception has occurred."
     new "发生异常。"
+
+    # old "Rollback"
+    # new ""
+
+    # old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+    # new ""
 
     old "Ignore"
     new "忽略"

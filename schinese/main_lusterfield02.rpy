@@ -438,9 +438,9 @@ translate schinese Cane_Work_b6ca98b4_1:
     # c "All good. Well then, enjoy yer stay in the Nocturnal Trunk!"
     c "行吧，那在夜夜椿喝好玩好啊！"
 
-translate schinese Cane_Work_0f213b78:
+translate schinese Cane_Work_e120c034:
 
-    # c "Mister [e], ya had already served the whole village. Come back after a few hours ya thirsty lad."
+    # c "Mister [e], ya had already served the whole village 'ere. Come back after a few hours ya thirsty lad."
     c "[e]，全部村民你都招待个遍了。过几个小时再来吧，小淫娃。"
 
 translate schinese Cane_Work_62ea5a76:
@@ -1714,30 +1714,30 @@ translate schinese Cane_First_d2df1bbe:
     # "A scent of alcohol and yeast infiltrates your nose as soon as you open the door, you try to pinch your nose under the strong alcohol as a purple figure emerges in front of you."
     "你推门而入，酒精与酒糟发酵的气味扑面而来，你立马捏住鼻子抵御这双重刺激。不经意间，一位紫荧荧的人物横在了你面前。"
 
-translate schinese Cane_First_d9102cad:
+translate schinese Cane_First_ca451f31:
 
-    # m "Welcome to the Nocturnal Trunk, [e]."
-    m "欢迎光临夜夜椿，[e]。"
+    # my "Welcome to the Nocturnal Trunk, [e]."
+    my "欢迎光临夜夜椿，[e]。"
 
 translate schinese Cane_First_54d14e14:
 
     # e "Hello- wait how did you know my name?"
     e "你好——等下，你怎么知道我的名字？"
 
-translate schinese Cane_First_fbd04217:
+translate schinese Cane_First_8a74c83b:
 
-    # m "That hunky dunky Lothar told me a goat outsider disrespected him. Ya got the guts to mix up his name like that, [e]."
-    m "洛萨尔那头糙狼夜儿来过我这嚷嚷有个海外山羊对他大不敬。你胆子可真够肥的啊，敢把他名字弄混，[e]。"
+    # my "That hunky dunky Lothar told me a goat outsider disrespected him. Ya got the guts to mix up his name like that, [e]."
+    my "洛萨尔那头糙狼夜儿来过我这嚷嚷有个海外山羊对他大不敬。你胆子可真够肥的啊，敢把他名字弄混，[e]。"
 
 translate schinese Cane_First_60610ff3:
 
     # e "I'm a dragon... but yes, that's me. Nice to meet you, uh- what's your name again?"
     e "我是龙……不过没错，我叫[e]。你好，呃——请问怎么称呼？"
 
-translate schinese Cane_First_6915ea61:
+translate schinese Cane_First_f81c78e6:
 
-    # m "That hunky dunky Lothar told me a goat fella came to good ol Lusterfield yesterday, it's gotta be ya name, [e]."
-    m "夜儿听洛萨尔那头糙狼说，有只山羊进了咱乐村。[e]，想必是你错不了。"
+    # my "That hunky dunky Lothar told me a goat fella came to good ol Lusterfield yesterday, it's gotta be ya name, [e]."
+    my "夜儿听洛萨尔那头糙狼说，有只山羊进了咱乐村。[e]，想必是你错不了。"
 
 translate schinese Cane_First_60610ff3_1:
 
@@ -1899,10 +1899,10 @@ translate schinese Cane_First_5435e904:
     # c "My friend, ya got a bright future ahead of ya, [e]. Well then, enjoy yer stay in the Nocturnal Trunk."
     c "[e]你小子够精的，前途无量啊。行了，好喝好玩去吧。"
 
-translate schinese Cane_Second_ba3981a3:
+translate schinese Cane_Second_20496e09:
 
-    # m "Welcome back to the Nocturnal Trunk, [e]. Ya remember my name?"
-    m "欢迎再次光临夜夜椿。[e]，还记得我的名字么？"
+    # my "Welcome back to the Nocturnal Trunk, [e]. Ya remember my name?"
+    my "欢迎再次光临夜夜椿。[e]，还记得我的名字么？"
 
 translate schinese Cane_Second_ec6d9d4d:
 
@@ -2785,7 +2785,7 @@ translate schinese Cane_Apron_Quest_End_bffa6f1b:
     # c "He wouldn't listen, he didn't even talk to me again after that, he was just doing his job."
     c "可是他不听劝阻，甚至从那之后完全不理我了，只管埋头工作。"
 
-translate schinese Cane_Apron_Quest_End_b91b2de6:
+translate schinese Cane_Apron_Quest_End_d4e43b45:
 
     # c "I shouldn't care, but I did, I took away his gold, thinking he wouldn't dare to leave the tavern."
     c "我本不该干涉他自己的选择，但我还是忍不住，收走了他所有的金币，以为这样他就不敢离开我。"
@@ -4297,10 +4297,10 @@ translate schinese Cane_NoMoney_No_7ad9c6e8:
     # c "Aye, remember to call ya lizard friend to come here often."
     c "诶，记得让你的蜥蜴朋友多来光顾啊。"
 
-translate schinese Lothar_First_d191b8fe:
+translate schinese Lothar_First_02b27362:
 
-    # m "You are the outsider everyone has been talking about."
-    m "喂，新来的，那个海外山羊就是你吧。这两天人人都把你挂在嘴边。"
+    # my "You are the outsider everyone has been talking about."
+    my "喂，新来的，那个海外山羊就是你吧。这两天人人都把你挂在嘴边。"
 
 translate schinese Lothar_First_eb5d41a5:
 
@@ -4313,41 +4313,41 @@ translate schinese Lothar_First_2b40a022:
     # e "Huh?"
     e "有什么事吗？"
 
-translate schinese Lothar_First_b43a4df0:
+translate schinese Lothar_First_a1e9b59c:
 
-    # m "I saw you yesterday. The goat. Are you not a goat?"
-    m "我们昨天已经见过面了，山羊。所以你是，还是不是山羊？"
+    # my "I saw you yesterday. The goat. Are you not a goat?"
+    my "我们昨天已经见过面了，山羊。所以你是，还是不是山羊？"
 
 translate schinese Lothar_First_98037a6e:
 
     # e "What are you talking about?"
     e "你到底想说什么？"
 
-translate schinese Lothar_First_6cac3218:
+translate schinese Lothar_First_336da625:
 
-    # m "Hmmmph... something like a dragon? with furs? Don't tell me you're a bull..."
-    m "唔……感觉像龙，但毛又那么多？你可别说你是头牛……"
+    # my "Hmmmph... something like a dragon? with furs? Don't tell me you're a bull..."
+    my "唔……感觉像龙，但毛又那么多？你可别说你是头牛……"
 
-translate schinese Lothar_First_eae7d5e7:
+translate schinese Lothar_First_78915c29:
 
-    # m "Whatever. Forget about it. Don't tell me."
-    m "别狡辩，我绝对不会相信你是牛。"
+    # my "Whatever. Forget about it. Don't tell me."
+    my "别狡辩，我绝对不会相信你是牛。"
 
 translate schinese Lothar_First_46b8308f:
 
     # e "I'm a dragon..."
     e "我是龙……"
 
-translate schinese Lothar_First_6027e02a:
+translate schinese Lothar_First_79e988e5:
 
-    # m "Yes, dragon. Ole talked to me about you, those two in the shop wanted me, the hero of Lusterfield to train you. You must be something else, are you not?"
-    m "对，外乡龙。你的事情奥利已经交代过了。他和另一只笨猫想请我——乐村的超级英雄，将你训练成一名合格的邮递员。"
-    m "现在看你样子，应该多少有点过人之处。"
+    # my "Yes, dragon. Ole talked to me about you, those two in the shop wanted me, the hero of Lusterfield to train you. You must be something else, are you not?"
+    my "对，外乡龙。你的事情奥利已经交代过了。他和另一只笨猫想请我——乐村的超级英雄，将你训练成一名合格的邮递员。"
+    my "现在看你样子，应该多少有点过人之处。"
 
-translate schinese Lothar_First_e3ce02ee:
+translate schinese Lothar_First_660b31e4:
 
-    # m "So, I suppose you know who I am?" nointeract
-    m "所以，想必你也知道我的鼎鼎大名了？" nointeract
+    # my "So, I suppose you know who I am?" nointeract
+    my "所以，想必你也知道我的鼎鼎大名了？" nointeract
 
 translate schinese strings:
 
@@ -4617,35 +4617,35 @@ translate schinese Lothar_Wrong_2a743721:
     # e "Uhhhh... Are you Rahim?"
     e "呃……你叫雷希姆？"
 
-translate schinese Lothar_Wrong_bd7e0298:
+translate schinese Lothar_Wrong_76bcb450:
 
-    # m "You-???"
-    m "你竟然——？？？"
+    # my "You-???"
+    my "你竟然——？？？"
 
 translate schinese Lothar_Wrong_d254360d:
 
     # "The wolf is getting visably irritated, almost threatening you in some way, until he calm down after a few seconds and let out a long sigh."
     "灰狼凶相毕露，像要当场把你生吞似的。还好他很快平静下来，发出了一声长长的叹息。"
 
-translate schinese Lothar_Wrong_cb5e2288:
+translate schinese Lothar_Wrong_3cfbfa55:
 
-    # m "How the hell could you have mixed up with me and that Old Bull, Does he even look like a hero of Lusterfield?"
-    m "你竟然眼瞎到能把我和那老牛搞混。难道他比我看起来更像乐斯民菲尔德的英雄吗？"
+    # my "How the hell could you have mixed up with me and that Old Bull, Does he even look like a hero of Lusterfield?"
+    my "你竟然眼瞎到能把我和那老牛搞混。难道他比我看起来更像乐斯民菲尔德的英雄吗？"
 
-translate schinese Lothar_Wrong_420c659c:
+translate schinese Lothar_Wrong_75862f28:
 
-    # m "Alright then, now tell me, what's your name."
-    m "行，告诉我你叫什么名字。"
+    # my "Alright then, now tell me, what's your name."
+    my "行，告诉我你叫什么名字。"
 
 translate schinese Lothar_Wrong_d454165b:
 
     # e "My name is [e]."
     e "我叫[e]。"
 
-translate schinese Lothar_Wrong_fd102fdb:
+translate schinese Lothar_Wrong_b951246f:
 
-    # m "Good. Good. The lizard told me about you. I'll just call you the goat now. Considering that you don't even know what a hero looks like."
-    m "切，你的名字那只蜥蜴早就告诉我了。但如果你不记得我的名字，我要叫你山羊也很公平吧。"
+    # my "Good. Good. The lizard told me about you. I'll just call you the goat now. Considering that you don't even know what a hero looks like."
+    my "切，你的名字那只蜥蜴早就告诉我了。但如果你不记得我的名字，我要叫你山羊也很公平吧。"
 
 translate schinese Lothar_Wrong_75c0a179:
 
@@ -4657,10 +4657,10 @@ translate schinese Lothar_Wrong_fb1313e9:
     # "You can smell the wolf's bitter scent from such a close distance, it doesn't even smell like he had bathed for a while. His bulging chests are almost touching yours."
     "在这样近的距离下，灰狼苦涩的体味异常浓重，甚至像几天没洗澡了一样。他隆起的胸肌与你仅隔毫厘。"
 
-translate schinese Lothar_Wrong_25fb53c4:
+translate schinese Lothar_Wrong_47e9bfe1:
 
-    # m "You know me now?"
-    m "现在，知道我是谁了吗？"
+    # my "You know me now?"
+    my "现在，知道我是谁了吗？"
 
 translate schinese Lothar_Wrong_20fd191c:
 

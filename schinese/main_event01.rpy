@@ -1705,11 +1705,6 @@ translate schinese strings:
     old "Join with Haskell"
     new "去找哈斯克尔"
 
-translate schinese Event_Party01_896ce127:
-
-    # "You walk towards the three across the bar, and join in with the group."
-    "你向吧台走去加入那三人。"
-
 translate schinese Event_Party01_a58bdbfb:
 
     # l "That lion... he's... never going to learn isn't he..."
@@ -1720,10 +1715,10 @@ translate schinese Event_Party01_00fd5b3d:
     # j "I know..."
     j "我知道……"
 
-translate schinese Event_Party01_896ce127_1:
+translate schinese Event_Party01_896ce127:
 
     # "You walk towards the three across the bar, and join in with the group."
-    pass
+    "你向吧台走去加入那三人。"
 
 translate schinese Event_Party01_8ed697ff:
 

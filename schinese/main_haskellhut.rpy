@@ -111,471 +111,6 @@ translate schinese strings:
     old "That's all I need"
     new "结束询问"
 
-# translate schinese Haskell_Ask_Gwyddyon_ec80bdf4:
-
-#     # e "Hey, Haskell. Do you supply potions to Gwyddyon?"
-#     e ""
-
-# translate schinese Haskell_Ask_Gwyddyon_4288e628:
-
-#     # h "Yes, The Ardent Cauldron was an old name. You should know that."
-#     h ""
-
-# translate schinese Haskell_Ask_Gwyddyon_010d6c8f:
-
-#     # e "What's it like working with him?"
-#     e ""
-
-# translate schinese Haskell_Ask_Gwyddyon_539fb9ca:
-
-#     # h "Nothing fancy. He collects my potions with a cart every month, usually comes with plants he deemed useful for me."
-#     h ""
-
-# translate schinese Haskell_Ask_Gwyddyon_f0484f6e:
-
-#     # e "Do you two talk?"
-#     e ""
-
-# translate schinese Haskell_Ask_Gwyddyon_04676231:
-
-#     # h "No. I usually banish him right before he sells me one of his blue crystals."
-#     h ""
-
-# translate schinese Haskell_Ask_Gwyddyon_c13bdca3:
-
-#     # h "Why do you ask? did the oaf mentioned me?"
-#     h ""
-
-# translate schinese Haskell_Ask_Gwyddyon_57692784:
-
-#     # e "Well, something like that, not in a good light."
-#     e ""
-
-# translate schinese Haskell_Ask_Gwyddyon_e14792d4:
-
-#     # h "Hmmph... It is flattering to know someone has put so much attention onto me."
-#     h ""
-
-# translate schinese Haskell_Ask_Gwyddyon_5b4cca91:
-
-#     # h "But anyway, if you want to know about where Chime went. Probe him."
-#     h ""
-
-# translate schinese Haskell_Ask_Gwyddyon_c052bbd1:
-
-#     # h "I suppose he has a lot of knowledge regarding where he went."
-#     h ""
-
-# translate schinese Haskell_Ask_Gwyddyon_772f3625:
-
-#     # e "O-oh... Thanks, Haskell."
-#     e ""
-
-# translate schinese Haskell_Ask_Gwyddyon_2bae513d:
-
-#     # h "Mpph..."
-#     h ""
-
-# translate schinese Haskell_Ask_Gwyddyon_3cfdf47e:
-
-#     # "Haskell takes another sip."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_25ba4730:
-
-#     # "As soon as you open Haskell's door, you see the dragon sitting in the corner, a bubbling vat of dark red liquid in front of him."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_059deff9:
-
-#     # "His eyes don't even flicker towards you, so attentively is he looking at the mixture."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_6580869f:
-
-#     # h "Please do not distract me. Wuldon - who introduced himself only after I asked - is only allowed to be here because he is quiet. If creepily so."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_2854a866:
-
-#     # "It seems the dragon is a bit annoyed that you didn't introduce Wuldon to him, causing what appears to have been an awkward, if brief, conversation."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_15c383b7:
-
-#     # "Speaking of, Wuldon is sitting over at the table, looking at the stone, now covered in considerably less blood."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_af1df285:
-
-#     # "You take that as your queue to leave."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_9fc8947f:
-
-#     # "Enough time has passed that Haskell should probably be done with his analysis."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_304d9e03:
-
-#     # "That's what you tell yourself as you head towards Haskell's house, at least. Part of the active effort to shove the guilt and desire to get this all over with to the back of your mind."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_f539661e:
-
-#     # "Whatever other thoughts were running in your head come to a sudden stop as you see Wuldon staring straight at you from inside Haskell's house."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_1aaf2e50:
-
-#     # "As soon as your eyes meet, Wuldon breaks contact and sits down expectantly, looking over at something inside the house."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_4f04ac88:
-
-#     # "Quite possibly against your better judgment, you head inside."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_10a3384a:
-
-#     # "Haskell is sitting across from Wuldon, trying very hard not to look at the werewolf's mile-long stare, drumming his fingers on the table and looking at the door."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_5fef1618:
-
-#     # h "There you are, [e]. We can get started now."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_5a51bfad:
-
-#     # "His voice is a mix of dread and excitement, fitting for someone that hates work, but is dearly looking forward to no longer having a terrifying husk of a man in his home."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_e058b68c:
-
-#     # h "I spent the last few days analyzing Vurro's blood, to mixed success."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_398dd152:
-
-#     # w "Tell us anything useful you found."
-#     w ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_2035af35:
-
-#     # "Haskell shoots the werewolf an irritated glance, which of course has no effect on Wuldon's face."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_f67e5c6c:
-
-#     # h "Alright. Vurro was definitely cursed."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_6bd0b0ac:
-
-#     # h "His blood was highly reactive to curse-related catalysts, and practically inert to everything else."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_c1b984df:
-
-#     # "Curses are unfamiliar territory for you - this is probably something you should ask questions about."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_cccb33b8:
-
-#     # e "What exactly do you mean by a curse? Does that tell us anything about who could have done this?"
-#     e ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_85c2d03c:
-
-#     # "Haskell gives you a slight nod, approving of your attitude."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_64fce2ee:
-
-#     # h "A curse is negative magic cast upon any person or thing."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_ddfe086c:
-
-#     # h "The most famous curses are those used on others, but they have just as often been used on water sources or farmland."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_a7cb0e7b:
-
-#     # "The red dragon sighs in frustration before broaching the next point."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_790b430b:
-
-#     # h "Regarding who did it, all it tells me is that the caster was most likely some form of shaman or mage."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_2e0e58c6:
-
-#     # h "Whether Vurro had the curse cast on him by that person directly, I do not know. There are ways to spread curses even without being able to cast magic yourself, but that requires access to a previously existing curse."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_18a327a7:
-
-#     # "Wuldon breaks his silence, the topic drawing his attention."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_5c8967ae:
-
-#     # w "Explain. How would you spread it, and what would be a curse source."
-#     w ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_2524bb8e:
-
-#     # "Haskell gives him a concerned look, reaching out for tea that isn't there on reflex."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_05737284:
-
-#     # h "I'd normally say that spreading a curse like that would be far too difficult, but I know that some of the slime materials from up north in slime country would make it quite easy."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_afa52776:
-
-#     # h "A mixture of any cursed material and rotten discharge, for example, would trap the curse quite easily. From there it would be a matter of mixing in some corrupting sludge, and you'd have a working vector."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_3f613350:
-
-#     # h "It would only be a matter of feeding somebody that cursed material, and they would be afflicted within moments."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_763275a6:
-
-#     # "Considering Wuldon's story, that is extremely doubtful, nobody was next to Vurro when he turned - but it isn't out of the question, you suppose."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_4382b2b0:
-
-#     # w "That sounds about right."
-#     w ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_e08ed844:
-
-#     # "You give Wuldon a surprised look at the same time as Haskell gives him a saddened one."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_5f8ef067:
-
-#     # h "It would be a matter of finding out what cursed material they used, I suppose. That would be the best way to see who did it."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_6038a719:
-
-#     # h "Cursed material can be anything ranging from a patch of soil from cursed farmland, to the water of a cursed river... even Vurro's blood would work."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_6bfd3227:
-
-#     # h "Not that Vurro could have been cursed by his own blood, hehe..."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_f02f35e8:
-
-#     # "A painfully awkward laugh echoes throughout the hut - the first time the hut has ever had an echo. Haskell clears his throat awkwardly and carries on as if nothing had happened."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_7ddb53b9:
-
-#     # h "I don't know of any other such items in the area, so finding that should give a large lead."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_48bbbd12:
-
-#     # "Satisfied that his explanations should suffice, Haskell begins to usher the two of you towards the door."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_d6a3d2b5:
-
-#     # "You still aren't satisfied with this, however, even if Wuldon is."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_9cd9c79d:
-
-#     # e "Just to know, how would a mage, sorcerer, shaman... whatever, cast magic like this?"
-#     e ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_e442f45b:
-
-#     # "An uncomfortable frown crosses Haskell's face, removing the happiness at getting you out of his house."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_4a0a7966:
-
-#     # h "They need your name or image to cast magic on you. The actual way they cast it is with words of great power, and sacrifice."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_1f8870d9:
-
-#     # "The two of you are out of the door now, as Haskell looks down at you from inside."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_579399fd:
-
-#     # h "Most curses would cost the lives of several people to cast. Those willingly given are worth more than otherwise, but either can be used. The same applies to the lives of the young as compared to the old."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_d110466f:
-
-#     # "A shiver goes down your spine as you imagine what that could mean for Vurro's curse."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_d9c68fd9:
-
-#     # "...Or your presence in this world."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_aa6ab177:
-
-#     # e "Thank you, Haskell. I'll try and bring you some tea later."
-#     e ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_c58dc235:
-
-#     # "Haskell smiles slightly, but loses it when he looks at Wuldon again."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_54a412e1:
-
-#     # h "Maybe some other time. I've had enough of guests for a while."
-#     h ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_d728a0b5:
-
-#     # "You wince as you imagine spending more than an hour with Wuldon like this."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_54669263:
-
-#     # e "Alright, well. I hope you enjoy the tea you do have then."
-#     e ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_8ab760ce:
-
-#     # "All you get is a nod in response, as Haskell turns and closes the door."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_542fc330:
-
-#     # "You turn around to see Wuldon looking at you."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_9a6bacbe:
-
-#     # w "Visit my house when you're ready to go to slime country."
-#     w ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_cf60068e:
-
-#     # "The certainty in his voice fills you with unease."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_8af870c0:
-
-#     # e "I was worried you'd suggest something like this after what you said earlier."
-#     e ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_b7318844:
-
-#     # e "Why... why would you spread the curse further? I get that it would be the ultimate revenge against Uffe to make him feral, but."
-#     e ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_479d7e94:
-
-#     # e "Is that really worth it?"
-#     e ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_6c04dea1:
-
-#     # "A bit of Wuldon comes back up from the depths he's hit himself in, his calm veneer disrupted by grief and frustration."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_6fb7822c:
-
-#     # w "I'm not going to make Uffe a feral. He would enjoy the power it gave him, if anything."
-#     w ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_f9b89db6:
-
-#     # w "Even if you help me with killing Uffe, it's going to be two against a tribe and their warmongering leader."
-#     w ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_42095c56:
-
-#     # "You narrow your eyes at the werewolf."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_672fafad:
-
-#     # e "Okay, then what are you planning?"
-#     e ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_67ed876c:
-
-#     # "Wuldon's melancholy morphs into of rage and guilt, a battle between morality and hatred writ across his face."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_6eed409e:
-
-#     # w "Uffe has a second in command - a general of sorts. Someone I know has blood on their hands, and deserves the same fate as Uffe."
-#     w ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_a06917cd:
-
-#     # w "If you're worried about proving it, the plan won't work if he isn't a vicious murderer. We will lure him into attacking and killing you on your own, only for me to grab him and shove the curse mixture down his throat."
-#     w ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_46cf3639:
-
-#     # w "That way, we get rid of a threat, gain a body to fight on our side, and make a beast of a creature look like what it actually is."
-#     w ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_8012e03b:
-
-#     # "He spits to the side as he talks about the general. It is clear Wuldon genuinely thinks less of him than a worm."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_d21aabfb:
-
-#     # e "Alright. I'll help you with that - but if I catch you trying to feed it to someone else, we're quits."
-#     e ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_6fce04e7:
-
-#     # w "I should be the one worried about you killing an innocent person, don't you think."
-#     w ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_cc8c7a88:
-
-#     # w "If I do such a thing, I fully trust you to kill me where I stand. You have a good track record of killing things you think are monsters."
-#     w ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_e5ef4257:
-
-#     # "You can't help but grimace at that. He's not wrong to accuse you of that, but you wish he were."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_f9fd69cc:
-
-#     # e "Fair enough. I'll see you at your house then."
-#     e ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_7a346f22:
-
-#     # "Wuldon's face goes back to schooled neutrality."
-#     ""
-
-# translate schinese Haskell_Report_Wuldon_Curse_8a1c4d3f:
-
-#     # w "Yes. I'll see you there."
-#     w ""
-
 translate schinese Haskell_Buggbear_Wait_561492c6:
 
     # e "Hey... Haskell? Is the deeds done?"
@@ -1241,10 +776,10 @@ translate schinese Haskell_Ask_Goat_Tribe_b10d2a73:
     # h "Yeah I know them, they're called Kechioeren."
     h "噢你说凯奇奥伦啊。"
 
-translate schinese Haskell_Ask_Goat_Tribe_e4f667b2:
+translate schinese Haskell_Ask_Goat_Tribe_94deea63:
 
-    # e "Uh... Ke-K-eso... Kechieoeo-"
-    e "呃……珂-凯七……凯奇欧——"
+    # e "Uh, Ke-K-eso... Kechieoeo-"
+    e "呃，珂、凯七……凯奇欧——"
 
 translate schinese Haskell_Ask_Goat_Tribe_d1748bd5:
 
@@ -1286,9 +821,9 @@ translate schinese Haskell_Ask_Goat_Tribe_38f63c1d:
     # h "Business relationship, I just give them potion, usually they need a lot of magic potions."
     h "商业往来，我卖药水给他们，他们付钱给我。山羊部落经常需要大量的魔力药水。"
 
-translate schinese Haskell_Ask_Goat_Tribe_0ad2acf8:
+translate schinese Haskell_Ask_Goat_Tribe_6e73fceb:
 
-    # e "Didn't you say they work on the Primordial Runes? The Spell... energy it gives them?"
+    # e "Didn't you say they work on the primordial runes? The Spell... energy it gives them?"
     e "你不是说他们从上古符石那获取魔力？"
 
 translate schinese Haskell_Ask_Goat_Tribe_508ea55c:
@@ -1592,10 +1127,10 @@ translate schinese Haskell_Meet_Hut_72a33094:
     # e "..."
     e "……"
 
-translate schinese Haskell_Meet_Hut_88649592:
+translate schinese Haskell_Meet_Hut_950deeac:
 
-    # m "What are you looking at?"
-    m "看什么？"
+    # my "What are you looking at?"
+    my "看什么？"
 
 translate schinese Haskell_Meet_Hut_4e0b2e03:
 
@@ -1627,15 +1162,15 @@ translate schinese Haskell_Meet_Hut_549e712b:
     # "You suddenly realise the dragon is dangerously close to you, only a few inches apart."
     "你突然意识到自己离这个陌生人不过二三尺近，非常危险。"
 
-translate schinese Haskell_Meet_Hut_6a2c3783:
+translate schinese Haskell_Meet_Hut_602a99f3:
 
-    # m "What, How did you hit your head again..."
-    m "唉，怎么又撞破头了……"
+    # my "What, How did you hit your head again..."
+    my "唉，怎么又撞破头了……"
 
-translate schinese Haskell_Meet_Hut_a4992a39:
+translate schinese Haskell_Meet_Hut_00530f06:
 
-    # m "I've got ointment on my hand, just wait."
-    m "好在我备着些药膏，你先别动。"
+    # my "I've got ointment on my hand, just wait."
+    my "好在我备着些药膏，你先别动。"
 
 translate schinese Haskell_Meet_Hut_1b303302:
 
@@ -1647,35 +1182,35 @@ translate schinese Haskell_Meet_Hut_9523cb17:
     # e "What did you mean by 'again'?"
     e "你说“又”是什么意思？"
 
-translate schinese Haskell_Meet_Hut_5648014e:
+translate schinese Haskell_Meet_Hut_45934bec:
 
-    # m "Didn't you hit your head when you arrive?"
-    m "你穿越来的时候不是也撞到头了？"
+    # my "Didn't you hit your head when you arrive?"
+    my "你穿越来的时候不是也撞到头了？"
 
 translate schinese Haskell_Meet_Hut_763838df:
 
     # e "Uhh... how did you know?"
     e "呃……你怎么知道的？"
 
-translate schinese Haskell_Meet_Hut_af401647:
+translate schinese Haskell_Meet_Hut_bef8d712:
 
-    # m "I just know."
-    m "我就是知道。"
+    # my "I just know."
+    my "我就是知道。"
 
-translate schinese Haskell_Meet_Hut_9a8484e7:
+translate schinese Haskell_Meet_Hut_ea8c1cf5:
 
-    # m "And maybe if Seb didn't jump on his feet and tell me about his new roommate that's kinda cute, according to him."
-    m "或许还少不了塞巴斯蹦到我面前介绍他可爱的新室友。"
+    # my "And maybe if Seb didn't jump on his feet and tell me about his new roommate that's kinda cute, according to him."
+    my "或许还少不了塞巴斯蹦到我面前介绍他可爱的新室友。"
 
 translate schinese Haskell_Meet_Hut_c6c2c87b:
 
     # e "...kinda c-cute?"
     e "……可、可爱？"
 
-translate schinese Haskell_Meet_Hut_1ba9b7dd:
+translate schinese Haskell_Meet_Hut_a7bb7c58:
 
-    # m "His word, not mine."
-    m "他的用词就是可爱。"
+    # my "His word, not mine."
+    my "他的用词就是可爱。"
 
 translate schinese Haskell_Meet_Hut_e8027532:
 
@@ -1937,9 +1472,9 @@ translate schinese Haskell_Meet_Hut_07250603:
     # h "These goat folks are much weaker than they're now. Furkan is furious that they lost the outpost to the buggbears, more recently."
     h "如今那群山羊的力量可以说是一落千丈，最近哨站失守可把弗坎气坏了。"
 
-translate schinese Haskell_Meet_Hut_a65d1ec9:
+translate schinese Haskell_Meet_Hut_7d9ff710:
 
-    # e "Hmm... Primordial Runes?"
+    # e "Hmm... primordial runes?"
     e "嗯……上古符石？"
 
 translate schinese Haskell_Meet_Hut_50126663:
@@ -2142,20 +1677,20 @@ translate schinese Haskell_First_Meet_b121d820:
     # "As soon as you try to approach him, you step on a dry leaf, making loud cracking sound across the forest."
     "却一脚踩在枯叶上，响亮的破裂声任谁都能听见。"
 
-translate schinese Haskell_First_Meet_8e2821ca:
+translate schinese Haskell_First_Meet_bf6b7d74:
 
-    # m "Hmmm...?"
-    m "嗯……？"
+    # my "Hmmm...?"
+    my "嗯……？"
 
 translate schinese Haskell_First_Meet_20d216de:
 
     # "A blunt voice comes out of the figure's mouth, you realise that he is a dragon."
     "树干上的神秘人声音浑厚。你听出来了，他也是一头龙。"
 
-translate schinese Haskell_First_Meet_7b29988e:
+translate schinese Haskell_First_Meet_a45f163c:
 
-    # m "Ohh. You're not supposed to be here."
-    m "噢。这里可不是你随便来的地方。"
+    # my "Ohh. You're not supposed to be here."
+    my "噢。这里可不是你随便来的地方。"
 
 translate schinese Haskell_First_Meet_14953670:
 
@@ -2798,11 +2333,6 @@ translate schinese Haskell_Minotaur_Dungeon_d752473d:
     # h "Take these potions."
     pass
 
-translate schinese Haskell_Minotaur_Dungeon_a5374a47:
-
-    # h "Stay safe, courier."
-    h "注意安全，龙崽。"
-
 translate schinese Haskell_Minotaur_Dungeon_cf2822a3:
 
     # e "Thank you, Haskell."
@@ -2924,9 +2454,9 @@ translate schinese Haskell_Report_Minotaur_Dungeon_34fcfa42:
     # "Haskell swirls the viscous liquid."
     "哈斯克尔晃了晃瓶内那粘稠的液体。"
 
-translate schinese Haskell_Report_Minotaur_Dungeon_fbe9fb19:
+translate schinese Haskell_Report_Minotaur_Dungeon_0e61a0aa:
 
-    # h "It looks like you have a good time harvesting this product."
+    # h "It looks like you had a great time harvesting this product."
     h "看来你收获这些东西的时候不是一般的爽啊。"
 
 translate schinese Haskell_Report_Minotaur_Dungeon_1cd9bf6b:
@@ -2949,70 +2479,91 @@ translate schinese Haskell_Report_Minotaur_Dungeon_b3834a8b:
     # h "That's for me to know, and not for you to find out."
     h "我可以知道，而你不可以。"
 
-translate schinese Haskell_Report_Minotaur_Dungeon_632dde61:
+translate schinese Haskell_Report_Minotaur_Dungeon_710596a7:
 
-    # h "But I can tell you this. He is actually the source that told me about the minotaur cave."
-    h "但我不妨透露一点，他就是告诉我那个山洞存在的人。"
-
-translate schinese Haskell_Report_Minotaur_Dungeon_43b53d27:
-
-    # h "I did some research while you were off in the dungeon."
-    h "你出发之后我做了点调查。"
+    # h "But, I did do some research while you were off in the dungeon."
+    h "话说回来，你出发之后我做了点调查。"
 
 translate schinese Haskell_Report_Minotaur_Dungeon_94699b04:
 
     # h "The minotaur you fought is technically not an evil monster."
     h "洞里那头弥诺陶洛斯其实生性并不残暴。"
 
-translate schinese Haskell_Report_Minotaur_Dungeon_f6faf2fc:
+translate schinese Haskell_Report_Minotaur_Dungeon_f581059d:
 
-    # h "It was imprisoned for it didn't know how to control its immense power."
+    # h "It was imprisoned for it had no idea how to control its immense power."
     h "之所以要囚禁他，是因为他不知该如何控制自己那过于强大的力量。"
 
-translate schinese Haskell_Report_Minotaur_Dungeon_fc4fabcc:
+translate schinese Haskell_Report_Minotaur_Dungeon_482ddc09:
 
-    # h "It has been sometime since the beast had some company in its captivity."
+    # h "In my calculation, it's since been some time as the beast had some company in its captivity."
     h "被关这么久，他已经挺长时间没见外人了。"
 
-translate schinese Haskell_Report_Minotaur_Dungeon_248a167b:
+translate schinese Haskell_Report_Minotaur_Dungeon_1e34096b:
 
-    # h "So, I believe it is thankful that a courier went to visit it, regardless of the outcome."
-    h "因此，我相信无论结果如何，他都会感谢有你“陪伴”的这一阵时光。"
+    # h "So, I believe it is thankful that someone went to visit it, regardless of the outcome."
+    h "因此，我相信无论结果如何，他都会感谢有其他人“陪伴”的这一阵时光。"
 
 translate schinese Haskell_Report_Minotaur_Dungeon_601f1b5c:
 
     # e "That's... quite sad."
     e "听上去……挺悲哀的。"
 
-translate schinese Haskell_Report_Minotaur_Dungeon_d395c31b:
+translate schinese Haskell_Report_Minotaur_Dungeon_7c321bb7:
 
-    # h "Well, don't get too attached. The beast is ultimately a freak of nature."
-    h "嚯，你可别太共情。说到底弥诺陶洛斯就是个自然的怪胎。"
+    # h "Well, in the end, the minotaur is merely a freak of nature, an anomaly that shouldn't even be there in the first place."
+    h "嚯，你可别太共情。说到底弥诺陶洛斯就是个大自然的怪胎，本不该有的畸形造物。"
 
-translate schinese Haskell_Report_Minotaur_Dungeon_8e46ef1a:
+translate schinese Haskell_Report_Minotaur_Dungeon_72dc59f0:
 
-    # h "It might not mean harm but it was imprisoned for a reason."
-    h "烈马笼头，火枪入套。就算他没有害人的意思，只有关起来人们才能放心。"
+    # h "It might not mean harm but the beast was imprisoned for a reason."
+    h "就算他没有害人的意思，只有关起来人们才能放心。"
 
-translate schinese Haskell_Report_Minotaur_Dungeon_84574523:
+translate schinese Haskell_Report_Minotaur_Dungeon_00da5a3a:
 
-    # h "If one can't control lightning, one has to bottle it."
-    pass
+    # e "Haskell, the minotaur is still a living being."
+    e "可弥诺陶洛斯也是活生生的生命啊。"
 
-translate schinese Haskell_Report_Minotaur_Dungeon_5022ce7e:
+translate schinese Haskell_Report_Minotaur_Dungeon_a305ad6e:
 
-    # h "Anyway, enough story. Now let me get on with the potion making."
-    h "好，故事就讲到这里。现在我得去开炉煎药了。"
+    # h "Yes, and so are the slimes. And the mimics, and everything else. For them, this is the way of life, and so does the minotaur."
+    h "没错，史莱姆是生命，宝箱怪是生命，还有各种我们见没见过的怪物都是生命。"
+    h "然而对它们来说，弱肉强食、你死我活就是他们的生活方式，弥诺陶洛斯同样如此。"
 
-translate schinese Haskell_Report_Minotaur_Dungeon_5f1650c7:
+translate schinese Haskell_Report_Minotaur_Dungeon_a440be24:
 
-    # h "With the amount you've harvested, I should be able to make an extra potion for you."
-    h "你榨回来这么多精华，应该够我为你额外再做一瓶。"
+    # h "So don't get too attached to anyone, kiddo. It's a fool's errand, nothing more."
+    h "所以别把太多心思放在其他人身上，小龙崽。这不过是猴子捞月的傻事罢。"
+
+translate schinese Haskell_Report_Minotaur_Dungeon_93977572:
+
+    # e "I think, you're oversimplifying things, Haskell."
+    e "我觉得你把事情简化过头了，哈斯克尔。"
+
+translate schinese Haskell_Report_Minotaur_Dungeon_897e726c:
+
+    # h "Well, kiddo. I'm not here to lecture you about morality, you learnt enough from the folks back in the village already."
+    h "嗯哼，我不是来给你上道德课的，你从部落的长辈那已经学到够多的东西了。"
+
+translate schinese Haskell_Report_Minotaur_Dungeon_7eb12185:
+
+    # h "Anyway, enough story. Now let me get on with the potion making. I have a customer to serve."
+    h "总之，故事就讲到这里。现在我得去开炉煎药，还有客户等着我呢。"
+
+translate schinese Haskell_Report_Minotaur_Dungeon_773ec3fe:
+
+    # h "Here's your reward, by the way. Use them wisely."
+    h "这些是给你的报酬，好好用别浪费。"
 
 translate schinese Haskell_Report_Minotaur_Dungeon_b73b6cb7:
 
     # e "Thank you so much, Haskell."
-    e "那先谢过啦。"
+    e "谢啦。"
+
+translate schinese Haskell_Report_Minotaur_Dungeon_c47c9319:
+
+    # msg "You received 3 Strength Potions, 3 Green Ointments, and 400 gold."
+    msg "你取得了 3 瓶力量药水，3 块绿色药膏，以及 400 枚金币。"
 
 translate schinese Haskell_After_Sick_Quest_1ddad8d8:
 
@@ -3068,313 +2619,3 @@ translate schinese Haskell_After_Sick_Quest_fc0fb835:
 
     # h "Next time, I'll just offer you some tea and call it a day."
     h "否则我最多给你沏上一杯茶，就这样。"
-
-# translate schinese Haskell_Trinket_Quest_50b0fd68:
-
-#     # e "Hey, Haskell?"
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_15d02190:
-
-#     # h "Yes, [e]?"
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_3bfe9e11:
-
-#     # e "I've been wondering about something for a while now, and thought you'd probably be the one that knew best."
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_5b5c4d36:
-
-#     # "Haskell takes a long draught of tea."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_93c83689:
-
-#     # h "yeeeees...?"
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_fd92cbe2:
-
-#     # e "Oh, no, it's nothing too bad."
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_7d7d6207:
-
-#     # e "I was just wondering if you had any idea about the magic that took me here."
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_a2b4376d:
-
-#     # "Haskell looks visibly relieved."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_e10e4cb4:
-
-#     # h "Oh, thank God, I thought it was going to be potion related."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_baf95207:
-
-#     # h "Well, I can't really tell you much right now, as I don't really know the details, but... I might be able to figure something out if you tell me about it?"
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_a2d58de6:
-
-#     # e "Oh. Well... my memories about it are pretty hazy?"
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_6764b204:
-
-#     # "You start fidgeting nervously as you try to recall the events of that day."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_8947747f:
-
-#     # "Haskell is waiting patiently in his seat, giving you time as he pours you a cup of tea in a mug he had hidden under the table for some reason."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_d739e6f7:
-
-#     # e "Most of what I remember are dark shapes and feelings of loss."
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_9eae7b8f:
-
-#     # e "I remember being with my friend, and losing him."
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_12f202f3:
-
-#     # e "... and I remember a shaman that looked a lot like Kari."
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_46776142:
-
-#     # "Haskell takes a deep sigh, staring into his tea, stirring it as he thinks."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_b2667282:
-
-#     # h "And you say you don't recognize this area?"
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_65dca972:
-
-#     # e "No. This is all new to me."
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_93ab73f5:
-
-#     # e "Even many of the species are new to me - though some are the same."
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_f56d55b2:
-
-#     # "Seeing that this is going to be a while, Haskell motions you to sit down across from him, in front of the absurdly large mug of fragrant tea."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_32a0ea9f:
-
-#     # h "Hmm... what about the landscape and plants? Are those very different?"
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_1ab06a38:
-
-#     # h "I ask because you say it's all new, but... the similarities you mention imply that wherever you came from isn't too different after all."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_a20cefa7:
-
-#     # "..."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_94004a03:
-
-#     # "Oh."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_b9822b04:
-
-#     # e "I... don't know?"
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_800155c2:
-
-#     # "Haskell looks at you oddly."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_06bae697:
-
-#     # h "What do you mean you don't know."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_036a1827:
-
-#     # "You scratch the back of your head awkwardly."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_06ee657b:
-
-#     # e "I guess I never paid attention to the plants back home?"
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_80841e45:
-
-#     # "You find it hard to believe that, even as the one saying it."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_fb18f145:
-
-#     # h "You're telling me someone who can now identify dozens of useful plants for medicine and tailoring, who already knew how to navigate difficult landscapes just..."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_d542eb13:
-
-#     # "He motions vaguely."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_45a12b29:
-
-#     # h "Never paid enough attention to the world around him to know if the land itself was different from ours."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_3e1ad492:
-
-#     # e "I... I guess that's what I'm saying?"
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_71711b1e:
-
-#     # "Haskell puts his mug down, crossing his arms."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_8b4a62c9:
-
-#     # h "Yeah, no."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_31b6e0ea:
-
-#     # "He puts his hand up to preempt your response."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_8864687e:
-
-#     # h "I'm not saying you're lying. I don't think you are."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_871a9d13:
-
-#     # h "I just think there's something else going on here."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_94244853:
-
-#     # "That's not alarming at all."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_2a28f746:
-
-#     # e "Like what?!"
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_a93ce873:
-
-#     # "Haskell puts a hand up to his head, rubbing it as if to try and prevent an oncoming headache."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_89efd729:
-
-#     # h "Oh, god, so many things."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_50aebca2:
-
-#     # h "Great Magic, let alone something that sounds almost at the level of pact magic, tends to leave sequelae on the people and parts of the world it affects."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_1af64e19:
-
-#     # "You don't want to seem stupid, but also, you have to ask."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_34145912:
-
-#     # e "What is a sequelae?"
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_acec6533:
-
-#     # h "The singular would be a sequela, but... basically, lingering after-effects. Some of which may never go away."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_f43d25f4:
-
-#     # h "These can range from something as mundane as the hair on your pinky disappearing for 2 weeks, to something as massive as teleporting 20 feet every hour on the dot."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_49dbf884:
-
-#     # h "Luckily, you don't seem to be that bad off, though it does seem like you have a bit of amnesia at the very least."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_73e18b9e:
-
-#     # "This is really not how you expected this conversation to go for you."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_450d6569:
-
-#     # e "So you're saying I might be ill or something? Is there any way I can figure out what might be wrong with me?!"
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_ca509cc9:
-
-#     # h "Well..."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_5cf2cd34:
-
-#     # h "I could give you a medical examination?"
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_01884bd3:
-
-#     # e "I... I think I'd really appreciate that."
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_2ce020bf:
-
-#     # h "Alright, sounds good to me."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_23969462:
-
-#     # h "I'll need you to get some chrysanthemums for me before we start."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_fbc66ec5:
-
-#     # e "That's... odd. What do you need those for?"
-#     e ""
-
-# translate schinese Haskell_Trinket_Quest_e7a46752:
-
-#     # "Haskell scratches his cheek."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_bd949e45:
-
-#     # h "I need them for uhh... the check up."
-#     h ""
-
-# translate schinese Haskell_Trinket_Quest_ca6084e3:
-
-#     # "You narrow your eyes at him."
-#     ""
-
-# translate schinese Haskell_Trinket_Quest_b495059f:
-
-#     # h "I need them for the check up. I'll get some stuff ready while you go do that."
-#     h ""

@@ -1,6 +1,31 @@
-﻿translate schinese Ability_Item_dafa5cba:
+﻿translate schinese Ability_Item_194497cc:
 
-    # "You cannot use this ability facing this enemy."
+    # "You cannot use this ability against the enemy."
+    "你不必对这座雕像如此大动干戈。"
+
+translate schinese Ability_Item_194497cc_1:
+
+    # "You cannot use this ability against the enemy."
+    "你不必对这座雕像如此大动干戈。"
+
+translate schinese Ability_Item_194497cc_2:
+
+    # "You cannot use this ability against the enemy."
+    "你不必对这座雕像如此大动干戈。"
+
+translate schinese Ability_Item_194497cc_3:
+
+    # "You cannot use this ability against the enemy."
+    "你不必对这座雕像如此大动干戈。"
+
+translate schinese Ability_Item_194497cc_4:
+
+    # "You cannot use this ability against the enemy."
+    "你不必对这座雕像如此大动干戈。"
+
+translate schinese Ability_Item_194497cc_5:
+
+    # "You cannot use this ability against the enemy."
     "你不必对这座雕像如此大动干戈。"
 
 translate schinese Use_Green_Ointment_b43b395e:
@@ -43,10 +68,10 @@ translate schinese Ability_Self_Heal_90794f49:
     # "You used self heal, your health goes up by [healing] HP."
     "自愈技能发动，你回复了 [healing] 体力。"
 
-translate schinese Ability_Fiery_Charge_13bb8de1:
+translate schinese Ability_Fiery_Charge_44eed36a:
 
-    # "You use Fiery Charge on [target.name], dealing [fc_damage] HP Damage. They are now scorched."
-    "你对所有敌人发动了爆炎冲锋，使他们失去了 [fc_damage] 点体力，并附加灼烧效果。"
+    # "You use Fiery Charge on [target.name], dealing [scorch_damage] HP Damage. They are now scorched."
+    "你对所有敌人发动了爆炎冲锋，使他们失去了 [scorch_damage] 点体力，并附加灼烧效果。"
 
 translate schinese Ability_Fiery_Charge_c8ed4ac1:
 
@@ -93,6 +118,31 @@ translate schinese Ability_Resolution_8f64a376:
     # "You used Resolution, and reduced your current lust by [reduced_lust]."
     "净心技能发动，你的性欲减少了 [reduced_lust] 点。"
 
+# translate schinese Ability_Immolation_6adbeaba:
+
+#     # "You cast your spell on [target.name] and immolate all enemies, dealing [immolation_damage] HP Damage."
+#     ""
+
+# translate schinese Ability_Immolation_d082cdbc:
+
+#     # "You cast your spell on [target.name] and immolate all enemies, scorched targets are dealt [immolation_damage] HP Damage."
+#     ""
+
+# translate schinese Ability_Spectral_Orb_3a4a72c9:
+
+#     # "You conjures a spectral orb, and it floats around you."
+#     ""
+
+# translate schinese Ability_Spectral_Orb_347afc83:
+
+#     # "You now have [orbed.rounds] orbs, blasting them all forwards, all enemies are dealt [orb_damage] HP."
+#     ""
+
+translate schinese Enemy_Self_Healing_fb3c2a38:
+
+    # "[enemy.img] healed for [heal_amount_int] HP."
+    "[enemy.img] 回复了 [heal_amount_int] 点体力。"
+
 translate schinese Battle_End_Check_78e7c049:
 
     # "Your health decreases by [wounded_damage] from the bleeding."
@@ -133,20 +183,20 @@ translate schinese Battle_End_Check_0575b416:
     # "[enemy2.name]'s health decreases by [wounded_damage] from the bleeding."
     "[enemy2.name]因伤口出血失去了[wounded_damage]点体力。"
 
-translate schinese Battle_Kari_1f398792:
+translate schinese Battle_Kari_a9f4cce1:
 
-    # "After your turn, Kari steps forward and strikes the mimic with his scepter, dealing [kari_damage] to the mimic."
-    "待你出招后，卡里随即冲上前挥杖出击，令对方损失了 [kari_damage] 点体力。"
+    # "After your turn, Kari steps forward and strikes the [enemy.name] with his scepter, dealing [kari_damage] to the [enemy.name]."
+    "待你出招后，卡里随即冲上前挥杖出击，令[enemy.name]损失了 [kari_damage] 点体力。"
 
-translate schinese Battle_Kari_06b08059:
+translate schinese Battle_Kari_a2131bdc:
 
-    # k "Evil Chest, now it's the time for you to die!"
+    # k "Evil monster, now it's the time for you to die!"
     k "孽种，受死吧！"
 
-translate schinese Battle_Kari_af74caa2:
+translate schinese Battle_Kari_9f46ba03:
 
-    # e "H-hey... it can't hear you."
-    e "那个……其实它听不见你在说什么。"
+    # e "H-hey... it probably can't hear you."
+    e "那个……其实它可能听不见你在说什么。"
 
 translate schinese Battle_Kari_188e5f4f:
 
@@ -162,6 +212,11 @@ translate schinese Battle_Kari_1aa8b32d:
 
     # e "Thanks, Kari. You've been a great help."
     e "帮大忙，谢啦卡里。"
+
+# translate schinese Battle_ASF_43d8069b:
+
+#     # "You consumed all the spectral orbs around you and healed yourself for [heal_amount] HP."
+#     ""
 
 translate schinese Battle_ASF_28c0b179:
 
@@ -1178,10 +1233,10 @@ translate schinese goat_general_win_3b8788d7:
     # e "Oh, Hey, Kari. So, what's the matter with Furkan?"
     e "好的。嗨，卡里，请问你们的族长出了什么事吗？"
 
-translate schinese goat_general_win_e11d5000:
+translate schinese goat_general_win_b5470d17:
 
-    # k "He went missing..."
-    k "他失踪了……"
+    # k "He went missing."
+    k "他失踪了。"
 
 translate schinese goat_general_win_96fbb4db:
 
@@ -1191,7 +1246,7 @@ translate schinese goat_general_win_96fbb4db:
 translate schinese goat_general_win_a1e966df:
 
     # k "He didn't tell me. Usually he told me where he'd go."
-    k "他没有告诉我……可他平常都会的。"
+    k "他没有告诉我，可他平常都会的。"
 
 translate schinese goat_general_win_0e707dba:
 
@@ -1226,7 +1281,7 @@ translate schinese goat_general_win_ecb1ed82:
 translate schinese goat_general_win_dc008138:
 
     # k "Golem?"
-    k "石魔像……？"
+    k "石魔像？"
 
 translate schinese goat_general_win_0e358a34:
 
@@ -1458,9 +1513,9 @@ translate schinese goat_general_lose_017040c3:
     # gg "Nothing useful."
     gg "没什么有用的。"
 
-translate schinese goat_general_lose_98ffc2cd:
+translate schinese goat_general_lose_57cbd42e:
 
-    # e "I- uhhh... I think I know... something."
+    # e "I- uhhh... I think I know something."
     e "我，呃……我想起一件事。"
 
 translate schinese goat_general_lose_9d24105f:
@@ -1468,45 +1523,50 @@ translate schinese goat_general_lose_9d24105f:
     # gg "W-what?"
     gg "说。"
 
-translate schinese goat_general_lose_12c2565c:
+translate schinese goat_general_lose_21bd3f82:
 
-    # e "I was in the river some time before... and I saw a golem."
-    e "之前我在河边……看见了一个石魔像。"
+    # e "I was in the river some time before, and I saw a golem."
+    e "之前我在河边看见一个特别高大的石魔像。"
 
 translate schinese goat_general_lose_a12e3a29:
 
     # e "It's really big and it's ready to kill me there, but I defeated it."
-    e "那个石魔像超级大，还主动攻击我，所以我把他放倒了。"
+    e "它一上来就想对我下杀手，但我已经解决掉他了。"
 
 translate schinese goat_general_lose_836e3bd6:
 
     # gg "You-... killed it?"
-    gg "你——干掉了那尊符石护卫？"
+    gg "你——杀了它吗？"
 
 translate schinese goat_general_lose_fbfb4027:
 
     # e "Y-yes."
-    e "是的。"
+    e "是、是啊。"
 
-translate schinese goat_general_lose_dd45b4dd:
+translate schinese goat_general_lose_1138340a:
 
-    # gg "He's there."
-    gg "我知道了。"
+    # "The general looks at you with a little bit of surprise, but he quickly hides it."
+    "山羊将军注视着你，眼神流露出一丝惊讶，不过他很快掩饰了过去。"
+
+translate schinese goat_general_lose_2078fb23:
+
+    # gg "I got it. He's there."
+    gg "我知道族长去哪了。"
 
 translate schinese goat_general_lose_c18eb48e:
 
     # e "W-what?"
-    e "啊？"
+    e "哪？"
 
 translate schinese goat_general_lose_b70da06b:
 
     # gg "He's with the Golem."
-    gg "族长肯定去找符石护卫了。"
+    gg "他肯定去找符石护卫了。"
 
 translate schinese goat_general_lose_21a76c7c:
 
     # e "But we killed it."
-    e "可是我们那天已经干掉这个石像了。"
+    e "可是我们那天已经干掉那个石像了啊。"
 
 translate schinese goat_general_lose_221eecd8:
 
@@ -1521,47 +1581,47 @@ translate schinese goat_general_lose_d819a6db:
 translate schinese goat_general_lose_df0f12a6:
 
     # gg "Our guardians went rogue after the primordial runes stopped supplying spell energy."
-    gg "失去上古符石的能量后，他们便失去了控制。"
+    gg "符石护卫本应待在山顶保护符石。但失去上古符石的能量后，他们便失去了控制。"
 
-translate schinese goat_general_lose_ff505267:
+translate schinese goat_general_lose_1adf0e00:
 
-    # goatguard "Uhmm... general, is it wise to share information to a Lusterfolk?"
-    goatguard "将军……向乐村的野蛮人透露这些信息不太好吧。"
+    # gg "And those guardians were supposed to be guarding the runes, right on top of our mountain."
+    pass
 
-translate schinese goat_general_lose_cb46e8f1:
+translate schinese goat_general_lose_7a2ce101:
 
-    # gg "No, but we need to save our chieftain."
-    gg "为了找到族长，我们别无选择。"
+    # e "What do this have to do with where the Golems have been."
+    e "所以？"
 
-translate schinese goat_general_lose_cfa1e194:
+translate schinese goat_general_lose_7875b56c:
 
-    # gg "He's in the cave."
-    gg "我相信族长去了那个靠近苍耀湖的山洞。"
+    # gg "Because Furkan's in the damp cave."
+    gg "所以我敢肯定族长去了潮湿山洞。"
 
 translate schinese goat_general_lose_d759c583:
 
     # e "W-what Cave?"
-    pass
+    e "什么山洞？"
 
 translate schinese goat_general_lose_60c57f65:
 
     # gg "The one near sparkling lagoon."
-    pass
+    gg "靠近的苍耀湖那个。"
 
 translate schinese goat_general_lose_60ebced8:
 
     # e "Are you sure?"
-    pass
+    e "你真的那么肯定吗？"
 
 translate schinese goat_general_lose_fa7974a8:
 
     # gg "Yes."
-    pass
+    gg "这里轮不到你来反问我。"
 
 translate schinese goat_general_lose_33f16abb:
 
     # gg "But I can't leave the tribe unattended."
-    gg "{size=-8}我不能放着部落不管，但要是再拖下去……{/size}"
+    gg "我不能放着部落不管，但要是再拖下去……"
 
 translate schinese goat_general_lose_9612631c:
 
@@ -1581,12 +1641,12 @@ translate schinese goat_general_lose_6112b769:
 translate schinese goat_general_lose_94a86528:
 
     # e "Uh... are you sure?"
-    e "呃……你确定吗？"
+    e "呃……真的要我去吗？"
 
-translate schinese goat_general_lose_30a6d4fc:
+translate schinese goat_general_lose_3879dacb:
 
-    # gg "Yes. I'll tell you anything I know on our way."
-    gg "我确定，路上你想知道什么我都会告诉你。"
+    # gg "I'll tell you everything I know on our way."
+    gg "路上你想知道什么我都会告诉你。"
 
 translate schinese goat_general_lose_0e53b64a:
 
@@ -1596,7 +1656,7 @@ translate schinese goat_general_lose_0e53b64a:
 translate schinese goat_general_lose_72a89d6e:
 
     # gg "Cev and Hakki, stay here until I come back."
-    gg "切夫、哈克,我不在的时候看好大门。"
+    gg "切夫、哈克，我不在的时候看好大门。"
 
 translate schinese goat_general_lose_a05b105e:
 
@@ -1962,11 +2022,6 @@ translate schinese lothar_battle_loop2_816f9945:
 
     # l "Let me... drink this premium health potion first..."
     l "不得不祭出这瓶珍藏的高级补血剂了……"
-
-translate schinese lothar_battle_loop2_7f7eb490:
-
-    # "Lothar recovered 75 Health."
-    "洛萨尔回复了 75 点体力。"
 
 translate schinese lothar_battle_loop2_efa76d45:
 
