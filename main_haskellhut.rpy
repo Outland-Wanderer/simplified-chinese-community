@@ -726,20 +726,20 @@ translate schinese Haskell_Ask_Lusterfield_1b418615:
     # e "He used to live here?"
     e "他以前住在这里？"
 
-translate schinese Haskell_Ask_Lusterfield_979e6d52:
+translate schinese Haskell_Ask_Lusterfield_19891a41:
 
-    # h "Yeah, did you know about the nomads?"
-    h "是的，你知道游牧族吗？"
+    # h "Yeah, did you know about the Spikekeep?"
+    h "是的，你知道刺楼族吗？"
 
 translate schinese Haskell_Ask_Lusterfield_f2aa73e3:
 
     # e "Hmm... what?"
     e "呃……啊？"
 
-translate schinese Haskell_Ask_Lusterfield_61025db7:
+translate schinese Haskell_Ask_Lusterfield_d8ceb95d:
 
-    # h "Lizard nomads?"
-    h "蜥蜴游牧族？"
+    # h "Lizard Tribe?"
+    h "蜥蜴部落？"
 
 translate schinese Haskell_Ask_Lusterfield_4d837f46:
 
@@ -781,9 +781,9 @@ translate schinese Haskell_Ask_Goat_Tribe_94deea63:
     # e "Uh, Ke-K-eso... Kechieoeo-"
     e "呃，珂、凯七……凯奇欧——"
 
-translate schinese Haskell_Ask_Goat_Tribe_d1748bd5:
+translate schinese Haskell_Ask_Goat_Tribe_8633dac6:
 
-    # h "Alright just call them Goat Tribe like the rest of us do."
+    # h "Just call them Goat Tribe like the rest of us do."
     h "和大家一样称呼他们山羊部落就好。"
 
 translate schinese Haskell_Ask_Goat_Tribe_8b053b59:
@@ -810,6 +810,11 @@ translate schinese Haskell_Ask_Goat_Tribe_3388a208:
 
     # e "Oh..."
     e "哦……"
+
+translate schinese Haskell_Ask_Goat_Tribe_1a51d8b4:
+
+    # h "Or, in the ancient tongues, the flock."
+    h "当然，在古语里的意思还有——信徒。"
 
 translate schinese Haskell_Ask_Goat_Tribe_399e4d51:
 

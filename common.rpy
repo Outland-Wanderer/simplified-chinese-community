@@ -71,6 +71,8 @@
 
     old "Self-Voicing"
     new "机器朗读"
+    # old "Self-voicing support is limited when using a touch screen."
+    # new ""
 
     old "Off"
     new "禁用"
@@ -632,6 +634,15 @@
 
     old "Sync Error"
     new "同步错误"
+
+    # old "Translation identifier: [identifier]"
+    # new ""
+
+    # old " translates [tl.filename]:[tl.linenumber]"
+    # new ""
+
+    # old "\n{color=#fff}Copied to clipboard.{/color}"
+    # new ""
 
     old "Contacting App Store\nPlease Wait..."
     new "正在连接 App Store\n请稍后……"

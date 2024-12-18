@@ -1,7 +1,7 @@
-﻿# translate schinese battle_attack_script_a0b503c2:
+﻿translate schinese battle_attack_script_9f89fa4c:
 
-#     # "Amble strikes his hammer against the fluffy leaves, but it bounces off the bridgeroot slickly."
-#     ""
+    # "You struggle against the spell, trying to break free. You dealt [oa[4]] damage to the guardian in the process, his grip has loosen as well."
+    "你极力挣扎摆脱咒语的束缚，同时对符石护卫造成了 [oa[4]] 点伤害。他松开了手掌。"
 
 translate schinese battle_attack_script_cbc9cf6d:
 
@@ -22,6 +22,26 @@ translate schinese battle_attack_script_d5018a91:
 
     # "You hold and shoot an arrow at the slime, but it narrowly misses the [target.name!t]."
     "你飞箭射向[target.name!t]，可惜差一点点就命中了。"
+
+translate schinese battle_attack_script_d7e5bd08:
+
+    # "You slash your [pc.weapon.name!t] at the arm of the guardian, but his magical aura repels the attack."
+    "你挥动[pc.weapon.name!t]划向符石护卫的手臂，但他的魔法屏障挡下了这一击。"
+
+translate schinese battle_attack_script_7fecda09:
+
+    # "You slam your [pc.weapon.name!t] at the guardian's head, but his magical aura repels the attack."
+    "你抡动[pc.weapon.name!t]劈向符石护卫的头部，但他的魔法屏障挡下了这一击。"
+
+translate schinese battle_attack_script_3aed010f:
+
+    # "You aim and shoot your [pc.weapon.name!t] at the guardian, but it seems to have missed."
+    "你架设[pc.weapon.name!t]飞箭射向符石护卫，可惜没有命中。"
+
+translate schinese battle_attack_script_da1015f3:
+
+    # "You throw your fist at the guardian, but you punch into the air instead."
+    "你一拳砸向符石护卫，可惜只打中了空气。"
 
 translate schinese battle_attack_script_2ce302db:
 
@@ -68,41 +88,6 @@ translate schinese battle_attack_script_309a9672:
     # gt "You foul varmint, you really think your little trick is going to hurt me? Now, taste my spear!"
     gt "卑劣顽童，你以为凭这雕虫小技就能伤害到我？吃我一枪！"
 
-# translate schinese battle_attack_script_45dfa330:
-
-#     # gt "T-that wasn't a good attempt, you need to do better."
-#     gt ""
-
-# translate schinese battle_attack_script_d7edc6aa:
-
-#     # bearGuard "What a waste of time, let me show you how a real snow warrior fight."
-#     bearGuard ""
-
-# translate schinese battle_attack_script_0becd5f1:
-
-#     # "You slash your [pc.weapon.name!t] at the [target.name!t], but it strikes into nothing but a few stranded leaves and moss."
-#     ""
-
-# translate schinese battle_attack_script_86e89ad0:
-
-#     # "You slam your [pc.weapon.name!t] at the [target.name!t], but it strikes into nothing but a few stranded leaves and moss."
-#     ""
-
-# translate schinese battle_attack_script_046a3c9e:
-
-#     # "You aim and shoot your [pc.weapon.name!t] at the [target.name!t], but it strikes into nothing but a few stranded leaves and moss."
-#     ""
-
-# translate schinese battle_attack_script_70f3831c:
-
-#     # "You hold your fist, with all your might you throw a punch at the [target.name!t], but it strikes into nothing but a few stranded leaves and moss."
-#     ""
-
-# translate schinese battle_attack_script_e1ac7fa2:
-
-#     # "The [target.name!t] stands there, still emotionless, he doesn't seem to notice your feeble attack, not even the slightest."
-#     ""
-
 translate schinese battle_attack_script_00a3dd32:
 
     # "You slash your [pc.weapon.name!t] at the [target.name!t], but it turns ephereal and dodges swiftly in the air."
@@ -117,106 +102,6 @@ translate schinese battle_attack_script_754b49b3:
 
     # "The [target.name!t] floats motionless in face of your attack."
     "[target.name!t]面对你的攻击没有任何反应。"
-
-# translate schinese battle_attack_script_d8a1e631:
-
-#     # "You slash your [pc.weapon.name!t] at the arms of the [target.name!t], it slides right off his fluffy arm, while you look back in disbelief."
-#     ""
-
-# translate schinese battle_attack_script_bce5b210:
-
-#     # "You slam your [pc.weapon.name!t] at the arms of the [target.name!t], it slides right off his fluffy arm, while you look back in disbelief."
-#     ""
-
-# translate schinese battle_attack_script_9857982e:
-
-#     # "You aim and shoot your [pc.weapon.name!t] at the arms of the [target.name!t], it pierces right through his soft fur without touching his skin, leaving you frozen in disbelief."
-#     ""
-
-# translate schinese battle_attack_script_dba94e4a:
-
-#     # "You hold your fist and throw it at the [target.name!t], but it hits nothing and leaves you standing instead."
-#     ""
-
-# translate schinese battle_attack_script_48ed0abb:
-
-#     # ww "Unlucky. But not surprised, hmmm..."
-#     ww ""
-
-# translate schinese battle_attack_script_1b735359:
-
-#     # "The [target.name!t] laughs loudly while flexing his claws, it almost seems he's scoffing at your attempt of attack."
-#     ""
-
-# translate schinese battle_attack_script_3d02284b:
-
-#     # "You press on, trying to land a hit, but Vurro continues to evade your blows."
-#     ""
-
-# translate schinese battle_attack_script_2c02f8d7:
-
-#     # "Despite his illness, Vurro moves with surprising grace, ducking and weaving out of your way."
-#     ""
-
-# translate schinese battle_attack_script_f3cf8947:
-
-#     # v "Hey, aim better. I'm walking only slightly faster than a training dummy."
-#     v ""
-
-# translate schinese battle_attack_script_a040d9c4:
-
-#     # v "Not saying Uffe is fast and small enough to dodge your blow, but you can't swing your fist anywhere hoping it hits something."
-#     v ""
-
-# translate schinese battle_attack_script_dbd57fbe:
-
-#     # "You slash your [pc.weapon.name!t] at the [target.name!t], but he hops away in time, dodging from your attack."
-#     ""
-
-# translate schinese battle_attack_script_464c0cbb:
-
-#     # "You slam your [pc.weapon.name!t] at the [target.name!t], but he hops away in time, dodging from your attack."
-#     ""
-
-# translate schinese battle_attack_script_1c09c114:
-
-#     # "You aim and shoot your [pc.weapon.name!t] at the [target.name!t], but he hops away in time, dodging from your attack."
-#     ""
-
-# translate schinese battle_attack_script_2719255f:
-
-#     # "You hold your fist and throw it at the [target.name!t], but he hops away in time, dodging from your attack."
-#     ""
-
-# translate schinese battle_attack_script_9ff75fbd:
-
-#     # bd "Come on, try harder! You'll never defeat me with such sloppy attacks!"
-#     bd ""
-
-# translate schinese battle_attack_script_dca0d60e:
-
-#     # bd "Swing and a miss! You'll have to do better than that!"
-#     bd ""
-
-# translate schinese battle_attack_script_911caff7:
-
-#     # gnl "You swing, I dance!"
-#     gnl ""
-
-# translate schinese battle_attack_script_619312a4:
-
-#     # gnl "Jump, spin, you miss!"
-#     gnl ""
-
-# translate schinese battle_attack_script_0cbff535:
-
-#     # "The [target.name!t] laughs loudly while crouching on the grass, it almost seems he's scoffing at your attempt of attack."
-#     ""
-
-# translate schinese battle_attack_script_6430a4d5:
-
-#     # "Amble strikes his hammer against the fluffy leaves of the bridgeroot, it hits his core very effectively as the green monster staggers a bit backwards, you can clearly see the crater his hammer creates there."
-#     ""
 
 translate schinese battle_attack_script_ac32d1b0:
 
@@ -258,6 +143,46 @@ translate schinese battle_attack_script_571e5fff:
     # "You bring up your bow and aim. The arrow flies right into its bull's eye."
     "你弯弓瞄准人偶，下一秒飞箭释出，正中他反背的靶心。"
 
+translate schinese battle_attack_script_34af9287:
+
+    # "You slash your [pc.weapon.name!t] at the arm of the Rune Guardian, your blade scraps against the stone. Some of it crack and falls off his body."
+    "你挥动[pc.weapon.name!t]划向符石护卫的手臂，电光石火之间削下了他身上一小块石头。"
+
+translate schinese battle_attack_script_b1e6fa40:
+
+    # "You slash your [pc.weapon.name!t] across the guardian's body, knocking him back a few steps. The guardian quakes silently in anger."
+    "你摆动[pc.weapon.name!t]砍向符石护卫的身体，将他挡在几步开外。符石护卫颤抖着，表达无声的愤怒。"
+
+translate schinese battle_attack_script_0e24220d:
+
+    # "You slam your [pc.weapon.name!t] at the arm of the Rune Guardian, your blade grazes against the stone. Some of it crack and falls off his body."
+    "你抡动[pc.weapon.name!t]劈向符石护卫的手臂，刀刃擦过土石，碎掉了他手臂的一部分。"
+
+translate schinese battle_attack_script_124a16cb:
+
+    # "You slam your [pc.weapon.name!t] across the guardian's body, knocking him back a few steps. The guardian quakes silently in anger."
+    "你攒动[pc.weapon.name!t]劈向符石护卫的身体，将他挡在几步开外。符石护卫颤抖着，表达无声的愤怒。"
+
+translate schinese battle_attack_script_7c6ad50c:
+
+    # "You aim and shoot your [pc.weapon.name!t] at the Rune Guardian, the arrow hits right into his arm, striking off a few rubbles."
+    "你找准时机拉动[pc.weapon.name!t]，飞箭正中符石护卫的手臂，碎掉了上面的一部分石块。"
+
+translate schinese battle_attack_script_db8f38b0:
+
+    # "You run while shooting your [pc.weapon.name!t] across the guardian's body, knocking him back a few steps. The guardian quakes silently in anger."
+    "你一边变换方位一边拉动[pc.weapon.name!t]飞箭射向符石护卫的身体，将他挡在几步开外。符石护卫颤抖着，表达无声的愤怒。"
+
+translate schinese battle_attack_script_7ebd82f2:
+
+    # "You throw your fist at the guardian, hitting him right across his body, the sheer impact strikes off a few rubbles."
+    "你一拳直击符石护卫，巨大的冲击力震掉了他身上的一些石块。"
+
+translate schinese battle_attack_script_46df7f65:
+
+    # "You punch into the guardian's stomach, knocking him back a few steps. The guardian quakes silently in anger."
+    "你一拳直击符石护卫腹部，将他挡在几步开外。符石护卫颤抖着，表达无声的愤怒。"
+
 translate schinese battle_attack_script_9003ef3c:
 
     # "You try to slice your [pc.weapon.name!t] into the [enemymy!t]'s arm. He brings his spear up to block, but fails to stop the strike entirely."
@@ -268,7 +193,7 @@ translate schinese battle_attack_script_f1d3deb2:
     # "You feint an overhead chop with your [pc.weapon.name!t], before bringing up your foot for a kick to his chest as he tries to block, knocking him down on the ground."
     "你高举[pc.weapon.name!t]，佯装砍向[enemymy!t]的头部。趁他同样举起长矛防御之际，你一脚飞踢将他踹倒在地。"
 
-translate schinese battle_attack_script_a6356e7c:
+translate schinese battle_attack_script_a6356e7c_1:
 
     # "You slash your [pc.weapon.name!t] at the [enemymy!t] in a wide, horizontal arc. The [enemymy!t] leaps back out of range, but not before the blade nicks a shallow cut across his stomach."
     "你平举[pc.weapon.name!t]向前挥动，在空中留下弧形的残影。[enemymy!t]急忙向后跳开，但腹部还是被划出了一道浅浅的伤口。"
@@ -288,7 +213,7 @@ translate schinese battle_attack_script_d66a0002:
     # "You run while shooting your [pc.weapon.name!t] at the [enemymy!t], knocking him to the ground. He growls at you before getting up, albeit disheveled."
     "你一边变换方位，一边架设[pc.weapon.name!t]飞箭射向敌人。这一箭将他击倒在地。[enemymy!t]即使蓬头垢面也不示弱，朝你发出咆哮，从地上爬了起来。"
 
-translate schinese battle_attack_script_9db3d034:
+translate schinese battle_attack_script_9db3d034_1:
 
     # "You throw your fist at the [enemymy!t], hitting him right across the face. The sheer impact knocks him to the ground."
     "你一拳挥向[enemymy!t]，正中脸部。巨大的冲击力使得他应声倒地。"
@@ -313,36 +238,6 @@ translate schinese battle_attack_script_3b02969e:
     # "Drops of blood spill down the front of his body."
     "血滴从他的胸腹溅出。"
 
-translate schinese battle_attack_script_18302ba4:
-
-    # "It seems you've hit the goat critically, dealing [oa[4]] HP!"
-    "暴击！对方失去了 [oa[4]] 点体力！"
-
-# translate schinese battle_attack_script_7bbbc409:
-
-#     # "You slash your [pc.weapon.name!t] at the [target.name!t], as your blade grazes through the leaves and moss on [target.name!t], and a chunk of leaves falls off of him, casually."
-#     ""
-
-# translate schinese battle_attack_script_c0e19e1a:
-
-#     # "You slam your [pc.weapon.name!t] at the [target.name!t], as it strikes through the leaves and moss on [target.name!t], and a chunk of leaves falls off of him, casually."
-#     ""
-
-# translate schinese battle_attack_script_2c722d6b:
-
-#     # "You aim and shoot your [pc.weapon.name!t] at the [target.name!t], as your arrow grazes through the leaves and moss on [target.name!t], and a chunk of leaves falls off of him, casually."
-#     ""
-
-# translate schinese battle_attack_script_3aa0091a:
-
-#     # "You hold your fist, with all your might you throw a punch at the [target.name!t], as your blade grazes through the leaves and moss on [target.name!t], and a chunk of leaves falls off of him, casually."
-#     ""
-
-# translate schinese battle_attack_script_3bb039f4:
-
-#     # "The [target.name!t] grunts loudly, seems more than mildly annoyed now that you're hurting him."
-#     ""
-
 translate schinese battle_attack_script_422c861a:
 
     # "You slash your [pc.weapon.name!t] at the [target.name!t], your blade grazes through the ghostly form of the [target.name!t]."
@@ -352,36 +247,6 @@ translate schinese battle_attack_script_3e8d701f:
 
     # "The [target.name!t] vibrates, seems more than mildly annoyed now that you're hurting him."
     "[target.name!t]激烈地颤动着，看来你的攻击对它伤害不小。"
-
-# translate schinese battle_attack_script_1a6ba155:
-
-#     # "You unleash a flurry of punches, each strike aimed at Vurro's chest and shoulder."
-#     ""
-
-# translate schinese battle_attack_script_7ba4baa4:
-
-#     # "Momentarily caught off-guard, Vurro tries to evade your attack, but you manage to graze his side with a swift punch."
-#     ""
-
-# translate schinese battle_attack_script_6ee8359c:
-
-#     # "You feint to the right before landing a solid punch to Vurro's shoulder."
-#     ""
-
-# translate schinese battle_attack_script_55e10f3e:
-
-#     # "It's a clean hit, and you can see a flicker of surprise in Vurro's eyes as he stumbles back a step."
-#     ""
-
-# translate schinese battle_attack_script_c17e6bad:
-
-#     # "You throw a punch before executing a quick spin, delivering a swift kick to Vurro's midsection."
-#     ""
-
-# translate schinese battle_attack_script_9ffe5e36:
-
-#     # "The kick lands, and Vurro grunts in surprise as he stumbles back, momentarily winded."
-#     ""
 
 translate schinese battle_attack_script_12680f06:
 
@@ -433,31 +298,6 @@ translate schinese battle_attack_script_6b4f73d0:
     # "Critical hit! [target.name!t]'s health now decreases by [oa[4]] HP!"
     "暴击！[target.name!t]失去了 [oa[4]] 点体力！"
 
-# translate schinese battle_attack_script_8d723584:
-
-#     # v "Ouch, your fist does hurt. Wuldon's gonna have a hard time pissing you off, doesn't he?"
-#     v ""
-
-# translate schinese battle_attack_script_7d3cd5bc:
-
-#     # v "That was quite impressive for a non-werewolf. You do have some tricks up your sleeves."
-#     v ""
-
-# translate schinese battle_attack_script_cf32bdd4:
-
-#     # ww "Come here... little prey, stop resisting."
-#     ww ""
-
-# translate schinese battle_attack_script_821b8d28:
-
-#     # ww "Huh... This prey is definitely moving. And I'll prefer a moving one when I get a hold of you."
-#     ww ""
-
-# translate schinese battle_attack_script_8ffa9b69:
-
-#     # "The [target.name!t] howls in anger, you can feel the imminent danger as other werewolves in the forest respond to his howl."
-#     ""
-
 translate schinese battle_attack_script_4e97572b:
 
     # gt "Aggghh.... W-what the... You little furry lizard, I'll strike you down without mercy!"
@@ -472,51 +312,6 @@ translate schinese battle_attack_script_8787f4c7_1:
 
     # gt "Grrrrr! L-lucky hit... Let me teach you how to fight properly!"
     gt "呃啊啊啊！算、算你走运……让我教你什么才叫实打实的战斗！"
-
-# translate schinese battle_attack_script_d3d10638:
-
-#     # bearGuard "Hnnngh! Just a scratch, you'll learn to regret even touching me."
-#     bearGuard ""
-
-# translate schinese battle_attack_script_ec2ed84a:
-
-#     # bearGuard "Arrgh! By Ookko's bless, I- I won't let you g-get away with this."
-#     bearGuard ""
-
-# translate schinese battle_attack_script_c5074ad8:
-
-#     # gnl "O-Ouch! Fingertips graze, almost!"
-#     gnl ""
-
-# translate schinese battle_attack_script_3c0044de:
-
-#     # gnl "Y-your blow, it finds me!"
-#     gnl ""
-
-# translate schinese battle_attack_script_ef32e0d1:
-
-#     # bd "Not bad, not bad at all. But I'm not done with you yet!"
-#     bd ""
-
-# translate schinese battle_attack_script_9e05dcb6:
-
-#     # bd "Alright, this is gonna worth my gold so much."
-#     bd ""
-
-# translate schinese battle_attack_script_e1c89fe5:
-
-#     # ww "Argh...! You can really pack a punch do you not? Can't wait to pin you down and get a taste of your flesh."
-#     ww ""
-
-# translate schinese battle_attack_script_4be9928d:
-
-#     # ww "Hnnngh!!! Now I'm getting real angry. And you don't want to see me when I'm angry, little prey."
-#     ww ""
-
-# translate schinese battle_attack_script_29d84905:
-
-#     # "You can barely hear barking sound of the [target.name!t], it seems like he doesn't appreciate a trespasser, and you've angered him further."
-#     ""
 
 translate schinese battle_attack_script_a3b94c0e:
 
@@ -538,35 +333,15 @@ translate schinese battle_attack_script_74a6a844:
 #     # gt "Damn... didn't know a courier can hit that hard...! Give me all you got!"
 #     gt ""
 
-# translate schinese battle_attack_script_293c30bb:
+translate schinese battle_flirt_script_92d18f4a:
 
-#     # bearGuard "Ngggg... I'll fight until my last breath, b-because I'm a warrior!"
-#     bearGuard ""
+    # "You struggle against the guardian as you try to reach under the guardian's crotch, trying to get a reaction from the guardian."
+    "你一边挣扎一边伸手掏弄符石护卫的胯下，意图激起他的性趣。"
 
-# translate schinese battle_attack_script_82fbad5d:
+translate schinese battle_flirt_script_58222c25:
 
-#     # bearGuard "T'is but a test of my strength, I'll s-strike you down, w-watch it."
-#     bearGuard ""
-
-# translate schinese battle_attack_script_f1fbe73b:
-
-#     # gnl "Gnoll feels that, argh!"
-#     gnl ""
-
-# translate schinese battle_attack_script_be54626b:
-
-#     # gnl "Y-ou strong... I-I see."
-#     gnl ""
-
-# translate schinese battle_attack_script_c678487d:
-
-#     # bd "Argh! Lucky shot! But don't get cocky, I've got plenty more fight in me!"
-#     bd ""
-
-# translate schinese battle_attack_script_69eb351b:
-
-#     # bd "Hey, let's talk this out, huh? I'll make it worth your while!"
-#     bd ""
+    # "The guardian instanly react with your advance, vibrating profusely with his moss. His grip is weakening as well."
+    "如此大胆的举动令符石护卫立马起了反应，他身体表面的苔藓剧烈颤抖，握力似乎减弱了几分。"
 
 translate schinese battle_flirt_script_2f33da57:
 
@@ -583,16 +358,6 @@ translate schinese battle_flirt_script_a4b1ddae:
     # "Flirt doesn't sound like a great idea on these creatures..."
     "色诱这种生物并不是个好主意……"
 
-# translate schinese battle_flirt_script_021d1316:
-
-#     # "As much as you try to... flirt with the slime, it doesn't flinch, or get aroused."
-#     ""
-
-# translate schinese battle_flirt_script_6bcff645:
-
-#     # "You back off before it tries to grab a hold of your body."
-#     ""
-
 translate schinese battle_flirt_script_fdf9de27:
 
     # "You turn around and rub your hand all over your own burly cheeks, feeling and brushing against your ass while you shake your hip."
@@ -607,16 +372,6 @@ translate schinese battle_flirt_script_38976fda:
 
     # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the [target.name!t] while your chest bounce up and down slightly."
     "你双手捧持鼓起的胸肌，手指在乳头周围画着圆圈。一边对着[target.name!t]微笑，一边轻轻掂量自己的厚物。"
-
-# translate schinese battle_flirt_script_7e59b417:
-
-#     # v "I'm not sure if this is part of the training, but I don't think you're going to survive after showing Uffe this, so don't do that."
-#     v ""
-
-# translate schinese battle_flirt_script_f0115095:
-
-#     # "Vurro shoots you a playful smile, mildly amused at your demonstration."
-#     ""
 
 translate schinese battle_flirt_script_c2ea7413:
 
@@ -638,40 +393,20 @@ translate schinese battle_flirt_script_29ded62b:
 #     # gt "Well..."
 #     gt ""
 
-# translate schinese battle_flirt_script_5192f25a:
+translate schinese battle_flirt_script_e8fc8231:
 
-#     # "The bear snatches at your hand, but you quickly retreat in time."
-#     ""
+    # "You continue your act for about a minute, but the Rune Guardian doesn't even flinch."
+    "这场戏你自导自演了快一分钟，但对方完全不为所动。"
 
-# translate schinese battle_flirt_script_25da557a:
+translate schinese battle_flirt_script_4c1908a3:
 
-#     # bearGuard "Shut it. This is not a warrior's way of battle."
-#     bearGuard ""
+    # "Disappointed, you back away before the guardian can grab a hold of you."
+    "在符石护卫抓住你之前，你失望地退回了原位。"
 
 translate schinese battle_flirt_script_cba7f25f:
 
     # "You continue your act for about a minute, but the [target.name!t] just stares at you in confusion."
     "你自导自演了快一分钟，但对方只是看着你，神情困惑。"
-
-# translate schinese battle_flirt_script_a125f093:
-
-#     # "Vurro's jaw wide in awe, you notice some unusual movement in his pants."
-#     ""
-
-# translate schinese battle_flirt_script_29cf4811:
-
-#     # v "W-wuldon's gonna like fighting against you, won't he?"
-#     v ""
-
-# translate schinese battle_flirt_script_449bc6af:
-
-#     # "Vurro lowers his fists for a moment, his cheeks soon turn bright red."
-#     ""
-
-# translate schinese battle_flirt_script_cf306a0f:
-
-#     # v "Mhmm... just don't flirt with Uffe when the time comes, but I have to admit, you do get a reaction out of me."
-#     v ""
 
 translate schinese battle_flirt_script_ce63920f:
 
@@ -713,35 +448,15 @@ translate schinese battle_flirt_script_0d56d52b:
     # gt "Hnnnngh... I n-need to... cum."
     gt "嗯啊啊啊……好想射……"
 
-# translate schinese battle_flirt_script_ddcedc6e:
+translate schinese battle_flirt_script_c294968b:
 
-#     # "You can see the bear's clenches his fist tightly, something under his loincloth begins to move, even as he closes his eyes, and remain silent."
-#     ""
+    # "You cannot detect his lust on the face, but by the vibration of the moss you can deduce that he's enjoying this a lot. His lust is increased by [player_flirt]."
+    "符石护卫面无表情，但他身上的苔藓却在不断颤抖，你断定他现在非常享受。对方的性欲增加了 [player_flirt] 点。"
 
-# translate schinese battle_flirt_script_877a56ed:
+translate schinese battle_flirt_script_0686837e:
 
-#     # "His lust is increased by [player_flirt]."
-#     ""
-
-# translate schinese battle_flirt_script_bac300f5:
-
-#     # bearGuard "S-shut..."
-#     bearGuard ""
-
-# translate schinese battle_flirt_script_64fa8444:
-
-#     # "The bear pants heavily, his cheeks are alraedy so red, you can see his drool dripping uncontrollably as he watches."
-#     ""
-
-# translate schinese battle_flirt_script_877a56ed_1:
-
-#     # "His lust is increased by [player_flirt]."
-#     ""
-
-# translate schinese battle_flirt_script_c632bd62:
-
-#     # "Even if it's just a little, you notice a mild vibration in the bridgeroot's moss, it seems to react easily. His lust is increased by [player_flirt]."
-#     ""
+    # "The guardian doesn't speak, but he is extremely distracted by your performance. His lust is increased by [player_flirt]."
+    "符石护卫无法说话，但你可以看出自己刚刚的表现极大扰乱了他的定力。对方的性欲增加了 [player_flirt] 点。"
 
 translate schinese battle_flirt_script_edd422d7:
 
@@ -763,40 +478,10 @@ translate schinese battle_flirt_script_60331d20:
     # "You notice the [target.name!t] is staring at your crotch, you slightly wink at him and he already looks like he can't breath under such arousal."
     "你注意到[target.name!t]紧盯着你的胯下，你对他抛了个媚眼。他已经快兴奋到难以呼吸。"
 
-translate schinese battle_flirt_script_877a56ed_2:
+translate schinese battle_flirt_script_877a56ed_3:
 
     # "His lust is increased by [player_flirt]."
     "对方的性欲增加了 [player_flirt] 点。"
-
-# translate schinese battle_flirt_script_8f8f53e6:
-
-#     # ww "Hmm... Come closer... little prey."
-#     ww ""
-
-# translate schinese battle_flirt_script_b075c3a4:
-
-#     # ww "You have a nice body, little prey. Our pack would be delighted to see you."
-#     ww ""
-
-# translate schinese battle_flirt_script_2534d3ec:
-
-#     # gnl "What's underneath? Gnoll wonders..."
-#     gnl ""
-
-# translate schinese battle_flirt_script_d8ea3f64:
-
-#     # gnl "Come... we play instead."
-#     gnl ""
-
-# translate schinese battle_flirt_script_699d0eb4:
-
-#     # bd "Well... our brothers would like to greet you."
-#     bd ""
-
-# translate schinese battle_flirt_script_92b78b8c:
-
-#     # bd "Adventurers like you are so slutty, I'd plow your ass right now."
-#     bd ""
 
 translate schinese battle_flirt_script_bf758ce5:
 
@@ -813,65 +498,24 @@ translate schinese battle_flirt_script_21e8d611:
     # "You can tell the [target.name!t] is already playing with himself when his claws goes under his pants, staring at your ass intently."
     "[target.name!t]紧盯着你肥美的臀部，将伸手套弄自己裤裆内的勃起。"
 
-translate schinese battle_flirt_script_877a56ed_3:
+translate schinese battle_flirt_script_877a56ed_4:
 
     # "His lust is increased by [player_flirt]."
     "他的性欲增加了 [player_flirt] 点。"
-
-# translate schinese battle_flirt_script_aeda22d8:
-
-#     # ww "I-I can't hold... back- if you keep being like that."
-#     ww ""
-
-# translate schinese battle_flirt_script_ec94cb21:
-
-#     # ww "L-little prey, y-our hole is mine. Now give up already and let me... f-fuck."
-#     ww ""
-
-# translate schinese battle_flirt_script_a3289262:
-
-#     # gnl "Mmmmmph... I sense a wild growth. Can't hold-"
-#     gnl ""
-
-# translate schinese battle_flirt_script_f7049853:
-
-#     # gnl "No think- Not... g-giving in..."
-#     gnl ""
-
-# translate schinese battle_flirt_script_13188d4d:
-
-#     # bd "Mmmmph..."
-#     bd ""
-
-# translate schinese battle_flirt_script_756769c4:
-
-#     # bd "N-not even... c-close."
-#     bd ""
 
 translate schinese battle_escape_surrender_script_cfcbc5f4:
 
     # "You walk away from the dummy; it appears to patch itself up before going motionless, letting dust settle on it again."
     "你朝巷子口退去，但人偶只是默默地缝补自己的破口，而后恢复了静止的状态，尘埃落定。"
+translate schinese battle_escape_surrender_script_449a6dcd:
 
-# translate schinese battle_escape_surrender_script_0fe6ac61:
-
-#     # "You're not sure if you can leave the training with Vurro right now."
-#     ""
+    # "As much as you try, you cannot escape from the guardian's magical aura."
+    "无论你往哪边跑，都逃不出符石护卫的魔法光晕。"
 
 translate schinese battle_escape_surrender_script_f321de17:
 
     # "You try to escape, but the spritebinder's arm yanks you straight back into the fight."
     "你想要逃跑，但八臂鬼伸手将你抓了回来。"
-
-# translate schinese battle_escape_surrender_script_89f13d8f:
-
-#     # "You can't escape from the arena."
-#     ""
-
-# translate schinese battle_escape_surrender_script_d502f36e:
-
-#     # "You cannot run away from battle practice..."
-#     ""
 
 translate schinese battle_escape_surrender_script_9bc3bcf2:
 
@@ -918,11 +562,6 @@ translate schinese battle_escape_surrender_script_b1144d70:
     # "But the [target.name!t]'s claw instantly grips onto your tail and you fall on the ground. Your escape seems to have failed!"
     "但他迅速掏出爪子一把抓住你的尾巴，让你摔了个嘴啃泥。逃跑失败！"
 
-# translate schinese battle_escape_surrender_script_dd94ae58:
-
-#     # ww "Do not ever think about escaping, little prey. You are mine now."
-#     ww ""
-
 translate schinese battle_escape_surrender_script_ed3263e8:
 
     # "You slowly back away from the [target.name!t]'s attack. Dodging its gooey appendages. You successfully escape from the [target.name!t]!"
@@ -953,16 +592,6 @@ translate schinese battle_escape_surrender_script_4988e7e1:
     # "You try to surrender to the dummy, pretending to slip and fall on the floor... its stationary stance seem to advise you to leave instead."
     "你假装滑倒摔在地上，向人偶投降……但他一动不动，好似在无奈地劝你要走就走。"
 
-# translate schinese battle_escape_surrender_script_9d627f20:
-
-#     # "You raises your hand, Vurro quickly notices and lowers his arms."
-#     ""
-
-# translate schinese battle_escape_surrender_script_710636c4:
-
-#     # v "Not going any further? We can stop here."
-#     v ""
-
 translate schinese battle_escape_surrender_script_47f4bdd0:
 
     # "You fall to your knees, having exhausted all your energy. You feel the slime has overpowered you in every way possible."
@@ -983,21 +612,6 @@ translate schinese battle_escape_surrender_script_ec66902a:
     # "Maybe surrendering yourself to the [target.name!t] is the best choice."
     "或许向[target.name!t]投降是最好的选择。"
 
-# translate schinese battle_escape_surrender_script_c69bc257:
-
-#     # a "Are we giving up?"
-#     a ""
-
-# translate schinese battle_escape_surrender_script_6ef9c502:
-
-#     # "The beast man jeers at your submission, and he paces around you, poking you to see if you'd still react."
-#     ""
-
-# translate schinese battle_escape_surrender_script_b2a8349a:
-
-#     # "You slowly close your eyes and wait for him to decide your fate."
-#     ""
-
 translate schinese battle_escape_surrender_script_c764976e:
 
     # gt "Ha... At least you are smart enough to give yourself up to our chief. But, since we're here. I have a better plan for you."
@@ -1016,26 +630,6 @@ translate schinese battle_escape_surrender_script_5fa880da:
 # translate schinese battle_escape_surrender_script_02490d6b:
 
 #     # "He looks at you up and down..."
-#     ""
-
-# translate schinese battle_ally_script_2fe31d4b:
-
-#     # "Amble strikes the core of [enemy.name], causing [target.name] to fall over. He dealt [ally_damage] and stuns [enemy.name] for [stunned.max_rounds] round."
-#     ""
-
-# translate schinese battle_ally_script_3ee9df24:
-
-#     # "The [enemy.name] is staggered, releasing you from his grasp."
-#     ""
-
-# translate schinese battle_ally_script_cee066c4:
-
-#     # "It doesn't seem to work on the bridgeroot."
-#     ""
-
-# translate schinese battle_ally_script_8970ba2f:
-
-#     # "Amble defends the two of you, increasing your defence in this round."
 #     ""
 
 translate schinese level_up_check_1ca53c77:
@@ -1418,9 +1012,9 @@ translate schinese mimic_win_3a39d780:
     # "Only leaving behind the content of its original chest."
     pass
 
-translate schinese mimic_win_d58adbfc:
+translate schinese mimic_win_7895b9c2:
 
-    # "You searches around the mimic, you found a chest key."
+    # "You search around the mimic, and found a chest key."
     pass
 
 translate schinese mimic_win_b34e8987:
@@ -1654,154 +1248,9 @@ translate schinese runeguardian_battle_35c2da0e:
     # "You raise your fist, defending yourself from the guardian's attack."
     "你架好了格斗姿态，准备抵御接下来的攻击。"
 
-translate schinese runeguardian_battle_loop_d7e5bd08:
+translate schinese runeguardian_battle_loop_e63e900e:
 
-    # "You slash your [pc.weapon.name!t] at the arm of the guardian, but his magical aura repels the attack."
-    "你挥动[pc.weapon.name!t]划向符石护卫的手臂，但他的魔法屏障挡下了这一击。"
-
-translate schinese runeguardian_battle_loop_7fecda09:
-
-    # "You slam your [pc.weapon.name!t] at the guardian's head, but his magical aura repels the attack."
-    "你抡动[pc.weapon.name!t]劈向符石护卫的头部，但他的魔法屏障挡下了这一击。"
-
-translate schinese runeguardian_battle_loop_3aed010f:
-
-    # "You aim and shoot your [pc.weapon.name!t] at the guardian, but it seems to have missed."
-    "你架设[pc.weapon.name!t]飞箭射向符石护卫，可惜没有命中。"
-
-translate schinese runeguardian_battle_loop_da1015f3:
-
-    # "You throw your fist at the guardian, but you punch into the air instead."
-    "你一拳砸向符石护卫，可惜只打中了空气。"
-
-translate schinese runeguardian_battle_loop_34af9287:
-
-    # "You slash your [pc.weapon.name!t] at the arm of the Rune Guardian, your blade scraps against the stone. Some of it crack and falls off his body."
-    "你挥动[pc.weapon.name!t]划向符石护卫的手臂，电光石火之间削下了他身上一小块石头。"
-
-translate schinese runeguardian_battle_loop_b1e6fa40:
-
-    # "You slash your [pc.weapon.name!t] across the guardian's body, knocking him back a few steps. The guardian quakes silently in anger."
-    "你摆动[pc.weapon.name!t]砍向符石护卫的身体，将他挡在几步开外。符石护卫颤抖着，表达无声的愤怒。"
-
-translate schinese runeguardian_battle_loop_0e24220d:
-
-    # "You slam your [pc.weapon.name!t] at the arm of the Rune Guardian, your blade grazes against the stone. Some of it crack and falls off his body."
-    "你抡动[pc.weapon.name!t]劈向符石护卫的手臂，刀刃擦过土石，碎掉了他手臂的一部分。"
-
-translate schinese runeguardian_battle_loop_124a16cb:
-
-    # "You slam your [pc.weapon.name!t] across the guardian's body, knocking him back a few steps. The guardian quakes silently in anger."
-    "你攒动[pc.weapon.name!t]劈向符石护卫的身体，将他挡在几步开外。符石护卫颤抖着，表达无声的愤怒。"
-
-translate schinese runeguardian_battle_loop_7c6ad50c:
-
-    # "You aim and shoot your [pc.weapon.name!t] at the Rune Guardian, the arrow hits right into his arm, striking off a few rubbles."
-    "你找准时机拉动[pc.weapon.name!t]，飞箭正中符石护卫的手臂，碎掉了上面的一部分石块。"
-
-translate schinese runeguardian_battle_loop_db8f38b0:
-
-    # "You run while shooting your [pc.weapon.name!t] across the guardian's body, knocking him back a few steps. The guardian quakes silently in anger."
-    "你一边变换方位一边拉动[pc.weapon.name!t]飞箭射向符石护卫的身体，将他挡在几步开外。符石护卫颤抖着，表达无声的愤怒。"
-
-translate schinese runeguardian_battle_loop_7ebd82f2:
-
-    # "You throw your fist at the guardian, hitting him right across his body, the sheer impact strikes off a few rubbles."
-    "你一拳直击符石护卫，巨大的冲击力震掉了他身上的一些石块。"
-
-translate schinese runeguardian_battle_loop_46df7f65:
-
-    # "You punch into the guardian's stomach, knocking him back a few steps. The guardian quakes silently in anger."
-    "你一拳直击符石护卫腹部，将他挡在几步开外。符石护卫颤抖着，表达无声的愤怒。"
-
-translate schinese runeguardian_battle_loop_24bcc736:
-
-    # "His health decreases by [oa[4]] HP."
-    "他失去了 [oa[4]] 点体力。"
-
-translate schinese runeguardian_battle_loop_26f13d1d:
-
-    # "You've critically hit the guardian, dealing [oa[4]] HP!"
-    "暴击！他失去了 [oa[4]] 点体力！"
-
-translate schinese runeguardian_battle_loop_9f89fa4c:
-
-    # "You struggle against the spell, trying to break free. You dealt [oa[4]] damage to the guardian in the process, his grip has loosen as well."
-    "你极力挣扎摆脱咒语的束缚，同时对符石护卫造成了 [oa[4]] 点伤害。他松开了手掌。"
-
-translate schinese runeguardian_battle_loop_92d18f4a:
-
-    # "You struggle against the guardian as you try to reach under the guardian's crotch, trying to get a reaction from the guardian."
-    "你一边挣扎一边伸手掏弄符石护卫的胯下，意图激起他的性趣。"
-
-translate schinese runeguardian_battle_loop_58222c25:
-
-    # "The guardian instanly react with your advance, vibrating profusely with his moss. His grip is weakening as well."
-    "如此大胆的举动令符石护卫立马起了反应，他身体表面的苔藓剧烈颤抖，握力似乎减弱了几分。"
-
-translate schinese runeguardian_battle_loop_fdf9de27:
-
-    # "You turn around and rub your hand all over your own burly cheeks, feeling and brushing against your ass while you shake your hip."
-    "你慢腾腾背向符石护卫，双手盖上饱满的臀部，把玩着、抚摸着，不时左右摇摆。"
-
-translate schinese runeguardian_battle_loop_58ea5730:
-
-    # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at the Rune Guardian seductively."
-    "你深情地盯着符石护卫，伸爪轻轻爱抚自己的下体，慢慢从大腿根滑向阴囊，紧紧箍着诱人的鼓包。"
-
-translate schinese runeguardian_battle_loop_651e30ea:
-
-    # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the Rune Guardian while your chest bounce up and down slightly."
-    "你双手捧持鼓起的胸肌，手指在乳头周围画着圆圈。一边对着符石护卫微笑，一边轻轻掂量自己的厚物。"
-
-translate schinese runeguardian_battle_loop_24a12d2a:
-
-    # "You approach to the guardian closely, letting your hands wander inside the huge bush in his crotch area."
-    "接着你走近符石护卫，伸手插入他胯下的那从苔藓轻轻揉搓。"
-
-translate schinese runeguardian_battle_loop_e8fc8231:
-
-    # "You continue your act for about a minute, but the Rune Guardian doesn't even flinch."
-    "这场戏你自导自演了快一分钟，但对方完全不为所动。"
-
-translate schinese runeguardian_battle_loop_4c1908a3:
-
-    # "Disappointed, you back away before the guardian can grab a hold of you."
-    "在符石护卫抓住你之前，你失望地退回了原位。"
-
-translate schinese runeguardian_battle_loop_c294968b:
-
-    # "You cannot detect his lust on the face, but by the vibration of the moss you can deduce that he's enjoying this a lot. His lust is increased by [player_flirt]."
-    "符石护卫面无表情，但他身上的苔藓却在不断颤抖，你断定他现在非常享受。对方的性欲增加了 [player_flirt] 点。"
-
-translate schinese runeguardian_battle_loop_0686837e:
-
-    # "The guardian doesn't speak, but he is extremely distracted by your performance. His lust is increased by [player_flirt]."
-    "符石护卫无法说话，但你可以看出自己刚刚的表现极大扰乱了他的定力。对方的性欲增加了 [player_flirt] 点。"
-
-translate schinese runeguardian_battle_loop_449a6dcd:
-
-    # "As much as you try, you cannot escape from the guardian's magical aura."
-    "无论你往哪边跑，都逃不出符石护卫的魔法光晕。"
-
-translate schinese runeguardian_battle_loop_f800fe89:
-
-    # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the guardian."
-    "你耗尽了所有气力，双膝一软跪倒在地。你躺在地上大口喘息，将自己的弱点完全暴露给了符石护卫。"
-
-translate schinese runeguardian_battle_loop_41dccd4c:
-
-    # "The guardian falls with a huge thud on the ground."
-    "巨大的符石护卫轰然倒地。"
-
-translate schinese runeguardian_battle_loop_a2b396b9:
-
-    # "You don't know if your flirt worked, but it certainly works by putting down the guardian."
-    "你也不清楚你的诱惑到底作用如何，但至少扳倒了这个大块头。"
-
-translate schinese runeguardian_battle_loop_57148fc2:
-
-    # "The stone ward aims and flings 3 huge stones at you, it ignores your dodges and hit you right onto your body. Your health decreases by [ed] HP."
+    # "The Rune Guardian aims and flings 3 huge stones at you, it ignores your dodges and hit you right onto your body. Your health decreases by [ed] HP."
     "符石护卫向你投来三块巨石，你来不及躲闪而被砸了个正着，损失了 [ed] 点体力。"
 
 translate schinese runeguardian_battle_loop_8133aa7b:

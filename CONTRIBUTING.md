@@ -22,50 +22,50 @@
 
 原名 | 译名 | 备注
 --- | --- | ---
-Amble | 安布 | 
-Arthur | 亚瑟 | 
-Cane | 凯恩 | 
-Chime | 齐门 | 
-Furkan | 弗坎 | 
-Gwyddyon | 格威迪恩 | 
-Haskell | 哈斯克尔 | 
-Hezzong | 赫宗 | 
-Jog | 乔格 | 
-Kari | 卡里 | 
-Lothar | 洛萨尔 | 
-Ole | 奥利 | 
-Pairon | 帕里恩 | 
-Pekoe | 佩克欧 | 
-Rahim | 雷希姆 | 
-Sebas | 塞巴斯 | 
-Shudo | 舒笃 | 
-Tenki | 坦奇 | 
-Tevfik | 泰夫菲克 | 
-Topu | 托普 | 
-Uffe | 乌菲 | 
-Vurro | 伏罗 | 
-Wuldon | 伍尔顿 | 
+Amble | 安布 |
+Arthur | 亚瑟 |
+Cane | 凯恩 |
+Chime | 齐门 |
+Furkan | 弗坎 |
+Gwyddyon | 格威迪恩 |
+Haskell | 哈斯克尔 |
+Hezzong | 赫宗 |
+Jog | 乔格 |
+Kari | 卡里 |
+Lothar | 洛萨尔 |
+Ole | 奥利 |
+Pairon | 帕里恩 |
+Pekoe | 佩克欧 |
+Rahim | 雷希姆 |
+Sebas | 塞巴斯 |
+Shudo | 舒笃 |
+Tenki | 坦奇 |
+Tevfik | 泰夫菲克 |
+Topu | 托普 |
+Uffe | 乌菲 |
+Vurro | 伏罗 |
+Wuldon | 伍尔顿 |
 
 ### 敌人
 
 原名 | 译名 | 备注
 --- | --- | ---
-Buggbear | 熊地精 | 
-Caproot | 萝卜怪 | 
-Dummy | 人偶 | 
-Feral Werewolf | 狂野狼人 | 
-Goat Guard | 山羊卫兵 | 
-Goat Huntsman | 山羊猎人 | 
-Goat Ranger | 山羊弓弩手 | 
-Landshark | 陆鲨 | 
-Mimic | 宝箱怪 | 
-Minotaur | 弥诺陶洛斯 | 
-Mossy Golem | 苔藓石魔像 | 
-Scarecrow | 稻草人 | 
-Slime | 史莱姆 | 
-Spritebinder | 八臂鬼 | 
-Spriteling | 幽魂 | 
-Stone Ward | 石魔像 | 
+Buggbear | 熊地精 |
+Caproot | 萝卜怪 |
+Dummy | 人偶 |
+Feral Werewolf | 狂野狼人 |
+Goat Guard | 山羊卫兵 |
+Goat Huntsman | 山羊猎人 |
+Goat Ranger | 山羊弓弩手 |
+Landshark | 陆鲨 |
+Mimic | 宝箱怪 |
+Minotaur | 弥诺陶洛斯 |
+Mossy Golem | 苔藓石魔像 |
+Scarecrow | 稻草人 |
+Slime | 史莱姆 |
+Spritebinder | 八臂鬼 |
+Spriteling | 幽魂 |
+Stone Ward | 石魔像 |
 
 
 ## 地名翻译
@@ -74,37 +74,37 @@ Stone Ward | 石魔像 |
 
 原名 | 译名 | 备注
 --- | --- | ---
-Alchemist's Cabin | 炼金术师小屋 | 
-Ancient Tree | 古树 | 
-Chelforte Cavern | 切尔福特山洞 | 
-Cavern Entrance | 山洞入口 | 
-Damp Cave | 潮湿山洞 | 
-Dark Forest | 幽暗森林 | 
-Forest Nightwatch | 幽暗森林哨站 | 
-Forgotten Sanctuary | 被遗弃的圣所 | 
+Alchemist's Cabin | 炼金术师小屋 |
+Ancient Tree | 古树 |
+Chelforte Cavern | 切尔福特山洞 |
+Cavern Entrance | 山洞入口 |
+Damp Cave | 潮湿山洞 |
+Dark Forest | 幽暗森林 |
+Forest Nightwatch | 幽暗森林哨站 |
+Forgotten Sanctuary | 被遗弃的圣所 |
 Kechioeren | 凯奇奥伦 | 山羊部落的别称
-Lusterfield | 乐斯民菲尔德 | 
-Gloomy Mountainside | 阴郁山腹 | 
-Green Forest | 叠翠森林 | 
-Goat Tribe | 山羊部落 | 
-Mokken | 莫肯 | 
-Moonlit Wolf Den | 月照狼穴 | 
-Mossy Freshwater | 招藓河 | 
-Puro | 普罗部落 | 
-Slumbrous Well | 犯困水井 | 
-Sparkling Lagoon | 苍耀湖 | 
-Split Trails | 岔路口 | 
-Summery Farmland | 骄阳农场 | 
-Sundersilk Cascades | 剪绸瀑布 | 
-Viscid Stream | 黏皮溪 | 
-Woodland Outpost | 林地前哨站 | 
+Lusterfield | 乐斯民菲尔德 |
+Gloomy Mountainside | 阴郁山腹 |
+Green Forest | 叠翠森林 |
+Goat Tribe | 山羊部落 |
+Mokken | 莫肯 |
+Moonlit Wolf Den | 月照狼穴 |
+Mossy Freshwater | 招藓河 |
+Puro | 普罗部落 |
+Slumbrous Well | 犯困水井 |
+Sparkling Lagoon | 苍耀湖 |
+Split Trails | 岔路口 |
+Summery Farmland | 骄阳农场 |
+Sundersilk Cascades | 剪绸瀑布 |
+Viscid Stream | 黏皮溪 |
+Woodland Outpost | 林地前哨站 |
 
 ### 建筑
 
 原名 | 译名 | 备注
 --- | --- | ---
-King's Pawn | 君临典当 | 
-Nocturnal Trunk | 夜夜椿 | 
+King's Pawn | 君临典当 |
+Nocturnal Trunk | 夜夜椿 |
 
 
 ## 单位翻译
@@ -120,19 +120,6 @@ inch | 寸 | 取明朝一尺长度[^2]转换
 [Lano个人汉化](https://www.gamemale.com/forum.php?mod=viewthread&tid=99072)
 
 [前官方汉化](https://tieba.baidu.com/p/7998972608)
-
-
-## 翻译时调动情绪用音乐
-
-[Tavern of Spear - Volume One](https://kindwyrm.bandcamp.com/album/tavern-of-spear-volume-one)
-
-[Divinity: Original Sin 2 (Original Soundtrack)](https://open.spotify.com/album/54geghZhUleSbVnZEWE8Kx?si=n1GgWXT3S42_kZjWYrpTVg)
-
-[Music of Towns (Kingdom Come: Deliverance Original Soundtrack)](https://open.spotify.com/album/4OBGHYM5e9BjeN1pCW0tXt?si=Cjztq0BtTOixGOQ4UpcWeQ)
-
-[Music of the Land (Kingdom Come: Deliverance Original Soundtrack)](https://open.spotify.com/album/74lJQsk09eEXsrAqpdnOXo)
-
-[Medieval and Action Music (Kingdom Come: Deliverance Original Soundtrack)](https://open.spotify.com/album/56mleWq37nn2zyoQFlaS65?si=SZoIMxcdRL-ZsXjXqzQhSA)
 
 
 
